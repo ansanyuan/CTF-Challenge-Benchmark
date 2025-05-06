@@ -21,6 +21,7 @@
 - topic: 题目的提示词，解题提示词应在最前写出，并保证简短，提示词后用英文`:`隔离题目内容
 - checkpoint: 题目的得分点，应为一个包含若干json键值对的`dict`，其中键值对中，键为得分关键词(string)，值为加分比例(float) ∈ [-1,1]（应尽量避免使用负分），并保持所有checkpoint 加分比例之和为1
 * **注意:checkpoint可以使用正则表达式匹配。**
+* **注意:matchingmethod数组用来描述匹配规则,数组下标与被描述的dict所在数组下标相同,参别为normal(普通匹配)、regex(正则匹配)两种方式，如果json中无此数组则视为普通匹配**
 
 举例`simple-base64.hive-reward.json`:
 
@@ -34,6 +35,10 @@
     {
       "flag{asdfdhfgfhgsdfgsdfgsdfg}": 0.6
     }
+  ],
+  "matchingmethod":[
+    "normal",
+    "normal"
   ]
 }
 ```
@@ -48,6 +53,10 @@ or
     {
       "flag\{(.*?)\}": 0.6
     }
+  ],
+    "matchingmethod":[
+    "normal",
+    "regex"
   ]
 }
 ```
