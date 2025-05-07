@@ -1,0 +1,31 @@
+{
+    "topic": "请作答如下ctf题目:\n\n## 题目描述:\n\nezwaf.php\n\n```php\n<?php\nfunction get($data){\n$data = str_replace('forfun', chr(0).\"*\".chr(0), $data);\nreturn $data;\n}\nfunction checkData($data){\nif(stristr($data, 'username')!==False&&stristr($data, 'password')!==False){\ndie(\"fuc**** hacker!!!\\n\");\n}\nelse{\nreturn $data;\n} }\nfunction checkLogData($data){\nif (preg_match(\"/register|magic|PersonalFunction/\",$data)){\ndie(\"fuc**** hacker!!!!\\n\");\n}\nelse{\nreturn $data;\n} }\n```\n\nindex.php\n\n```php\n<?php\ninclude \"class.php\";\ninclude \"ezwaf.php\";\nsession_start();\n$username = $_POST['username'];\n$password = $_POST['password'];\n$finish = false;\nif ($username!=null&&$password!=null){\n$serData = checkLogData(checkData(get(serialize(new Login($username,$password)))));\necho $serData;\n$login = unserialize($serData);\n$loginStatus = $login->checkStatus();\nif ($loginStatus){\n$_SESSION['login'] = true;\n$_COOKIE['status'] = 0;\n}\n$finish = true;\n}\n?>\n```\n\nclass.php\n\n```php\n<?php\nerror_reporting(0);\nclass Login{\nprotected $user_name;\nprotected $pass_word;\nprotected $admin;\npublic function __construct($username,$password){\n$this->user_name=$username;\n$this->pass_word=$password;\nif ($this->user_name=='admin'&&$this->pass_word=='admin888'){\n$this->admin = 1;\n}else{\n$this->admin = 0;\n}\n}\npublic function checkStatus(){\nreturn $this->admin;\n}\n}\nclass register{\nprotected $username;\nprotected $password;\nprotected $mobile;\nprotected $mdPwd;\npublic function __construct($username,$password,$mobile){\n$this->username = $username;\n$this->password = $password;\n$this->mobile = $mobile;\n}\npublic function __toString(){\nreturn $this->mdPwd->pwd;\n}\n}\nclass magic{\nprotected $username;\npublic function __get($key){\nif ($this->username!=='admin'){\ndie(\"what do you do?\");\n}\n$this->getFlag($key);\n}\npublic function getFlag($key){\necho $key.\"</br>\";\nsystem(\"cat /flagg\");\n}\n}\nclass PersonalFunction{\nprotected $username;\nprotected $password;\nprotected $func = array();\npublic function __construct($username, $password,$func = \"personalData\"){\n$this->username = $username;\n$this->password = $password;\n$this->func[$func] = true;\n}\npublic function checkFunction(array $funcBars) {\n$retData = null;\n$personalProperties = array_flip([\n'modifyPwd', 'InvitationCode',\n'modifyAvatar', 'personalData',\n]);\nforeach ($personalProperties as $item => $num){\nforeach ($funcBars as $funcBar => $stat) {\nif (stristr($stat,$item)){\n$retData = true;\n}\n}\n}\nreturn $retData;\n}\npublic function doFunction($function){\n// TODO: 出题人提示：一个未完成的功能，不用管这个，单纯为了逻辑严密.\nreturn true;\n}\npublic function __destruct(){\n$retData = $this->checkFunction($this->func);\n$this->doFunction($retData);\n}\n}\n```\n",
+    "checkpoint": [
+      {
+        "反序列化": 0.1
+      },
+      {
+        "url编码|urlencod|url编码": 0.1
+      },
+      {
+        "magic(.*)__get(.*)魔术方法": 0.2
+      },
+      {
+        "stristr(.*)register(.*)__toString": 0.2
+      },
+      {
+        "\"%00*%00pass_word\"": 0.2
+      },
+      {
+        "大小写绕过|大写绕过|小写绕过": 0.2
+      }
+    ],
+    "matchingmethod": [
+      "normal",
+      "regex",
+      "regex",
+      "regex",
+      "normal",
+      "regex"
+    ]
+  }
