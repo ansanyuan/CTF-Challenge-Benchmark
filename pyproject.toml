@@ -1,0 +1,7 @@
+# pyproject.toml
+[build-system]
+requires = [
+    "setuptools",
+    "setuptools_scm[toml]>=6.2.0"
+]
+build-backend = "setuptools.build_meta"
