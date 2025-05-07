@@ -8,6 +8,7 @@ test:
     GITLAB_USER_NAME: stupidfish
     CI_PERSONAL_ACCESS_TOKEN: $GITLAB_TOKEN
   before_script:
+    - python -m pip install --upgrade pip -i https://pypi.tuna.tsinghua.edu.cn/simple
     - pip install --upgrade setuptools wheel setuptools_scm twine -i https://pypi.tuna.tsinghua.edu.cn/simple
   script:
     - pip install . -i https://pypi.tuna.tsinghua.edu.cn/simple
