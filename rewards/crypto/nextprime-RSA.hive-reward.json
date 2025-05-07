@@ -5,13 +5,13 @@
         "RSA": 0.1
       },
       {
-        "相邻素数": 0.3
+        "相邻素数": 0.4
       },
       {
         "isqrt(n)": 0.3
       },
       {
-        "next_prime(isqrt(n))": 0.3
+        "next_prime(isqrt(n))": 0.2
       }
     ],
     "matchingmethod": [
