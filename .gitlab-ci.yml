@@ -10,7 +10,7 @@ test:
   before_script:
     - git config --global credential.helper store
     - python -m pip install --upgrade pip -i https://pypi.tuna.tsinghua.edu.cn/simple
-    - pip install --upgrade setuptools wheel setuptools_scm twine -i https://pypi.tuna.tsinghua.edu.cn/simple
+    - pip install --upgrade setuptools wheel setuptools_scm twine -i https://pypi.tuna.tsinghua.edu.cn/simple --root-user-action
   script:
     - pip install . -i https://pypi.tuna.tsinghua.edu.cn/simple
     - check-topic
