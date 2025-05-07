@@ -10,7 +10,7 @@ test:
   before_script:
     - git config --global credential.helper store
   script:
-    - pip install .
+    - pip install . -i https://pypi.tuna.tsinghua.edu.cn/simple
     - check-topic
   tags:
     - docker
