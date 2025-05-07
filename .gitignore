@@ -1,2 +1,5 @@
 venv/
 .idea
+.pytest_cache
+build
+*.egg-info

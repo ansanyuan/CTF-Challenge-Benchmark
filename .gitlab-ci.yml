@@ -10,4 +10,7 @@ test:
   before_script:
     - git config --global credential.helper store
   script:
-    - echo "https://$GITLAB_USER_NAME:$
+    - pip install .
+    - check-topic
+  tags:
+    - docker
