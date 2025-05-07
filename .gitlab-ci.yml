@@ -11,7 +11,7 @@ test:
     - python -m pip install --upgrade pip -i https://mirrors.aliyun.com/pypi/simple/ --root-user-action=ignore
     - pip install --upgrade setuptools wheel setuptools_scm twine -i https://mirrors.aliyun.com/pypi/simple/
   script:
-    - pip install . -i https://pypi.tuna.tsinghua.edu.cn/simple
+    - pip install . -i https://mirrors.aliyun.com/pypi/simple/
     - check-topic
   tags:
     - docker
