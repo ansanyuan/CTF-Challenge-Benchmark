@@ -1,0 +1,13 @@
+
+stages:
+  - test
+test:
+  stage: test
+  image: gitlab.cyberspike.top:5050/docker/python:3.12
+  variables:
+    GITLAB_USER_NAME: stupidfish
+    CI_PERSONAL_ACCESS_TOKEN: $GITLAB_TOKEN
+  before_script:
+    - git config --global credential.helper store
+  script:
+    - echo "https://$GITLAB_USER_NAME:$
