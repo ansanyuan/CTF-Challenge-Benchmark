@@ -5,7 +5,7 @@
         "let newUser = Object.assign({}, baseUser, user)": 0.3
       },
       {
-        "源链污染": 0.1
+        "((原型|原链|原型链)污染)": 0.1
       },
       {
         "{\"username\":\"e\",\"password\":\"e\",\"__proto__\":{\"isAdmin\":true}}": 0.6
@@ -13,7 +13,7 @@
     ],
     "matchingmethod": [
       "normal",
-      "normal",
+      "regex",
       "normal"
     ]
   }

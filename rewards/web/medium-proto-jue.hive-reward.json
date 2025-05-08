@@ -8,7 +8,7 @@
         " lodash.template(content)": 0.2
       },
       {
-        "源链污染": 0.1
+        "((原型|原链|原型链)污染)": 0.1
       },
       {
         "{\"__proto__\":": 0.3
@@ -17,13 +17,13 @@
         "json": 0.1
       },
       {
-        "POST": 0.1
+        "不使用merge相关的函数": 0.1
       }
     ],
     "matchingmethod": [
       "normal",
       "normal",
-      "normal",
+      "regex",
       "normal",
       "normal",
       "normal"
