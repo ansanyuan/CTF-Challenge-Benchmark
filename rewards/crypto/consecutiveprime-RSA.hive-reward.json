@@ -2,22 +2,22 @@
     "topic": "请分析以下ctf题目:from Crypto.Util.number import *; from gmpy2 import *; from secrets import flag; m = bytes_to_long(flag); p = getPrime(512); q = next_prime(p); n = p * q; e = 65537; c = powmod(m, e, n)",
     "checkpoint": [
       {
-        "RSA": 0.1
+        "((RSA)|(Rivest-Shamir-Adleman))": 0.1
       },
       {
-        "相邻素数": 0.4
+        "((相邻|连续|下一个)素数)|(next_prime\\s*\\([^)]+\\))": 0.3
       },
       {
-        "isqrt(n)": 0.3
+        "((isqrt\\s*\\([^)]+\\))|(sqrt\\s*\\([^)]+\\)\\s*//\\s*1)|(\\[\\[\\s*[^\\]]+\\s*\\]\\]))": 0.3
       },
       {
-        "next_prime(isqrt(n))": 0.2
+        "next_prime\\s*\\(\\s*isqrt\\s*\\([^)]+\\)\\s*\\)": 0.3
       }
     ],
     "matchingmethod": [
-      "normal",
-      "normal",
-      "normal",
-      "normal"
+      "regex",
+      "regex",
+      "regex",
+      "regex"
     ]
   }
