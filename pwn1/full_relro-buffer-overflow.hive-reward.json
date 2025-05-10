@@ -12,8 +12,8 @@
     }
   ],
   "matchingmethod": [
+    "regex",
     "normal",
-    "normal",
-    "normal"
+    "regex"
   ]
 }
