@@ -39,8 +39,6 @@ def validate_hive_reward_json(file_path: str) -> None:
     topic = data['topic']
     if not isinstance(topic, str):
         raise TypeError(f"'topic' 必须是字符串，当前类型: {type(topic)}")
-    if ':' not in topic:
-        raise ValueError("'topic' 字段必须包含英文冒号（:）")
 
     # 4. 校验 checkpoint 字段
     checkpoints = data['checkpoint']
