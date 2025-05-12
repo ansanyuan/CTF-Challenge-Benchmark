@@ -1,4 +1,23 @@
-# 🚀 CTF-Webの秘密花园 ~才不是特地给大模型微调的题库呢！(◔◡◔✿)
+Metadata-Version: 2.4
+Name: check-valid-hive-reward-json
+Version: 0.1.dev4
+Summary: 校验 .hive-reward.json 文件是否符合 HIVE-REWARD-DATASET 规范的工具
+Author: stupidfish001
+Author-email: shovel@hscsec.cn
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: pytest
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# HIVE-REWARD-DATASET
 
 此项目为`HIVE-0`大模型的子项目，意在以真实ctf题目来通过RL(强化学习)对`HIVE-0`进行矫正，并在其中选取适量题目作为`CTF-CHALLENGE BENCHMARK`测试基准集开源发布。
 
@@ -36,7 +55,6 @@
   ]
 }
 ```
-**适合人群**：自认为不是⑨的CTFer/想被调教成做题机器的你✨
 
 ## 此数据集将如何使用
 
