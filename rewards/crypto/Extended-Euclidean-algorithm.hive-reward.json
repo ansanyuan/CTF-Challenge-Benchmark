@@ -1,0 +1,19 @@
+{
+    "topic": " 请分析如下 ctf 题目: from Crypto.Util.number import ; flag = b'*****'; m1 = bytes_to_long(flag[:len(flag)//2]); m2 = bytes_to_long(flag[len(flag)//2:]); assert 18608629446895353521310408885845687520013234781800558m1 - 14258810472138345414555137649316815272478951117940067m2 == 1",
+    "checkpoint": [
+        {
+            "((裴蜀定理)|(贝祖定理)|(Bézout's\\s*identity)|(拓展欧几里得算法)|(扩展欧几里得算法)|(extended\\s*Euclidean\\s*algorithm))": 0.5
+        },
+        {
+            "((可能存在多组解)|(multiple\\s*solutions\\s*exist)|(infinite\\s*solutions\\s*possible)|(贝祖方程的通解))": 0.3
+        },
+        {
+            "((通过遍历找到flag)|(brute-force\\s*search\\s*for\\s*flag)|(iterate\\s*to\\s*find\\s*valid\\s*m1\\s*and\\s*m2))": 0.2
+        }
+    ],
+    "matchingmethod": [
+        "regex",
+        "regex",
+        "regex"
+    ]
+}
