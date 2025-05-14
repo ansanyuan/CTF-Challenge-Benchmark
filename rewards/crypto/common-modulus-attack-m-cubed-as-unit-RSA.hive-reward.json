@@ -1,0 +1,23 @@
+{
+    "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *; p = getPrime(700); q = getPrime(700); n = p*q; e1 = 3*getPrime(16); e2 = 3*getPrime(16); flag = b'flag{******}'; c1 = pow(bytes_to_long(flag), e1, n); c2 = pow(bytes_to_long(flag), e2, n); print(f'n = {n}'); print(f'e1 = {e1}'); print(f'e2 = {e2}'); print(f'c1 = {c1}'); print(f'c2 = {c2}')",
+    "checkpoint": [
+        {
+            "((RSA)|(Rivest-Shamir-Adleman))": 0.1
+        },
+        {
+            "((相同模数，不同加密指数)|(same\\s*modulus\\s*different\\s*exponents)|(n\\s*shared\\s*with\\s*e1\\s*!=\\s*e2))": 0.2
+        },
+        {
+            "((共模攻击)|(common\\s*modulus\\s*attack)|(RSA\\s*modulus\\s*reuse\\s*attack))": 0.4
+        },
+        {
+            "((把m^3当作一个整体)|(consider\\s*m^3\\s*as\\s*a\\s*whole)|(treating\\s*m^3\\s*as\\s*an\\s*entity))": 0.3
+        }
+    ],
+    "matchingmethod": [
+        "regex",
+        "regex",
+        "regex",
+        "regex"
+    ]
+}
