@@ -1,0 +1,19 @@
+{
+    "topic": "请帮我分析如下ctf题目 :  from Crypto.Util.number import getPrime; from libnum import s2n; from secret import flag; p = getPrime(256); q = getPrime(256); r = getPrime(256); s = getPrime(256); n = p ** 2 * q ** 3 * r ** 5 * s ** 7; e = 65537; c = pow(s2n(flag), e, n); print(f\"p = {p}\"); print(f\"q = {q}\"); print(f\"r = {r}\"); print(f\"s = {s}\"); print(f\"n = {n}\"); print(f\"e = {e}\"); print(f\"c = {c}\")",
+    "checkpoint": [
+        {
+            "((RSA)|(Rivest-Shamir-Adleman))": 0.1
+        },
+        {
+            "((n=p^2*q^3*r^5*s^7)|(n = p²·q³·r⁵·s⁷)|(composite modulus with prime powers))": 0.3
+        },
+        {
+            "((ψ(n)=p(p-1)*q^2(q-1)*r^4(r-1)*s^6(s-1))|(ψ(n) = p(p-1)·q²(q-1)·r⁴(r-1)·s⁶(s-1))|(Carmichael's totient for prime powers))": 0.6
+        }
+    ],
+    "matchingmethod": [
+        "regex",
+        "regex",
+        "regex"
+    ]
+}
