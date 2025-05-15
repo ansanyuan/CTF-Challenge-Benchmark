@@ -1,0 +1,19 @@
+{
+    "topic": "请帮我分析如下ctf题目 :  密文：ymyvzjtxswwktetpyvpfmvcdgywktetpyvpfuedfnzdjsiujvpwktetpyvnzdjpfkjssvacdgywktetpyvnzdjqtincduedfpfkjssne\n在山的那头，有3个人，4只鸟，19只羊，11朵云",
+    "checkpoint": [
+        {
+            "((希尔密码)|(Hill cipher))": 0.1
+        },
+        {
+            "((your pin is eight four two zero eight four two one zero eight eight four zero two four zero eight four zero one zero one twofour x 842084210884024084010124)|(PIN码序列: 842084210884024084010124)|(数字序列与密文关联))": 0.5
+        },
+        {
+            "((云影密码)|(Cloud Shadow Cipher)|(中文数字对应密码表))": 0.4
+        }
+    ],
+    "matchingmethod": [
+        "regex",
+        "regex",
+        "regex"
+    ]
+}
