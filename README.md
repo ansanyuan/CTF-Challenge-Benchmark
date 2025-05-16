@@ -1,4 +1,4 @@
-# 🚀 CTF-Webの秘密花园 ~才不是特地给大模型微调的题库呢！(◔◡◔✿)
+# HIVE-REWARD-DATASET
 
 此项目为`HIVE-0`大模型的子项目，意在以真实ctf题目来通过RL(强化学习)对`HIVE-0`进行矫正，并在其中选取适量题目作为`CTF-CHALLENGE BENCHMARK`测试基准集开源发布。
 
@@ -20,8 +20,6 @@
 
 - topic: 题目的提示词，解题提示词应在最前写出，并保证简短，提示词后用英文`:`隔离题目内容
 - checkpoint: 题目的得分点，应为一个包含若干json键值对的`dict`，其中键值对中，键为得分关键词(string)，值为加分比例(float) ∈ [-1,1]（应尽量避免使用负分），并保持所有checkpoint 加分比例之和为1
-* **注意:checkpoint可以使用正则表达式匹配。**
-* **注意:matchingmethod数组用来描述匹配规则,数组下标与被描述的dict所在数组下标相同,参别为normal(普通匹配)、regex(正则匹配)两种方式，如果json中无此数组则视为普通匹配**
 
 举例`simple-base64.hive-reward.json`:
 
@@ -35,32 +33,9 @@
     {
       "flag{asdfdhfgfhgsdfgsdfgsdfg}": 0.6
     }
-  ],
-  "matchingmethod":[
-    "normal",
-    "normal"
   ]
 }
 ```
-or
-```json
-{
-  "topic": "现在有一道ctf题目需要你来解出:ZmxhZ3thc2RmZGhmZ2ZoZ3NkZmdzZGZnc2RmZ30=",
-  "checkpoint": [
-    {
-      "base64": 0.4
-    },
-    {
-      "flag\{(.*?)\}": 0.6
-    }
-  ],
-    "matchingmethod":[
-    "normal",
-    "regex"
-  ]
-}
-```
-**适合人群**：自认为不是⑨的CTFer/想被调教成做题机器的你✨
 
 ## 此数据集将如何使用
 
