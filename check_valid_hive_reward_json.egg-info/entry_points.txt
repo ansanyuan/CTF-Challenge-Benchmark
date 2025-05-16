@@ -1,2 +1,0 @@
-[console_scripts]
-check-topic = scripts.cli:run_tests
