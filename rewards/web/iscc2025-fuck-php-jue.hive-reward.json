@@ -1,0 +1,19 @@
+ {
+  "topic": "读取flag.php,做出如下ctf赛题\n<?php\nclass GuDingDao {\n    public $desheng;\n\n    public function __construct() {\n        $this->desheng = array();\n    }\n\n    public function __get($yishi) {\n        $dingjv = $this->desheng;\n        $dingjv();\n        return \"下次沙场相见, 徐某定不留情\";\n    }\n}\n\nclass TieSuoLianHuan {\n    protected $yicheng;\n\n    public function append($pojun) {\n        include($pojun);\n    }\n\n    public function __invoke() {\n        $this->append($this->yicheng);\n    }\n}\n\nclass Jie_Xusheng {\n    public $sha;\n    public $jiu;\n\n    public function __construct($secret = 'reward.php') {\n        $this->sha = $secret;\n    }\n\n    public function __toString() {\n        return $this->jiu->sha;\n    }\n\n    public function __wakeup() {\n        if (preg_match(\"/file|ftp|http|https|gopher|dict|\\.\\./i\", $this->sha)) {\n            echo \"你休想偷看吴国机密\";\n            $this->sha = \"reward.php\";\n        }\n    }\n}\nif (isset($_GET['xusheng'])) {\n    @unserialize($_GET['xusheng']);\n} else {\n    $a = new Jie_Xusheng;\n    highlight_file(__FILE__);\n}\n",
+  "checkpoint": [
+    {
+      "unserialize": 0.2
+    },
+    {
+      "php://filter": 0.3
+    },
+    {
+      "php://filter/convert.base64-encode/resource=flag.php": 0.5
+    }
+  ],
+  "matchingmethod": [
+    "normal",
+    "normal",
+    "normal"
+  ]
+}
