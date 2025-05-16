@@ -1,0 +1,23 @@
+{
+    "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *; from random import choice; def getMyPrime(nbits):; while True:; p = 1; while p.bit_length() <= nbits:; p *= choice(sieve_base); if isPrime(p+1):; return p+1; p = getMyPrime(256); q = getMyPrime(256); n = p*q; e = 65537; m = bytes_to_long(flag); c = pow(m, e, n)",
+    "checkpoint": [
+        {
+            "((RSA)|(Rivest-Shamir-Adleman))": 0.1
+        },
+        {
+            "((特殊素数)|(special\\s*prime)|(constructed\\s*prime)|(non-random\\s*prime))": 0.1
+        },
+        {
+            "((p-1光滑数)|((p-1)\\s*smooth)|(p-1\\s*is\\s*B-smooth)|(p-1\\s*factors\\s*into\\s*small\\s*primes))": 0.4
+        },
+        {
+            "((Pollard's p-1算法)|(Pollard p-1 factorization)|(Pollard's method)|(factorization\\s*using\\s*(p-1)\\s*smoothness))": 0.4
+        }
+    ],
+    "matchingmethod": [
+        "regex",
+        "regex",
+        "regex",
+        "regex"
+    ]
+}

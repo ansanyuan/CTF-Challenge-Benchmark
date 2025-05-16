@@ -1,0 +1,23 @@
+{
+    "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import getPrime,bytes_to_long; from sympy import Derivative; from fractions import Fraction; from secret import flag; p=getPrime(1024); q=getPrime(1024); e=65537; n=p*q; z=Fraction(1,Derivative(arctan(p),p))-Fraction(1,Derivative(arth(q),q)); m=bytes_to_long(flag); c=pow(m,e,n); print(c,z,n)",
+    "checkpoint": [
+        {
+            "((RSA)|(Rivest-Shamir-Adleman))": 0.1
+        },
+        {
+            "((z + 2 * n = (p+q)^2)|(z + 2n = (p + q)²)|(sum of primes identity))": 0.4
+        },
+        {
+            "((z - 2 * n = (p-q)^2)|(z - 2n = (p - q)²)|(difference of primes identity))": 0.4
+        },
+        {
+            "((p = ((p+q) + (p-q)) // 2|phi = n - (p+1) + 1)|(compute p from sum and difference)|(derive phi from p and q))": 0.1
+        }
+    ],
+    "matchingmethod": [
+        "regex",
+        "regex",
+        "regex",
+        "regex"
+    ]
+}
