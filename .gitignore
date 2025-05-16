@@ -4,3 +4,5 @@ venv/
 build
 *.egg-info
 tmp
+.vscode
+.pytest_cache
