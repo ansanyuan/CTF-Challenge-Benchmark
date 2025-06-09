@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Find the least positive integer $k$ for which the equation $\\left\\lfloor\\frac{2002}{n}\\right\\rfloor=k$ has no integer solutions for $n$ . (The notation $\\lfloor x\\rfloor$ means the greatest integer less than or equal to $x$ .)",
+    "checkpoint": [
+        {
+            "49": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：There is a set of 1000 switches, each of which has four positions, called $A, B, C$ , and $D$ .  When the position of any switch changes, it is only from $A$ to $B$ , from $B$ to $C$ , from $C$ to $D$ , or from $D$ to $A$ .  Initially each switch is in position $A$ .  The switches are labeled with the 1000 different integers $(2^{x})(3^{y})(5^{z})$ , where $x, y$ , and $z$ take on the values $0, 1, \\ldots, 9$ .  At step $i$ of a 1000-step process, the $i$ -th switch is advanced one step, and so are all the other switches whose labels divide the label on the $i$ -th switch.  After step 1000 has been completed, how many switches will be in position $A$ ?",
+    "checkpoint": [
+        {
+            "650": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

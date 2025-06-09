@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Mary told John her score on the American High School Mathematics Examination (AHSME), which was over $80$ . From this, John was able to determine the number of problems Mary solved correctly. If Mary's score had been any lower, but still over $80$ , John could not have determined this. What was Mary's score? (Recall that the AHSME consists of $30$ multiple choice problems and that one's score, $s$ , is computed by the formula $s=30+4c-w$ , where $c$ is the number of correct answers and $w$ is the number of wrong answers. Students are not penalized for problems left unanswered.)",
+    "checkpoint": [
+        {
+            "119": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

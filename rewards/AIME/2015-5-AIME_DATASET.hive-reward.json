@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Two unit squares are selected at random without replacement from an $n \\times n$ grid of unit squares. Find the least positive integer $n$ such that the probability that the two selected unit squares are horizontally or vertically adjacent is less than $\\frac{1}{2015}$ .",
+    "checkpoint": [
+        {
+            "90": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

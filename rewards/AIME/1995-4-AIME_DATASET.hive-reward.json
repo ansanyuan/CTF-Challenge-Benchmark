@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Circles of radius $3$ and $6$ are externally tangent to each other and are internally tangent to a circle of radius $9$ . The circle of radius $9$ has a chord that is a common external tangent of the other two circles. Find the square of the length of this chord.",
+    "checkpoint": [
+        {
+            "224": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

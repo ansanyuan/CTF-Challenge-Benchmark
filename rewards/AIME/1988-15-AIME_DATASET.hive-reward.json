@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：In an office at various times during the day, the boss gives the secretary a letter to type, each time putting the letter on top of the pile in the secretary's in-box. When there is time, the secretary takes the top letter off the pile and types it. There are nine letters to be typed during the day, and the boss delivers them in the order 1, 2, 3, 4, 5, 6, 7, 8, 9. While leaving for lunch, the secretary tells a colleague that letter 8 has already been typed, but says nothing else about the morning's typing. The colleague wonders which of the nine letters remain to be typed after lunch and in what order they will be typed. Based upon the above information, how many such after-lunch typing orders are possible? (That there are no letters left to be typed is one of the possibilities.)",
+    "checkpoint": [
+        {
+            "704": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

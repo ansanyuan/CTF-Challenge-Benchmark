@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：A circle with diameter $\\overline{PQ}\\,$ of length 10 is internally tangent at $P^{}_{}$ to a circle of radius 20. Square $ABCD\\,$ is constructed with $A\\,$ and $B\\,$ on the larger circle, $\\overline{CD}\\,$ tangent at $Q\\,$ to the smaller circle, and the smaller circle outside $ABCD\\,$ . The length of $\\overline{AB}\\,$ can be written in the form $m + \\sqrt{n}\\,$ , where $m\\,$ and $n\\,$ are integers. Find $m + n\\,$ .",
+    "checkpoint": [
+        {
+            "312": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

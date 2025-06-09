@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Five towns are connected by a system of roads. There is exactly one road connecting each pair of towns. Find the number of ways there are to make all the roads one-way in such a way that it is still possible to get from any town to any other town using the roads (possibly passing through other towns on the way). ",
+    "checkpoint": [
+        {
+            "544": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

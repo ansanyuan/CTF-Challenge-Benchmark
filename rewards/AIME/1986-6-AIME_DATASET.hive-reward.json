@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：The pages of a book are numbered $1_{}^{}$ through $n_{}^{}$ . When the page numbers of the book were added, one of the page numbers was mistakenly added twice, resulting in an incorrect sum of $1986_{}^{}$ . What was the number of the page that was added twice?",
+    "checkpoint": [
+        {
+            "33": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

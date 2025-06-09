@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Determine the value of $ab$ if $\\log_8a+\\log_4b^2=5$ and $\\log_8b+\\log_4a^2=7$ .",
+    "checkpoint": [
+        {
+            "512": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

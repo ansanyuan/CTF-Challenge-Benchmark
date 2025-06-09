@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Recall that a palindrome is a number that reads the same forward and backward. Find the greatest integer less than $1000$ that is a palindrome both when written in base ten and when written in base eight, such as $292 = 444_{\\text{eight}}.$",
+    "checkpoint": [
+        {
+            "585": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

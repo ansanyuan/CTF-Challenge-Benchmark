@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Abe can paint the room in 15 hours, Bea can paint 50 percent faster than Abe, and Coe can paint twice as fast as Abe. Abe begins to paint the room and works alone for the first hour and a half. Then Bea joins Abe, and they work together until half the room is painted. Then Coe joins Abe and Bea, and they work together until the entire room is painted. Find the number of minutes after Abe begins for the three of them to finish painting the room.",
+    "checkpoint": [
+        {
+            "334": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

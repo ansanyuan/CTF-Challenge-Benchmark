@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：The sequence $\\{a_n\\}$ is defined by \\[a_0 = 1,a_1 = 1, \\text{ and } a_n = a_{n - 1} + \\frac {a_{n - 1}^2}{a_{n - 2}}\\text{ for }n\\ge2.\\] The sequence $\\{b_n\\}$ is defined by \\[b_0 = 1,b_1 = 3, \\text{ and } b_n = b_{n - 1} + \\frac {b_{n - 1}^2}{b_{n - 2}}\\text{ for }n\\ge2.\\] Find $\\frac {b_{32}}{a_{32}}$ .",
+    "checkpoint": [
+        {
+            "561": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

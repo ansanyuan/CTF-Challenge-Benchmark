@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：A hexagon is inscribed in a circle. Five of the sides have length 81 and the sixth, denoted by $\\overline{AB}$ , has length 31. Find the sum of the lengths of the three diagonals that can be drawn from $A_{}^{}$ .",
+    "checkpoint": [
+        {
+            "384": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

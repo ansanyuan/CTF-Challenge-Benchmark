@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Find the number of positive integers $n$ less than $1000$ for which there exists a positive real number $x$ such that $n=x\\lfloor x \\rfloor$ . Note: $\\lfloor x \\rfloor$ is the greatest integer less than or equal to $x$ .",
+    "checkpoint": [
+        {
+            "496": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：As shown in the figure, $\\triangle ABC$ is divided into six smaller triangles by lines drawn from the vertices through a common interior point. The areas of four of these triangles are as indicated. Find the area of $\\triangle ABC$ . AIME 1985 Problem 6.png",
+    "checkpoint": [
+        {
+            "315": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

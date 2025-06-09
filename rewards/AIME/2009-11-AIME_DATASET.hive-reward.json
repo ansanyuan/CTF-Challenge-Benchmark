@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：For certain pairs $(m,n)$ of positive integers with $m\\geq n$ there are exactly $50$ distinct positive integers $k$ such that $|\\log m - \\log k| < \\log n$ . Find the sum of all possible values of the product $m \\cdot n$ .",
+    "checkpoint": [
+        {
+            "125": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

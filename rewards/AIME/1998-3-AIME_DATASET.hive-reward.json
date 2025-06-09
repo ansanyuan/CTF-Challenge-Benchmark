@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：The graph of $y^2 + 2xy + 40|x|= 400$ partitions the plane into several regions.  What is the area of the bounded region?",
+    "checkpoint": [
+        {
+            "800": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Let $A$ , $B$ , $C$ and $D$ be the vertices of a regular tetrahedron, each of whose edges measures $1$ meter. A bug, starting from vertex $A$ , observes the following rule: at each vertex it chooses one of the three edges meeting at that vertex, each edge being equally likely to be chosen, and crawls along that edge to the vertex at its opposite end. Let $p = \\frac{n}{729}$ be the probability that the bug is at vertex $A$ when it has crawled exactly $7$ meters. Find the value of $n$ .",
+    "checkpoint": [
+        {
+            "182": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

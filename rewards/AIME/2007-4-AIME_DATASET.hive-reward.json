@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：The workers in a factory produce widgets and whoosits. For each product, production time is constant and identical for all workers, but not necessarily equal for the two products. In one hour, $100$ workers can produce $300$ widgets and $200$ whoosits. In two hours, $60$ workers can produce $240$ widgets and $300$ whoosits. In three hours, $50$ workers can produce $150$ widgets and $m$ whoosits. Find $m$ .",
+    "checkpoint": [
+        {
+            "450": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

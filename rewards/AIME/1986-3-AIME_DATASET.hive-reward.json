@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：If $\\tan x+\\tan y=25$ and $\\cot x + \\cot y=30$ , what is $\\tan(x+y)$ ?",
+    "checkpoint": [
+        {
+            "150": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

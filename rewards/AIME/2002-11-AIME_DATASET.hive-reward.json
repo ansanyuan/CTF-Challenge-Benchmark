@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Two distinct, real, infinite geometric series each have a sum of $1$ and have the same second term. The third term of one of the series is $1/8$ , and the second term of both series can be written in the form $\\frac{\\sqrt{m}-n}p$ , where $m$ , $n$ , and $p$ are positive integers and $m$ is not divisible by the square of any prime. Find $100m+10n+p$ .",
+    "checkpoint": [
+        {
+            "518": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}
