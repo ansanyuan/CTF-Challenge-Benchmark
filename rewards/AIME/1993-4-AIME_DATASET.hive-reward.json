@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：How many ordered four-tuples of integers $(a,b,c,d)\\,$ with $0 < a < b < c < d < 500\\,$ satisfy $a + d = b + c\\,$ and $bc - ad = 93\\,$ ?",
+    "checkpoint": [
+        {
+            "870": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

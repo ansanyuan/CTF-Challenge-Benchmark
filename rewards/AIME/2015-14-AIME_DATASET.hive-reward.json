@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Let $x$ and $y$ be real numbers satisfying $x^4y^5+y^4x^5=810$ and $x^3y^6+y^3x^6=945$ . Evaluate $2x^3+(xy)^3+2y^3$ .",
+    "checkpoint": [
+        {
+            "89": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

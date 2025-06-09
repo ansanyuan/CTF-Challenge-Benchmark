@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：The harmonic mean of two positive integers is the reciprocal of the arithmetic mean of their reciprocals. For how many ordered pairs of positive integers $(x,y)$ with $x<y$ is the harmonic mean of $x$ and $y$ equal to $6^{20}$ ?",
+    "checkpoint": [
+        {
+            "799": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

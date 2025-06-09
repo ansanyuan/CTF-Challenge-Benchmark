@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：For positive integers $N$ and $k$ , define $N$ to be $k$ -nice if there exists a positive integer $a$ such that $a^{k}$ has exactly $N$ positive divisors. Find the number of positive integers less than $1000$ that are neither $7$ -nice nor $8$ -nice.",
+    "checkpoint": [
+        {
+            "749": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

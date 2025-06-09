@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：The sequences of positive integers $1,a_2, a_3,...$ and $1,b_2, b_3,...$ are an increasing arithmetic sequence and an increasing geometric sequence, respectively. Let $c_n=a_n+b_n$ . There is an integer $k$ such that $c_{k-1}=100$ and $c_{k+1}=1000$ . Find $c_k$ .",
+    "checkpoint": [
+        {
+            "262": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

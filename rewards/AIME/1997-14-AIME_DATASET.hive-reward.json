@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Let $v$ and $w$ be distinct, randomly chosen roots of the equation $z^{1997}-1=0$ . Let $m/n$ be the probability that $\\sqrt{2+\\sqrt{3}}\\le |v+w|$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "checkpoint": [
+        {
+            "582": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

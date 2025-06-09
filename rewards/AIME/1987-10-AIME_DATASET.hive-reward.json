@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Al walks down to the bottom of an escalator that is moving up and he counts 150 steps. His friend, Bob, walks up to the top of the escalator and counts 75 steps. If Al's speed of walking (in steps per unit time) is three times Bob's walking speed, how many steps are visible on the escalator at a given time? (Assume that this value is constant.)",
+    "checkpoint": [
+        {
+            "120": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

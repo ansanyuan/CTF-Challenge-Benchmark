@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：What is that largest positive integer $n$ for which $n^3+100$ is divisible by $n+10$ ?",
+    "checkpoint": [
+        {
+            "890": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

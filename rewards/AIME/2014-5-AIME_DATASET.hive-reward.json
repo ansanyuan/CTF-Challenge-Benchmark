@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Real numbers $r$ and $s$ are roots of $p(x)=x^3+ax+b$ , and $r+4$ and $s-3$ are roots of $q(x)=x^3+ax+b+240$ . Find the sum of all possible values of $|b|$ .",
+    "checkpoint": [
+        {
+            "420": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

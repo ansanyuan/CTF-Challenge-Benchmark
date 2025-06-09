@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：An $m\\times n\\times p$ rectangular box has half the volume of an $(m + 2)\\times(n + 2)\\times(p + 2)$ rectangular box, where $m, n,$ and $p$ are integers, and $m\\le n\\le p.$ What is the largest possible value of $p$ ?",
+    "checkpoint": [
+        {
+            "130": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

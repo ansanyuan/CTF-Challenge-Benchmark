@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Given that $A_k = \\frac {k(k - 1)}2\\cos\\frac {k(k - 1)\\pi}2,$ find $|A_{19} + A_{20} + \\cdots + A_{98}|.$",
+    "checkpoint": [
+        {
+            "40": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

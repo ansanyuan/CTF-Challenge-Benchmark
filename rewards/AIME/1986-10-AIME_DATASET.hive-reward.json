@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：In a parlor game, the magician asks one of the participants to think of a three digit number $(abc)$ where $a$ , $b$ , and $c$ represent digits in base $10$ in the order indicated. The magician then asks this person to form the numbers $(acb)$ , $(bca)$ , $(bac)$ , $(cab)$ , and $(cba)$ , to add these five numbers, and to reveal their sum, $N$ . If told the value of $N$ , the magician can identify the original number, $(abc)$ . Play the role of the magician and determine the $(abc)$ if $N= 3194$ .",
+    "checkpoint": [
+        {
+            "358": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

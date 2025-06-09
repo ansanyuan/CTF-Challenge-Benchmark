@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：The rectangle $ABCD^{}_{}$ below has dimensions $AB^{}_{} = 12 \\sqrt{3}$ and $BC^{}_{} = 13 \\sqrt{3}$ .  Diagonals $\\overline{AC}$ and $\\overline{BD}$ intersect at $P^{}_{}$ .  If triangle $ABP^{}_{}$ is cut out and removed, edges $\\overline{AP}$ and $\\overline{BP}$ are joined, and the figure is then creased along segments $\\overline{CP}$ and $\\overline{DP}$ , we obtain a triangular pyramid, all four of whose faces are isosceles triangles.  Find the volume of this pyramid. AIME 1990 Problem 14.png",
+    "checkpoint": [
+        {
+            "594": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

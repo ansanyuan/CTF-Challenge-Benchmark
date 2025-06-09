@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Let $ABC$ be equilateral , and $D, E,$ and $F$ be the midpoints of $\\overline{BC}, \\overline{CA},$ and $\\overline{AB},$ respectively.  There exist points $P, Q,$ and $R$ on $\\overline{DE}, \\overline{EF},$ and $\\overline{FD},$ respectively, with the property that $P$ is on $\\overline{CQ}, Q$ is on $\\overline{AR},$ and $R$ is on $\\overline{BP}.$ The ratio of the area of triangle $ABC$ to the area of triangle $PQR$ is $a + b\\sqrt {c},$ where $a, b$ and $c$ are integers, and $c$ is not divisible by the square of any prime .  What is $a^{2} + b^{2} + c^{2}$ ?",
+    "checkpoint": [
+        {
+            "83": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

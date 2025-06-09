@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Let $B$ be the set of all binary integers that can be written using exactly $5$ zeros and $8$ ones where leading zeros are allowed. If all possible subtractions are performed in which one element of $B$ is subtracted from another, find the number of times the answer $1$ is obtained.",
+    "checkpoint": [
+        {
+            "330": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

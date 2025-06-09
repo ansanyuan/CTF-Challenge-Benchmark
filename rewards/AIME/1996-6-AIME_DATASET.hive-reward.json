@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：In a five-team tournament, each team plays one game with every other team. Each team has a $50\\%$ chance of winning any game it plays. (There are no ties.) Let $\\dfrac{m}{n}$ be the probability that the tournament will produce neither an undefeated team nor a winless team, where $m$ and $n$ are relatively prime integers. Find $m+n$ .",
+    "checkpoint": [
+        {
+            "49": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

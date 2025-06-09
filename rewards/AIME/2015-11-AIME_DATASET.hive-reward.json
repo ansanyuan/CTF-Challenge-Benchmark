@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：The circumcircle of acute $\\triangle ABC$ has center $O$ . The line passing through point $O$ perpendicular to $\\overline{OB}$ intersects lines $AB$ and $BC$ at $P$ and $Q$ , respectively. Also $AB=5$ , $BC=4$ , $BQ=4.5$ , and $BP=\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "checkpoint": [
+        {
+            "23": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

@@ -1,0 +1,11 @@
+ {
+  "topic": "作答以下题目，并给出正确答案：Suppose $\\triangle ABC$ has angles $\\angle BAC = 84^\\circ, \\angle ABC=60^\\circ,$ and $\\angle ACB = 36^\\circ.$ Let $D, E,$ and $F$ be the midpoints of sides $\\overline{BC}, \\overline{AC},$ and $\\overline{AB},$ respectively. The circumcircle of $ riangle DEF$ intersects $\\overline{BD}, \\overline{AE},$ and $\\overline{AF}$ at points $G, H,$ and $J,$ respectively. The points $G, D, E, H, J,$ and $F$ divide the circumcircle of $\\triangle DEF$ into six minor arcs, as shown. Find $\\overarc{DE}+2\\cdot \\overarc{HJ} + 3\\cdot \\overarc{FG},$ where the arcs are measured in degrees.[asy] import olympiad; size(6cm); defaultpen(fontsize(10pt)); pair B = (0, 0), A = (Cos(60), Sin(60)), C = (Cos(60)+Sin(60)/Tan(36), 0), D = midpoint(B--C), E = midpoint(A--C), F = midpoint(A--B); guide circ = circumcircle(D, E, F); pair G = intersectionpoint(B--D, circ), J = intersectionpoints(A--F, circ)[0], H = intersectionpoints(A--E, circ)[0]; draw(B--A--C--cycle); draw(D--E--F--cycle); draw(circ); dot(A);dot(B);dot(C);dot(D);dot(E);dot(F);dot(G);dot(H);dot(J); label(\"$A$\", A, (0, .8)); label(\"$B$\", B, (-.8, -.8)); label(\"$C$\", C, (.8, -.8)); label(\"$D$\", D, (0, -.8)); label(\"$E$\", E, (.8, .2)); label(\"$F$\", F, (-.8, .2)); label(\"$G$\", G, (0, .8)); label(\"$H$\", H, (-.2, -1));label(\"$J$\", J, (.2, -.8)); [/asy]",
+  "checkpoint": [
+    {
+      "336": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

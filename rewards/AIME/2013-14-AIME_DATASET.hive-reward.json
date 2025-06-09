@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：For positive integers $n$ and $k$ , let $f(n, k)$ be the remainder when $n$ is divided by $k$ , and for $n > 1$ let $F(n) = \\max_{\\substack{1\\le k\\le \\frac{n}{2}}} f(n, k)$ . Find the remainder when $\\sum\\limits_{n=20}^{100} F(n)$ is divided by $1000$ .",
+    "checkpoint": [
+        {
+            "512": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

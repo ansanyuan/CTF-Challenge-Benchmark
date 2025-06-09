@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Let $x_1=97$ , and for $n>1$ let $x_n=\\frac{n}{x_{n-1}}$ . Calculate the product $x_1x_2 \\ldots x_8$ .",
+    "checkpoint": [
+        {
+            "384": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

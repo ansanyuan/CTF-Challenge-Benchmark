@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：A particle is located on the coordinate plane at $(5,0)$ . Define a move for the particle as a counterclockwise rotation of $\\pi/4$ radians about the origin followed by a translation of $10$ units in the positive $x$ -direction. Given that the particle's position after $150$ moves is $(p,q)$ , find the greatest integer less than or equal to $|p| + |q|$ .",
+    "checkpoint": [
+        {
+            "19": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

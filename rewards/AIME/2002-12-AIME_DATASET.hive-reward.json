@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：A basketball player has a constant probability of $.4$ of making any given shot, independent of previous shots. Let $a_n$ be the ratio of shots made to shots attempted after $n$ shots. The probability that $a_{10}=.4$ and $a_n\\le.4$ for all $n$ such that $1\\le n\\le9$ is given to be $p^aq^br/\\left(s^c\\right)$ where $p$ , $q$ , $r$ , and $s$ are primes, and $a$ , $b$ , and $c$ are positive integers. Find $\\left(p+q+r+s\\right)\\left(a+b+c\\right)$ .",
+    "checkpoint": [
+        {
+            "660": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

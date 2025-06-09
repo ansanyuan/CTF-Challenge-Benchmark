@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：There is a unique angle $\\theta$ between $0^\\circ$ and $90^\\circ$ such that for nonnegative integers $n,$ the value of $\\tan(2^n\\theta)$ is positive when $n$ is a multiple of $3$ , and negative otherwise. The degree measure of $\\theta$ is $\\tfrac{p}{q}$ , where $p$ and $q$ are relatively prime positive integers. Find $p+q$ .",
+    "checkpoint": [
+        {
+            "547": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

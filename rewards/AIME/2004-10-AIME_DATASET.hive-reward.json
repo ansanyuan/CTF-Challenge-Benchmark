@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Let $S$ be the set of integers between 1 and $2^{40}$ whose binary expansions have exactly two 1's. If a number is chosen at random from $S,$ the probability that it is divisible by 9 is $p/q,$ where $p$ and $q$ are relatively prime positive integers. Find $p+q.$",
+    "checkpoint": [
+        {
+            "913": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Find $a$ if $a$ and $b$ are integers such that $x^2 - x - 1$ is a factor of $ax^{17} + bx^{16} + 1$ .",
+    "checkpoint": [
+        {
+            "987": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

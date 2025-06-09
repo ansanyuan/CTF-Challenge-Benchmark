@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Let $n^{}_{}$ be the smallest positive integer that is a multiple of $75_{}^{}$ and has exactly $75_{}^{}$ positive integral divisors, including $1_{}^{}$ and itself. Find $\\frac{n}{75}$ .",
+    "checkpoint": [
+        {
+            "432": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

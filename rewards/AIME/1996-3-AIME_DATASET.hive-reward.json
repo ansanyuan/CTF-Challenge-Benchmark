@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Find the smallest positive integer $n$ for which the expansion of $(xy-3x+7y-21)^n$ , after like terms have been collected, has at least 1996 terms.",
+    "checkpoint": [
+        {
+            "44": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

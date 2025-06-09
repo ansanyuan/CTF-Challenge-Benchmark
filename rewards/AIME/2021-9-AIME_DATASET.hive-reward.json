@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Find the number of ordered pairs $(m, n)$ such that $m$ and $n$ are positive integers in the set $\\{1, 2, ..., 30\\}$ and the greatest common divisor of $2^m + 1$ and $2^n - 1$ is not $1$ .",
+    "checkpoint": [
+        {
+            "295": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

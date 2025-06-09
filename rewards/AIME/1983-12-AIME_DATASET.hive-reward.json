@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Diameter $AB$ of a circle has length a $2$ -digit integer (base ten). Reversing the digits gives the length of the perpendicular chord $CD$ . The distance from their intersection point $H$ to the center $O$ is a positive rational number. Determine the length of $AB$ . Pdfresizer.com-pdf-convert-aimeq12.png",
+    "checkpoint": [
+        {
+            "65": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

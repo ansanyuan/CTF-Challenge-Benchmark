@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Triangle $ABC$ has side lengths $AB = 9$ , $BC =$ $5\\sqrt{3}$ , and $AC = 12$ . Points $A = P_{0}, P_{1}, P_{2}, ... , P_{2450} = B$ are on segment $\\overline{AB}$ with $P_{k}$ between $P_{k-1}$ and $P_{k+1}$ for $k = 1, 2, ..., 2449$ , and points $A = Q_{0}, Q_{1}, Q_{2}, ... , Q_{2450} = C$ are on segment $\\overline{AC}$ with $Q_{k}$ between $Q_{k-1}$ and $Q_{k+1}$ for $k = 1, 2, ..., 2449$ . Furthermore, each segment $\\overline{P_{k}Q_{k}}$ , $k = 1, 2, ..., 2449$ , is parallel to $\\overline{BC}$ . The segments cut the triangle into $2450$ regions, consisting of $2449$ trapezoids and $1$ triangle. Each of the $2450$ regions has the same area. Find the number of segments $\\overline{P_{k}Q_{k}}$ , $k = 1, 2, ..., 2450$ , that have rational length.",
+    "checkpoint": [
+        {
+            "20": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Sarah intended to multiply a two-digit number and a three-digit number, but she left out the multiplication sign and simply placed the two-digit number to the left of the three-digit number, thereby forming a five-digit number.  This number is exactly nine times the product Sarah should have obtained.  What is the sum of the two-digit number and the three-digit number? ",
+    "checkpoint": [
+        {
+            "126": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Let $N = 100^2 + 99^2 - 98^2 - 97^2 + 96^2 + \\cdots + 4^2 + 3^2 - 2^2 - 1^2$ , where the additions and subtractions alternate in pairs. Find the remainder when $N$ is divided by $1000$ .",
+    "checkpoint": [
+        {
+            "100": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

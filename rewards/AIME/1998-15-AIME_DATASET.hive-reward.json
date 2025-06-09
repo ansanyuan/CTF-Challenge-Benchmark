@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Define a domino to be an ordered pair of distinct positive integers. A proper sequence of dominos is a list of distinct dominos in which the first coordinate of each pair after the first equals the second coordinate of the immediately preceding pair, and in which $(i,j)$ and $(j,i)$ do not both appear for any $i$ and $j$ .  Let $D_{40}$ be the set of all dominos whose coordinates are no larger than 40.  Find the length of the longest proper sequence of dominos that can be formed using the dominos of $D_{40}.$",
+    "checkpoint": [
+        {
+            "761": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

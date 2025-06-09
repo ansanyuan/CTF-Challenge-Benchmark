@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：In triangle $ABC$ , point $D$ is on $\\overline{BC}$ with $CD=2$ and $DB=5$ , point $E$ is on $\\overline{AC}$ with $CE=1$ and $EA=3$ , $AB=8$ , and $\\overline{AD}$ and $\\overline{BE}$ intersect at $P$ . Points $Q$ and $R$ lie on $\\overline{AB}$ so that $\\overline{PQ}$ is parallel to $\\overline{CA}$ and $\\overline{PR}$ is parallel to $\\overline{CB}$ . It is given that the ratio of the area of triangle $PQR$ to the area of triangle $ABC$ is $m/n$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+    "checkpoint": [
+        {
+            "901": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

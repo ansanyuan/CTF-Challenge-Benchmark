@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：A bored student walks down a hall that contains a row of closed lockers, numbered 1 to 1024. He opens the locker numbered 1, and then alternates between skipping and opening each locker thereafter. When he reaches the end of the hall, the student turns around and starts back. He opens the first closed locker he encounters, and then alternates between skipping and opening each closed locker thereafter. The student continues wandering back and forth in this manner until every locker is open. What is the number of the last locker he opens?",
+    "checkpoint": [
+        {
+            "342": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

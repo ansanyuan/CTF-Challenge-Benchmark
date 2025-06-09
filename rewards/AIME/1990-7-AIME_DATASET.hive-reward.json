@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：A triangle has vertices $P_{}^{}=(-8,5)$ , $Q_{}^{}=(-15,-19)$ , and $R_{}^{}=(1,-7)$ . The equation of the bisector of $\\angle P$ can be written in the form $ax+2y+c=0_{}^{}$ . Find $a+c_{}^{}$ .",
+    "checkpoint": [
+        {
+            "89": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

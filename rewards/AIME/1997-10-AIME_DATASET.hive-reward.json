@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Every card in a deck has a picture of one shape - circle, square, or triangle, which is painted in one of the three colors - red, blue, or green. Furthermore, each color is applied in one of three shades - light, medium, or dark. The deck has 27 cards, with every shape-color-shade combination represented. A set of three cards from the deck is called complementary if all of the following statements are true: i. Either each of the three cards has a different shape or all three of the card have the same shape. ii. Either each of the three cards has a different color or all three of the cards have the same color. iii. Either each of the three cards has a different shade or all three of the cards have the same shade. How many different complementary three-card sets are there?",
+    "checkpoint": [
+        {
+            "117": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

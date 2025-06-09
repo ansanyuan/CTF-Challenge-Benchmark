@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Suppose that the measurement of time during the day is converted to the metric system so that each day has $10$ metric hours, and each metric hour has $100$ metric minutes. Digital clocks would then be produced that would read $\\text{9:99}$ just before midnight, $\\text{0:00}$ at midnight, $\\text{1:25}$ at the former $\\text{3:00}$ AM, and $\\text{7:50}$ at the former $\\text{6:00}$ PM. After the conversion, a person who wanted to wake up at the equivalent of the former $\\text{6:36}$ AM would set his new digital alarm clock for $\\text{A:BC}$ , where $\\text{A}$ , $\\text{B}$ , and $\\text{C}$ are digits. Find $100\\text{A}+10\\text{B}+\\text{C}$ .",
+    "checkpoint": [
+        {
+            "275": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

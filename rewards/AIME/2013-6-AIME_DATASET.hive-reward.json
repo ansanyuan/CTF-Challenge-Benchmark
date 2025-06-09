@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Find the least positive integer $N$ such that the set of $1000$ consecutive integers beginning with $1000\\cdot N$ contains no square of an integer.",
+    "checkpoint": [
+        {
+            "282": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

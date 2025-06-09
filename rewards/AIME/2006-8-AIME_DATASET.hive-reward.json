@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：There is an unlimited supply of congruent equilateral triangles made of colored paper. Each triangle is a solid color with the same color on both sides of the paper. A large equilateral triangle is constructed from four of these paper triangles. Two large triangles are considered distinguishable if it is not possible to place one on the other, using translations, rotations, and/or reflections, so that their corresponding small triangles are of the same color. Given that there are six different colors of triangles from which to choose, how many distinguishable large equilateral triangles may be formed? [asy] size(50); pair A,B; A=(0,0); B=(2,0); pair C=rotate(60,A)*B; pair D, E, F; D = (1,0); E=rotate(60,A)*D; F=rotate(60,C)*E; draw(C--A--B--cycle); draw(D--E--F--cycle); [/asy]",
+    "checkpoint": [
+        {
+            "336": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}

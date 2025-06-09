@@ -1,0 +1,11 @@
+{
+    "topic": "作答以下题目，并给出正确答案：Circles of radii 5, 5, 8, and $m/n$ are mutually externally tangent, where $m$ and $n$ are relatively prime positive integers.  Find $m + n.$",
+    "checkpoint": [
+        {
+            "17": 1
+        }
+    ],
+    "matchingmethod": [
+        "normal"
+    ]
+}
