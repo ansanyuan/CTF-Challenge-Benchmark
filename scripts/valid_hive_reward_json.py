@@ -1,5 +1,6 @@
 import json
 import math
+import re
 from pathlib import Path
 from typing import Dict, List, Union
 
@@ -69,3 +70,25 @@ def validate_hive_reward_json(file_path: str) -> None:
     # 5. 校验总分是否为 1（允许浮点误差）
     if not math.isclose(total_score, 1.0, rel_tol=1e-9):
         raise ValueError(f"所有 checkpoint 的加分比例总和必须为 1，当前总和为 {total_score}")
+
+    def calc_regex_mode_reward(checkpoint: dict, response: str) -> float:
+        """
+        计算regex模式的奖励: checkpoint其中有正则表达式命中，加对应的分数
+        """
+        for restr, score in checkpoint.items():
+            return score if re.search(restr, response) else 0.0
+
+    def calc_normal_mode_reward(checkpoint: dict, response: str) -> float:
+        """
+        计算normal模式的奖励: checkpoint其中有关键词命中，加对应的分数
+        :param checkpoint: 参考答案
+        :param response: 用户答案
+        """
+        for keyword, score in checkpoint.items():
+            return score if keyword in response else 0.0
+
+    for i in range(len(data['checkpoint'])):
+        if data['matchingmethod'][i] == 'regex':
+            calc_regex_mode_reward(data['checkpoint'][i], 'response')
+        else:
+            total_score += calc_normal_mode_reward(data['checkpoint'][i], 'response')
