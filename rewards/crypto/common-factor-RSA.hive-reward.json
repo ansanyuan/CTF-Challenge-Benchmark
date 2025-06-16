@@ -2,13 +2,13 @@
     "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *; p1 = getPrime(512); p2 = getPrime(512); q = getPrime(512); n1 = p1*q; n2 = p2*q; e = 65537; m = bytes_to_long(flag); c1 = pow(m, e, n1); c2 = pow(m, e, n2)",
     "checkpoint": [
         {
-            "((RSA)|(Rivest-Shamir-Adleman))": 0.1
+            "(RSA)|(Rivest-Shamir-Adleman)": 0.1
         },
         {
-            "((共享|相同)素数)|(shared\\s*prime)|(common\\s*prime)|(n\\d+\\s*=\\s*[^*]+\\*q.*n\\d+\\s*=\\s*[^*]+\\*q)": 0.4
+            "(共享|相同)素数|shared\\s*prime|common\\s*prime|n\\d+\\s*=\\s*[^*]+\\*q.*?n\\d+\\s*=\\s*[^*]+\\*q": 0.4
         },
         {
-            "((最大|公)公因数)|(greatest\\s*common\\s*divisor)|(gcd\\s*\\([^)]+\\))|(\\gcd\\s*\\([^)]+\\))": 0.5
+            "(最大|公)公因数|greatest\\s*common\\s*divisor|gcd\\s*\\([^)]+\\)|\\gcd\\s*\\([^)]+\\)": 0.5
         }
     ],
     "matchingmethod": [
