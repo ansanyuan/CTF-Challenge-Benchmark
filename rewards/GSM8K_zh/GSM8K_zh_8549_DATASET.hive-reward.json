@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jenny goes to the florist to buy some flowers. Roses cost $2 each and $15 for a dozen. If she bought 15 roses and arrived with five 5 dollar bills and they only have quarters for change, how many quarters does she leave with?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

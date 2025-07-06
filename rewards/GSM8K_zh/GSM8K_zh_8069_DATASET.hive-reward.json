@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jerry is twice as old as he was 5 years ago. How old will Jerry be in 3 years?",
+  "checkpoint": [
+    {
+      "\\boxed{13}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

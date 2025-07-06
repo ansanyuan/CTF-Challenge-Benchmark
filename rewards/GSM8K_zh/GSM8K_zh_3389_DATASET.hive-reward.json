@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jacque arrived in France and his suitcase weighed 5 pounds.  While in France, he picked up 5 bottles of perfume that weighed 1.2 ounces each, 4 pounds of chocolate, 2 bars of soap that weighed 5 ounces each and 2 jars of jam that weighed 8 ounces each.  Considering 16 ounces is the same as 1 pound, how much did Jacque's suitcase weigh on the return flight home?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

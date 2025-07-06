@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Matt wants cookies for a snack, but his dad wants him to eat healthily. He tells Matt he can have half as many cookies as the number of carrot sticks he eats, plus two extra for cleaning his room. If Matt wants to eat five cookies in total, how many carrot sticks does he have to eat?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

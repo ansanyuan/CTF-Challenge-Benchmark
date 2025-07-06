@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A kilogram of pork costs $6 while a kilogram of chicken costs $2 less. How much will a 3-kilogram of chicken and a kilogram of pork cost?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

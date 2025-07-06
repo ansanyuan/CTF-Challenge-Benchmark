@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A bear eats up to 90 pounds of food per day to prepare for hibernation. If Victor weighs 126 pounds, how many \"Victors\" worth of food would a bear eat in 3 weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

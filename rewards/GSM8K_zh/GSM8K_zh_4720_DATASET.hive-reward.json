@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sid takes $48 with him on a shopping trip to the mall.  He spent some of his money on computer accessories and another $8 on snacks. After these purchases, he only has $4 more than half of his original money left. How much did he spend on computer accessories?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

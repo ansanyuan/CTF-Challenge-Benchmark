@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John buys a pair of earbuds that cost $200.  If tax was 15%, how much did he pay after tax?",
+  "checkpoint": [
+    {
+      "\\boxed{230}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

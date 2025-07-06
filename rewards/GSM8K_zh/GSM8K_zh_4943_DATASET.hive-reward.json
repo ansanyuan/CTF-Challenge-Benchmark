@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The Lady Eagles basketball team scored a total of 311 points in 5 games. Some players combined for 188 points. Lisa, Jessie, and Devin equally scored the rest. How many points did Jessie score?",
+  "checkpoint": [
+    {
+      "\\boxed{41}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

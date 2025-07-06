@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A pet store owner had 12 birds, 9 puppies, 5 cats, and 15 spiders. Half the birds were sold and 3 puppies were adopted. Then, someone left the spider enclosure open and 7 of them went loose. How many animals does the pet store owner have left?",
+  "checkpoint": [
+    {
+      "\\boxed{25}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

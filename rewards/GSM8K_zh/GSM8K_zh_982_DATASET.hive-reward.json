@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Olga has three stripes on the side of each of her tennis shoes.  Rick has one less stripe per shoe than does Olga.  But Hortense has double the number of stripes on her tennis shoes as does Olga.  In total, what is the combined number of stripes on all of their pairs of tennis shoes?",
+  "checkpoint": [
+    {
+      "\\boxed{22}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

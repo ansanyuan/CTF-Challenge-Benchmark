@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There were 15 males and 10 more girls at the party. Each attendee received 2 cans of soft drinks. If Mary bought several boxes of soft drinks where a box contains 8 cans and is priced at $5 for each box, how much did Mary spend on soft drinks?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

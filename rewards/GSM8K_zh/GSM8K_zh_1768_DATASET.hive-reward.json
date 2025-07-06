@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Juvy has a garden that has 20 rows with 10 plants in each row. She plants parsley in the first 3 rows and rosemary in the last two rows. The rest of the rows will be planted with chives. How many chives will Juvy plant?",
+  "checkpoint": [
+    {
+      "\\boxed{150}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

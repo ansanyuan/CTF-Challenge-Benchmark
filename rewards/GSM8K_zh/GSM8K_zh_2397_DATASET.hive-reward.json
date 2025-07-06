@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carrie is making punch. She adds 6 12-oz cans of Mountain Dew, 28 oz of ice, and a 40 oz bottle of fruit juice. How many 10 oz servings of punch does Carrie have?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

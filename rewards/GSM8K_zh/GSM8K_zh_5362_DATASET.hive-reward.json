@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A restaurant buffet has 36 different dishes available to try. The restaurant features mango salsa on three of its dishes, fresh mangoes in a sixth of its dishes, and mango jelly in one dish. Oliver despises mangoes and won't eat them, but can pick them out of two of the dishes with fresh mango that he would be willing to try. How many dishes are left for Oliver on the buffet?",
+  "checkpoint": [
+    {
+      "\\boxed{28}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

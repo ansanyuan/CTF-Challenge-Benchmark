@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Haylee has 3 dozen guppies in her aquarium.  Jose has half as many guppies as Haylee in his tank.  Charliz has one-third of what Jose has in his tank.  Nicolai has 4 times as many guppies as Charliz in his pond. How many guppies do the four friends have altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{84}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jamie owns 4 Persian cats and 2 Maine Coons. Gordon owns half as many Persians and one more Maine Coon than Jamie. Hawkeye owns one less Maine Coon than Gordon and no Persian cats. If they bring all of their cats together to play, how many cats are there in total?",
+  "checkpoint": [
+    {
+      "\\boxed{13}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kara has to drink 4 ounces of water every time she takes her medication. Her medication instructions are to take one tablet three times a day. She followed the instructions for one week, but in the second week, she forgot twice on one day. How many ounces of water did she drink with her medication over those two weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{160}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

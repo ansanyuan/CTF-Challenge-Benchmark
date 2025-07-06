@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：It was Trevor's job to collect fresh eggs from the family's 4 chickens every morning.   He got 4 eggs from Gertrude and 3 eggs from Blanche.  Nancy laid 2 eggs as did Martha.  On the way, he dropped 2 eggs.  How many eggs did Trevor have left?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

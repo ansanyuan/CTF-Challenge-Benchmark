@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John works at 2 different hospitals.  At the first hospital, he sees 20 different patients each day.  At the second hospital, he sees 20% more individual patients a day.  He works 5 days a week.  How many patients does he treat a year if he works 50 weeks a year?",
+  "checkpoint": [
+    {
+      "\\boxed{11000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

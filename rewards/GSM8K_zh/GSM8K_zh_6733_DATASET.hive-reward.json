@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nancy's ex owes her child support. He's supposed to pay 30% of his income each year. For 3 years, he made $30,000/year, then he got a 20% raise for the next four years. If he's only ever paid $1,200, how much does he owe her?",
+  "checkpoint": [
+    {
+      "\\boxed{69000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

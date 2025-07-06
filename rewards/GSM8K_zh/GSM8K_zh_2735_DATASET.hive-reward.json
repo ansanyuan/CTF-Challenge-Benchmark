@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Annie plants 3 pots of basil, 9 pots of rosemary, and 6 pots of thyme. Each basil plant has 4 leaves, each rosemary plant has 18 leaves, and each thyme plant has 30 leaves. How many leaves are there total?",
+  "checkpoint": [
+    {
+      "\\boxed{354}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

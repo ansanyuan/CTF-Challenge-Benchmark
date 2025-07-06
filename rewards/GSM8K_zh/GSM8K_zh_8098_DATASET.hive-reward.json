@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Two sports coaches went shopping together. The baseball coach bought 9 new baseballs for $3 each. The basketball coach bought 8 new basketballs for $14 each. How much more did the basketball coach spend than the baseball coach?",
+  "checkpoint": [
+    {
+      "\\boxed{85}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

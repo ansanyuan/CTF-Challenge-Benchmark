@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cheryl ate 7 m&m's after lunch. She ate 5 m&m's after dinner, and she gave some to her sister. If Cheryl had 25 m&m's at the beginning, how many did she give to her sister?",
+  "checkpoint": [
+    {
+      "\\boxed{13}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

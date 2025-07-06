@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jerry can run from his house to his school and back in the time it takes his brother Carson to run to the school. If it takes Jerry 15 minutes to make a one-way trip from his house to his school and the school is 4 miles away, how fast does Carson run in miles per hour?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

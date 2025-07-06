@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A crocodile grows 8 inches long in 4 years. At this rate, how many inches will it grow in 13 years?",
+  "checkpoint": [
+    {
+      "\\boxed{26}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

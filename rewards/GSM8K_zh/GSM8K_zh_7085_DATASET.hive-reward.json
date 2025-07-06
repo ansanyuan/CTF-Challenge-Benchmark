@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sally is selling boxes of crackers for her scout troop's fund-raiser. If she sells 50% more on Sunday than she sold on Saturday, then she'll have sold a total of 150 boxes on the two days. How many boxes did she sell on Saturday?",
+  "checkpoint": [
+    {
+      "\\boxed{60}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

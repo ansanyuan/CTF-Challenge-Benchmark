@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A family of 12 monkeys collected 10 piles of bananas. 6 piles had 9 hands, with each hand having 14 bananas, while the remaining piles had 12 hands, with each hand having 9 bananas. How many bananas would each monkey get if they divide the bananas equally amongst themselves?",
+  "checkpoint": [
+    {
+      "\\boxed{99}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

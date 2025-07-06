@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A rectangle that is inscribed in a larger rectangle (with one vertex on each side) is called unstuck if it is possible to rotate (however slightly) the smaller rectangle about its center within the confines of the larger. Of all the rectangles that can be inscribed unstuck in a 6 by 8 rectangle, the smallest perimeter has the form $\\sqrt{N}\\,$ , for a positive integer $N\\,$ . Find $N\\,$ .",
-    "checkpoint": [
-        {
-            "448": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A rectangle that is inscribed in a larger rectangle (with one vertex on each side) is called unstuck if it is possible to rotate (however slightly) the smaller rectangle about its center within the confines of the larger. Of all the rectangles that can be inscribed unstuck in a 6 by 8 rectangle, the smallest perimeter has the form $\\sqrt{N}\\,$ , for a positive integer $N\\,$ . Find $N\\,$ .",
+  "checkpoint": [
+    {
+      "\\boxed{448}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

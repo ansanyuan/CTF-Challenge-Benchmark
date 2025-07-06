@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Betty is planning to host her friends over for a party. She buys drinks, cakes, and ice creams at a unit cost of $2, $10, and $5 respectively. How much does she spend if she buys 10 drinks, 5 cakes, and 100 ice creams?",
+  "checkpoint": [
+    {
+      "\\boxed{570}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

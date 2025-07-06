@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Melinda is taking a 1200-mile trip with her family to visit their cousins. How much time will they save if they drive 60 miles an hour instead of 50 miles an hour?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

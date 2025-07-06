@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom turned 32 years old 5 years ago.  7 years ago Jim was 5 years older than half Tom's age.  How old is Jim in 2 years?",
+  "checkpoint": [
+    {
+      "\\boxed{29}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

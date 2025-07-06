@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sweet Hope hosts a casino with 3 roulette tables labeled A, B, and C. At 6:00 pm, Table B had twice as much money on it as table C, which had $20 more than table A. If there was $40 on table A, how much money was there on all the tables?",
+  "checkpoint": [
+    {
+      "\\boxed{220}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

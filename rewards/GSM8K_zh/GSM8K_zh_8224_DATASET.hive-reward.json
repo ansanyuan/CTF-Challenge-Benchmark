@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Candy has a chair rental business. During the weekdays, 60 chairs are rented each day; but during weekends, 100 chairs are rented each day. If this continues, how many chairs in total will Candy be able to rent out in two 4-week months?",
+  "checkpoint": [
+    {
+      "\\boxed{4000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

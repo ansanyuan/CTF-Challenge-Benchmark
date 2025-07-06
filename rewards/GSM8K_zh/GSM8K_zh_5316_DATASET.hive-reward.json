@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sam went for a run in the morning. In the afternoon, he went grocery shopping and walked twice the distance through the store as he had run that morning. That evening, he went on a bike ride with his family and biked for 12 miles. In all, he went 18 miles that day. How many miles was Sam’s morning run?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

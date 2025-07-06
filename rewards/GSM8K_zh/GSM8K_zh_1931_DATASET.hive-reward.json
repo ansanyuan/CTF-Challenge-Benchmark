@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The water pressure of a sink has a steady flow of 2 cups per 10 minutes for the first 30 minutes. It still flows at 2 cups per 10 minutes for the next 30 minutes after. For the next hour, the water pressure maximizes to 4 cups per 10 minutes and stops. Shawn now has to dump half of the water away. How much water is left?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

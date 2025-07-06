@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kevin holds the world record for eating the biggest quantity of hot wings in 8 minutes. He can eat 64 wings without stopping. Alan, a boy who loves hot wings, wants to beat Kevin's record.  He is currently able to eat 5 hot wings per minute. How many more wings must he eat per minute to beat Kevin's record?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The cost of filling a car fuel tank is $45, and this can take you 500 miles before refilling. Mallory was going to her grammy's house, 2000 miles away. If she used 3/5 times as much money on food as she spent on filling the car fuel tank for the whole journey, calculate the total amount of money she used.",
+  "checkpoint": [
+    {
+      "\\boxed{288}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

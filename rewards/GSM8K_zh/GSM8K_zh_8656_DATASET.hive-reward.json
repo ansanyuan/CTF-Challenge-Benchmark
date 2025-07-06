@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bob spends $27000 distributed between 3 schools to buy books.  He can buy 100 books for $500.  How many books can he buy per school?",
+  "checkpoint": [
+    {
+      "\\boxed{1800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

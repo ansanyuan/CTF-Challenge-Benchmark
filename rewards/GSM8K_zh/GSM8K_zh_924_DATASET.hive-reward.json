@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John has to get a new blanket.  He decides to have a 7 foot by 8-foot quilt made.  The quilt costs $40 per square foot.  How much does his quilt cost?",
+  "checkpoint": [
+    {
+      "\\boxed{2240}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

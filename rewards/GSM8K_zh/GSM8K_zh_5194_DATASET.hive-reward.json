@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Roxy has 7 flowering plants in her garden.  She has twice as many fruiting plants as her flowering plants.  On Saturday, she goes to the nursery and buys 3 flowering plants and 2 fruiting plants. On Sunday, she gives away 1 flowering plant and 4 fruiting plants to her neighbor, Ronny.   How many plants are remaining in her garden?",
+  "checkpoint": [
+    {
+      "\\boxed{21}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

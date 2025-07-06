@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ursula bought five hot dogs at $1.50 each and three salads at $2.50 each. If she had two $10 bills, how much change did she get back?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

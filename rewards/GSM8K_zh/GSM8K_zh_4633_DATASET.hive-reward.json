@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Julie, Letitia and Anton decided to have dinner together at a nearby restaurant.  Julie orders $10 worth of food, Letitia orders $20 worth of food, and Anton orders $30 worth of food.  How much should each pay in tips if they want to split a 20% tip for the whole meal evenly?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A single train car can carry 60 passengers. A 747 airplane can carry 366 passengers. How many more passengers can a train with 16 cars carry than 2 airplanes?",
+  "checkpoint": [
+    {
+      "\\boxed{228}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

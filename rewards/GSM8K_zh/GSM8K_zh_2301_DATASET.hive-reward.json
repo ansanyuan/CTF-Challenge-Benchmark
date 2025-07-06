@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Josh works 8 hours a day, 5 days a week, 4 weeks a month. Carl is an intern and works 2 hours less than Josh every day. Josh gets $9 an hour and Carl, half that. How much does the company pay for the 2 together in one month?",
+  "checkpoint": [
+    {
+      "\\boxed{1980}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A farmer has twice as many pigs as cows, and 4 more cows than goats.  If the farmer has 56 animals total, how many goats does he have?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

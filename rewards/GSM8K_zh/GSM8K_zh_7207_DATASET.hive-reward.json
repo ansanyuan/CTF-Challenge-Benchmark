@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Yvonne brings a box of chocolates to school. Half have nuts and half do not. The students eat 80% of the ones with nuts and eat half of the ones without nuts. If there are 28 chocolates left, how many chocolates were in the box?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

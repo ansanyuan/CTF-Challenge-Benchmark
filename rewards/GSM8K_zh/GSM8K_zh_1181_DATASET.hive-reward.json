@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A local restaurant is offering an 8 piece fried chicken bucket and 2 sides for $12.00 that will feed 6 people.  If Monty was having a family reunion for 36 family members, how much will it cost him to buy enough chicken and sides to feed everyone one serving?",
+  "checkpoint": [
+    {
+      "\\boxed{72}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

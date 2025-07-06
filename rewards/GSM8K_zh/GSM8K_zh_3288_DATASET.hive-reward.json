@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jason is hiring two construction workers, one electrician and one plumber. If the construction workers each make $100/day, the electrician makes double what a worker is paid and the plumber makes 250% of a worker's salary, how much are the overall labor costs for one day?",
+  "checkpoint": [
+    {
+      "\\boxed{650}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

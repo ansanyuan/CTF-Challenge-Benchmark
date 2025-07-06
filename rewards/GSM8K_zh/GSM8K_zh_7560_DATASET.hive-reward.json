@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Greg has an alarm set to ring three times a day as a reminder. When the alarm goes off, it continues to ring until Greg turns it off. The first time it went off today, it rang four times. The second time it went off, it rang for three times as long as the first time. The third time, it rang for half as long as the second time. How many times did the alarm ring in all?",
+  "checkpoint": [
+    {
+      "\\boxed{22}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

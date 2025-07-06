@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In one day, Ella's dog eats 4 pounds of food for every one pound of food that Ella eats. How much food do Ella and her dog in 10 days if Ella eat 20 pounds of food each day?",
+  "checkpoint": [
+    {
+      "\\boxed{1000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

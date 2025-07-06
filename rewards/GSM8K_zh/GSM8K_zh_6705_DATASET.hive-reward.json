@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John starts climbing a very steep hill.  He travels 1 foot vertically for every two feet horizontally.  His elevation increases from 100 feet to 1450 feet.  How far does he move horizontally, in feet?",
+  "checkpoint": [
+    {
+      "\\boxed{2700}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

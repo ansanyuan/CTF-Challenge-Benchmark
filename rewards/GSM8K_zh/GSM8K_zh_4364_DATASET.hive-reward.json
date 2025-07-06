@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Fabian is shopping at a nearby supermarket. He wants to buy 5 kilograms of apples, 3 packs of sugar, and 500 grams of walnuts. One kilogram of apples costs $2, and one kilogram of walnuts costs $6. One pack of sugar is $1 cheaper than one kilogram of apples. How much Fabian needs to pay for the items he wants to buy?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

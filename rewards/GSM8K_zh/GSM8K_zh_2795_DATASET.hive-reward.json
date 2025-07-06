@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John repairs 5 cars.  3 of the cars take 40 minutes each to repair.  The remaining ones take 50% longer each to repair.  He makes $20 per hour repairing cars.  How much money does he make?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

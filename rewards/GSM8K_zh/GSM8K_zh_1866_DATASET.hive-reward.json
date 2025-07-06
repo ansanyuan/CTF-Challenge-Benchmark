@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Linda's bag has 2 dimes, 6 quarters, and 5 nickels. Her mother gives her 2 more dimes, 10 quarters, and twice as many nickels as she has. How many coins does she have altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{35}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

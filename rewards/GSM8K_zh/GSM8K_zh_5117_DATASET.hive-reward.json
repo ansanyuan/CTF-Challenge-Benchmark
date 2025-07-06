@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marge had a winning lottery ticket for $12006 and wanted to spend some of it wisely before using on any fun things. She paid half of the lottery amount for the taxes on her winnings, then put a third of the leftover money towards her student loans. She put $1000 in savings and invested a fifth of that amount in the stock market. How many dollars does she have left for fun?",
+  "checkpoint": [
+    {
+      "\\boxed{2802}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

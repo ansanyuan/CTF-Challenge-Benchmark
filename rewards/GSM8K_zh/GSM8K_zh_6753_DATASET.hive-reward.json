@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cassandra bought four dozen Granny Smith apples and used them to make four apple pies.  She cut each pie into 6 large pieces.  How many apples are in each slice of pie?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

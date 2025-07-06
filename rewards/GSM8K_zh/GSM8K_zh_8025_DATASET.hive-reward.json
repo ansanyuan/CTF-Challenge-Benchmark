@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carly wants to treat her friends. She orders five hamburgers at $4 each, ten packs of potato fries at $0.30 each pack, and five cans of fruit drinks at $2 each can.  How much change does Carly get back if she gives one fifty-dollar bill?",
+  "checkpoint": [
+    {
+      "\\boxed{17}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

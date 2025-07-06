@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A store sold a certain brand of jeans for $40. They only have few pairs of jeans left so they decided to give 10% discount on every two pairs of jeans bought by a customer at any one time. How much will a customer pay for 3 pairs of jeans?",
+  "checkpoint": [
+    {
+      "\\boxed{112}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

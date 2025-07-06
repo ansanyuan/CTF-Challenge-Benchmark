@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bill put his french fries in the oven after it finished heating.  The recommended time was 5 minutes for them to be fully cooked.  He put them in for 45 seconds.  How many seconds remained?",
+  "checkpoint": [
+    {
+      "\\boxed{255}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

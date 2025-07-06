@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：15 gallons of gas were equally divided into 5 different containers. Josey needed 1/4 of a container to run her lawnmower. How many pints of gasoline did Josey need?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Anika has 4 more than twice the number of pencils as Reeta. If Reeta has 20 pencils, how many pencils do the two have together?",
+  "checkpoint": [
+    {
+      "\\boxed{64}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

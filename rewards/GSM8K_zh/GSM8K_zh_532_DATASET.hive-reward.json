@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：3 lions and 2 rhinos escape from the zoo.  If it takes 2 hours to recover each animal how long did the zoo spend recovering animals?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

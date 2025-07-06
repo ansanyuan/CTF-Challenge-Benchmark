@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James splits 4 packs of stickers that have 30 stickers each.  Each sticker cost $.10.  If his friend pays for half how much did James pay?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

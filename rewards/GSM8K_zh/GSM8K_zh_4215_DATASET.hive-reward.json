@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：June has $500 for buying school supplies for the new school year. She buys four maths books at $20 each, six more science books than maths books at $10 each, and twice as many art books as maths books at $20 each. If she also bought music books, how much money did she spend on music books?",
+  "checkpoint": [
+    {
+      "\\boxed{160}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

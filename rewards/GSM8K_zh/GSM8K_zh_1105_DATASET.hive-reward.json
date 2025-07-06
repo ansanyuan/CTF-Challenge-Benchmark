@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nine hundred tickets were sold to a concert. Three-fourths of those who bought the ticket came before the start of the concert. Five-ninths of the remaining came few minutes after the first song. Eighty people arrived during the middle part of the concert while the rest did not go. How many of those who bought the tickets did not go?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

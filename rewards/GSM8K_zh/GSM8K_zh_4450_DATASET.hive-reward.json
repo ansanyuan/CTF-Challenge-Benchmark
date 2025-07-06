@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ahmed has 8 orange trees and four times as many apple trees in his orchard as Hassan. If Hassan has one apple tree and two orange trees, and they both have only apple and orange trees in their orchards, how many more trees are in Ahmed's orchard than in Hassan's?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

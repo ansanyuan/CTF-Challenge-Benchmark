@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Five friends eat at Wendy's and ordered the following: a platter of Taco Salad that cost $10, 5 orders of Dave's Single hamburger that cost $5 each, 4 sets of french fries that cost $2.50, and 5 cups of peach lemonade that cost $2 each. How much will each of them pay if they will split the bill equally?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

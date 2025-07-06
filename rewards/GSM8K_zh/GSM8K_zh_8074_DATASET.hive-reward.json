@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jamaal is at the gym. He has been using an 8-pound weight. He increases the weight that he uses by 50%. It turns out to be too heavy, so he uses a weight two pounds lighter than that. What is the weight, in pounds, that he now uses?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The rate for mowing a lawn is $14 per hour. David mowed for 2 hours a day for a week. He then spent half of the money he made from mowing a lawn on a pair of shoes and gave half of the remaining money to his mom. How much money did he have left?",
+  "checkpoint": [
+    {
+      "\\boxed{49}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

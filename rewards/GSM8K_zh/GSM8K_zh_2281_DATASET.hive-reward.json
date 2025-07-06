@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Orlan gave one-fourth of his 20-meter rope to Allan. He then gave two-thirds of the remaining to Jack. How many meters of rope is left to Orlan?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

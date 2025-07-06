@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A bathroom has 10 6 inch tiles along its width and 20 6 inch tiles along its length.  What is the square footage of the bathroom?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

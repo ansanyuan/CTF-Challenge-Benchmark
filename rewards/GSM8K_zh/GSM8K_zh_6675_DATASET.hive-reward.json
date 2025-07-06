@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：William left Missouri by 7:00 AM and arrived at his hometown by 8:00 PM. He had 3 stops of 25, 10 and 25 minutes respectively during the journey. How many hours did he spend on the road?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

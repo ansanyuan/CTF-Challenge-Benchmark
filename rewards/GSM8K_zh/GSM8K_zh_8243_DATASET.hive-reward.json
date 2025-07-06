@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tanya is teaching at school. She earns $15 for every hour and an additional $5 per day if she teaches more than 3 classes. On Monday she teaches 4 classes for 5 hours, and on Wednesday 2 classes for 2 hours. How much did Tanya earn for these two days of teaching?",
+  "checkpoint": [
+    {
+      "\\boxed{110}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

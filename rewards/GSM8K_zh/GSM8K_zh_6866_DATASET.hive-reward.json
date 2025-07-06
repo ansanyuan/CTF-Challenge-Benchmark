@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Scott wants to buy a skateboard. To make money, Scott sold berry smoothies for $3 a cup and cakes for $2 each. He sold 40 cups of smoothies and 18 cakes. How much money did he make?",
+  "checkpoint": [
+    {
+      "\\boxed{156}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

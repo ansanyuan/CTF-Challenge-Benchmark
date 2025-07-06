@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mary just arrived at the beach. She has 4 times as many towels as Frances does. The total weight of their towels is 60 pounds. If Mary has 24 towels, how much do Frances's towels weigh in ounces?",
+  "checkpoint": [
+    {
+      "\\boxed{128}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

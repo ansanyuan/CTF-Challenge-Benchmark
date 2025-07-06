@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John needs to take 2 pills a day.  One pill costs $1.5.  The insurance covers 40% of the cost.  How much does he pay in a 30-day month?",
+  "checkpoint": [
+    {
+      "\\boxed{54}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

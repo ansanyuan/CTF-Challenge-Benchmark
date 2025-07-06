@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Amy bought a 15-foot spool of string to cut up into wicks for making candles.   If she cuts up the entire string into an equal number of 6-inch and 12-inch wicks, what is the total number of wicks she will have cut?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

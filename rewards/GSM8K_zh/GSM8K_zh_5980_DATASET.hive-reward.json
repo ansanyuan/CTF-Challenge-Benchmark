@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The average GPA for 6th graders is 93, the 7th graders is 2 more than the 6th graders and the 8th graders average GPA is 91.  What is the average GPA for the school?",
+  "checkpoint": [
+    {
+      "\\boxed{93}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

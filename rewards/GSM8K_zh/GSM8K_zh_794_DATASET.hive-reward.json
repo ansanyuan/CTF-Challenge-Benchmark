@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There is a rectangle that is 4 inches wide. If the rectangle's perimeter is 30 inches, what is the area of the rectangle?",
+  "checkpoint": [
+    {
+      "\\boxed{44}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

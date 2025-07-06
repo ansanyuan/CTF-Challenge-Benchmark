@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nina made a two-layer cake and a dozen cupcakes for her friend’s birthday party. Each layer of cake takes the same amount of sugar to make as a dozen cupcakes. Nina used 720 grams of sugar to bake everything. How many grams of sugar are in one cupcake?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

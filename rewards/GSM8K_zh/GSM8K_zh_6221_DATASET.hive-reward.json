@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lily bought a Russian nesting doll as a souvenir. The biggest doll is 243 cm tall, and each doll is 2/3rd the size of the doll that contains it. How big is the 6th biggest doll?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

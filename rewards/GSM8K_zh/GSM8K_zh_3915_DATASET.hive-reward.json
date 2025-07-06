@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tony loved to solve difficult pen and paper puzzles.  He did a warm-up puzzle that only took 10 minutes and after that he did 2 puzzles that each took 3 times as long.  How long did he spend solving puzzles?",
+  "checkpoint": [
+    {
+      "\\boxed{70}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

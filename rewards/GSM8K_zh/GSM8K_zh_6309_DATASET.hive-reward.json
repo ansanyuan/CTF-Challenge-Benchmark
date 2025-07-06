@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. Dubois buys a new car for $13,380. He pays $5,400 and pays the rest by giving $420 a month. In how many months will the car be fully paid for?",
+  "checkpoint": [
+    {
+      "\\boxed{19}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

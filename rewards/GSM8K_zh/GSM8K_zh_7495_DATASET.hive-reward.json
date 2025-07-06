@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Raymond and Samantha are cousins. Raymond was born 6 years before Samantha. Raymond had a son at the age of 23. If Samantha is now 31, how many years ago was Raymond's son born?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

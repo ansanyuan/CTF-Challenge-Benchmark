@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：For the school play, 40 rows of chairs were set up where there were 20 chairs in each row. If only 10 seats were not occupied, how many seats were taken?",
+  "checkpoint": [
+    {
+      "\\boxed{790}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

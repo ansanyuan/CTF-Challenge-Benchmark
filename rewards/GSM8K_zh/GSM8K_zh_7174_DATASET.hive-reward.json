@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In the fall, 20,000 high school students apply to Harvard University for college. In the spring, 5% of those 20,000 students are accepted to the university. Of the students who are accepted, 90% choose to attend the university, and the other 10% choose to go to other schools. How many students choose to attend Harvard University?",
+  "checkpoint": [
+    {
+      "\\boxed{900}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

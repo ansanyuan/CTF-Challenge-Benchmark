@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Theon's ship can move 15 nautical miles per hour while Yara's ship can move 30 nautical miles per hour. If their destination is 90 nautical miles away, how many hours ahead will Yara be ahead of Theon?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

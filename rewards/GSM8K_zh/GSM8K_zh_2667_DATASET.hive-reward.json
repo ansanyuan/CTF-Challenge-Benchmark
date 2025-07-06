@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If Jim has 20 apples, and Jane has 60 apples, and Jerry has 40 apples, how many times can Jim's number of apples fit into the average amount of apples for a person in the group?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

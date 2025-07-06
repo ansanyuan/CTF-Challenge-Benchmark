@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jimmy has 18 cards. Jimmy gives three cards to Bob. If Jimmy gives Mary twice as many cards as he gave to Bob, how many cards does Jimmy have left?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

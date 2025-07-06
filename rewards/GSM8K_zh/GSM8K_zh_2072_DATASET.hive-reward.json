@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jackie can do 5 push-ups in 10 seconds. How many push-ups can she do in one minute if she takes two 8-second breaks?",
+  "checkpoint": [
+    {
+      "\\boxed{22}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

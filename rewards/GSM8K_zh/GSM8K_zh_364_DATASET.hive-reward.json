@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tony paid $7 for 2 dozen apples and 1 bunch of bananas. Arnold paid $5 for 1 dozen apples and 1 bunch of bananas. How much does a bunch of bananas cost?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：After shearing her 200 sheep, Azalea paid the shearer who had come to help her with the work $2000 for his job. Each of the sheared sheep produced 10 pounds of wool. If Ms. Azalea sold a pound of wool at $20, how much profit did she make from the produce of her sheep farm?",
+  "checkpoint": [
+    {
+      "\\boxed{38000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

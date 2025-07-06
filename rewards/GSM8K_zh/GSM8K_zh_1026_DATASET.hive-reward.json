@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A survey conducted by the school showed that only 20% of the 800 parents agree to a tuition fee increase. How many parents disagree with the tuition fee increase?",
+  "checkpoint": [
+    {
+      "\\boxed{640}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

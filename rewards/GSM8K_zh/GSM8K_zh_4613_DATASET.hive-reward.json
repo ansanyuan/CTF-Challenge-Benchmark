@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Samantha bought a crate of 30 eggs for $5. If she decides to sell each egg for 20 cents, how many eggs will she have left by the time she recovers her capital from the sales?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

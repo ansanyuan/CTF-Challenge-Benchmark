@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tina is getting $20 for each book she sells. If she realizes a $120 profit on her sales, how many people have she sold the books to if each book costs $5 to make and every customer buys 2 at a time?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tamtam collected 65 shells in total. She got 13 purple shells, 8 pink shells, 18 yellow shells, and 12 blue shells. The remaining shells are color orange. How many orange shells are there?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

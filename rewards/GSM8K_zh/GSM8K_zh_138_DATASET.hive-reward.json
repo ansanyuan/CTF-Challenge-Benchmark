@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：3 families of 4 people shared a vacation rental for 7 days.  Everyone uses 1 oversized beach towel a day before getting a new one.  The washing machine can hold 14 oversized beach towels per load.  How many loads of laundry will it take to wash all the oversized beach towels?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

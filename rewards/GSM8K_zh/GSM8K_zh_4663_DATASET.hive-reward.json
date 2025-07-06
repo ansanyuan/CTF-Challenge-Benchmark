@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Zach is saving his money to buy a brand new bike that costs $100.  His weekly allowance is $5.  His parent will pay him an extra $10 to mow the lawn.  His neighbor will pay him $7 per hour to babysit their son.  He has already saved up $65.  He'll receive his allowance on Friday and he's planning on babysitting for 2 hours this Saturday after he mows the lawn.  How much more money does Zach need to earn before he can buy the bike?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

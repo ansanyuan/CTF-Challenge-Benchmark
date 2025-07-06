@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Selena and Josh were running in a race. Together they ran 36 miles. Josh ran half of the distance that Selena ran. How many miles did Selena run?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

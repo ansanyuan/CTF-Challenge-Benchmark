@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Errol bought a computer, 2 monitors, and a printer for $2,400. He paid $400 less for the printer than the computer. If the computer cost $1,100, how much did one monitor cost, in dollars?",
+  "checkpoint": [
+    {
+      "\\boxed{300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

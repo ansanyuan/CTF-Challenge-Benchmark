@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The teacher agrees to order pizza for the class. For every student in the class, she will buy 2 pieces of cheese and 1 piece of onion and they will eat exactly that amount. A large pizza has 18 slices. She orders 6 total pizzas and there are 8 pieces of cheese and 4 pieces of onion leftover. How many students are in the class?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

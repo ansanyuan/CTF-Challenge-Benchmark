@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tim used to run 3 times a week but decided to add an extra 2 days a week.  She runs 1 hour in the morning and 1 in the evening every day she runs.  How many hours a week does she run now?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

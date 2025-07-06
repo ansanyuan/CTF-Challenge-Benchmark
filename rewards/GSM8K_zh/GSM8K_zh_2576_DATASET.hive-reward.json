@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The journey from Abel's house to Alice's house is 35 miles and is divided into 5 equal portions. Abel is driving at a speed of 40 miles per hour. After traveling for 0.7 hours, how many portions of the journey has he covered?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

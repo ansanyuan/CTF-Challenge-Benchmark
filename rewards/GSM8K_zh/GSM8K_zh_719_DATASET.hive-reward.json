@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jake and Penny are hunting snakes. Jake's snake is 12 inches longer than Jenny's snake. If the two snakes have a combined length of 70 inches, how long is Jake's snake?",
+  "checkpoint": [
+    {
+      "\\boxed{41}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A movie theater charges $5 for matinee tickets, $7 for evening tickets, and $10 for opening night tickets. A bucket of popcorn costs $10. On Friday, they had 32 matinee customers, 40 evening customers, and 58 customers for an opening night showing of a movie. If half the customers bought popcorn, how much money in dollars did the theater make on Friday night?",
+  "checkpoint": [
+    {
+      "\\boxed{1670}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

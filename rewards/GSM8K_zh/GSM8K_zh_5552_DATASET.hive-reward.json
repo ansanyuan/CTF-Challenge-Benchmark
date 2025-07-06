@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Delores has $450. She buys a computer for $400 and a printer for $40. How much money, in dollars, does Delores have left?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

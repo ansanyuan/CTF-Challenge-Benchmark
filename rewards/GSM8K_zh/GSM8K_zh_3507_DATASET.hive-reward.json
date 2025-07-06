@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rosie pays for a $.44 piece of candy with a $1 bill. If the cashier gives her the smallest number of coins possible as change, how many coins will Rosie get as change?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

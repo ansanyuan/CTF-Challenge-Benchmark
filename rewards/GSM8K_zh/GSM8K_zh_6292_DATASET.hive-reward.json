@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Andy had a platter of chocolate cookies. He ate 3 of them then gave his little brother 5 because he was behaving. He then handed the platter to his basketball team of eight members. The first player to arrive took 1, the second player to arrive took 3, the third player took 5, and so on. When the last player took his share, the platter was empty. How many chocolate cookies did Andy have from start with?",
+  "checkpoint": [
+    {
+      "\\boxed{72}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

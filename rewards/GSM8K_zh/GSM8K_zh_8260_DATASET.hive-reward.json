@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ricardo grows tomatoes and eggplants in his garden. Each tomato plant yields 22 tomatoes while each plant of eggplant yields 4 eggplants. He planted 5 tomato plants and 8 plants of eggplant. How many fruits can Ricardo get from his plants?",
+  "checkpoint": [
+    {
+      "\\boxed{142}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

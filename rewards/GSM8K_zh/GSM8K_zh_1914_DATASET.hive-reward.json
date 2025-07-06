@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If farmer Steven can use his tractor to plow up to 10 acres of farmland per day, or use the same tractor to mow up to 12 acres of grassland per day, how long would it take him to plow his 55 acres of farmland and mow his 30 acres of grassland?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

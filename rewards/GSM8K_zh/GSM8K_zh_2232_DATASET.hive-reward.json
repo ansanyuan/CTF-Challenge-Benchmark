@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A married couple and their 6 children are ordering some pizza. If the couple want 3 slices each and the children want 1 slice each, how many 4-slice pizzas should they order?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

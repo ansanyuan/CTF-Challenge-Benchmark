@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jason is climbing a telephone pole next to a tree his friend Matt is climbing. Matt can climb 6 feet/minute and Jason can climb 12 feet per minute. After 7 minutes, how much higher will Jason be than Matt?",
+  "checkpoint": [
+    {
+      "\\boxed{42}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

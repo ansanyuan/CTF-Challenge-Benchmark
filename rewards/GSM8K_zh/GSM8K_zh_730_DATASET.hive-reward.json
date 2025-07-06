@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John jogs at a speed of 4 miles per hour when he runs alone, but runs at 6 miles per hour when he is being dragged by his 100-pound German Shepherd dog. If John and his dog go on a run together for 30 minutes, and then John runs for an additional 30 minutes by himself, how far will John have traveled?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Crista's plants need to be watered every day. She has 20 plants. 4 of her plants need half of a cup of water. 8 plants need 1 cup of water. The rest need a quarter of a cup of water. How many cups of water does Crista need every day for her plants?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

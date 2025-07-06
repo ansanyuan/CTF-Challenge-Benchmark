@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A rectangle has a length of 3 inches and a width of 6 inches. A square has a width of 5 inches. What is the difference in area between the two shapes?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Arnold's collagen powder has 18 grams of protein for every 2 scoops.  His protein powder has 21 grams of protein per scoop.  And his steak has 56 grams of protein.   If he has 1 scoop of collagen powder, 1 scoop of protein powder and his steak, how many grams of protein will he consume?",
+  "checkpoint": [
+    {
+      "\\boxed{86}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

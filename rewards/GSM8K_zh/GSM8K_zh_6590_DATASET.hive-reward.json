@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Billy has 8 hours of free time on each day of the weekend. He wants to spend 75% of his time playing video games and the rest of his time reading. He can read 60 pages an hour and his books all contain 80 pages. How many books does he read?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

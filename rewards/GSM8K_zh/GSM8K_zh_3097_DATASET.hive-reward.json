@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Two days ago, the temperature in the morning went up 1.5 degrees every 2 hours. If the temperature was 50 degrees at 3 A.M., what was the temperature at 11 A.M.?",
+  "checkpoint": [
+    {
+      "\\boxed{56}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

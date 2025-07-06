@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bob, a marathon runner, is preparing for a race.  He runs a total of 70 miles in the 3 days leading up to the race. On day one he runs 20 percent of the total miles and on day 2 he runs 50 percent of the remaining miles.  How many miles does he run on day three to complete the 70 miles?",
+  "checkpoint": [
+    {
+      "\\boxed{28}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

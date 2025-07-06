@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Gargamel needed new tires for his truck. He went to the auto shop and bought 4 tires on sale for $75 each. The salesman told him that he saved a total of $36. If Gargamel saved the same amount on each tire, what was the original price of each tire?",
+  "checkpoint": [
+    {
+      "\\boxed{84}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

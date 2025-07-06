@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jonathan has 2/3 as many measuring spoons as measuring cups. If he has two dozen cups and gifts Pedro 6 measuring spoons for his birthday, calculate the total number of utensils Jonathan has remaining.",
+  "checkpoint": [
+    {
+      "\\boxed{34}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

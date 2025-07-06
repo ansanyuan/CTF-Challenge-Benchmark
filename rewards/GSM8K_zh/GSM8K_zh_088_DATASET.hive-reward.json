@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John's cow weighs 400 pounds.  It increased its weight to 1.5 times its starting weight.  He is able to sell the cow for $3 per pound.  How much more is it worth after gaining the weight?",
+  "checkpoint": [
+    {
+      "\\boxed{600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

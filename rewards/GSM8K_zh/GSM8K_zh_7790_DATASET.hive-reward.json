@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Solomon bought 20 marbles from his friend Johanna and added them to a store that had 50. If his father also gave him 2/5 times as many marbles as he bought from Johanna, and each marble weighs 2kgs, calculate the total weight of marbles Solomon has in the store.",
+  "checkpoint": [
+    {
+      "\\boxed{156}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

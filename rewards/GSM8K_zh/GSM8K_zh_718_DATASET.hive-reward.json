@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jake splits 8 shots of vodka with his friend.  Each shot of vodka is 1.5 ounces.  If the vodka is 50% pure alcohol, how much pure alcohol did Jake drink?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

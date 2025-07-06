@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jules is walking dogs to help pay for his family's vacation. The vacation costs $1,000. There are five members in his family and each one must contribute the same amount towards the vacation cost. He charges $2 to start a walk and $1.25 per block. If he walks 20 dogs, how many blocks in total does he have to walk them?",
+  "checkpoint": [
+    {
+      "\\boxed{128}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

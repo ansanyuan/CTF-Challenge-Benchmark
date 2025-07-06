@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sean buys 3 cans of soda, 2 soups, and 1 sandwich.  Each soup cost as much as the 3 combined sodas.  The sandwich cost 3 times as much as the soup.  If the soda cost $1 how much did everything cost together?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

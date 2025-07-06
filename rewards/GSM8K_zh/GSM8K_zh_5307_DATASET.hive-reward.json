@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At the Johnson family reunion, there were 45 children and one third as many adults.  One third of the adults wore blue.  How many adults did not wear blue?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

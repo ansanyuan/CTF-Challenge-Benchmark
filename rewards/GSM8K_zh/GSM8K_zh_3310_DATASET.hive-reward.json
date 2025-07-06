@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Denver uses 7 pieces of wood for each birdhouse and he pays $1.50 for each piece of wood. If he makes a $5.50 profit per birdhouse, how much will Denver charge to Danny for buying two birdhouses?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

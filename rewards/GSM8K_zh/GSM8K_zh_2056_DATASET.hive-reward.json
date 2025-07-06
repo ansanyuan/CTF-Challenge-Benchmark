@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sarah makes 5 times more money per hour than Connor does. If Connor earns $7.20 per hour, how much does Sarah make in an 8-hour day?",
+  "checkpoint": [
+    {
+      "\\boxed{288}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

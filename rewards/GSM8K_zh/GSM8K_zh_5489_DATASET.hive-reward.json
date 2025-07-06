@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The population of Delaware is 974,000. A study showed that there are 673 cell phones per 1000 people in the state. How many cell phones are there in Delaware?",
+  "checkpoint": [
+    {
+      "\\boxed{655502}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

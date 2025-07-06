@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jack has a stack of books that is 12 inches thick. He knows from experience that 80 pages is one inch thick. If he has 6 books, how many pages is each one on average?",
+  "checkpoint": [
+    {
+      "\\boxed{160}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

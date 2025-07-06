@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There is a massive rainstorm lasting 4 days.  There is an area that collects water to prevent flooding in the area.  It ends up overflowing on the 4th day.  The area can hold the equivalent of 6 feet of rain.  It can also drain out the equivalent of 3 inches of rain per day to the nearby river without causing problems.  The first day it rained 10 inches.  The second day it rained twice that much.  On the third day, it rained 50% more than the second day.  It flooded the fourth day before getting a chance to do any of the draining.  What is the minimum amount it rained on the fourth day?",
+  "checkpoint": [
+    {
+      "\\boxed{21}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

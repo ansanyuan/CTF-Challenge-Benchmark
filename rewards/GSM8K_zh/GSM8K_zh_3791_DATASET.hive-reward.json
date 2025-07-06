@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James buys jars for his honey.  He has 5 hives that each produce 20 liters of honey.  Each jar can hold .5 liters.  How many jars will he need to buy if his friend is bringing his own jars for half the honey?",
+  "checkpoint": [
+    {
+      "\\boxed{100}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

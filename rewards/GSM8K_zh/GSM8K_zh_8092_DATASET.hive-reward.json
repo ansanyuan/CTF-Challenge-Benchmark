@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The school auditorium has 4 rows of seats. There are 18 seats in each row. One-fourth of the seats were occupied by the administrators. One-third of the remaining seats were occupied by the parents and the rest were occupied by the students. How many students were there in the school auditorium?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

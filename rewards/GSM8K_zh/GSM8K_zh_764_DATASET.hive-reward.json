@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Josh has 18 yards of ribbon that is to be used equally to 6 gifts. If each gift will use 2 yards of ribbon, how many yards of ribbon will be left?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

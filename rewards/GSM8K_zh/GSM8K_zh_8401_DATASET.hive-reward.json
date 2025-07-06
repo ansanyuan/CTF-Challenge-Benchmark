@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Andrew bakes 200 mini cinnamon rolls and 300 mini blueberry muffins. A normal cinnamon roll has 600 calories and a normal blueberry muffin has 450 calories. If a mini pastry has 1/3rd of the calories of a normal version, how many calories do the pastries he baked have?",
+  "checkpoint": [
+    {
+      "\\boxed{85000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

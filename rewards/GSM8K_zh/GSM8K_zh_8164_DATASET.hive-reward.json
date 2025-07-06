@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rong has been saving 20 coins in his piggy bank every month. Neil has been saving 2/5 times more coins in his piggy bank per month than Rong. How many coins are they having ten years after they started their savings?",
+  "checkpoint": [
+    {
+      "\\boxed{5760}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

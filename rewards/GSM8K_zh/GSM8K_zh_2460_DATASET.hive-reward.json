@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 3 workers producing chairs in a furniture factory. Each of them produces 4 chairs an hour. As a group, they produce an additional chair every 6 hours. In total, how many chairs have been produced after 6 hours?",
+  "checkpoint": [
+    {
+      "\\boxed{73}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

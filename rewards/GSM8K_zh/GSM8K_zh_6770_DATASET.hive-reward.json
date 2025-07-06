@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ken caught twice as many fish as Kendra, but Ken released 3 fish back into the lake. Kendra caught 30 fish and did not release any of them back into the lake. How many fish did Ken and Kendra bring home?",
+  "checkpoint": [
+    {
+      "\\boxed{87}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

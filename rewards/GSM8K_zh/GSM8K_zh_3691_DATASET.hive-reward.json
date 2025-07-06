@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sandy's monthly phone bill expense is equal to ten times her age now. In two years, Sandy will be three times as old as Kim. If Kim is currently 10 years old, calculate Sandy's monthly phone bill expense.",
+  "checkpoint": [
+    {
+      "\\boxed{340}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

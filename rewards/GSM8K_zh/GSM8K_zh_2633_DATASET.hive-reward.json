@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The swimming club went to a swim meet in another town. They took 2 cars and 3 vans. There were 5 people in each car and 3 people in each van. Each car can hold a maximum of 6 people and each van can hold a maximum of 8 people.  How many more people could have ridden with the swim team?",
+  "checkpoint": [
+    {
+      "\\boxed{17}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

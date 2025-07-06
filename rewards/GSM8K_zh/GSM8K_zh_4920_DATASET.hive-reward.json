@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mcdonald is planning to open up a farm that provides eggs to the community. In his local community, Saly needs 10 eggs, Ben needs 14 eggs, and Ked needs half of the number of eggs needed by Ben per week. In a month which has 4 weeks, how many eggs should Mcdonald's farm produce?",
+  "checkpoint": [
+    {
+      "\\boxed{124}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

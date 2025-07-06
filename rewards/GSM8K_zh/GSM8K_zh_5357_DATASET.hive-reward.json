@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Vivi bought fabric to make new pillows for her bed. She spent $75 on checkered fabric and $45 on plain fabric. If both fabrics cost $7.50 per yard, how many total yards of fabric did she buy?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom plants 10 trees a year.  Every year he also chops down 2 trees a year.  He starts with 50 trees.  After 10 years 30% of the trees die.  How many trees does he have left?",
+  "checkpoint": [
+    {
+      "\\boxed{91}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

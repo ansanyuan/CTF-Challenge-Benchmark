@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A dance studio offers lessons to students. It costs $25 per session to rent the studio plus $1.50 per student per session. At present, the dance studio has 10 students and is rented 3 days a week. How much are the expected earnings of the dance studio in a month?",
+  "checkpoint": [
+    {
+      "\\boxed{480}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Eight spheres of radius 100 are placed on a flat surface so that each sphere is tangent to two others and their centers are the vertices of a regular octagon .  A ninth sphere is placed on the flat surface so that it is tangent to each of the other eight spheres.  The radius of this last sphere is $a +b\\sqrt {c},$ where $a, b,$ and $c$ are positive integers , and $c$ is not divisible by the square of any prime .  Find $a + b + c$ .",
-    "checkpoint": [
-        {
-            "152": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Eight spheres of radius 100 are placed on a flat surface so that each sphere is tangent to two others and their centers are the vertices of a regular octagon .  A ninth sphere is placed on the flat surface so that it is tangent to each of the other eight spheres.  The radius of this last sphere is $a +b\\sqrt {c},$ where $a, b,$ and $c$ are positive integers , and $c$ is not divisible by the square of any prime .  Find $a + b + c$ .",
+  "checkpoint": [
+    {
+      "\\boxed{152}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

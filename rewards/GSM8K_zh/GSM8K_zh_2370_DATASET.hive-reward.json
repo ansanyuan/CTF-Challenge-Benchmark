@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jason has a carriage house that he rents out.  He’s charging $50.00 per day or $500.00 for 14 days.  Eric wants to rent the house for 20 days.  How much will it cost him?",
+  "checkpoint": [
+    {
+      "\\boxed{800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

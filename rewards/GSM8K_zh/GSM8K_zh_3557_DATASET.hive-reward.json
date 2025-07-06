@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kathleen saved $21 in June, $46 in July, and $45 in August. Then Kathleen spent $12 on school supplies and $54 on new clothes. Kathleen’s aunt said she would give Kathleen $25 if Kathleen saves more than $125.  How much money does Kathleen have left?",
+  "checkpoint": [
+    {
+      "\\boxed{46}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

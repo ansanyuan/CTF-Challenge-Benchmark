@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Finn watches 11 tadpoles swimming in the pond.  Suddenly he sees 6 of them come out of hiding from under a lily pad ,then he sees 2 of them hide under a rock.  How many tadpoles can Finn see in the pond now?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

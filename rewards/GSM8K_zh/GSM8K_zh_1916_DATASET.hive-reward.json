@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Building one birdhouse requires 7 planks and 20 nails.  If 1 nail costs $0.05, and one plank costs $3, what is the cost, in dollars, to build 4 birdhouses?",
+  "checkpoint": [
+    {
+      "\\boxed{88}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

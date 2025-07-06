@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Every year, four clowns and thirty children go on a carousel. This year, the candy seller, at the carousel, had 700 candies. The candy seller then sold 20 candies, to each of the clowns and the children, who attended. How many candies did he have left?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

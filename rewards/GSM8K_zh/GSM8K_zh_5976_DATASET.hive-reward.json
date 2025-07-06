@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A cup of dog food weighs 1/4 of a pound.  If Mike has 2 dogs that each eat 6 cups of dog food twice a day how many 20 pound bags of dog food does he need to buy a month?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

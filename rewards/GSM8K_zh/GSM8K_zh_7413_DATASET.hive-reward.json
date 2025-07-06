@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marcus had 18 pebbles. He skipped half of them across the lake, but Freddy gave him another 30 pebbles. How many pebbles does Marcus have now?",
+  "checkpoint": [
+    {
+      "\\boxed{39}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A town is trying to clear litter from its streets. The council pays for adding 14 trash cans to the streets and also pays for adding twice as many trash cans to the back of stores. How many trash cans has the town paid for?",
+  "checkpoint": [
+    {
+      "\\boxed{42}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：3000 bees hatch from the queen's eggs every day. If a queen loses 900 bees every day, how many total bees are in the hive (including the queen) at the end of 7 days if at the beginning the queen had 12500 bees?",
+  "checkpoint": [
+    {
+      "\\boxed{27201}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

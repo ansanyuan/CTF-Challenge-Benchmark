@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lars owns a bakeshop. She can bake 10 loaves of bread within an hour and 30 baguettes every 2 hours. If she bakes 6 hours a day, how many breads does she makes?",
+  "checkpoint": [
+    {
+      "\\boxed{150}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

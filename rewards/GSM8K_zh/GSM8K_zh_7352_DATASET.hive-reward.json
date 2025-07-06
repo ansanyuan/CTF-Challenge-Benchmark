@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rita put a $120 elliptical machine on layaway at her local sports good store. After making a down payment equal to half the cost of the machine, she completely forgot about it. Sometime before the pick-up date, a store employee called offered to waive all layaway fees and taxes on the condition that Rita paid the balance within 10 days. What is the daily minimum amount, in dollars, that Rita must pay to own the elliptical machine?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

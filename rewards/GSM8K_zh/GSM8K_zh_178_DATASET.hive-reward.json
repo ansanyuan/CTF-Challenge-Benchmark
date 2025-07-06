@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James decides to replace his car.  He sold his $20,000 car for 80% of its value and then was able to haggle to buy a $30,000 sticker price car for 90% of its value.  How much was he out of pocket?",
+  "checkpoint": [
+    {
+      "\\boxed{11000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

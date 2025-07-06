@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kevin has a shoebox filled with toads.  Every day, Kevin feeds each toad 3 worms.  It takes Kevin 15 minutes to find each worm.  If it takes Kevin 6 hours to find enough worms to feed all of his toads, how many toads does Kevin have in his shoebox?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

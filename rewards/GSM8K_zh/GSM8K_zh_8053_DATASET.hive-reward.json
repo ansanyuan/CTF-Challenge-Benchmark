@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A boy has 5 cards. His brother has 3 fewer cards than he has. How many cards do they have together?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

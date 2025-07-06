@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kimberly bought 8 packages of cat food and 6 packages of dog food. Each package of cat food contained 11 tins, and each package of dog food contained 6 tins. How many more tins of cat food than dog food did Kimberly buy?",
+  "checkpoint": [
+    {
+      "\\boxed{52}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

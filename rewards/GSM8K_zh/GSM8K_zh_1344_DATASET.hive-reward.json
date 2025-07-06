@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 1250 pairs of shoes in the warehouse. There are 540 pairs that are blue. The rest are either green or purple. The number of green shoes is equal to the number of purple shoes. How many pairs of purple shoes are in the warehouse?",
+  "checkpoint": [
+    {
+      "\\boxed{355}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

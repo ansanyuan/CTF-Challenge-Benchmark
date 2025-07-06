@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cheyenne is a craftswoman making pots for sale. On a particular week, she made 80 clay pots. However, when she put them in the sun to dry, 2/5 of the pots cracked and could not be sold. How much money did Cheyenne make from selling the remaining items at $40 per clay pot?",
+  "checkpoint": [
+    {
+      "\\boxed{1920}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

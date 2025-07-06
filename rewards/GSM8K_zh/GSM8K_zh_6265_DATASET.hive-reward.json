@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There were 133 people at a camp. There were 33 more boys than girls. How many girls were at the camp?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

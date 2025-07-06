@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On a mall-wide sale, Andre bought a $1350 treadmill for a 30% discount and 2 pieces of 45-pound plates for $50 each. How much did Andre pay for the treadmill and plates?",
+  "checkpoint": [
+    {
+      "\\boxed{1045}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

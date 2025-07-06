@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Samantha, Aira, and Joe received 6 rubber bands each after they divided their bands equally.  If Samantha had 5 more bands than Aira and Aira had 1 fewer band than Joe, how many rubber bands did Aira have?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

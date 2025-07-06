@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：100 people apply for a job at Google. Of the people that apply, only 30% receive interviews. Of those who receive interviews, 20% receive a job offer. Of those who receive a job offer, a third of the people accept the position. How many people accept the position?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

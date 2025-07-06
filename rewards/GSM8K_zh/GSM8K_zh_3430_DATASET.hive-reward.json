@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：From Monday to Friday, Elle practices piano for 30 minutes. On Saturday, she practices piano three times as much as on a weekday. There is no practice on Sunday.  How many hours does Elle spend practicing piano each week?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

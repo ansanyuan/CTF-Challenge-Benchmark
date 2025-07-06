@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rachel is 12 years old, and her grandfather is 7 times her age. Her mother is half grandfather's age, and her father is 5 years older than her mother. How old will Rachel's father be when she is 25 years old?",
+  "checkpoint": [
+    {
+      "\\boxed{60}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

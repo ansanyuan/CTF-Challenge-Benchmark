@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Emma is 7 years old.  If her sister is 9 years older than her, how old will Emma be when her sister is 56?",
+  "checkpoint": [
+    {
+      "\\boxed{47}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

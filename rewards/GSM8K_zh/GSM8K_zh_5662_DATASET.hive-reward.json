@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The civic league was hosting a pancake breakfast fundraiser.  A stack of pancakes was $4.00 and you could add bacon for $2.00.  They sold 60 stacks of pancakes and 90 slices of bacon.  How much did they raise?",
+  "checkpoint": [
+    {
+      "\\boxed{420}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

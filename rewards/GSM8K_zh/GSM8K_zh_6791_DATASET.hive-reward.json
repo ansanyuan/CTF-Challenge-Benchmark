@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Quentin, Skylar, and Colten have a total of 383 chickens.  Quentin has 25 more than double the chickens that Skylar has.  Skylar has 4 less than triple the number of chickens that Colten has.  How many chickens does Colten have?",
+  "checkpoint": [
+    {
+      "\\boxed{37}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

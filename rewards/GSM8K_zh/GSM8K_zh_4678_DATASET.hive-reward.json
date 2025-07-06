@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：For a fundraiser, Nellie needs to sell 45 rolls of gift wrap. So far, she has sold 1 roll to her grandmother, 10 rolls to her uncle, and 6 rolls to a neighbor. How many more rolls of gift wrap does Nellie need to sell?",
+  "checkpoint": [
+    {
+      "\\boxed{28}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

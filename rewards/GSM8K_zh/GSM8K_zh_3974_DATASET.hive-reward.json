@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jenny has 6 Pokemon cards. Orlando has 2 more cards than Jenny. Richard has three times as many cards as Orlando. How many Pokemon cards do they have in all?",
+  "checkpoint": [
+    {
+      "\\boxed{38}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

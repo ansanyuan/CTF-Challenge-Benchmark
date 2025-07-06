@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ali, Nada, and John have a total of $67 in their wallets. Ali has $5 less than Nada and John has 4 times more than Nada. How much money does John have?",
+  "checkpoint": [
+    {
+      "\\boxed{48}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

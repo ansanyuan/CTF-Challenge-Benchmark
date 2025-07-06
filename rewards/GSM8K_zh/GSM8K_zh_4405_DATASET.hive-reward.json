@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John sells 20 woodburning for $15 each.  The wood cost $100.  How much does he make in profit?",
+  "checkpoint": [
+    {
+      "\\boxed{200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

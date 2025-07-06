@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mark constructs a cube of pure gold.  The cube is 6 cm on each side.  The density of gold is 19 grams per cubic centimeter.  He buys the gold for $60 per gram.  He sells it for 1.5 times its gold value.  What was the profit?",
+  "checkpoint": [
+    {
+      "\\boxed{123120}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

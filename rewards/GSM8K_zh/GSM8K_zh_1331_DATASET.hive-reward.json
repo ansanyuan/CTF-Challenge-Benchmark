@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sara is 6 inches taller than her brother Joe. Joe is 3 inches taller than his friend Roy. If Roy is 36 inches tall, how tall is Sara?",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

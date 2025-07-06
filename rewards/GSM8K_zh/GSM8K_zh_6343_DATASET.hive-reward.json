@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A big box store sees 175 people enter their store every hour.  This number doubles during the holiday season.  During the holiday season, how many customers will this big box store see in 8 hours?",
+  "checkpoint": [
+    {
+      "\\boxed{2800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

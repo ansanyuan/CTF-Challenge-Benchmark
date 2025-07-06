@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A newspaper subscription costs $10/month. If you purchase an annual subscription you obtain a 20% discount on your total bill. How much do you end up paying if you go with the annual subscription?",
+  "checkpoint": [
+    {
+      "\\boxed{96}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

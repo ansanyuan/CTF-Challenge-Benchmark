@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John volunteers at a shelter twice a month for 3 hours at a time.  How many hours does he volunteer per year?",
+  "checkpoint": [
+    {
+      "\\boxed{72}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

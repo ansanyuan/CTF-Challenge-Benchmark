@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Hendricks buys a guitar for $200, which is 20% less than what Gerald bought the same guitar for. How much did Gerald pay for his guitar?",
+  "checkpoint": [
+    {
+      "\\boxed{250}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Graeme is weighing cookies to see how many he can fit in his box. His box can only hold 40 pounds of cookies. If each cookie weighs 2 ounces, how many cookies can he fit in the box?",
+  "checkpoint": [
+    {
+      "\\boxed{320}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

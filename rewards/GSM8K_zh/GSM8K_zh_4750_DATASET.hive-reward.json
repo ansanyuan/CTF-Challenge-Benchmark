@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lassie eats half of her bones on Saturday. On Sunday she received 10 more bones. She now has a total of 35 bones. How many bones did she start with before eating them on Saturday?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

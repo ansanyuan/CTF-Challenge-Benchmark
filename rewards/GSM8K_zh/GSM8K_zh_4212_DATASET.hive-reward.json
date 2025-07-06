@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The average number of fruits per basket in five baskets is 25. If basket A contains 15 apples, B has 30 mangoes, C has 20 peaches, D has 25 pears and E has some bananas, how many bananas are in basket E?",
+  "checkpoint": [
+    {
+      "\\boxed{35}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

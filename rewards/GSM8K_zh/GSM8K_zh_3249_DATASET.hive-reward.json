@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 180 students in ninth grade. 1/4 of them bombed their finals because they were going through difficult breakups. 1/3rd of the rest didn't show up to take the test, and another 20 got less than a D. How many students passed their finals?",
+  "checkpoint": [
+    {
+      "\\boxed{70}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

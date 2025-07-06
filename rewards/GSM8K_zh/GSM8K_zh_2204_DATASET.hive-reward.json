@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ben has 20 eggs in the fridge. Yesterday, he ate 4 eggs in the morning and 3 in the afternoon. How many eggs does Ben have now?",
+  "checkpoint": [
+    {
+      "\\boxed{13}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

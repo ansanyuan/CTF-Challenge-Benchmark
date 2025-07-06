@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ibrahim wants to buy an MP3 player for 120 euros and a CD for 19 euros. He has 55 euros in savings. His father participates in his purchase by giving him 20 euros. How much money does Ibrahim lack?",
+  "checkpoint": [
+    {
+      "\\boxed{64}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom finds 10 quarters, 3 dimes, and 4 nickels and 200 pennies. In dollars, how much money did he find?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ben has 8 apples more than Phillip does. Tom has three eighths as many apples at Ben has. If Phillip has 40 apples, how many apples does Tom have?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

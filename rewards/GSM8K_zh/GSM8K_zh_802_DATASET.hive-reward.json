@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alex gets paid $500 a week and 10% of his weekly income is deducted as tax. He also pays his weekly water bill for $55 and gives away another 10% of his weekly income as a tithe. How much money does Alex have left?",
+  "checkpoint": [
+    {
+      "\\boxed{345}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

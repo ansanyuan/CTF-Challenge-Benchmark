@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a basketball game, Cyrus made exactly eighty percent of the shots he attempted. He attempted twenty shots. How many times did he miss the shots?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

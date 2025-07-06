@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The number of goals scored in a game against Barca by exactly two players last season accounts for 20% of all goals scored in the league. If the players scored an equal number of goals, and the total number of goals scored in the league against Barca that season is 300, calculate the number of goals each of the two players scored.",
+  "checkpoint": [
+    {
+      "\\boxed{30}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

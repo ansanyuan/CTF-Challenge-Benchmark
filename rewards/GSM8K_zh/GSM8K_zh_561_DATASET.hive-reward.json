@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The student council sells scented erasers in the morning before school starts to help raise money for school dances. The local bookstore donated 48 boxes of erasers. There are 24 erasers in each box. If the student council sells the erasers for $0.75 each, how much money will they make?",
+  "checkpoint": [
+    {
+      "\\boxed{864}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

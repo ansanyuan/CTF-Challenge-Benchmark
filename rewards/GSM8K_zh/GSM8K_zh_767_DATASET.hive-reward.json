@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Megan is delivering meals on wheels. Out of her 30 clients, 7 need vegan meals, 8 need kosher meals, and three people need meals that are both vegan and kosher. How many meals does Megan deliver that are neither kosher nor vegan?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

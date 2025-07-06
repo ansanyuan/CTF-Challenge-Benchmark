@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Darma can eat 20 peanuts in 15 seconds. At this same rate, how many peanuts could she eat in 6 minutes?",
+  "checkpoint": [
+    {
+      "\\boxed{480}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

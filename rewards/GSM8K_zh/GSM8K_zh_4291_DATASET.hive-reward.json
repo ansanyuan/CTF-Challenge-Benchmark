@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mary wants to ride the world's tallest roller coaster, Kingda Ka. The minimum height to ride the roller coaster is 140 cm. Mary's brother is 180 cm, Mary is 2/3 the height of her brother. How many more centimeters does Mary need to grow to ride Kingda Ka?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

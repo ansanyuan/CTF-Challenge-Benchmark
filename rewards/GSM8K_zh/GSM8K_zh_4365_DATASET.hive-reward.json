@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jackson wants to improve his endurance running. His goal is to start by running 3 miles a day the first week, then spend the next four weeks running one additional mile/day each week. How many miles is Jackson running each day at the end of this exercise program?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：An online website offers a flat rate shipping price of $5.00 if the purchase is below $50.00.  If it's above $50.00 then they will charge 20% of the purchase price for shipping.  Thomas orders 3 shirts for $12.00 each, a pack of socks for $5.00, 2 pairs of shorts for $15.00 each and a pair of swim trunks for $14.00  How much will his total bill be, including shipping?",
+  "checkpoint": [
+    {
+      "\\boxed{102}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

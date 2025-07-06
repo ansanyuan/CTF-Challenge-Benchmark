@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Five coaster vans are used to transport students for their field trip. Each van carries 28 students, 60 of which are boys. How many are girls?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

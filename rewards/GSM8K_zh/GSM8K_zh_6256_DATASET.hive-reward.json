@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rich is reading a 372-page book. He has already read 125 pages of the book. If he skipped the 16 pages of maps, how many more pages does he have left to read to finish the book?",
+  "checkpoint": [
+    {
+      "\\boxed{231}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

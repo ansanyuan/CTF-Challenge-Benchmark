@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bella has two times as many marbles as frisbees. She also has 20 more frisbees than deck cards. If she buys 2/5 times more of each item, what would be the total number of the items she will have if she currently has 60 marbles?",
+  "checkpoint": [
+    {
+      "\\boxed{140}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

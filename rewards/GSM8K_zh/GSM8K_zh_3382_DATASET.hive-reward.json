@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Five shirts are bought. Of the 5 shirts, there are 3 shirts that cost $15 each. The remaining shirts are $20 each. What is the cost, in dollars, of all 5 shirts?",
+  "checkpoint": [
+    {
+      "\\boxed{85}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

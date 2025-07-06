@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A store owner repacked his oils into 200 mL bottles. He was able to make 20 bottles. How many liters of oil did the store owner have?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

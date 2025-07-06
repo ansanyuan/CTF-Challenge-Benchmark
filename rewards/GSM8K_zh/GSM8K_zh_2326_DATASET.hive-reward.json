@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：George was selling some of his old toys on the internet. He managed to sell 3 little cars and a set of Legos. In total, he earned $45. How much did the Legos set cost, if one little car was sold for $5?",
+  "checkpoint": [
+    {
+      "\\boxed{30}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cary is an engineer in charge of designing an irrigation system for three farmers. Farmer Bob grows 3 acres of corn, 9 acres of cotton, and 12 acres of beans. Farmer Brenda grows 6 acres of corn, 7 acres of cotton, and 14 acres of beans. Farmer Bernie grows 2 acres of corn and 12 acres of cotton. If corn takes 20 gallons of water an acre, cotton takes 80 gallons of water an acre, and beans take twice as much water as corn, what percentage of the total water used will go to Farmer Bob's farm?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

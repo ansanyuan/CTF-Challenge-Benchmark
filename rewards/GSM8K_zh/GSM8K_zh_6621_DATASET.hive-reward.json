@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Robby, Jaylen and Miranda are employed at a Cheesecake factory, earning $10 per hour. They work 10 hours a day, five days a week. Robby saves 2/5 of his salary, Jaylene saves 3/5 of his salary, while Miranda saves half of her salary. What are the combined savings of the three employees after four weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{3000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

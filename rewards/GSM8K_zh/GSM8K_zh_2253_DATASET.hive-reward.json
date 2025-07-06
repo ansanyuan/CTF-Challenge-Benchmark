@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mary and Jimmy start running from the same spot, but in opposite directions. Mary runs at 5 miles per hour and Jimmy runs at 4 miles per hour. What is the distance between them after 1 hour?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

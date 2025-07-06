@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a section of the forest, there are 100 weasels and 50 rabbits. Three foxes invade this region and hunt the rodents. Each fox catches an average of 4 weasels and 2 rabbits per week. How many rabbits and weasels will be left after 3 weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{96}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

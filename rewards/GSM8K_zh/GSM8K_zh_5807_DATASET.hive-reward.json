@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dylan filled his glass with ice cubes before he poured his soda into it. He counted and there were 8 ice cubes in his glass. Later when he prepares a pitcher of lemonade he puts two times as many ice cubes in the pitcher. Then it is time to refill the ice cube trays which have 12 spaces each for ice cubes. How many trays does Dylan need to fill if he used exactly all the ice they had in them?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

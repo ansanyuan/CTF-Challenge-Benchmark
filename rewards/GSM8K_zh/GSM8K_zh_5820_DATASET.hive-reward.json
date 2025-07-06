@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Casey is pumping water out of her well. She can pump 3 gallons a minute. She has 4 rows of 15 corn plants each, and each plant needs half a gallon of water. She also has 10 pigs, which each need 4 gallons of water, and 20 ducks that each need a quarter of a gallon of water. How many minutes does Casey need to spend pumping water?",
+  "checkpoint": [
+    {
+      "\\boxed{25}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

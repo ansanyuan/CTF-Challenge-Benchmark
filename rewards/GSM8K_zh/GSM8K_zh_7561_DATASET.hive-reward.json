@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A company pays each of its employees $600 in a month. The company has a policy of increasing the salaries of each of its employees by 10% of the initial salary every year for those who've stayed in the company for five years. If Sylvie just clocked 5 years in the company last December, what's her annual salary after three more years of service?",
+  "checkpoint": [
+    {
+      "\\boxed{9360}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

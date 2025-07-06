@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dale and Andrew had breakfast at a cafe. A slice of toast costs £1, and eggs cost £3 each. Dale had 2 slices of toast and 2 eggs. Andrew had 1 slice of toast and 2 eggs. How much did their breakfast cost?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

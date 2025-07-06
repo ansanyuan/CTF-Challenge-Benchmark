@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A jellyfish tank has numerous jellyfish in it. A fifth of the jellyfish are large, and a third of the large jellyfish change color from green to blue under UV light. The other jellyfish are small and always stay blue. When a UV light turned on, 6 jellyfish changed color. How many jellyfish are in the tank?",
+  "checkpoint": [
+    {
+      "\\boxed{90}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

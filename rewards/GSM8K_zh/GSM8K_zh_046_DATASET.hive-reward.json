@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：It's Ava's birthday party. Her parents bought a unicorn piñata for $13 and filled it with all of her favorite treats. They bought 4 bags of Reese's for $9 per bag, 3 bags of Snickers for $5 per bag, and 5 bags of Skittles for $7 per bag. How much did the unicorn piñata and the treats cost altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{99}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 192 soaps in a package. They put them in 2 big boxes. If each box contains 6 packages, how much soap do the 2 boxes contain in total?",
+  "checkpoint": [
+    {
+      "\\boxed{2304}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

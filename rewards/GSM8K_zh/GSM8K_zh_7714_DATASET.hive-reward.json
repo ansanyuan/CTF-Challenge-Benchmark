@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James has 6 more candies than Robert. John has twice as many candies as Robert. If John has 54 candies, how many more candies does John have than James?",
+  "checkpoint": [
+    {
+      "\\boxed{21}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

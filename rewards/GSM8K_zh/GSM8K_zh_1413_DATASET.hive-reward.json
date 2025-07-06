@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A mother duck as 8 ducklings. The first 3 ducklings find 5 snails each. Another 3 ducklings find 9 snails each, and the remaining ducklings each find half the number of snails that mother duck finds. If mother duck finds tree times the total number of snails as the first 2 groups of ducklings, how many snails does the family of ducks have collectively?",
+  "checkpoint": [
+    {
+      "\\boxed{294}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

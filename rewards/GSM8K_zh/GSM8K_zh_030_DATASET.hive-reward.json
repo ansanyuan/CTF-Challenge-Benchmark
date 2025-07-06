@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mrs. Snyder used to spend 40% of her monthly income on rent and utilities. Her salary was recently increased by $600 so now her rent and utilities only amount to 25% of her monthly income. How much was her previous monthly income?",
+  "checkpoint": [
+    {
+      "\\boxed{1000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

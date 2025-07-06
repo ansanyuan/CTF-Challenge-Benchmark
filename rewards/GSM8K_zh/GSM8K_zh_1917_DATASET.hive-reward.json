@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The Donaldsons pay $15 per hour for babysitting. The Merck family pays $18 per hour and the Hille family pays $20 per hour for babysitting. Layla babysat for the Donaldsons for 7 hours, the Merck family for 6 hours and the Hille family for 3 hours. How many dollars did Layla earn babysitting?",
+  "checkpoint": [
+    {
+      "\\boxed{273}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

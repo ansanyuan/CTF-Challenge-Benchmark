@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Diane bakes four trays with 25 gingerbreads in each tray and three trays with 20 gingerbreads in each tray. How many gingerbreads does Diane bake?",
+  "checkpoint": [
+    {
+      "\\boxed{160}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

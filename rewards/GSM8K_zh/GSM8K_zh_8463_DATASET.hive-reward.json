@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Emily can peel 6 shrimp a minute and saute 30 shrimp in 10 minutes. How long will it take her to peel and cook 90 shrimp?",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

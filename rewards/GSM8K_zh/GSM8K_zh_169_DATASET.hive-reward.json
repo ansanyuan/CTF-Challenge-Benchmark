@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Silvia’s bakery is offering 10% on advanced orders over $50.00.  She orders 2 quiches for $15.00 each, 6 croissants at $3.00 each and 6 buttermilk biscuits for $2.00 each.  How much will her order be with the discount?",
+  "checkpoint": [
+    {
+      "\\boxed{54}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

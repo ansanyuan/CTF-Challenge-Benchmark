@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A laboratory needs flasks, test tubes, and safety gear to carry out its experiments. They were given a $325 budget for the month. They bought $150 worth of flasks, spent two-thirds of that amount on test tubes, and used half of the test tube cost on safety gear. How many dollars of their budget remained?",
+  "checkpoint": [
+    {
+      "\\boxed{25}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

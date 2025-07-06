@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A yearly book sale is held in school where students can sell their old books at a cheaper price. Two-fifths of Lovely's books can be sold for $2.50 each and the rest for $2 each. How much will Lovely earn if all 10 books were sold?",
+  "checkpoint": [
+    {
+      "\\boxed{22}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

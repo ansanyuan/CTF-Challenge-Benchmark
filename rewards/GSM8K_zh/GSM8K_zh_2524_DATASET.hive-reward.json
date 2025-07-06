@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jim buys a wedding ring for $10,000.  He gets his wife a ring that is twice that much and sells the first one for half its value.  How much is he out of pocket?",
+  "checkpoint": [
+    {
+      "\\boxed{25000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

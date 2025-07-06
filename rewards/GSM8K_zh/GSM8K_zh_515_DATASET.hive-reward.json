@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Clara brings a package of 100 stickers to school. She gives 10 stickers to a boy she likes. She gives half of the stickers which she has left to her best friends. How many stickers does Clara have left?",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

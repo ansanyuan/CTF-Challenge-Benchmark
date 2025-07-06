@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Paul has five dogs. For every 10 pounds they weigh, they need 1 pound of dog food per day. One weighs 20 pounds. One weighs 40. Another weighs 10. One weighs 30 and the final one weighs 50 pounds. How much dog food does he need each day?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

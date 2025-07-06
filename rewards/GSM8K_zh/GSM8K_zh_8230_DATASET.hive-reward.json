@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A council met to vote on a new regulation. The vote passed with twice as many votes in favor of the new regulation as there were against it. If there are 33 people on the council, what was the number of votes in favor of the new regulation?",
+  "checkpoint": [
+    {
+      "\\boxed{22}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

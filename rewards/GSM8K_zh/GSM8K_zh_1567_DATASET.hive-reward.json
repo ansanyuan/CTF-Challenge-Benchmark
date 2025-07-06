@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Two apartment roommates split the rent, utilities, and grocery payments equally each month. The rent for the whole apartment is $1100 and utilities are $114. If one roommate pays $757 in all, how many dollars are groceries for the whole apartment?",
+  "checkpoint": [
+    {
+      "\\boxed{300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Monica made cookies for herself and her family. Her father ate 10 cookies and her mother ate half as much as the father. Her brother ate 2 more than her mother. How many cookies are left for Monica if she made 30 cookies in total?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

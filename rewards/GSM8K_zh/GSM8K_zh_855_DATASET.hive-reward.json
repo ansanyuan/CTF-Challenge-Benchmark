@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jeff committed to run for an hour a day during weekdays. On Thursday, he cut short his run by 20 minutes but was able to jog 10 minutes more on Friday. How many minutes was he able to run for that week?",
+  "checkpoint": [
+    {
+      "\\boxed{290}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

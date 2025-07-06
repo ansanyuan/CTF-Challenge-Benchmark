@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Darnell pays $12 for unlimited texting and calling on his phone each month. An alternative phone plan would charge $1 per 30 texts and $3 per 20 minutes of calls per month. Darnell sends 60 texts and spends 60 minutes on the phone each month. How many dollars less would he pay on the alternative plan?",
+  "checkpoint": [
+    {
+      "\\boxed{1}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

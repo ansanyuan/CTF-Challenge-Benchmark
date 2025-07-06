@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Leila spent 3/4 of her savings on make-up and the rest on a sweater. If the sweater cost her $20, what were her original savings?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

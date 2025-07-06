@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A monitor is 21 inches by 12 inches.  There are 100 dots per inch.  How many total pixels are there?",
+  "checkpoint": [
+    {
+      "\\boxed{2520000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

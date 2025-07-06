@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Isabel loves to run in the forest and she does it within a circuit that is 365 meters long. She runs the circuit 7 times in the morning and runs it 3 times in the afternoon. How many meters does Isabel run during a week?",
+  "checkpoint": [
+    {
+      "\\boxed{25550}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There is one set of twins and one set of triplets. One twin is 7 years older than one triplet. If their combined ages are 44, how old is one of the twins?",
+  "checkpoint": [
+    {
+      "\\boxed{13}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

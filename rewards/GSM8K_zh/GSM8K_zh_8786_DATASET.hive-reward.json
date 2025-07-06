@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom's restaurant gets 6 reservations a night.  They normally order 2 meals that cost $5 each and a $5 bottle of wine.  How much do they make a week if they are open 2 days a week?",
+  "checkpoint": [
+    {
+      "\\boxed{180}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

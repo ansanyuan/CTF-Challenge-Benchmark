@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ashley had a birthday party and invited 20 of her friends, telling them to each invite one more person to attend the party. If half the number of the invited guests each came with one more person, what's the total number of people at the party, including Ashley?",
+  "checkpoint": [
+    {
+      "\\boxed{31}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

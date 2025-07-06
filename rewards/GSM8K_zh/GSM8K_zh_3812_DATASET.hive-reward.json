@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carmen is selling girl scout cookies. She sells three boxes of samoas to the green house for $4 each; two boxes of thin mints for $3.50 each and one box of fudge delights for $5 to the yellow house; and nine boxes of sugar cookies for $2 each to the brown house. How much money did Carmen make?",
+  "checkpoint": [
+    {
+      "\\boxed{42}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

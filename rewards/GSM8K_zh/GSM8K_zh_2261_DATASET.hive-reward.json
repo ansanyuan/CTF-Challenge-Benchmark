@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A special school has a deaf-student population 3 times its blind-student population. If there are 180 students in total, how many blind students are there?",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

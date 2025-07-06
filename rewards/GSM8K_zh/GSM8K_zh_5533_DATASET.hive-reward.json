@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Emma is planning a dinner party, so she went to a shop to buy the products she needs. She bought 8 kg of cheese and 7 kg of vegetables. One kilogram of cheese costs $4 and one kilogram of vegetable costs is $2 more expensive. How much did she pay for her shopping?",
+  "checkpoint": [
+    {
+      "\\boxed{74}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

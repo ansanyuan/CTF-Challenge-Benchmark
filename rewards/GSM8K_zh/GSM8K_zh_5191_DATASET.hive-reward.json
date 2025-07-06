@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kiaan is doing home delivery of newspapers in his neighborhood of 200 homes. After an hour of work, he has distributed newspapers to 2/5 of the homes. After another 2 hours of working, he realizes he has distributed newspapers to 60 percent of the remaining homes. How many homes does he still need to distribute the newspapers to?",
+  "checkpoint": [
+    {
+      "\\boxed{48}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

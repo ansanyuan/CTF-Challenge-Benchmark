@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Suraya picked 12 apples more than Caleb, and Caleb picked 5 apples less than Kayla. If Kayla picked 20 apples, how many more apples did Suraya pick than Kayla?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

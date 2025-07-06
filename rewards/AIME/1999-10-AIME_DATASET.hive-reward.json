@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Ten points in the plane are given, with no three collinear.  Four distinct segments joining pairs of these points are chosen at random, all such segments being equally likely.  The probability that some three of the segments form a triangle whose vertices are among the ten given points is $m/n,$ where $m_{}$ and $n_{}$ are relatively prime positive integers.  Find $m+n.$ ",
-    "checkpoint": [
-        {
-            "489": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Ten points in the plane are given, with no three collinear.  Four distinct segments joining pairs of these points are chosen at random, all such segments being equally likely.  The probability that some three of the segments form a triangle whose vertices are among the ten given points is $m/n,$ where $m_{}$ and $n_{}$ are relatively prime positive integers.  Find $m+n.$ ",
+  "checkpoint": [
+    {
+      "\\boxed{489}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

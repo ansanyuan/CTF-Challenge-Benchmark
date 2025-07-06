@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jeff and Brad are trying to divide 100 dollars between them. Jeff gets 4 times as much as Brad. How much does Jeff get in dollars?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

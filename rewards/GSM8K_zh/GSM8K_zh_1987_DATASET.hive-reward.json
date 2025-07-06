@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：$240 was divided between Kelvin and Samuel. Samuel received 3/4 of the money. From his share, Samuel then spent 1/5 of the original $240 on drinks. How much does Samuel have left?",
+  "checkpoint": [
+    {
+      "\\boxed{132}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

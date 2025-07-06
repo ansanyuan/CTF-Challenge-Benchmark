@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kimberley, Ela, and Houston all are sent to collect firewood by their grammy. Kimberley collects ten pounds of firewood, and Houston collects 12 pounds of firewood. If the three of them managed to collect a total of 35 pounds of firewood, how many pounds were collected by Ela?",
+  "checkpoint": [
+    {
+      "\\boxed{13}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jill and her brother Jack are going apple picking.  Jill's basket can hold twice as much as Jack's basket when both are full.  Jack's basket is full when it has 12 apples, but currently space for 4 more.  How many times could Jack's current number of apples fit into Jill's basket?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

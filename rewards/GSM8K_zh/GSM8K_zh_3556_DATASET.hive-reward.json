@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alex has 4 pens in the first week of a month. Every week her pen collection doubles. How many more pens will Alex have than Jane if Jane will have 16 pens after a month?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

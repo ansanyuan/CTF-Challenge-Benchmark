@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Connor sleeps 6 hours a night.  His older brother Luke sleeps 2 hours longer than Connor.  Connor’s new puppy sleeps twice as long as Luke.  How long does the puppy sleep?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

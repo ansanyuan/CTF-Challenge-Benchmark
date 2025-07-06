@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Elsie has a specific amount of wet wipes in a container in the morning. Throughout the day, she refills the container with 10 more wipes after using up 20. By nighttime, she only has 60 wipes left. How many wipes were in the container in the morning?",
+  "checkpoint": [
+    {
+      "\\boxed{70}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

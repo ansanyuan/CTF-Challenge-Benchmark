@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nicholas bought six times as much fabric as Kenneth. If Kenneth paid $40 for an oz of fabric and bought 700oz, calculate the amount of money that Nicholas paid more than Kenneth for the fabric he bought.",
+  "checkpoint": [
+    {
+      "\\boxed{140000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Anne's female cat weighs 2 kilograms. Her male cat is two times heavier.  If Anne is going to carry both of them, how many kilograms is she carrying?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

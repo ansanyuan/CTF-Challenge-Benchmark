@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 64 seventh graders at a middle school. This is 32% of the students at the school. The sixth graders comprise 38% of the students. How many sixth graders attend middle school?",
+  "checkpoint": [
+    {
+      "\\boxed{76}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

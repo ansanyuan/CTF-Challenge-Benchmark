@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A shoe company sells $4000 worth of shoes every month. If they want to make $60000 in an entire year how many more dollars per month should they make selling shoes?",
+  "checkpoint": [
+    {
+      "\\boxed{1000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

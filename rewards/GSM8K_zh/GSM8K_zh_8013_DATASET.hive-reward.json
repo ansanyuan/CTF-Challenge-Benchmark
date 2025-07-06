@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：My wife wants to evenly split the check but wants me to pay an additional 20% tip on our $50 dinner bill. How much did I end up paying?",
+  "checkpoint": [
+    {
+      "\\boxed{35}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Antoine is having a dinner party and his butcher recommends 1/2 pound of meat per person.  If he's inviting 6 people over and the beef tenderloin is $15.00 a pound, how much will this cost him?",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

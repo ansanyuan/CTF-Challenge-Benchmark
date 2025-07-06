@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Teresa is collecting pencils. She has 14 colored pencils and 35 black pencils. Her three younger siblings need pencils for class and their dad asks her to share all her pencils, giving each an equal number of pencils, regardless of color. He tells her she can keep 10 of them for herself. How many pencils does each sibling get?",
+  "checkpoint": [
+    {
+      "\\boxed{13}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

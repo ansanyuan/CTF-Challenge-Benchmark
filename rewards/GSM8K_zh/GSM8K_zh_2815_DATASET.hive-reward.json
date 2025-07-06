@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On a shopping trip in a crowded store, Josie had to wait 3 minutes for a cart, 13 minutes for an employee to unlock a cabinet to get her a product, 14 minutes for a stocker to restock a shelf with what she wanted, and 18 minutes in line to check out. Her shopping trip took an hour and a half. How many minutes did Josie spend shopping instead of waiting?",
+  "checkpoint": [
+    {
+      "\\boxed{42}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

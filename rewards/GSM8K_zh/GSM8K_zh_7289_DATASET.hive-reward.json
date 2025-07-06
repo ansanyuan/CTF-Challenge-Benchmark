@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A boat is traveling across a square lake at 10 MPH. It takes 2 hours to go across the length of the lake. It then travels the whole width of the lake at the same speed, which takes 30 minutes. How many square miles is the lake?",
+  "checkpoint": [
+    {
+      "\\boxed{100}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

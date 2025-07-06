@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：One hundred chips were divided by Ian and Lyle in the ratio 4:6. What percentage of the chips did Lyle have?",
+  "checkpoint": [
+    {
+      "\\boxed{60}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

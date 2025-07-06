@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：After receiving the $2000 stimulus check, Mr. Eithan decided to share the amount with his family. He gave 2/5 of the amount to his wife, 2/5 of the remaining amount to his first son, 40% of the remaining amount to his second son, and kept the remaining in their family savings account. Calculate the total amount he kept in the family's savings account.",
+  "checkpoint": [
+    {
+      "\\boxed{432}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

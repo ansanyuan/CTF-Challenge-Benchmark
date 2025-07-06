@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Fran's school just instituted a school uniform policy. Each student needs to buy five complete uniforms, each consisting of pants, shirt, tie and socks. The pants cost $20, the shirt costs twice as much as the pants, the tie costs 1/5 as much as the shirt and the socks cost $3/pair. How many dollars will each student need to spend?",
+  "checkpoint": [
+    {
+      "\\boxed{355}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tiffany is going to the beach and wants to make sure she has enough sunscreen. She knows she needs to re-apply sunscreen after 2 hours. She also knows she needs 3 ounces of sunscreen each application and a bottle contain 12 ounces and costs $3.5. If she is there for 16 hours, how much will the sunscreen cost?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

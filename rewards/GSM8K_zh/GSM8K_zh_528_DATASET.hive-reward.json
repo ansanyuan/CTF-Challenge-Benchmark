@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jason is making a salad. The lettuce has 30 calories, the cucumber has 80 calories, and the 12 croutons have 20 calories each. How many calories are in the salad?",
+  "checkpoint": [
+    {
+      "\\boxed{350}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

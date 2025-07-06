@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. Smith takes his wife, his parents, and his 3 children to a seafood buffet.  The price for the adult buffet is $30.  The price for the children’s buffet is $15.  Senior citizens get a 10% discount.  How much does Mr. Smith spend on the buffet for his entire family?",
+  "checkpoint": [
+    {
+      "\\boxed{159}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marie, the confectioner, makes 12 chocolate eggs, each weighing 10 ounces. She then packs an equal number of the eggs in 4 different gift boxes. Unfortunately, she leaves one of the boxes by the kitchen window and the afternoon sun melts everything. She tosses that box out. What is the total weight, in ounces, of the remaining chocolate eggs?",
+  "checkpoint": [
+    {
+      "\\boxed{90}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

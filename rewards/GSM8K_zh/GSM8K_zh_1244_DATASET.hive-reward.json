@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A jet travels 580 miles in 2 hours. At this rate, how far could the jet fly in 10 hours?",
+  "checkpoint": [
+    {
+      "\\boxed{2900}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

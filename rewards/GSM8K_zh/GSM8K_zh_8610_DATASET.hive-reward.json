@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bob has a certain number of marbles. If he receives 2 dozen more marbles, he will have 60 marbles. If he loses 10 of the marbles he has, how many marbles will Bob have?",
+  "checkpoint": [
+    {
+      "\\boxed{26}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

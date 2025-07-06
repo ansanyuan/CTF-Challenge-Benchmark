@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Wes wants to place a large planter pot at each corner of his rectangle-shaped pool.  Each planter will have a large palm fern that is $15.00 per plant, 4 creeping jennies that costs $4.00 per plant and 4 geraniums that cost $3.50 per plant.  How much will it cost to fill all the pots?",
+  "checkpoint": [
+    {
+      "\\boxed{180}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Last year, the school library purchased 50 new books. This year, it purchased 3 times as many books. If the library had 100 books before it purchased new books last year, how many books are in the library now?",
+  "checkpoint": [
+    {
+      "\\boxed{300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

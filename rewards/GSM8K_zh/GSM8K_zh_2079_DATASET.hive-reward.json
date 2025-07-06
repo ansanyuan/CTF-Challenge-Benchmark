@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 40 ducks in a pond.  50 percent of the ducks are Muscovy and 30 percent of the Muscovies are female.  How many female Muscovy ducks there?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

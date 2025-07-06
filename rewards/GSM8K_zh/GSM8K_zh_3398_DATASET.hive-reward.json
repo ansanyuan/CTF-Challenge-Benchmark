@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Leo and Ryan together have $48. Ryan owns 2/3 of the amount. Leo remembered that Ryan owed him $10 but he also owed Ryan $7. After the debts had been settled, how much money does Leo have?",
+  "checkpoint": [
+    {
+      "\\boxed{19}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

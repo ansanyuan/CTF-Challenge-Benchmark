@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nancy carves statues out of jade. A giraffe statue takes 120 grams of jade and sells for $150. An elephant statue takes twice as much jade and sells for $350. If Nancy has 1920 grams of jade, how much more money will she make turning it all into elephants instead of giraffes?",
+  "checkpoint": [
+    {
+      "\\boxed{400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

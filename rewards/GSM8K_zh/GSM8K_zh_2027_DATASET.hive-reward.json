@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Inez has $150. She spends one-half on hockey skates and a certain amount on hockey pads. If Inez has $25 remaining, how much did the hockey pads cost, together, in dollars?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

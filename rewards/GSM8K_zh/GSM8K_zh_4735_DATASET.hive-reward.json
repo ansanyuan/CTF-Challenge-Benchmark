@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a classroom, there are blue chairs, green chairs, and white chairs. There are 10 blue chairs. The green chairs are 3 times as many as the blue chairs, and there are 13 fewer white chairs than the green and blue chairs combined. How many chairs are there in a classroom?",
+  "checkpoint": [
+    {
+      "\\boxed{67}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

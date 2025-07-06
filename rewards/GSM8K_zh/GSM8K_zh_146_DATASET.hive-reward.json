@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James watched 2 episodes of Jeopardy and 2 episodes of Wheel of Fortune.  Jeopardy is 20 minutes and Wheel of Fortune is twice as long.  How many hours did he watch TV?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

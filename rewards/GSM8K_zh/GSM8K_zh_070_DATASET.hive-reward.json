@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carly collected 7 starfish with 5 arms each and one seastar with 14 arms. How many arms do the animals she collected have in total?",
+  "checkpoint": [
+    {
+      "\\boxed{49}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

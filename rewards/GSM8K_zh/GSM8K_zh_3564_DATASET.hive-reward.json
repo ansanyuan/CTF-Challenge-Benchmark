@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 12 bananas and 4 apples in the blue basket. The red basket holds half as many fruits as the blue basket. How many fruits are in the red basket?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

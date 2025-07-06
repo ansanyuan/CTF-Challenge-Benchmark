@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 50 staplers in the stapler.  Stacie staples 3 dozen reports on her desk.  How many staplers are left in the stapler?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

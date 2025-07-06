@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are three buckets of seeds labeled A, B, and C with 100 seeds. There are ten more seeds in bucket A than in bucket B, and bucket B has 30 seeds. How many seeds are in bucket C?",
+  "checkpoint": [
+    {
+      "\\boxed{30}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

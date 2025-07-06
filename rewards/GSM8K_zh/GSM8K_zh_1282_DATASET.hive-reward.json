@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sam bought a heavy safe with a combination lock. There were four rows with twenty gold bars per row arranged in the safe. If each gold bar is worth $20000, calculate the total worth of the gold bars in the safe.",
+  "checkpoint": [
+    {
+      "\\boxed{1600000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

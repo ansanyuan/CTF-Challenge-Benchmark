@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Krissa needs to order field trip shirts for her preschool students. 11 students need size extra-small.  Twice as many students need size small as extra small. Four less than the number of size small students need size medium.  Half as many students need size large as size medium.  Six more students need size extra-large than large.  Altogether, how many shirts did Krissa order?",
+  "checkpoint": [
+    {
+      "\\boxed{75}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

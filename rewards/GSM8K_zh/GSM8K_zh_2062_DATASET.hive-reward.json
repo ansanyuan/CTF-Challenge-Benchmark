@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The coach of a football team asked his players to do six laps of the field. The field is in the shape of a rectangle of length 100 m and width 50 m. What is the distance each player will run, in meters?",
+  "checkpoint": [
+    {
+      "\\boxed{1800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

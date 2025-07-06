@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Randy had some money. Smith gave him another $200. Randy then gave Sally $1,200 and kept the rest. If Randy has $2000 left, how much money, in dollars, did Randy have at first?",
+  "checkpoint": [
+    {
+      "\\boxed{3000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

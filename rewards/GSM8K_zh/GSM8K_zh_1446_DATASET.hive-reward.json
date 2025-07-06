@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jenny wants to read 3 books in the next 10 days. She can read 100 words per hour. If the first book has 200 words, the second book has 400 words, and the third book has 300 words, how many minutes per day, on average, should she spend reading?",
+  "checkpoint": [
+    {
+      "\\boxed{54}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Shaniqua styles hair. For every haircut she makes $12 and for every style she makes $25. How many dollars would Shaniqua make if she gave 8 haircuts and 5 styles?",
+  "checkpoint": [
+    {
+      "\\boxed{221}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

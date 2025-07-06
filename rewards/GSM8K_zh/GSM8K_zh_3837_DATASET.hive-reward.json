@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Five shirts together cost $85. Of the 5 shirts, there are 3 shirts that cost $15 each. If the remaining shirts are each equal in value, what is the cost, in dollars, of one of the remaining shirts?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

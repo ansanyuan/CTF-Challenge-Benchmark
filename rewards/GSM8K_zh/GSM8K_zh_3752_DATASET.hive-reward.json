@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A monkey swings from branch to branch at an average distance of 1.2 meters per second. How far will a monkey swing in meters if it consistently swings from branches for 30 minutes?",
+  "checkpoint": [
+    {
+      "\\boxed{2160}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

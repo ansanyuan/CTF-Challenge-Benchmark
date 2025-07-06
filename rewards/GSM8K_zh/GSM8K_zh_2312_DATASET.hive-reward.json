@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Melody has three dogs. Each dog eats 1/2 of a pound of dog food twice a day. If Melody bought 30 pounds of dog food, how many pounds of dog food are left after a week?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

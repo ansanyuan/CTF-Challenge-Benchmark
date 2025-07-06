@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：David has $12.48 and wants to buy 16 bolts from a bin at the hardware store. Each bolt costs $0.03. How much money does David have left after paying for the bolts?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

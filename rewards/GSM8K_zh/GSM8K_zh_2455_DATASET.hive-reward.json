@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a classroom of 81 students, two-thirds are wearing striped shirts while the others are wearing checkered shirts. If there are 19 more students wearing shorts than checkered shirts, how many more students are wearing striped shirts than shorts?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

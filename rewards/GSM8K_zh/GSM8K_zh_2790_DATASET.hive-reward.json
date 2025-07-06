@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Maria's test scores are 80, 70, and 90. What score does she need to get on a fourth test so that her average score for the four tests is exactly 85?",
+  "checkpoint": [
+    {
+      "\\boxed{100}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

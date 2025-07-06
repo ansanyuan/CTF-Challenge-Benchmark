@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A basketball team won 40 games in their last competition. In the next competition, they won 5/8 times as many games as they won in their first competition. In the third competition, they won the same number of games as the sum of the first and second competition winnings. Calculate the total number of wins they had in the three competitions.",
+  "checkpoint": [
+    {
+      "\\boxed{130}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

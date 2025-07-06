@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A bicycle shop owner adds 3 bikes to her stock every week. After 1 month, she had sold 18 bikes but still had 45 bikes in stock. How many bikes did she have originally?",
+  "checkpoint": [
+    {
+      "\\boxed{51}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James is trying to decide which trail is faster to hike. One trail is 20 miles and mostly downhill, so James can cover it at 5 miles per hour. The other trail is 12 miles, but it's mostly uphill, so James will only be able to cover 3 miles per hour and will have to take an hour break halfway through. How many hours faster is the fastest hike?",
+  "checkpoint": [
+    {
+      "\\boxed{1}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

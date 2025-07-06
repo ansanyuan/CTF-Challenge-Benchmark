@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Arven bought five puppies for a total cost of $800. Three puppies are on sale for $150 each. How much does each of those two other puppies cost if they cost the same?",
+  "checkpoint": [
+    {
+      "\\boxed{175}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

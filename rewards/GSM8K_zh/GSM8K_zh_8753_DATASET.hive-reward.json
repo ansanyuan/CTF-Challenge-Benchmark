@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Avery needs to buy a 3 piece place setting (dinner & salad plate and a bowl) for her holiday dinner.  She’s having 12 people over for dinner.  If the dinner plates cost $6.00 each and bowls each cost $5.00 and the salad plates cost $4.00, how much will she spend on place settings?",
+  "checkpoint": [
+    {
+      "\\boxed{180}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A spider has eight legs.  If a group of spiders has 10 more spiders than half as many legs as a single spider has, what is the total number of spider legs in this group of spiders?",
+  "checkpoint": [
+    {
+      "\\boxed{112}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

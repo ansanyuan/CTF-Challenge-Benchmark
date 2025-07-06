@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alissa used discarded paper to make notepads for her friends. She would fold 5 pieces of letter-size paper 3 times then cut along the edges to form smaller note papers. She would then stack these smaller note papers and staple them together. How long would 1 notepad last if someone wrote 10 notes per day?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

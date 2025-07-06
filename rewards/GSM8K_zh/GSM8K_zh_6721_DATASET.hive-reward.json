@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Janet likes collecting action figures in her spare time. She currently owns 10 action figures and sells 6 of them to get 4 that are in better condition. Her brother then gives her his collection which is twice the size of what Janet has at the time. How many action figures does she now have in total?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

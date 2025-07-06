@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Levi has 5 lemons. Jayden has 6 more lemons than Levi. Jayden has one-third as many lemons as Eli has while Eli has one-half as many lemons as Ian has. How many lemons do they have in all?",
+  "checkpoint": [
+    {
+      "\\boxed{115}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

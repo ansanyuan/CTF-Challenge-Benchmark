@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On Rudolph's car trip across town, he traveled 2 more than 5 miles and encountered 3 less than 17 stop signs.  How many stop signs per mile did Rudolph encounter on his trip across town?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

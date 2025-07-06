@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At Allan's house, there is twice as much corn as cannolis. He has a total of 40 cannolis in his house. Allan bought 60 more cannolis at the store and 40 fewer corns than the number of cannolis. Find the combined total of the number of corns and cannolis Allan has in the house?",
+  "checkpoint": [
+    {
+      "\\boxed{200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

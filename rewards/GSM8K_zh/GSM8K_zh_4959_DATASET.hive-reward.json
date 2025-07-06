@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A flower shop sells bouquets of roses, which each contain 12 roses, and bouquets of daisies, which each contain an equal amount of daisies. The flower shop sells 20 bouquets today. 10 of these were rose bouquets and the remaining 10 bouquets were daisy bouquets. If the flower shop has sold 190 flowers in total today, how many daisies are in each bouquet of daisies?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

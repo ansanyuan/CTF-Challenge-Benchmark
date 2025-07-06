@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Chris bought 8 movies on DVD for $12 each and 4 movies on Blu-ray for $18 each. What is the average price he paid per movie?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

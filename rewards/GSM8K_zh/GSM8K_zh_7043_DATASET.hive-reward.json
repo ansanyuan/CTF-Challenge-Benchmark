@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A school bus traveled for 42 minutes at a speed of 50 mph. What is the distance the bus traveled in miles?",
+  "checkpoint": [
+    {
+      "\\boxed{35}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

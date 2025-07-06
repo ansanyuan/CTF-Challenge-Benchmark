@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tony exercises every morning by walking 3 miles carrying a 25-pound backpack, then he runs another 10 miles without the backpack.  If he walks at a speed of 3 miles per hour and runs at a speed of 5 miles per hour, how many hours each week does he spend exercising?",
+  "checkpoint": [
+    {
+      "\\boxed{21}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Two stores sell the same model of smartphone, but they offer it at different prices and with different discounts. Store A lists the smartphone at a full price of $125 and offers an additional discount of 8%.  Store B lists the same smartphone for $130 and offers an additional discount of 10%.  After both stores' discounts are applied, how much cheaper is store A's smartphone than store B's smartphone?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

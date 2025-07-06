@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Davante has twice as many friends as there are days in the week. 3 of his friends are girls. How many friends does he have that are boys?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

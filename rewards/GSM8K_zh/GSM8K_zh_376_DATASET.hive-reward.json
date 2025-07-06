@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A store owner buys clothes wholesale and adds 80% to the wholesale price to set the retail price. The retail price of a pair of pants is $36. What is the wholesale price?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

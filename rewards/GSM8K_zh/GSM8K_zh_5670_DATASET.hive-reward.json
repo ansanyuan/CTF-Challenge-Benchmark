@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jett bought a cow from the market at $600 and took it to his farm. He spent $20 every day to buy food. He also used $500 to vaccinate and deworm the cow. If he sold the cow for $2500 after 40 days, calculate the profit he made from selling back the cow to the market.",
+  "checkpoint": [
+    {
+      "\\boxed{600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

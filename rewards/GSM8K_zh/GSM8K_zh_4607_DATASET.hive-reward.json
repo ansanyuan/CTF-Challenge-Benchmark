@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nate is reading a 400-page book. He finished reading 20% of the book. How many pages does he need to read to finish the book?",
+  "checkpoint": [
+    {
+      "\\boxed{320}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

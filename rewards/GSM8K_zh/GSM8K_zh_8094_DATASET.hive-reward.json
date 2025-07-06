@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A DVD can be played 1000 times before it breaks. There are two DVDs in the public library, one has been played 356 times and the other has been played 135 times. How many total times can both DVDs be played before they break?",
+  "checkpoint": [
+    {
+      "\\boxed{1509}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

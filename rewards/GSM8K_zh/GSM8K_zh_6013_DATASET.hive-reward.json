@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A mother planted a 16-inch tree on her son's first birthday.  On the day the tree was planted, the boy was 24 inches tall.  If the tree grows twice as fast as the boy does, how tall will the tree be by the time the boy is 36 inches tall?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

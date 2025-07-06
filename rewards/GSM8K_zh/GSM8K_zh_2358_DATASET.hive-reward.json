@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tim had a birthday party with a clown that cost $100 an hour for 4 hours.  He also rented a bounce house for half the time that cost 3 times as much an hour. Everything else for the party cost $1000.  How much did his birthday cost?",
+  "checkpoint": [
+    {
+      "\\boxed{2000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

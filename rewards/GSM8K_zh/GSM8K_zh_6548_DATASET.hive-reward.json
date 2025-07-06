@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sally sews 4 shirts on Monday, 3 shirts on Tuesday, and 2 shirts on Wednesday.  Each shirt has 5 buttons.  How many buttons does Sally need to sew all the shirts?",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ted needs to purchase 5 bananas and 10 oranges.  If bananas cost $2 each and oranges cost $1.50 each.  How much money does Ted need to purchase 5 bananas and 10 oranges?",
+  "checkpoint": [
+    {
+      "\\boxed{25}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

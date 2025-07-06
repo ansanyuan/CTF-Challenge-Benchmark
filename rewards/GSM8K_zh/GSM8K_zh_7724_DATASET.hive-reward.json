@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Each class in a school has 20 students. There are 3 classes. The school as a whole is 50% boys and 50% girls. The first class has 15 girls. The second class has 12 girls. How many boys are in the third class?",
+  "checkpoint": [
+    {
+      "\\boxed{17}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

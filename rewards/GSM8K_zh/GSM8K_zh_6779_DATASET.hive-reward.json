@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Joey needs to take a new prescription. The first day he needs to take one pill. Each day he must take two more pills than the previous day. How many pills will he take in a week?",
+  "checkpoint": [
+    {
+      "\\boxed{49}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

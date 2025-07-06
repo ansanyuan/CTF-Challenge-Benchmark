@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Janet has 9 cards more than Brenda. Mara has twice as many cards as Janet. How many cards do they have in all if Mara has 40 cards less than 150?",
+  "checkpoint": [
+    {
+      "\\boxed{211}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

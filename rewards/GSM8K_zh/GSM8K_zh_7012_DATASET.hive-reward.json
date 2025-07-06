@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The number of elephants at Gestures For Good park is 3 times as many as the number of elephants at We Preserve For Future park. If there are 70 elephants at We Preserve For Future, calculate the total number of elephants in the two parks.",
+  "checkpoint": [
+    {
+      "\\boxed{280}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

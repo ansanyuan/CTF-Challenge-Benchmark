@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Prejean's speed in a race was three-quarters that of Rickey. If they both took a total of 70 minutes to run the race, calculate the total number of minutes that Rickey took to finish the race.",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

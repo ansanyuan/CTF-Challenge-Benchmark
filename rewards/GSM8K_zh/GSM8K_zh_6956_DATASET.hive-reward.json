@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carlo has a music recital next week. He practiced twice as long on Monday as on Tuesday. On Tuesday, he practiced 10 minutes less than on Wednesday. On Wednesday, he practiced 5 minutes more than on Thursday. On Thursday, he practiced for 50 minutes. If he needs to practice for a total of 5 hours that week, how long should Carlo practice on Friday?",
+  "checkpoint": [
+    {
+      "\\boxed{60}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

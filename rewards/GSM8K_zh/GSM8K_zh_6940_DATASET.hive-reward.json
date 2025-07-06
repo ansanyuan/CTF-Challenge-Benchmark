@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John watches a TV show and they announce they are going to do 1 more season.  Each season is 22 episodes except for the last season which is 4 episodes longer.  There were 9 seasons before the announcement.  If each episode is .5 hours how long will it take to watch them all after the last season finishes?",
+  "checkpoint": [
+    {
+      "\\boxed{112}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mishka bought 3 pairs of shorts, 3 pairs of pants, and 3 pairs of shoes. One pair of shorts costs $16.50. One pair of pants costs $22.50 and one pair of shoes costs $42. How many dollars did Mishka spend on all the clothing items?",
+  "checkpoint": [
+    {
+      "\\boxed{243}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

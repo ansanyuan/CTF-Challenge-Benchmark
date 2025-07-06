@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom's rabbit can run at 25 miles per hour.  His cat can run 20 miles per hour.  The cat gets a 15-minute head start.  In hours, how long will it take for the rabbit to catch up?",
+  "checkpoint": [
+    {
+      "\\boxed{1}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

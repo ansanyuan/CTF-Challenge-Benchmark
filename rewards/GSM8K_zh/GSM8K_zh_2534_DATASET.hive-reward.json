@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Matt's entire family was going to spend the week at the lake house for vacation.  Matt's family included his mom, dad, his older brother and his wife and their 4 kids.  His Uncle Joe and his wife were also coming and would bring their 3 kids.  The house only sleeps 4 people.  Everyone else would sleep 2 to a tent outside.  How many tents would they need?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

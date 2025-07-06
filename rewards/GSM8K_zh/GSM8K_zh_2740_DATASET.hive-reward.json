@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Legacy has 5 bars of gold she received from her father. Her friend Aleena has 2 bars fewer than she has. If a bar of gold is worth $2200, calculate the total value of gold the three have together.",
+  "checkpoint": [
+    {
+      "\\boxed{17600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

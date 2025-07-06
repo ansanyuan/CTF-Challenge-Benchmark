@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tim wanted to make lemonade for a pool party.  For a gallon of lemonade, his recipe called for 1 cup of fresh lemon juice.  He found that 6 lemons would yield 1 cup of juice.  He figured he would need to make 4 gallons of lemonade for the party.  His best friend Allen asked if Tim could make an extra gallon for him that was twice as tart as the other gallons.  How many lemons will Tim need?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

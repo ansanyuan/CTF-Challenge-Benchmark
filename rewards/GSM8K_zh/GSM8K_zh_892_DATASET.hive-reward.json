@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lavinia’s daughter is 10 years younger than Katie’s daughter. Lavinia’s son is 2 times the age of Katie’s daughter. If Katie’s daughter is 12 years old, how many years older is Lavinia’s son than Lavinia’s daughter?",
+  "checkpoint": [
+    {
+      "\\boxed{22}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

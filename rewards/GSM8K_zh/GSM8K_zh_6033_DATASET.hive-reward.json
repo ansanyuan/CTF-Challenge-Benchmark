@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nadine went to a garage sale and spent $56. She bought a table for $34 and 2 chairs. Each chair cost the same amount. How much did one chair cost?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

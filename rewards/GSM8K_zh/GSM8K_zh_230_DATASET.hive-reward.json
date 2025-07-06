@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jan buys 1000 feet of cable.  She splits it up into 25-foot sections.  She gives 1/4 of that to a friend.  She then puts half of the rest in storage. How much does she keep on hand?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

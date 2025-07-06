@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Darryl sells melons on the side of the road. He sells cantaloupes for $2 each and honeydews for $3. He started the day with 30 cantaloupes and 27 honeydews. He accidentally dropped a couple of cantaloupes and three of the honeydews turned out to be rotten. At the end of the day he had 8 cantaloupes and 9 honeydews left. How much money did he make?",
+  "checkpoint": [
+    {
+      "\\boxed{85}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

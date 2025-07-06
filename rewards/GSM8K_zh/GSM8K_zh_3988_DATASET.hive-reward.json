@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a survey about the student's favorite sports, 40% said they like basketball, 10% like chess, 28% like soccer, and the rest said they like badminton. If 250 students were interviewed, how many students identified chess or basketball as their favorite sport?",
+  "checkpoint": [
+    {
+      "\\boxed{125}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

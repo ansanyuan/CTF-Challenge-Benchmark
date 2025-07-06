@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A jar contains 9 blue pens, 21 black pens, and 6 red pens. Four blue pens are removed and then seven black pens are removed. How many pens are left in the jar?",
+  "checkpoint": [
+    {
+      "\\boxed{25}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

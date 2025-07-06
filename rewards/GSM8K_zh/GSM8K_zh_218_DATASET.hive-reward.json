@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：By the time Anne is two times as old as Emile, Emile will be six times as old as Maude. If Maude will be 8 years old, how old will Anne be?",
+  "checkpoint": [
+    {
+      "\\boxed{96}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

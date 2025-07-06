@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Teddy finished half of a 500 piece puzzle, and then started and finished another 500 piece puzzle within an hour.  How many puzzle pieces did Teddy place during that hour?",
+  "checkpoint": [
+    {
+      "\\boxed{750}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

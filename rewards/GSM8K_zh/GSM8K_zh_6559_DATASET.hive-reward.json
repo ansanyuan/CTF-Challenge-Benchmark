@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：It takes 20 minutes for John to go to the bathroom 8 times.  How long would it take to go 6 times?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

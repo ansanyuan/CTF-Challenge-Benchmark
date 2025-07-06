@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Zander collected 100 stickers. He gave some of his stickers to his two friends, Andrew and Bill. Andrew received 1/5 of Zander's stickers, while Bill received 3/10 of the remaining stickers. How many stickers did Andrew give to his two friends?",
+  "checkpoint": [
+    {
+      "\\boxed{44}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tony wants to build the longest rope he possibly can, so he collects all the rope in his home. He finds an 8-foot rope, a 20-foot rope, three 2 foot ropes, and a 7-foot rope. each knot between the ropes makes him lose 1.2 foot per knot. How long is his rope when he's done tying them all together?",
+  "checkpoint": [
+    {
+      "\\boxed{35}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mrs. Garcia pays her insurance quarterly at $378. How much does she pay in a year for her insurance?",
+  "checkpoint": [
+    {
+      "\\boxed{1512}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

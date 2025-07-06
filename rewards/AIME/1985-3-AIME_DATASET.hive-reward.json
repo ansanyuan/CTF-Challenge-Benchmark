@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Find $c$ if $a$ , $b$ , and $c$ are positive integers which satisfy $c=(a + bi)^3 - 107i$ , where $i^2 = -1$ .",
-    "checkpoint": [
-        {
-            "198": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Find $c$ if $a$ , $b$ , and $c$ are positive integers which satisfy $c=(a + bi)^3 - 107i$ , where $i^2 = -1$ .",
+  "checkpoint": [
+    {
+      "\\boxed{198}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Rectangle $ABCD$ has side lengths $AB=84$ and $AD=42$ . Point $M$ is the midpoint of $\\overline{AD}$ , point $N$ is the trisection point of $\\overline{AB}$ closer to $A$ , and point $O$ is the intersection of $\\overline{CM}$ and $\\overline{DN}$ . Point $P$ lies on the quadrilateral $BCON$ , and $\\overline{BP}$ bisects the area of $BCON$ . Find the area of $\\triangle CDP$ .",
-    "checkpoint": [
-        {
-            "546": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Rectangle $ABCD$ has side lengths $AB=84$ and $AD=42$ . Point $M$ is the midpoint of $\\overline{AD}$ , point $N$ is the trisection point of $\\overline{AB}$ closer to $A$ , and point $O$ is the intersection of $\\overline{CM}$ and $\\overline{DN}$ . Point $P$ lies on the quadrilateral $BCON$ , and $\\overline{BP}$ bisects the area of $BCON$ . Find the area of $\\triangle CDP$ .",
+  "checkpoint": [
+    {
+      "\\boxed{546}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

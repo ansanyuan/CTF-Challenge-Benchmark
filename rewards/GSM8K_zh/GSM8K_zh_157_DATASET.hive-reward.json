@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：George bought some food for his trip: a bottle of juice, a sandwich, and a bottle of milk. The sandwich was for $4, and the juice was two times more expensive. The bottle of milk cost was 75% of the total cost of the sandwich and juice. How much did George pay for his food?",
+  "checkpoint": [
+    {
+      "\\boxed{21}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

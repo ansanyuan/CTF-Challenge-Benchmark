@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Grace started her own landscaping business. She charges $6 an hour for mowing lawns, $11 for pulling weeds and $9 for putting down mulch. In September she mowed lawns for 63 hours, pulled weeds for 9 hours and put down mulch for 10 hours. How much money did she earn in September?",
+  "checkpoint": [
+    {
+      "\\boxed{567}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

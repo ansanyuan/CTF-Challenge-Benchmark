@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tyler weighs 25 pounds more than Sam. Peter weighs half as much as Tyler. If Peter weighs 65 pounds, how much does Sam weigh, in pounds?",
+  "checkpoint": [
+    {
+      "\\boxed{105}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

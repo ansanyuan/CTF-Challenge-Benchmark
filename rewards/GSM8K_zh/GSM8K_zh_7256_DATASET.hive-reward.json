@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Fabian has three times more marbles than Kyle and five times more than Miles. If Fabian has 15 marbles, how many marbles do Kyle and Miles have together?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

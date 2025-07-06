@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A fixer uses 30% of the nails in a container to repair the kitchen. He also used 70% of the remaining nails in the container to repair the fence. If there were 400 nails in the container, how many nails are remaining?",
+  "checkpoint": [
+    {
+      "\\boxed{84}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

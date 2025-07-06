@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $C$ be the graph of $xy = 1$ , and denote by $C^*$ the reflection of $C$ in the line $y = 2x$ . Let the equation of $C^*$ be written in the form \\[12x^2 + bxy + cy^2 + d = 0.\\] Find the product $bc$ .",
-    "checkpoint": [
-        {
-            "84": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $C$ be the graph of $xy = 1$ , and denote by $C^*$ the reflection of $C$ in the line $y = 2x$ . Let the equation of $C^*$ be written in the form \\[12x^2 + bxy + cy^2 + d = 0.\\] Find the product $bc$ .",
+  "checkpoint": [
+    {
+      "\\boxed{84}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

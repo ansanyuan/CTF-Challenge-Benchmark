@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nina makes one-of-a-kind jewelry and sells it at a local boutique.  She charges $25.00 for her necklaces, $15.00 for bracelets and $10.00 for a pair of earrings.  Over the weekend, she sold 5 necklaces, 10 bracelets, 20 earrings, and received 2 orders for a complete jewelry ensemble that Nina charged $45.00 for.  How much money did she make over the weekend?",
+  "checkpoint": [
+    {
+      "\\boxed{565}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brianne saves $10 in January. Each month, she saves twice as much as her previous month's savings. How much will she save in May?",
+  "checkpoint": [
+    {
+      "\\boxed{160}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In the garden, the gecko eats 12 bugs.  The lizard eats half as many bugs as the gecko.  The frog eats 3 times as many bugs as the lizard.  The toad eats 50% more bugs than the frog. How many bugs are eaten in total by all of them?",
+  "checkpoint": [
+    {
+      "\\boxed{63}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

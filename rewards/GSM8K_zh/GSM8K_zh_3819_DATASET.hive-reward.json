@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There were 672 balloons that were either green, blue, yellow, or red. They were divided into equal groups and then Anya took half of the yellow ones home. How many balloons did Anya take home?",
+  "checkpoint": [
+    {
+      "\\boxed{84}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A box holds 2 dozen doughnuts. If the family ate 8 doughnuts, how many doughnuts are left?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

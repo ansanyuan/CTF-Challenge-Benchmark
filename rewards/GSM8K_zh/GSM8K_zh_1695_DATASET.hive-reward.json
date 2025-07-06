@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carson is a night security guard. He's supposed to patrol the outside of a warehouse that's 600 feet long and 400 feet wide. If Carson is supposed to circle the warehouse 10 times, but gets tired and skips 2 times, how far does he walk in one night?",
+  "checkpoint": [
+    {
+      "\\boxed{16000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

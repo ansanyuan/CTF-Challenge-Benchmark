@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a conference room, 40 chairs with a capacity of 2 people each were arranged in rows in preparation for the board meeting of a company, whose number of members was the same as the chairs' capacity. If 2/5 of the chairs were not occupied, and the rest each had two people, calculate the number of board members who did attend the meeting.",
+  "checkpoint": [
+    {
+      "\\boxed{48}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

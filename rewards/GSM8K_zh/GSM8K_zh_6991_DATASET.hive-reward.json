@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sarah is planning to do some baking. She buys 5 pounds of rye flour, 10 pounds of whole-wheat bread flour, and 3 pounds of chickpea flour. Sarah already had 2 pounds of whole-wheat pastry flour at home. How many pounds of flour does she now have?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

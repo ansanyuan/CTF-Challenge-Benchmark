@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Michael is traveling on the interstate at an average speed of 50km/hr (taking into account all the necessary stops for gas, relaxation, etc.). If he goes on like this for 3 days, and the distance between Alaska and Texas is 6000 km, what percentage of this distance has he covered?",
+  "checkpoint": [
+    {
+      "\\boxed{60}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

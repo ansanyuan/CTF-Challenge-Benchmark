@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：When three friends sold their video games, Ryan, the first of the three friends, received $50 more than Jason from his sales. Jason received 30% more money than Zachary from selling his video games. If Zachary sold 40 games at $5 each, calculate the total amount of money the three friends received together from the sale of the video games.",
+  "checkpoint": [
+    {
+      "\\boxed{770}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

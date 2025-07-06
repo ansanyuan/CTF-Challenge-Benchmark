@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On a farm, on average every 6 cows produce 108 liters of milk per week. In five weeks the cows produced 2160 liters of milk. How many cows are on the farm?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

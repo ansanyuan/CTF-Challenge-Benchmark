@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brittany's quilted comforter has many 1-foot by 1-foot colored squares. The comforter had 14 red squares, 4 more blue squares than red squares, 6 more green squares than blue squares, and 12 fewer white squares than green squares.  How many square feet is Brittany's comforter?",
+  "checkpoint": [
+    {
+      "\\boxed{68}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

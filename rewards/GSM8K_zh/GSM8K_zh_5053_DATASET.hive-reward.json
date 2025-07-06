@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：After evaluating his students on the final exams. Professor Oscar reviews all 10 questions on each exam. How many questions must he review if he has 5 classes with 35 students each?",
+  "checkpoint": [
+    {
+      "\\boxed{1750}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

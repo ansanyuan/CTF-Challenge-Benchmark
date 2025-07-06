@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jim is baking loaves of bread. He has 200g of flour in the cupboard, 100g of flour on the kitchen counter, and 100g in the pantry. If one loaf of bread requires 200g of flour, how many loaves can Jim bake?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

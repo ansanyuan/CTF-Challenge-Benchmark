@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Martha buys 1 latte for $4.00 every morning, 5 days a week.  3 days a week, she buys an iced coffee for $2.00.  Her goal for the entire year is to cut her coffee spending by 25%.  How much will she save?",
+  "checkpoint": [
+    {
+      "\\boxed{338}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

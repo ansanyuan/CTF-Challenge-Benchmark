@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jack is a soccer player. He needs to buy two pairs of socks and a pair of soccer shoes. Each pair of socks cost $9.50, and the shoes cost $92. Jack has $40. How much more money does Jack need?",
+  "checkpoint": [
+    {
+      "\\boxed{71}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

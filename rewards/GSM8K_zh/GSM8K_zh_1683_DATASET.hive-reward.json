@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John is a hack author.  He writes a book every 2 months.  He has been writing for 20 years and has earned an average of $30,000 per book.  How much money has he made writing?",
+  "checkpoint": [
+    {
+      "\\boxed{3600000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

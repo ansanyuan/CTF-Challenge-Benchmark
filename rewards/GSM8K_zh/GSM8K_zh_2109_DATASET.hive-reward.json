@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Adam bought 15 apples on Monday. On Tuesday he bought 3 times that quantity. On Wednesday he bought 4 times the quantity he bought on Tuesday. What is the total quantity Adam bought on these three days?",
+  "checkpoint": [
+    {
+      "\\boxed{240}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

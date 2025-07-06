@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cristine bought a dozen lemons and gave 1/4 of them to her neighbor. How many lemons does Cristine have left?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

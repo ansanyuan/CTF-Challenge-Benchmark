@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On Monday, a restaurant sells forty dinners. On Tuesday, it sells 40 more dinners than it did Monday. On Wednesday, it sells half the amount of dinners it sold on Tuesday. On Thursday they changed their recipe, and then sold 3 more dinners than they did on Wednesday. How many dinners were sold in those 4 days?",
+  "checkpoint": [
+    {
+      "\\boxed{203}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

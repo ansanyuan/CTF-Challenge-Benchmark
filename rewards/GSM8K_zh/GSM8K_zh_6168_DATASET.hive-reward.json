@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cynthia harvested 67 potatoes from her garden. After washing them, she cut 13 of them into wedges. She then halved the remaining potatoes and made french fries with one half, and potato chips with the other half. If one potato can be cut into 8 wedges or make 20 potato chips, how many more potato chips than wedges did Cynthia make?",
+  "checkpoint": [
+    {
+      "\\boxed{436}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

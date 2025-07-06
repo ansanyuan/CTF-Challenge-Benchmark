@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A juggler can juggle 16 balls.  Half of the balls are golf balls, and half of the golf balls are blue.  How many blue golf balls are there?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

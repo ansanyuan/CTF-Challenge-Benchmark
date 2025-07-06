@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：In $\\triangle ABC, AB = 360, BC = 507,$ and $CA = 780.$ Let $M$ be the midpoint of $\\overline{CA},$ and let $D$ be the point on $\\overline{CA}$ such that $\\overline{BD}$ bisects angle $ABC.$ Let $F$ be the point on $\\overline{BC}$ such that $\\overline{DF} \\perp \\overline{BD}.$ Suppose that $\\overline{DF}$ meets $\\overline{BM}$ at $E.$ The ratio $DE: EF$ can be written in the form $m/n,$ where $m$ and $n$ are relatively prime positive integers. Find $m + n.$",
-    "checkpoint": [
-        {
-            "289": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：In $\\triangle ABC, AB = 360, BC = 507,$ and $CA = 780.$ Let $M$ be the midpoint of $\\overline{CA},$ and let $D$ be the point on $\\overline{CA}$ such that $\\overline{BD}$ bisects angle $ABC.$ Let $F$ be the point on $\\overline{BC}$ such that $\\overline{DF} \\perp \\overline{BD}.$ Suppose that $\\overline{DF}$ meets $\\overline{BM}$ at $E.$ The ratio $DE: EF$ can be written in the form $m/n,$ where $m$ and $n$ are relatively prime positive integers. Find $m + n.$",
+  "checkpoint": [
+    {
+      "\\boxed{289}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

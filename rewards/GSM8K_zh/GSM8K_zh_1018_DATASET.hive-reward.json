@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Stacy has 2 more than triple as many berries as Steve. Steve has one half as many berries as Skylar. If Skylar has 20 berries, how many berries does Stacy have?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If Pam is currently twice as young as Rena is, and in 10 years Rena will be 5 years older than her, how old is Pam now?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At the aquarium, there are twice as many sharks as stingrays. If there are 28 stingrays, how many fish are there?",
+  "checkpoint": [
+    {
+      "\\boxed{84}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

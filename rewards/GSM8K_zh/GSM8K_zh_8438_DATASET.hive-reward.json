@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John just started watching a new show.  Each episode is 20 minutes long, and there are half as many episodes in total as there are minutes per episode.  How many minutes will John spend watching the show if he watches every episode?",
+  "checkpoint": [
+    {
+      "\\boxed{200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

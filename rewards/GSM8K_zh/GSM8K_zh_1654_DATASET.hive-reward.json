@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A book has 8 chapters. Beth has read 2 chapters in 3 hours. If she continues reading at that rate, in how many hours will she be able to finish reading the remaining chapters?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

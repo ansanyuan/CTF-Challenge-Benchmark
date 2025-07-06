@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Reese had a sum of money in her savings account. The company she used to work with was not doing well which is why she lost her job. So she spent 20% of her savings for her expenses in February, 40% of it in March, and $1500 in April. How much did she have in her savings account if she still has $2900 after spending those amounts?",
+  "checkpoint": [
+    {
+      "\\boxed{11000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

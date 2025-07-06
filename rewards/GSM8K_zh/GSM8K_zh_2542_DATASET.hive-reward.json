@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The bald eagle can dive at a speed of 100 miles per hour, while the peregrine falcon can dive at a speed of twice that of the bald eagle.   Starting from the same treetop, if it takes the bald eagle 30 seconds to dive to the ground, how long,  in seconds, will it take the peregrine falcon to dive the same distance?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

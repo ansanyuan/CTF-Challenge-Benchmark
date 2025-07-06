@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Every day, Bob logs 10 hours of work in his office. If he works for five days a week, calculate the total number of hours he logs in a month.",
+  "checkpoint": [
+    {
+      "\\boxed{200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

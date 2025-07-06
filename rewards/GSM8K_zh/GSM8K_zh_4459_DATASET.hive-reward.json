@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If the normal hours of operation of Jean's business are 4 pm to 10p every day Monday through Friday, and from 6 pm to 10 pm on weekends, how many hours is the business open in a week?",
+  "checkpoint": [
+    {
+      "\\boxed{38}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

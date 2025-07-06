@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Three frogs are trying to hop across the road. The first frog takes 4 times as many hops as the second.  The second frog takes twice as many as the third.  If the three frogs took a total of 99 hops, how many hops did it take the second frog to cross the road?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

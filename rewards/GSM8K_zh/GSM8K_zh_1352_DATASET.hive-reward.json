@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jake sold 10 more stuffed animals than Thor. Quincy sold ten times as many stuffed animals as Thor. If Quincy sold 200 stuffed animals, how many more stuffed animals did Quincy sell than Jake?",
+  "checkpoint": [
+    {
+      "\\boxed{170}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

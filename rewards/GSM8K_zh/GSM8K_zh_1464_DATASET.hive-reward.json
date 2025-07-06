@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ned is an explosives specialist racing to deactivate a time bomb on the top floor of a building. The building has twenty flights of stairs to the top floor, and Ned can run up one flight of stairs in eleven seconds. The time bomb has 72 seconds left on the timer, and Ned has spent 165 seconds running up the stairs. How many seconds will Ned have to diffuse the bomb when he reaches it?",
+  "checkpoint": [
+    {
+      "\\boxed{17}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A high school bowling team's 3 members scored a total of 810 points in their first match.  The first bowler scored 1/3 as many points as the second, and the second bowler scored 3 times as high as the third bowler.  How many points did the third bowler score?",
+  "checkpoint": [
+    {
+      "\\boxed{162}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

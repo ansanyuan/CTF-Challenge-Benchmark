@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bobby has 16 toy cars, and the number of cars he has increases by 50% every year. How many toy cars will Bobby have in three years?",
+  "checkpoint": [
+    {
+      "\\boxed{54}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

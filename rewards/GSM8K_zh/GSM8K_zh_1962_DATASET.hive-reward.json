@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The chocolate factory produces 50 candies per hour. It has to fulfill an order and produce 4000 candies. How many days will it take to complete the order if the factory works for 10 hours every day?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

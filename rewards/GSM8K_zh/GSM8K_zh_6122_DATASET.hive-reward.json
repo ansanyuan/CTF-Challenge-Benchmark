@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carrie wants to take a trip to New York. She can get a 20% discount on an $850 flight with Delta Airlines. She can also save 30% off an $1100 flight with United Airlines. How much money would she save by choosing the cheapest flight?",
+  "checkpoint": [
+    {
+      "\\boxed{90}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

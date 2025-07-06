@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Calvin is making soup for his family for dinner. He has a pot with enough soup to fill four adult's bowls or eight child's bowls. He is an adult and will be eating with his adult wife and their two children. If everyone eats one bowl at a meal, how many times will each child be able to have a bowl of soup for lunch from the leftover soup?",
+  "checkpoint": [
+    {
+      "\\boxed{1}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

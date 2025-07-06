@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Albert wants a paintbrush that costs $1.50, a set of paints that costs $4.35, and a wooden easel that costs $12.65. Albert already has $6.50. How much more money does Albert need?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

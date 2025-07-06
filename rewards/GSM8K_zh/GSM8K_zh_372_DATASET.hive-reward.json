@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ronald can grill 15 hamburgers per session on his new grill.  He needs to cook 115 hamburgers in total for tonight's party.  He has already cooked 40 hamburgers.  How many more sessions will it take Ronald to finish cooking all 115 hamburgers?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

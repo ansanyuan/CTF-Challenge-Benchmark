@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mary is chopping up some old furniture to make firewood. Chairs make 6 sticks of wood, tables make 9 sticks of wood, and stools make 2 sticks of wood. Mary needs to burn 5 sticks of wood per hour to stay warm. If Mary chops up 18 chairs, 6 tables and 4 stools, how many hours can she keep warm?",
+  "checkpoint": [
+    {
+      "\\boxed{34}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

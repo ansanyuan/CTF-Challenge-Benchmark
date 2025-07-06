@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 30 spaces for each vehicle in a parking lot. A caravan takes up a total of 2 spaces of parking space. How many vehicles can still park if there are 3 caravans currently parking?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

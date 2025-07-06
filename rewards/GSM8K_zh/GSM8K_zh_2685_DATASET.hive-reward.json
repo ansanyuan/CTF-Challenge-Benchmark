@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A state fair charges $5 for a ticket. Two-thirds of the people who buy a ticket will buy deep-fried fair food for $8, one quarter will go on a ride for $4, and one eighth will spend $15 on a souvenir. The fair made $2520 from tickets. How many dollars did they make in all?",
+  "checkpoint": [
+    {
+      "\\boxed{6657}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

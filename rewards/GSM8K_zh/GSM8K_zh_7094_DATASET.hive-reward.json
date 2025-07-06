@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carl is having a party on Saturday and is inviting 15 guests. He would like to make sure everyone, including himself, has at least 2 glasses of punch. Each glass holds 12 ounces of punch. How many ounces of punch does he need to buy for the party?",
+  "checkpoint": [
+    {
+      "\\boxed{384}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

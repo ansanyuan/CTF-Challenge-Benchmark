@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：During the hot dog eating contest, the 1st competitor ate 12 hot dogs in 3 minutes.  The 2nd competitor ate twice that amount and the 3rd competitor ate 25% less than the 2nd competitor.  How many hotdogs did the 3rd competitor eat?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

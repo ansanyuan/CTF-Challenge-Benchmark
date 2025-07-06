@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dabbie bought 3 turkeys for thanksgiving, the first turkey is 6 kilograms, the second turkey is 9 kilograms, and the weight of the third turkey is twice the weight of the second turkey. If the cost of a kilogram of turkey is $2, how much does Dabbie spent on all the turkeys?",
+  "checkpoint": [
+    {
+      "\\boxed{66}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

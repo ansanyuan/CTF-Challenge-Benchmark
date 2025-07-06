@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Julie, Micah, and Mitchell sold 32 glasses of lemonade at their lemonade stand. Julie sold 14 glasses and the boys sold an equal number of glasses. How many more glasses did Julie sell than Micah?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

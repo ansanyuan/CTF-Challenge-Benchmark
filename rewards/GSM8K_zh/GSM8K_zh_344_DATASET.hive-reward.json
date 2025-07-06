@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kim's TV uses 125 watts of electricity per hour.  She runs it for 4 hours a day.  If electricity cost 14 cents per kw/h how many cents does her TV cost to run for a week?",
+  "checkpoint": [
+    {
+      "\\boxed{49}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

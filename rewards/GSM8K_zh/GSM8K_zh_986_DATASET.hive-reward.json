@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James has an old printer that crumples every seventh page and blurs the ink on every third page. If he prints 42 pages, how many are neither crumpled or blurred?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

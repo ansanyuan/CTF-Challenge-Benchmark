@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Julie works at a restaurant that pays her an hourly rate of $5. She works 8 hours a day and 6 days a week. How much is her monthly salary if she was not able to go to work for a day?",
+  "checkpoint": [
+    {
+      "\\boxed{920}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Greta, George and Gloria entered their turtles in the Key West Turtle Race.  Greta’s turtle finished the race in 6 minutes.  George’s turtle finished 2 minutes quicker than Greta’s.  Gloria’s turtle took twice as long as George’s turtle.  How long did it take Gloria’s turtle to finish the race?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In Sam's first 100 matches he won 50% of matches.  In his next 100 games, he won 60% of matches.  How many total matches did he win?",
+  "checkpoint": [
+    {
+      "\\boxed{110}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

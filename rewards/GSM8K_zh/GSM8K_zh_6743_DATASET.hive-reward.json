@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：An orphaned kitten was only 4 inches when he was found. In the next two weeks, he doubled in length, and by 4 months old, he had double in length again. What is its current length?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

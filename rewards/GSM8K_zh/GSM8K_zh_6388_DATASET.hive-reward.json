@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A 10 m long and 8 m wide rectangular floor is to be covered with a square carpet with 4 m sides. How many square meters of the floor are uncovered?",
+  "checkpoint": [
+    {
+      "\\boxed{64}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

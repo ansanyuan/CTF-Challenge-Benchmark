@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $S$ be a list of positive integers--not necessarily distinct--in which the number $68$ appears. The average (arithmetic mean) of the numbers in $S$ is $56$ . However, if $68$ is removed, the average of the remaining numbers drops to $55$ . What is the largest number that can appear in $S$ ?",
-    "checkpoint": [
-        {
-            "649": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $S$ be a list of positive integers--not necessarily distinct--in which the number $68$ appears. The average (arithmetic mean) of the numbers in $S$ is $56$ . However, if $68$ is removed, the average of the remaining numbers drops to $55$ . What is the largest number that can appear in $S$ ?",
+  "checkpoint": [
+    {
+      "\\boxed{649}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

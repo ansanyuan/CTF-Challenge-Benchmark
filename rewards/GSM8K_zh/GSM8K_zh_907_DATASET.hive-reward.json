@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The bus started its route. At its first stop, 7 people got on. At the second stop, 3 people got off, and 5 people got on. At the third stop, 2 people got off, and 4 people got on. How many passengers are now on the bus?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

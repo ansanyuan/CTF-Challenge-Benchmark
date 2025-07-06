@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Isabelle works in a hotel and runs a bubble bath for each customer who enters the hotel. There are 13 rooms for couples and 14 single rooms. For each bath that is run, Isabelle needs 10ml of bubble bath. If every room is filled to maximum capacity, how much bubble bath, in millilitres, does Isabelle need?",
+  "checkpoint": [
+    {
+      "\\boxed{400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

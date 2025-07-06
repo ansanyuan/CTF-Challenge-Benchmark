@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Grandma Olga has 3 daughters and 3 sons.  If all her daughters each have 6 sons, and each of her sons has 5 daughters, how many grandchildren does she have in total?",
+  "checkpoint": [
+    {
+      "\\boxed{33}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

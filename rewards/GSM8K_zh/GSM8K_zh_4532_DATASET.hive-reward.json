@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a newspaper, each one of 12 pages holds 2 photos and each of another 9 pages hold 3 photos. How many photos are used in the newspaper?",
+  "checkpoint": [
+    {
+      "\\boxed{51}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

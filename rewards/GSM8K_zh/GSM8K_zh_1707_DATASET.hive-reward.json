@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 400 students in the senior class at East High School. 52% of the students play sports. Of the students that play sports, 12.5% play soccer. How many students play soccer?",
+  "checkpoint": [
+    {
+      "\\boxed{26}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

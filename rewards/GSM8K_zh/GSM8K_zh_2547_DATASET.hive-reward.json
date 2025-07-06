@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jack makes his own cold brew coffee.  He makes it in batches of 1.5 gallons.  He drinks 96 ounces of coffee every 2 days.  It takes 20 hours to make coffee.  How long does he spend making coffee over 24 days?",
+  "checkpoint": [
+    {
+      "\\boxed{120}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

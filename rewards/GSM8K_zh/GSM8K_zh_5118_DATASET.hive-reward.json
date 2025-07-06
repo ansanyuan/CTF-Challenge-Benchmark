@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. Resty has two identical 4-story buildings. The first floor has 2 apartment units while the rest of the floors have 5 apartment units on each floor. How many apartment units does Mr. Resty have in all?",
+  "checkpoint": [
+    {
+      "\\boxed{34}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

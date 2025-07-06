@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Queenie earns $150 a day as a part-time clerk. She earns an additional $5 per hour as overtime pay. How much will Queenie receive for working 5 days with 4 hours overtime?",
+  "checkpoint": [
+    {
+      "\\boxed{770}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

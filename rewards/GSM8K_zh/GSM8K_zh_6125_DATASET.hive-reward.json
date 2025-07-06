@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：One dress requires 5.5 yards of fabric. Amare needs to make 4 dresses for the wedding and she has 7 feet of fabric. How many feet of fabric does Amare still need for the dresses?",
+  "checkpoint": [
+    {
+      "\\boxed{59}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

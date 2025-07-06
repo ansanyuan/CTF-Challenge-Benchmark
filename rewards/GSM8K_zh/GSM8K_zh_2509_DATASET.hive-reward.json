@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A company has 1000 employees. There will be three rounds of layoffs. For each round of layoff, 10% of the remaining employees will be laid off. How many employees will be laid off in total?",
+  "checkpoint": [
+    {
+      "\\boxed{271}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

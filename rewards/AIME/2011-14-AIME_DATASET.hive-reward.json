@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：There are $N$ permutations $(a_1, a_2, \\dots, a_{30})$ of $1, 2, \\dots, 30$ such that for $m \\in \\{2,3,5\\}$ , $m$ divides $a_{n+m} - a_n$ for all integers $n$ with $1 \\le n < n+m \\le 30$ . Find the remainder when $N$ is divided by 1000.",
-    "checkpoint": [
-        {
-            "440": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：There are $N$ permutations $(a_1, a_2, \\dots, a_{30})$ of $1, 2, \\dots, 30$ such that for $m \\in \\{2,3,5\\}$ , $m$ divides $a_{n+m} - a_n$ for all integers $n$ with $1 \\le n < n+m \\le 30$ . Find the remainder when $N$ is divided by 1000.",
+  "checkpoint": [
+    {
+      "\\boxed{440}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

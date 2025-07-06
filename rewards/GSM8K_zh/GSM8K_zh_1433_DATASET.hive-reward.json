@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Venny spent $15000 on a used car which cost 40% of the original price. What was the original price of the car?",
+  "checkpoint": [
+    {
+      "\\boxed{37500}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

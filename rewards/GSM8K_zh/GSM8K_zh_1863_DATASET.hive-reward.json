@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jason bought 4 dozen cupcakes. He plans to give 3 cupcakes each to his cousins. How many cousins does Jason have?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

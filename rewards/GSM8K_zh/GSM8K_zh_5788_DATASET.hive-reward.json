@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Apples used to cost $1.6 per pound.  The price got raised 25%.  How much does it cost to buy 2 pounds of apples for each person in a 4 member family?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

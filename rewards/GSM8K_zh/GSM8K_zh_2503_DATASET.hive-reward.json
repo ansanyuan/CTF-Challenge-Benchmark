@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James gets bored with his game so decides to play a different one.  That game promises 100 hours of gameplay but 80% of that is boring grinding.  However, the expansion does add another 30 hours of enjoyable gameplay.  How much enjoyable gameplay does James get?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jenna wants to buy a concert ticket that costs $181, plus five drink tickets for $7 each. If Jenna earns $18 an hour and works 30 hours a week, what percentage of her monthly salary will she spend on this outing?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

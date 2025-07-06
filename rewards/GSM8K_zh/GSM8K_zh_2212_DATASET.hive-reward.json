@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The trip from Philip's house to the children's school is 2.5 miles, and the trip to the market is 2 miles. He makes the round trip to school two times (when taking the children to school and when bringing them back) every day for 4 days a week. Then he makes a round trip to the market once during weekends. What is his car's mileage for a typical week?",
+  "checkpoint": [
+    {
+      "\\boxed{44}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

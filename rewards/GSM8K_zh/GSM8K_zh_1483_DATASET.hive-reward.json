@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Donna can watch 8 episodes each day during weekdays. On each weekend day, she can watch three times the number of episodes she can watch on the weekdays. How many episodes can she watch in a week?",
+  "checkpoint": [
+    {
+      "\\boxed{88}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

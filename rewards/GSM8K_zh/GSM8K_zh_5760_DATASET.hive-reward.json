@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jonathan's full name contains 8 letters for the first name and 10 letters for the surname. His sister's name has 5 letters for the first name and 10 letters for the second name. What's the total number of letters in their names?",
+  "checkpoint": [
+    {
+      "\\boxed{33}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

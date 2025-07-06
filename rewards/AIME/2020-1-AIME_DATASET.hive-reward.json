@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Find the number of ordered pairs of positive integers $(m,n)$ such that ${m^2n = 20 ^{20}}$ .",
-    "checkpoint": [
-        {
-            "231": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Find the number of ordered pairs of positive integers $(m,n)$ such that ${m^2n = 20 ^{20}}$ .",
+  "checkpoint": [
+    {
+      "\\boxed{231}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

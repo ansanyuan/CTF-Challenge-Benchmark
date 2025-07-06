@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At a coffee shop, 7 customers order coffee at $5 each and 8 customers order tea at $4 each. How much money did the coffee shop make?",
+  "checkpoint": [
+    {
+      "\\boxed{67}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

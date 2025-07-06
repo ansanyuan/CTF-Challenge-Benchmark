@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Yanna bought ten shirts at $5 each and three pairs of sandals at $3 each.  How much change did she get back if she gave a one hundred dollar bill?",
+  "checkpoint": [
+    {
+      "\\boxed{41}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ariana is past due on three bills. The first bill for $200 charges 10% simple interest for each overdue month and it's 2 months overdue. The second bill for $130 charges a flat $50 late fee per month and is 6 months overdue. The last bill is two months late and charges a $40 fee the first month overdue and twice that fee the second month overdue and is for $444. How much does Ariana owe in total?",
+  "checkpoint": [
+    {
+      "\\boxed{1234}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

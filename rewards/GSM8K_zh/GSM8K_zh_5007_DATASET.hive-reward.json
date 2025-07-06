@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James buys 3 packs of candy.  He pays with a $20 bill and gets $11 change.  How much did each pack of candy cost?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

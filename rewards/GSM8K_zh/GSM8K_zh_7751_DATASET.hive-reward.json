@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：It takes Matthew 3 minutes to dig a small hole for shrubs and 10 minutes to dig a large hole for trees.  How many hours will it take him to dig 30 small holes and 15 large holes?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

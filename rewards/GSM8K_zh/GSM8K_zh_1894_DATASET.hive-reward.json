@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James gets paid $0.50/mile to drive a truck carrying hazardous waste. He has to pay $4.00/gallon for gas and his truck gets 20 miles per gallon. How much profit does he make from a 600 mile trip?",
+  "checkpoint": [
+    {
+      "\\boxed{180}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

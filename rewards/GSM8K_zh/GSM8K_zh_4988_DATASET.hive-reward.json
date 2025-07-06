@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A bottle of wine costs $20.00 today.  When new tariffs are imposed in 2 months, the price of wine will increase by 25%.  How much more expensive will 5 bottles of wine be in 2 months?",
+  "checkpoint": [
+    {
+      "\\boxed{25}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

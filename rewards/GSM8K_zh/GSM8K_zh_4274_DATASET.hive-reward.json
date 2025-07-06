@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brinley's teacher took the grade six students to the San Diego Zoo to watch and learn about animals. While at the zoo, Brinley counted 100 snakes, 80 arctic foxes, and 20 leopards. She also saw ten times more bee-eaters than leopards, half as many cheetahs as snakes, and twice as many alligators as the total number of Arctic foxes and leopards. What's the total number of animals Brinley counted at the zoo?",
+  "checkpoint": [
+    {
+      "\\boxed{670}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

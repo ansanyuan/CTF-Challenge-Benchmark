@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The teacher brings in 14 mini-cupcakes and 12 donut holes for the class. There are 13 students in the class. If each student gets the exact same amount, how many desserts does each student get?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Paul, Amoura, and Ingrid were to go to a friend's party planned to start at 8:00 a.m. Paul arrived at 8:25. Amoura arrived 30 minutes later than Paul, and Ingrid was three times later than Amoura. How late, in minutes, was Ingrid to the party?",
+  "checkpoint": [
+    {
+      "\\boxed{165}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

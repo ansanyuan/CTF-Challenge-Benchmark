@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A man intends to complete a journey of 24 km in 8 hours. If he travels at a speed of 4km/hr for the first four hours, at what speed does he need to travel for the remainder of the journey to be right on time?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

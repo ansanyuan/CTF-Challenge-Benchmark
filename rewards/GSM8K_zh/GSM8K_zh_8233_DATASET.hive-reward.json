@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The number of songs in a playlist is 300. If John has 20 such playlists, and each song is 10 hours long, how many hours will the 20 playlists last in total?",
+  "checkpoint": [
+    {
+      "\\boxed{60000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

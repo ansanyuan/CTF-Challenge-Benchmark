@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A local town is expanding and wants to build several new homes across the next three years. In the first year, they will build 12 homes. In the next year, they will build three times this many homes. In the third year, they will count how many homes they have built and double the amount. How many homes will the town have built over the next three years?",
+  "checkpoint": [
+    {
+      "\\boxed{144}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

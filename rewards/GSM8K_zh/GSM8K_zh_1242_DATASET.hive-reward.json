@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John carves a giant marble rectangular prism 8 meters tall with a 2-meter square base.  It has a density of 2700 kg per cubic meter.  How much does it weigh?",
+  "checkpoint": [
+    {
+      "\\boxed{86400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

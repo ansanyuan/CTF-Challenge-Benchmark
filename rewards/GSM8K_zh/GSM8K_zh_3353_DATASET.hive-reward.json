@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In Sam's collection, there are ten more black pens than blue pens and twice as many blue pens as pencils. There are also eight pencils and two fewer red pens than pencils. How many pens in all are there in Sam's collection?",
+  "checkpoint": [
+    {
+      "\\boxed{48}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Julie is reading a 120-page book. Yesterday, she was able to read 12 pages and today, she read twice as many pages as yesterday. If she wants to read half of the remaining pages tomorrow, how many pages should she read?",
+  "checkpoint": [
+    {
+      "\\boxed{42}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A supermarket has 2355 loaves of bread at the start of the day. By afternoon, 629 loaves are sold, and a further 489 loaves are delivered to the supermarket by their supplier in the evening. How many loaves of bread are there at the end of the day?",
+  "checkpoint": [
+    {
+      "\\boxed{2215}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

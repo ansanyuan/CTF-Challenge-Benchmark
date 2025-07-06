@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jay bought a book for $25, a pen for $4, and a ruler for $1. He paid with a fifty-dollar bill. How much change, in dollars, did Jay get?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

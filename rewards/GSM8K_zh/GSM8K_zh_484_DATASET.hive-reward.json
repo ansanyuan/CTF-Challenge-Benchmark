@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Andy started out the year weighing 156 pounds. He then grew 3 inches and gained 36 pounds. Andy wasn't happy with his weight and decided to exercise. Over the next 3 months, he lost an eighth of his weight every month. How much less does Andy weigh now than at the beginning of the year?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

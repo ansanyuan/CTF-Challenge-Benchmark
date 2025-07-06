@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sam has 19 dimes and 6 quarters. She buys 4 candy bars for 3 dimes each and 1 lollipop for 1 quarter. How much money, in cents, does she have left?",
+  "checkpoint": [
+    {
+      "\\boxed{195}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

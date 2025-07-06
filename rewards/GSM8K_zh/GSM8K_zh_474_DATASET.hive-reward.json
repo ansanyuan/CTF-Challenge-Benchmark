@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James and Ali together own $250. If you know that James owns $40 more than Ali, then calculate the amount owned by James.",
+  "checkpoint": [
+    {
+      "\\boxed{145}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

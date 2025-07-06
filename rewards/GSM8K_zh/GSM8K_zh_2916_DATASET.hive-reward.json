@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Adam and Tom are brothers. Adam is 8 years old and Tom is 12 years old. In how many years will their combined age be 44 years old?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

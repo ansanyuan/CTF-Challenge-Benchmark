@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jonathan was sad to learn he needed 2 more toys than he already had to have enough toys to make a sorted play set five times larger than James's play set, which had 80 toys. How many toys does Jonathan currently have?",
+  "checkpoint": [
+    {
+      "\\boxed{398}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：June's mom promises to pay her 1 cent for every cloverleaf she picks from the lawn. June picks 200 clovers in total. 75% have 3 petals. 24% have two petals and 1% have four petals. How many cents does June earn?",
+  "checkpoint": [
+    {
+      "\\boxed{554}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

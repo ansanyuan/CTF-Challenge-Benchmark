@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Solomon collected three times as many cans as Juwan. Levi collected half of what Juwan collected. Solomon collected 66 cans. How many cans did the boys collect in all?",
+  "checkpoint": [
+    {
+      "\\boxed{99}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：My cat's empty bowl weighs 420 grams. If I give my cat 60 grams per day and I always fill her bowl every 3 days, how much does her bowl weigh if after I ended up refilling her empty bowl she only ate 14 grams?",
+  "checkpoint": [
+    {
+      "\\boxed{586}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

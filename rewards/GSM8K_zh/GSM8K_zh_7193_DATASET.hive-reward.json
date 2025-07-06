@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bobby can deadlift 300 pounds at 13.  When he is 18 he can deadlift 100 pounds more than 250% of his previous deadlift.  How many pounds did he add per year?",
+  "checkpoint": [
+    {
+      "\\boxed{110}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

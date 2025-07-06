@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Whitney bought 9 books about whales and 7 books about fish. She also bought 3 magazines. Each book cost $11 and each magazine cost $1. How much did Whitney spend in all?",
+  "checkpoint": [
+    {
+      "\\boxed{179}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：For Halloween, Taquon, Mack and Jafari put their candy together and they had 418 pieces of candy. If Taquon and Mack each had 171 pieces of candy, how many pieces of candy did Jafari start with?",
+  "checkpoint": [
+    {
+      "\\boxed{76}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

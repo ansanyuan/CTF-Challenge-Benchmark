@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A firefighter's hose can deliver 20 gallons of water per minute.  For a building fire that requires 4000 gallons of water to put out, how long will it take, in minutes, for a team of 5 firefighters, each with their own hose, to put out the fire?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

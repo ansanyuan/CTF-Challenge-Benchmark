@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom decides to open a theater.  He knows it will cost $5 per square foot of space that he needs and he needs 12 square feet for every seat in his theater.  He wants a 500 seat theater.  He also realizes construction will cost twice as much as the land.  He has a partner who covers 40% of the cost.  How much does Tom spend?",
+  "checkpoint": [
+    {
+      "\\boxed{54000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

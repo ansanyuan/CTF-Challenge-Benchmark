@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A party venue has 4 tables that seat 6 people each, 16 tables that seat 4 people each, and 8 round tables that seat 10 people each. What is the total capacity of all the tables at the party venue?",
+  "checkpoint": [
+    {
+      "\\boxed{168}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

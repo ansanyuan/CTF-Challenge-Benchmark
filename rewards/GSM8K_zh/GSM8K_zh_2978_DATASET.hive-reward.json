@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cindy can jump rope for 12 minutes before tripping up on the ropes.  Betsy can jump rope half as long as Cindy before tripping up, while Tina can jump three times as long as Betsy.  How many more minutes can Tina jump rope than Cindy?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Stefan, Vail, and Aiguo collected seashells. Stefan had 16 more seashells than Vail. Vail had 5 less than Aiguo. Aiguo had 20 seashells. How many seashells did the 3 children have in total?",
+  "checkpoint": [
+    {
+      "\\boxed{66}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

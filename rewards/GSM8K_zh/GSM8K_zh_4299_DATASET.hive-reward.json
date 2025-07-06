@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Peter carried $500 to the market.  He bought 6 kilos of potatoes for $2 per kilo, 9 kilos of tomato for $3 per kilo, 5 kilos of cucumbers for $4 per kilo, and 3 kilos of bananas for $5 per kilo.  How much is Peter’s remaining money?",
+  "checkpoint": [
+    {
+      "\\boxed{426}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

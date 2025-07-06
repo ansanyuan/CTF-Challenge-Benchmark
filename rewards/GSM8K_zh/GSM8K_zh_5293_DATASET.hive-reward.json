@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：One afternoon, Rachelle, Gretchen and Rocky threw pennies into the fountain and made wishes.  Rachelle threw 180 pennies into the fountain.  Gretchen threw half as many pennies into the fountain as Rachelle and Rocky threw in one-third as many pennies as Gretchen.  What was the total number of pennies thrown into the fountain by the three of them?",
+  "checkpoint": [
+    {
+      "\\boxed{300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

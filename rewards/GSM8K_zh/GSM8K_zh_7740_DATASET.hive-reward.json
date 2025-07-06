@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. Tan sold his house for $400 000. He paid the transfer fees that amount to 3% of the selling price and also paid a brokerage fee that is 5% of the selling price. If he also paid $250 000 for the remaining loan amount of the house, how much is Mr. Tan's net proceeds from selling the house?",
+  "checkpoint": [
+    {
+      "\\boxed{118000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

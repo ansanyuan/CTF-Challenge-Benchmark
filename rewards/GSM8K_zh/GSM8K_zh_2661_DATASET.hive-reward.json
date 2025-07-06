@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. Salazar had seven dozen oranges. He reserved 1/4 of it for his friend and was able to sell 3/7 of the remaining yesterday. Today, he saw four rotten oranges. How many oranges are left to be sold today?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

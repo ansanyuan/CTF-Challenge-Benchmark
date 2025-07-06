@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jean has 3 grandchildren.  She buys each grandkid 2 cards a year and puts $80 in each card.  How much does she give away to grandchildren a year?",
+  "checkpoint": [
+    {
+      "\\boxed{480}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

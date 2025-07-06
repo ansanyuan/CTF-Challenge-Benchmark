@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sarah’s basketball games are 4 quarters that are each 12 minutes long. In the last quarter, there was a tie so the game was extended for five minutes. How long did the entire game last?",
+  "checkpoint": [
+    {
+      "\\boxed{53}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A group of parents get together and decide to hire a private school teacher to quit his job and teach their children.  His former job paid 45,000 per year and they offered him a 20% raise.  If there are 9 kids how much does each parent have to pay?",
+  "checkpoint": [
+    {
+      "\\boxed{6000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

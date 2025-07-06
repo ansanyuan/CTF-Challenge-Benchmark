@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Georgia is sick and coughs 5 times a minute.  Her brother Robert is also sick but he coughs twice as much as her.  After 20 minutes, how many times have they coughed?",
+  "checkpoint": [
+    {
+      "\\boxed{300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Company A and Company B merge. Company A receives 60% of the combined profits under the new merger, and company B receives 40% of the profits. If company B gets a total of $60000 in profit, how much does company A get?",
+  "checkpoint": [
+    {
+      "\\boxed{90000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：For one medical dosage, Saanvi had to combine 14 mL of one medicine with 3 times that amount of the second medicine. How many mL of medicine would be in 8 doses?",
+  "checkpoint": [
+    {
+      "\\boxed{448}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

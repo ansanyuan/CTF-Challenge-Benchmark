@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Micah can type 20 words per minute and Isaiah can type 40 words per minute. How many more words can Isaiah type than Micah in an hour?",
+  "checkpoint": [
+    {
+      "\\boxed{1200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

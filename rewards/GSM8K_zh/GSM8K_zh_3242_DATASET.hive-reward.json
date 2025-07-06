@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James needs 40 fish to make one sushi roll. He goes to the market and buys 400 fish, but later finds out that 20% of the fish have gone bad and cannot be used. How many sushi rolls did James make with the remaining fish?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Larry jogs for 30 minutes each day. In the first week, he jogs for 3 days while he jogs for 5 days in the second week. How many hours does he jog in total for two weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

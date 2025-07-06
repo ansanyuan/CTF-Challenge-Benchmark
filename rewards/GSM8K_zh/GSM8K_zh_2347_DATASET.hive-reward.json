@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John decides to trade in his stereo system.  His old system cost 250 dollars and he got 80% of the value for it.  He then buys a system that costs $600 that he gets a 25% discount on.  How much money came out of his pocket?",
+  "checkpoint": [
+    {
+      "\\boxed{250}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

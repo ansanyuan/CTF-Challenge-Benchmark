@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mrs. Smith wanted to buy wears worth $500. She went to a boutique with the $500 but by the time she had picked out everything she liked, she realized that she would need two-fifths more money than she had. If the shop owner gave her a discount of 15%, how much more money will she still need?",
+  "checkpoint": [
+    {
+      "\\boxed{95}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

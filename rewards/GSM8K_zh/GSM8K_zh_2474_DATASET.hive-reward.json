@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Matt can paint a house in 12 hours.  Patty can paint the same house in one third the time.  Rachel can paint the same house in 5 more than double the amount of hours as Patty. How long will it take Rachel to paint the house?",
+  "checkpoint": [
+    {
+      "\\boxed{13}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Hunter needs to make a square patch of land whose perimeter is twice as large as a rectangular patch of land. If the rectangular patch of land has a length of 400 feet and a width of 300 feet, calculate the length of one side of the square patch of land.",
+  "checkpoint": [
+    {
+      "\\boxed{700}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

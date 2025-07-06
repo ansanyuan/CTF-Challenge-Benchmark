@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A cooler is filled with 24 cans of cherry soda and orange pop. If there are twice as many cans of orange pop as there are of cherry soda, how many cherry sodas are there?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

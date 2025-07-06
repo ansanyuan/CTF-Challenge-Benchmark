@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are enough provisions in a castle to feed 300 people for 90 days. After 30 days, 100 people leave the castle. How many more days are left until all the food runs out?",
+  "checkpoint": [
+    {
+      "\\boxed{90}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

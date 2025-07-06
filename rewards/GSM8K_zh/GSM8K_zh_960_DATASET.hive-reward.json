@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Janet makes 50 snowballs and her brother makes 150 snowballs. What percentage of the snowballs did Janet make?",
+  "checkpoint": [
+    {
+      "\\boxed{25}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

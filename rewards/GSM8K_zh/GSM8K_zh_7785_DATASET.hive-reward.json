@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a family of 5, three people eat three eggs each day while the rest eat two eggs each day. If they eat eggs every day, how many eggs will the family consume in a week?",
+  "checkpoint": [
+    {
+      "\\boxed{91}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. Finnegan has 3 tanks with a capacity of 7000 gallons, 5000 gallons, and 3000 gallons, respectively. If he fills the first tank up to 3/4 full, the second tank with water up to 4/5 of its capacity, and the third tank up to half of its capacity, how many gallons in total are in the tanks?",
+  "checkpoint": [
+    {
+      "\\boxed{10850}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

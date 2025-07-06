@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rica's group won in a dance competition. She got 3/8 of the prize money. From Rica's prize money, she spent 1/5 of it and is now left with $300. How much was the prize money that her group won?",
+  "checkpoint": [
+    {
+      "\\boxed{1000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nathaniel has 11 tickets to a basketball game. He gives away 2 tickets each to his best friends, until he only has 3 tickets left. How many best friends does Nathaniel have?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

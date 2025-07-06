@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. Martinez is two feet taller than his daughter, Chiquita. If Chiquita is 5 feet tall, calculate their combined height.",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

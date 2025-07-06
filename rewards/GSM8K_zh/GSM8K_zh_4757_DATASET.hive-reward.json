@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sasha heard that planting trees helps to reduce the local temperature. For each tree planted, the temperature drops .1 degree. A tree costs $6 to plant. If she got the local temperature to drop from 80 to 78.2, how much did it cost to plant the trees?",
+  "checkpoint": [
+    {
+      "\\boxed{108}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

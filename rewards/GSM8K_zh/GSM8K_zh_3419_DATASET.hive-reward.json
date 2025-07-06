@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Stella collects stamps. She counted 50 pages in her collector's album. There are 5 rows of 30 stamps in each of the first 10 pages of her album. The rest of the pages each have 50 stamps. How many stamps are in Stella's album?",
+  "checkpoint": [
+    {
+      "\\boxed{3500}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

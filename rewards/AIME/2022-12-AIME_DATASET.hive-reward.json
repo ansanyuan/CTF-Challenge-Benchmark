@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $a, b, x,$ and $y$ be real numbers with $a>4$ and $b>1$ such that \\[\\frac{x^2}{a^2}+\\frac{y^2}{a^2-16}=\\frac{(x-20)^2}{b^2-1}+\\frac{(y-11)^2}{b^2}=1.\\] Find the least possible value of $a+b.$",
-    "checkpoint": [
-        {
-            "23": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $a, b, x,$ and $y$ be real numbers with $a>4$ and $b>1$ such that \\[\\frac{x^2}{a^2}+\\frac{y^2}{a^2-16}=\\frac{(x-20)^2}{b^2-1}+\\frac{(y-11)^2}{b^2}=1.\\] Find the least possible value of $a+b.$",
+  "checkpoint": [
+    {
+      "\\boxed{23}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

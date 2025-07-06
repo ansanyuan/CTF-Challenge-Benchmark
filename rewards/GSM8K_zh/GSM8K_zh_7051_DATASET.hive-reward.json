@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On a construction site, a mason has to build 6 courses of a wall, each having 10 bricks per course. He has to build 4 such walls and realized he won't be able to finish two courses of the last wall because there were not enough bricks. What's the total number of bricks that he has used?",
+  "checkpoint": [
+    {
+      "\\boxed{220}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

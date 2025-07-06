@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Elsa started the day with 40 marbles.  At breakfast, she lost 3 marbles while playing.  At lunchtime, she gave her best friend Susie 5 marbles.  In the afternoon, Elsa's mom bought her a new bag with 12 marbles.  Susie came back and gave Elsa twice as many marbles as she received at lunch.  How many marbles did Elsa end the day with?",
+  "checkpoint": [
+    {
+      "\\boxed{54}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

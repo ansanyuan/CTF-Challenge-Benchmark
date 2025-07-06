@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：OpenAI runs a robotics competition that limits the weight of each robot. Each robot can be no more than twice the minimum weight and no less than 5 pounds heavier than the standard robot. The standard robot weighs 100 pounds. What is the maximum weight of a robot in the competition?",
+  "checkpoint": [
+    {
+      "\\boxed{210}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Hannah bought a new washing machine for $100 and a dryer that costs $30 less. Hannah got a 10% discount for buying two appliances. How much did Hannah pay for the two appliances after the discount?",
+  "checkpoint": [
+    {
+      "\\boxed{153}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

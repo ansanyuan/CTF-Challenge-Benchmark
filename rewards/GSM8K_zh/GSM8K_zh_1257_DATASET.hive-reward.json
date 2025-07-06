@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Conor can chop 12 eggplants, 9 carrots, and 8 potatoes in a day. If he works 4 times a week, how many vegetables can he chop?",
+  "checkpoint": [
+    {
+      "\\boxed{116}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dexter filled 3 fewer plastic boxes with football cards than basketball cards. He filled 9 boxes with basketball cards and each box has 15 cards. For the boxes with football cards, he filled each box with 20 cards. How many cards does Dexter have in total?",
+  "checkpoint": [
+    {
+      "\\boxed{255}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

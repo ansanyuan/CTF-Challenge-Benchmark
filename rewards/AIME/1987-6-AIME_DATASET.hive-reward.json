@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Rectangle $ABCD$ is divided into four parts of equal area by five segments as shown in the figure, where $XY = YB + BC + CZ = ZW = WD + DA + AX$ , and $PQ$ is parallel to $AB$ .  Find the length of $AB$ (in cm) if $BC = 19$ cm and $PQ = 87$ cm. AIME 1987 Problem 6.png",
-    "checkpoint": [
-        {
-            "193": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Rectangle $ABCD$ is divided into four parts of equal area by five segments as shown in the figure, where $XY = YB + BC + CZ = ZW = WD + DA + AX$ , and $PQ$ is parallel to $AB$ .  Find the length of $AB$ (in cm) if $BC = 19$ cm and $PQ = 87$ cm. AIME 1987 Problem 6.png",
+  "checkpoint": [
+    {
+      "\\boxed{193}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

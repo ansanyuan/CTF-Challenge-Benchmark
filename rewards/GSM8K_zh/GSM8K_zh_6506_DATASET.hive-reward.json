@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tatuya, Ivanna, and Dorothy took a quiz together. Tatuya scored twice as much as Ivanna, and Ivanna scored 3/5 times as many marks as Dorothy. If Dorothy scored 90 marks, calculate the average marks scored by the three.",
+  "checkpoint": [
+    {
+      "\\boxed{84}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

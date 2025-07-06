@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Melanie baked 10 batches of brownies, with 20 brownies in each batch. She set aside 3/4 of the brownies in each batch for a bake sale, put 3/5 of the remaining in a container, and gave out the rest. How many brownies are given out?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

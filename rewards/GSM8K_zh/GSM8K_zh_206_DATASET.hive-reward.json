@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Wickham is throwing a huge Christmas party. He invites 30 people. Everyone attends the party, and half of the guests bring a plus one (one other person). He plans to serve a 3-course meal for the guests. If he uses a new plate for every course, how many plates does he need in total for his guests?",
+  "checkpoint": [
+    {
+      "\\boxed{135}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

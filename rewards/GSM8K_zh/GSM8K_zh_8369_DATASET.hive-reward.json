@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Martin's weight is 55 kg. Carl’s weight is 16 kg more than Martin’s weight. Christian’s weight is 8 kg more than Carl’s weight. Harry is 5 kg less than Christian’s weight. What is the weight of Harry, in kg?",
+  "checkpoint": [
+    {
+      "\\boxed{74}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

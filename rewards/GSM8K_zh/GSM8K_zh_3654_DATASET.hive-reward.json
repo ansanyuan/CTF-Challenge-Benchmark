@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mrs. Jackson has four boxes of Christmas decorations. There are 15 decorations in each box. She was only able to use 35 decorations and decided to give the rest to her neighbor. How many decorations did she give?",
+  "checkpoint": [
+    {
+      "\\boxed{25}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

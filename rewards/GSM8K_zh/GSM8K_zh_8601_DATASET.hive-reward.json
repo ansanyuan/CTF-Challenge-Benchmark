@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rani is obsessed with sports cars. She wonders what the faster car ever made can go so she looks it up. What she finds out is that the fastest car was 1.25 times faster than the 2nd fastest car. The 2nd fastest car was 5 times faster than the average car. The average car can go 120 Miles per hour. How fast does the faster car go?",
+  "checkpoint": [
+    {
+      "\\boxed{750}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

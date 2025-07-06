@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lorin has 4 black marbles. Jimmy has 22 yellow marbles. Alex had twice as many black marbles as Lorin and one half as many yellow marbles as Jimmy. How many marbles does Alex have?",
+  "checkpoint": [
+    {
+      "\\boxed{19}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

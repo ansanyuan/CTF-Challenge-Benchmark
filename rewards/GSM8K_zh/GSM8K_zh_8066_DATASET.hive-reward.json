@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marilyn wants to buy a pair of boots online. On Amazon.com, the boots cost $16 and shipping costs $4. On eBay, those same pair of shoes are only $13, but shipping costs twice as much as it does on Amazon. How much more expensive do the boots work out to be on eBay?",
+  "checkpoint": [
+    {
+      "\\boxed{1}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

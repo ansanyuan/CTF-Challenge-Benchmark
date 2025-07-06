@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The American Academy of Pediatrics recommended no more than 2 hours of screen time each day for children. Mrs. Merril wants to follow a 2-hour screen time for her child. How many minutes will she allow her child to use his gadget this evening if he already used his gadget for 45 minutes in the morning?",
+  "checkpoint": [
+    {
+      "\\boxed{75}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A store decides to shut down and sell all of its inventory.  They have 2000 different items which would normally retail for $50.  They are offering an 80% discount and manage to sell 90% of the items.  They owed $15000 to their creditors.  How much money do they have left after the sale?",
+  "checkpoint": [
+    {
+      "\\boxed{3000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

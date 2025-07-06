@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marly has ten $20 bills, eight $10 bills, and four $5 bills. If she wants to change her bills to $100 bills, how many pieces of $100 bills will she have?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

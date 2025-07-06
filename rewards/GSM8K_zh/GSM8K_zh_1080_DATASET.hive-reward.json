@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. Roberts can buy a television for $400 cash or $120 down payment and $30 a month for 12 months. How much can he save by paying cash?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

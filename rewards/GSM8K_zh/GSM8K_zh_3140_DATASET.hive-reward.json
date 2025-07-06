@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Charley has a bag that contains 51 white beads and 90 black beads. He reaches in the bag and pulls out 1/6 of the black beads and a third of the white beads. How many beads in total did Charley pull out?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are six more white birds next to a cage than grey birds in the cage. If the number of grey birds in the cage is 40, and after ten minutes, half of the birds in the cage are freed and fly away, calculate the total number of birds remaining.",
+  "checkpoint": [
+    {
+      "\\boxed{66}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

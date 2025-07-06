@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Caleb and Cynthia are filling up their inflatable pool with water using buckets. They fill their buckets at the spigot and carry them to the pool. Caleb can add 7 gallons from his bucket and Cynthia can add 8 gallons from her bucket each trip. It will take 105 gallons to fill the pool. How many trips will it take for Caleb and Cynthia to fill the pool with their buckets?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

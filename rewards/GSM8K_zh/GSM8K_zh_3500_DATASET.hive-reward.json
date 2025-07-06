@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Isabella is twice as old as Antonio.  In 18 months, she will be 10 years old.  How many months old is Antonio?",
+  "checkpoint": [
+    {
+      "\\boxed{51}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

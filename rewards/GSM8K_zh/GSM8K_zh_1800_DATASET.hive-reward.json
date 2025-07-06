@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Silvia wants to buy a new guitar online. The price of the guitar has a suggested retail price of $1000. Guitar Center has a special deal of 15% off but has a shipping fee of $100. Sweetwater has a 10% off deal with free shipping. How much will she save by buying from the cheaper store compared to the other store?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

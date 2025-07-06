@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A church has 100 members who've volunteered to bake cookies for the homeless in their local town. If each member baked 10 sheets of cookies, and each sheet has 16 cookies, calculate the total number of cookies the church members baked?",
+  "checkpoint": [
+    {
+      "\\boxed{16000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

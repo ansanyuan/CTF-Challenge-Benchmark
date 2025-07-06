@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carlos bought a box of 50 chocolates. 3 of them were caramels and twice as many were nougats. The number of truffles was equal to the number of caramels plus 6.  The rest of the chocolates were peanut clusters. If Carlos picks a chocolate at random, what is the percentage chance it will be a peanut cluster?",
+  "checkpoint": [
+    {
+      "\\boxed{64}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

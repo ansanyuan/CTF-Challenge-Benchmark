@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Stephen rides his bicycle to church.  During the first third of his trip, he travels at a speed of 16 miles per hour. During the second third of his trip, riding uphill, he travels a speed of 12 miles per hour.  During the last third of his trip, he rides downhill at a speed of 20 miles per hour.  If each third of his trip takes 15 minutes, what is the distance Stephen rides his bicycle to church, in miles?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

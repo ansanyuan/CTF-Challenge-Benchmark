@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Martha receives a daily allowance of $12. She decides to save half of this amount every day. In the first week she kept her commitment with the exception of one day when she saved only a quarter of this amount. How much has she saved at the end of this week?",
+  "checkpoint": [
+    {
+      "\\boxed{39}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

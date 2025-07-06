@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Anthony is sending out coupons for his pizza parlor through the mail. He wants to send out 700 small coupons and twice as many big coupons. If each small coupon costs 5 cents to mail and each big coupon costs 15 cents, how much does he spend on postage total?",
+  "checkpoint": [
+    {
+      "\\boxed{245}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

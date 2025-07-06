@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Two runners are competing in a 10-mile race.  The first runs at an average pace of 8 minutes per mile, while the second runs at an average pace of 7 minutes per mile.  After 56 minutes, the second runner stops for a drink of water.  For how many minutes could the second runner remain stopped before the first runner catches up with him?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

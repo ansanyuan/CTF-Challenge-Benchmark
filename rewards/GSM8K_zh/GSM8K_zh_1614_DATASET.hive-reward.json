@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John is a door-to-door salesman.  He visits 50 houses a day.  20% of them buy something from them.  Of those that buy something half buy a $50 set of knives and the other half buy a $150 set of knives.  How much does he sell a week when he works 5 days a week?",
+  "checkpoint": [
+    {
+      "\\boxed{5000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

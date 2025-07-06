@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：In a Martian civilization, all logarithms whose bases are not specified are assumed to be base $b$ , for some fixed $b\\ge2$ . A Martian student writes down \\[3\\log(\\sqrt{x}\\log x)=56\\] \\[\\log_{\\log x}(x)=54\\] and finds that this system of equations has a single real number solution $x>1$ . Find $b$ .",
-    "checkpoint": [
-        {
-            "216": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：In a Martian civilization, all logarithms whose bases are not specified are assumed to be base $b$ , for some fixed $b\\ge2$ . A Martian student writes down \\[3\\log(\\sqrt{x}\\log x)=56\\] \\[\\log_{\\log x}(x)=54\\] and finds that this system of equations has a single real number solution $x>1$ . Find $b$ .",
+  "checkpoint": [
+    {
+      "\\boxed{216}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jack buys a squat rack for $2500.  The barbell cost 1/10 as much.  How much did he pay for everything?",
+  "checkpoint": [
+    {
+      "\\boxed{2750}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

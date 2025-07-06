@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carl’s favorite food is cheese. He ate a sandwich every day this week for lunch and used 2 slices of cheese on each sandwich. He ate cheese and egg omelets for breakfast 3 days in the week using one more slice per omelet than he did per sandwich. He made a big dish of macaroni and cheese to last him several dinners for the week and used 8 slices of cheese in it. How many slices of cheese did he use?",
+  "checkpoint": [
+    {
+      "\\boxed{31}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

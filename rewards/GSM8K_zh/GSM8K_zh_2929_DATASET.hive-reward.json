@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Oxford High School has 48 teachers, 1 principal and 15 classes with each having 20 students. How many people are there in total in Oxford High School?",
+  "checkpoint": [
+    {
+      "\\boxed{349}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

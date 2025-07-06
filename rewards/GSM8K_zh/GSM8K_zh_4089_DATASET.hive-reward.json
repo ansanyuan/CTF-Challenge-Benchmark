@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bill gets paid $20 every hour he works up to a total of 40 hours, after which he gets paid double that amount per hour.  How much does Bill get paid for a 50-hour workweek?",
+  "checkpoint": [
+    {
+      "\\boxed{1200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

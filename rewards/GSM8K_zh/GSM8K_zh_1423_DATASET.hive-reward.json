@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Every 10 seconds, there is a car collision, and every 20 seconds there is a big crash. How many accidents overall will happen in 4 minutes?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

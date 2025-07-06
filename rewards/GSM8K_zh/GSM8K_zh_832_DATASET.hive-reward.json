@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sam, Sid, and Steve brought popsicle sticks for their group activity in their Art class. Sam has thrice as many as Sid, and Sid has twice as many as Steve. If Steve has 12 popsicle sticks, how many popsicle sticks can they use for their Art class activity?",
+  "checkpoint": [
+    {
+      "\\boxed{108}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

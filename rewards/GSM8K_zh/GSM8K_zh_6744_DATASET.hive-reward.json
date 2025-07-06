@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jame's buys 100 head of cattle for $40,000.  It cost 20% more than that to feed them.  They each weigh 1000 pounds and sell for $2 per pound.  How much profit did he make?",
+  "checkpoint": [
+    {
+      "\\boxed{112000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

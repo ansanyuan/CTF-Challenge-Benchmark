@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Harry has 50 books in his library. His sister Flora has twice as many books and their cousin Gary has half the books Harry has. How many books do the three of them own together?",
+  "checkpoint": [
+    {
+      "\\boxed{175}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A small, old, wooden bridge can hold up to 100 kilograms at once. Mike, Megan, and Kelly are three children who decided to cross the bridge at the same time. Kelly weighs 34 kilograms, which is 15% less than Megan. Mike weighs 5 kilograms more than Megan. How much too much do the three children weigh together to cross the bridge?",
+  "checkpoint": [
+    {
+      "\\boxed{19}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

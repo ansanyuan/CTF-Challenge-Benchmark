@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James gets a cable program.  The first 100 channels cost $100 and the next 100 channels cost half that much.  He splits it evenly with his roommate.  How much did he pay?",
+  "checkpoint": [
+    {
+      "\\boxed{75}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

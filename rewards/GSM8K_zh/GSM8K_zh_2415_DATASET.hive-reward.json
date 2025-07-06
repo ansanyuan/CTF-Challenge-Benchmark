@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If Amanda can run the length of a football field 2000 meters in length in 2 hours, how long would it take her to run the length of a 10000-meter track at the same speed?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

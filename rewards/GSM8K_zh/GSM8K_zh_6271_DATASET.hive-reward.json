@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 9 bicycles and 16 cars in the garage. How many wheels are there in the garage?",
+  "checkpoint": [
+    {
+      "\\boxed{82}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

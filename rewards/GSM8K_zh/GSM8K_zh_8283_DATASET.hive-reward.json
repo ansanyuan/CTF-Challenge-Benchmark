@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dale is selling butterscotch candies to raise money for his club at school. He doesn't have the candies yet and is instead just taking orders. He started off with 100 total that he ordered and wanted to sell, but he ended up selling 150 butterscotch candies. Then he ordered 100 more. How many does Dale still need to sell to sell all of his candy?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

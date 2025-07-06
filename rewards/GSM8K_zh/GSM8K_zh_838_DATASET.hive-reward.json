@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mariel is a dog walker.  While walking her pack of dogs, she gets tangled up in the leashes of another dog walker and their 3 dogs.  There are 36 legs tangled up in leashes.  How many dogs is Mariel walking?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

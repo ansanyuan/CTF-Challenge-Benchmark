@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A party store ordered 5 boxes of balloons. Each box contains 8 bags of balloons, and there are 12 balloons in each bag. How many balloons are there?",
+  "checkpoint": [
+    {
+      "\\boxed{480}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

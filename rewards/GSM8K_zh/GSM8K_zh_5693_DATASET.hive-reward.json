@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Five years ago, the sum of Sebastian's age and his sister's age was 3/4 of their father's age. How old is their father today if Sebastian is 40 years old and 10 years older than his sister?",
+  "checkpoint": [
+    {
+      "\\boxed{85}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

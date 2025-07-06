@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jim decides to buy mayo in bulk.  He can buy 1 gallon of mayo at Costco for 8 dollars.  At the normal store, a 16-ounce bottle costs $3.  How much money does he save by buying the gallon container?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

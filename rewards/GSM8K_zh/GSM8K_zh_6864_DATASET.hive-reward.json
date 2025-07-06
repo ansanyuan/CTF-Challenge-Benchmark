@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A lumberjack is chopping down trees so he can sell firewood. Each tree he chops produces 4 logs each, and each log is then chopped into 5 pieces of firewood. If the lumberjack has chopped 500 pieces of firewood, how many trees did he chop down?",
+  "checkpoint": [
+    {
+      "\\boxed{25}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

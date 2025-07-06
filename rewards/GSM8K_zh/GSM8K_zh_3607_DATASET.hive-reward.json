@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a school with 800 students, 5/8 of the students are girls. Seven-tenths of the girls and two-fifths of the boys are in the primary grades, while the rest are middle schoolers. How many middle schoolers are there?",
+  "checkpoint": [
+    {
+      "\\boxed{330}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

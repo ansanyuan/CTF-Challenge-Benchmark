@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Joe's pizzeria has an amazing promotion. If you buy any regular large pizza you can get the next 3 medium pizzas for $5 each. What are your total savings if the regular medium pizza price is $18 and you take full advantage of the promotion?",
+  "checkpoint": [
+    {
+      "\\boxed{39}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

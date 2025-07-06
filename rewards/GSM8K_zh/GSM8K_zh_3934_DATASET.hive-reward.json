@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Burt spent $2.00 on a packet of basil seeds and $8.00 on potting soil.  The packet of seeds yielded 20 basil plants.  He sells each basil plant for $5.00 at the local farmer's market.  What is the net profit from his basil plants?",
+  "checkpoint": [
+    {
+      "\\boxed{90}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

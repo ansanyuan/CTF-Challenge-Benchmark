@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Aunt May milks her cows twice a day. This morning she got 365 gallons of milk. This evening she got 380 gallons. She sold 612 gallons to the local ice cream factory.  She had 15 gallons left over from yesterday.  How many gallons of milk does she have left?",
+  "checkpoint": [
+    {
+      "\\boxed{148}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

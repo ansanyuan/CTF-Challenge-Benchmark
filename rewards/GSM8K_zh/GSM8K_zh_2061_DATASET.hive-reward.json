@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Daisy’s milk cow provides 16 cups of milk per day.  75% of the milk is consumed by Daisy’s kids.  Daisy uses 50% of the remaining milk to cook with.  How much milk is left over?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

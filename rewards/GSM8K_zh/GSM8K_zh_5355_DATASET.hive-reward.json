@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：It was time for Kelly to harvest her carrots that she had planted in three different beds.  In the first bed she pulled out 55 carrots.  In the second bed she pulled out 101 carrots and in the third bed she pulled out 78 carrots.  She found that 6 carrots weighed one pound.  How many pounds of carrots did Kelly harvest?",
+  "checkpoint": [
+    {
+      "\\boxed{39}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In Carrie's desk drawer there are 7 yellow highlighters. There are 7 more pink highlighters than yellow highlighters, and there are 5 more blue highlighters than pink highlighters. How many highlighters are in Carrie's desk drawer in all?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

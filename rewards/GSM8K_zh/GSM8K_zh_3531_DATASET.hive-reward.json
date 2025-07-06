@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Walter works 5 days a week in a fast-food chain and earns $5 per hour. Since he is a working student, he can only work 4 hours a day and allocates 3/4 of his weekly earning for his schooling. How much does he allocate for school?",
+  "checkpoint": [
+    {
+      "\\boxed{75}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

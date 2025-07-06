@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mark is 7 years older than Amy, who is 15. How old will Mark be in 5 years?",
+  "checkpoint": [
+    {
+      "\\boxed{27}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

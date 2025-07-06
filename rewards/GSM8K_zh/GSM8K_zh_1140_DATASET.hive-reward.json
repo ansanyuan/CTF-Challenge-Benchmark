@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are three goldfish and ten platyfish in a fish tank. Each goldfish plays with ten red balls, while each platyfish plays with five white balls. What is the total number of balls in the fish tank?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

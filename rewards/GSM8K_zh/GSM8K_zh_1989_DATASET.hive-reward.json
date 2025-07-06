@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jackson and Brandon both invest $500 in the stock market. Jackson's investment quadruples in value, while Brandon's is reduced to 20% of the initial value. How much more money does Jackson have than Brandon now?",
+  "checkpoint": [
+    {
+      "\\boxed{1900}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

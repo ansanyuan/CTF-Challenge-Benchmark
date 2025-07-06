@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jack is on the phone with a scammer who says the IRS will arrest Jack if he doesn't send them the codes from 6 $500 Best Buy gift cards and 9 $200 Walmart gift cards. After sending the codes for 1 Best Buy gift card and 2 Walmart gift cards, Jack wises up and hangs up. How many dollars' worth of gift cards can he still return?",
+  "checkpoint": [
+    {
+      "\\boxed{3900}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

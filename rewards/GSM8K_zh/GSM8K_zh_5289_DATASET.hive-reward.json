@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Grandma wants to order 5 personalized backpacks for each of her grandchildren's first days of school.  The backpacks are 20% off of $20.00 and having their names monogrammed on the back pack will cost $12.00 each.  How much will the backpacks cost?",
+  "checkpoint": [
+    {
+      "\\boxed{140}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

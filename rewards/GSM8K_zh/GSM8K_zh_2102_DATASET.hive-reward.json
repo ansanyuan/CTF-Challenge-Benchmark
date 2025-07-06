@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brenda and nine of her friends want to order a pizza. They decide that each person will eat 2 slices. If each pizza has 4 slices, how many pizzas should they order?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

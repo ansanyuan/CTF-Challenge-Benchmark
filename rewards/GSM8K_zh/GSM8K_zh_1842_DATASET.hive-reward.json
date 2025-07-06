@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mac loves the shape of quarters and is willing to trade money for them, even if he loses value. He tells his brother that he will trade him 3 dimes for a quarter or 7 nickels. He trades for 20 quarters with dimes and 20 quarters with nickels. How many dollars did Mac lose?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Shyne can grow 14 eggplants in every seed packet and 10 sunflowers in every seed packet. She bought 4 seed packets of eggplants and 6 seed packets of sunflower, how many plants can Shyne grow in her backyard?",
+  "checkpoint": [
+    {
+      "\\boxed{116}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Vanessa has decided to sell some of her clothes to make pocket money, offering a standard price for each type of item. She made a total of $69 by selling 7 dresses and 4 shirts. If she managed to sell each shirt for $5, how much did the dresses sell for each?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mike spent 37 dollars on notebooks.  He bought a total of 12 notebooks.  He bought 3 red notebooks at 4 dollars each, 2 green notebooks at 2 dollars each, and the rest were blue notebooks.  How much does each blue notebook cost?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

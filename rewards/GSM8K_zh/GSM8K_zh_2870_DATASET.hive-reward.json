@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The new pad of paper has 120 pages. Sammy uses 25% of the pages for his science project, and another 10 pages for his math homework. How many pages remain in the pad?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

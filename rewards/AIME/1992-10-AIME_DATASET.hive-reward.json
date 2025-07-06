@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Consider the region $A^{}_{}$ in the complex plane that consists of all points $z^{}_{}$ such that both $\\frac{z^{}_{}}{40}$ and $\\frac{40^{}_{}}{\\overline{z}}$ have real and imaginary parts between $0^{}_{}$ and $1^{}_{}$ , inclusive. What is the integer that is nearest the area of $A^{}_{}$ ?",
-    "checkpoint": [
-        {
-            "572": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Consider the region $A^{}_{}$ in the complex plane that consists of all points $z^{}_{}$ such that both $\\frac{z^{}_{}}{40}$ and $\\frac{40^{}_{}}{\\overline{z}}$ have real and imaginary parts between $0^{}_{}$ and $1^{}_{}$ , inclusive. What is the integer that is nearest the area of $A^{}_{}$ ?",
+  "checkpoint": [
+    {
+      "\\boxed{572}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

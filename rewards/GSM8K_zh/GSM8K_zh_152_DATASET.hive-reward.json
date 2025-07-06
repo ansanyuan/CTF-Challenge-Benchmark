@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Keiko sent 111 text messages last week. This week she sent 50 less than double what she sent last week. How many text messages did Keiko send last week and this week combined?",
+  "checkpoint": [
+    {
+      "\\boxed{283}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

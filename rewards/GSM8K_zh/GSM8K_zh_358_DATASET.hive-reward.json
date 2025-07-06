@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Catriona has 8 goldfish in her aquarium. She has 4 more angelfish than goldfish. Also, she has twice as many guppies as angelfish. How many fish does Catriona have in her aquarium?",
+  "checkpoint": [
+    {
+      "\\boxed{44}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

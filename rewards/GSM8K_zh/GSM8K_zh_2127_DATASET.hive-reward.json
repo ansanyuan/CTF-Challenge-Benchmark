@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Adam teaches 50 students a year. How many students will Adam teach in 10 years if in the first year he only teaches 40 students?",
+  "checkpoint": [
+    {
+      "\\boxed{490}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

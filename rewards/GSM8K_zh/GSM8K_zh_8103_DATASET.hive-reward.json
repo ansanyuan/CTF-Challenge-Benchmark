@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James gets a job selling used cars.  He sold 10 cars that cost $25,000 each.  The company paid 30% of that price to acquire the cars.  He got a 10% commission on the profits.  How much did he make?",
+  "checkpoint": [
+    {
+      "\\boxed{17500}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

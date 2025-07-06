@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Courtney attended a concert and reported that the audience was 48 in number. However, Kelly went to the same concert and said that Courtney had made the mistake of overstating the number of people in attendance by 20%. If Kelly was right, how many people really attended the concert?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

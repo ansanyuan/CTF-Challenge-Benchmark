@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jason is planning a parking garage that will have 12 floors. Every 3rd floor has a gate where drivers have to show ID, which takes two minutes. To get from one floor to the next, drivers have to drive 800 feet at 10 feet/second. How long, in seconds, does it take to get to the bottom of the garage from the top?",
+  "checkpoint": [
+    {
+      "\\boxed{1440}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

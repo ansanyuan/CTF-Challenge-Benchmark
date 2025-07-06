@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tate finishes high school in 1 year less than normal.  It takes him 3 times that long to get his bachelor's degree and Ph.D.  How many years did he spend in high school and college?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ali turned 8 years old this year, and is now 3 years older than Yusaf. If Umar is twice Yusaf’s age, how old is Umar?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Michael ran a bakeshop and had to fill an order for 5 peach pies, 4 apple pies and 3 blueberry pies.  Each pie recipe called for 3 pounds of fruit each.  At the market, produce was on sale for $1.00 per pound for both blueberries and apples.  The peaches each cost $2.00 per pound.  How much will Michael spend at the market buying the fruit for his pie order?",
+  "checkpoint": [
+    {
+      "\\boxed{51}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

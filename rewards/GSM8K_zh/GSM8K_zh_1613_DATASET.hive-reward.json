@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Paul earns $12.50 for each hour that he works. He then has to pay 20% for taxes and fees. After working 40 hours, Paul receives his paycheck. If he spends 15% of his paycheck on gummy bears, how much, in dollars, does he have left?",
+  "checkpoint": [
+    {
+      "\\boxed{340}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

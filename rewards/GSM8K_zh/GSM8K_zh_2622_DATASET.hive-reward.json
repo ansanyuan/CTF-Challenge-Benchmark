@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In Fifi's closet, she hangs all of her clothes on colored plastic hangers.  She has clothes hanging on 7 pink hangers, 4 green hangers, one less blue hanger than there are green hangers, and one less yellow hanger than there are blue hangers.  What is the total number of colored hangers in Fifi's closet?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

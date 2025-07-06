@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carlos and Diego are racing around the block. Carlos runs around the entire block in 3 minutes. Diego runs around half the block in 2.5 minutes and then is tripped by a dog and can't finish. Assuming he kept up the same speed the entire race, what would've been the average time in seconds for the racers?",
+  "checkpoint": [
+    {
+      "\\boxed{240}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

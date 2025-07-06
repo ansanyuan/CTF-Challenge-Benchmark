@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jordan and Perry took a boat out to the lake to go fishing on a Monday morning. Jordan caught 4 fish and Perry caught double what Jordan caught. On the way back to shore, the boat tipped over and they lost one-fourth of their total catch. How many fish remain?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

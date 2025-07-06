@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ali has a small flower shop. He sold 4 flowers on Monday, 8 flowers on Tuesday and on Friday, he sold double the number of flowers he sold on Monday. How many flowers does Ali sell?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

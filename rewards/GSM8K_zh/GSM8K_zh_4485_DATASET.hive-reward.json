@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Each month, Diego deposits his $5,000 paycheck into a bank account, which he then uses for all of his expenses, which amount to $4,600 per month. How much, in dollars, does Diego save over the course of a year?",
+  "checkpoint": [
+    {
+      "\\boxed{4800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

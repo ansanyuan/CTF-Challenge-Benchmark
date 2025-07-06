@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John has 2 umbrellas in his house and 1 in the car.  If they cost $8 each, how much did he pay in total?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

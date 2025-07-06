@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bob orders a dozen muffins a day for $0.75 each and sells them for $1.5 each.  How much profit does he make a week?",
+  "checkpoint": [
+    {
+      "\\boxed{63}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

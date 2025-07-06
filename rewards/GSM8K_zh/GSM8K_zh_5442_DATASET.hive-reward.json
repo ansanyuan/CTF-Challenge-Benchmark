@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mustafa buys a fridge, a TV and a computer with a total budget of $1600. The TV costs $600 and the fridge costs $500 more than the computer. How much does the computer cost?",
+  "checkpoint": [
+    {
+      "\\boxed{250}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

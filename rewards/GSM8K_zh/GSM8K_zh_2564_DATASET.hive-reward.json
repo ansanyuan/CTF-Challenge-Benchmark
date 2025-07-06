@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sam has 18 cows.  5 more than half the cows are black.  How many cows are not black?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

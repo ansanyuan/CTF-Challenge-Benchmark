@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. Zubir bought a pair of pants, a shirt, and a coat. The pair of pants and shirt costs $100. The pants and coat cost $244. The coat costs 5 times as much as the shirt. How much did Mr. Zubir pay for his coat?",
+  "checkpoint": [
+    {
+      "\\boxed{180}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：After a trip, Mrs. Nalani took the students to the restaurant and told them they could order either a burger or a hot dog. If the number of students who ordered burgers was 30, twice the number of students who called for a hot dog, calculate the number of students at the restaurant.",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

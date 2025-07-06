@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Boris owns a chocolate factory. He produces 50,000 bars of chocolate each month. Boris produces 8,000 bars of chocolate the first week. The second week, Boris only produces half as much as the first week. But, the third week, Boris produces three times as much as the first week. How much does he produce the fourth week?",
+  "checkpoint": [
+    {
+      "\\boxed{14000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

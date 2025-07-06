@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Henry believes in the famous phrase, \"An apple a day, keeps the doctor away.\" If a box contains 14 apples, how many weeks can Henry and his brother spend eating 3 boxes of apples if they each eat 1 apple a day?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

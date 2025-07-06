@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Danielle's apartment has 6 rooms. Heidi's apartment has 3 times as many rooms as Danielle's apartment. Grant's apartment has 1/9 as many rooms as Heidi's apartment. How many rooms does Grant's apartment have?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jenny wants to sell some girl scout cookies and has the choice of two neighborhoods to visit.  Neighborhood A has 10 homes which each will buy 2 boxes of cookies.  Neighborhood B has 5 homes, each of which will buy 5 boxes of cookies.  Assuming each box of cookies costs $2, how much will Jenny make at the better choice of the two neighborhoods?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

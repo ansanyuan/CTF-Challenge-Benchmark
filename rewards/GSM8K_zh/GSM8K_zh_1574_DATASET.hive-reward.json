@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Oliver is working out in a gym. On Monday he worked out for 4 hours, and the next day for 2 hours less. On Wednesday he decided to work out twice as much as on Monday. On Thursday the gym was closed, so Oliver needed to exercise at home which took twice as much time as on Tuesday. How many hours in total have Oliver worked out during these four days?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

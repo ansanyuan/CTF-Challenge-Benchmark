@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Madeline has 5 boxes with 24 crayons in each. She noticed that 5/8 of the crayons in the 2 boxes were not yet used. In the 2 other boxes, only 2/3 of the crayons were used while the last box was not entirely used. How many unused crayons did Madeline have?",
+  "checkpoint": [
+    {
+      "\\boxed{70}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

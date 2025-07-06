@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ali has a store that sells fruits and vegetables. He puts 23 kg of kidney apples, 37 kg of golden apples and 14 kg of Canada apples on the shelves. By noon, 36 kg of apples were sold. What is the mass of apples that he has left?",
+  "checkpoint": [
+    {
+      "\\boxed{38}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

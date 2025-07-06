@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Three $12$ cm $\\times 12$ cm squares are each cut into two pieces $A$ and $B$ , as shown in the first figure below, by joining the midpoints of two adjacent sides. These six pieces are then attached to a regular hexagon , as shown in the second figure, so as to fold into a polyhedron . What is the volume (in $\\mathrm{cm}^3$ ) of this polyhedron? AIME 1985 Problem 15.png",
-    "checkpoint": [
-        {
-            "864": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Three $12$ cm $\\times 12$ cm squares are each cut into two pieces $A$ and $B$ , as shown in the first figure below, by joining the midpoints of two adjacent sides. These six pieces are then attached to a regular hexagon , as shown in the second figure, so as to fold into a polyhedron . What is the volume (in $\\mathrm{cm}^3$ ) of this polyhedron? AIME 1985 Problem 15.png",
+  "checkpoint": [
+    {
+      "\\boxed{864}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

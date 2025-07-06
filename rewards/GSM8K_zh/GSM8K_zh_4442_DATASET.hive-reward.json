@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Two months ago, Wilson had a total of $150 in his bank account. Then last month, he deposited $17. A few days after, he made a withdrawal. This month, he deposited $21 so he has $16 more than what is in his account two months ago. How much did Wilson withdraw last month?",
+  "checkpoint": [
+    {
+      "\\boxed{22}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

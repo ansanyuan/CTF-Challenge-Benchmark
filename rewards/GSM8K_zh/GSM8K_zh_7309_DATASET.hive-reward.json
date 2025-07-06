@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Grant has four times as many vacations as Kelvin has classes. If Kelvin has 90 classes, how many vacations and classes do Grant and Kelvin have altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{450}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

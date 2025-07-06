@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Adrien's total salary was 30 percent higher than Lylah's. Four years later, his salary had increased, and he was earning 40% more than what he was making four years ago. If Adrien's and Lylah's salary increased simultaneously, and Adrien earned $40000 four years ago, calculate the total salary the two were receiving four years later?",
+  "checkpoint": [
+    {
+      "\\boxed{95200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

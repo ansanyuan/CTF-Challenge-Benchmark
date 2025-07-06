@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A large gathering occurred at the town hall with 200 people participating. 100 people decided to have a snack, and then 20 new outsiders joined in to have a snack. Half of these snack eaters got full and left. 10 new outsiders came to have snacks, too. 30 more snack eaters got their fill and left. Then half of the remaining snack eaters left later on. How many snack eaters are left?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

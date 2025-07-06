@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carl wants to buy a new coat that is quite expensive. He saved $25 each week for 6 weeks.  On the seventh week, he had to use a third of his saving to pay some bills. On the eighth week, his dad gave him some extra money for him to buy his dream coat. If the coat cost $170, how much money did his dad give him?",
+  "checkpoint": [
+    {
+      "\\boxed{70}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

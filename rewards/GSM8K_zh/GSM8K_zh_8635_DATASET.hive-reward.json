@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Abraham owns 80 square meters of unused land. He sold half of the land for $50, and after a month, he sold another 1/4 of his land for $30. He then sold the remaining land for $3 per square meter. How much money will he be able to earn after selling all his unused land?",
+  "checkpoint": [
+    {
+      "\\boxed{170}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

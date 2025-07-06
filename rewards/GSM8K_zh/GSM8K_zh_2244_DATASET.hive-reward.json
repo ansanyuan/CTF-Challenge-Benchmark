@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ginger owns a flower shop, where she sells roses, lilacs, and gardenias. On Tuesday, she sold three times more roses than lilacs, and half as many gardenias as lilacs.  If she sold 10 lilacs, what is the total number of flowers sold on Tuesday?",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

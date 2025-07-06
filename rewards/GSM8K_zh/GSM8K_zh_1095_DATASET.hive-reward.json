@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Janice adds 2 tablespoons of koolaid power and 16 tablespoons of water to a jug. She leaves it out long enough for 4 tablespoons of water to evaporate. Then she quadruples the amount of water in the jug. What percentage of the liquid in the jug is koolaid powder?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

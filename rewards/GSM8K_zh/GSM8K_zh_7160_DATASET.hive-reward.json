@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ishmael, Ponce, and Jalen measured their weight and realized Ishmael was 20 pounds heavier than Ponce and that Ponce was 10 pounds lighter than Jalen. If Jalen weighed 160 pounds, calculate the average weight of the three?",
+  "checkpoint": [
+    {
+      "\\boxed{160}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

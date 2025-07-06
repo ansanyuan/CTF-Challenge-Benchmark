@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Malcolm has 240 followers on Instagram and 500 followers on Facebook. The number of followers he has on Twitter is half the number of followers he has on Instagram and Facebook combined. Meanwhile, the number of followers he has on TikTok is 3 times the number of followers is has on Twitter, and he has 510 more followers on Youtube than he has on TikTok. How many followers does Malcolm have on all his social media?",
+  "checkpoint": [
+    {
+      "\\boxed{3840}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

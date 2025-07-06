@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At a university there are 1800 students. 30% of all the students are from other countries. Starting next semester, 200 new foreign students will begin studying at this University. How many foreign students will then study at the University if all other students continue to study?",
+  "checkpoint": [
+    {
+      "\\boxed{740}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

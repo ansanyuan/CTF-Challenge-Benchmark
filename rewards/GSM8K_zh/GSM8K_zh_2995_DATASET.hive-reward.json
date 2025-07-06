@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nadine's dog rolls around in the mud. She spends 10 minutes hosing him off outside, then shampoos him three times, which takes 15 minutes per shampoo. How long does she spend cleaning her dog total?",
+  "checkpoint": [
+    {
+      "\\boxed{55}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

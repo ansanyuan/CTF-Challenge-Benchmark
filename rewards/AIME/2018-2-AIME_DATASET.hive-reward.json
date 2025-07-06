@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $a_{0} = 2$ , $a_{1} = 5$ , and $a_{2} = 8$ , and for $n > 2$ define $a_{n}$ recursively to be the remainder when $4(a_{n-1} + a_{n-2} + a_{n-3})$ is divided by $11$ . Find $a_{2018} \\cdot a_{2020} \\cdot a_{2022}$ .",
-    "checkpoint": [
-        {
-            "112": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $a_{0} = 2$ , $a_{1} = 5$ , and $a_{2} = 8$ , and for $n > 2$ define $a_{n}$ recursively to be the remainder when $4(a_{n-1} + a_{n-2} + a_{n-3})$ is divided by $11$ . Find $a_{2018} \\cdot a_{2020} \\cdot a_{2022}$ .",
+  "checkpoint": [
+    {
+      "\\boxed{112}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

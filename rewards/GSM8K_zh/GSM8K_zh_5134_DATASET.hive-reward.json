@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The local school is holding a big fair to raise money for 5 classes that want to go on a trip. 150 people came to the party and paid a total of $368 for entrance tickets. There was a raffle which brought in $343. The sale of cakes and drinks brought $279. At the end of the fair, the principal of the school shared the money raised between the 5 classes. How much money did each class receive?",
+  "checkpoint": [
+    {
+      "\\boxed{198}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

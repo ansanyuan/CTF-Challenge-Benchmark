@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cecil has $600. Catherine has $250 less than twice as much as Cecil while Carmela has $50 more than twice Cecil's money. How much money do they have altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{2800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A vendor at the market is selling sunglasses for $30 each. He has to spend a certain amount to buy these sunglasses. He sells 10 pairs in a day. He then takes half his profits and uses it to buy a new sign, which costs $20. How much does each pair of sunglasses cost him to buy?",
+  "checkpoint": [
+    {
+      "\\boxed{26}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

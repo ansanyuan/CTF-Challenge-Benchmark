@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jason sent 220 text messages on Monday, half as many text messages on Tuesday, and 50 text messages each day Wednesday through Friday. How many text messages did he send on average during those five days?",
+  "checkpoint": [
+    {
+      "\\boxed{96}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

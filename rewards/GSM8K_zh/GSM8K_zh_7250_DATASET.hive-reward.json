@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Vinnie is writing an essay and needs to make sure that he has not exceeded the 1000-word limit. He wrote 450 words on Saturday and 650 words on Sunday. How many words has Vinnie exceeded the limit by?",
+  "checkpoint": [
+    {
+      "\\boxed{100}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

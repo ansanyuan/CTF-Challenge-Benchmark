@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Pedro, Linden, and Jesus are playing a game. Jesus has 60 squares. Linden has 75 squares. Pedro has 200. How many more squares does Pedro have than both Jesus and Linden combined?",
+  "checkpoint": [
+    {
+      "\\boxed{65}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

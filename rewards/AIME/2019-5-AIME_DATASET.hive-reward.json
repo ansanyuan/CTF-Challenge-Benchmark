@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Four ambassadors and one advisor for each of them are to be seated at a round table with $12$ chairs numbered in order $1$ to $12$ . Each ambassador must sit in an even-numbered chair. Each advisor must sit in a chair adjacent to his or her ambassador. There are $N$ ways for the $8$ people to be seated at the table under these conditions. Find the remainder when $N$ is divided by $1000$ .",
-    "checkpoint": [
-        {
-            "520": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Four ambassadors and one advisor for each of them are to be seated at a round table with $12$ chairs numbered in order $1$ to $12$ . Each ambassador must sit in an even-numbered chair. Each advisor must sit in a chair adjacent to his or her ambassador. There are $N$ ways for the $8$ people to be seated at the table under these conditions. Find the remainder when $N$ is divided by $1000$ .",
+  "checkpoint": [
+    {
+      "\\boxed{520}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

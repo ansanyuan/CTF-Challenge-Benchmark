@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The Science Center hosted field trips Monday through Friday last week. On Monday, 32 classes visited. Twice as many visited on Tuesday and three times as many visited on Wednesday. Another 30 classes visited on Thursday and 25 visited on Friday. In all, how many classes visited the Science Center last week?",
+  "checkpoint": [
+    {
+      "\\boxed{247}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

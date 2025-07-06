@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jerry charges $20 to pierce someone's nose and 50% more to pierce their ears. If he pierces 6 noses and 9 ears, how much money does he make?",
+  "checkpoint": [
+    {
+      "\\boxed{390}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

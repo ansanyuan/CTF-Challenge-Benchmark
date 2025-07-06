@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Asha has to buy some gifts but has no money. She decides to borrow $20 from her brother, $40 from her father, $30 from her mother and is gifted $70 by her granny. She adds this to her savings of $100 and goes out to Target to get what she wanted. If she spent 3/4 of the money, how much money did she remain with?",
+  "checkpoint": [
+    {
+      "\\boxed{65}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

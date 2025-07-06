@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Miriam spent 30 minutes doing laundry, 15 minutes cleaning the bathroom, a certain amount of time cleaning her room, and 40 minutes doing homework. If she spent a total of two hours on these tasks, how long, in minutes, did she spend cleaning her room?",
+  "checkpoint": [
+    {
+      "\\boxed{35}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

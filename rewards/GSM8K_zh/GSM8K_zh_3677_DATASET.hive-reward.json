@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tabitha adds 1 serving of honey per cup of tea in the evening.  She usually has 2 cups of tea before bed.  She buys her honey in a 16-ounce container.  If there are 6 servings of honey per ounce, how many nights will she be able to enjoy honey in her tea before bed?",
+  "checkpoint": [
+    {
+      "\\boxed{48}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

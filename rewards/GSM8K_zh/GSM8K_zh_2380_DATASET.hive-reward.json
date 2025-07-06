@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carla needs to bring water to her animals. Each horse needs twice as much water as a pig, and the chickens drink from one tank that needs 30 gallons. How many gallons of water does Carla need to bring if she has 8 pigs and 10 horses and each pig needs 3 gallons of water?",
+  "checkpoint": [
+    {
+      "\\boxed{114}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

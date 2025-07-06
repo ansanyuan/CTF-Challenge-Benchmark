@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Of the 100 soccer balls that Nova went to inflate, 40 percent had holes in them and could not inflate, while 20% of the remaining balls were overinflated and exploded. How many balls were inflated successfully and could be used?",
+  "checkpoint": [
+    {
+      "\\boxed{48}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

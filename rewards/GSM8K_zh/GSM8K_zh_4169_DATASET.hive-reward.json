@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rachel weighs 75 pounds, 6 pounds less than Jimmy and 15 pounds more than Adam. What is the average weight of the three people, in pounds?",
+  "checkpoint": [
+    {
+      "\\boxed{72}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

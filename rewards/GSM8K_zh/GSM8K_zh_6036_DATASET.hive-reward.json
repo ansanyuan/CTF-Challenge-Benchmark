@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cherry put up a delivery service. She charges $2.50 for a 3-5 kilograms cargo and $4 for a 6-8 kilograms cargo. If she delivers four 5 kilograms cargo and two 8 kilograms cargo per day, how much money will she earn in a week?",
+  "checkpoint": [
+    {
+      "\\boxed{126}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

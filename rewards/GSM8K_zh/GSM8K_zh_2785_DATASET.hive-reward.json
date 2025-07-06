@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rubble has $15 in his pocket and he needs to buy 2 notebooks and 2 pens. Each notebook cost $4.00 meanwhile each pen cost $1.50. How much money will be left from Rubble after the purchase?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

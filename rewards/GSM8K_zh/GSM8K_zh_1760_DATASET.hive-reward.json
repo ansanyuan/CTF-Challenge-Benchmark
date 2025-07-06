@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jason drives past 3 convenience stores on his way to work. The distance between the first store and the second store is 6 miles. The distance between the second store and third store is 2/3rds longer than the distance between the first two stores. The distance from his house to the first store and the last store to work is the same, 4 miles. How long in miles is Jason's commute to work?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

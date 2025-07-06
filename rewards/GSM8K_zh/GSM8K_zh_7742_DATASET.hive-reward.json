@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A real estate agent has spent $5 on each newspaper ad and spent $75 on each television ad. He bought 50 newspaper ads and 15 television ads. How much did the real estate agent spend on buying all the ads?",
+  "checkpoint": [
+    {
+      "\\boxed{1375}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

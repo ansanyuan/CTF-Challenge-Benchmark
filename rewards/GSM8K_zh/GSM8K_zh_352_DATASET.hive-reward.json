@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jackson’s mom packs him a peanut butter and jelly sandwich for his school lunch on Wednesdays and Fridays. There are 36 weeks of school and Jackson has only missed 1 Wednesday and 2 Fridays. How many peanut butter and jelly sandwiches did he eat for lunch this school year?",
+  "checkpoint": [
+    {
+      "\\boxed{69}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

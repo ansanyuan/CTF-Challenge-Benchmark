@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Susan had a sum of money. She spent 1/5 of it in September, 1/4 of it in October, and $120 in November. After spending these amounts of money, she still had $540 left. How much money did she have at first?",
+  "checkpoint": [
+    {
+      "\\boxed{1200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jen buys and sells candy bars. She buys candy bars for 80 cents each and sells them for a dollar each. If she buys 50 candy bars and sells 48 of them, how much profit does she make in cents?",
+  "checkpoint": [
+    {
+      "\\boxed{800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

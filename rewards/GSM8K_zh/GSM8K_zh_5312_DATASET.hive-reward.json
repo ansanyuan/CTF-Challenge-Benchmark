@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tim takes his 3 children trick or treating.  They are out for 4 hours.  Each hour they visited 5 houses.  Each house gives 3 treats per kid.  How many treats do his children get in total?",
+  "checkpoint": [
+    {
+      "\\boxed{180}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

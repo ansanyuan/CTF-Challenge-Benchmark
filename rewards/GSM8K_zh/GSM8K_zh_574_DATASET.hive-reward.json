@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bert was able to sell 8 toy phones for $18 each, while Tory was able to sell 7 toy guns for $20 each. How much more did Bert earn than Tory?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

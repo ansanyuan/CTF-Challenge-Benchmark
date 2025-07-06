@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mike was a pen pal with 5 people.  He stopped being penpals with 2 of them.  They each send 2 letters a week that are 5 pages long.  He responds in kind.  He can write a page every 6 minutes.  How many hours does he spend writing a week?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

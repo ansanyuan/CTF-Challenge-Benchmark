@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A library cabinet houses five ancient scrolls. The first scroll is 4080 years old. If each scroll is older than the last by half as many years as the last scroll’s age, how old is the fifth scroll?",
+  "checkpoint": [
+    {
+      "\\boxed{20655}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

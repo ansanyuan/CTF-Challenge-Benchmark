@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jean has three times as much money as Jane. They have a combined total of $76. How much money does Jean have?",
+  "checkpoint": [
+    {
+      "\\boxed{57}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

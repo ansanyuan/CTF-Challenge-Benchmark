@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tim's cat bit him.  He decided to get himself and the cat checked out.  His doctor's visits $300 and insurance covered 75%.  His cat's visit cost $120 and his pet insurance covered $60.  How much did he pay?",
+  "checkpoint": [
+    {
+      "\\boxed{135}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

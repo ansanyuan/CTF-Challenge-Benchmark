@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A pickup truck can fill 20 eight gallon water cans (each can filled three quarters of its capacity) in three hours. If each can is filled to full capacity instead, how long, in hours, will it take to fill 25 cans?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John eats 3 meals a day.  Breakfast is 500 calories.  His lunch contains 25% more calories than that.  His dinner is twice as many calories as lunch.  He also has 3 shakes that are each 300 calories.  How many calories does he get in a day?",
+  "checkpoint": [
+    {
+      "\\boxed{3275}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

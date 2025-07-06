@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John needs to get a new seeing-eye dog.  The adoption fee cost $150 for an untrained dog.  It then takes 12 weeks of training which costs $250 a week.  After the training, she needs certification which costs $3000 but her insurance covers 90% of that.  What is her out-of-pocket cost?",
+  "checkpoint": [
+    {
+      "\\boxed{3450}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

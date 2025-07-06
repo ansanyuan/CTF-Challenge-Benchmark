@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Claire has 400 flowers in her garden. One hundred twenty are tulips, and the rest are roses. Eighty of the roses are white, while the rest are red. Each red rose is worth $0.75. How much will Claire earn if she can sell 1/2 of the total number of red roses?",
+  "checkpoint": [
+    {
+      "\\boxed{75}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

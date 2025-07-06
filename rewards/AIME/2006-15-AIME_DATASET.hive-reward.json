@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Given that $x, y,$ and $z$ are real numbers that satisfy: \\begin{align*} x &= \\sqrt{y^2-\\frac{1}{16}}+\\sqrt{z^2-\\frac{1}{16}}, \\\\ y &= \\sqrt{z^2-\\frac{1}{25}}+\\sqrt{x^2-\\frac{1}{25}}, \\\\ z &= \\sqrt{x^2 - \\frac 1{36}}+\\sqrt{y^2-\\frac 1{36}}, \\end{align*} and that $x+y+z = \\frac{m}{\\sqrt{n}},$ where $m$ and $n$ are positive integers and $n$ is not divisible by the square of any prime, find $m+n.$",
-    "checkpoint": [
-        {
-            "9": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Given that $x, y,$ and $z$ are real numbers that satisfy: \\begin{align*} x &= \\sqrt{y^2-\\frac{1}{16}}+\\sqrt{z^2-\\frac{1}{16}}, \\\\ y &= \\sqrt{z^2-\\frac{1}{25}}+\\sqrt{x^2-\\frac{1}{25}}, \\\\ z &= \\sqrt{x^2 - \\frac 1{36}}+\\sqrt{y^2-\\frac 1{36}}, \\end{align*} and that $x+y+z = \\frac{m}{\\sqrt{n}},$ where $m$ and $n$ are positive integers and $n$ is not divisible by the square of any prime, find $m+n.$",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

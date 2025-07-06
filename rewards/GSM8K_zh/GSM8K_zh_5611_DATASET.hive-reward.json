@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rick has just celebrated his 15th birthday. His oldest brother is twice his age, and his middle brother is a third of the oldest brother’s age. The smallest brother is half the middle brother’s age. If the youngest brother is 2 years younger than the smallest brother, how old, in years, is the youngest brother?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

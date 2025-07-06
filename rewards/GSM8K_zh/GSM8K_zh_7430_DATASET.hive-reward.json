@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 28 students in a class. Two-sevenths of them were absent last Monday. How many students were present last Monday?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

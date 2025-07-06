@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The town of Belize has 400 homes. One fourth of the town's homes are white. One fifth of the non-white homes have a fireplace. How many of the non-white homes do not have a fireplace?",
+  "checkpoint": [
+    {
+      "\\boxed{240}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

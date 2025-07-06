@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The carousel at the fair has 3 blue horses, three times that many purple horses, twice as many green horses as purple horses, and 1/6th as many gold horses as green horses. How many horses are there total?",
+  "checkpoint": [
+    {
+      "\\boxed{33}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

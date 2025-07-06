@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jordan read 120 French novels last holiday. His brother Alexandre read 1/10 of what Jordan read. How many more novels did Jordan read than Alexandre?",
+  "checkpoint": [
+    {
+      "\\boxed{108}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

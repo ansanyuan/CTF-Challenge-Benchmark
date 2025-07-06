@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Two friends, Hubert and Ian, are planning to have a pizza party. One box of pizza is worth $14, and a can of soda is worth $1.80. Hubert orders eight boxes of pizza and ten cans of soda. Ian buys ten boxes of pizza and fifteen cans of soda. How much do they spend in all?",
+  "checkpoint": [
+    {
+      "\\boxed{297}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John buys 3 puzzles.  The first puzzle has 1000 pieces.  The second and third puzzles have the same number of pieces and each has 50% more pieces.  How many total pieces are all the puzzles?",
+  "checkpoint": [
+    {
+      "\\boxed{4000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

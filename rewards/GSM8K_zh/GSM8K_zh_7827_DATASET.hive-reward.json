@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John decides to do several activities while out on vacation.  He spends 6 hours boating and half that time swimming.  He also watched 3 different shows which were 2 hours each.  This was 30% of the time he spent.  He spent 40% of his time sightseeing.  How much time did he spend sightseeing?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

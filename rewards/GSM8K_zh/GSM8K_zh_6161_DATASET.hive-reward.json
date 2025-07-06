@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The cash price of a refrigerator was $8000. Samantha wanted to buy the refrigerator but pay in installments. If she paid a deposit of $3000 and paid 30 equal monthly installments of $300 each, calculate how much money she would have saved by paying cash.",
+  "checkpoint": [
+    {
+      "\\boxed{4000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Victoria had $500. She went to the market and bought 2 packets of rice each at $20, 3 packets of wheat flour each at $25, and 1 soda at $150. What was her remaining balance?",
+  "checkpoint": [
+    {
+      "\\boxed{235}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：It takes 320 rose petals to make an ounce of perfume. If each rose produces 8 petals, and there are 12 roses per bush, how many bushes will Fern have to harvest to make 20 12-ounce bottles of perfume?",
+  "checkpoint": [
+    {
+      "\\boxed{800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

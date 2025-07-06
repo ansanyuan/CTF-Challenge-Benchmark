@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Eduardo is a teacher. He taught 3 classes last week while his colleague Frankie taught double what Eduardo teaches. How many classes did Eduardo and Frankie teach in total?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Stacy bought two packs of printer paper for the office. Each pack has 240 sheets of paper. Her office prints 80 one-page documents per day. How many days will the printer paper last her office?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

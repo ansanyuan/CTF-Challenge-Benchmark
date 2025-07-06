@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Hannah ran 9 kilometers on Monday. She ran 4816 meters on Wednesday and 2095 meters on Friday. How many meters farther did she run on Monday than Wednesday and Friday combined?",
+  "checkpoint": [
+    {
+      "\\boxed{2089}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

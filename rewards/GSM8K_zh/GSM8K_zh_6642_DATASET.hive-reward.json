@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A giant spider is discovered.  It weighs 2.5 times the previous largest spider, which weighed 6.4 ounces.  Each of its legs has a cross-sectional area of .5 square inches.  How much pressure in ounces per square inch does each leg undergo?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

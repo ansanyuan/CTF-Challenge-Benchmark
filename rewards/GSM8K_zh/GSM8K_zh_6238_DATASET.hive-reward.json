@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brendan makes $6/hour as a waiter. He's scheduled for 2 8-hour shifts and 1 12-hour shift this week. He also makes an average of $12 in tips each hour. Brendan is supposed to pay 20% of his income in taxes, but he only reports 1/3rd of his tips to the IRS. How much money does Brendan pay in taxes each week?",
+  "checkpoint": [
+    {
+      "\\boxed{56}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bill is buying healthcare on an exchange. The normal monthly price of the plan he wants is $500. The government will pay for part of this cost depending on Bill's income: 90% if he makes less than $10,000, 50% if he makes between $10,001 and $40,000, and 20% if he makes more than $50,000. Bill earns $25/hour and works 30 hours per week, four weeks per month. How much will Bill spend for health insurance in a year?",
+  "checkpoint": [
+    {
+      "\\boxed{3000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

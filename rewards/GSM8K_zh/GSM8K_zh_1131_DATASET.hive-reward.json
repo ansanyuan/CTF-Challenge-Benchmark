@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Max works for a delivery company as a courier. During one working day, he can deliver a maximum of 35 packages. One week, Max delivered the maximum number of packages, only twice. On two other days, Max unloaded a total of 50 packages, and on one day he unloaded only one-seventh of the maximum possible daily performance. On the last two days, the sum of the packages transported was only fourth-fifth of the maximum daily performance. How many more packages could Max deliver during that week, if he would work at maximum performance?",
+  "checkpoint": [
+    {
+      "\\boxed{92}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

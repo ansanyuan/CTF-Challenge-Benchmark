@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sally was at a self-serve candy shop where you scoop candy from the bins and pay based on the weight. She scoops 32 cherry sours into a bag. Then she gets a scoop of lemon sours, and the ratio of cherry sours to lemon sours is 4:5. Then she gets a scoop of orange sours, and they make up 25% of the sours in the bag. How many sours does she have in total?",
+  "checkpoint": [
+    {
+      "\\boxed{96}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

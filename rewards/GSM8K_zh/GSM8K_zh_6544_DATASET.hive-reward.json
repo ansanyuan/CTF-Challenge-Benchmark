@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On the planet Orbius-5, there are 250 days per year, and each year is equally divided into 5 seasons. If an astronaut from earth lands on planet Orbius-5 and stays there for 3 seasons before returning to earth, what is the number of days the astronaut will spend on Orbius-5?",
+  "checkpoint": [
+    {
+      "\\boxed{150}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

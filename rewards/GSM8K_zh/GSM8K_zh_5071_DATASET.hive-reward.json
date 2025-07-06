@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：While reading in bed with his wife Susan, Charlie heard a noise at the door. It was Sarah entering the bedroom with 4 friends. If there were also 8 people in the living room, how many people are in the house?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

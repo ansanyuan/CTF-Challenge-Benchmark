@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Matt can buy key chains in packs of 10 for $20 or in packs of 4 for $12. How much money can he save if he chooses to buy 20 key chains at a lower price?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Monika went out for the day and spent some money. She went to the mall and spent $250. Then, she went to the movies and watched 3 movies back to back that each cost $24. Then she stopped by the farmer's market on her way home and got 20 bags of beans at $1.25/bag. How much money did Monika spend throughout her day?",
+  "checkpoint": [
+    {
+      "\\boxed{347}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

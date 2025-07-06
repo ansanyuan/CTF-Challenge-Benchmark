@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A shady restaurant is charging customers gratuities after taxes without them being aware. If my total bill was $140, the sales tax in my city is 10%, I ordered a NY Striploin for $80, and I ordered a glass of wine for $10, how much did they charge me for gratuities?",
+  "checkpoint": [
+    {
+      "\\boxed{41}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

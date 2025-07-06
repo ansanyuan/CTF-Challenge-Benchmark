@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Free Christmas decorations are being given out to families. Each box of decorations contains 4 pieces of tinsel, 1 Christmas tree and 5 snow globes. If 11 families receive a box of decorations and another box is given to the community center, how many decorations have been handed out?",
+  "checkpoint": [
+    {
+      "\\boxed{120}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

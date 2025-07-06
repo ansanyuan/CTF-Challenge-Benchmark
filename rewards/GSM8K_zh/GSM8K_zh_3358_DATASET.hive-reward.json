@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James buys 100 tennis balls and gives half of them away.  The other half he puts into 5 large containers.  How many tennis balls go in each container?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

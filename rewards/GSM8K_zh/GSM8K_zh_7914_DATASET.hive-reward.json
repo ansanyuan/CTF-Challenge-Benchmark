@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The area of Billie's rectangular bedroom is 360 square feet. If the length of his room is 3 yards, what is the perimeter of the room in feet?",
+  "checkpoint": [
+    {
+      "\\boxed{98}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

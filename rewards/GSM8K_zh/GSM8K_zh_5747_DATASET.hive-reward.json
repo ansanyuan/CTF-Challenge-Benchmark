@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：12 archeology students and 4 teachers went on a field trip to a dinosaur museum. Student tickets cost $1 each, and adult tickets cost $3 each. How much did the museum tickets cost in all?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

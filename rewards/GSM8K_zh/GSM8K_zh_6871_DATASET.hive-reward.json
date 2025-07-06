@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jamie and Oliver are planning to go on a vacation. A plane ticket costs $24 for each person and a hotel stay costs $12 for each person per day. How much money will they spend on the vacation if they stay for 3 days?",
+  "checkpoint": [
+    {
+      "\\boxed{120}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

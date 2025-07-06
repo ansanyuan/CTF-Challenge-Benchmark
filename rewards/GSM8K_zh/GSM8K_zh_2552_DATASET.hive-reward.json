@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Going into the final game, Duke is so close to breaking the school's record for most points scored in a basketball season. He only needs 17 more points to tie the record. By the end of the game, Duke breaks the record by 5 points. The old record was 257 points. In the final game Duke made 5 free throws (worth one point), and 4 regular baskets (worth two points), and some three-pointers. Normally, he scores 2 three-pointers a game. How many more three-pointers did he score in the final game compared to his normal amount?",
+  "checkpoint": [
+    {
+      "\\boxed{1}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carrie works for $8 an hour and 35 hours a week at her job. It’s been a month since she started working there. She has saved up all of her money because she wants to buy a bike for $400. How much money will she have left over after she buys her bike?",
+  "checkpoint": [
+    {
+      "\\boxed{720}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

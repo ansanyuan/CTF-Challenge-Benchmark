@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Malcolm brushes his teeth for 2 minutes after breakfast, lunch and dinner.  After 30 days, how many hours does he spend brushing his teeth?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

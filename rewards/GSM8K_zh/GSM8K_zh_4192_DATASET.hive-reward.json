@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James has 20 years of experience.  8 years ago John had twice as much experience as James.  Mike started when John had 16 years of experience.  What is their combined experience?",
+  "checkpoint": [
+    {
+      "\\boxed{68}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lucy is listening to her favorite album while jumping rope. She can jump the rope 1 time per second. If the album's songs are all 3.5 minutes long and there are 10 songs, how many times will she jump rope?",
+  "checkpoint": [
+    {
+      "\\boxed{2100}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

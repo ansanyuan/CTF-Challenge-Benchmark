@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A school library has 120 books.  Each student needs 5 books for their classes.  The library was able to help 4 students on the first day of school, 5 students on the second day and 6 students on the third day.  How many students can the library help out on the fourth day of school?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

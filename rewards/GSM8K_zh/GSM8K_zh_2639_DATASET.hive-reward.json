@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bridge and Sarah have $3 between them. If Bridget has 50 cents more than Sarah, how many cents does Sarah have?",
+  "checkpoint": [
+    {
+      "\\boxed{125}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

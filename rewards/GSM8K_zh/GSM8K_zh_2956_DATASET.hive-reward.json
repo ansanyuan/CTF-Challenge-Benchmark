@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mo is buying valentine's day cards for the class. There are 30 students and he wants to give a Valentine to 60% of them. They cost $2 each. If he has $40, what percentage of his money will he spend on Valentine?",
+  "checkpoint": [
+    {
+      "\\boxed{90}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

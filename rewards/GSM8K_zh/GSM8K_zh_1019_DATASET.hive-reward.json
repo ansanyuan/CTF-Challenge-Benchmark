@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ron is part of a book club that allows each member to take a turn picking a new book every week. The club is made up of three couples and five single people along with Ron and his wife. How many times a year does Ron get to pick a new book?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

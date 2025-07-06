@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom decides to get a new floor for his room.  It cost $50 to remove the floor.  The new floor costs $1.25 per square foot and Tom's room is 8*7 feet.  How much did it cost to replace the floor?",
+  "checkpoint": [
+    {
+      "\\boxed{120}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Molly and her parents love to hang out at the beach on weekends. Molly spent the better part of the day at the beach and saw 100 people join them. At 5:00, 40 people left the beach. What's the total number of people at the beach if they all stayed until evening?",
+  "checkpoint": [
+    {
+      "\\boxed{63}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Wanda walks her daughter .5 miles to school in the morning and then walks .5 miles home.  She repeats this when she meets her daughter after school in the afternoon.  They walk to school 5 days a week.  How many miles does Wanda walk after 4 weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

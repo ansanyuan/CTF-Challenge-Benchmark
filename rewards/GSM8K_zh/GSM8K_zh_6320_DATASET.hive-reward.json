@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jean needs to buy 10 new pairs of pants.  A store is running a sale for 20% off.  If the pants normally retail for $45 each how much will she need to pay for all of them after paying a 10% tax?",
+  "checkpoint": [
+    {
+      "\\boxed{396}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

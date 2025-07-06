@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nida has 50 chocolates in which some are in 3 filled boxes and 5 pieces are not in a box. Her friend brought 25 pieces of chocolates. If all chocolates must be placed in a box, how many more boxes do they need?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

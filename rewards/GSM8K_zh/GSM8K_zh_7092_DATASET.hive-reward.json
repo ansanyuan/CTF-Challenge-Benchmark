@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A bicycle store is running a promotion. Every time a customer buys a bicycle, they will receive 2 bike clamps free with it. If the store sells 19 bikes in the morning and 27 bikes in the afternoon, how many bike clamps has the store given to customers?",
+  "checkpoint": [
+    {
+      "\\boxed{92}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

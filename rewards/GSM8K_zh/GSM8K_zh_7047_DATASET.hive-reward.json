@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The rainy season is here, Jan collected 65 gallons of water in a barrel outside her home. She uses 7 gallons of water each to clean the two cars and uses 11 fewer gallons than the two cars to water the plants. Then, she uses half of the remaining gallons of water to wash the plates and clothes. How many gallons of water does Jan use to wash her plates and clothes?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

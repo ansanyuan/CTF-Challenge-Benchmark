@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Todd has $20. He buys 4 candy bars that cost $2 each. How much money in dollars does Todd have left?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

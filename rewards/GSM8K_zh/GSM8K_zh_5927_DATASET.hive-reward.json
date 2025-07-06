@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jack has 42 pounds, 11 euros, and 3000 yen. If there are 2 pounds per euro and 100 yen per pound, how much does Jack have in yen?",
+  "checkpoint": [
+    {
+      "\\boxed{9400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cally and Danny washed their clothes. Cally has 10 white shirts, 5 colored shirts, 7 pairs of shorts, and 6 pairs of pants, while Danny has 6 white shirts, 8 colored shirts, 10 shorts, and 6 pairs of pants. How many clothes did they wash?",
+  "checkpoint": [
+    {
+      "\\boxed{58}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

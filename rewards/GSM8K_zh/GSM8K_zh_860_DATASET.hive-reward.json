@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The gummy bear factory manufactures 300 gummy bears a minute. Each packet of gummy bears has 50 gummy bears inside. How long would it take for the factory to manufacture enough gummy bears to fill 240 packets, in minutes?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A trader has 55 bags of rice in stock. She sells off some bags of rice and restocks 132 bags of rice. How many bags of rice did she sell if she now has 164 bags of rice?",
+  "checkpoint": [
+    {
+      "\\boxed{23}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

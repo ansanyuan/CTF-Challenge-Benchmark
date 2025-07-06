@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sylvie is feeding her turtles. Each turtle needs 1 ounce of food per 1/2 pound of body weight. She has 30 pounds of turtles. Each jar of food contains 15 ounces and costs $2.  How much does it cost to feed the turtles?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

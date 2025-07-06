@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There is a fruit display that has apples, oranges, and bananas.  There are twice as many apples as oranges, and there are twice as many oranges as bananas.  How many fruits are on the display in total if there are 5 bananas on the display?",
+  "checkpoint": [
+    {
+      "\\boxed{35}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

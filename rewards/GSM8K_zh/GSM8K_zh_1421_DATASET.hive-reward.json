@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Compared to the amount of water she drank, Carla drank three times as much soda minus 6 ounces. If she drank 54 ounces of liquid total, how much water did she drink?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：How long is it before Kayla can reach the minimum age of driving of her state, which is 18, if she is currently half the age of her sister Kimiko who is 26 years old?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

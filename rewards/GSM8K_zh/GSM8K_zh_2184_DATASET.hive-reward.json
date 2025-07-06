@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Andrew installed hardwood flooring in his house. His bedroom took eight wooden planks, his living room took twenty planks, and his kitchen took eleven planks. The guest bedroom took two fewer planks than Andrew’s bedroom, and each of his two hallways took four planks. He accidentally ruined three planks in each bedroom by dragging furniture over them and had to replace them. He ended up with six leftover planks at the end. How many wooden planks did Andrew buy to start with?",
+  "checkpoint": [
+    {
+      "\\boxed{65}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

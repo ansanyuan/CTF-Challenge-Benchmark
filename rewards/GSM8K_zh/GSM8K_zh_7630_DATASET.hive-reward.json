@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The zookeeper feeds all the apes in the zoo. He orders all the bananas from a local farm every 2 months. If the monkeys need 200 bananas, the gorillas need 400 bananas, and the baboons need 100 bananas every month, how many bananas does he need to order to last for 2 months?",
+  "checkpoint": [
+    {
+      "\\boxed{1400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

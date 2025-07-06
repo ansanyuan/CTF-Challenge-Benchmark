@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bruce recently had a birthday. His aunt sent him a card with $75 and his grandfather sent him a card that had $150 in it. He wants to go on a trip to Europe soon, so he decides to put one-fifth of the money he got for his birthday in the bank. How much money did he put in the bank?",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

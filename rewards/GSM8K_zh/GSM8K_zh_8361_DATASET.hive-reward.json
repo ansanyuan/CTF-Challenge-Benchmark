@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jerry counts six birds nesting in the bushes, 2/3rd of that number of birds flying overhead, and 3 groups of eight birds each feeding. How many birds does he count in total?",
+  "checkpoint": [
+    {
+      "\\boxed{34}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

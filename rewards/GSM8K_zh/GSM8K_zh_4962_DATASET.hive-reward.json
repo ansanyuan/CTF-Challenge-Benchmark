@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On national lipstick day, half of the students who attended class wore colored lipstick.  Of those students who wore lipstick, one quarter wore red lipstick.  There were one-fifth as many students wearing blue lipstick as were wearing red lipstick.  If 200 students attended school that day, how many wore blue lipstick?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

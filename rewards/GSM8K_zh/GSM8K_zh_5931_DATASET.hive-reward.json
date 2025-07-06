@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marcy uses 6 ounces of pet cleaner to clean up a dog stain, 4 ounces to clean up a cat stain, and 1 ounce to clean up a rabbit stain. How much cleaner does she need to clean up after 6 dogs, 3 cats and 1 rabbit?",
+  "checkpoint": [
+    {
+      "\\boxed{49}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

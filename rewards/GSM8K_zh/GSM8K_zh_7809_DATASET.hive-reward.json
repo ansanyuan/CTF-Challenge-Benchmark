@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mason needs 30 ounces of sugar to make a batch of suckers and 70 ounces of sugar to make a batch of fudge. How much sugar does he need to make 8 batches of suckers and 1 batch of fudge?",
+  "checkpoint": [
+    {
+      "\\boxed{310}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mrs. Young buys a 300 piece puzzle set for her three sons.  She divides the pieces evenly to the three boys.  Reyn can place 25 pieces into the puzzle picture.  Rhys places twice as much as Reyn.  Rory places three times as much as Reyn. Altogether, how many puzzle pieces are still left to be placed?",
+  "checkpoint": [
+    {
+      "\\boxed{150}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

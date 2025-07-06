@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A long thin strip of paper is 1024 units in length, 1 unit in width, and is divided into 1024 unit squares. The paper is folded in half repeatedly. For the first fold, the right end of the paper is folded over to coincide with and lie on top of the left end. The result is a 512 by 1 strip of double thickness. Next, the right end of this strip is folded over to coincide with and lie on top of the left end, resulting in a 256 by 1 strip of quadruple thickness. This process is repeated 8 more times. After the last fold, the strip has become a stack of 1024 unit squares. How many of these squares lie below the square that was originally the 942nd square counting from the left?",
-    "checkpoint": [
-        {
-            "593": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A long thin strip of paper is 1024 units in length, 1 unit in width, and is divided into 1024 unit squares. The paper is folded in half repeatedly. For the first fold, the right end of the paper is folded over to coincide with and lie on top of the left end. The result is a 512 by 1 strip of double thickness. Next, the right end of this strip is folded over to coincide with and lie on top of the left end, resulting in a 256 by 1 strip of quadruple thickness. This process is repeated 8 more times. After the last fold, the strip has become a stack of 1024 unit squares. How many of these squares lie below the square that was originally the 942nd square counting from the left?",
+  "checkpoint": [
+    {
+      "\\boxed{593}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

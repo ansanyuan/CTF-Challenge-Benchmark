@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brendan has entered a kickboxing competition and wins matches against multiple contestants. He wins all of the matches in the first 2 rounds, each of which had 6 matches, then wins half of the 4 matches in the last round. How many matches did Brendan win throughout the competition?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

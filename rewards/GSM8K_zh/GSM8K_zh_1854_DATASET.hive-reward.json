@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：How many shirts should Shenny pack for her next vacation if she's planning to use the same shirt when departing on Monday and returning on Sunday and two different shirts each other day?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jessica is six years older than Claire. In two years, Claire will be 20 years old. How old is Jessica now?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A bear is hunting for her cubs and herself. She needs 210 pounds of meat in a week. Each cub needs 35 pounds a week and she has 4 cubs. She hunts rabbits, which are five pounds each. If she hunts daily, how many rabbits does she need to catch each day?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

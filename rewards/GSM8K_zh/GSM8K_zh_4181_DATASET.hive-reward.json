@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Maria buys a large bar of French soap that lasts her for 2 months.  She spends $8.00 per bar of soap.  If she wants to stock up for the entire year, how much will she spend on soap?",
+  "checkpoint": [
+    {
+      "\\boxed{48}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

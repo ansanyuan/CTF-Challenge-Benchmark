@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Erin is sorting through the library books to decide which ones to replace. She finds 8 less than 6 times as many obsolete books as damaged books. If she removes 69 books total, how many books were damaged?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

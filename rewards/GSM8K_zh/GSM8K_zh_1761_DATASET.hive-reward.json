@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Aleesia lost 1.5 pounds each week for 10 weeks. Alexei lost 2.5 pounds each week for 8 weeks. How many pounds did the two friends combine to lose?",
+  "checkpoint": [
+    {
+      "\\boxed{35}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

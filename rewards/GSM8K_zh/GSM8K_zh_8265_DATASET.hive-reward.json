@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A train has 172 people traveling on it. At the first stop 47 people get off and 13 more people get on, and at the next stop another 38 people get off. How many people are on the train?",
+  "checkpoint": [
+    {
+      "\\boxed{100}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In the city park, there are various attractions for kids and their parents. The entrance ticket to the park is $5, but for each attraction, you have to pay separately - such ticket costs $2 for kids and $4 for parents. How much would a family with 4 children, their parents, and her grandmother pay for visiting the park, and one attraction inside?",
+  "checkpoint": [
+    {
+      "\\boxed{55}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

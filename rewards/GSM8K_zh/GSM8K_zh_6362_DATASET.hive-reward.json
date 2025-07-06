@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The teacher assigned a minimum of 25 pages of reading for homework.  Harrison read 10 more pages than assigned.  Pam read 15 more pages than Harrison and Sam read twice the amount of Pam.  How many pages did Sam read?",
+  "checkpoint": [
+    {
+      "\\boxed{100}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

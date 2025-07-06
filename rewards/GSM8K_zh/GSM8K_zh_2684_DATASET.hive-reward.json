@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alexandra bought 8 magazines at the bookstore on Friday. On Saturday, she went back and bought 12 more. Sunday morning, she saw that the store was having a sale and she bought four times the number of magazines she did on Friday. Later that day she discovered that her dog had chewed up 4 of the magazines. How many magazines does she have now?",
+  "checkpoint": [
+    {
+      "\\boxed{48}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

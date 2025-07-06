@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Steve has 25 socks. He has 4 pairs of socks that match, and all the others don't match. How many mismatching socks does Steve have altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{17}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

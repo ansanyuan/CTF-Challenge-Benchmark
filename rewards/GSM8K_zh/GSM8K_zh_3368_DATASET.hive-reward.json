@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A movie theatre has 250 seats. The cost of a ticket is $6 for an adult and $4 for a child. The theatre is full and contains 188 children. What is the total ticket revenue for this movie session?",
+  "checkpoint": [
+    {
+      "\\boxed{1124}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

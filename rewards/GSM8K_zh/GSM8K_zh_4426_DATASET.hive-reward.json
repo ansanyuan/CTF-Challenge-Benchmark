@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mary Anne drinks 1/5 of a bottle of sparkling water every night at dinner.  If each bottle costs her $2.00, how much does she spend on sparkling water every year?",
+  "checkpoint": [
+    {
+      "\\boxed{146}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

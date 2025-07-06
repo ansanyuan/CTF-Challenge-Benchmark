@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Maddy is buying pizza for her cousin's soccer game. There are 12 team members and 3 coaches. Each team member brings 2 guests. A pizza will serve 3 people. If each pizza costs $15, how many dollars will Maddy spend?",
+  "checkpoint": [
+    {
+      "\\boxed{195}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

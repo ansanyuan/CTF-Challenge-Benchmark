@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：While finding the sine of a certain angle, an absent-minded professor failed to notice that his calculator was not in the correct angular mode. He was lucky to get the right answer. The two least positive real values of $x$ for which the sine of $x$ degrees is the same as the sine of $x$ radians are $\\frac{m\\pi}{n-\\pi}$ and $\\frac{p\\pi}{q+\\pi}$ , where $m$ , $n$ , $p$ , and $q$ are positive integers. Find $m+n+p+q$ . ",
-    "checkpoint": [
-        {
-            "900": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：While finding the sine of a certain angle, an absent-minded professor failed to notice that his calculator was not in the correct angular mode. He was lucky to get the right answer. The two least positive real values of $x$ for which the sine of $x$ degrees is the same as the sine of $x$ radians are $\\frac{m\\pi}{n-\\pi}$ and $\\frac{p\\pi}{q+\\pi}$ , where $m$ , $n$ , $p$ , and $q$ are positive integers. Find $m+n+p+q$ . ",
+  "checkpoint": [
+    {
+      "\\boxed{900}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

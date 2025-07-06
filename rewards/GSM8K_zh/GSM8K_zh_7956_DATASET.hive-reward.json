@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Keegan was running a car wash with his friend Tashay to raise money for a baseball camp. They needed to raise $200 for the two of them. By 3 pm, Keegan had earned $83 and Tasha had earned $91. How much more did they need to earn to reach their goal?",
+  "checkpoint": [
+    {
+      "\\boxed{26}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

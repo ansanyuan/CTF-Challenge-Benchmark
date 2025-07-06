@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John uses 5 liters of fuel per km to travel. How many liters of fuel should John plan to use if he plans to travel on two trips of 30 km and 20 km?",
+  "checkpoint": [
+    {
+      "\\boxed{250}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

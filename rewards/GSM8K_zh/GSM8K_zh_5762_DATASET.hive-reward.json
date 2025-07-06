@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A farmer has 52 cows. Each cow gives 5 liters of milk a day. How many liters of milk does the farmer get in a week?",
+  "checkpoint": [
+    {
+      "\\boxed{1820}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

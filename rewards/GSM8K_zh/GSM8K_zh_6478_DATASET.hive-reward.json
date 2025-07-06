@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jackson works 5 days a week going door-to-door collecting for charity. His goal is to raise $1000 for the week. He earned $300 on Monday and $40 on Tuesday. If he collects an average of $10 for every 4 houses he visits, how many houses will he have to visit on each of the remaining days of the week to meet his goal?",
+  "checkpoint": [
+    {
+      "\\boxed{88}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

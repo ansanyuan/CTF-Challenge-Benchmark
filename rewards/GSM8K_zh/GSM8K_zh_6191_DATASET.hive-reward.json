@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Angela slept 6.5 hours every night in December. She decided she should get more sleep and began sleeping 8.5 hours a night in January. How much more sleep did Angela get in January?",
+  "checkpoint": [
+    {
+      "\\boxed{62}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

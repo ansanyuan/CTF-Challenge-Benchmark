@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A baseball cap factory made 320 caps the first week, 400 the second week, and 300 the third week.  If the company makes their average number of caps from the first 3 weeks during the fourth week, how many total caps will they make?",
+  "checkpoint": [
+    {
+      "\\boxed{1360}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

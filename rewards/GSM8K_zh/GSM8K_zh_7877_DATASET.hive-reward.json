@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mel uses a 900-watt air conditioner for 8 hours a day. This means that each hour the AC uses 900 watts of energy. If he reduces the time he uses the air conditioner by 5 hours a day, how many kilowatts of electric energy will he save in 30 days?",
+  "checkpoint": [
+    {
+      "\\boxed{81}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

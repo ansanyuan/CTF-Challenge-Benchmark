@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Two sisters go to the movies.  Movie tickets are $8 per person.  If the sisters brought $25 with them, how much change will they receive after buying the tickets?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

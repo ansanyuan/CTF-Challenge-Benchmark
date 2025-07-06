@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Noemi lost $400 on roulette and $500 on blackjack. How much money did Noemi begin with if she still had $800 in her purse?",
+  "checkpoint": [
+    {
+      "\\boxed{1700}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

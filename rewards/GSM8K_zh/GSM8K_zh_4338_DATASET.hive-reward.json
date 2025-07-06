@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carrie worked for 2 hours a day for 4 days to make and decorate a wedding cake. She was paid $22 an hour. The cost for supplies to make the cake was $54. How much profit did Carrie earn on the cake?",
+  "checkpoint": [
+    {
+      "\\boxed{122}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

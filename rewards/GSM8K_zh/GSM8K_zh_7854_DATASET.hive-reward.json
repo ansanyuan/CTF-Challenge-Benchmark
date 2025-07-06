@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Karan borrowed $3,650 for five months at an interest rate of 10%. She has to pay an equal amount every month. How much does she have to pay per month?",
+  "checkpoint": [
+    {
+      "\\boxed{803}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

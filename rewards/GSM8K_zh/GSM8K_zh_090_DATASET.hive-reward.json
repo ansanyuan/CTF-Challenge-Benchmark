@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Krystian works in the library. He borrows an average of 40 books every day. Every Friday, his number of borrowed books is about 40% higher than the daily average. How many books does he borrow in a week if the library is open from Monday to Friday?",
+  "checkpoint": [
+    {
+      "\\boxed{216}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

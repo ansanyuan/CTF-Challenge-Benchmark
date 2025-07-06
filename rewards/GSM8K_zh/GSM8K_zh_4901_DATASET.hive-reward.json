@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：When you take Hiram's age and then add 12, you get 4 less than twice Allyson's age. If Hiram is 40 years old, how old is Allyson?",
+  "checkpoint": [
+    {
+      "\\boxed{28}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

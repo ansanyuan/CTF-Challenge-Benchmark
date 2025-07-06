@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bill started reading a book on the first day of April. He read 8 pages every day and by the 12th of April, he had covered two-thirds of the book. How many pages does the book have?",
+  "checkpoint": [
+    {
+      "\\boxed{144}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

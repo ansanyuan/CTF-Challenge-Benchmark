@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Wayne wants to serve shrimp cocktail as an appetizer.  He plans on 5 shrimp per guest and will have 40 guests.  If the shrimp costs $17.00 per pound and each pound has 20 shrimp, how much will he spend on the appetizer?",
+  "checkpoint": [
+    {
+      "\\boxed{170}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

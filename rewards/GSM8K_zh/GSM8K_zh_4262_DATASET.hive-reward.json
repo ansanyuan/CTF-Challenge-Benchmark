@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 30 students in Ms. Leech's class. Twice as many girls as boys are in the class. There are 10 boys in the class and each boy today brought 5 cups for science activity class as Ms. Leech had instructed. If the total number of cups brought by the students in the class is 90, how many cups did each girl bring?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

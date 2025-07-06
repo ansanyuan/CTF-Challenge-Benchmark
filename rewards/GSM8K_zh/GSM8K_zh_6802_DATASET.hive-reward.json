@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：36 liters of diesel fuel is worth €18. The tank of this pickup truck can hold 64 liters. How much does a full tank of diesel fuel cost?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

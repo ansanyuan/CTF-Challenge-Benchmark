@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Traveling from Manhattan to the Bronx, Andrew rides the subway for 10 hours, takes the train and rides for twice as much time as the subway ride, and then bikes the remaining distance for 8 hours. What's the total time he takes to reach the Bronx from Manhattan?",
+  "checkpoint": [
+    {
+      "\\boxed{38}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

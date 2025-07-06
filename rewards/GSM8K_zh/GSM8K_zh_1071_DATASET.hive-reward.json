@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Every morning, Jason eats an omelet made using three eggs.  How many eggs will Jason consume in two weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{42}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

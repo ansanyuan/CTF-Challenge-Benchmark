@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mary used 15 gallons of fuel this week. Last week she used 20% less. How much fuel did she use in total for the two weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{27}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

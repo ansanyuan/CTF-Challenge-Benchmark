@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If a bunny comes out of its burrow 3 times per minute, calculate the combined number of times 20 bunnies at the same pace will have come out of their burrows in 10 hours.",
+  "checkpoint": [
+    {
+      "\\boxed{36000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

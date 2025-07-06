@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Justin has a box that is 12 inches in height. The length of the box is 3 times its height and 4 times its width. What is the volume of the box?",
+  "checkpoint": [
+    {
+      "\\boxed{3888}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

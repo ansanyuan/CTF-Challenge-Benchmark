@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James decides to start making his own coffee.  He buys a coffee machine for $200 and gets a $20 discount.  He figures it will cost him $3 a day to make his coffee.  He previously bought 2 coffees a day for $4 each.   How long until the machine pays for itself?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

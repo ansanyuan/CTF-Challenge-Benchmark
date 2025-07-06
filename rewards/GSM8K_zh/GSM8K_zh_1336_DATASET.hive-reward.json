@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lexie and Tom went apple picking. Lexie picked 12 apples and Tom picked twice as many apples. How many apples did they collect altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

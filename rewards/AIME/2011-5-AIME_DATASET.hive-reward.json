@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：The sum of the first $2011$ terms of a geometric sequence is $200$ . The sum of the first $4022$ terms is $380$ . Find the sum of the first $6033$ terms.",
-    "checkpoint": [
-        {
-            "542": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：The sum of the first $2011$ terms of a geometric sequence is $200$ . The sum of the first $4022$ terms is $380$ . Find the sum of the first $6033$ terms.",
+  "checkpoint": [
+    {
+      "\\boxed{542}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

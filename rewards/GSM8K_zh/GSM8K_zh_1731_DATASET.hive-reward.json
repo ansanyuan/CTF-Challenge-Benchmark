@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If you buy a dozen of doughnuts, it costs $8; but if you buy 2 dozens, it costs $14. How much will you save from buying 3 sets of 2 dozens than buying 6 sets of 1 dozen?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

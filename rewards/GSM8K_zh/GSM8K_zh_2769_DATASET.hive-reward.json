@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Robert had 25 balls. Tim gave him half of his 40 balls. How many balls does Robert have now?",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

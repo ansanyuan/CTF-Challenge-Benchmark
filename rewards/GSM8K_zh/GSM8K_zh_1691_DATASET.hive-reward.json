@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On each of 7 Mondays, it rained 1.5 centimeters. On each of 9 Tuesdays it rained 2.5 centimeters. How many more centimeters did it rain on Tuesdays than Mondays?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

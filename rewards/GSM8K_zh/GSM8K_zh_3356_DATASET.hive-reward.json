@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A tank with a capacity of 8000 gallons is 3/4 full. Daxton empty's the tank by 40% of the total volume of water in the tank to water his vegetable farm. He then fills the tank with 30% of the volume of water remaining in the tank. Calculate the final volume of water in the tank.",
+  "checkpoint": [
+    {
+      "\\boxed{4680}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

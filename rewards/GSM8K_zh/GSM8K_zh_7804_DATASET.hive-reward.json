@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A customer’s loyalty card at a store gives them rewards of $1 off their next purchase for every $20 they spend. Their last shopping trip, they spent $80. This shopping trip, they spent $43, used their rewards, and applied a coupon that took twice the amount of rewards off the price. How many dollars did the customer pay on this shopping trip?",
+  "checkpoint": [
+    {
+      "\\boxed{31}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

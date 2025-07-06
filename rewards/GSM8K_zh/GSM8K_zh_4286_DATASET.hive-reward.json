@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Robie bought 3 bags of chocolates. She gave the 2 bags to her brothers and sisters then bought another 3 bags. How many bags of chocolates were left?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

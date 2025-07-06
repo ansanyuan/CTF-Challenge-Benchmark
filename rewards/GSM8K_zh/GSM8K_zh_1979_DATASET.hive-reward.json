@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Every Monday to Friday morning, Alice walks 10 miles through a large grass field to get to school. To avoid the hot afternoon sun on her way home, she walks 12 miles through a forest. When she gets home on Friday, how many miles will she have walked that week?",
+  "checkpoint": [
+    {
+      "\\boxed{110}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Thomas made 4 stacks of wooden blocks. The first stack was 7 blocks tall. The second stack was 3 blocks taller than the first. The third stack was 6 blocks shorter than the second stack, and the fourth stack was 10 blocks taller than the third stack. If the fifth stack has twice as many blocks as the second stack, how many blocks did Thomas use in all?",
+  "checkpoint": [
+    {
+      "\\boxed{55}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

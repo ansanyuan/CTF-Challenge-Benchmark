@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A company has 500 employees, each paid $12 per hour, working 10 hours a day, five days a week, 4 weeks a month. In August, the amount of work increased, and the company hired 200 more people. How much money does the company pay in total per month after the new hires?",
+  "checkpoint": [
+    {
+      "\\boxed{1680000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Evan owns 40 fewer books than the number he had 2 years ago. Evan will have 60 more than five times as many books as he owns now in five years. If Evan had 200 books two years ago, calculate the total number of books he will have in five years.",
+  "checkpoint": [
+    {
+      "\\boxed{860}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

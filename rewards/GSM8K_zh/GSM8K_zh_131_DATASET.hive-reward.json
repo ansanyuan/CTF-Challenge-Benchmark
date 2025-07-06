@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ali had a collection of seashells. He started with 180 seashells. He then gave away 40 seashells to his friends. He also gave 30 seashells to his brothers. If he sold half of the remaining seashells, how many seashells did he have left?",
+  "checkpoint": [
+    {
+      "\\boxed{55}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

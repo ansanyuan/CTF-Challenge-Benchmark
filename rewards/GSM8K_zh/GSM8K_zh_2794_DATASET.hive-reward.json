@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lara is baking cookies using four baking trays. She places five rows of cookies on a baking tray where there are six cookies in one row. How many cookies is she baking?",
+  "checkpoint": [
+    {
+      "\\boxed{120}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 20 students in the class. Half of them play basketball. Two-fifths play volleyball and one-tenth play both basketball and volleyball.  How many students in this class do not play either game?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

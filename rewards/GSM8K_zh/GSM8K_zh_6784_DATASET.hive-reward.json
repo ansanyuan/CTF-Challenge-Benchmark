@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lyle wants to buy himself and his friends a sandwich and a pack of juice. A sandwich costs $0.30 while a pack of juice costs $0.2. If Lyle has $2.50, how many of his friends can have a sandwich and a pack of juice?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

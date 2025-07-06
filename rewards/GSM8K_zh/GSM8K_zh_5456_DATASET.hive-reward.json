@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Hank gave his wife, Delphine, a box of 24 chocolates for Valentine's Day.  On the first day, Delphine ate 4 chocolates.  On the second day, she ate 3 less than twice as many chocolates as she ate the first day.  On the third day, she ate two less than the number she ate on the first day.  And on the fourth day, she ate one less than she ate the previous day.  On the fifth day, how many chocolates remained uneaten?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

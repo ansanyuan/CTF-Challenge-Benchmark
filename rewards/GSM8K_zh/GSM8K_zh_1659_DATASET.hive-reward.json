@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James needs 200 blueberries to make a pint of blueberry jam and then a quart of blueberry jam to make a blueberry pie. If there are two pints per quart, how many blueberries does James need to pick to make 6 pies?",
+  "checkpoint": [
+    {
+      "\\boxed{2400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

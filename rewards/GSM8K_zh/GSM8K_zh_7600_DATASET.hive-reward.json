@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dylan needed chicken sausages and fish sausages to make sausage buns at a party. He bought 38 chicken sausages and 6 more fish sausages than chicken sausages. How many sausages did Dylan buy in all?",
+  "checkpoint": [
+    {
+      "\\boxed{82}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

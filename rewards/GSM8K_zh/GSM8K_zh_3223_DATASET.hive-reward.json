@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nicole collected 400 Pokemon cards. Cindy collected twice as many, and Rex collected half of Nicole and Cindy's combined total. If Rex divided his card equally among himself and his three younger siblings, how many cards does Rex have left?",
+  "checkpoint": [
+    {
+      "\\boxed{150}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

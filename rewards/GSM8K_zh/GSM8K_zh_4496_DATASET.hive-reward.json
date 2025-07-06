@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The population of an area starts at 100,000 people.  It increases by 60% over 10 years due to birth.  In that same time, 2000 people leave per year from emigration and 2500 people come in per year from immigration.  How many people are in the area at the end of 10 years?",
+  "checkpoint": [
+    {
+      "\\boxed{165000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

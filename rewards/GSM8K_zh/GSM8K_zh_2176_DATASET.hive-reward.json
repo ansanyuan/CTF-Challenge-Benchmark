@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alannah, Beatrix, and Queen are preparing for the new school year and have been given books by their parents. Alannah has 20 more books than Beatrix. Queen has 1/5 times more books than Alannah. If Beatrix has 30 books, how many books do the three have together?",
+  "checkpoint": [
+    {
+      "\\boxed{140}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

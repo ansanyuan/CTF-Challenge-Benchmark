@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On his farm, Mr. Valentino has 200 chickens, twice as many ducks as chickens and three times as many turkeys as ducks. How many birds does Mr. Valentino have on the farm in total?",
+  "checkpoint": [
+    {
+      "\\boxed{1800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Forest and his friends have prepared a birthday cake for their friend Juelz having 240 cake pieces. After singing the birthday song, they ate 60% of the cake's pieces, and later, Juelz divided the remaining pieces among his three sisters. What is the number of pieces of cake each sister received?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The cost of building a certain house in an area is 100,000 more than the construction cost of each of the houses in the area.  But it sells for 1.5 times as much as the other houses, which sell at $320,000 each. How much more profit is made by spending the extra money to build?",
+  "checkpoint": [
+    {
+      "\\boxed{60000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

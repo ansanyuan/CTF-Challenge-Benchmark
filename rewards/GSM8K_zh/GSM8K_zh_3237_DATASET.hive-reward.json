@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ricky has 40 roses. His little sister steals 4 roses. If he wants to give away the rest of the roses in equal portions to 9 different people, how many roses will each person get?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

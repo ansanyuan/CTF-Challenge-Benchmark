@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The school is having a book-a-thon. The winning class gets a pizza party. The fifth grade has 20 students and one week to read as much as possible. The 6th grade already finished and read a total of 299 hours. How many hours does each student in 5th grade need to average per day to beat them by 1?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Parker chews 4 pieces of gum a day.  A pack of gum has 15 pieces of chewing gum per pack.  How many packs of gum will he need to last him 30 days?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

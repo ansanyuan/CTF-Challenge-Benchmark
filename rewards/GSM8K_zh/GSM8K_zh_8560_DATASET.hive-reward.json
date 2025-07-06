@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marcel runs a bicycle store. His main products are three types of bikes: MTB, BMX, and Trekking. The price of one MTB is $500, BMX is half the price of an MTB, and a Trekking bike is $450. In one month, Marcel sold a total of 300 bikes among the types listed. Half of them were Trekking bikes, and 15% were BMX bikes. The rest of the sold bikes were MTB type. How much did Marcel earn from selling bicycles during that month?",
+  "checkpoint": [
+    {
+      "\\boxed{131250}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Gretchen read that you should spend 10 minutes walking for every 90 minutes you spend sitting. If Gretchen spends 6 hours working at her desk, how long will she spend walking?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At a party, there are 50 people. 30% of them are boys. How many girls are at this party?",
+  "checkpoint": [
+    {
+      "\\boxed{35}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

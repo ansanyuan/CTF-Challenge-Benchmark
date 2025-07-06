@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Stefan goes to a restaurant to eat dinner with his family. They order an appetizer that costs $10 and 4 entrees that are $20 each. If they tip 20% of the total for the waiter, what is the total amount of money that they spend at the restaurant?",
+  "checkpoint": [
+    {
+      "\\boxed{108}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

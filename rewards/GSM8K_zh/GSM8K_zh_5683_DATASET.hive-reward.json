@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Enrique earns a 15% commission on every piece of clothing item he sells.  In one day he sells 2 $700.00 suits, 6 shirts that cost $50.00 each and 2 pairs of loafers that are $150.00 each.  How much commission does Enrique earn?",
+  "checkpoint": [
+    {
+      "\\boxed{300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

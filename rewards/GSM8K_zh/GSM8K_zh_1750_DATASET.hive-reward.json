@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John chops down 30 trees.  From each tree, he can make 25 planks.  A table takes 15 planks to make and sells for $300.  He paid $3000 for all the labor.  How much profit did he make?",
+  "checkpoint": [
+    {
+      "\\boxed{12000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

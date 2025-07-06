@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Twice the money Jericho has is 60. He owes Annika $14 and also owes half as much to Manny. After paying off all his debts, how much money will Jericho be left with?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

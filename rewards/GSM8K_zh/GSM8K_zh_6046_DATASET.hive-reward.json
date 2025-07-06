@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Billy has $25 less than twice the money Sam has. If Sam has $75, how much money do they have together?",
+  "checkpoint": [
+    {
+      "\\boxed{200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

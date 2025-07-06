@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Audrey's key lime pie calls for 1/4 cup of key lime juice but she likes to double this amount to make it extra tart.  Each key lime yields 1 tablespoon of juice.  There are 16 tablespoons in 1 cup.  How many key limes does Audrey need?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

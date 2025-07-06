@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Abigail collected 2 boxes of cookies for the bake sale. Grayson collected 3 quarters of a box, and Olivia collected 3 boxes. Assuming that each box contains 48 cookies, how many cookies did they collect in total?",
+  "checkpoint": [
+    {
+      "\\boxed{276}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

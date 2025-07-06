@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James spends 40 years teaching.  His partner has been teaching for 10 years less.  How long is their combined experience?",
+  "checkpoint": [
+    {
+      "\\boxed{70}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

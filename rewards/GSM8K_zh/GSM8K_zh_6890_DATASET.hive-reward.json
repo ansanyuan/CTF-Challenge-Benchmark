@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ben has $2000 for his business operations costs. He orders goods from his supplier and writes them a cheque for $600. His debtor pays him $800 from the purchases they had made on credit. Mr. Ben then decides to do equipment maintenance and spends $1200 on the whole operation. How much money is Mr. Ben remaining with?",
+  "checkpoint": [
+    {
+      "\\boxed{1000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

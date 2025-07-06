@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Helga works for a newspaper company. She can write 5 articles every 30 minutes, and she usually works 4 hours a day 5 days a week. If Helga worked an extra 2 hours last Thursday, and an extra 3 hours last Friday, how many articles was she able to write this week?",
+  "checkpoint": [
+    {
+      "\\boxed{250}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

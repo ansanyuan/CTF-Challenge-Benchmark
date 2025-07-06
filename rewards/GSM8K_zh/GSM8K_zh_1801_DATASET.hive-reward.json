@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a Geometry exam, Madeline got 2 mistakes which are half as many mistakes as Leo. Brent scored 25 and has 1 more mistake than Leo. What is Madeline's score?",
+  "checkpoint": [
+    {
+      "\\boxed{28}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

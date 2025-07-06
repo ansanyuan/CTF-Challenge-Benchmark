@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lilly and Fiona are cleaning a room. Between them, it takes 8 hours to clean the room. A quarter of the time spent cleaning was by Lilly and Fiona was responsible for the rest of the cleaning. How long, in minutes, was Fiona cleaning?",
+  "checkpoint": [
+    {
+      "\\boxed{360}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

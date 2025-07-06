@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Joel is picking peppers from his garden. He picks 7 on Sunday, 12 on Monday, 14 on Tuesday, 12 on Wednesday, 5 on Thursday, 18 on Friday and 12 on Saturday. He knows that in his garden 20% of the peppers are hot and the rest are not. How many non-hot peppers did he pick?",
+  "checkpoint": [
+    {
+      "\\boxed{64}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

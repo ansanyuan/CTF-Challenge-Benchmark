@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sue works in a factory and every 30 minutes, a machine she oversees produces 30 cans of soda. How many cans of soda can one machine produce in 8 hours?",
+  "checkpoint": [
+    {
+      "\\boxed{480}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

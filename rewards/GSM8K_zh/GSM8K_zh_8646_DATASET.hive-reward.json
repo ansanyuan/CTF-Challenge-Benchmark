@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alice likes to count the puffs of clouds in the sky while she eats her lunch outside at school. On Monday she counts just 3 puffs of clouds. Each day after that through Friday, though, she sees double the number of clouds in the sky as the day before. At the end of the week, how many clouds will she have counted in the sky at lunch across all five days?",
+  "checkpoint": [
+    {
+      "\\boxed{93}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

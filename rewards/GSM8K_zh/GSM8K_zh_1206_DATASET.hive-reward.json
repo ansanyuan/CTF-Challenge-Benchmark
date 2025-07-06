@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a graveyard, there are 20 skeletons.  Half of these skeletons are adult women, and the remaining number are split evenly between adult men and children.  If an adult woman has 20 bones in their body, and a male has 5 more than this, and a child has half as many as an adult woman, how many bones are in the graveyard?",
+  "checkpoint": [
+    {
+      "\\boxed{375}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

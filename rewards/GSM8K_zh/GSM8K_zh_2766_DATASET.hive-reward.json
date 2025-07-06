@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Saturday at the ice cream shop, there were twice as many people who ordered vanilla ice cream as ordered chocolate ice cream.  If 220 people ordered ice cream on Saturday, and 20% of those ordered vanilla ice cream, how many people ordered chocolate ice cream?",
+  "checkpoint": [
+    {
+      "\\boxed{22}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

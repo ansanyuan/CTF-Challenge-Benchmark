@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Of the 3 friends, Harry has 4 times as many fish as Joe, and Joe has 8 times as many fish as Sam does. If Sam has 7 fish, how many fish does Harry have?",
+  "checkpoint": [
+    {
+      "\\boxed{224}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Toby’s father gave him $343 for passing the test. Toby decided to share it with his two brothers, so he gave each of them 1/7 of $343. How many dollars are left for Toby?",
+  "checkpoint": [
+    {
+      "\\boxed{245}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

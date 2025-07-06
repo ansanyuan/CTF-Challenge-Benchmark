@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Shara borrowed money from her brother 6 months ago. She returned $10 per month to her brother. Currently, she was able to return half of the money she borrowed. How much will she still owe her brother 4 months from now?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

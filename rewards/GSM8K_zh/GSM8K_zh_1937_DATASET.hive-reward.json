@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Josh gets together with 7 friends.  Everyone including him puts 5 dollars into a pot.  First place gets 80% of the money.  Second and third place split the rest.  How much money does third place get?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

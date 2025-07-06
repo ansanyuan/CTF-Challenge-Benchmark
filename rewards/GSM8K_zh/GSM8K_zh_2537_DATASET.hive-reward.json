@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：To earn money for her new computer, Tina sells handmade postcards. In a day, she can make 30 such postcards. For each postcard sold, Tina gets $5. How much money did Tina earn if she managed to sell all the postcards she made every day for 6 days?",
+  "checkpoint": [
+    {
+      "\\boxed{900}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

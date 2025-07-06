@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rick can iron 4 dress shirts in an hour.  He can iron 3 dress pants in an hour.  If he spends 3 hours ironing dress shirts and 5 hours ironing dress pants, how many pieces of clothing has he ironed?",
+  "checkpoint": [
+    {
+      "\\boxed{27}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

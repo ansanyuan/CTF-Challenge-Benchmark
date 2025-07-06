@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Laran has started a poster business. She is selling 5 posters per day at school. Two posters per day are her large posters that sell for $10. The large posters cost her $5 to make. The remaining posters are small posters that sell for $6. They cost $3 to produce. How much profit, in dollars, does Laran make per 5-day school week?",
+  "checkpoint": [
+    {
+      "\\boxed{95}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

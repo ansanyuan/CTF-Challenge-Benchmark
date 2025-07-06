@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Aryan owes Fernanda $1200, which is twice what Kyro owes Fernanda. Aryan decides to pay 60% of her debt to Fernanda, and Kyro pays Fernanda 80% of her dept. If Fernanda had $300 in her savings account and adds the money she's been paid by her debtors to the savings account, calculate the total amount of money in her savings account now.",
+  "checkpoint": [
+    {
+      "\\boxed{1500}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

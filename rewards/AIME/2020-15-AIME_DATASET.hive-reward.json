@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $\\triangle ABC$ be an acute scalene triangle with circumcircle $\\omega$ . The tangents to $\\omega$ at $B$ and $C$ intersect at $T$ . Let $X$ and $Y$ be the projections of $T$ onto lines $AB$ and $AC$ , respectively. Suppose $BT = CT = 16$ , $BC = 22$ , and $TX^2 + TY^2 + XY^2 = 1143$ . Find $XY^2$ .",
-    "checkpoint": [
-        {
-            "717": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $\\triangle ABC$ be an acute scalene triangle with circumcircle $\\omega$ . The tangents to $\\omega$ at $B$ and $C$ intersect at $T$ . Let $X$ and $Y$ be the projections of $T$ onto lines $AB$ and $AC$ , respectively. Suppose $BT = CT = 16$ , $BC = 22$ , and $TX^2 + TY^2 + XY^2 = 1143$ . Find $XY^2$ .",
+  "checkpoint": [
+    {
+      "\\boxed{717}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

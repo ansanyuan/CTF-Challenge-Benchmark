@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jamie earns $10 an hour by delivering flyers. She delivers flyers 2 days each week. It takes her 3 hours each time she delivers flyers. After delivering flyers for 6 weeks, how much money will she have earned?",
+  "checkpoint": [
+    {
+      "\\boxed{360}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

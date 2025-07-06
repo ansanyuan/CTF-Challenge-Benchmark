@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 21 cherry tomatoes on the tomato plant.  2 birds eat one-third of the tomatoes.  How many are still left on the tomato plant?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brook Hills High School currently enrolls 3000 students. Half of these students are over 16 years old, and one-fourth of the students over 16 years old are male. The remaining half of the students are under 16 years old, and one-half of the students under 16 are male. In total, how many female students are enrolled at this school?",
+  "checkpoint": [
+    {
+      "\\boxed{1875}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

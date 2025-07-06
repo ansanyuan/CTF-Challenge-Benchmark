@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Martha is grinding a spice paste. She adds 3 tablespoons of ginger, 1 teaspoon of cardamom, 1 teaspoon of mustard, 2 tablespoons of garlic, and four times as much chile powder as mustard. What percentage of the spice paste is ginger, rounded to the nearest integer? (Remember there are three teaspoons per tablespoon.)",
+  "checkpoint": [
+    {
+      "\\boxed{43}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

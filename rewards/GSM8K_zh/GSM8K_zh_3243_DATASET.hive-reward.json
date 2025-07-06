@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jane purchased 15 ice cream cones and 5 cups of pudding. Each ice cream cone cost $5 and each cup of pudding cost $2. How much more did Jane spend on ice cream than on pudding, in dollars?",
+  "checkpoint": [
+    {
+      "\\boxed{65}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

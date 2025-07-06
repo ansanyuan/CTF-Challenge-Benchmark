@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Every day, while going to school, Shane drives a total of 10 miles. Calculate the total distance he drives in an 80 day semester from home to school and back.",
+  "checkpoint": [
+    {
+      "\\boxed{1600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

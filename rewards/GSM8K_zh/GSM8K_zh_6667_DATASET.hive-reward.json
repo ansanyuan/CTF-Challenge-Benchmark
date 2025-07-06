@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：David is taking a data analytics course that lasts for 24 weeks. The course consists of 2 three-hour classes and 1 four-hour class each week. In addition, David must spend 4 hours each week working on small group homework assignments. How many hours will he spend on this course?",
+  "checkpoint": [
+    {
+      "\\boxed{336}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

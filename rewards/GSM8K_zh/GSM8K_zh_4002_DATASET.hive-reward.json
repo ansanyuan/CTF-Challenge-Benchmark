@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Liza reads 20 pages in an hour, and Suzie reads 15 pages in an hour. How many more pages does Liza read than Suzie in 3 hours?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

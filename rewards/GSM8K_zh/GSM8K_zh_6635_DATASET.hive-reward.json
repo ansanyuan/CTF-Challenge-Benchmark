@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If 60% of the students at school are girls and the number of boys is 300, how many girls are at the school?",
+  "checkpoint": [
+    {
+      "\\boxed{450}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

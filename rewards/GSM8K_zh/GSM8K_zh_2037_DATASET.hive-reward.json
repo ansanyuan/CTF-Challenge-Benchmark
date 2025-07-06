@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. Johnson has a prescription with enough pills for 30 days. After four-fifths of the days, he has 12 pills left. How many pills is Mr. Johnson supposed to take a day if he takes the same dose daily?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

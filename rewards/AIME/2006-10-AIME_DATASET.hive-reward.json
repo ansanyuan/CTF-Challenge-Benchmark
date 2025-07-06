@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Seven teams play a soccer tournament in which each team plays every other team exactly once. No ties occur, each team has a $50\\%$ chance of winning each game it plays, and the outcomes of the games are independent. In each game, the winner is awarded a point and the loser gets 0 points. The total points are accumulated to decide the ranks of the teams. In the first game of the tournament, team $A$ beats team $B.$ The probability that team $A$ finishes with more points than team $B$ is $m/n,$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$",
-    "checkpoint": [
-        {
-            "831": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Seven teams play a soccer tournament in which each team plays every other team exactly once. No ties occur, each team has a $50\\%$ chance of winning each game it plays, and the outcomes of the games are independent. In each game, the winner is awarded a point and the loser gets 0 points. The total points are accumulated to decide the ranks of the teams. In the first game of the tournament, team $A$ beats team $B.$ The probability that team $A$ finishes with more points than team $B$ is $m/n,$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$",
+  "checkpoint": [
+    {
+      "\\boxed{831}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

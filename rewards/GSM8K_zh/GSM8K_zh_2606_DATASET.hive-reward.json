@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John adopts a dog from a shelter.  The dog ends up having health problems and this requires 3 vet appointments,  which cost $400 each.  After the first appointment, John paid $100 for pet insurance that covers 80% of the subsequent visits.  How much did he pay in total?",
+  "checkpoint": [
+    {
+      "\\boxed{660}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

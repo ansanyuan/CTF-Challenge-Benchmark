@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Adam bought 3 kilograms of nuts and 2.5 kilograms of dried fruits at a store. One kilogram of nuts costs $12 and one kilogram of dried fruit costs $8. How much did his purchases cost?",
+  "checkpoint": [
+    {
+      "\\boxed{56}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：During one hour, Tom can read 12 pages of a book. How many pages would he be able to read during 2 hours if he could increase his reading speed by a factor of 3?",
+  "checkpoint": [
+    {
+      "\\boxed{72}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

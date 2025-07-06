@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：For real number $x$ let $\\lfloor x\\rfloor$ be the greatest integer less than or equal to $x$ , and define $\\{x\\} = x - \\lfloor x \\rfloor$ to be the fractional part of $x$ . For example, $\\{3\\} = 0$ and $\\{4.56\\} = 0.56$ . Define $f(x)=x\\{x\\}$ , and let $N$ be the number of real-valued solutions to the equation $f(f(f(x)))=17$ for $0\\leq x\\leq 2020$ . Find the remainder when $N$ is divided by $1000$ .",
-    "checkpoint": [
-        {
-            "10": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：For real number $x$ let $\\lfloor x\\rfloor$ be the greatest integer less than or equal to $x$ , and define $\\{x\\} = x - \\lfloor x \\rfloor$ to be the fractional part of $x$ . For example, $\\{3\\} = 0$ and $\\{4.56\\} = 0.56$ . Define $f(x)=x\\{x\\}$ , and let $N$ be the number of real-valued solutions to the equation $f(f(f(x)))=17$ for $0\\leq x\\leq 2020$ . Find the remainder when $N$ is divided by $1000$ .",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

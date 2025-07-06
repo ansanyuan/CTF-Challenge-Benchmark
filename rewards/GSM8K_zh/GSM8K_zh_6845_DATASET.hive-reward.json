@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Julia's internet speed is 20 MBps (megabytes per second). How many songs she can download in half an hour if the size per song is 5MB?",
+  "checkpoint": [
+    {
+      "\\boxed{7200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

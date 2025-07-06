@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Following her doctor’s recommendation to up her daily water intake, Nancy now drinks the equivalent of 60% of her body weight in water. If Nancy’s daily water intake is 54 pounds, how much, in pounds, does she weigh?",
+  "checkpoint": [
+    {
+      "\\boxed{90}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

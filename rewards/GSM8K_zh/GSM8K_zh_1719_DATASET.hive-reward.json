@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A pelican caught 13 fish and a kingfisher caught 7 more fish than the pelican. If a fisherman caught 3 times the total amount of fish the pelican and kingfisher caught, how many more fish did the fisherman catch than the pelican?",
+  "checkpoint": [
+    {
+      "\\boxed{86}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

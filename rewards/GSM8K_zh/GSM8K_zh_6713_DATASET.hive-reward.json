@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Candace is trying to decide whether to wear her old shoes or new high-tech shoes for a hike. The high-tech shoes will help Candace walk twice as fast, but they're not broken in yet, so she'll get 1 blister after every 2 hours she spends walking in them. Each blister slows Candance down by 2 miles per hour. If Candance walks 6 miles per hour in the old shoes and plans to hike for 4 hours, how many miles per hour can she go in the new shoes?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sandy's goal is to drink 3 liters of water in a day. She drinks 500 milliliters of water every after 2 hours. After how many hours will she be able to drink a total of 3 liters of water?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

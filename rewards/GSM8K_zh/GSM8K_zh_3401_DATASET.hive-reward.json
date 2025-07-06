@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rodney, Roger and Ron can lift a combined weight of 239 pounds.  Rodney can lift twice as much as Roger, and Roger can lift 7 pounds less than 4 times the amount that Ron can lift.  How much can Rodney lift?",
+  "checkpoint": [
+    {
+      "\\boxed{146}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

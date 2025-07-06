@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The ratio of boys to girls in a classroom is 3:5. If there are 4 more girls than boys, how many students are in the classroom?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A rancher has 340 head of cattle. He was about to sell them all for $204,000 when 172 of them fell sick and died. Because of the sickness, his customers lost confidence in his cattle, forcing him to lower his price by $150 per head. How much money would the devastated farmer lose if he sold the remaining cattle at the lowered price compared to the amount he would have made by selling them at the original price?",
+  "checkpoint": [
+    {
+      "\\boxed{25200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

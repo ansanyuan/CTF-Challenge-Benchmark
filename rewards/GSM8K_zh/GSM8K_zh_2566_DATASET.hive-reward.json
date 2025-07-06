@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John climbs up 9 flights of stairs.  Each flight is 10 feet.  If each step is 18 inches, how many steps does he climb up?",
+  "checkpoint": [
+    {
+      "\\boxed{60}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

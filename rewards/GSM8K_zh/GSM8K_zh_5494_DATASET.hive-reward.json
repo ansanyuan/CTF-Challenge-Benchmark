@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Christina's age will be half of 80 years in five years to come. If Oscar will be 3/5 times as old as Christina is now in 15 years, calculate Oscar's age now.",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

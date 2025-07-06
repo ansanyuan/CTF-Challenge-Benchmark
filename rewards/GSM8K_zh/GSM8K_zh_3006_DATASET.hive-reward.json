@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Aitana and Jayda went to Silverlake Flea market to buy some handmade crafts. Aitana spent 2/5 times more money than Jayda at the market. If Jayda spent $400, calculate the total amount of money they spent together.",
+  "checkpoint": [
+    {
+      "\\boxed{960}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

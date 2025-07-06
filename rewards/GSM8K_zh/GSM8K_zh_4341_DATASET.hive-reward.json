@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Claudia offers art classes to kids and charges $10.00 for her one-hour class.  If 20 kids attend Saturday’s class and half that many attend Sunday’s class, how much money does she make?",
+  "checkpoint": [
+    {
+      "\\boxed{300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

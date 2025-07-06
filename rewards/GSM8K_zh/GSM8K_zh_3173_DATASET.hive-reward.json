@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Three friends agreed to pay an equal amount of money for buying 5 bags of chips. If they each pay $5, how much does each bag of chips cost?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

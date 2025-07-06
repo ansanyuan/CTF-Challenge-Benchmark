@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Seal releases 3 songs every month.  He gets $2000 per song.  How much money does he get in his first 3 years?",
+  "checkpoint": [
+    {
+      "\\boxed{216000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

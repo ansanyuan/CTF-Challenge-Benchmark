@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 92 students altogether. Twenty of them ride the school bus home together, 5/8 of the remaining ride their own bike home, and the rest whose houses are near the school walk home. How many students are walking home?",
+  "checkpoint": [
+    {
+      "\\boxed{27}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

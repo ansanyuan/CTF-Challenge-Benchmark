@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are twice as many surfers on Malibu beach as in Santa Monica beach. If there are 20 surfers in Santa Monica, calculate the total number of surfers on the two beaches.",
+  "checkpoint": [
+    {
+      "\\boxed{60}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

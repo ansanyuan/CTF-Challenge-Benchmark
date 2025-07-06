@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The bakery has 8 indoor tables and 12 outdoor tables. Each indoor table has 3 chairs and each outdoor table has 3 chairs. How many chairs are there in total?",
+  "checkpoint": [
+    {
+      "\\boxed{60}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

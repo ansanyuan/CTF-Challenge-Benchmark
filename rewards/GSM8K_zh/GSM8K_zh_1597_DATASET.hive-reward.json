@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nina loves to travel. She tries to travel at least 400 kilometers in one month outside of her home country. Every second month she does twice that distance. If she were able to keep up with her resolution, how many kilometers would she travel during 2 years?",
+  "checkpoint": [
+    {
+      "\\boxed{14400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

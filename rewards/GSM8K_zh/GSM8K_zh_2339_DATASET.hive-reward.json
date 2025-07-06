@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A bottle can hold 2 cups of water. How many cups of water are needed to fill up 10 whole bottles and 5 half-capacity bottles?",
+  "checkpoint": [
+    {
+      "\\boxed{30}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alice is making a big stack of dishes to see how tall she can make it before it topples over and falls. She starts off by placing 27 plates on top of each other. The tower holds fine so she adds 37 more plates. She is in the process of placing more and more plates when it finally topples over and crashes down, all 83 plates. How many more was Alice able to add before the tower fell and crashed?",
+  "checkpoint": [
+    {
+      "\\boxed{19}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

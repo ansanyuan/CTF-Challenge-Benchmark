@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Thirty-six marbles are divided between Mario and Manny in the ratio 4:5. If Manny decided to give 2 marbles to his brother, how many marbles does Manny have now?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

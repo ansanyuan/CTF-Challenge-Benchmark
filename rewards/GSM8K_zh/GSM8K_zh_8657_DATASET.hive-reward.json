@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Two apples fell out of the tree, and one of them landed on Newton's head.  Newton picked up the two apples, put one in his pocket and threw the other apple into the tree, causing 5 more apples to fall out of the tree.  Newton picked up these apples, put all but one in his pocket and threw the remaining one at the tree.  This caused another 6 apples to fall out of the tree.  Newton picked up all of the remaining apples and went home to make a pie.  How many apples did he bring home?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

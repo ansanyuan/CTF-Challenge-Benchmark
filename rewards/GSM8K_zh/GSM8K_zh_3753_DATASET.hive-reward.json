@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lucca has 100 balls and 10 percent of his balls are basketballs. Lucien has 200 balls and 20 percent of them are basketballs. In total how many basketballs do Lucca and Lucien have?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James trains for the Olympics.  He trains twice a day for 4  hours each time for all but 2 days per week.  How many hours does he train a year?",
+  "checkpoint": [
+    {
+      "\\boxed{2080}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

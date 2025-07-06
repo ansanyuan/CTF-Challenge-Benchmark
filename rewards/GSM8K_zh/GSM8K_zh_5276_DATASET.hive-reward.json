@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bert, Ernie, and Peggy collect stamps.  Bert has four times as many stamps as Ernie, but Ernie has three times as many stamps as Peggy.  If Peggy currently has 75 stamps in her collection, how many stamps does she need to add to her collection to have a collection as large as Bert's collection?",
+  "checkpoint": [
+    {
+      "\\boxed{825}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

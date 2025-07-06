@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a certain forest, there are 4 species of trees: oak, pine, spruce, and birch. There is a total of 4000 trees in the forest. Spruces make up 10% of all the trees, and pines 13%. There are as many oaks as spruces and pines put together. How many birches are there in the forest?",
+  "checkpoint": [
+    {
+      "\\boxed{2160}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

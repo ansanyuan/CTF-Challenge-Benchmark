@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Five dozens of people are attending your family reunion. Your family was assigned to bring the cans of soda. Each box of soda contains 10 cans and costs $2 per box. It was assumed that each person can consume 2 cans of soda. If you are six in the family and agreed to pay equally for the cost, how much will each of your family members pay?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

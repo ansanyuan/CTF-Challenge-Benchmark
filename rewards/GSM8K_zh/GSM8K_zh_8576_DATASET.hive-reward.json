@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sheila charged $85.00 worth of merchandise on her credit card.  She ended up returning one item that cost $15.00.  After she returned the item, she bought a frying pan that was on sale for 20% off $20.00 and a set of towels that was 10% off $30.00.  She put both of these purchases on her credit card.  What is the new balance on her credit card?",
+  "checkpoint": [
+    {
+      "\\boxed{113}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

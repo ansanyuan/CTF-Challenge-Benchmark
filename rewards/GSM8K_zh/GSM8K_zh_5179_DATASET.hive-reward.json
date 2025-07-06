@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Irene shares half of a small apple with her dog every day.  A small apple weighs about 1/4 of a pound.  She can currently buy apples for $2.00 a pound.  How much will she spend so that she and her dog have enough apples to last for 2 weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

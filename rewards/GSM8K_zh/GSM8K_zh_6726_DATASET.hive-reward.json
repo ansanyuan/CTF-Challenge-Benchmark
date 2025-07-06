@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Janice has been working part-time at a convenience store 5 days a week. She can earn $30 per day and can earn $15 more when she works a 2 hour overtime shift. If she works three overtime shifts this week, how much will she earn this week?",
+  "checkpoint": [
+    {
+      "\\boxed{195}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

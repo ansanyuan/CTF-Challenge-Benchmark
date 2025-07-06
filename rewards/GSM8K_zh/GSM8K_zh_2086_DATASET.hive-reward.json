@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom needs to buy a new gaming system.  He trades in his super Nintendo for an original NES.  The SNES is worth $150 and the store gives him 80% of that value.  He gives $80 and gets back $10 change and a game worth $30.  How much was the NES on sale for?",
+  "checkpoint": [
+    {
+      "\\boxed{160}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

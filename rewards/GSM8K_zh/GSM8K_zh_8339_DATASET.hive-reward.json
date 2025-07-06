@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A bumper car rink has 12 red cars. They have 2 fewer green cars than they have red cars. They have 3 times the number of blue cars as they have green cars. The rink also has yellow cars.  If the rink has 75 cars in total how many yellow cars do they have?",
+  "checkpoint": [
+    {
+      "\\boxed{23}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

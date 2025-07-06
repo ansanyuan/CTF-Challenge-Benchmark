@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a classroom there are 30 students. 1/3 of them are boys. Among the girls, 40% own dogs, 20% own a cat, and the rest have no pets. How many girls in the class have no pet?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

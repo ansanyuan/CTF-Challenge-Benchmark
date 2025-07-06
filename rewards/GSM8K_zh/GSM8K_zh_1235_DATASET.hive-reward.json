@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A bag of pistachios has 80 pistachios in it.  95 percent have shells, and 75 percent of those have shells that are opened.  How many pistachios in the bag have shells and have an opened shell?",
+  "checkpoint": [
+    {
+      "\\boxed{57}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

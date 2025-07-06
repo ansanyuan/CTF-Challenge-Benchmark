@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Troy's home is 75 meters away from school while Emily's home is 98 meters away from school. Troy and Emily walk to school and back home every day. How much farther does Emily walk to school and back in five days?",
+  "checkpoint": [
+    {
+      "\\boxed{230}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

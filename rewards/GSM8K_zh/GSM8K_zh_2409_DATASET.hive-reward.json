@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Emmanuel will stay in Guam in December for 10 days in which he has to use international data that would cost $3.50 per day. Emmanuel has been paying $175 per month for his regular plan. How much in all will be Emmanuel’s charges for December?",
+  "checkpoint": [
+    {
+      "\\boxed{210}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

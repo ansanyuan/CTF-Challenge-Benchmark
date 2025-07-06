@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：It starts raining at 7:00 and pours heavily until its stops at 17:00  on a particular day. On the second day, the rain takes 2 more hours than it took on the first day to stop. On the third day, the rain pours for twice the amount of time it took on the second day. Calculate the total time it was raining in the three days.",
+  "checkpoint": [
+    {
+      "\\boxed{46}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

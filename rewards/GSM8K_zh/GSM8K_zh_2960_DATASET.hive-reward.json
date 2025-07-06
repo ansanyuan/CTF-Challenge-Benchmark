@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Janice gave all three dozens of pebbles from her trip to her friends. Each of her friends got 4 pebbles. How many friends received pebbles?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

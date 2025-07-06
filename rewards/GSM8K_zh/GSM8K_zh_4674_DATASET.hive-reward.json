@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Leon ordered 3 sets of toy organizers for $78 per set and 2 gaming chairs for $83 each. If there is a delivery fee that is 5% of the total sales, how much did Leon pay?",
+  "checkpoint": [
+    {
+      "\\boxed{420}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

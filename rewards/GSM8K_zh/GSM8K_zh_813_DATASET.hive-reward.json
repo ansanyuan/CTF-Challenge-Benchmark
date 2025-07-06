@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tabitha and her friends were excited to go to the Christmas parade because they knew candy would be thrown to the crowd from the floats.  Tabitha caught 22 pieces of candy.  Stan caught 13 pieces.  Julie caught half the amount of candy as Tabitha caught and Carlos caught twice as much candy as Stan.  How many pieces in total did the friends catch?",
+  "checkpoint": [
+    {
+      "\\boxed{72}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

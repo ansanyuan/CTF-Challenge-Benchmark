@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lilah's family gallery has 400 photos. On a two-day trip to the Grand Canyon, they took half as many photos they have in the family's gallery on the first day and 120 more photos than they took on the first day on the second day. If they added all these photos to the family gallery, calculate the total number of photos in the gallery.",
+  "checkpoint": [
+    {
+      "\\boxed{920}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

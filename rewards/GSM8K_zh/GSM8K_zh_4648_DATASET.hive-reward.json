@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Monica was saving money for her future. Every week he put $15 into her moneybox. After the moneybox got full, which took 60 weeks, Monica took all the money out and took it to the bank, and she started saving money again. She repeated this whole process 5 times. How much money did Monica take to the bank in total?",
+  "checkpoint": [
+    {
+      "\\boxed{4500}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

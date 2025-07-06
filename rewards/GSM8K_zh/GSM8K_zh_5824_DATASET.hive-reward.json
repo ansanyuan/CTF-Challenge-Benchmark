@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The faucet in Betsy's bathroom is broken. Every minute it drips about 10 times. What amount of water is wasted during one hour if each drop contains 0.05 mL?",
+  "checkpoint": [
+    {
+      "\\boxed{30}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

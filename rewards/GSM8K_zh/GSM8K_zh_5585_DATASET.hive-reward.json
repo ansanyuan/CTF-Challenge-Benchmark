@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marty and Biff were both running for student council president. A poll was taken to see how the candidate’s campaigns were going. 45% of the people polled said they were voting for Biff and 8% were undecided. The rest said they are voting for Marty. If 200 people were polled, how many said they are voting for Marty?",
+  "checkpoint": [
+    {
+      "\\boxed{94}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

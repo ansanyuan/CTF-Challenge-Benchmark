@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A choir splits into 3 groups for their performances. The first group has 25 members, and the second group has 30 members. The third group has the remaining members of the choir. If the choir overall has 70 members, how many members are in the third group?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

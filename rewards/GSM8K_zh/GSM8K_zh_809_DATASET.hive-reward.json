@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carla is taking attendance for her sixth-grade class. She knows that 2 students are in the restroom, and one less than three times that number of students are absent. If there are four rows with six desks each that are all 2/3 full, how many students does Carla teach, including the ones in and out of the classroom?",
+  "checkpoint": [
+    {
+      "\\boxed{23}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Krishna and Callum are playing a game where they earn 10 points if they win any round. If they played eight matches and Krishna won 3/4 of the matches, what is the total number of points that Callum earned?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

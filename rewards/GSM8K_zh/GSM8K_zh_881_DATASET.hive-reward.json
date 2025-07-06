@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. John jogs for 1 hour 30 minutes in the morning every day. How much time (in hours) will he have spent jogging after two weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{21}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

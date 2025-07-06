@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Amanda’s garden contains 20 flowers and Peter’s garden contains three times as many flowers as Amanda's. If Peter gave 15 flowers to his brother, how many flowers are left in his garden?",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

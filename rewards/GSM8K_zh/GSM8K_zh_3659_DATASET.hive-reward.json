@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Twenty people pre-bought plane tickets at a price of $155 per ticket. Thirty people bought their plane tickets at the gate and they each paid $200 for their ticket. How many more dollars did the people at the gate pay for their tickets than those passengers that pre-bought their tickets?",
+  "checkpoint": [
+    {
+      "\\boxed{2900}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

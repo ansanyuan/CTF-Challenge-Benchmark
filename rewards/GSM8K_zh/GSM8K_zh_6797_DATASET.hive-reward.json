@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 35 bottles of milk on the grocery store shelf. Jason buys 5 of the bottles and Harry buys 6 more. How many bottles of milk are left on the store shelf after Jason and Harry purchased milk?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

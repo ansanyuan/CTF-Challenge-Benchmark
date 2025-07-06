@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Wendy has 5 facial products she puts on in the morning and she waits 5 minutes between each product.  She also spends an additional 30 minutes putting on her make-up.  How much time does it take her to put on her \"full face?\"",
+  "checkpoint": [
+    {
+      "\\boxed{55}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

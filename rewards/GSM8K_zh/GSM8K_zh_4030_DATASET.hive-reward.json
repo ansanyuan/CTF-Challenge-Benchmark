@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：To raise money, a school is selling ice-pops for $1.50. It costs 90 cents to make each pop, and the money from the pops will be used to buy pencils, which cost $1.80 each. How many pops must be sold to buy 100 pencils?",
+  "checkpoint": [
+    {
+      "\\boxed{300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

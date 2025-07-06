@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr Fletcher hired 2 men to dig a well in his compound. They worked for 10 hours on the first day, 8 hours on the second day and finished the job on the third day after working 15 hours. If Mr Fletcher paid each of them $10 per hour of work, calculate the total amount of money they received altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{660}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

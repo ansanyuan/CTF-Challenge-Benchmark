@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Frankie and Carla played 30 games of ping pong against each other.  Frankie won half as many games as did Carla.  How many games did Carla win?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

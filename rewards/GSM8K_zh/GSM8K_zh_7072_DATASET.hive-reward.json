@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Keith bought 8 new baseball trading cards to add to his collection. The next day his dog ate half of his collection. There are now only 46 cards left. How many cards did Keith start with?",
+  "checkpoint": [
+    {
+      "\\boxed{84}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

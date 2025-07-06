@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jean and her three friends are playing a game of dominoes. There are 28 dominoes in the set, and Jean wants each player to receive the same number of dominoes. How many dominoes will Jean and her friends each receive?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

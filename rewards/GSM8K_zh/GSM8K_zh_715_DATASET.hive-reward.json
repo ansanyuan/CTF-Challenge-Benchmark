@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John runs a website that gets 30000 visits a month, for a normal 30 day month.  He gets $.01 per visit.  How much does he make per day?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

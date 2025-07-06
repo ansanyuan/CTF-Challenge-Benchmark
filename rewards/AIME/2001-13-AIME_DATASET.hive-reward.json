@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：In quadrilateral $ABCD$ , $\\angle{BAD}\\cong\\angle{ADC}$ and $\\angle{ABD}\\cong\\angle{BCD}$ , $AB = 8$ , $BD = 10$ , and $BC = 6$ . The length $CD$ may be written in the form $\\frac {m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
-    "checkpoint": [
-        {
-            "69": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：In quadrilateral $ABCD$ , $\\angle{BAD}\\cong\\angle{ADC}$ and $\\angle{ABD}\\cong\\angle{BCD}$ , $AB = 8$ , $BD = 10$ , and $BC = 6$ . The length $CD$ may be written in the form $\\frac {m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
+  "checkpoint": [
+    {
+      "\\boxed{69}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

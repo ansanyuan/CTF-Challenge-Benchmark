@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James buys 3 shirts for $60.  There is a 40% off sale.  How much did he pay per shirt after the discount?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

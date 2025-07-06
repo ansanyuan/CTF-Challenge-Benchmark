@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A store gives a 10% discount for the amount of the sell that was over $1000.  John buys 7 items that each cost $200.  What does his order cost after the discount?",
+  "checkpoint": [
+    {
+      "\\boxed{1360}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

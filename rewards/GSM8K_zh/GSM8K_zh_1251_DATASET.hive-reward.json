@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lucia is a dancer. She takes 2 hip-hop classes a week, 2 ballet classes a week, and 1 jazz class a week. One hip-hop class costs $10. One ballet class costs $12, and one jazz class costs $8. What is the total cost of Lucia’s dance classes in one week?",
+  "checkpoint": [
+    {
+      "\\boxed{52}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

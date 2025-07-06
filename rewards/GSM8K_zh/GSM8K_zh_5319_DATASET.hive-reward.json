@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Casey is going to stay at a motel while she works her summer job as a ski instructor. The hotel charges $280/week or $1000/month. If Casey will be staying 3 months, each with exactly 4 weeks, how much money does she save by paying monthly?",
+  "checkpoint": [
+    {
+      "\\boxed{360}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

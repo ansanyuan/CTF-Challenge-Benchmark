@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mrs. Lacson harvested 80 sweet potatoes. She sold 20 of them to Mrs.  Adams and 15 of them to Mr. Lenon. How many sweet potatoes are not yet sold?",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

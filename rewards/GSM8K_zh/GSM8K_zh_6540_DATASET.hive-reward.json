@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：American carmakers produce 5 650 000 cars each year. Then they distribute it to 5 car suppliers. The first supplier receives 1 000 000 cars each. The second supplier receives 500 000 cars more while the third car supplier receives the same number as the first and second suppliers combined. The fourth and the fifth supplier receive an equal number of cars. How many cars do the fourth and fourth suppliers each receive?",
+  "checkpoint": [
+    {
+      "\\boxed{325000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

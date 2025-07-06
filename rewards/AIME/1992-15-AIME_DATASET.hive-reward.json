@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Define a positive integer $n^{}_{}$ to be a factorial tail if there is some positive integer $m^{}_{}$ such that the decimal representation of $m!$ ends with exactly $n$ zeroes. How many positive integers less than $1992$ are not factorial tails?",
-    "checkpoint": [
-        {
-            "396": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Define a positive integer $n^{}_{}$ to be a factorial tail if there is some positive integer $m^{}_{}$ such that the decimal representation of $m!$ ends with exactly $n$ zeroes. How many positive integers less than $1992$ are not factorial tails?",
+  "checkpoint": [
+    {
+      "\\boxed{396}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A bag has seven apples, eight oranges, and 15 mangoes. Luisa takes out two apples from the bag, and takes out twice as many oranges as apples as she took from the bag. She then takes out 2/3 the number of mangoes from the bag. What is the remaining number of fruits in the bag?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

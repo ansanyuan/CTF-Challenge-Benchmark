@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Paolo has 14 coconuts, while Dante has thrice as many coconuts as Paolo. If Dante sold 10 of his coconuts, how many coconuts did he have left?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

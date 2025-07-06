@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The temperature in New York in June 2020 was 80 degrees. If the temperature in Miami on this day was 10 degrees hotter than the temperature in New York, and 25 degrees cooler than the temperature in San Diego, what was the average temperature for the three cities?",
+  "checkpoint": [
+    {
+      "\\boxed{95}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

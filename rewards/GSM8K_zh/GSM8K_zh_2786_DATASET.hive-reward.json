@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John is budgeting for his marriage. The venue cost $10,000. It cost $500 for each guest, and John wants 50 guests while his wife wants 60% more than that. How much would the wedding cost if John's wife gets her way?",
+  "checkpoint": [
+    {
+      "\\boxed{50000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

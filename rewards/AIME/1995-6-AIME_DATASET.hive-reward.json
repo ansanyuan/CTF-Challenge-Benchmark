@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $n=2^{31}3^{19}.$ How many positive integer divisors of $n^2$ are less than $n_{}$ but do not divide $n_{}$ ?",
-    "checkpoint": [
-        {
-            "589": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $n=2^{31}3^{19}.$ How many positive integer divisors of $n^2$ are less than $n_{}$ but do not divide $n_{}$ ?",
+  "checkpoint": [
+    {
+      "\\boxed{589}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

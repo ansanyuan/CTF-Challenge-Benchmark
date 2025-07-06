@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Thomas has been saving $40 in the bank every month for six years. His friend Joseph has been saving 2/5 times less money per month. How much money are they having in their savings account altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{4608}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Yolanda scored 345 points over the entire season. There were 15 games over the season. She averaged 4 free throws (worth one point), and 5 two-point baskets per game. How many three-point baskets did she average a game?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

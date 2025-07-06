@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Peter and Kristin are to read 20 fantasy novels each in a week. Peter can read three times as fast as Kristin. If Peter reads one book in 18 hours, how long will Kristin read half of her books?",
+  "checkpoint": [
+    {
+      "\\boxed{540}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

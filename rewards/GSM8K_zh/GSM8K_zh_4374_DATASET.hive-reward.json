@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lucille made an agreement with her mom that she would earn six cents for every weed she pulled in her mom's garden. There are eleven weeds in the flower bed, fourteen in the vegetable patch, and thirty-two in the grass around the fruit trees. Lucille weeded the flower bed, the vegetable patch, and half the grass before she took a break. She bought a soda for 99 cents on her break with some of her earnings. How many cents does Lucille have left?",
+  "checkpoint": [
+    {
+      "\\boxed{147}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lola’s rabbits keep having kittens each spring. During the first spring, her 10 breeding rabbits had 10 times as many kittens as the number of breeding rabbits Lola has, and half of the kittens got adopted. 5 of them had to be returned to Lola due to re-homing problems. During the next spring, her 10 breeding rabbits only had a total of 60 kittens, with 4 of the kittens being adopted. Including the breeding rabbits, how many rabbits does Lola have in her house?",
+  "checkpoint": [
+    {
+      "\\boxed{121}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

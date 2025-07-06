@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The mayor commissioned two artists to paint 50 murals around the city. Once the work was completed, Celina was paid $1,000 more than 4 times the amount Diego got. If the mayor paid the two a total of $50,000, how much did Diego get?",
+  "checkpoint": [
+    {
+      "\\boxed{9800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

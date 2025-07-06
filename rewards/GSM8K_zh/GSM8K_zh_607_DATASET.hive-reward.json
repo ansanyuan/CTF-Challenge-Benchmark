@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a big box, there are marbles in 4 colors. Inside, there are 20 red marbles.  There are three times more green marbles than red.  Yellow marbles make up 20% of the green marbles. How many marbles are of a different color if the total of all marbles in the box is three times more than the number of green marbles?",
+  "checkpoint": [
+    {
+      "\\boxed{88}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

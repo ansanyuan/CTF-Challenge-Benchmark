@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A shopping center sells T-shirts at $8 each, a sweater at $18,  and a jacket at $80. The jacket is on sale with a 10% discount. The sales tax is 5%.  Kevin wants to buy six T-shirts, four sweaters, and five jackets for his children. How much does Kevin have to pay for all the items, including the sales tax?",
+  "checkpoint": [
+    {
+      "\\boxed{504}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

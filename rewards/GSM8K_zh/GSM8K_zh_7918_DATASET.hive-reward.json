@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Movie A was one-fourth the length of Movie B. Movie B was 5 minutes longer than Movie C. Movie C was 1.25 hours. How many minutes long was Movie A?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

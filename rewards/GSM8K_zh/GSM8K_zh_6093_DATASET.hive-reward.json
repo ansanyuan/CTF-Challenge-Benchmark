@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Part of Stella's job is to restock the toilet paper in each of the 6 bathrooms at the bed and breakfast.  She stocks 1 roll a day, every day of the week.  She buys the toilet paper in bulk, and each pack contains 1 dozen rolls.  After 4 weeks, how many packs of toilet paper dozen Stella buy?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

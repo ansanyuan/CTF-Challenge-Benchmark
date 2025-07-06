@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Braden had $400 in his money box. He had also placed a bet today with Byan that the Raptors will beat the Bulls. If the game's outcome was as Braden predicted, and he and Bryan had agreed to give the winner twice as much money as Braden had in his money box, calculate the total amount of money Braden had in his money box after winning the bet?",
+  "checkpoint": [
+    {
+      "\\boxed{1200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Charlie is a tennis pro.  He spends most of the day teaching others lessons on how to improve their game.  His standard fee is $80 per hour for lessons, but he reduces his rate by 25% when he is giving lessons to a veteran.   If today Charlie has 4 1-hour lessons at his standard rate and 2 1-hour lessons with a veteran, what is the total amount of money he will make for the day, in dollars?",
+  "checkpoint": [
+    {
+      "\\boxed{440}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

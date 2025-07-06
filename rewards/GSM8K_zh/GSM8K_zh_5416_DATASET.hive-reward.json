@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Adrian has the choice between two boxes of contacts.  One has 50 contacts for $25, and the other has 99 contacts for $33. He chooses the box that costs less per individual contact.  How many contacts will it take to equal $1 worth in whatever box he decides to buy?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

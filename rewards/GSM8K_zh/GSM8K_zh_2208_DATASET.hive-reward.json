@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The football coach makes his players run up and down the bleachers 40 times. Each time they run up and down 32 stairs one way. If each stair burns 2 calories, how many calories does each player burn during this exercise?",
+  "checkpoint": [
+    {
+      "\\boxed{5120}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

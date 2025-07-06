@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a store, an Uno Giant Family Card costs $12. When Ivan bought ten pieces, he was given a discount of $2 each. How much did Ivan pay in all?",
+  "checkpoint": [
+    {
+      "\\boxed{100}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

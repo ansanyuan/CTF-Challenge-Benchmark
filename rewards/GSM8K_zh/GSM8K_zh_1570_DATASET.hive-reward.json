@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John decided to start rowing around a square lake.  Each side of the lake is 15 miles.  Jake can row at twice the speed he can swim.  It takes him 20 minutes to swim 1 mile.  How long, in hours, does it take to row the lake?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

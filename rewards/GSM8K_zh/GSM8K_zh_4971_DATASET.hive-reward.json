@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：5 years ago, a mother was twice as old as her daughter. If the mother is 41 years old now, how old will the daughter be in 3 years?",
+  "checkpoint": [
+    {
+      "\\boxed{26}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

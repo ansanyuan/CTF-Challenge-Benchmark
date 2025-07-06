@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The Kennel house keeps 3 German Shepherds and 2 Bulldogs. If a German Shepherd consumes 5 kilograms of dog food and a bulldog consumes 3 kilograms of dog food per day. How many kilograms of dog food will they need in a week?",
+  "checkpoint": [
+    {
+      "\\boxed{147}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

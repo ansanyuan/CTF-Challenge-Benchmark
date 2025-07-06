@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：I bought a pair of shoes for $51. The shoes were already marked 75% off. What is the original price of the shoes?",
+  "checkpoint": [
+    {
+      "\\boxed{204}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

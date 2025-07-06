@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Neil charges $5.00 to trim up each boxwood.  He charges $15.00 to trim it into a fancy shape.  The customer wants the entire 30 boxwood hedge trimmed up.  He has also asked for 4 specific boxwoods shaped into spheres.  How much will Neil charge?",
+  "checkpoint": [
+    {
+      "\\boxed{210}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

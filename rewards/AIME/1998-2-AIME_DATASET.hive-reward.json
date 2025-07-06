@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Find the number of ordered pairs $(x,y)$ of positive integers that satisfy $x \\le 2y \\le 60$ and $y \\le 2x \\le 60$ .",
-    "checkpoint": [
-        {
-            "480": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Find the number of ordered pairs $(x,y)$ of positive integers that satisfy $x \\le 2y \\le 60$ and $y \\le 2x \\le 60$ .",
+  "checkpoint": [
+    {
+      "\\boxed{480}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

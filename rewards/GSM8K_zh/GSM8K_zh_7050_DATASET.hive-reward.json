@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James works for 240 minutes. He takes a water break every 20 minutes and a sitting break every 120 minutes. How many more water breaks does he take than sitting breaks?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

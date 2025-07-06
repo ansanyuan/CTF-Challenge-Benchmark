@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A city has a population of 300,000.  50,000 people immigrate to the country and then 30,000 people leave.  After that 1/8 of the population gets pregnant and 1/4 of those people have twins.  How many people are there after the births?",
+  "checkpoint": [
+    {
+      "\\boxed{370000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cilia wants to buy a multi-level dumbbell system.  The first pair of dumbbells are 3 lb weights, the second pair is 5 lb weights and the third is 8 lb pounds.  How much does the entire system weigh?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

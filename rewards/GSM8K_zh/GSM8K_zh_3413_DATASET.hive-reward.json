@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Charles is wondering how much chocolate milk he can make with all the supplies he finds in the fridge. He is going to keep drinking 8-ounce glasses until he uses up all the ingredients. Each glass must contain 6.5 ounces of milk and 1.5 ounces of chocolate syrup. If he has 130 ounces of milk and 60 ounces of chocolate syrup, how many total ounces ounce of chocolate milk will he drink?",
+  "checkpoint": [
+    {
+      "\\boxed{160}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

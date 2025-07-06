@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A couple with two children, ages 6 and 10 years old, decided to go to an amusement park. The regular ticket costs $109, but children below 12 years old have a $5 discount. If they gave the cashier $500, how much change will they receive?",
+  "checkpoint": [
+    {
+      "\\boxed{74}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

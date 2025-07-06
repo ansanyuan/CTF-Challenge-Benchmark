@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Elon has 10 more teslas than Sam who has half the number of teslas as Chris. Chris has 6 teslas. How many teslas does Elon have?",
+  "checkpoint": [
+    {
+      "\\boxed{13}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

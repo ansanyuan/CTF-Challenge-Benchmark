@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Amanda charges $20.00 per hour to help clean out and organize a person's home.  She has 5 1.5 hours appointments on Monday, a 3-hours appointment on Tuesday and 2 2-hours appointments on Thursday.  On Saturday, she will spend 6 hours at one client's house.  How much money will she make this week?",
+  "checkpoint": [
+    {
+      "\\boxed{410}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

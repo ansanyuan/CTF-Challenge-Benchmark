@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The region east of plain A is 50 square miles less than the region east of plain B. If plain B has 200 square miles, how many square miles do the plains have in total?",
+  "checkpoint": [
+    {
+      "\\boxed{350}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

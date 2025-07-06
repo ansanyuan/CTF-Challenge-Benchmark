@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Albert has three times as many marbles as Angela. Angela has 8 more than Allison, who has 28 marbles. How many marbles do Albert and Allison have?",
+  "checkpoint": [
+    {
+      "\\boxed{136}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

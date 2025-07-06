@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mike and Ted planted tomatoes.  In the morning, Mike planted 50 tomato seeds while Ted planted twice as much as Mike.  In the afternoon, Mike planted 60 tomato seeds while Ted planted 20 fewer tomato seeds than Mike. How many tomato seeds did they plant altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{250}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mark donates soup to the 6 homeless shelters.  Each one services 30 people and he decides to buy 10 cans of soup per person.  How many cans of soup does Mark donate?",
+  "checkpoint": [
+    {
+      "\\boxed{1800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

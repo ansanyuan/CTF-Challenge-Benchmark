@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A company is hosting a seminar. So far, 30 attendees from company A have been registered; company B has twice the number of attendees of company A; company C has 10 more attendees than company A; company D has 5 fewer attendees than company C. If a total of 185 attendees have registered, how many attendees who registered are not from either company A, B, C or D?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

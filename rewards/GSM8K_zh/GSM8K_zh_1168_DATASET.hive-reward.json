@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Daphney buys 5 kg of potatoes at the supermarket. If 2 kg of potatoes costs $6, how much will she pay?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

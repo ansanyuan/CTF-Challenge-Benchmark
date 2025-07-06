@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Neil baked 20 cookies. He gave 2/5 of the cookies to his friend. How many cookies are left for Neil?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

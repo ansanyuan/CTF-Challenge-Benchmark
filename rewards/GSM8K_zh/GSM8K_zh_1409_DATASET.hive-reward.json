@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nicki spent the last year running a lot. For the first half of the year, she ran a total of 20 miles per week. For the second half of the year, she increased the mileage to 30 miles per week. How many miles total did she run for the year?",
+  "checkpoint": [
+    {
+      "\\boxed{1300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

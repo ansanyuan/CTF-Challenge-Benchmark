@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jacob takes four tests in his physics class and earns 85, 79, 92 and 84. What must he earn on his fifth and final test to have an overall average of 85?",
+  "checkpoint": [
+    {
+      "\\boxed{85}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Quentavious has 5 nickels. His friend offers him some gum and will give him two pieces per nickel. If Quentavious leaves with 2 nickels, how many pieces of gum did he get?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

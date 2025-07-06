@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Toms car gets 50 miles to the gallon.  He drives 75 miles per day.  If gas is $3 per gallon how much does he spend on gas in 10 days?",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

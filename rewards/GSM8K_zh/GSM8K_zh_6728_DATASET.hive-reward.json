@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Martha's cat catches 3 rats and 7 birds. Cara's cat catches 3 less than five times as many animals as Martha's cat. How many animals does Cara's cat catch?",
+  "checkpoint": [
+    {
+      "\\boxed{47}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

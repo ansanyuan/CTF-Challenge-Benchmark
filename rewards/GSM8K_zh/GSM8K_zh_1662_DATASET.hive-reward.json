@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tim and Donna will celebrate their 20th wedding anniversary in 2025.  They started dating 3 years before they got married and met 2 years before that.  When did they meet?",
+  "checkpoint": [
+    {
+      "\\boxed{2000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

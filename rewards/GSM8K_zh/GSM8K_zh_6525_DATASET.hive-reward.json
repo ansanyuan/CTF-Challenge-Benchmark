@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lynne bought 7 books about cats and 2 books about the solar system. She also bought 3 magazines. Each book cost 7$ and each magazine cost $4. How much did Lynne spend in all?",
+  "checkpoint": [
+    {
+      "\\boxed{75}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

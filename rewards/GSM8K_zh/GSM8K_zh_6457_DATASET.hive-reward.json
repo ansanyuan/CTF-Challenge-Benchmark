@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. and Mrs. McPherson have to renew their rent by the end of the year. They agreed that Mrs. McPherson would raise 30% of the money. If their rent is $1200 per year, how much does Mr. McPherson need to raise to complete the rent?",
+  "checkpoint": [
+    {
+      "\\boxed{840}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

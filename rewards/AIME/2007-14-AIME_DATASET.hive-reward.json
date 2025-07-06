@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $f(x)$ be a polynomial with real coefficients such that $f(0) = 1,$ $f(2)+f(3)=125,$ and for all $x$ , $f(x)f(2x^{2})=f(2x^{3}+x).$ Find $f(5).$",
-    "checkpoint": [
-        {
-            "676": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $f(x)$ be a polynomial with real coefficients such that $f(0) = 1,$ $f(2)+f(3)=125,$ and for all $x$ , $f(x)f(2x^{2})=f(2x^{3}+x).$ Find $f(5).$",
+  "checkpoint": [
+    {
+      "\\boxed{676}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

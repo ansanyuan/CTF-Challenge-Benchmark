@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tina buys 3 12-packs of soda for a party.  Including Tina, 6 people are at the party.  Half of the people at the party have 3 sodas each, 2 of the people have 4 and 1 person has 5.  How many sodas are left over when the party is over?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

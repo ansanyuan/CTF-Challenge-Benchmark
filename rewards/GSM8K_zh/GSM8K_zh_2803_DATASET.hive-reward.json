@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A spiral notebook costs $15, and a personal planner costs $10. How much would it cost in total to buy 4 spiral notebooks and 8 personal planners at a 20% discount?",
+  "checkpoint": [
+    {
+      "\\boxed{112}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

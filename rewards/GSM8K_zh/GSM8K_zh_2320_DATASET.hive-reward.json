@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. Mayer bought Corgi dogs for $1000 each. He plans to sell them with a 30% profit. If one of his friends wants to buy two dogs, how much should his friend pay?",
+  "checkpoint": [
+    {
+      "\\boxed{2600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

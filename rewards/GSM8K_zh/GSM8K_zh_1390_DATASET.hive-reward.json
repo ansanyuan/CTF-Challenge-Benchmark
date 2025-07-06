@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Before Cameron broke his right arm, he was able to type 10 words per minute on his phone. After he broke his arm, he had to use his left hand for a while, and he could only type 8 words per minute. What is the difference between the number of words he could type in 5 minutes before and after he broke his arm?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

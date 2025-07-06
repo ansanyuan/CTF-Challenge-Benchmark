@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 20 boys and 11 girls in the second grade and twice that number in the third grade. How many students are in grades 2 and 3?",
+  "checkpoint": [
+    {
+      "\\boxed{93}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

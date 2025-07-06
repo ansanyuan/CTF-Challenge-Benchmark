@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Emmalyn decided to paint fences in her neighborhood for twenty cents per meter. If there were 50 fences in the neighborhood that she had to paint and each fence was 500 meters long, calculate the total amount she earned from painting the fences.",
+  "checkpoint": [
+    {
+      "\\boxed{5000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

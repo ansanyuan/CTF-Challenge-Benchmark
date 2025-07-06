@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lucius owns a small business and spends $10 every day on ingredients. He then makes a portion of French Fries and a portion of Poutine and sells them to the market, paying ten percent of his weekly income as tax. If the price of French fries is $12 and the price of Poutine is $8, how much does he earn every week after paying the taxes, selling all his products, and buying all the ingredients?",
+  "checkpoint": [
+    {
+      "\\boxed{56}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

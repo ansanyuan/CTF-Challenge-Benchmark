@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tim gets a promotion that offers him a 5% raise on his $20000 a month salary.  It also gives him a bonus worth half a month's salary. How much money will he make in a year?",
+  "checkpoint": [
+    {
+      "\\boxed{262500}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

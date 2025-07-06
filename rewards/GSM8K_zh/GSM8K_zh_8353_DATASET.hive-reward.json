@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At a spa, Iris spent $400 to do her hair, 1/4 as much to do a manicure, and 3/4 as much money as a manicure to do a pedicure. How much money did she spend at the spa?",
+  "checkpoint": [
+    {
+      "\\boxed{575}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

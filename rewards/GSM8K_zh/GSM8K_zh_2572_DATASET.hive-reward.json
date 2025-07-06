@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Eric has a chicken farm with 4 chickens. His chickens lay 3 eggs each day. If Eric collects all the eggs after 3 days, then how many eggs will Eric have collected?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carly recently graduated and is looking for work in a field she studied for. She sent 200 job applications to companies in her state, and twice that number to companies in other states. Calculate the total number of job applications she has sent so far.",
+  "checkpoint": [
+    {
+      "\\boxed{600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

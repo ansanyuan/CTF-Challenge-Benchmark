@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A $10\\times10\\times10$ grid of points consists of all points in space of the form $(i,j,k)$ , where $i$ , $j$ , and $k$ are integers between $1$ and $10$ , inclusive. Find the number of different lines that contain exactly $8$ of these points.",
-    "checkpoint": [
-        {
-            "168": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A $10\\times10\\times10$ grid of points consists of all points in space of the form $(i,j,k)$ , where $i$ , $j$ , and $k$ are integers between $1$ and $10$ , inclusive. Find the number of different lines that contain exactly $8$ of these points.",
+  "checkpoint": [
+    {
+      "\\boxed{168}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Princess Daphne bought three necklaces and a set of earrings for a total of $240,000.  If all three necklaces were equal in price, and the earrings were three times as expensive as any one necklace, then how expensive was the cost of a single necklace?",
+  "checkpoint": [
+    {
+      "\\boxed{40000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

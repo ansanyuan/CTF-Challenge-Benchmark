@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Reyna had 20 lamps with seven light bulbs in each lamp. If 1/4 of them have 2 burnt-out light bulbs each, how many light bulbs are working?",
+  "checkpoint": [
+    {
+      "\\boxed{130}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

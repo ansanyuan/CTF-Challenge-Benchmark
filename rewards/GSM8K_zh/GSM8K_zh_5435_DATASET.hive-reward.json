@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kylie and Kayla pick apples together and take home 340 apples total. If Kayla picked 10 more than 4 times the amount of apples that Kylie picked, how many apples did Kayla pick?",
+  "checkpoint": [
+    {
+      "\\boxed{274}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A quarterback steps back to throw 80 times in a game.  30 percent of the time he does not get a pass thrown.  Half of the times that he does not throw the ball he is sacked for a loss.  How many times is the quarterback sacked for a loss in the game?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

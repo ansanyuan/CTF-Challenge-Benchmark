@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom was putting hardwood flooring into his living room that measured 16' long and 20' wide.  The flooring comes 10 sq ft per box and he has already put down 250 sq ft of flooring.  How many more boxes does Tom need to complete the job?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

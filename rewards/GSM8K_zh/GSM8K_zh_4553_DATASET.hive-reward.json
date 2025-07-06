@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Millie, Monica, and Marius are taking subjects for school. Millie takes three more subjects than Marius, who takes 4 subjects more than Monica. If Monica took 10 subjects, how many subjects all take altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{41}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

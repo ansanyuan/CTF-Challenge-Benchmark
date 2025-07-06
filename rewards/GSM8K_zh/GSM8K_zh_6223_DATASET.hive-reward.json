@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jina likes to collect mascots. She has 5 teddies, 3 times more bunnies, and a koala bear. Her mom decided to give her two additional teddies for every bunny she has. How many mascots Jina has in total?",
+  "checkpoint": [
+    {
+      "\\boxed{51}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

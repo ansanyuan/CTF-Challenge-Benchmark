@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：For homework, Juan's teacher asked everyone in the class, to write down the different types of transportation (cars, trucks, bicycles, skateboards etc) they saw on their way home that afternoon.  After school, Juan walked home and saw the following: 15 cars, 3 bicycles, 8 pickup trucks and 1 tricycle.  How many tires in total were there on the vehicles Juan saw?",
+  "checkpoint": [
+    {
+      "\\boxed{101}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

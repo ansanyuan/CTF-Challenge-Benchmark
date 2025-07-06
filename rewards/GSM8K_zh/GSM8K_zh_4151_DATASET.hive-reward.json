@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mrs. Thomson received an incentive worth $240. She spent 1/3 of the money on food and 1/5 of it on clothes. Then, she put in her savings account 3/4 of the remaining money. How much money did Mrs. Thomson save?",
+  "checkpoint": [
+    {
+      "\\boxed{84}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

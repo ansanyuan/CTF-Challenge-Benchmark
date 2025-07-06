@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mary went to the store to buy fruit. Apples cost $1, oranges cost $2, and bananas cost $3. For every 5 fruits that customers buy, the store offers a $1 discount. Mary buys 5 apples, 3 oranges, and 2 bananas. How much will she pay?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

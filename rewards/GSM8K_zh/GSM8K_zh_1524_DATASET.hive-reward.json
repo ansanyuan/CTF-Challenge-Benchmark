@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jason's stove catches on fire. Buying a replacement will cost $1200 and fixing the damage to the wall behind it will cost 1/6th as much. How much does he spend in total?",
+  "checkpoint": [
+    {
+      "\\boxed{1400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Agnes is 25 years old and her daughter, Jane is 6 years old. In how many years will Agnes be twice as old as Jane?",
+  "checkpoint": [
+    {
+      "\\boxed{13}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

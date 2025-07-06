@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Miriam is trying to exercise more and figures if she counts her exercises it will be encouraging to see her numbers go up. On Monday she does 5 push-ups. On Tuesday she does 7 push-ups. On Wednesday she does twice as many push-ups as the day before. On Thursday she does half the number of total pushups she already did that week. Finally, on Friday she does as many pushups as the total number she did over the previous four days. How many pushups does Miriam do on Friday?",
+  "checkpoint": [
+    {
+      "\\boxed{39}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

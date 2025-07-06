@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a hotdog eating competition, the first competitor can eat 10 hot dogs per minute. The second competitor can eat 3 times more than the first competitor, while the third competitor can eat twice as much as the second competitor. How many hotdogs can the third competitor eat after 5 minutes?",
+  "checkpoint": [
+    {
+      "\\boxed{300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

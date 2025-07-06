@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sid traveled 110 miles in 2 hours. If Sid then traveled an additional 140 miles in 3 hours, what's the average speed he was traveling?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

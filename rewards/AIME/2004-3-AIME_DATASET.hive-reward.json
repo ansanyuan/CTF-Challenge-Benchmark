@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A solid rectangular block is formed by gluing together $N$ congruent 1-cm cubes face to face. When the block is viewed so that three of its faces are visible, exactly 231 of the 1-cm cubes cannot be seen. Find the smallest possible value of $N.$",
-    "checkpoint": [
-        {
-            "384": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A solid rectangular block is formed by gluing together $N$ congruent 1-cm cubes face to face. When the block is viewed so that three of its faces are visible, exactly 231 of the 1-cm cubes cannot be seen. Find the smallest possible value of $N.$",
+  "checkpoint": [
+    {
+      "\\boxed{384}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

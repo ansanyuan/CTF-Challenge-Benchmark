@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The tallest building in the world is 100 feet tall.  If the second tallest is half that tall, and the third tallest is half as tall as the second, and the fourth is one-fifth as tall as the third, how tall are all 4 buildings put together?",
+  "checkpoint": [
+    {
+      "\\boxed{180}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

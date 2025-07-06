@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A movie that's 1.5 hours long is being replayed 6 times in one movie theater each day. There is a 20-minute advertisement before the start of the movie. How long, in hours, does the movie theater operate each day?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

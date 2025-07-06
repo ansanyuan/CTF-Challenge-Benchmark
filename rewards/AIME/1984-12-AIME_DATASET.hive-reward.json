@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A function $f$ is defined for all real numbers and satisfies $f(2+x)=f(2-x)$ and $f(7+x)=f(7-x)$ for all $x$ . If $x=0$ is a root for $f(x)=0$ , what is the least number of roots $f(x)=0$ must have in the interval $-1000\\leq x \\leq 1000$ ?",
-    "checkpoint": [
-        {
-            "401": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A function $f$ is defined for all real numbers and satisfies $f(2+x)=f(2-x)$ and $f(7+x)=f(7-x)$ for all $x$ . If $x=0$ is a root for $f(x)=0$ , what is the least number of roots $f(x)=0$ must have in the interval $-1000\\leq x \\leq 1000$ ?",
+  "checkpoint": [
+    {
+      "\\boxed{401}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

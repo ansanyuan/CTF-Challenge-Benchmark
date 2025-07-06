@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Paddington has 40 more goats than Washington. If Washington has 140 goats, how many goats do they have in total?",
+  "checkpoint": [
+    {
+      "\\boxed{320}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Antonella has ten Canadian coins in her purse that are either loonies or toonies. A loonie equals $1 and a toonie equals $2. If she bought a $3 Frappuccino and still has $11, how many toonies did she initially have?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

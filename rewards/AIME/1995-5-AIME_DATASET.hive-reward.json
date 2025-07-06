@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：For certain real values of $a, b, c,$ and $d_{},$ the equation $x^4+ax^3+bx^2+cx+d=0$ has four non-real roots.  The product of two of these roots is $13+i$ and the sum of the other two roots is $3+4i,$ where $i=\\sqrt{-1}.$ Find $b.$",
-    "checkpoint": [
-        {
-            "51": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：For certain real values of $a, b, c,$ and $d_{},$ the equation $x^4+ax^3+bx^2+cx+d=0$ has four non-real roots.  The product of two of these roots is $13+i$ and the sum of the other two roots is $3+4i,$ where $i=\\sqrt{-1}.$ Find $b.$",
+  "checkpoint": [
+    {
+      "\\boxed{51}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

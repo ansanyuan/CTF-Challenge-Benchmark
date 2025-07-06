@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mandy has three $20 bills while Manny has two $50 bills. If both of them decide to exchange their bills for $10 bills, how many more $10 bills than Mandy will Manny have?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

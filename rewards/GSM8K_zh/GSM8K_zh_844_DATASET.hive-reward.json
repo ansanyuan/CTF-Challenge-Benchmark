@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Randy has $30. He spent $10 buying his lunch. He spent a quarter of the money he had left on an ice cream cone. What is the amount of money, in dollars, Randy has left?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Watson works a 10-hour shift each day, five days a week. He earns $10 per hour and gets a $300 bonus each week if the company performs well. How much money did Watson make in April if the company performed very well for the whole month?",
+  "checkpoint": [
+    {
+      "\\boxed{3200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

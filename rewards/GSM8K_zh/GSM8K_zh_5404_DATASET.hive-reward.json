@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brody’s calculator can run for 60 hours on a full battery. Brody has used three quarters of its battery up, and he is about to take a two-hour math exam that will require his calculator the whole time. How many hours of battery will Brody’s calculator have left?",
+  "checkpoint": [
+    {
+      "\\boxed{13}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

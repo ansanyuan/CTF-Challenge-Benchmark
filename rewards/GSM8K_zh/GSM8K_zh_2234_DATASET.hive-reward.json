@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jorge and Giuliana each eat 7 croissants for breakfast, 18 cakes after school, and 30 pizzas before bedtime. What is the total number of croissants, cakes, and pizzas the two consume in a day?",
+  "checkpoint": [
+    {
+      "\\boxed{110}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

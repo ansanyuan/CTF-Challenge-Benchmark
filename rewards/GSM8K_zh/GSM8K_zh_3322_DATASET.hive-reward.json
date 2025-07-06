@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John took a test with 80 questions.  For the first 40 questions, she got 90% right.  For the next 40 questions, she gets 95% right.  How many total questions does she get right?",
+  "checkpoint": [
+    {
+      "\\boxed{74}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

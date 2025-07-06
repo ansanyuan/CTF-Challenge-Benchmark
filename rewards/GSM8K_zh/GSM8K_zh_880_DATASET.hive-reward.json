@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jake amasses a fortune of 80 bitcoin.  He donates 20 bitcoins to charity.  He then gives half of all the bitcoins to his brother.  After that, he triples the number of bitcoins he has.  Then he donates another 10 coins.  How many coins does he have?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

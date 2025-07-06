@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A tractor trailer has a load of 50000 pounds.  10% of the weight gets unloaded at the first store, and 20% of the remaining load is removed at the second store.  How much weight, in pounds, is left on the truck after the two deliveries?",
+  "checkpoint": [
+    {
+      "\\boxed{36000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

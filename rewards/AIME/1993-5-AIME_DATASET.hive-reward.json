@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $P_0(x) = x^3 + 313x^2 - 77x - 8\\,$ .  For integers $n \\ge 1\\,$ , define $P_n(x) = P_{n - 1}(x - n)\\,$ .  What is the coefficient of $x\\,$ in $P_{20}(x)\\,$ ?",
-    "checkpoint": [
-        {
-            "763": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $P_0(x) = x^3 + 313x^2 - 77x - 8\\,$ .  For integers $n \\ge 1\\,$ , define $P_n(x) = P_{n - 1}(x - n)\\,$ .  What is the coefficient of $x\\,$ in $P_{20}(x)\\,$ ?",
+  "checkpoint": [
+    {
+      "\\boxed{763}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

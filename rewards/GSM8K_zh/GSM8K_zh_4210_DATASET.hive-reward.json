@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Valerie’s cookie recipe makes 16 dozen cookies and calls for 4 pounds of butter.  She only wants to make 4 dozen cookies for the weekend.  How many pounds of butter will she need?",
+  "checkpoint": [
+    {
+      "\\boxed{1}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

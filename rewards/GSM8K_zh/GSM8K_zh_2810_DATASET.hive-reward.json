@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jenny's property tax rate is 2%. Her house is currently worth $400,000. The city is about to build a new high-speed rail project nearby, which will increase her house's value by 25%. Jenny can only afford to spend $15,000/year on property tax. How many dollars worth of improvements can she make to her house before her property tax bill gets too high?",
+  "checkpoint": [
+    {
+      "\\boxed{250000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

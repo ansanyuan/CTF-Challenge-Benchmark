@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：George and Amelia are picking oranges and apples at an orchard. George picks 45 oranges and 5 more apples than Amelia. Amelia picks 18 fewer oranges than George and 15 apples. How many fruits do they pick altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{107}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

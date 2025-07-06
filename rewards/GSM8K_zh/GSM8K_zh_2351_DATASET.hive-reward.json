@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：For Roger's phone to function optimally, he can have a maximum of 50 apps on his phone. However, the recommended number of apps is 35. If Roger has twice the recommended number of apps, how many apps must he delete for his phone to function optimally again?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

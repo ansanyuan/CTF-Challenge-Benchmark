@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mike wants to be the best goalkeeper on his soccer team. He practices for 3 hours every weekday, on Saturdays he practices for 5 hours, and he takes Sundays off. How many hours will he practice from now until the next game, if his team has a game in 3 weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{60}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

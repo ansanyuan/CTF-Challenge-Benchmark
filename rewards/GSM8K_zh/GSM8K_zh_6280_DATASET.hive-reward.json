@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Michael makes birdhouses to sell at craft shows. He charges $22 for each large birdhouse, $16 for each medium birdhouse, and $7 for each small birdhouse. This week, he sold 2 large birdhouses, 2 medium birdhouses, and 3 small birdhouses. How much money, in dollars, did he make this week?",
+  "checkpoint": [
+    {
+      "\\boxed{97}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

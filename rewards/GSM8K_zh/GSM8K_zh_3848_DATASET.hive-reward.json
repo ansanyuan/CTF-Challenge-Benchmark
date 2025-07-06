@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：All people named Barry are nice, while only half of the people named Kevin are nice.  Three-fourths of people named Julie are nice, while 10% of people named Joe are nice.  If a crowd contains 24 people named Barry, 20 people named Kevin, 80 people named Julie, and 50 people named Joe, how many nice people are in the crowd?",
+  "checkpoint": [
+    {
+      "\\boxed{99}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

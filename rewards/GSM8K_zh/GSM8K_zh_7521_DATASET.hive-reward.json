@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John buys twice as many red ties as blue ties.  The red ties cost 50% more than blue ties.  He spent $200 on blue ties that cost $40 each. How much did he spend on ties?",
+  "checkpoint": [
+    {
+      "\\boxed{800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

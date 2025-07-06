@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A store ordered 300 more than twice as many pens as it did pencils at $5 each. If the cost of a pencil was $4, and the store ordered 15 boxes, each having 80 pencils, calculate the total amount of money they paid for the stationery.",
+  "checkpoint": [
+    {
+      "\\boxed{18300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

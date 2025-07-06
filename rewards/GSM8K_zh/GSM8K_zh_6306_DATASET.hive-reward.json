@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Delta, Beta and Gamma decided to share 40 donuts. Delta took 8 donuts and Beta took three times as many as Gamma. How many donuts did Gamma receive?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

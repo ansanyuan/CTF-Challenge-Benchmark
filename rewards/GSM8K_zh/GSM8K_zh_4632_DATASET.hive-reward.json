@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A reporter is paid by the word and per article. She earns $.1 per word. She earns $60 per article. She has to finish three stories in the next 4 hours. She averages 10 words a minute. How much can she expect to earn per hour if she writes the entire time?",
+  "checkpoint": [
+    {
+      "\\boxed{105}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

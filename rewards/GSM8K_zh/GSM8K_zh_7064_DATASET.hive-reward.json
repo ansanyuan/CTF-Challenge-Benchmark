@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Facebook decided to award a productivity bonus to all its female employees who are mothers. This productivity bonus will total 25% of Facebook's annual earnings, which was $5,000,000 for the year 2020. It is known that Facebook employs 3300 employees; one-third are men, and of the women, 1200 are not mothers. How much was the bonus that each female mother employee received, assuming each one received an equal amount?",
+  "checkpoint": [
+    {
+      "\\boxed{1250}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

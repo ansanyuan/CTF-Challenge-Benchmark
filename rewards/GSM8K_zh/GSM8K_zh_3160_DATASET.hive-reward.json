@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Layla is feeding her pet fish. She has two Goldfish which each get one teaspoon of fish food. Her 3 Swordtails each get 2 teaspoons of food. Her 8 Guppies each eat half a teaspoon of food. How much food does she have to give to her fish in total?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

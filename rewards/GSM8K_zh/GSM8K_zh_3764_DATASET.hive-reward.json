@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cooper makes 7 apple pies a day. He does this for 12 days. Ashley then eats 50 of his pies. How many apple pies remain with Cooper?",
+  "checkpoint": [
+    {
+      "\\boxed{34}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

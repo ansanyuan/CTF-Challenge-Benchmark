@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Maria invited 4 of her friends over for a water balloon fight in the backyard. At the start of the game, Maria gave each of her friends 2 water balloons. She had one water balloon for herself.  Then her mom came out and gave each person 3 more balloons.  How many total balloons did the girls have?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

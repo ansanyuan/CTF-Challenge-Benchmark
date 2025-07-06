@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Polly the parakeet tweets all day long.  When she is happy, she tweets 18 times per minute.  When she is hungry, she tweets 4 times per minute.  And when she watches herself in the mirror, she tweets 45 times per minute.  During a time period where she is happy for 20 minutes, hungry for 20 minutes, and watches her reflection for 20 minutes, what is the total number of times she will tweet?",
+  "checkpoint": [
+    {
+      "\\boxed{1340}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Pat is hunting for sharks to take photos. For every photo he takes he earns $15. He sees a shark about every 10 minutes. His boat fuel costs $50 an hour. If he shark hunts for 5 hours, how much money can he expect to make in profit?",
+  "checkpoint": [
+    {
+      "\\boxed{200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

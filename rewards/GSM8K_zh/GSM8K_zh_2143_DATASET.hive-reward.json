@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carson is sorting seaweed for various uses. 50% of the seaweed is only good for starting fires. 25% of what's left can be eaten by humans, and the rest is fed to livestock. If Carson harvests 400 pounds of seaweed, how many pounds are fed to livestock?",
+  "checkpoint": [
+    {
+      "\\boxed{150}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

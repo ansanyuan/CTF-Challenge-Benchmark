@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：There are $2^{10} = 1024$ possible $10$ -letter strings in which each letter is either an A or a B. Find the number of such strings that do not have more than $3$ adjacent letters that are identical.",
-    "checkpoint": [
-        {
-            "548": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：There are $2^{10} = 1024$ possible $10$ -letter strings in which each letter is either an A or a B. Find the number of such strings that do not have more than $3$ adjacent letters that are identical.",
+  "checkpoint": [
+    {
+      "\\boxed{548}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Five food companies sponsored a local food bank. Foster Farms donated 45 dressed chickens; American Summits donated twice the number of bottled water than the number of dressed chicken donated by Foster Farms; Hormel donated three times the number of dressed chickens that Foster Farms donated; Boudin Butchers donated one-third of the number of dressed chickens that Hormel donated; Del Monte Foods donated 30 fewer bottles of water than American Summits. How many food items did the companies donate in total?",
+  "checkpoint": [
+    {
+      "\\boxed{375}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Olivia earns $9 per hour.  She worked 4 hours on Monday, 3 hours on Wednesday and 6 hours on Friday.  How much money did Olivia make this week?",
+  "checkpoint": [
+    {
+      "\\boxed{117}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

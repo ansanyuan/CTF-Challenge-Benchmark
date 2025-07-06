@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ryan plants 2 flowers a day in his garden. After 15 days, how many flowers does he have if 5 did not grow?",
+  "checkpoint": [
+    {
+      "\\boxed{25}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

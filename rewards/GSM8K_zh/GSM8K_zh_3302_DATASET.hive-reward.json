@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Quinn catches twice the amount of frogs as Alster who caught 2.  Bret catches three times the amount of frogs as Quinn.  How many frogs did Bret catch?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

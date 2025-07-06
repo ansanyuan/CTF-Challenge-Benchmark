@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Call a permutation $a_1, a_2, \\ldots, a_n$ of the integers $1, 2, \\ldots, n$ quasi-increasing if $a_k \\leq a_{k+1} + 2$ for each $1 \\leq k \\leq n-1$ . For example, $53421$ and $14253$ are quasi-increasing permutations of the integers $1, 2, 3, 4, 5$ , but $45123$ is not. Find the number of quasi-increasing permutations of the integers $1, 2, \\ldots, 7$ .",
-    "checkpoint": [
-        {
-            "486": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Call a permutation $a_1, a_2, \\ldots, a_n$ of the integers $1, 2, \\ldots, n$ quasi-increasing if $a_k \\leq a_{k+1} + 2$ for each $1 \\leq k \\leq n-1$ . For example, $53421$ and $14253$ are quasi-increasing permutations of the integers $1, 2, 3, 4, 5$ , but $45123$ is not. Find the number of quasi-increasing permutations of the integers $1, 2, \\ldots, 7$ .",
+  "checkpoint": [
+    {
+      "\\boxed{486}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Basil gets 1/2 of a  dog cookie in the morning and before bed.  She gets 2 whole cookies during the day.  Basil’s cookies are packaged with 45 cookies per box.  How many boxes will she need to last her for 30 days?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

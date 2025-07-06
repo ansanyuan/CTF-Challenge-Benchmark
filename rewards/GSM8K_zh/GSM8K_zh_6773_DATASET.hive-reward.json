@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A group of friends walked into Juju’s Juice Bar ordered a glass of fruit juice each. They spent a total of $94. Some of them ordered mango juice, which sells for $5 a glass, while others asked for pineapple juice, at $6 a glass. If $54 was spent on pineapple juice, how many people were in the group?",
+  "checkpoint": [
+    {
+      "\\boxed{17}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

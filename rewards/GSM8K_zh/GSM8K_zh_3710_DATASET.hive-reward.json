@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：June liked to collect cat stickers.  She had a total of 76 in her collection.  Her twin sister Bonnie also collected cat stickers and had 63 in her collection.  For their birthday, their grandparents gave them 25 cat stickers each.  How many combined stickers did they have?",
+  "checkpoint": [
+    {
+      "\\boxed{189}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

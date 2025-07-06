@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kennedy's house is 600 square feet larger than 4 times Benedict's house. If Kennedy's house is 10000 square feet, how many square feet is Benedict's house?",
+  "checkpoint": [
+    {
+      "\\boxed{2350}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

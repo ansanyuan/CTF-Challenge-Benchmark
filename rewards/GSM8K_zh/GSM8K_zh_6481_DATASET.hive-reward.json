@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Hannah collects mugs. She already has 40 different mugs in 4 different colors. She has three times more blue mugs than red mugs and 12 yellow mugs. Considering that she has only half as many red mugs as yellow mugs, how many mugs of another color than mentioned does she have?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

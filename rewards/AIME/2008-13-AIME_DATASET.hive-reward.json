@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A regular hexagon with center at the origin in the complex plane has opposite pairs of sides one unit apart. One pair of sides is parallel to the imaginary axis. Let $R$ be the region outside the hexagon, and let $S = \\left\\lbrace\\frac{1}{z}|z \\in R\\right\\rbrace$ . Then the area of $S$ has the form $a\\pi + \\sqrt{b}$ , where $a$ and $b$ are positive integers. Find $a + b$ .",
-    "checkpoint": [
-        {
-            "29": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A regular hexagon with center at the origin in the complex plane has opposite pairs of sides one unit apart. One pair of sides is parallel to the imaginary axis. Let $R$ be the region outside the hexagon, and let $S = \\left\\lbrace\\frac{1}{z}|z \\in R\\right\\rbrace$ . Then the area of $S$ has the form $a\\pi + \\sqrt{b}$ , where $a$ and $b$ are positive integers. Find $a + b$ .",
+  "checkpoint": [
+    {
+      "\\boxed{29}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

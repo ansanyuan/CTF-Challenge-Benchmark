@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Timothy and Theresa go to the movies very often. Timothy went to the movies 7 more times in 2010 that he did in 2009. In 2009, Timothy went to the movies 24 times. In 2010 Theresa went to see twice as many movies as Timothy did, but in 2009, she only saw half as many as he did. How many movies did Timothy and Theresa go on in both 2009 and 2010?",
+  "checkpoint": [
+    {
+      "\\boxed{129}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

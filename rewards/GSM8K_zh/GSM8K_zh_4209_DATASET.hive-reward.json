@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A book is 98 pages long. Half of the pages are filled with images, and 11  with an introduction. Of the remaining pages, half are blank and the other half are filled with text. How many pages with text are there?",
+  "checkpoint": [
+    {
+      "\\boxed{19}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

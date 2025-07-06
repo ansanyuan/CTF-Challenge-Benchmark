@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Stephen ordered 2 large pizzas, both cut into 12 slices.  He ate 25% of the pizza.  His friend Pete ate 50% of the remaining pizza.  How many slices are left over?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

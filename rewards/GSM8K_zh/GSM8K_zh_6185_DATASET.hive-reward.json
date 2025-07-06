@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mrs. Kaplan has 1/4 as many pizza slices as Bobby has. If Bobby has 2 pizzas and each pizza has 6 slices, how many slices does Mrs. Kaplan have?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

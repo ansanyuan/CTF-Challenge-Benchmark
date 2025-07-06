@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A school cafeteria uses ground mince to cook lasagnas and cottage pies. They make 100 lasagnas, which use 2 pounds of ground mince each, and cottage pies, which use 3 pounds of ground mince each. If the cafeteria has used 500 pounds of ground mince in total, how many cottage pies did they make?",
+  "checkpoint": [
+    {
+      "\\boxed{100}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

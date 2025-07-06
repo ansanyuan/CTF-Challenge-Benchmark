@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A cobra, which has 70 spots, has twice as many spots as a mamba. If there are 40 cobras and 60 mambas in a snake park, what is half the number of spots they all have combined?",
+  "checkpoint": [
+    {
+      "\\boxed{2450}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

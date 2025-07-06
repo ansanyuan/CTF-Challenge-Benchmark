@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a shop, there is a sale of clothes. Every shirt costs $5, every hat $4, and a pair of jeans $10. How much do you need to pay for three shirts, two pairs of jeans, and four hats?",
+  "checkpoint": [
+    {
+      "\\boxed{51}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

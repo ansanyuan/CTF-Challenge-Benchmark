@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The movie theater sold 18 more than three times the number of tickets to the horror movie as it did to the romance movie. If the theater sold 25 tickets to the romance movie, how many tickets did it sell to the horror movie?",
+  "checkpoint": [
+    {
+      "\\boxed{93}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

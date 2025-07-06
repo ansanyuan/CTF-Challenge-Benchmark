@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Yvonne swims 10 laps in 5 minutes.  Her younger sister can swim half as many laps as Yvonne in the same time frame.  Their brother Joel can swim three times the number of laps as the youngest sister.  How many laps can Joel swim?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

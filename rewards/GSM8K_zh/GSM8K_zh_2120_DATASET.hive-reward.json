@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A class of 12 students was about to share 108 oranges equally among themselves when it was discovered that 36 of the oranges were bad and had to be thrown away. How many oranges less will each student get now than if no orange had to be thrown away?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

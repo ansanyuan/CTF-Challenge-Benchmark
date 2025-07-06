@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At 30, Anika is 4/3 the age of Maddie. What would be their average age in 15 years?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

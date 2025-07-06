@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A waterpark opens up and charges $30 for admission.  Kids' tickets are half price.  If a group of people brings a soda, they can get 20% off the total price of admission.  Janet gets tickets for 10 people and 4 of them are children.  She buys a soda for $5 to take advantage of the discount for her group.  How much did she pay for everything?",
+  "checkpoint": [
+    {
+      "\\boxed{197}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

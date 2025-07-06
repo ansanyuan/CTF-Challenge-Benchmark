@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jenny has a tummy ache. Her brother Mike says that it is because Jenny ate 5 more than thrice the number of chocolate squares that he ate.  If Mike ate 20 chocolate squares, how many did Jenny eat?",
+  "checkpoint": [
+    {
+      "\\boxed{65}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

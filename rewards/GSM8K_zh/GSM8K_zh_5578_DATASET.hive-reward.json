@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：How many cheese balls are in a 35oz barrel if the 24oz barrel has 60 servings and each serving has 12 cheese balls?",
+  "checkpoint": [
+    {
+      "\\boxed{1050}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

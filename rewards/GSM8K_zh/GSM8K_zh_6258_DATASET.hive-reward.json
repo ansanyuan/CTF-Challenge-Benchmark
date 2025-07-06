@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Droid owns a coffee shop. He uses 3 bags of coffee beans every morning, he uses triple that number in the afternoon than in the morning, and he uses twice the morning number in the evening. How many bags of coffee beans does he use every week?",
+  "checkpoint": [
+    {
+      "\\boxed{126}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mary is trying to count the animals in the petting zoo, but they kept moving around so she double-counts 7 sheep and forgets to count 3 pigs. If Mary thinks there are 60 animals, how many are there really?",
+  "checkpoint": [
+    {
+      "\\boxed{56}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Billy weighs 9 pounds more than Brad. Brad weighs 5 pounds more than Carl. If Carl weighs 145 pounds, how much does Billy weigh, in pounds?",
+  "checkpoint": [
+    {
+      "\\boxed{159}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

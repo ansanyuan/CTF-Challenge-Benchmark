@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marla has a grid of squares that has 10 rows and 15 squares in each row. She colors 4 rows of 6 squares in the middle of the grid with red. She colors all squares on the first 2 and last 2 rows with blue. Then she colors the rest with green. How many squares does Marla color green?",
+  "checkpoint": [
+    {
+      "\\boxed{66}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

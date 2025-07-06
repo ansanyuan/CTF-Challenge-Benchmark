@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On the planet Popton, there are two races of beings: the Hoopits and Neglarts.  Each Hoopit has 3 toes on each of their 4 hands, while each Neglart only has 2 toes on each of their 5 hands. If a Popton automated driverless school bus always carries 7 Hoopit students and 8 Neglart students, how many toes are on the Popton school bus?",
+  "checkpoint": [
+    {
+      "\\boxed{164}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

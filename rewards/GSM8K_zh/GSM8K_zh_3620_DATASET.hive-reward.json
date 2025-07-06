@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a restaurant, one cup of coffee is $6 and a piece of cheesecake $10. When buying them together, the client gets a 25% discount. What is the final price of such a set?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

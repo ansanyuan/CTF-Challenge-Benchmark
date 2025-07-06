@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 3 kids waiting for the swings and twice as many kids waiting for the slide. If each kid waits 2 minutes for the swings and 15 seconds for the slide, how many seconds shorter is the shorter wait?",
+  "checkpoint": [
+    {
+      "\\boxed{270}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

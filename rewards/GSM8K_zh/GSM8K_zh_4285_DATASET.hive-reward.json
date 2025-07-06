@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jeff had 300 pencils and donated 30% of them. Vicki had twice as many pencils as Jeff and donated 3/4 of his pencils. How many pencils are there remaining altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{360}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

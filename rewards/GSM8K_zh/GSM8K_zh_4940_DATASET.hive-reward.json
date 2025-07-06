@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Five percent of the 300 senior students got a full merit college scholarship and ten percent of them got a half merit scholarship. How many senior students did not get any scholarships?",
+  "checkpoint": [
+    {
+      "\\boxed{255}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

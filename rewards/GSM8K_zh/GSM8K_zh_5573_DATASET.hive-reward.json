@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alicia had a wonderful birthday party where she got lots of presents. 10 of the presents were in small boxes. 12 of the presents were in medium boxes. A third of all the presents she is given are in large boxes. How many presents did Alicia get for her birthday?",
+  "checkpoint": [
+    {
+      "\\boxed{33}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

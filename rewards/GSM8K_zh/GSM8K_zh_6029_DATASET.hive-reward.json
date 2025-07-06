@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bethany loved riding horses.  She rode 1 hour after school every Monday, Wednesday, and Friday.  On Tuesday and Thursday, she rode for 30 min and on Saturdays, she could ride for 2 hours.  How many hours in total did she ride over a 2 week period?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

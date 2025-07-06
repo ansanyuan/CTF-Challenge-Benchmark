@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nathan is buying decorations for his wedding reception. The reception hall will have 20 tables. Each table needs a linen tablecloth ($25 to rent), 4 place settings ($10 each to rent), and a centerpiece. Each centerpiece will have 10 roses ($5 each) and 15 lilies ($4 each). How much will the decorations cost?",
+  "checkpoint": [
+    {
+      "\\boxed{3500}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

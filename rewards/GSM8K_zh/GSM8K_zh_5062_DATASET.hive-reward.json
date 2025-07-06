@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ruth goes to school 8 hours a day and 5 days a week. She is in math class 25% of this time. How many hours per week does she spend in math class?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

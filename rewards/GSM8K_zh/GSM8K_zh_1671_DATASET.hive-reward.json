@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If a basket is capable of holding 40 fruit altogether, and there are 3 times as many apples as oranges, how many oranges are there?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

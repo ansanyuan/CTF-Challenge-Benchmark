@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a building, there are a hundred ladies on the first-floor studying. There are three times that many girls at a party being held on the second floor of the building. How many ladies are on the two floors in total?",
+  "checkpoint": [
+    {
+      "\\boxed{400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

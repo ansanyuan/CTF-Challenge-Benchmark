@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tammy just got her hair cut. For every 14 haircuts, she gets a free additional haircut. She has gotten 5 free haircuts already. She is 5 haircuts away from another free one. How many haircuts has she gotten there?",
+  "checkpoint": [
+    {
+      "\\boxed{79}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

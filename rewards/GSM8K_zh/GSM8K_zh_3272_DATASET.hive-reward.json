@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On Monday, Sydney sends 5 texts each to Allison and Brittney. On Tuesday, she sends 15 texts to each of them. In total, how many texts did Sydney send to Allison and Brittney on both days?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

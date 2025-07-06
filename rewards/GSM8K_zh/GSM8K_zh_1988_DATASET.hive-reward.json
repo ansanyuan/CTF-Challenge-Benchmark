@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 120 cards in a box. If 2/5 of the cards are red, exactly 5/9 of the remainder are black, and the rest are green, calculate the number of green cards in the box?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

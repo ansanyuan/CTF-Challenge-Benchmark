@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A football team shares a single water cooler during practice.  During practice, linemen get the first water break and will drink 8 ounces each.  Skill position players get the second water break and drink 6 ounces each.  The team has 12 linemen and 10 skill position players.  If the cooler holds 126 ounces of water, how many skill position players must wait for the cooler to be refilled before they can get a drink?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

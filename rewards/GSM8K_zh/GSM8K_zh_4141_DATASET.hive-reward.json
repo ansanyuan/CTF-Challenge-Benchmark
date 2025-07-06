@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Michael scored 260 points during his junior year on the school basketball team. He scored 20% more points during his senior year. How many points did he score during both years?",
+  "checkpoint": [
+    {
+      "\\boxed{572}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

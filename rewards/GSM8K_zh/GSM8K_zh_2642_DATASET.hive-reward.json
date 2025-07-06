@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A camping site recorded a total of 150 campers for the past three weeks. Two weeks ago, there were 40 campers which was 10 more than the number of campers three weeks ago. How many campers were there last week?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

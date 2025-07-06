@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carlos has some gold quarters. If he spends them in a store, they are worth the regular amount. If he melts them down, he can get $100 per ounce. Each quarter weighs 1/5 of an ounce. How many times more money would he get from melting them down instead of spending them in a store?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

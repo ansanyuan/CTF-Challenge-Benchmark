@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Timothy has three times the number of pens that George owns. Sarah has half as many pens as Timothy. If George has 18 pens, how many pens does Sarah have?",
+  "checkpoint": [
+    {
+      "\\boxed{27}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

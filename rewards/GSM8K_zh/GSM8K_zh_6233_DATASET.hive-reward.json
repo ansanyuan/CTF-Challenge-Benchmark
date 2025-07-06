@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are four times as many boys at Lulu's party as girls. Each boy paid twice the money that each girl paid to attend the party. If there are 40 boys at the party and each boy paid $50 to attend the party, calculate the total amount of money collected at the party.",
+  "checkpoint": [
+    {
+      "\\boxed{2250}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

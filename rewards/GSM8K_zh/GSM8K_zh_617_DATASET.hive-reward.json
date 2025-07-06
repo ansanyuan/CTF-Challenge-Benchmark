@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kris is blowing u balloons for her sister’s party. She has 30 minutes to blow up as many balloons as possible and decides to enlist her brother’s help to increase the number of balloons. Kris can blow up a total of 2 balloon per minute, and her brother works twice as fast. After 15 minutes, her brother doubles his speed and works at this new speed for the remaining 15 minutes. After the 30 minutes, how many balloons, in total, did Kris and her brother blow up?",
+  "checkpoint": [
+    {
+      "\\boxed{240}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

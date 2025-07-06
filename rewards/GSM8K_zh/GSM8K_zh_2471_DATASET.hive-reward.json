@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：David and Brenda are playing Scrabble. Brenda is ahead by 22 points when she makes a 15-point play. David responds with a 32-point play. By how many points is Brenda now ahead?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

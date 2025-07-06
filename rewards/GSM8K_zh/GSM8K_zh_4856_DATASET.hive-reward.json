@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Danny helps his friends carpool to work. He has to drive 8 miles to the first friend's house, half that distance to the second friend's house, then 3 times the total distance driven so far to get to work. How many miles does Danny drive between the second friend's house and work?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

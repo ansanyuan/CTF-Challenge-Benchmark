@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Assume that $a$ , $b$ , $c$ and $d$ are positive integers such that $a^5 = b^4$ , $c^3 = d^2$ and $c - a = 19$ . Determine $d - b$ .",
-    "checkpoint": [
-        {
-            "757": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Assume that $a$ , $b$ , $c$ and $d$ are positive integers such that $a^5 = b^4$ , $c^3 = d^2$ and $c - a = 19$ . Determine $d - b$ .",
+  "checkpoint": [
+    {
+      "\\boxed{757}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

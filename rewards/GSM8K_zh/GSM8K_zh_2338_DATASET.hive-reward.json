@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The P.T.O. decided to provide shirts for the elementary students for track and field day. Each grade was given a different color. 101 Kindergartners wore orange shirts that cost $5.80 each. 113 first graders wore yellow shirts that cost $5 each. 107 second graders wore blue shirts that cost $5.60 each. 108 third graders wore green shirts that cost $5.25 each. How much did the P.T.O. spend on shirts for field day?",
+  "checkpoint": [
+    {
+      "\\boxed{2317}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

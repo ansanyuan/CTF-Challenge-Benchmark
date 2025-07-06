@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Scott, Mary, and Ken committed to raising $4,000 for their local children’s cancer hospital. Right now, Mary’s collection is five times what Ken has, but three times Scott’s funds. If Ken has $600, by how much have the three exceeded their goal?",
+  "checkpoint": [
+    {
+      "\\boxed{600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

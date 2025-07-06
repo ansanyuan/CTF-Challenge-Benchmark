@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rachel makes $12.00 as a waitress in a coffee shop.  In one hour, she serves 20 different people and they all leave her a $1.25 tip.  How much money did she make in that hour?",
+  "checkpoint": [
+    {
+      "\\boxed{37}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

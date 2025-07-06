@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A show debut and 200 people buy tickets.  For the second showing three times as many people show up.  If each ticket cost $25 how much did the show make?",
+  "checkpoint": [
+    {
+      "\\boxed{20000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

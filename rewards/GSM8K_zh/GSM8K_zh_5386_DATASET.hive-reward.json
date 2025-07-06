@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The ratio of boys to girls at the dance was 3:4. There were 60 girls at the dance. The teachers were 20% of the number of boys. How many people were at the dance?",
+  "checkpoint": [
+    {
+      "\\boxed{114}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

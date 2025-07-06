@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tim buys 3 loaves of bread.  Each loaf of bread has 20 slices.  He pays for the 3 loaves of bread with 2 $20 bills.  He gets $16 change.  How much does each slice cost, in cents?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

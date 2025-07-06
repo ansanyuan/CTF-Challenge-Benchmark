@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Points $A$ , $B$ , and $C$ lie in that order along a straight path where the distance from $A$ to $C$ is $1800$ meters. Ina runs twice as fast as Eve, and Paul runs twice as fast as Ina. The three runners start running at the same time with Ina starting at $A$ and running toward $C$ , Paul starting at $B$ and running toward $C$ , and Eve starting at $C$ and running toward $A$ . When Paul meets Eve, he turns around and runs toward $A$ . Paul and Ina both arrive at $B$ at the same time. Find the number of meters from $A$ to $B$ .",
-    "checkpoint": [
-        {
-            "800": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Points $A$ , $B$ , and $C$ lie in that order along a straight path where the distance from $A$ to $C$ is $1800$ meters. Ina runs twice as fast as Eve, and Paul runs twice as fast as Ina. The three runners start running at the same time with Ina starting at $A$ and running toward $C$ , Paul starting at $B$ and running toward $C$ , and Eve starting at $C$ and running toward $A$ . When Paul meets Eve, he turns around and runs toward $A$ . Paul and Ina both arrive at $B$ at the same time. Find the number of meters from $A$ to $B$ .",
+  "checkpoint": [
+    {
+      "\\boxed{800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

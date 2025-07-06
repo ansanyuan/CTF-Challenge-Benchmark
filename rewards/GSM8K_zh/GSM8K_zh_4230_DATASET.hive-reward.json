@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nate starts his camping trip with 70 matches. He drops 10 in a creek and his dog eats twice as many. How many matches does he have left?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

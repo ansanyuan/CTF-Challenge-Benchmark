@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A car uses 20 gallons of gas to travel 400 miles. Mr. Montero's car has 8 gallons in it. How many more gallons of gas does he need to travel 600 miles, back and forth?",
+  "checkpoint": [
+    {
+      "\\boxed{52}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

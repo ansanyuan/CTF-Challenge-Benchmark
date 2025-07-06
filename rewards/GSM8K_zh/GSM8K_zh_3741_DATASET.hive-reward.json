@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Grace's age is 3/8th the age of her grandmother. Her grandmother is twice the age of Grace's mother. If Grace's mother is 80 years old, how old is Grace?",
+  "checkpoint": [
+    {
+      "\\boxed{60}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

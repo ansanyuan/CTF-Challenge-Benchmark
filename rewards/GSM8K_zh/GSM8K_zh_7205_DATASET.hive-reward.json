@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A 4th grade class with 20 students and 3 teachers is going to a science museum.  The entrance ticket costs $5 each. How much will they pay for the entrance tickets?",
+  "checkpoint": [
+    {
+      "\\boxed{115}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

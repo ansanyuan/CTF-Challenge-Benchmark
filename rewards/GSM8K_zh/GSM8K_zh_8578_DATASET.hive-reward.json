@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Caroline is three times older than Ben. Ben is two times older than Chris. If Chris is 4, how old is Caroline?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

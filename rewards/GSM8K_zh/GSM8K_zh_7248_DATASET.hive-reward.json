@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A local music festival is held every year for three days.  The three day attendance this year was 2700 people.  The second day was rainy so only half the number of people that showed up the first day showed up the second day.  The third day was the finale, so attendance was triple the original day.  How many people attended the second day of the festival?",
+  "checkpoint": [
+    {
+      "\\boxed{300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

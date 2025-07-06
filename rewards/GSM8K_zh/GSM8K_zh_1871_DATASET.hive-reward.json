@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a triangle with angles A, B, and C, A is 60 degrees, and B is two times as big as C. Calculate the angle of B.",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

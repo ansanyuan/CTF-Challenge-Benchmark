@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In North Carolina, Jim bought 10 gallons of gas at $2.00/gallon.  He paid $1.00 more per gallon in Virginia where he bought another 10 gallons of gas.  How much has he spent on gas?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

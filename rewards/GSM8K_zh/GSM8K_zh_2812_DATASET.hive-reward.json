@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brenda raises mice, and her adult mice recently had three litters of 8 each. She gave a sixth of the baby mice to her friend Robbie to keep as pets. She sold three times the number of babies she gave Robbie to a pet store. Half of the remaining mice were sold to snake owners as feeder mice. How many baby mice did Brenda have left?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

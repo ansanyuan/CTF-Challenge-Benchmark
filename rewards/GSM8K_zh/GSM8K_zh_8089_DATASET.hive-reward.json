@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Scarlett found an aquarium for $10.00 at a yard sale.  At the pet store, she bought 2 bags of rocks for $2.50 each and 3 pieces of coral at $2.00 apiece.  She bought 20 fish at $0.50 each and she needed fish food that cost $2.00.  How much did she spend?",
+  "checkpoint": [
+    {
+      "\\boxed{33}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

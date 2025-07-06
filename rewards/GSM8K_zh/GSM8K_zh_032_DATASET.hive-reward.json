@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Noah is a painter. He paints pictures and sells them at the park. He charges $60 for a large painting and $30 for a small painting. Last month he sold eight large paintings and four small paintings. If he sold twice as much this month, how much is his sales for this month?",
+  "checkpoint": [
+    {
+      "\\boxed{1200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

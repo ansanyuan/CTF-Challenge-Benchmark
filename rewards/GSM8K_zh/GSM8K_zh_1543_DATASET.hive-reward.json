@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Janet has a business selling custom collars for dogs and cats. If it takes 18 inches of nylon to make a dog collar and 10 inches to make a cat collar, how much nylon does she need to make 9 dog collars and 3 cat collars?",
+  "checkpoint": [
+    {
+      "\\boxed{192}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

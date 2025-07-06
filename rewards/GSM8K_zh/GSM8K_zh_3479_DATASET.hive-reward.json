@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Pat is buying supplies for S'mores. He and his friends will each eat 3 S'mores. There are 8 of them in total. It costs $3 in supplies to make 4 S'mores. How much will it cost to buy all the supplies?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

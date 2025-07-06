@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Annie calculated she has three times more toys than Mike, and two less than Tom. Mike has 6 toys. How many toys do Annie, Mike, and Tom have in total?",
+  "checkpoint": [
+    {
+      "\\boxed{56}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

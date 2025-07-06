@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dennis collected 10 rocks. He put all of them in his aquarium but his fish ate half of them. He was able to make the fish spit two out. How many of Dennis's rocks are left?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

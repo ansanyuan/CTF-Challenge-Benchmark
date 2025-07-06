@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Genevieve is a computer programmer working on information security software. She has written 4300 lines of code so far. Every 100 lines of code, she debugs the program. If each debugging only finds three errors, and Genevieve fixes the errors each time before proceeding, how many errors has she fixed so far?",
+  "checkpoint": [
+    {
+      "\\boxed{129}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

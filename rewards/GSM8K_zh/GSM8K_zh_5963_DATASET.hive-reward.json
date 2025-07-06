@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Last week, Charles bought a t-shirt for $30, a backpack for $10, and a blue cap for $5. The store gave him a discount and, in total, he only spent $43. How much of a discount did they give him, in dollars?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

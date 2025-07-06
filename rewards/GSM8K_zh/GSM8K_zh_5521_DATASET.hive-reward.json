@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John's new computer cost $1500.  He needs to get a monitor and other peripherals that cost 1/5 that much.  He also wants to upgrade the $300 video card in the base computer with one that costs twice as much.  How much did he spend?",
+  "checkpoint": [
+    {
+      "\\boxed{2100}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

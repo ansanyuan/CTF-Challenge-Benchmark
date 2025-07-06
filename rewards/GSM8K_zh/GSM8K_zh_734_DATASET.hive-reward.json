@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Henry, John and Leo collected some seashells from the beach. Henry collected 11, Paul 24. If they initially collected 59 seashells in total and Leo gave a quarter of his collection to a younger kid they met, how many do they have in total now?",
+  "checkpoint": [
+    {
+      "\\boxed{53}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

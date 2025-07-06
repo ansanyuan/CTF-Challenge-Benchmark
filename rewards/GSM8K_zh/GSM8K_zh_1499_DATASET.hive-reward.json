@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kristy, a sales representative earns a basic salary of $7.50 per hour plus a 16% commission on everything she sells. This month, she worked for 160 hours and sold $25000 worth of items. Her monthly budget for food, clothing, rent, transportation, bills and savings is 95% of her total monthly earnings and the rest will be put towards insurance. How much did she allocate to insurance?",
+  "checkpoint": [
+    {
+      "\\boxed{260}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

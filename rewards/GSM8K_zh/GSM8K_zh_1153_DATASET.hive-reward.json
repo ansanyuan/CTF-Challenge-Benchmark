@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Texas Integrated School has 15 classes and has 20 students per class.  They added five more classes, how many students will they have now?",
+  "checkpoint": [
+    {
+      "\\boxed{400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

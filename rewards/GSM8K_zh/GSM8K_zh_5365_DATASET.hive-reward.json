@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jenna runs a wholesale business. She pays $3 for each widget and resells it for $8. Every month she has to pay $10,000 in rent, 20% of her total profit in taxes, and $2,500 each to four workers. If Jenna sells 5000 widgets one month, how much is her total profit or loss?",
+  "checkpoint": [
+    {
+      "\\boxed{4000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

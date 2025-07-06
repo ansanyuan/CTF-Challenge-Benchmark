@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Three train stations are 2 hours apart from one another. Kira travels from the first station to the third, taking a 30 minutes break at the second station. What's the total time, in minutes, that Kira takes to travel between the first and third station?",
+  "checkpoint": [
+    {
+      "\\boxed{270}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

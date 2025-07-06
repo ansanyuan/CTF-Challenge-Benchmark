@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James buys twice as many toy soldiers as toy cars.  He buys 20 toy cars.  How many total toys does he buy?",
+  "checkpoint": [
+    {
+      "\\boxed{60}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Janet uses her horses' manure as fertilizer. One horse produces 5 gallons of fertilizer per day. Once Janet has collected enough fertilizer, she'll spread it over 20 acres of farmland. Each acre needs 400 gallons of fertilizer and Janet can spread fertilizer over 4 acres per day. If Janet has 80 horses, how long will it take until all her fields are fertilized?",
+  "checkpoint": [
+    {
+      "\\boxed{25}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

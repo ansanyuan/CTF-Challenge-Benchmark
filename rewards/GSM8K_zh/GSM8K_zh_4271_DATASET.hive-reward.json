@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Barney the dinosaur weighs 1500 pounds more than five regular dinosaurs combined. If each regular dinosaur weighs 800 pounds, find the combined weight of Barney and the five regular dinosaurs' weights?",
+  "checkpoint": [
+    {
+      "\\boxed{9500}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

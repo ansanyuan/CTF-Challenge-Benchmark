@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Job is a farmer who rears cattle and grows crops. In total he has 150 hectares of land. 25 hectares are occupied by his house and farm machinery, and 15 hectares have been reserved for future expansion. 40 hectares are dedicated to rearing cattle. Assuming the rest of his land is used for crops, how many hectares of land does Job use for crop production?",
+  "checkpoint": [
+    {
+      "\\boxed{70}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

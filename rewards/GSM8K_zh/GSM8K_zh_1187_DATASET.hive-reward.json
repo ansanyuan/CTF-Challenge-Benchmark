@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John decides to install a ramp in his house.  He needs to get permits which cost $250.  After that, he hires a contractor which costs $150 an hour and the guy works for 3 days at 5 hours per day.  He also pays an inspector 80% less to make sure it is OK.  How much was the total cost?",
+  "checkpoint": [
+    {
+      "\\boxed{2950}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

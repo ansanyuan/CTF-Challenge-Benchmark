@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Three friends: Mike, Jim, and Tony decided to play a game. After 3 rounds Mike has 21 points, Jim 3 points less than Mike, and Tony 2 times more than Mike. In the fourth round, every player gets an extra point if they have over 20 points. How many points do all three players have in total after the extra points had been distributed?",
+  "checkpoint": [
+    {
+      "\\boxed{83}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Hugo can fold a small box in 3 seconds and a medium one in twice that time. Tom can fold both the small and medium boxes in 4 seconds. If Hugo and Tom want to leave as early as possible, how long (in seconds) will it take them to fold 2400 small boxes and 1800 medium boxes?",
+  "checkpoint": [
+    {
+      "\\boxed{7200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

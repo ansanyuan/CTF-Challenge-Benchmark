@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 48 crayons in the box.  Kiley takes 1/4 of them away.  Joe takes away half of the remaining crayons, how many crayons are left?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

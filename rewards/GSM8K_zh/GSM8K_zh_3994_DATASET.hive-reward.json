@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James opens up a flower shop.  He needs to pay rent of $1200 a week with an additional 20% of rent to pay for utilities and he has 2 employees per shift with the store open 16 hours a day for 5 days a week.  If he pays each employee $12.50 an hour, what are his weekly expenses to run the store?",
+  "checkpoint": [
+    {
+      "\\boxed{3440}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

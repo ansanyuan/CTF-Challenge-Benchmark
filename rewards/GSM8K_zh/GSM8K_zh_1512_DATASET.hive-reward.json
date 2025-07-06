@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Janice opened an art book that she had found in the library and found 5 drawings on the first page. After opening the first ten pages, she realized that the number of drawings on each page increased by five after every page. How many drawings were in the first five pages?",
+  "checkpoint": [
+    {
+      "\\boxed{75}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

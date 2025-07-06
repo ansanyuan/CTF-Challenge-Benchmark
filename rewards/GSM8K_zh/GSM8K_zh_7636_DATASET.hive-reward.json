@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If a bag of marbles costs $20 and the price increases by 20% of the original price every two months, how much would a bag of marbles cost after 36 months?",
+  "checkpoint": [
+    {
+      "\\boxed{92}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ali and Ernie lined up boxes to make circles. Ali used 8 boxes to make each of his circles and Ernie used 10 for his. If they had 80 boxes to begin with and Ali makes 5 circles, how many circles can Ernie make?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

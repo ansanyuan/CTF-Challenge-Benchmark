@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Emily just purchased 2 pairs of curtains for $30.00 each and 9 wall prints at $15.00 each.  The store also offers an installation service.  For $50.00 they will come to your house and professionally hang your curtains and prints.  If Emily agrees to this service, how much will her entire order cost?",
+  "checkpoint": [
+    {
+      "\\boxed{245}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

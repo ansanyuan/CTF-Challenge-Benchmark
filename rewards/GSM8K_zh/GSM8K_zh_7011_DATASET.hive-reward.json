@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：For a New Year’s Eve appetizer, Alex is serving caviar with potato chips and creme fraiche.  He buys 3 individual bags of potato chips for $1.00 each and dollops each chip with some creme fraiche that costs $5.00 and then the $73.00 caviar.  This appetizer will serve 3 people.  How much will this appetizer cost per person?",
+  "checkpoint": [
+    {
+      "\\boxed{27}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

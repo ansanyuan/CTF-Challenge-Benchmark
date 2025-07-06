@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Matt and Blake want to watch every episode of the show The Office. There are 201 episodes. If they watch 1 episode every Monday and 2 episodes every Wednesday each week, how many weeks will it take them to watch the whole series?",
+  "checkpoint": [
+    {
+      "\\boxed{67}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At the Boisjoli farm, there is a chicken coop where 270 hens and 3 roosters live. Every morning, around 8 a.m., Ms. Mosel goes to collect the eggs because, every morning, each hen lays one. Then, after 1 hour of collection, she puts all these eggs in boxes of 6. It takes her another 40 minutes. Once all this is done, Ms. Mosel brings all the boxes of eggs to her village. She does it from Monday to Sunday, because chickens don't have a day off. How many boxes does Ms. Mosel fill each week?",
+  "checkpoint": [
+    {
+      "\\boxed{315}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

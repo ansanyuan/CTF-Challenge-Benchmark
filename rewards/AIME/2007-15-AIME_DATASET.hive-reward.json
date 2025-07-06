@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Four circles $\\omega,$ $\\omega_{A},$ $\\omega_{B},$ and $\\omega_{C}$ with the same radius are drawn in the interior of triangle $ABC$ such that $\\omega_{A}$ is tangent to sides $AB$ and $AC$ , $\\omega_{B}$ to $BC$ and $BA$ , $\\omega_{C}$ to $CA$ and $CB$ , and $\\omega$ is externally tangent to $\\omega_{A},$ $\\omega_{B},$ and $\\omega_{C}$ . If the sides of triangle $ABC$ are $13,$ $14,$ and $15,$ the radius of $\\omega$ can be represented in the form $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n.$",
-    "checkpoint": [
-        {
-            "389": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Four circles $\\omega,$ $\\omega_{A},$ $\\omega_{B},$ and $\\omega_{C}$ with the same radius are drawn in the interior of triangle $ABC$ such that $\\omega_{A}$ is tangent to sides $AB$ and $AC$ , $\\omega_{B}$ to $BC$ and $BA$ , $\\omega_{C}$ to $CA$ and $CB$ , and $\\omega$ is externally tangent to $\\omega_{A},$ $\\omega_{B},$ and $\\omega_{C}$ . If the sides of triangle $ABC$ are $13,$ $14,$ and $15,$ the radius of $\\omega$ can be represented in the form $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n.$",
+  "checkpoint": [
+    {
+      "\\boxed{389}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

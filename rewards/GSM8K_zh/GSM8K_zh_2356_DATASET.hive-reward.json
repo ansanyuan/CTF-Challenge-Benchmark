@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Debbie works at a post office packing boxes to mail. Each large box takes 4 feet of packing tape to seal, each medium box takes 2 feet of packing tape to seal, and each small box takes 1 foot of packing tape to seal. Each box also takes 1 foot of packing tape to stick the address label on. Debbie packed two large boxes, eight medium boxes, and five small boxes this afternoon. How much tape did she use?",
+  "checkpoint": [
+    {
+      "\\boxed{44}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

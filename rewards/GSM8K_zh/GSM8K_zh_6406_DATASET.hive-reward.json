@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tobias went to a swimming pool for 3 hours. Swimming every 100 meters took him 5 minutes, but every 25 minutes he had to take a 5-minute pause. How many meters did Tobias swim during his visit to the swimming pool?",
+  "checkpoint": [
+    {
+      "\\boxed{3000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

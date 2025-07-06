@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Porter earns $8 per day and works 5 times a week. His manager is asking him to work an extra day that promises him an extra fifty percent on top of his daily rate. How much money will he earn after a month if he renders overtime every week?",
+  "checkpoint": [
+    {
+      "\\boxed{208}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

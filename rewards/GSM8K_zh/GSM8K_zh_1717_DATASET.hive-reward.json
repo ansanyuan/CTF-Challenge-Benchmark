@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Toby is in a juggling contest with a friend. The winner is whoever gets the most objects rotated around in 4 minutes. Toby has 5 baseballs and each one makes 80 rotations. His friend has 4 apples and each one makes 101 rotations. How many total rotations of objects are made by the winner?",
+  "checkpoint": [
+    {
+      "\\boxed{404}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

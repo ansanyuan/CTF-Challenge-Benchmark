@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In the first week, Judy read for 15 minutes each night before going to sleep. In the second week, she read a total of 100 pages. If she can read 2 pages per 1.5 minutes, how many pages did she read in two weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{240}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

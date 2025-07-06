@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Vince can staple 30 reports every 15 minutes.  If he was stapling reports from 8:00 AM until 11:00 PM, how many reports did he staple altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{360}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

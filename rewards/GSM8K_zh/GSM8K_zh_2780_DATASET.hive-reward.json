@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Olaf is playing a game with his dad. He scored three times more points than his dad, who scored 7 points. How many points did they score in total?",
+  "checkpoint": [
+    {
+      "\\boxed{28}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Iris went to the mall to buy clothes.  She bought three jackets at $10 each, two pairs of shorts at $6 each, and four pairs of pants at $12 each. How much did she spend in all?",
+  "checkpoint": [
+    {
+      "\\boxed{90}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

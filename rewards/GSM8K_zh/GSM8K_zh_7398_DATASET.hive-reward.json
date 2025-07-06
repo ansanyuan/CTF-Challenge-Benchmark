@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ryan is looking for people to crowdfund his new business idea.  If the average person funds $10 to a project they're interested in, how many people will Ryan have to recruit to fund a $1,000 business if he has $200 already?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

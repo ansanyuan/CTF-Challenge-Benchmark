@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Zara bought 24 cows, 7 sheep, and some goats. Next week, she will transport all of them to a new farm in 3 equally-sized groups of 48 animals per group. How many goats does she own?",
+  "checkpoint": [
+    {
+      "\\boxed{113}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

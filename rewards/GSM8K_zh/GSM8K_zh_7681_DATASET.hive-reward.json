@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Joe's bag of Halloween candy has 25 chocolate bars and 80 candied apples. Each chocolate bar weighs twice as much as each candied apple. If each chocolate bar weighs 40g, how much does Joe's bag of candy weigh, in grams?",
+  "checkpoint": [
+    {
+      "\\boxed{2600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

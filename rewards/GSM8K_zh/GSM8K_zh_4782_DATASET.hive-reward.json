@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Joseph drives his car at 50 mph for 2.5 hours. Kyle drives his car at 62 mph for 2 hours. How many more miles does Joseph drive than Kyle?",
+  "checkpoint": [
+    {
+      "\\boxed{1}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

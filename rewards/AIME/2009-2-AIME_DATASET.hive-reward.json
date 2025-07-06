@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Suppose that $a$ , $b$ , and $c$ are positive real numbers such that $a^{\\log_3 7} = 27$ , $b^{\\log_7 11} = 49$ , and $c^{\\log_{11}25} = \\sqrt{11}$ . Find \\[a^{(\\log_3 7)^2} + b^{(\\log_7 11)^2} + c^{(\\log_{11} 25)^2}.\\]",
-    "checkpoint": [
-        {
-            "469": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Suppose that $a$ , $b$ , and $c$ are positive real numbers such that $a^{\\log_3 7} = 27$ , $b^{\\log_7 11} = 49$ , and $c^{\\log_{11}25} = \\sqrt{11}$ . Find \\[a^{(\\log_3 7)^2} + b^{(\\log_7 11)^2} + c^{(\\log_{11} 25)^2}.\\]",
+  "checkpoint": [
+    {
+      "\\boxed{469}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Johnny is a dog walker. He can walk 3 dogs at once. He gets paid $15 for a 30-minute walk and $20 for a 60-minute walk. Johnny works for 4 hours per day. If he always walks the maximum number of dogs possible and 6 dogs have 60-minute walks per day, how much money does he make in a week where he works 5 days?",
+  "checkpoint": [
+    {
+      "\\boxed{1500}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

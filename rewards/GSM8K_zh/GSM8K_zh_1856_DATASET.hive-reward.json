@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a town where 60% of the citizens own a pet, half own a dog and 30 own a cat. How many citizens are in the town?",
+  "checkpoint": [
+    {
+      "\\boxed{100}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bubba bought a new two-story warehouse.  When empty, the first floor of the building contains twice as much floor space for storage as the second floor.  The first items he brought into his empty building were several thousand boxes; and he put them all on the second floor, which filled one-quarter of the second floor storage space.  If the boxes used up 5,000 square feet of storage space, how many square feet of storage space is still available in the building?",
+  "checkpoint": [
+    {
+      "\\boxed{55000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

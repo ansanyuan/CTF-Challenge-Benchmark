@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom decides to lease a car.  He drives 50 miles on Monday, Wednesday, and Friday, and Sunday for the rest of the days he drives 100 miles.  He has to pay $.1 per mile he drives.  He also has to pay a weekly fee of $100.  How much does he have to pay in a year.",
+  "checkpoint": [
+    {
+      "\\boxed{7800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

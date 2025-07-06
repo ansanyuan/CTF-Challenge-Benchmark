@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 30 major league baseball stadiums. Zach has a goal to take his son to see at least one game at each one. He has calculated the average cost for them to travel and see a game will be $900 per stadium. Zach can save $1,500 per year for his baseball stadium trips. How many years will it take Zach to accomplish his goal?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

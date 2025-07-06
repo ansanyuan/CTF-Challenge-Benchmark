@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Theo, Mason, and Roxy are siblings.  Theo drinks 8 cups of water every day. Mason drinks 7 cups of water.  Roxy drinks 9 cups of water every day.  In one week, how many cups of water do the siblings drink together?",
+  "checkpoint": [
+    {
+      "\\boxed{168}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

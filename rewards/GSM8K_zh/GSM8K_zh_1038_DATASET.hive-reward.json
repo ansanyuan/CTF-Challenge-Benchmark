@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John buys a gaming PC for $1200.  He decides to replace the video card in it. He sells the old card for $300 and buys a new one for $500.  How much money did he spend on his computer, counting the savings from selling the old card?",
+  "checkpoint": [
+    {
+      "\\boxed{1400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

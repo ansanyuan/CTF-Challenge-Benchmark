@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The caretaker of the docks needs to buy some new line. He wants 3 feet of line for every foot of dock. Right now, there is 200 feet of dock, and he has 6 feet of new line. How many feet of line does he need to buy in total?",
+  "checkpoint": [
+    {
+      "\\boxed{594}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

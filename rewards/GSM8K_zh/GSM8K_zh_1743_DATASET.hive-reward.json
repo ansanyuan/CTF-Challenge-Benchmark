@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jean is a customer service rep and answered 35 phone calls on Monday.  On Tuesday, she answered 46 and took 27 calls on Wednesday.  On Thursday she answered 61 calls and finished off answering 31 calls on Friday.  What’s the average number of calls she answers per day?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

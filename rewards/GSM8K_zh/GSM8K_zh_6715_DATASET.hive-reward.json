@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Paul's grades last semester were very bad. To encourage him, Paul's dad promised him $5 for every B+ he gets in his next scorecard and twice that amount for every A. If Paul obtains at least two A+ he'll double the previous rewards and would receive a flat $15 for every A+ obtained (with no extra bonus). If there are 10 courses with grades in Paul's scorecard, what's the maximum amount he could receive from his dad?",
+  "checkpoint": [
+    {
+      "\\boxed{190}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

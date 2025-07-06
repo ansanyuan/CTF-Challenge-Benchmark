@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A luxury bag costs $3000. A reseller wants to get a 15% profit. How much should she sell the bag?",
+  "checkpoint": [
+    {
+      "\\boxed{3450}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

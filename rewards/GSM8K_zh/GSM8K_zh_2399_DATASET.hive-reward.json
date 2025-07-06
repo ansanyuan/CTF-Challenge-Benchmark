@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A piece of wire 5 feet 4 inches long was divided into 4 equal parts. How long was each part in inches if 1 foot is equal to 12 inches?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

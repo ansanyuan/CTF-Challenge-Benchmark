@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Angus, Patrick, and Ollie went fishing for trout on Rainbow Lake.  Angus caught 4 more fish than Patrick did, but Ollie caught 7 fewer fish than Angus.  If Ollie caught 5 fish, how many fish did Patrick catch?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

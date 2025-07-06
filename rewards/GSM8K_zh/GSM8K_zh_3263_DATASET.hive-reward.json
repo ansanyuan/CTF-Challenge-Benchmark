@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cynthia wants floor-to-ceiling curtains made with an additional 5\" of material so it will pool at the bottom. If her room is 8 feet tall, how long will the curtains need to be?",
+  "checkpoint": [
+    {
+      "\\boxed{101}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

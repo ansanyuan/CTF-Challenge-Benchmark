@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alice made 52 friendship bracelets over spring break to sell at school.  It only cost her $3.00 in materials to make these bracelets.  During the break, she gave 8 of her bracelets away.  Back at school, she sells all of the remaining bracelets at $0.25 each.  How much profit did she make (money earned after paying initial costs) on the sale of her bracelets?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

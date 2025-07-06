@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lilibeth and her friends go strawberry picking. Lilibeth fills 6 baskets where each basket holds 50 strawberries. If three of Lilibeth's friends pick the same amount as her, how many strawberries do Lilibeth and her friends pick in all?",
+  "checkpoint": [
+    {
+      "\\boxed{1200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

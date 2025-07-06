@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jake buys 2-pound packages of sausages.  He buys 3 of them and they are $4 a pound.  How much does he pay?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

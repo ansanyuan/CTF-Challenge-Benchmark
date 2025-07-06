@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Howard is taking his kindergarten class to the museum on a school trip. He splits the class equally into 3 groups and then each of the groups goes through the museum one student at a time. If the class has 18 students in total and each student takes 4 minutes to go through the museum, then how long, in minutes, does it take each group to go through the museum?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

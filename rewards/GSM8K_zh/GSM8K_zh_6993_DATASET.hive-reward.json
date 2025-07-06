@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tiffany attends the carnival and her mother gives her $3 to play on a ring toss game. For every red bucket she tosses a ring into she gets 2 points. For every green bucket she gets three points. She gets zero points for a miss. Every play costs her $1 and she gets 5 rings per play. She's played two games and already gotten 4 red buckets and 5 green buckets. If she plays until her money runs out, what is the most total points she can get for all three games?",
+  "checkpoint": [
+    {
+      "\\boxed{38}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

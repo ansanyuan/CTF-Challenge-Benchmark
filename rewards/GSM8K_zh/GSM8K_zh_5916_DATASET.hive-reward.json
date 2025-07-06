@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Michael bought 6 crates of egg on Tuesday. He gave out 2 crates to Susan, who he admires and bought another 5 crates on Thursday. If one crate holds 30 eggs, how many eggs does he have now?",
+  "checkpoint": [
+    {
+      "\\boxed{270}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

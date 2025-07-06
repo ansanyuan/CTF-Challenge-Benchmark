@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brayden and Gavin were playing touch football against Cole and Freddy. Touchdowns were worth 7 points. Brayden and Gavin scored 7 touchdowns. Cole and Freddy's team scored 9 touchdowns. How many more points did Cole and Freddy have than Brayden and Gavin?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

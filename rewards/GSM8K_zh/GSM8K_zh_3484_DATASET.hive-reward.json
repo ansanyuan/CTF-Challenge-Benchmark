@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mark collects money for the homeless.  He visits 20 households a day for 5 days and half of those households give him a pair of 20s.  How much did he collect?",
+  "checkpoint": [
+    {
+      "\\boxed{2000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

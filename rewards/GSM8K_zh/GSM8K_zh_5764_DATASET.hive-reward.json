@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a fundraiser car wash activity, the 5th graders raised $147 on Friday. On Saturday, they made $7 more than twice their Friday earnings. Their earnings on Sunday are $78 more than their earnings on Friday. How much did they earn in three days?",
+  "checkpoint": [
+    {
+      "\\boxed{673}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

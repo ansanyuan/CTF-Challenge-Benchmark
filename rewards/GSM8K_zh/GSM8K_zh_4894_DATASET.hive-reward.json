@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Camp Cedar has 40 boys, it has 3 times as many girls.  It needs 1 counselor for every 8 children.  How many counselors does Camp Cedar need?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

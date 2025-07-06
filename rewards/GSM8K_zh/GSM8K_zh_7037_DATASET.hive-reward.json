@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Debora has 12 more dresses than Melissa. Melissa has half the number of dresses Emily has. If Emily has 16 dresses, how many dresses do the three of them have in total?",
+  "checkpoint": [
+    {
+      "\\boxed{44}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Joe saves $6,000 for his trip to Australia. If he spends $1,200 on the flight, $800 on a hotel, and $3,000 on food, how much money, in dollars, does he have left?",
+  "checkpoint": [
+    {
+      "\\boxed{1000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

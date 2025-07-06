@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mrs. Thompson bought 3 chickens for $3 each. She also bought a bag of potatoes. Mrs. Thompson paid $15 in total. How much did the potatoes cost?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jack says he has 13 more notebooks in his bag than Gerald. Jack gives 5 notebooks to Paula and 6 notebooks to Mike. If Gerald has 8 notebooks, how many notebooks does Jack have left?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

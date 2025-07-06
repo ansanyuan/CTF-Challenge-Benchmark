@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：It's Mother's day, so mothers get a 10% discount on the department store. Mothers who have 3 children or more can get an additional 4% off the discounted price. If Mrs. Brown has 4 children and wants to buy a pair of shoes that costs $125, how much will she pay?",
+  "checkpoint": [
+    {
+      "\\boxed{108}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

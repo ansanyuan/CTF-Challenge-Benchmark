@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John has 10 hectares of a pineapple field. There are 100 pineapples per hectare. John can harvest his pineapples every 3 months. How many pineapples can John harvest within a year?",
+  "checkpoint": [
+    {
+      "\\boxed{4000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

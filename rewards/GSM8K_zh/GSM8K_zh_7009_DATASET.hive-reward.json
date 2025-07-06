@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Davonte is trying to figure out how much space his art collection takes up. He measures his paintings and finds he has three square 6-foot by 6-foot paintings, four small 2-foot by 3-foot paintings, and one large 10-foot by 15-foot painting. How many square feet does his collection take up?",
+  "checkpoint": [
+    {
+      "\\boxed{282}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

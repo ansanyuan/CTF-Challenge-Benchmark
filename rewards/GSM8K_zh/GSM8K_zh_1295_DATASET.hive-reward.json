@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：To get to an island called \"Virgo\", Tom needs to travel by plane and then by boat. The plane trip is four times longer than the boat trip, and the boat trip takes up to 2 hours. In how many hours is Tom able to get to the \"Virgo\" island?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

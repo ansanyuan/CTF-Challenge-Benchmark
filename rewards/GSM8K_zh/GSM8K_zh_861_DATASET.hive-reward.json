@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Earl has $90; Fred has $48; Greg has $36. Earl owes Fred $28. Fred owes Greg $32. Greg owes Earl $40. When all debts are paid, how much will Greg and Earl have together in dollars?",
+  "checkpoint": [
+    {
+      "\\boxed{130}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

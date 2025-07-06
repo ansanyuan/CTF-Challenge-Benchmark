@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mia can decorate 2 dozen Easter eggs per hour. Her little brother Billy can only decorate 10 eggs per hour. They need to decorate 170 eggs for the Easter egg hunt. If they work together, how long will it take them to decorate all the eggs?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

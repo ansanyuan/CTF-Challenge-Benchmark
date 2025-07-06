@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom rents a helicopter for 2 hours a day for 3 days.  It cost $75 an hour to rent.  How much did he pay?",
+  "checkpoint": [
+    {
+      "\\boxed{450}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nick's cell phone was initially empty but was then charged for 45 minutes and has reached a 25% charge. How much longer must the cell phone be charged to reach 100% charge?",
+  "checkpoint": [
+    {
+      "\\boxed{135}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

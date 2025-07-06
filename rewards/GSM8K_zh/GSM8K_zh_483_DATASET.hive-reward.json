@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ian is looking to lose some weight.  He decides to start jogging around his apartment complex every night to burn some calories.  He does 5 laps around the complex every night.  Each lap is 100 feet.  If it takes 25 feet of jogging to burn a calorie, how many calories does Ian burn after 5 days of jogging like this?",
+  "checkpoint": [
+    {
+      "\\boxed{100}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

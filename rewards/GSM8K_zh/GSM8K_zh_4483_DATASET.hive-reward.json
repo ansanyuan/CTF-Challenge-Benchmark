@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A neighborhood association decided to plant a tree on every street. There are eighteen streets in the neighborhood. The association wanted every other tree to be a fruit tree, and they agreed to plant equal numbers of plum, pear, and apricot trees. How many of each kind of tree will they plant?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

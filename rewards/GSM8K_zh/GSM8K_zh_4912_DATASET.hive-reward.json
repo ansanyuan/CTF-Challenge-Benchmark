@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ajax is 80 kilograms. He is planning to lose some weight. Exercising for an hour will help him lose 1.5 pounds. If 1 kilogram is equal to 2.2 pounds How many pounds will he weigh if he exercises for 2 hours every day for two weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{134}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

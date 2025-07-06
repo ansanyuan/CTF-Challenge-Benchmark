@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 24 marbles in a jar. Half are blue. There are 6 red marbles. The rest of the marbles are orange. How many orange marbles are there?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

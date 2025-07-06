@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John had a son James when he was 19.  James is now twice as old as his sister Dora, who will turn 12 in 3 years.  How old will John's youngest son, who was born when John was 32, be in 3 years?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

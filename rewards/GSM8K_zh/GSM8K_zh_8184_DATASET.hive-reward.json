@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marcus ordered 5 croissants at $3.00 apiece, 4 cinnamon rolls at $2.50 each, 3 mini quiches for $4.00 apiece and 13 blueberry muffins that were $1.00 apiece.  At check out, Marcus shows his loyalty card that gives him 10% off of his purchase.  What is Marcus' total bill?",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

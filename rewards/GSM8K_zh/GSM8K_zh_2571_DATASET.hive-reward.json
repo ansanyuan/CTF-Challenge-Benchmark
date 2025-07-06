@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kenneth spent 10% of this earnings this week on a new joystick. If he is left with $405, how much were his earnings?",
+  "checkpoint": [
+    {
+      "\\boxed{450}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

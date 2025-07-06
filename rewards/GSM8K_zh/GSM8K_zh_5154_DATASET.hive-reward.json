@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Juanico is 4 years less than half the age of Gladys. If Gladys will be 40 years old ten years from now, calculate Juanico's age 30 years from now.",
+  "checkpoint": [
+    {
+      "\\boxed{41}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

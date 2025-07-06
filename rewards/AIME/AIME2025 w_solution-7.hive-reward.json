@@ -1,8 +1,8 @@
- {
+{
   "topic": "作答以下题目，并给出正确答案：Let $k$ be a real number such that the system \\\begin{align*} &|25 + 20i - z| = 5 \\ &|z - 4 - k| = |z - 3i - k| \\end{align*} has exactly one complex solution $z$. The sum of all possible values of $k$ can be written as $\\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$. Here $i = \\sqrt{-1}$.$",
   "checkpoint": [
     {
-      "77": 1
+      "\\boxed{77}": 1
     }
   ],
   "matchingmethod": [

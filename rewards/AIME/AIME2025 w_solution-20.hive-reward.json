@@ -1,8 +1,8 @@
- {
+{
   "topic": "作答以下题目，并给出正确答案：Circle $\\omega_1$ with radius $6$ centered at point $A$ is internally tangent at point $B$ to circle $\\omega_2$ with radius $15$. Points $C$ and $D$ lie on $\\omega_2$ such that $\\overline{BC}$ is a diameter of $\\omega_2$ and ${\\overline{BC} \\perp \\overline{AD}}$. The rectangle $EFGH$ is inscribed in $\\omega_1$ such that $\\overline{EF} \\perp \\overline{BC}$, $C$ is closer to $\\overline{GH}$ than to $\\overline{EF}$, and $D$ is closer to $\\overline{FG}$ than to $\\overline{EH}$, as shown. Triangles $\\triangle {DGF}$ and $\\triangle {CHG}$ have equal areas. The area of rectangle $EFGH$ is $\\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$. [asy] size(5cm); defaultpen(fontsize(10pt)); pair A = (9, 0), B = (15, 0), C = (-15, 0), D = (9, 12), E = (9+12/sqrt(5), -6/sqrt(5)), F = (9+12/sqrt(5), 6/sqrt(5)), G = (9-12/sqrt(5), 6/sqrt(5)), H = (9-12/sqrt(5), -6/sqrt(5)); filldraw(G--H--C--cycle, lightgray); filldraw(D--G--F--cycle, lightgray); draw(B--C); draw(A--D); draw(E--F--G--H--cycle); draw(circle((0,0), 15)); draw(circle(A, 6)); dot(A); dot(B); dot(C); dot(D);dot(E); dot(F); dot(G); dot(H); label(\"$A$\", A, (.8, -.8)); label(\"$B$\", B, (.8, 0)); label(\"$C$\", C, (-.8, 0)); label(\"$D$\", D, (.4, .8)); label(\"$E$\", E, (.8, -.8)); label(\"$F$\", F, (.8, .8)); label(\"$G$\", G, (-.8, .8)); label(\"$H$\", H, (-.8, -.8)); label(\"$\\omega_1$\", (9, -5)); label(\"$\\omega_2$\", (-1, -13.5)); [/asy]",
   "checkpoint": [
     {
-      "293": 1
+      "\\boxed{293}": 1
     }
   ],
   "matchingmethod": [

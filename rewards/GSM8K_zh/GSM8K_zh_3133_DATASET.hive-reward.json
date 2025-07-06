@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bald Mountain received 1.5 meters of snow last week. During a blizzard, Billy Mountain received 3.5 meters of snow and Mount Pilot received 126 centimeters of snow. How many more centimeters of snow did Billy Mountain and Mount Pilot have then Bald Mountain?",
+  "checkpoint": [
+    {
+      "\\boxed{326}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

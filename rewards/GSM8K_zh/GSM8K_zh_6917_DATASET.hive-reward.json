@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A store marks a book 30% above the cost. But during a sale, a 10% discount was given. If the book costs $50, what is the percent profit?",
+  "checkpoint": [
+    {
+      "\\boxed{17}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John is lifting weights. He bench presses 15 pounds for 10 reps and does 3 sets. How much total weight does he move?",
+  "checkpoint": [
+    {
+      "\\boxed{450}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

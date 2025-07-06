@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom dances 4 times a week for 2 hours at a time and does this every year for 10 years.  How many hours did he dance?",
+  "checkpoint": [
+    {
+      "\\boxed{4160}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

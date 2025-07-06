@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John gets $30 from his grandpa and 3 times that much from his grandma.  How much did he get from the two grandparents?",
+  "checkpoint": [
+    {
+      "\\boxed{120}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

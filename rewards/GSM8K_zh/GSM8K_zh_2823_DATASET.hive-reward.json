@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jennifer will be 30 years old in ten years. At that time, her sister Jordana will be three times as old Jennifer. How old is Jennifer's sister now?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

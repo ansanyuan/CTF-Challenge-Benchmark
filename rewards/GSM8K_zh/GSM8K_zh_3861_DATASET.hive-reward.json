@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are twice as many cows in Devonshire as there are hearts on a standard deck of 52 playing cards. If there are 4 hearts on a card, calculate the total cost of the cows when they are sold at $200 each.",
+  "checkpoint": [
+    {
+      "\\boxed{83200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

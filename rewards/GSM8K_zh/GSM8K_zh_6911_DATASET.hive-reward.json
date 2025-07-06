@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John assembles widgets at a factory.  He can make 20 widgets an hour and works for 8 hours a day 5 days a week.  How many widgets does he make a week?",
+  "checkpoint": [
+    {
+      "\\boxed{800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

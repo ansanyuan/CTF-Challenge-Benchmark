@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sam invested $10,000 and earned 20% interest compounded for 3 years. He then invested more until he had three times as much invested. The next year, he got a 15% return on his investment. How much money does he have now?",
+  "checkpoint": [
+    {
+      "\\boxed{59616}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

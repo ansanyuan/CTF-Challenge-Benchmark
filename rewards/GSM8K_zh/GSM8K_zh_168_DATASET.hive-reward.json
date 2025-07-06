@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Janet filmed a new movie that is 60% longer than her previous 2-hour long movie.  Her previous movie cost $50 per minute to film, and the newest movie cost twice as much per minute to film as the previous movie.  What was the total amount of money required to film Janet's entire newest film?",
+  "checkpoint": [
+    {
+      "\\boxed{1920}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

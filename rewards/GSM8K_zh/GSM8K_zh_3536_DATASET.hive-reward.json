@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marcia's hair is 24\" long at the beginning of the school year.  She cuts half of her hair off and lets it grow out 4 more inches.  She then cuts off another 2\" of hair.  How long is her hair?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

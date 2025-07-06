@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Paul and his sister Paula went to the cookie store to buy some cookies. Paula bought 3 fewer cookies than Paul, who bought 45 cookies. How many cookies do they have altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{87}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

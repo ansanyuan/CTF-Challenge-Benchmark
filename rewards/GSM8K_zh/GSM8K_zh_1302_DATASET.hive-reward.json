@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Each wall of a 3 sided shower has 8 tiles running the width of the wall and 20 tiles running the height of the wall.  How many tiles are in the shower?",
+  "checkpoint": [
+    {
+      "\\boxed{480}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

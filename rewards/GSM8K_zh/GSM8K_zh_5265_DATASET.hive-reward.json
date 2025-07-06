@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In preparation for the church fundraiser, Julia bakes one less than 5 cakes per day for 6 days.  Unfortunately, every other day, Julia's brother, Clifford, sneaks into Julia's house and eats one of Julia's cakes.  At the end of 6 days, how many cakes does Julia have remaining?",
+  "checkpoint": [
+    {
+      "\\boxed{21}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

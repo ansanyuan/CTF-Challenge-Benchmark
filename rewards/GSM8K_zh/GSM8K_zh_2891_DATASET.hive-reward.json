@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kyle has $12 less than 3 times what Dave has. Kyle then spends a third of it going snowboarding. If Dave has $46, how much money does Kyle have?",
+  "checkpoint": [
+    {
+      "\\boxed{84}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

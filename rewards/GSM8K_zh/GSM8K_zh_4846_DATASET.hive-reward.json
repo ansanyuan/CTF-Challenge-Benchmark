@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mike is shopping at the mall. He needs to buy a shirt, a new wallet, and some food for the evening. The shirt costs a third of the value of the wallet. The wallet is $60 more than the cost of the food, on which Mike spent $30. How much did Mike spend that day on the shopping?",
+  "checkpoint": [
+    {
+      "\\boxed{150}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mike gets paid 100 dollars a week.  He decides to spend half of that at an arcade.  He spends 10 dollars at the arcade on food and uses the rest on arcade tokens. He can play for 1 hour for $8. How many minutes can he play?",
+  "checkpoint": [
+    {
+      "\\boxed{300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

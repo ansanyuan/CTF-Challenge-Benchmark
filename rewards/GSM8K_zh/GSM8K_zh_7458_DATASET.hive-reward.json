@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mark deposited $88 in a bank. Bryan deposited $40 less than five times as much as Mark. How much did Mark deposit in the bank?",
+  "checkpoint": [
+    {
+      "\\boxed{400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Stacy is a high school Calculus teacher.  She assigns 45 problems for homework.  There are twice as many multiple choice problems as free response, and 7 more free response than true/false.  How many true/false questions are there?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

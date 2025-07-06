@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 18 green leaves on each of the 3 tea leaf plants. One-third of them turn yellow and fall off on each of the tea leaf plants.  How many green leaves are left on the tea leaf plants?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

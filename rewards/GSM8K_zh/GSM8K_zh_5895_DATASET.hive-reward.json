@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：An employee makes 30 dollars an hour for the first 40 hours in the workweek and an additional 50% for every hour above 40 in the week.  If he works 6 hours for the first 3 days in the workweek and twice as many hours per day for the remaining 2 days, how much money did he make?",
+  "checkpoint": [
+    {
+      "\\boxed{1290}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

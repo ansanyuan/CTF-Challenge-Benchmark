@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jerry paid off some of his debts. Two months ago, he paid $12 while last month, he paid $3 more. If his debt was $50 in all, how much does he still have to pay?",
+  "checkpoint": [
+    {
+      "\\boxed{23}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

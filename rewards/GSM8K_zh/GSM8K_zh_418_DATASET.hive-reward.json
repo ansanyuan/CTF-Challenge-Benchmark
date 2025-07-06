@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jim buys a package of 20 car washes.  Since He bought a package he only has to pay 60%.  A carwash normally costs 15 dollars.  How much did he pay for the package?",
+  "checkpoint": [
+    {
+      "\\boxed{180}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

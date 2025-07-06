@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Faraday owns a flower shop. He sells a sunflower that costs $2 each and a bouquet of sunflower that costs $8. If Faraday earned $26 from the sunflower and $56 from the bouquet per day, and if each bouquet has 12 sunflowers, how many sunflowers was Faraday able to sell after 3 days?",
+  "checkpoint": [
+    {
+      "\\boxed{291}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

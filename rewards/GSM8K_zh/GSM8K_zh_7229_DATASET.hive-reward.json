@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If Pete read twice as many books as Matt did last year, and this year he doubles that number while Matt reads only 50% more, how many books does Pete read across both years if Matt read 75 books in his second year?",
+  "checkpoint": [
+    {
+      "\\boxed{300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

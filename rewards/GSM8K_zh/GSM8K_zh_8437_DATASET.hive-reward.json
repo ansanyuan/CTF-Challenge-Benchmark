@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alex, Stan, and Adelwolfe are trying to catch them all, Pokemon that is.  Together they have caught 339 Pokemon.  Alex has caught 5 more than Stan, and Stan has caught 13 less than 4 times as many as Adelwolfe has caught. How many Pokemon has Stan caught?",
+  "checkpoint": [
+    {
+      "\\boxed{147}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At camp Wonka, there are 96 campers.  Two-thirds of the campers are boys, and the remaining one-third are girls.  50% of the boys want to toast marshmallows and 75% of the girls want to toast marshmallows.  If each camper gets one marshmallow to toast, how many marshmallows do they need?",
+  "checkpoint": [
+    {
+      "\\boxed{56}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

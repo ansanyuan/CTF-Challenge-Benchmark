@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If the sum of two numbers is 33, and if the second number is twice the first number, what is the second number?",
+  "checkpoint": [
+    {
+      "\\boxed{22}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

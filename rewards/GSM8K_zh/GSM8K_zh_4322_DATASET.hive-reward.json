@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tino has 24 more jellybeans than Lee. Arnold has half as many jellybeans as Lee. If Arnold has 5 jellybeans, how many jellybeans does Tino have?",
+  "checkpoint": [
+    {
+      "\\boxed{34}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

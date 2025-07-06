@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Big boxes contain 7 dolls each. Small boxes contain 4 dolls each. There are 5 big boxes and 9 small boxes. How many dolls are there in total?",
+  "checkpoint": [
+    {
+      "\\boxed{71}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The number of students in Kylie's class is 50. In a particular test, ten students scored 90 marks, 15 scored ten marks fewer than the first ten students, and the rest scored 60 marks each. What are the average marks for the whole class?",
+  "checkpoint": [
+    {
+      "\\boxed{72}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Keith and Blaine went fishing. Blaine caught 5 fish while Keith caught twice as many as Blaine's. How many fish did they catch together?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

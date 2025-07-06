@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jake agrees to work part of his debt off.  He owed someone $100 but paid them $40 before agreeing to work off the rest.   He worked for $15 an hour.  How many hours did he have to work?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

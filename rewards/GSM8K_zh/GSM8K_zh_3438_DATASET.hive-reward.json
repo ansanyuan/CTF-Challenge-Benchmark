@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John receives $100 from his uncle and gives his sister Jenna 1/4 of that money. He goes and buys groceries worth $40. How much money does John have remaining?",
+  "checkpoint": [
+    {
+      "\\boxed{35}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

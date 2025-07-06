@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jerome had 4 friends who came to visit him on a certain day. The first friend pressed on the doorbell 20 times before Jerome opened, the second friend pressed on the doorbell 1/4 times more than Jerome's first friend. The third friend pressed on the doorbell 10 times more than the fourth friend. If the fourth friend pressed on the doorbell 60 times, how many doorbell rings did the doorbell make?",
+  "checkpoint": [
+    {
+      "\\boxed{175}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

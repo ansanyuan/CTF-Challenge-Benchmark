@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There were 50 fish in a pond and 3 times as many tadpoles. If Curtis catches 7 fish and half the tadpoles develop into frogs, how many more tadpoles than fish are there in the pond now?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jorge has an equal number of baseball cards as Matias, who has 6 fewer cards than Carlos. If Carlos has 20 baseball cards, what is the total number of baseball cards the three have?",
+  "checkpoint": [
+    {
+      "\\boxed{48}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

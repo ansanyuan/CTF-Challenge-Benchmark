@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At football tryouts, the coach wanted to see who could throw the ball the farthest.  Parker threw the ball 16 yards.  Grant threw the ball 25 percent farther than Parker and Kyle threw the ball 2 times farther than Grant.  Compared to Parker, how much farther did Kyle throw the ball?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

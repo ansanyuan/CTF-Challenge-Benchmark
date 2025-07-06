@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sean has 4 dollars more than half as much money as Fritz. Rick has 3 times as much money as Sean. If Fritz has 40 dollars, how much money do Rick and Sean have?",
+  "checkpoint": [
+    {
+      "\\boxed{96}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

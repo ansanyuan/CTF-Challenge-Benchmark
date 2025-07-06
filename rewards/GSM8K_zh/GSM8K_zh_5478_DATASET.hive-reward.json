@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Regina has a farm with animals. She has 20 cows and four times more pigs. Someone told her, that she could sell all the animals and earn $400 for each pig and $800 for each cow. How much money would she earn if she would sell all the animals from the farm?",
+  "checkpoint": [
+    {
+      "\\boxed{48000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

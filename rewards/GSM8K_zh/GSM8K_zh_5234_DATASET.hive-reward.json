@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Trisha needed to buy some groceries for herself and her dog. She spent $17 on meat, $22 on chicken, $43 on all the veggies, $5 on the eggs, and finally $45 on her dog’s food. When she left the store, she had only $35 left. How much money did she bring with her at the beginning?",
+  "checkpoint": [
+    {
+      "\\boxed{167}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

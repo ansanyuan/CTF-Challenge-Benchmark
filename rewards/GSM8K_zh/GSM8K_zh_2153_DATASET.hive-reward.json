@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Aunt Angela has 70 jellybeans in a jar.  She wants to divide them equally and give them to her 3 nephews and 2 nieces.  How many jellybeans did each nephew or niece receive?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

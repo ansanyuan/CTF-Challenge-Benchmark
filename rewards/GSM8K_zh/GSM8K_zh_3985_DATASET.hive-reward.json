@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Judson, Camilo, and Kenny decided to contribute money to paint their house. Judson contributed $500, Kenny contributed 20% more money than Judson, and Camilo contributed $200 more than Kenny. How much was the cost of painting the house?",
+  "checkpoint": [
+    {
+      "\\boxed{1900}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Two squares of a $7\\times 7$ checkerboard are painted yellow, and the rest are painted green. Two color schemes are equivalent if one can be obtained from the other by applying a rotation in the plane board. How many inequivalent color schemes are possible?",
-    "checkpoint": [
-        {
-            "300": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Two squares of a $7\\times 7$ checkerboard are painted yellow, and the rest are painted green. Two color schemes are equivalent if one can be obtained from the other by applying a rotation in the plane board. How many inequivalent color schemes are possible?",
+  "checkpoint": [
+    {
+      "\\boxed{300}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：40 less than 10 times Diaz's age is 20 more than 10 times Sierra's age. If Sierra is currently 30 years old, how old will Diaz be 20 years from now?",
+  "checkpoint": [
+    {
+      "\\boxed{56}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

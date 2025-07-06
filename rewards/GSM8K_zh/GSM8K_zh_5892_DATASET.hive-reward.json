@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：During the soccer match, The Kickers scored 2 goals in the first period and twice that amount in the second period.  The other team, The Spiders, scored half the amount that The Kickers scored in the first period and twice the amount that The Kickers scored in their second period.  What is the total amount of goals both teams scored?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

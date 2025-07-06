@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At the museum, Bethany saw 4 times more still lifes than portraits. If she saw 80 paintings total, how many portraits did she see?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

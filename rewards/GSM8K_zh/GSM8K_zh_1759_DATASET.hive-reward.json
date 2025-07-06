@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a Volleyball competition, Lizzie was able to score 4 points. Nathalie's score is 3 more than Lizzie's score and Aimee's score is twice the score of Lizzie and Nathalie combined. The rest of the points were made by their teammates. If the whole team was able to score 50 points, how many points did their teammates make?",
+  "checkpoint": [
+    {
+      "\\boxed{17}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

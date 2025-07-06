@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A news website publishes an average of 20 political and weather news articles every day. Its sister company publishes an average of 10 business news articles daily. Calculate the total number of articles the two websites published together in February if there are 28 days in the month.",
+  "checkpoint": [
+    {
+      "\\boxed{840}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

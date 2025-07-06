@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jonny climbed 1269 stairs last week. Julia climbed 7 less than one-third of that amount. How many stairs did Julia and Jonny climb together?",
+  "checkpoint": [
+    {
+      "\\boxed{1685}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

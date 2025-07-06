@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Patty decides that to convince her brother and sister to do her chores in exchange for cookies. Patty agrees to give them 3 cookies for every chore they do. Each kid normally has 4 chores to do per week. Patty has $15 to buy cookies. Each pack of cookies contains 24 cookies and costs $3. How many weeks can Patty go without doing chores by paying her siblings with cookies?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

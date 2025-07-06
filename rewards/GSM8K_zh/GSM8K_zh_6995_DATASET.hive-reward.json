@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Anna wears a size 2. Her friend Becky wears a size three times larger than Anna's. Ginger wears a size twice Becky's size minus 4. What size does Ginger wear?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

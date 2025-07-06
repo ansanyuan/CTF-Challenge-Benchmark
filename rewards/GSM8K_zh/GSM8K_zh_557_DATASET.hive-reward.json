@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Roberto recently received a 20% raise from his previous salary, which was already 40% higher than his starting salary. If Roberto's starting salary was $80,000, what is his current salary?",
+  "checkpoint": [
+    {
+      "\\boxed{134400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Patricia has 4 barrels of 7 gallons each. All of them are empty, and there's only one faucet with a flow rate of 3.5 gallons per minute. How many minutes will it take to fill all 4 barrels?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

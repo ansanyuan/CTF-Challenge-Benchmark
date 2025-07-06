@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jimmy is setting up a garden. He has three plots: one plot for green beans, one plot for carrots, and one plot for corn. Each corn plant produces 5 times as many servings of veggies as each carrot, and each green bean plant produces half as many servings as each corn plant. If each carrot produces 4 servings of vegetables, and each plot has 9 plants, how many servings of vegetables is Jimmy growing?",
+  "checkpoint": [
+    {
+      "\\boxed{306}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cindy was hired to teach 4 math courses which required her to be in the classroom for 48 hours a week altogether. How much did Cindy earn for teaching 1 math course in a month with exactly 4 weeks if her hourly rate per class is $25?",
+  "checkpoint": [
+    {
+      "\\boxed{1200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

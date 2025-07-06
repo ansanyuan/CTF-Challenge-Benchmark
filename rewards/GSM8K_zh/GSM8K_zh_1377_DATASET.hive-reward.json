@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bronson decides to collect Oak Leaves from around his Neighborhood. He collects 12 on Thursday and 13 on Friday. 20% are Brown and 20% are Green. The rest are yellow. How many yellow leaves does he collect?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

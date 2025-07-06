@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom plays an online trading card game.  His deck has 19 rare cards, 11 uncommon, and 30 commons.  The rare cards cost $1, the uncommon are $.50, and the commons are $.25 each.  How much did his deck cost?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

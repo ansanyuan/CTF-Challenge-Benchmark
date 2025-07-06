@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carla works at a food bank and she currently has stocked up 2000 cans of food. One day, 500 people showed up and took 1 can of food each. Carla had to then restock 1500 more cans to keep up with demand. The next day, 1000 people showed up and took 2 cans of food each. Carla restocked again with 3000 cans of food this time. How many cans of food did Carla give away?",
+  "checkpoint": [
+    {
+      "\\boxed{2500}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Milo can roll downhill on his skateboard at twice the speed that he can run.  And Milo's best friend, Cory, can drive his wheelchair at twice the speed that Milo can roll downhill on his skateboard.  If Cory always drives his wheelchair at 12 miles per hour, how many miles can Milo run in two hours?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

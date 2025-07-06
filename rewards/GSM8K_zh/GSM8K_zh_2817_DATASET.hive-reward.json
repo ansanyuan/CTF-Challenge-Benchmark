@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A frog lays 800 eggs a year.  10 percent dry up, and 70 percent are eaten.  1/4 of the remaining eggs end up hatching, how many frogs hatch out of the 800?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

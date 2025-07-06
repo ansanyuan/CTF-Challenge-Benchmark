@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ms. Estrella is an entrepreneur with a startup company having 10 employees. The company makes a revenue of $400000 a month, paying 10% in taxes, 5% of the remaining amount on marketing and ads, 20% of the remaining amount on operational costs, and 15% of the remaining amount on employee wages.  Assuming each employee receives the same wage, calculate the amount of money each employee is paid monthly.",
+  "checkpoint": [
+    {
+      "\\boxed{4104}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

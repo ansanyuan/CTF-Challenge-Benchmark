@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Stoney Hollow Middle School is taking a field trip to the zoo. There are 109 fifth graders, 115 sixth graders, and 118 seventh graders. There are 4 teachers and 2 parents from each grade coming along to chaperone on the trip. There are 72 seats on each school bus. How many buses are needed for the field trip?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

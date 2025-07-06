@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：10 people attended class on Monday, 15 on Tuesday, and 10 on each day from Wednesday through Friday. What was the average number of people who attended class each day?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

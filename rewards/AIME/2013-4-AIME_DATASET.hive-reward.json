@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：In the Cartesian plane let $A = (1,0)$ and $B = \\left( 2, 2\\sqrt{3} \\right)$ .  Equilateral triangle $ABC$ is constructed so that $C$ lies in the first quadrant.  Let $P=(x,y)$ be the center of $\\triangle ABC$ .  Then $x \\cdot y$ can be written as $\\tfrac{p\\sqrt{q}}{r}$ , where $p$ and $r$ are relatively prime positive integers and $q$ is an integer that is not divisible by the square of any prime.  Find $p+q+r$ .",
-    "checkpoint": [
-        {
-            "40": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：In the Cartesian plane let $A = (1,0)$ and $B = \\left( 2, 2\\sqrt{3} \\right)$ .  Equilateral triangle $ABC$ is constructed so that $C$ lies in the first quadrant.  Let $P=(x,y)$ be the center of $\\triangle ABC$ .  Then $x \\cdot y$ can be written as $\\tfrac{p\\sqrt{q}}{r}$ , where $p$ and $r$ are relatively prime positive integers and $q$ is an integer that is not divisible by the square of any prime.  Find $p+q+r$ .",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

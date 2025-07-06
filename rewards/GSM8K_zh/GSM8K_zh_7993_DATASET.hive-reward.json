@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Royce takes 40 minutes more than double Rob to shingle a house. If Rob takes 2 hours, how many minutes does Royce take?",
+  "checkpoint": [
+    {
+      "\\boxed{280}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A small zoo houses a variety of 68 wild animals. After they send a gorilla family of six to a different zoo, they adopt a hippopotamus from another zoo. A while later, an animal rescue contacted them, and the zoo took in three endangered rhinos. Then one of their lionesses gave birth to cubs, and they opened a meerkat exhibit with twice as many meerkats as they had gained lion cubs. The zoo then had 90 animals in all. How many lion cubs were born at the zoo?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ben will receive a bonus of $1496. He chooses to allocate this amount as follows: 1/22 for the kitchen, 1/4 for holidays and 1/8 for Christmas gifts for his 3 children. How much money will he still have left after these expenses?",
+  "checkpoint": [
+    {
+      "\\boxed{867}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

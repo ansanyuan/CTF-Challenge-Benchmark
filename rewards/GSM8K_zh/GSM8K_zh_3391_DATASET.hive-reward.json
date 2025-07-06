@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Piazzanos Pizzeria has a buy-1-get-1-free special on triple cheese pizzas, and a buy-2-get-1-free special on meat lovers pizzas.  If the standard price for a pizza is $5, how much does it cost, in dollars, to purchase 10 triple cheese and 9 meat lovers pizzas using the special pricing?",
+  "checkpoint": [
+    {
+      "\\boxed{55}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

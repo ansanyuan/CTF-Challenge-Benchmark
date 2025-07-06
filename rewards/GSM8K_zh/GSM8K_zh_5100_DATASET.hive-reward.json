@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Yesterday, the newly opened animal shelter received their first 60 animals. They got 20 more cats than dogs. How many cats did they take in?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

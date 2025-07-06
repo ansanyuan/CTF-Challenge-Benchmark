@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：For how many positive integers $n$ less than or equal to 1000 is $(\\sin t + i \\cos t)^n = \\sin nt + i \\cos nt$ true for all real $t$ ?",
-    "checkpoint": [
-        {
-            "250": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：For how many positive integers $n$ less than or equal to 1000 is $(\\sin t + i \\cos t)^n = \\sin nt + i \\cos nt$ true for all real $t$ ?",
+  "checkpoint": [
+    {
+      "\\boxed{250}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

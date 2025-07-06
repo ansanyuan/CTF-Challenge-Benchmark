@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James is building a hall of mirrors. Three of the walls will be completed covered with glass. If two of those walls are 30 feet by 12 feet and the third is 20 feet by 12 feet, how many square feet of glass does he need?",
+  "checkpoint": [
+    {
+      "\\boxed{960}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tomas is hoping to run a marathon next year, which is 26.3 miles. He knows that each month he trains, he can run twice as far as the month before. If he can run 3 miles during the first month of training, how many total months before the marathon should he start training to ensure he can run far enough?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

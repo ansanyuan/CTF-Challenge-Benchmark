@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jackie spends 8 hours working, 3 hours of exercise and spends 8 hours of sleep per day. How much free time does Jackie have?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

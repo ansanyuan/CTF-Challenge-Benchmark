@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James writes a 3-page letter to 2 different friends twice a week.  How many pages does he write a year?",
+  "checkpoint": [
+    {
+      "\\boxed{624}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

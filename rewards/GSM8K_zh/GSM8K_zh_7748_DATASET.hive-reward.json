@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：It's April, and Mrs. Rylan has been busy on her farm planting different types of vegetables for the season. She has bought 20 packets of tomato seeds and 80 packets of celery seeds to plant. If a packet of tomato seeds costs $40 and a packet of celery seeds costs $30, how much money did she use to buy the seeds?",
+  "checkpoint": [
+    {
+      "\\boxed{3200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

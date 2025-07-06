@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sandy bought 1 million Safe Moon tokens. She has 4 siblings. She wants to keep half of them to herself and divide the remaining tokens among her siblings. After splitting it up, how many more tokens will she have than any of her siblings?",
+  "checkpoint": [
+    {
+      "\\boxed{375000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Michonne is inviting her friends to her birthday party. She invites 6 of her friends from school and 12 of her friends from her neighborhood. Each of her friends asks if they can bring two friends along as well. How many people are going to Michonne’s birthday party?",
+  "checkpoint": [
+    {
+      "\\boxed{54}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

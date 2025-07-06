@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mark buys a Magic card for $100, which then triples in value.  How much profit would he make selling it?",
+  "checkpoint": [
+    {
+      "\\boxed{200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

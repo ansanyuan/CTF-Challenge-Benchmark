@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Diana needs to bike 10 miles to get home.  She can bike 3 mph for two hours before she gets tired, and she can bike 1 mph until she gets home.  How long will it take Diana to get home?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

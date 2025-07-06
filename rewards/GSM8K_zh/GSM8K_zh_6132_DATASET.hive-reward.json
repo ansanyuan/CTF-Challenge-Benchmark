@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James is sitting outside, counting how many people go past him in vehicles. He has counted 52 vehicles so far today. He saw 12 trucks, a couple of buses, twice as many taxis, some motorbikes, and 30 cars. If the trucks held 2 people each, the buses held 15 people each, the taxis held 2 people each, the motorbikes held 1 person each, and the cars held 3 people each, how many passengers has James seen today?",
+  "checkpoint": [
+    {
+      "\\boxed{156}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

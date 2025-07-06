@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ayen jogs for 30 minutes every day during weekdays. This week on Tuesday, she jogged 5 minutes more and also jogged 25 minutes more on Friday. How many hours, in total, did Ayen jog this week?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

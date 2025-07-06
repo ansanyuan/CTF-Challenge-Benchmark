@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Vikki worked 42 hours in one week. Her hourly pay rate is $10. From her weekly earnings, 20% is deducted as tax, 5% is deducted as insurance cover, and $5 is deducted for union dues. How much money, in dollars, does Vikki take home after deductions?",
+  "checkpoint": [
+    {
+      "\\boxed{310}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Each week Carina puts 20 more seashells in a jar than she did the week before. If there are 50 seashells in the jar this week, how many will there be in a month?",
+  "checkpoint": [
+    {
+      "\\boxed{130}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Katya sold 8 glasses of lemonade and Ricky sold 9 glasses of lemonade. If Tina sold twice as many as Katya and Ricky's combined sales, how many more glasses of lemonade than Katya did Tina sell?",
+  "checkpoint": [
+    {
+      "\\boxed{26}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

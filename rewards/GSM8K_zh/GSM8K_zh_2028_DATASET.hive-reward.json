@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The average temperature in Orlando in a particular week was 60 degrees. If the temperature on each of the first 3 days in that week was 40, and the temperature for Thursday and Friday was 80 degrees each, calculate the total temperature of the remaining days of that week.",
+  "checkpoint": [
+    {
+      "\\boxed{140}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

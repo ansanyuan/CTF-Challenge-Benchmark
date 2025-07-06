@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：It takes 7 years for an apple tree to bear fruit. If Lydia planted a tree when she was 4 years old and is now 9 years old, how old would she be when she gets to eat an apple from her tree for the first time?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

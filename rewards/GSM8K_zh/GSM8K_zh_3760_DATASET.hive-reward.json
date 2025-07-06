@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A van is delivering  180 bottles of drinks to a neighborhood, and each bottle contains either cider or beer or a mixture of two. Out of the  180 bottles, 40 contain only cider, 80 contain only beer, and the rest are a mixture of the two drinks. If the delivery man gives half the number of each bottle of drink to the first house, how many bottles does the first house get?",
+  "checkpoint": [
+    {
+      "\\boxed{90}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

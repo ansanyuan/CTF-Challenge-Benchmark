@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jaylen has 5 carrots and 2 cucumbers. Jaylen has twice as many bell peppers as Kristin. Jaylen has 3 less than half as many green beans as Kristin. If Kristin has 2 bell peppers and 20 green beans, how many vegetables does Jaylen have in total?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

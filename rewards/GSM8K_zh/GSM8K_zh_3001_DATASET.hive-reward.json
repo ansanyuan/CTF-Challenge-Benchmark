@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A pole is 20 meters long. It got cut in a way that left it 30% shorter. How long is the pole?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

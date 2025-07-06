@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Harry needs to buy 5 spellbooks that each cost 5 gold, three potion kits that each cost 20 silver, and one owl that costs 28 gold. There are 9 silver to a gold. How much will Harry pay total, in silvers?",
+  "checkpoint": [
+    {
+      "\\boxed{537}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

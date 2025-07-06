@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The average score on last week's Spanish test was 90.  Marco scored 10% less than the average test score and Margaret received 5 more points than Marco.  What score did Margaret receive on her test?",
+  "checkpoint": [
+    {
+      "\\boxed{86}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

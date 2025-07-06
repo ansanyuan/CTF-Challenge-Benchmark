@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carson counts 6 clouds that look like funny animals. His little brother counts three times as many clouds that look like dragons. How many clouds did they count in total?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

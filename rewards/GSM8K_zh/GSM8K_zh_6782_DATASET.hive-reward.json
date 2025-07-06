@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Papi Calot prepared his garden to plant potatoes. He planned to plant 7 rows of 18 plants each. But he still has a bit of room left, so he’s thinking about adding 15 additional potato plants. How many plants does Papi Calot have to buy?",
+  "checkpoint": [
+    {
+      "\\boxed{141}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

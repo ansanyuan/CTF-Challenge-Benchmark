@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The distance from Anthony’s apartment to work is 10 miles. How far away is the gym from his apartment if it is 2 miles more than half the distance from his apartment to work?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

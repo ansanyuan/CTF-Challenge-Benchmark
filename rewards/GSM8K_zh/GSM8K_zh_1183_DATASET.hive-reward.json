@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mrs. Anderson bought 2 bags of 3-pound bag of cat food and another 2 bags of dog food that each weigh 2 more pounds than each bag of cat food. There are 16 ounces in each pound. How many ounces of pet food did Mrs. Anderson buy?",
+  "checkpoint": [
+    {
+      "\\boxed{256}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

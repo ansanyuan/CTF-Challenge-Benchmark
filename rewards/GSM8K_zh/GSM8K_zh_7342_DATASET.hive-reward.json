@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：LaKeisha is mowing lawns to raise money for a collector set of books. She charges $.10 for every square foot of lawn. The book set costs $150. If she has already mowed three 20 x 15 foot lawns, how many more square feet does she have to mow to earn enough for the book set?",
+  "checkpoint": [
+    {
+      "\\boxed{600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

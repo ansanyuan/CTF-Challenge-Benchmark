@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：400 adults and 200 children go to a Broadway show. The price of an adult ticket is twice that of a child's ticket. What is the price of an adult ticket if the total amount collected is $16,000?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

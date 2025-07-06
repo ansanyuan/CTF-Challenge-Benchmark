@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 30 students in the general study hall and twice as many students in the biology hall as there are in the general study hall. If the number of students in the math hall is 3/5 times as many as the combined total number of students in the general study hall and the biology hall combined,  calculate the total number of students in all the halls combined.",
+  "checkpoint": [
+    {
+      "\\boxed{144}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

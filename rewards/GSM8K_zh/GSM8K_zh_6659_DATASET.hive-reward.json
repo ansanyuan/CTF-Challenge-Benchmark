@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Anna ate 4 apples on Tuesday. On Wednesday, she ate double the apples she ate on Tuesday. On Thursday, Anna ate half the apples she ate on Tuesday. How many apples has Anna eaten by the end of these three days?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

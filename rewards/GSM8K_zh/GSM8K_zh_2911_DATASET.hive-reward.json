@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At a station, a train comes every 5 minutes leaving 200 passengers and taking 320 others. How many different passengers step on and off a train at the station within an hour?",
+  "checkpoint": [
+    {
+      "\\boxed{6240}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

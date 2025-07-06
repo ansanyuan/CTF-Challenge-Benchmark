@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A store sells pencils and erasers. It has a rule that for every pencil you buy, you must buy 2 erasers which cost 1/2 the price of the pencils. If they sold 20 pencils and earned $80, how much do erasers cost?",
+  "checkpoint": [
+    {
+      "\\boxed{1}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

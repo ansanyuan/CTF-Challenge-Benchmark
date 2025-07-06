@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Craig and his brother take turns spelling out the longest letter words they know and counting the number of the letters in those words. After ten rounds, Craig has spelled out 20 words with 15 letters each. If Craig's brother has spelled words with a total count of letters 50 more than Craig, calculate the total number of letters in the words they've spelled after the ten rounds.",
+  "checkpoint": [
+    {
+      "\\boxed{650}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

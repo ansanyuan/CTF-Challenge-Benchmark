@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Each frog needs to eat 30 flies per day to live. Each fish needs to eat 8 frogs per day to live. Each gharial needs to eat 15 fish a day to live. How many flies get eaten every day in this swamp if it has 9 gharials?",
+  "checkpoint": [
+    {
+      "\\boxed{32400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

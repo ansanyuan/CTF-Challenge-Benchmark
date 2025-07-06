@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jake makes a drink that is 2 parts Coke, 1 part Sprite and 3 parts Mountain Dew.  If the drink contains 6 ounces of Coke, how many ounces is the drink?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

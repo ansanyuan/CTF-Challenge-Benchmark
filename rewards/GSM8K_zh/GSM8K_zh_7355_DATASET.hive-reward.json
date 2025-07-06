@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Helen cuts her lawn starting in March and finishes in October.  Her lawn mower uses 2 gallons of gas every 4th time she cuts her lawn.  For March, April, September and October, she only cuts her law 2 times per month.  In May, June, July and August, she has to cut her lawn 4 times per month.  How many gallons of gas will she need to cut her lawn from March through October?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

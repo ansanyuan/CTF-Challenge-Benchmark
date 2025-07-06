@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $T = \\{9^k : k ~ \\mbox{is an integer}, 0 \\le k \\le 4000\\}$ .  Given that $9^{4000}_{}$ has 3817 digits and that its first (leftmost) digit is 9, how many elements of $T_{}^{}$ have 9 as their leftmost digit?",
-    "checkpoint": [
-        {
-            "184": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $T = \\{9^k : k ~ \\mbox{is an integer}, 0 \\le k \\le 4000\\}$ .  Given that $9^{4000}_{}$ has 3817 digits and that its first (leftmost) digit is 9, how many elements of $T_{}^{}$ have 9 as their leftmost digit?",
+  "checkpoint": [
+    {
+      "\\boxed{184}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

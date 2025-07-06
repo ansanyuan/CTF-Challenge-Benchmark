@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nathan bought one large box of bananas. He saw that there are six bunches with eight bananas in a bunch and five bunches with seven bananas in a bunch. How many bananas did Nathan have?",
+  "checkpoint": [
+    {
+      "\\boxed{83}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

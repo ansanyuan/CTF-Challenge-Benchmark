@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jon drinks a bottle of water that is 16 ounces every 4 hours for the 16 hours he is awake.  Twice a day he also drinks a bottle that is 25% larger than those bottles.  How much fluid does he drink a week?",
+  "checkpoint": [
+    {
+      "\\boxed{728}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Aniyah has 6 times as many birthday candles as Ambika. If Ambika has four birthday candles, how many birthday candles will they have if they put the birthday candles together and shared them equally between themselves?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A tank contains 6000 liters of water, 2000 liters evaporated, and then 3500 liters were drained by Bob. How many liters are in the tank if it now rains for 30 minutes and every 10 minutes 350 liters of rain are added to the tank?",
+  "checkpoint": [
+    {
+      "\\boxed{1550}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

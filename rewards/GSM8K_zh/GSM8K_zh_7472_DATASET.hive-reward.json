@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Janet, a third grade teacher, is picking up the sack lunch order from a local deli for the field trip she is taking her class on. There are 35 children in her class, 5 volunteer chaperones, and herself. She she also ordered three additional sack lunches, just in case there was a problem. Each sack lunch costs $7. How much do all the lunches cost in total?",
+  "checkpoint": [
+    {
+      "\\boxed{308}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

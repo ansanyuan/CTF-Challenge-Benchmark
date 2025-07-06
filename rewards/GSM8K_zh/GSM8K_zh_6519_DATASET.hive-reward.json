@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Each year Dani gets 4 pairs of two pants each as pay winning the best Amazon buyer of the season. If he initially had 50 pants, calculate the number of pants he'll have in 5 years.",
+  "checkpoint": [
+    {
+      "\\boxed{90}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

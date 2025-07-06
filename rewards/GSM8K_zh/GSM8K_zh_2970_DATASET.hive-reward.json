@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Frank's laundry detergent is double concentrated and will wash 80 loads of laundry.  His detergent is usually $25.00 a bottle but they're having a sale.  If he buys 2 bottles, both bottles will drop to $20.00 a bottle.  How much does he spend, in cents, per load of laundry, if he buys 2 bottles of detergent?",
+  "checkpoint": [
+    {
+      "\\boxed{25}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

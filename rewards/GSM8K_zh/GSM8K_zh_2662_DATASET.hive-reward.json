@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The price of a monster box of cereal is reduced by $24 after an oversupply in the market. If the initial price was $104, and Romina bought 20 of such boxes, calculate the total price she paid.",
+  "checkpoint": [
+    {
+      "\\boxed{1600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

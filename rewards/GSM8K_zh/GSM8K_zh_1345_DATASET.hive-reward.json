@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jame gets a raise to $20 per hour and works 40 hours a week.  His old job was $16 an hour for 25 hours per week.  How much more money does he make per year in his new job than the old job if he works 52 weeks a year?",
+  "checkpoint": [
+    {
+      "\\boxed{20800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

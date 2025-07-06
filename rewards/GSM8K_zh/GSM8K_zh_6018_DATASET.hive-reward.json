@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Stephen made 10 round trips up and down a 40,000 foot tall mountain. If he reached 3/4 of the mountain's height on each of his trips, calculate the total distance he covered.",
+  "checkpoint": [
+    {
+      "\\boxed{600000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 50 passengers on a bus.  At the first stop, 16 more passengers get on the bus. On the other stops, 22 passengers get off the bus and 5 passengers more get on the bus. How many passengers are there on the bus in total at the last station?",
+  "checkpoint": [
+    {
+      "\\boxed{49}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：One pair of pants requires 8.5 feet of fabric. Nguyen needs to make 7 pairs of pants for the wedding. He has 3.5 yards of fabric. How many feet of fabric does Nguyen still need for the pants?",
+  "checkpoint": [
+    {
+      "\\boxed{49}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

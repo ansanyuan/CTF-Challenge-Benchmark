@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a national park, the number of redwoods is 20% more than the number of pines. If there are 600 pines in the national park, calculate the total number of pines and redwoods that are there.",
+  "checkpoint": [
+    {
+      "\\boxed{1320}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

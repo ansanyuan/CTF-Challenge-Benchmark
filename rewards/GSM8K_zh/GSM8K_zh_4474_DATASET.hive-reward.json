@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tony read 23 books, Dean read 12 books and Breanna read 17 books. Tony and Dean read 3 of the same books and all three had read the same book as well. In total how many different books have Tony, Dean, and Breanna read?",
+  "checkpoint": [
+    {
+      "\\boxed{47}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

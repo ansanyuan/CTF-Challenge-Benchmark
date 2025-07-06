@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ali is a baker. Leila ordered 3 chocolate cakes for $12 each and 6 strawberry cakes for $22 each.  How much should Leila pay Ali?",
+  "checkpoint": [
+    {
+      "\\boxed{168}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

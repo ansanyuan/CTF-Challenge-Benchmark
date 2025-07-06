@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John pays for a candy bar with 4 quarters, 3 dimes, and a nickel.  He got 4 cents back in change.  How many cents did the candy bar cost?",
+  "checkpoint": [
+    {
+      "\\boxed{131}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom's cat needs an expensive surgery.  He has had pet insurance for 24 months that cost $20 per month.  The procedure cost $5000 but the insurance covers all but 20% of this.  How much money did he save by having insurance?",
+  "checkpoint": [
+    {
+      "\\boxed{3520}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

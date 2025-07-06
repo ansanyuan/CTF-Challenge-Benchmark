@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Yasna has two books. One book is 180 pages long, and the other book is 100 pages long. If Yasna wants to finish both of the books in two weeks, how many pages will Yasna need to read every day, if she reads an equal number of pages each day?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

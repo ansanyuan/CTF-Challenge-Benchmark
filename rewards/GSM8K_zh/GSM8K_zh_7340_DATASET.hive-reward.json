@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brooke is milking cows and then selling the milk at the market for $3 a gallon. Whatever milk doesn't sell, she turns into butter. One gallon of milk equals 2 sticks of butter. She then sells the butter for $1.5 a stick. She has 12 cows. Each cow produces 4 gallons of milk. She has 6 customers, each of whom wants 6 gallons of milk. How much money does she earn if she sells all her milk and butter?",
+  "checkpoint": [
+    {
+      "\\boxed{144}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

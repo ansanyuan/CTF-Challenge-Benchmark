@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a classroom, 10 children have 7 books each. Their teacher brings another 8 books to the classroom. How many books are in the classroom altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{78}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

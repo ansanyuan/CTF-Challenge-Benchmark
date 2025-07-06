@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John spent 3 years of his life exploring the jungle.  He then spent half as much time writing up notes about his travels.  It took .5 years to write his book once he was done with the notes.  How long did he spend on his book and exploring?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

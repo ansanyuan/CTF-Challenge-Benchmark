@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom bought his games for $200.  They tripled in value and he then sold 40% of them.  How much did he sell the games for?",
+  "checkpoint": [
+    {
+      "\\boxed{240}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

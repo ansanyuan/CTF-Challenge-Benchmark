@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. Wells has a garden of flowers with 50 rows. If each row has 400 flowers and Mr. Wells cuts 60% of the flowers, how many flowers are remaining in the garden?",
+  "checkpoint": [
+    {
+      "\\boxed{8000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

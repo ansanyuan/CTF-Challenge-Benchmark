@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jack and Jill shared the cost of renting a cottage that costs $5 an hour. If they rented it for eight hours, how much did each friend pay?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

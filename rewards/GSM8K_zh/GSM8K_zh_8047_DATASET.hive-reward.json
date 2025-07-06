@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Katina has $3000 in her savings account. If she removes $100 from the account every month, how much money will be remaining within the account after 2 years?",
+  "checkpoint": [
+    {
+      "\\boxed{600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

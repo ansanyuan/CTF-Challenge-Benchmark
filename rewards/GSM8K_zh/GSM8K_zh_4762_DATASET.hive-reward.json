@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 100 jellybeans in a glass jar.  Mrs. Copper’s kindergarten class normally has 24 kids, but 2 children called in sick and stayed home that day. The remaining children who attended school eat 3 jellybeans each. How many jellybeans are still left in the jar?",
+  "checkpoint": [
+    {
+      "\\boxed{34}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

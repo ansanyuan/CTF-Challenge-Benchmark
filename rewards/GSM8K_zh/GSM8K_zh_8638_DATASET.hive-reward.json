@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cole hid 3 dozen eggs in the yard for the Easter egg hunt.  Lamar finds 5 eggs. Stacy finds twice as many as Lamar.  Charlie finds 2 less than Stacy.  And Mei finds half as many as Charlie.  How many eggs are still hidden in the yard?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

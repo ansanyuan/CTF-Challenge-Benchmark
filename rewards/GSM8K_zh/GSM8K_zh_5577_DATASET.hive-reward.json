@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mitch is a freelancer, she works 5 hours every day from Monday to Friday and 3 hours every Saturday and Sunday. If she earns $3 per hour and earns double on weekends, how much does she earn every week?",
+  "checkpoint": [
+    {
+      "\\boxed{111}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

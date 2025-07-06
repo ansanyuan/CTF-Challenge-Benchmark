@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carl buys index cards for his class.  He gives each student 10 index cards.  He teaches 6 periods a day and each class has 30 students.  If a 50 pack of index cards cost $3 how much did he spend on them all?",
+  "checkpoint": [
+    {
+      "\\boxed{108}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

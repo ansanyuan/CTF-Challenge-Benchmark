@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are two warehouses. The first warehouse has twice as many boxes as the second warehouse. If the first warehouse has 400 boxes, how many boxes are there in both warehouses combined?",
+  "checkpoint": [
+    {
+      "\\boxed{600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

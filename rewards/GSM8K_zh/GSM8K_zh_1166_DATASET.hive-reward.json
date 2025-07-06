@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jerry needs to shingle 3 roofs. Each roof is made of two slanted rectangular sides measuring 20 feet by 40 feet. If he needs 8 shingles to cover one square foot of roof, how many shingles does he need total?",
+  "checkpoint": [
+    {
+      "\\boxed{38400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

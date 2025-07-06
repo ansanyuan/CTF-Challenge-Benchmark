@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Derek finally gets his own allowance. He puts $2 away in January, $4 away in February, $8 away in March, $16 away in April and follows this savings pattern through to December. How much money does he have to spare and save by December?",
+  "checkpoint": [
+    {
+      "\\boxed{4096}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

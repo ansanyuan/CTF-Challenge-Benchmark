@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A luxury perfume costs $1200. The store owner decided to increase its price by 10% so that he could earn more profit. Few weeks had past but the perfume was still not sold. So, the owner decided to lower the price by 15%. By how much was the final price lower than the original price?",
+  "checkpoint": [
+    {
+      "\\boxed{78}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

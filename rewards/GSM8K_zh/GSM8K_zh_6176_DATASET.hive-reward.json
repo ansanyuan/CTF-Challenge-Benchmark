@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If Layla scored 104 goals in four hockey games and Kristin scored 24 fewer goals in the same four games, calculate the average number of goals the two scored.",
+  "checkpoint": [
+    {
+      "\\boxed{92}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

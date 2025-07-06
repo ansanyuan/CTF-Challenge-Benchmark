@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Maria goes to the coffee shop 2 times a day. Every time she goes to the coffee shop, she orders 3 cups of coffee. How many cups of coffee does she order per day?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

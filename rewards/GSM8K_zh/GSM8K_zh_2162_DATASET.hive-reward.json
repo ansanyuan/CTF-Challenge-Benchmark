@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On Saturday morning, Renata had $10 to spend. She first went and made a $4 donation in exchange for a ticket to the local charity draw. When the draw was done, she was declared the winner of the 5th prize of $90. Excited, she quickly dashed to play slots at one of the casinos in Atlantic City. Unfortunately, she lost $50 at the first slot machine, $10 at the second and $5 at the last one.  Dejected, she decided to take a long walk. She soon grew thirsty and entered the first gas station she saw. She picked a $1 bottle of water and while paying for it, she bought a $1 lottery ticket. To her utter delight, she won an instant prize of $65. How much money did Renata end up having?",
+  "checkpoint": [
+    {
+      "\\boxed{94}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

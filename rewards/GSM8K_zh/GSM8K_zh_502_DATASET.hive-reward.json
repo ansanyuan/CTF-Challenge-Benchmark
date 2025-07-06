@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John is very unfit and decides to work up to doing a push-up.  He trains 5 days a week for them and starts with wall push-ups.  He adds 1 rep a day and once he gets to 15 reps he will start training high elevation push-ups. and then low elevation push-ups, and finally floor push-ups.  How many weeks will it take him to get to floor push-ups?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

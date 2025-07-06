@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jackson's mother made little pizza rolls for Jackson's birthday party.  Jackson ate 10 pizza rolls and his friend Jerome ate twice that amount.  Tyler at one and half times more than Jerome.  How many more pizza rolls did Tyler eat than Jackson?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

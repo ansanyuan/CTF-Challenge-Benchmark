@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In 2010 the Chicago Bulls won 70 games. The Miami Heat won 5 more games than the Chicago Bulls.  How many games did the Bulls and the Heat win together?",
+  "checkpoint": [
+    {
+      "\\boxed{145}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

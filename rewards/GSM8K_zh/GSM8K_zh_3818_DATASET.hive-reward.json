@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Every year, Mabel gets as many quarters as she is years old. She always puts these and nothing else in a piggy bank. When she turns 7, how much money is in the bank?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kamil wants to renovate his kitchen at home. For this purpose, he hired two professionals who work for him 6 hours a day for 7 days. What does it cost Kamil to hire these professionals if one of them is paid $15 per hour of work?",
+  "checkpoint": [
+    {
+      "\\boxed{1260}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

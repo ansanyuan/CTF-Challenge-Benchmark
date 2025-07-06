@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jim is wondering how many miles each gallon of gas gets him. His gas tank is 12 gallons. He has 2/3 of a tank left after he drives to and from work, which is 10 miles away from his house. How many miles per gallon does he get?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

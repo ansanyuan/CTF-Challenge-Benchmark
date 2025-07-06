@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The bakers at the Beverly Hills Bakery baked 200 loaves of bread on Monday morning. They sold 93 loaves in the morning and 39 loaves in the afternoon. A grocery store returned 6 unsold loaves. How many loaves of bread did they have left?",
+  "checkpoint": [
+    {
+      "\\boxed{74}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

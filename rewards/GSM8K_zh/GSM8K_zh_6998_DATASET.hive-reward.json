@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：She sold twice as many boxes on Tuesday as she did on Wednesday, and she sold twice as many boxes on Wednesday as she did on Thursday. If Kim sold 1200 boxes of cupcakes on Thursday, how many boxes did she sell on Tuesday?",
+  "checkpoint": [
+    {
+      "\\boxed{4800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

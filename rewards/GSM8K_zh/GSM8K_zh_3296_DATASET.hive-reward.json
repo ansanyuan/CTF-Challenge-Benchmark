@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Karen and Donald and their 6 children are sharing a beach house with Tom and Eva and their 4 children.  If there are 16 legs in the pool, how many people are not in the pool?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Norris saved $29 in September. He saved $25 in October and $31 in November. Then Hugo spent $75 on an online game. How much money does Norris have left?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

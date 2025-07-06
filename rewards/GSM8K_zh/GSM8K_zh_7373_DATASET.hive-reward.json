@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A plane flies between 4 cities; A, B, C and D. Passengers board and alight at each airport in every city when it departs and lands, respectively.  The distance between city A and city B is 100 miles.  The distance between city B and city C is 50 miles more than the distance between city A and city B.  The distance between city C and city D is twice the distance between city B and city C. Calculate the total distance between city A and city D.",
+  "checkpoint": [
+    {
+      "\\boxed{550}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

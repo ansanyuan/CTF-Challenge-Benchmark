@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A circle with center $O$ has radius 25. Chord $\\overline{AB}$ of length 30 and chord $\\overline{CD}$ of length 14 intersect at point $P$ . The distance between the midpoints of the two chords is 12. The quantity $OP^2$ can be represented as $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find the remainder when $m + n$ is divided by 1000.",
-    "checkpoint": [
-        {
-            "57": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A circle with center $O$ has radius 25. Chord $\\overline{AB}$ of length 30 and chord $\\overline{CD}$ of length 14 intersect at point $P$ . The distance between the midpoints of the two chords is 12. The quantity $OP^2$ can be represented as $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find the remainder when $m + n$ is divided by 1000.",
+  "checkpoint": [
+    {
+      "\\boxed{57}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

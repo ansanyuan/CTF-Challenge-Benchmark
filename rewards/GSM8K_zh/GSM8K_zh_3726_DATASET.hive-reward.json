@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At Peanut Emporium, peanuts cost $3 per pound with a 15-pound minimum. If Baxter spent $105 on peanuts, how many pounds over the minimum did he purchase?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

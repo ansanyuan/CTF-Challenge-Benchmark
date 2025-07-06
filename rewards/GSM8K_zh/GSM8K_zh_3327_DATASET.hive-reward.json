@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The largest animal to have ever lived on earth is the blue whale.  The tongue of an adult blue whale can weigh 6000 pounds.  If one ton is 2000 pounds, how many tons can the tongue of an adult blue whale weigh?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

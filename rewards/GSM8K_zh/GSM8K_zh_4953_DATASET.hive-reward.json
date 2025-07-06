@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Three times as many children as adults attend a concert on Saturday. An adult ticket costs $7 and a child's ticket costs $3. The theater collected a total of $6,000. How many people bought tickets?",
+  "checkpoint": [
+    {
+      "\\boxed{1500}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

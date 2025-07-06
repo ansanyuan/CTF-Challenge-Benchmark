@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Olivia pays 4 quarters for chips and 12 quarters for soda. How many dollars does she pay in total?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

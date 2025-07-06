@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Josh has 85 marbles. There are three times as many blue marbles as red while the rest are yellow. If there are 14 red marbles, how many yellow marbles are there?",
+  "checkpoint": [
+    {
+      "\\boxed{29}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

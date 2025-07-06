@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Josie's mom gave her a $20 bill and asked her to go to the store for a few items.  The list included a carton of milk for $4.00, a loaf of bread for $3.50, a box of laundry detergent for $10.25 and 2 pounds of bananas that were $0.75 per pound.  Her mom also gave her a coupon for $1.25 off of the laundry detergent.  At checkout, the clerk told her the milk was 1/2 off today.  How much money did Josie have left over after she bought all of the groceries?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

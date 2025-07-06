@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Zack's number of marbles can be divided equally among three people, leaving Zack with 5. If Zack decided to give his three friends 20 marbles each and kept five, how many marbles did he initially have?",
+  "checkpoint": [
+    {
+      "\\boxed{65}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

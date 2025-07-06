@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：My new house has 12 medium ceiling lights but I have seen small and large ceiling lights in other rooms. The small ones require 1 bulb, the medium ones require 2, and the large ones need 3 bulbs. How many bulbs should I buy if my wife says she saw twice as many large ceiling lights as medium ceiling lights and ten more small lights than medium ones?",
+  "checkpoint": [
+    {
+      "\\boxed{118}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

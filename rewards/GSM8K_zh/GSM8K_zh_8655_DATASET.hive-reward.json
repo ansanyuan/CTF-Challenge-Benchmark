@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Wendy is five times as old as Colin will be seven years from now. In 25 years, Colin will be a third as old as Wendy is now. How old is Colin now?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

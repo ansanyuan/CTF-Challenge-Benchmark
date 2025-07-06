@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ernest bought 50 meters of wire and cut it into 5 equal parts. He then used 3 parts of the wire. How many meters of wire is not used?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

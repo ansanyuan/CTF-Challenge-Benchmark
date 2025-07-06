@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lyra has an $80 budget for a week to spend on food. If she bought 1 bucket of fried chicken that costs $12 and 5 pounds of beef that cost $3 per pound. How much is left on her weekly budget?",
+  "checkpoint": [
+    {
+      "\\boxed{53}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

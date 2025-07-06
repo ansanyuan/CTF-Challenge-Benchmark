@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carol gets a fixed $20 allowance each week. She can also earn $1.5 more dollars each week if she does extra chores. At the end of 10 weeks, she has 425 dollars. How many extra chores did she average each week?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

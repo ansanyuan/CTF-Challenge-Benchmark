@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Walmart sells a multitool with a screwdriver, 3 knives, and two other tools. Target sells a multitool with a screwdriver, twice as many knives as Walmart, three files and a pair of scissors. How many more tools does the Target multitool have compared to Walmart?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

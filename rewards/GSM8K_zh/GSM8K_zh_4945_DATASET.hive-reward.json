@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Patrick buys a season pass for each of his sons to visit the local amusement park as often as they want.  The passes were $100.00 each.  The oldest son went to the park 35 times over the summer and the youngest went 15 times.  What was the cost per trip to the park?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

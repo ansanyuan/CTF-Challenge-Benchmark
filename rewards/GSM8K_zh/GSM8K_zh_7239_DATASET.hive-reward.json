@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A man loves to go hiking.  He knows that he has to pack about .5 pounds of supplies for every mile he hikes.  He plans to go for a very long hike.  He knows that he can get 1 resupply during the hike that will be 25% as large as his first pack.  He can hike at a rate of 2.5 mph.  He is going to hike 8 hours a day for 5 days.  How much does he need to bring with his first pack?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

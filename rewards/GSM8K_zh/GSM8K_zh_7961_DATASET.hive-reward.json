@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Uncle Ben has four horses. Each horse can consume five pounds of oats per meal. He feeds his horses twice a day. If one bag contains 50-pounds of oats,  how many bags of oats does he need to fed his horses for five days?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

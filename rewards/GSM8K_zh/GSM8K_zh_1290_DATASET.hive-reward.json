@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Gary has 30 grams of gold that cost $15 per gram. Anna has 50 grams of gold for the cost of $20 per gram. How much is the cost of their gold combined?",
+  "checkpoint": [
+    {
+      "\\boxed{1450}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

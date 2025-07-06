@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Michael’s largest watermelon weighs 8 pounds.  His neighbor, Clay, grew a watermelon three times that size.  And their mutual friend, John, grew a watermelon that was half the size of Clay’s.  How big was John’s watermelon?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

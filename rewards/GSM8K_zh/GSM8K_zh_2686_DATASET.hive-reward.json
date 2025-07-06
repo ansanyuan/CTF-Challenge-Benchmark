@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lana and Mike are taking their dog and renting a cabin in the mountains for 2 weeks.  The daily rate is $125.00  There is a $100.00 pet fee.  There is also a 20% service/cleaning fee for the rental.  They need to pay 50% of the entire bill as a security deposit.  How much is their security deposit?",
+  "checkpoint": [
+    {
+      "\\boxed{1110}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

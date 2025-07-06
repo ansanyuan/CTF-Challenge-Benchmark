@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：After sharing 100 stickers with her friends, Xia had five sheets of stickers left. If each sheet had ten stickers on it, how many stickers did Xia have at the beginning?",
+  "checkpoint": [
+    {
+      "\\boxed{150}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

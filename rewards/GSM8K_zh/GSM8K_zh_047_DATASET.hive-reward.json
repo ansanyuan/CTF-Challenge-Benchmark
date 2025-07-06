@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carolyn practices the piano for 20 minutes a day and the violin for three times as long. If she practice six days a week, how many minutes does she spend practicing in a month with four weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{1920}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jonathan enjoys walking and running for exercise, and he has three different exercise routines.  On Mondays, he walks at 2 miles per hour.  On Wednesdays, he walks at 3 miles per hour.  And on Fridays, he runs at 6 miles per hour.  On each exercise day, he travels 6 miles.  What is the combined total time, in hours, he spends exercising in a week?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

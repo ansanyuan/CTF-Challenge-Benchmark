@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Max needs 65 paper plates for the barbecue party.  He already has 22 green paper plates and 24 blue paper plates. How many more paper plates does he need?",
+  "checkpoint": [
+    {
+      "\\boxed{19}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

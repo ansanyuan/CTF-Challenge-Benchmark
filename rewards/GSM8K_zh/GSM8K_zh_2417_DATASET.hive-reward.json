@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Annie has 6 barrettes, twice as many scrunchies as barrettes, and three fewer bobby pins than barrettes. What percentage of her hair decorations are bobby pins, rounded to the nearest percent?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

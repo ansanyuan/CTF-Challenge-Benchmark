@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ariana heard the news that a new grocery store had opened up in their town, so she decided to buy some flowers for her house. She bought a bunch of 40 flowers, 2/5 of which were roses, 10 were tulips, and the rest were carnations. How many carnations did she buy?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

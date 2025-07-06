@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kyle bakes 60 cookies and 32 brownies. Kyle eats 2 cookies and 2 brownies. Kyle's mom eats 1 cookie and 2 brownies. If Kyle sells a cookie for $1 and a brownie for $1.50, how much money will Kyle make if he sells all of his baked goods?",
+  "checkpoint": [
+    {
+      "\\boxed{99}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Vivian is responsible for making sure her students get 2 15-minute recess breaks a day, a 30-minute lunch and another 20-minute recess break.  How much time do her students spend outside of class?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Perry wants to buy a new modern bedroom set for $2000.  He received $200.00 in gift cards over the holidays that he can use toward the set.  The store is currently offering the entire set at 15% off.  If he signs up for the store credit card and uses it to buy the set, he will save an additional 10% off on the discounted set.  What is the final price of the set?",
+  "checkpoint": [
+    {
+      "\\boxed{1330}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

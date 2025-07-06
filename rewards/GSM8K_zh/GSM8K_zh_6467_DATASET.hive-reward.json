@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：It’s spring! The gardener at Parc Municipal orders flowers. He takes 250 tulips, 375 carnations and 320 roses. Each flower is sold for 2€. Calculate the total expenses.",
+  "checkpoint": [
+    {
+      "\\boxed{1890}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

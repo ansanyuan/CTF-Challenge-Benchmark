@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Wanda weighs 30 pounds more than Yola currently. Wanda also weighs 80 pounds more than Yola did 2 years ago. How much did Yola weigh 2 years ago if she currently weighs 220 pounds?",
+  "checkpoint": [
+    {
+      "\\boxed{170}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

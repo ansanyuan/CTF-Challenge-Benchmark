@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sansa is a famous artist, she can draw a portrait and sell it according to its size. She sells an 8-inch portrait for $5, and a 16-inch portrait for twice the price of the 8-inch portrait. If she sells three 8-inch portraits and five 16-inch portraits per day, how many does she earns every 3 days?",
+  "checkpoint": [
+    {
+      "\\boxed{195}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

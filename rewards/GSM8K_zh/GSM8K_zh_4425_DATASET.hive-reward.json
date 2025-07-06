@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：At a James Bond movie party, each guest is either male (M) or female (F. 40% of the guests are women, 80% of the women are wearing rabbit ears, and 60% of the males are wearing rabbit ears. If the total number of guests at the party is 200, given all this information, what is the total number of people wearing rabbit ears?",
+  "checkpoint": [
+    {
+      "\\boxed{136}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

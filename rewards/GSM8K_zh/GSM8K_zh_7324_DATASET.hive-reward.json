@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Amber and Josh are flying to France for vacation.  Their flight leaves at 8:00 pm and as an international flight, it's recommended that they check in 2 hours early.  It will take 45 minutes to drive to the airport and another 15 minutes to park their vehicle and make their way to the terminal.  What is the latest time they can leave their house to make it to the airport in time?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

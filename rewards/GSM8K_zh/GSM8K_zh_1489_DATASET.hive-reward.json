@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bella, Monica, and Rachel are friends who like jewelry. Bella has 10 earrings, which is 25% of Monica's earrings, and Monica has twice as many earrings as Rachel. How many earrings do all of the friends have?",
+  "checkpoint": [
+    {
+      "\\boxed{70}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

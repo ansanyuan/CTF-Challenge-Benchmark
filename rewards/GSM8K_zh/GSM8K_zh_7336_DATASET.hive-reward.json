@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sophie does 4 loads of laundry a week and uses 1 dryer sheet per load.  A box of dryer sheets costs $5.50 and has 104 dryer sheets in a box.  On her birthday, she was given wool dryer balls to use instead of dryer sheets.  How much money does she save in a year not buying dryer sheets?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

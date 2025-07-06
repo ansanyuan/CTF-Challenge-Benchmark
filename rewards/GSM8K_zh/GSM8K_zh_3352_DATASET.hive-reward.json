@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jefferson hires a carriage to go to the church.  It is 20 miles away.  The horse can go 10 miles per hour.  It cost $30 per hour plus a flat fee of $20.  How much did he pay for the carriage?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

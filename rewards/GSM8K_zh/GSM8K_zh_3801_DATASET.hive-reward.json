@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Wanda has 62 crayons. Dina has 28 and Jacob has two fewer crayons than Dina. How many crayons do they have in total?",
+  "checkpoint": [
+    {
+      "\\boxed{116}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

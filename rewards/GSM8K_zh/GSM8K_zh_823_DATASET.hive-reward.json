@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cupcakes are sold in packages of 10 and 15. Jean bought 4 packs of 15 cupcakes.  If she will give one cupcake each to 100 children in the orphanage, how many packs of 10 cupcakes should she need to buy?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

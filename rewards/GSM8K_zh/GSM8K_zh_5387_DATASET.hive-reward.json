@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Erin counts six trolls hiding by the path in the forest, 6 less than four times that number of trolls hiding under the bridge, and half as many trolls hiding in the plains as under the bridge. How many trolls did she count in total?",
+  "checkpoint": [
+    {
+      "\\boxed{33}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

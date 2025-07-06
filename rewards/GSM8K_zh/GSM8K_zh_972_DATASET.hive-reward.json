@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Annabelle collected a weekly allowance of $30. She spent a third of it buying junk food, then spent another $8 on sweets. Out of guilt she decides to save the rest. How much did she save?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

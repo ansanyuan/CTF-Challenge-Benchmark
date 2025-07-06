@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Noah, who loves his Grammy, calls her every week to talk about his day. If each call lasts 30 minutes and he is charged $0.05 per call minute, how much would he be billed if he makes the calls for a year?",
+  "checkpoint": [
+    {
+      "\\boxed{78}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

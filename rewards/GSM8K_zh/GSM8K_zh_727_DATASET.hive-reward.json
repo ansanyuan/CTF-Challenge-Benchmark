@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jed is 10 years older than Matt. In 10 years, Jed will be 25 years old. What is the sum of their present ages?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

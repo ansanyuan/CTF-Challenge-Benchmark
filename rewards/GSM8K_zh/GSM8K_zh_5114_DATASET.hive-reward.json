@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Two birds making a nest each made 10 round trips collecting building materials. If the building materials were located 200 miles from where they were building the nest, what is the total distance the birds covered in the trips?",
+  "checkpoint": [
+    {
+      "\\boxed{8000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

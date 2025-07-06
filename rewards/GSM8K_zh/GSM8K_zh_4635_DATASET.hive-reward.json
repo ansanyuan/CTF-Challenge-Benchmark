@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cassandra collected 5000 pennies for the charity drive. James collected 276 fewer pennies. How many pennies did they donate to charity?",
+  "checkpoint": [
+    {
+      "\\boxed{9724}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

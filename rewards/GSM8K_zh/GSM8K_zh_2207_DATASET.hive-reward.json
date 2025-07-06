@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Shanna planted 6 tomato plants, 2 eggplant plants, and 4 pepper plants in her summer garden. Half of her tomato plants and one pepper plant died. The remaining plants each gave her 7 vegetables. How many vegetables did she have in all to harvest?",
+  "checkpoint": [
+    {
+      "\\boxed{56}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

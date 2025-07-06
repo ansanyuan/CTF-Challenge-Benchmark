@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Determine the number of ordered pairs $(a,b)$ of integers such that $\\log_a b + 6\\log_b a=5, 2 \\leq a \\leq 2005,$ and $2 \\leq b \\leq 2005.$",
-    "checkpoint": [
-        {
-            "54": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Determine the number of ordered pairs $(a,b)$ of integers such that $\\log_a b + 6\\log_b a=5, 2 \\leq a \\leq 2005,$ and $2 \\leq b \\leq 2005.$",
+  "checkpoint": [
+    {
+      "\\boxed{54}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

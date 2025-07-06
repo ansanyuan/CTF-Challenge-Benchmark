@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bob and Jim decide to skip rocks.  Bob can skip a rock 12 times.  Jim can skip a rock 15 times.  If they each skipped 10 rocks how many total skips did they get?",
+  "checkpoint": [
+    {
+      "\\boxed{270}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

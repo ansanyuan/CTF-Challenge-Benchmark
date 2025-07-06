@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The green piece of yarn is 156 cm long. The red yarn is 8 cm more than three times the length of the green yarn. What is the number of centimeters in the total length for the 2 pieces of yarn?",
+  "checkpoint": [
+    {
+      "\\boxed{632}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

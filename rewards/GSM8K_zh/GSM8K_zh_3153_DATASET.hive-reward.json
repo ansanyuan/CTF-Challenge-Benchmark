@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kiki made 10 cucumber sandwiches and 8 egg sandwiches for the tea party.  Each cucumber sandwich was cut into 4 triangles.  Each egg sandwich was cut into 2 rectangles.  If her guests ate 28 triangles and 12 rectangles, how many slices of bread did they eat?",
+  "checkpoint": [
+    {
+      "\\boxed{26}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

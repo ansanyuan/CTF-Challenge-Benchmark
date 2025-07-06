@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James spends 10 minutes downloading a game, half as long installing it, and triple that combined amount of time going through the tutorial. How long does it take before he can play the main game?",
+  "checkpoint": [
+    {
+      "\\boxed{60}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

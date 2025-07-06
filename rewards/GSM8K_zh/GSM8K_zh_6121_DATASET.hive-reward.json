@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Out of the 200 students in a class, thirty percent like the color blue. Among the remaining students who don't like the color blue, 40% like the color red, and the rest like the color yellow. Calculate the combined number of students who like the color yellow and the color blue.",
+  "checkpoint": [
+    {
+      "\\boxed{144}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Farmer Randy has 1700 acres of cotton he needs to have planted in 5 days.  With a crew of 2 tractors working for 2 days and then a crew of 7 tractors working for another 3 days, how many acres of cotton per day does each tractor need to plant to meet their planting deadline?",
+  "checkpoint": [
+    {
+      "\\boxed{68}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

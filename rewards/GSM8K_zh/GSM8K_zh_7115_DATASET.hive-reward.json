@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John buys 3 barbells and gives $850 and gets $40 in change.  How much did each barbell cost?",
+  "checkpoint": [
+    {
+      "\\boxed{270}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A farmer has 46 chickens. Each chicken gives him 6 eggs a week. If he sells a dozen eggs for $3, how much money would he make in 8 weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{552}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jimmy needs to score at least 50 points to pass to the next class. He earned 20 points for each of the 3 exams he wrote but lost 5 points during the school year for bad behavior. How many more points can Jimmy lose and still be able to pass the next class?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

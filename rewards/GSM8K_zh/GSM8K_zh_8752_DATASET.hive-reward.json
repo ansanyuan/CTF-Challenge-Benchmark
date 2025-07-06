@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tom found 214 seashells, Nancy found 432 seashells, and Benny found 86 seashells on the beach. When they cleaned them, they discovered that 67 were cracked. How many good seashells did they find together?",
+  "checkpoint": [
+    {
+      "\\boxed{665}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

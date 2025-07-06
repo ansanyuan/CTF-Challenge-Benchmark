@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Seth bought some boxes of oranges. He gave a box to his mother. He then gave away half of the remaining boxes. If Seth has 4 boxes of oranges left, how many boxes did he buy in the first place?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

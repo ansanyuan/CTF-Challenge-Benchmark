@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Fishio posted her selfie on Instagram. She received 2000 likes on the photo after 1 week. Three weeks later, the number of likes was 70 times as many as the initial number of likes. If she received 20000 more new likes recently, how many Instagram likes are there?",
+  "checkpoint": [
+    {
+      "\\boxed{162000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

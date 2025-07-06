@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Adam, Andrew and Ahmed all raise goats.  Adam has 7 goats.  Andrew has 5 more than twice as many goats as Adam.  Ahmed has 6 fewer goats than Andrew.  How many goats does Ahmed have?",
+  "checkpoint": [
+    {
+      "\\boxed{13}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

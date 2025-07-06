@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Harper collected 30% more pieces of Halloween candy than her sister Maggie, who only collected 50 pieces.  Neil collected 40% more candy than Harper.  How much candy did Neil get on Halloween?",
+  "checkpoint": [
+    {
+      "\\boxed{91}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

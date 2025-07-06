@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Trevor and two of his neighborhood friends go to the toy shop every year to buy toys. Trevor always spends $20 more than his friend Reed on toys, and Reed spends 2 times as much money as their friend Quinn on the toys. If Trevor spends $80 every year to buy his toys, calculate how much money in total the three spend in 4 years.",
+  "checkpoint": [
+    {
+      "\\boxed{680}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

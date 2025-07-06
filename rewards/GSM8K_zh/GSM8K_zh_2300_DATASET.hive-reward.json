@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Archibald and his brother are playing tennis against each other. Archibald has won 12 games and his brother has won 18. What percentage of games has Archibald won?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

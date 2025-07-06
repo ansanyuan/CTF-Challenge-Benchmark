@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kim's dad would buy her 2 candy bars a week.  She would eat 1 candy bar every 4 weeks, saving the rest.  After 16 weeks, how many candy bars did Kim have saved?",
+  "checkpoint": [
+    {
+      "\\boxed{28}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

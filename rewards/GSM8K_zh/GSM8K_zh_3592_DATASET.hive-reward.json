@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Pima invested $400 in Ethereum. In the first week, it gained 25% in value. In the second week, it gained an additional 50% on top of the previous gain. How much is her investment worth now?",
+  "checkpoint": [
+    {
+      "\\boxed{750}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

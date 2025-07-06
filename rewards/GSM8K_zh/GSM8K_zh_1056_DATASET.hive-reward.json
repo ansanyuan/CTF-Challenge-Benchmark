@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：New York is two-thirds as populated as all of New England. If New England has 2100000 people, calculate the combined population of both states.",
+  "checkpoint": [
+    {
+      "\\boxed{3500000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

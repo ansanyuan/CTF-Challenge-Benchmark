@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A man is returning home from work and trying to decide which route to take.  His first route option includes 3 stoplights.  This route will take him 10 minutes if all three lights are green, but each light that is red will add 3 minutes to the trip.  The second route does not include any stoplights and takes 14 minutes.  If the man chooses the first route, how much longer will his trip be if all 3 stoplights are red?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

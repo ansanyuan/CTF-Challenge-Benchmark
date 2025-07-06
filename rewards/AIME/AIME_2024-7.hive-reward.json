@@ -1,8 +1,8 @@
- {
+{
   "topic": "作答以下题目，并给出正确答案：There exist real numbers $x$ and $y$, both greater than 1, such that $\\log_x\\left(y^x\\right)=\\log_y\\left(x^{4y}\\right)=10$. Find $xy$.",
   "checkpoint": [
     {
-      "025": 1
+      "\\boxed{025}": 1
     }
   ],
   "matchingmethod": [

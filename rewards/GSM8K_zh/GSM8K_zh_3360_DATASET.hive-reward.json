@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ben has two brothers. They can each eat 12 slices of pizza. They are ordering pizza for the night and want to make sure they get enough. The large pizzas have 14 slices and the small pizzas have 8. If they order 1 small pizza, how many large pizzas do they need to order?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In the fall, a tree drops a tenth of its initial quantity of leaves each day over the course of four days, then abruptly drops the rest on the fifth day. If it had 340 leaves before they started to fall, how many leaves does it drop on the fifth day?",
+  "checkpoint": [
+    {
+      "\\boxed{204}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

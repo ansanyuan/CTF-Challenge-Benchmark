@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a math test, Mark scored twice as much as the least score. If the highest score is 98 and the range of the scores is 75, what was Mark's score?",
+  "checkpoint": [
+    {
+      "\\boxed{46}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

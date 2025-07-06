@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jeff is collecting matchbox cars. He has twice as many cars as trucks. He has 60 total vehicles. How many trucks does he have?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

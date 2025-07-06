@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A superhero can use superhuman speed to run 10 miles in 4 minutes. The supervillain has an Evil-Mobile that drives 100 miles per hour. How many miles farther can the superhero run in an hour than the supervillain can drive?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jude is trading his bottle cap collection to Arthur for some of Arthur's matchbox vehicles. Arthur charges Jude 5 bottle caps for a car and 6 bottle caps for a truck. Jude has 100 bottle caps. If he buys 10 trucks and spends 75% of his remaining bottle caps on cars, how many total matchbox vehicles does he buy?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

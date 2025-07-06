@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The standard poodle is 8 inches taller than the miniature poodle, and the miniature poodle is 6 inches taller than the toy poodle.  If the standard poodle in 28 inches tall, how tall is the toy poodle in inches?",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

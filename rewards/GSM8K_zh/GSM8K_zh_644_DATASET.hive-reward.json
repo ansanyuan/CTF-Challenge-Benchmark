@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Veronica's flashlight was bright enough to be seen at night from a distance of 1000 feet.  Freddie's flashlight could be seen at night for a distance three times farther than Veronica's flashlight, and Velma's flashlight could be seen at night from a distance 2000 feet less than 5 times farther than Freddie's flashlight.  If Veronica's and Velma's flashlight were placed next to one another and turned on at night, how much farther, in feet, could Velma's flashlight be seen compared to Veronica's?",
+  "checkpoint": [
+    {
+      "\\boxed{12000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

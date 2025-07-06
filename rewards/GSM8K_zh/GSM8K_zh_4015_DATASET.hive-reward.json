@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Adonis is playing a prank on his dad by replacing his shampoo with hot sauce. Every day, after his dad showers, Adonis replaces the shampoo with 1/2 an ounce of hot sauce. He knows his dad uses 1 oz of shampoo a day from a new 10 oz bottle that no one else uses. After 4 days, what percentage of the liquid in the bottle is hot sauce?",
+  "checkpoint": [
+    {
+      "\\boxed{25}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

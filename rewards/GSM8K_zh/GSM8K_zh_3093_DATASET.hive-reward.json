@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A hardware store sold 10 graphics cards, 14 hard drives, 8 CPUs, and 4 pairs of RAM in one week. The graphics cards cost $600 each, hard drives cost $80 each, CPUs cost $200 each, and RAM cost $60 for each pair. How much money did the store earn this week?",
+  "checkpoint": [
+    {
+      "\\boxed{8960}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

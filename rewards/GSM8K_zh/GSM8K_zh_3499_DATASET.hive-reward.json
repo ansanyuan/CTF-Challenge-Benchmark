@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Harry's birthday was three weeks after the closing of the school. His three friends decided to contribute an equal amount of money to throw him a party. Harry added $30 to the contribution, making the total contribution three times as much as Harry contributed. Calculate the total amount of money that each of Harry's friends contributed.",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

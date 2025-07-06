@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In four years, Suzy will be twice Mary's age then. If Suzy is 20 now, how old is Mary?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The difference between the price of an orange and the price of a pear equals the price of a banana. If the total cost of an orange and a pear is $120 and a pear costs $90, calculate the total price of buying 200 bananas and twice as many oranges as bananas.",
+  "checkpoint": [
+    {
+      "\\boxed{24000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

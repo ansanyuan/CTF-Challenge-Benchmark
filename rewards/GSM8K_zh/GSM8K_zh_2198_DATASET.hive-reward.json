@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Missy has an obedient dog and a stubborn dog. She has to yell at the stubborn dog four times for every one time she yells at the obedient dog. If she yells at the obedient dog 12 times, how many times does she yell at both dogs combined?",
+  "checkpoint": [
+    {
+      "\\boxed{60}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

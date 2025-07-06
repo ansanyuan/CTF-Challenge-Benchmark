@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If Ken's house is twice as far from Dawn's house as Mary's house along a certain road, and Ken's house is 4 miles away from Dawn's house along this same road, how much distance (in miles) will Ken cover if he goes from his house to Dawn's house, then Mary's, then back to Dawn's before going back to his own house?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jackson wants to start saving for the vacation that he’s taking next August, 15 months away.  He wants to save $3,000.00.  If he gets paid 2 times a month how much money does he need to set aside, per paycheck, to have enough money saved for his vacation?",
+  "checkpoint": [
+    {
+      "\\boxed{100}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

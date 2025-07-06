@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：One ticket to the underground costs $3. In one minute, the metro sells an average of 5 such tickets. What will be the earnings from the tickets in 6 minutes?",
+  "checkpoint": [
+    {
+      "\\boxed{90}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

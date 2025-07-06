@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Julie operates the cash register exactly twice as fast as her less-experienced colleague Jewel. Daily, Jewel processes 50 customers. What is the total weekly production for the two if they work all days of the week?",
+  "checkpoint": [
+    {
+      "\\boxed{1050}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

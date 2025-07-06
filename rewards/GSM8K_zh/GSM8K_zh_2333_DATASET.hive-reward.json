@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A volcano erupts and spews ash into the sky. The ash cloud spreads out in a diameter eighteen times as far as the distance it shot up into the sky. If the ashes erupted three hundred feet into the sky, what was the radius of the ash cloud in feet?",
+  "checkpoint": [
+    {
+      "\\boxed{2700}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

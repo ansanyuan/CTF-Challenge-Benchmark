@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A machine fills 150 cans of paint every 8 minutes. How many minutes does it take this machine to fill 675 cans?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

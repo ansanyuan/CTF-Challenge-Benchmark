@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Melisa and Jennifer threw a fiftieth birthday party for their father at a local restaurant. When the bill came, Melisa added a 15% tip of $42. Jennifer said that the service was wonderful and they should leave a 20% tip instead. How much is a 20% tip?",
+  "checkpoint": [
+    {
+      "\\boxed{56}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

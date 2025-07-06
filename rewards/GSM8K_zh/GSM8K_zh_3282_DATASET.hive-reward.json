@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jaylen’s dog eats 1 cup of dog food in the morning and 1 cup of dog food in the evening.  If she buys a bag that has 32 cups of dog food, how many days can she feed her dog with it?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

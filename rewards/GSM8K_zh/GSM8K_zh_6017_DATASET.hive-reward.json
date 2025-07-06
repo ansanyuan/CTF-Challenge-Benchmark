@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Madison and Gigi have to run a total of 2400 meters in gym class. The track is 150 meters around. If they each have run 6 laps, how many more laps do they have to run before they reach 2400 meters?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

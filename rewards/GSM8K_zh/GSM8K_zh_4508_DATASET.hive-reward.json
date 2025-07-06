@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John takes 3 naps a week.  Each nap is 2 hours long.  In 70 days how many hours of naps does he take?",
+  "checkpoint": [
+    {
+      "\\boxed{60}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

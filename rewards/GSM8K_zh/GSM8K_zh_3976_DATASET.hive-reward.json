@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cheryl got angry with her sister and decided to run away from home. She walked 2 miles every hour for 3 hours. Then she got homesick and walked back home. How many miles did Cheryl walk in total?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

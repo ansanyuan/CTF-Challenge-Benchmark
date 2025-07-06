@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A restaurant has 40 tables with 4 legs and 50 tables with 3 legs. Calculate the total number of legs the restaurant's tables have.",
+  "checkpoint": [
+    {
+      "\\boxed{310}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

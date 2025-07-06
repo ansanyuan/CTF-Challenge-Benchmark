@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brian likes to read books.  He read one book that had 20 chapters, two books that had 15 chapters each, and one book that had half the chapters of the three previous books put together. How many chapters of books did Brian read?",
+  "checkpoint": [
+    {
+      "\\boxed{75}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

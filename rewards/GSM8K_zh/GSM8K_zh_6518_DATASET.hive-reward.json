@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mabel lives 4500 steps directly east of Lake High school. Helen lives 3/4 the number of steps that Mabel lives, directly west of the school. What's the total number of steps Mabel will walk to visit Helen so that they can do their assignments together?",
+  "checkpoint": [
+    {
+      "\\boxed{7875}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

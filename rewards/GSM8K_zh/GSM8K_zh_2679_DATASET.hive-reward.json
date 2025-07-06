@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nunzio eats three pieces of pizza every day for lunch.  If a piece of pizza represents one-eighth of the entire pie, then how many pizzas does Nunzio eat in 72 days?",
+  "checkpoint": [
+    {
+      "\\boxed{27}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

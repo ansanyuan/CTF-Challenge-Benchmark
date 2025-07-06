@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cristian has 50 more black cookies in his cookie jar than white cookies. He eats half of the black cookies and 3/4 of the white cookies. If he initially had 80 white cookies, how many cookies are remaining within the cookie jar altogether?",
+  "checkpoint": [
+    {
+      "\\boxed{85}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

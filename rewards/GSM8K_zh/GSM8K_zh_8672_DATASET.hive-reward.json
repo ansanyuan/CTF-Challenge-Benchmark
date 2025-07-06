@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：To participate in the local community tree-planting campaign, Mr. Julius planted twenty trees of White Oak and twice as many Lodgepole Pine as White Oak on his first day. On the second day, he planted 10 more White Oak trees and 1/4 more Lodgepole Pine trees than he planted on the first day. Calculate the total number of trees planted by Mr. Julius in the two days.",
+  "checkpoint": [
+    {
+      "\\boxed{140}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

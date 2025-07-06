@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Fern buys one pair of high heels for $60 and five pairs of ballet slippers for 2/3rds of the price of the high heels. How much does she pay total?",
+  "checkpoint": [
+    {
+      "\\boxed{260}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

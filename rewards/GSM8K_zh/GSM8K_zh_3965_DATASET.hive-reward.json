@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A conference center has six rooms. Each room can hold up to 80 people. Today, the conference center is only 2/3 full. How many people are in the conference center?",
+  "checkpoint": [
+    {
+      "\\boxed{320}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

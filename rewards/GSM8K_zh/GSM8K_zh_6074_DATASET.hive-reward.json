@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Three fifths of the light bulbs in the kitchen are broken. A third of the light bulbs in the foyer are also broken. If 10 light bulbs in the foyer are broken and there are 35 light bulbs in the kitchen, then how many light bulbs are not broken in both the foyer and kitchen?",
+  "checkpoint": [
+    {
+      "\\boxed{34}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

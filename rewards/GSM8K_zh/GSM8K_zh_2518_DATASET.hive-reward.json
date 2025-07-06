@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mrs. Choi purchased a house for $80000. Five years later, she sold it for a 20% profit and got a 5% broker's commission from the original price. How much did the house sell for?",
+  "checkpoint": [
+    {
+      "\\boxed{100000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sean is practicing for his role in a theater production. He has to memorize his lines for two scenes and the lyrics to one solo song. His solo song has 54 lines in the lyrics. The first scene has twice the number of lines, but only a third of them are his lines. The second scene has six more lines than the song, and four-fifths of them are his. How many lines does Sean have to memorize?",
+  "checkpoint": [
+    {
+      "\\boxed{138}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

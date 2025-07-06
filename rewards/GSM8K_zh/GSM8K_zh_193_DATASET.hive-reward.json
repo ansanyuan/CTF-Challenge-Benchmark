@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Apple sold 100 iPhones at their New York store today for an average cost of $1000. They also sold 20 iPads for an average cost of $900 and 80 Apple TVs for an average cost of $200. What was the average cost across all products sold today?",
+  "checkpoint": [
+    {
+      "\\boxed{670}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ben has four boxes with ten basketball cards in each box. His mother gave him five boxes with eight baseball cards.  If he gives 58 cards to his classmates, how many cards does he has left?",
+  "checkpoint": [
+    {
+      "\\boxed{22}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

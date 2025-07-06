@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Evaluate the product \\[\\left(\\sqrt{5}+\\sqrt{6}+\\sqrt{7}\\right)\\left(\\sqrt{5}+\\sqrt{6}-\\sqrt{7}\\right)\\left(\\sqrt{5}-\\sqrt{6}+\\sqrt{7}\\right)\\left(-\\sqrt{5}+\\sqrt{6}+\\sqrt{7}\\right).\\]",
-    "checkpoint": [
-        {
-            "104": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Evaluate the product \\[\\left(\\sqrt{5}+\\sqrt{6}+\\sqrt{7}\\right)\\left(\\sqrt{5}+\\sqrt{6}-\\sqrt{7}\\right)\\left(\\sqrt{5}-\\sqrt{6}+\\sqrt{7}\\right)\\left(-\\sqrt{5}+\\sqrt{6}+\\sqrt{7}\\right).\\]",
+  "checkpoint": [
+    {
+      "\\boxed{104}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

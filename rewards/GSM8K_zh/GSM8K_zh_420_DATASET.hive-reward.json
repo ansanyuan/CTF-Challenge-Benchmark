@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kenny played 10 hours of basketball last week. He ran for twice as long as he played basketball, and he practiced on the trumpet for twice as long as he ran. How many hours did Kenny practice on the trumpet last week?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

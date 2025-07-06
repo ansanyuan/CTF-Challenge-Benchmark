@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：An internet provider gives a 5% discount if the customer pays before the 25th day of the month. If the monthly internet rate is $50, how much did the customer pay in all for 4 months if he paid every 25th of the month?",
+  "checkpoint": [
+    {
+      "\\boxed{190}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

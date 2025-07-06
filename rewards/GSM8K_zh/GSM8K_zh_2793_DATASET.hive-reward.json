@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Liam is teaching art to a group of 10 students. He has 20 art kits that he hands out to the students to share, 1 art kit for 2 students. From those art kits half the students make 3 artworks each and half the students make 4 artworks each. How many artistic works does the whole class create?",
+  "checkpoint": [
+    {
+      "\\boxed{35}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Pauline will make tacos for dinner. She bought a box of taco shells that cost $5, 4 bell peppers that cost $1.5 each, and 2 pounds of meat that cost $3 per pound.  How much did she spend in all?",
+  "checkpoint": [
+    {
+      "\\boxed{17}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

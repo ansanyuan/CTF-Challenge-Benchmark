@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：To kick off summer, Jolene is having a water balloon fight with her friends.  They fill up 10 packs of balloons that have 30 balloons per pack.  By the end of the afternoon, 12 balloons are left.  How many balloons did they throw?",
+  "checkpoint": [
+    {
+      "\\boxed{288}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

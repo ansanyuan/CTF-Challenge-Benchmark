@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A pound of strawberries costs $2.20 and a pound of cherries costs 6 times as much as strawberries. If Briget will buy 5 pounds of strawberries and 5 pounds of cherries, how much will it cost?",
+  "checkpoint": [
+    {
+      "\\boxed{77}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

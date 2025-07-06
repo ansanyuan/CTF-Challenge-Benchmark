@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Maddie went to a beauty store and bought some beauty products. She bought 3 different makeup palettes which cost $15 each, 4 lipsticks which cost $2.50, and 3 boxes of hair color which cost $4 each. How much did Maddie pay in total?",
+  "checkpoint": [
+    {
+      "\\boxed{67}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

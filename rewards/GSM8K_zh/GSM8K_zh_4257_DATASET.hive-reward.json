@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tim does 100 tasks a day.  They each pay $1.2.  If he works 6 days a week how much does he make a week?",
+  "checkpoint": [
+    {
+      "\\boxed{720}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

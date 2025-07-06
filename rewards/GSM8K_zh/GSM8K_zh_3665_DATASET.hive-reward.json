@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bob's school track is 400 meters. If Bob ran the first lap in 70 seconds, the second and third lap in 85 seconds each, what was his average speed in (m/s) for his entire run?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

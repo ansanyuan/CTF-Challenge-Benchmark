@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Louis has 5 oranges and 3 apples. Samantha has 8 oranges and 7 apples. If Marley has twice as many oranges as Louis and three times as many apples as Samantha, how many fruits in total does Marley have?",
+  "checkpoint": [
+    {
+      "\\boxed{31}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

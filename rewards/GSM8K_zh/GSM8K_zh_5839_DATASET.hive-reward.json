@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mark and Peter dug ponds in their backyards. Mark’s pond is 4 feet deeper than 3 times Peter’s pond. If Mark’s pond is 19 feet deep, what is the depth of Peter’s pond?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

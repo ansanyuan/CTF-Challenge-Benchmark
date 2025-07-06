@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：India has 4 more than half the number of states in the USA. What's the total number of states in both countries together?",
+  "checkpoint": [
+    {
+      "\\boxed{79}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

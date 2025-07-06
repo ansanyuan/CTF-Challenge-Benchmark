@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A group of children held a grape-eating contest. When the contest was over, the winner had eaten $n$ grapes, and the child in $k$ -th place had eaten $n+2-2k$ grapes. The total number of grapes eaten in the contest was $2009$ . Find the smallest possible value of $n$ .",
-    "checkpoint": [
-        {
-            "89": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A group of children held a grape-eating contest. When the contest was over, the winner had eaten $n$ grapes, and the child in $k$ -th place had eaten $n+2-2k$ grapes. The total number of grapes eaten in the contest was $2009$ . Find the smallest possible value of $n$ .",
+  "checkpoint": [
+    {
+      "\\boxed{89}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

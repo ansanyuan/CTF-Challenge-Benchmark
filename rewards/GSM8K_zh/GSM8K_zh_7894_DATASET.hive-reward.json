@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：To fund his store, Mr. Josue solicited money from two banks. The first bank gave him $4000, and the second company gave him twice as much. If he initially had $5000 in capital, how much capital does he have now?",
+  "checkpoint": [
+    {
+      "\\boxed{17000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

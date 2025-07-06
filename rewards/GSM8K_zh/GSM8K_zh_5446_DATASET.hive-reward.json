@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kennedy’s car can drive 19 miles per gallon of gas. She was able to drive 15 miles to school, 6 miles to the softball park, 2 miles to a burger restaurant, 4 miles to her friend’s house, and 11 miles home before she ran out of gas. How many gallons of gas did she start with?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

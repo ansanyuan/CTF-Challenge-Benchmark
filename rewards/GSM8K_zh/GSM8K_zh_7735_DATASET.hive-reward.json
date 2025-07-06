@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 9,300 pennies in a cup. What is the total dollar amount in a stack that contains two thirds of the pennies in the cup?",
+  "checkpoint": [
+    {
+      "\\boxed{62}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jackson is buying school supplies for his third grade class, which has 30 students. Each student needs 5 pens, 3 notebooks, 1 binder and 2 highlighters. Pens cost $0.50, notebooks cost $1.25, binders cost $4.25, and highlighters cost $0.75. If Jackson gets a $100 teacher discount, how much does he spend on school supplies?",
+  "checkpoint": [
+    {
+      "\\boxed{260}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

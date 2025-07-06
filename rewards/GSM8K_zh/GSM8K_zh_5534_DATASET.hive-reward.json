@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A developer was buying land. He bought 4 acres at $1,863 per acre. He then split the land he purchased into 9 lots. How much should he sell each lot for just to break even?",
+  "checkpoint": [
+    {
+      "\\boxed{828}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

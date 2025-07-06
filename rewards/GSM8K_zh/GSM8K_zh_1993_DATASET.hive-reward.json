@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If 1 ounce of Dawn liquid soap can make 200,000 bubbles, and Dr. Bronner's liquid soap can make twice as many bubbles per ounce as Dawn liquid soap, then how many bubbles can be made from one half ounce of an equal mixture of Dawn and Dr. Bronner's liquid soaps?",
+  "checkpoint": [
+    {
+      "\\boxed{150000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

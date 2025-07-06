@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Georgia has 25 pieces of stationery while Lorene has three times as many pieces of stationery as Georgia. How many fewer pieces of stationery does Georgia have than Lorene?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

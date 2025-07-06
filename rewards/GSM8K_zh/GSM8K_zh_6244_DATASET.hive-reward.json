@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jebb buys $50 worth of food at a restaurant with a service fee of 12%. After paying, he gives a $5 tip. How much money did he spend at the restaurant?",
+  "checkpoint": [
+    {
+      "\\boxed{61}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

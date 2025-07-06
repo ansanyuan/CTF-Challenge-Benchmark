@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jerry files a lawsuit against the convenience store where he works and slipped and fell. He's asking for damages for loss of a $50,000 annual salary for 30 years, $200,000 in medical bills, and punitive damages equal to triple the medical and salary damages. If he gets 80% of what he's asking for, for much money does he get?",
+  "checkpoint": [
+    {
+      "\\boxed{5440000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

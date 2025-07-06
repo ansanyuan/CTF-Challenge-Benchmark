@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Samara and three of her friends heard alligators spotted on the local river and decided to join a search organized by the wildlife service to capture the animals. After searching the whole day, Samara had seen 20 alligators while her friends had seen an average of 10 alligators each. Calculate the total number of alligators Samara and her friends saw.",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

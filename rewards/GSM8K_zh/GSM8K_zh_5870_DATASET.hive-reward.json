@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jaden had 14 toy cars. Then he bought 28 cars from the toy store and got 12 cars for his birthday. Jaden gave 8 of the toy cars to his sister and 3 to his friend Vinnie. How many toy cars does Jaden have left?",
+  "checkpoint": [
+    {
+      "\\boxed{43}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

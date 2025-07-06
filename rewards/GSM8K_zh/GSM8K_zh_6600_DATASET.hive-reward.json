@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Johnson has a sack of potatoes. He gives Gina 69 potatoes, gives Tom twice as much potatoes as he gave Gina and gives one-third of the amount of potatoes he gave Tom to Anne. How many potatoes does he have left if the sack contains 300 potatoes?",
+  "checkpoint": [
+    {
+      "\\boxed{47}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

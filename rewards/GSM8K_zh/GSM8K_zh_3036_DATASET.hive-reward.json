@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Linda makes $10.00 an hour babysitting.  There is a $25.00 application fee for each college application she submits.  If she is applying to 6 colleges, how many hours will she need to babysit to cover the application fees?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jared counted 15% fewer cars than his sister Ann while they were watching the road from the school, and Ann counted 7 more cars than their friend Alfred. If Jared counted 300 cars, how many cars did all of them count?",
+  "checkpoint": [
+    {
+      "\\boxed{983}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

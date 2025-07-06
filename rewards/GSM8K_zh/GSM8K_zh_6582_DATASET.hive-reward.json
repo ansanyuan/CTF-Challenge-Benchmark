@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Andy bakes and sells birthday cakes. To make two cakes he spends $12 on ingredients, and $1 on packaging for each cake. Andy sells each cake for $15. How much money does Andy make for each cake?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

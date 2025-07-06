@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dan spent $32 buying a new backpack, 1 pack of pens, 1 pack of pencils and 5 multi-subject notebooks for school.  If the backpack costs $15 and both the pens and pencils cost $1.00 each, how much did each notebook cost?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

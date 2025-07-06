@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lisa has 18 more dresses than Ana. If the number of their dresses combined is 48, how many dresses does Ana have?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

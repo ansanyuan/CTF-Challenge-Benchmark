@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：How many even integers between 4000 and 7000 have four different digits?",
-    "checkpoint": [
-        {
-            "728": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：How many even integers between 4000 and 7000 have four different digits?",
+  "checkpoint": [
+    {
+      "\\boxed{728}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

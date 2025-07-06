@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jan's three-eyed lizard has 3 times more wrinkles than eyes, and seven times more spots than wrinkles. How many fewer eyes does the lizard have than the combined number of spots and wrinkles?",
+  "checkpoint": [
+    {
+      "\\boxed{69}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

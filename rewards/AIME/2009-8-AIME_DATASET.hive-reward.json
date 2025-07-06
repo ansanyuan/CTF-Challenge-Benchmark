@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Dave rolls a fair six-sided die until a six appears for the first time. Independently, Linda rolls a fair six-sided die until a six appears for the first time. Let $m$ and $n$ be relatively prime positive integers such that $\\dfrac mn$ is the probability that the number of times Dave rolls his die is equal to or within one of the number of times Linda rolls her die. Find $m+n$ . ",
-    "checkpoint": [
-        {
-            "41": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Dave rolls a fair six-sided die until a six appears for the first time. Independently, Linda rolls a fair six-sided die until a six appears for the first time. Let $m$ and $n$ be relatively prime positive integers such that $\\dfrac mn$ is the probability that the number of times Dave rolls his die is equal to or within one of the number of times Linda rolls her die. Find $m+n$ . ",
+  "checkpoint": [
+    {
+      "\\boxed{41}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

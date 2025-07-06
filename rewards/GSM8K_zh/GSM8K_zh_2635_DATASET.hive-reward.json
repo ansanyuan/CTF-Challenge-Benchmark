@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The price of a math textbook in the school bookshop is $45. If those sold in bookshops outside the school cost 20% less, how much can Peter save by buying from other bookshops rather than the school's if he wants to buy 3 math textbooks?",
+  "checkpoint": [
+    {
+      "\\boxed{27}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Noah and Ava are planning a trip to the zoo.  Zoo entry tickets are $5 per person.  Bus fare is $1.50 per person one way.  If they bring $40 with them, how much money do they have left to spend on lunch and snacks?",
+  "checkpoint": [
+    {
+      "\\boxed{24}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rachel is twice as old as Rona and Collete's age is half the age of Rona's. If Rona is 8 years old, what is the difference between the age of Collete and Rachel?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

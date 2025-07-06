@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Your video streaming subscription costs $14 a month. If you're evenly splitting the cost with your friend, how much do you pay in total after the first year for this service?",
+  "checkpoint": [
+    {
+      "\\boxed{84}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

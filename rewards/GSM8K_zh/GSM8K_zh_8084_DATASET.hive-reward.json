@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：It costs $194 per meter to repave a street. Monica's street is 150 meters long. How much more does it cost to repave Lewis' street, which is 490 meters long?",
+  "checkpoint": [
+    {
+      "\\boxed{65960}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

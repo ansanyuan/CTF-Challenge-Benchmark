@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sara got her first paycheck of two weeks of work. She had worked 40 hours a week at $11.50 per hour. The first thing she did was buy a new set of tires for her car for $410. How much money was she left with?",
+  "checkpoint": [
+    {
+      "\\boxed{510}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

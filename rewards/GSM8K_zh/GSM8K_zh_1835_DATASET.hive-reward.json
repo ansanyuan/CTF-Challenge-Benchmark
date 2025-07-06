@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：During vacation, Jimmy visits different beaches on an island, so he changes his place of lodging from time to time. The first 3 days he stays in a hostel, where he is charged $15 per night. The fourth and fifth days he stays in a cabin where he shares expenses with 2 of his friends, and they are charged $45 total per night. How much did Jimmy spend on lodging?",
+  "checkpoint": [
+    {
+      "\\boxed{75}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

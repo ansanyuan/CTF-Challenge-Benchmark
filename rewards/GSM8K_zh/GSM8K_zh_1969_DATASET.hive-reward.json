@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cat Cafe Meow has 3 times as many cats as Cat Cafe Paw. Cat Cafe Paw has 2 times as many cats as Cat Cafe Cool. If Cat Cafe Cool has 5 cats, how many cats are there in Cat Cafe Meow and Cat Cafe Paw?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

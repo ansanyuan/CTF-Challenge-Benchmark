@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jason spent 1/4 of his money and an additional $10 on some books. He then spent 2/5 of the remaining money and an additional $8 on some DVDs. If he was left with $130, how much money did he have at first?",
+  "checkpoint": [
+    {
+      "\\boxed{320}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

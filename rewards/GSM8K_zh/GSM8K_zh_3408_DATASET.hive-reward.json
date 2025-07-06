@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Peter and Andrew like to run in the morning.  Peter runs 3 miles more than Andrew's 2 miles.  After 5 days, how many miles have they both run?",
+  "checkpoint": [
+    {
+      "\\boxed{35}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Today Geoff bought 2 pairs of sneakers and spent $60 equally between the two. Tomorrow, he's going to spend 4 times as much on sneakers than he did on Monday. Wednesday, he'll spend 5 times as much on sneakers than he did on Monday. How much will Geoff spend on sneakers over these three days?",
+  "checkpoint": [
+    {
+      "\\boxed{600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

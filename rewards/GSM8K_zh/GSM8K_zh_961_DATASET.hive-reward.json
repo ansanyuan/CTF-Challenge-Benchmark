@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cindy was 5 years old.  Her sister Jan was 2 years older than Cindy.  Their oldest sister Marcia was twice as old as Jan.  Greg was two years older than Marcia.  How old was Greg?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

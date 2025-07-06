@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ali, Peter, and Joey were fishing. The fish Ali caught weighed, in sum, twice as much as the fish that Peter caught. Joey caught 1 kg more fish than Peter. Together the three of them caught 25 kg of fish. How many kilograms did Ali catch?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

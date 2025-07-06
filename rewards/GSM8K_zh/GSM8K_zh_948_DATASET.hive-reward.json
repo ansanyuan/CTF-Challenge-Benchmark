@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Johnny has been playing guitar for a while now.  He practices the same amount each day. As of 20 days ago he had half as much practice as he has currently.  How many days will pass before Johnny has 3 times as much practice as he does currently?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

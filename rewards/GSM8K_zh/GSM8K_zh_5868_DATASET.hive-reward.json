@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sophie's aunt gave her $260 to spend on clothes at the mall. She bought 2 shirts that cost $18.50 each and a pair of trousers that cost $63. She then decides to purchase 4 more articles of clothing with her remaining budget. How much money would each item cost if she split the cost of each item evenly?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

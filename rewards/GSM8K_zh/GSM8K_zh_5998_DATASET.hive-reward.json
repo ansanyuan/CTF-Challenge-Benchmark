@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mason is a caterer packing up silverware and plates for a big corporate event. Each piece of silverware weighs 4 ounces, and there are three pieces of silverware per setting. Each plate weighs 12 ounces, and there are two plates per setting. If Mason needs enough settings for 15 tables with 8 settings each, plus 20 backup settings in case of breakage, how many ounces will all the settings weigh?",
+  "checkpoint": [
+    {
+      "\\boxed{5040}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

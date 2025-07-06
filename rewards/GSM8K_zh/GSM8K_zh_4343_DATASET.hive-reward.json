@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 20 stickers on a page. If you have 12 pages of stickers but lose one of the pages, then how many stickers would you have?",
+  "checkpoint": [
+    {
+      "\\boxed{220}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Fred had 236 dollars to spend on 6 books. After buying them, he had 14 dollars. On average, how much did each book cost?",
+  "checkpoint": [
+    {
+      "\\boxed{37}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

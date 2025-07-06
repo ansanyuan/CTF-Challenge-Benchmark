@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Miles is a musician.  He owns three fewer trumpets than he has fingers, and two more guitars than he has hands.  He also owns two more trombones than he has heads, and one fewer French horn than he has guitars.  What is the total number of musical instruments that Miles owns?",
+  "checkpoint": [
+    {
+      "\\boxed{17}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

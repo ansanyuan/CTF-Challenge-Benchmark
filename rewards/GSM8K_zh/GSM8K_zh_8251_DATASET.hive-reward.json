@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mike decides he wants to replace his movie collection with digital versions.  He has 600 movies.  A third of the movies are in various series and he knows he can get those for only $6 of the cost of a normal movie by just buying the series together.  40% of the remaining movies are older movies which are $5.  How much does replacing the movies cost if a normal movie costs $10?",
+  "checkpoint": [
+    {
+      "\\boxed{4400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

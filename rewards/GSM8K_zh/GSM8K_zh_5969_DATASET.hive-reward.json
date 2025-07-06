@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Josue planted a tree in his backyard that grows at the rate of 2 feet per week. If the tree is currently 10 feet tall, what would be the tree's total height after 4 months (assuming each month is 4 weeks long)?",
+  "checkpoint": [
+    {
+      "\\boxed{42}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

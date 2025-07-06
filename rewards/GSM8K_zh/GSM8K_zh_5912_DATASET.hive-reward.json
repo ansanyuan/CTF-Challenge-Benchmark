@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A building has 20 floors. Each floor is 3 meters high, except for the last two floors. The last two floors are each 0.5 meters higher. How tall is the building?",
+  "checkpoint": [
+    {
+      "\\boxed{61}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

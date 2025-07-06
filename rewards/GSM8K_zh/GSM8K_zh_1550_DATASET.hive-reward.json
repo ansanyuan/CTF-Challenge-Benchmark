@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Melanie does her weekly shopping at the farmer's market.  She starts with an 8-ounce wheel of brie cheese.  Next is a 1 pound loaf of bread.  She grabs a pound of tomatoes and 2 pounds of zucchini.  After that, she grabs 1 1/2 pounds of chicken breasts and treats herself to 8 ounces of fresh raspberries and 8 ounces of fresh blueberries.  How many pounds of food does she buy?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

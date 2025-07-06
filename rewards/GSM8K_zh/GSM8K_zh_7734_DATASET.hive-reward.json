@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Two cups of flour are needed to make a dozen cookies. Carla is making 36 cookies today and 30 cookies tomorrow. How many cups of flour will Carla need to bake the cookies today and tomorrow?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

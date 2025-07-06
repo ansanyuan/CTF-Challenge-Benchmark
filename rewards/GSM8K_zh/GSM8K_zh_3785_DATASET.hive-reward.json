@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sally needs to make a tablecloth that measures 102 inches by 54 inches. She also needs to make 8 napkins that are 6 by 7 inches. How many square inches of material will Sally need to make the tablecloth and the 8 napkins?",
+  "checkpoint": [
+    {
+      "\\boxed{5844}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a studio audience of 100 people, 40% of these people have an envelope taped underneath their chairs.  20% of these people will have \"You Won\" in their envelope, the rest will have empty envelopes.  How many people will win a prize?",
+  "checkpoint": [
+    {
+      "\\boxed{8}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

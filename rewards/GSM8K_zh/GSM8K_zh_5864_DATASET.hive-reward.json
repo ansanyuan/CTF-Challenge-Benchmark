@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mary is making a spinach quiche. She takes 40 ounces of raw spinach and cooks it until it's 20% of its initial volume. If she mixes the spinach with 6 ounces of cream cheese and 4 ounces of eggs, what is the total volume of the quiche?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

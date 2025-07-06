@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John has 10 members of his family on his father's side.  His mother's side is 30% larger.  How many people are there in total?",
+  "checkpoint": [
+    {
+      "\\boxed{23}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

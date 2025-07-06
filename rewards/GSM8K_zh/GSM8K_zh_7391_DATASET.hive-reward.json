@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Today is my birthday and I'm three times older than I was six years ago. What is my age?",
+  "checkpoint": [
+    {
+      "\\boxed{9}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On Tuesday, Mike had 45 books and Corey had twice as many books as Mike. On Wednesday, Mike gave 10 books to Lily, and Corey gave Lily 15 more than Mike gave. How many books did Lily get?",
+  "checkpoint": [
+    {
+      "\\boxed{35}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

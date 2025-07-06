@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Logan makes $65,000 a year. He spends $20,000 on rent every year, $5000 on groceries every year, and $8000 on gas every year. If he wants to have at least $42000 left, how much more money must he make each year?",
+  "checkpoint": [
+    {
+      "\\boxed{10000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

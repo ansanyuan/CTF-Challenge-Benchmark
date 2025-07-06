@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mark is injured so decides to spend more time reading.  He used to read 2 hours a day but increased that by 150%.  Before he read 100 pages a day.  How many pages does he read a week now?",
+  "checkpoint": [
+    {
+      "\\boxed{1750}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

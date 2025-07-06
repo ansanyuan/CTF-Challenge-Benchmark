@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Trapezoid $ABCD^{}_{}$ has sides $AB=92^{}_{}$ , $BC=50^{}_{}$ , $CD=19^{}_{}$ , and $AD=70^{}_{}$ , with $AB^{}_{}$ parallel to $CD^{}_{}$ . A circle with center $P^{}_{}$ on $AB^{}_{}$ is drawn tangent to $BC^{}_{}$ and $AD^{}_{}$ . Given that $AP^{}_{}=\\frac mn$ , where $m^{}_{}$ and $n^{}_{}$ are relatively prime positive integers, find $m+n^{}_{}$ .",
-    "checkpoint": [
-        {
-            "164": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Trapezoid $ABCD^{}_{}$ has sides $AB=92^{}_{}$ , $BC=50^{}_{}$ , $CD=19^{}_{}$ , and $AD=70^{}_{}$ , with $AB^{}_{}$ parallel to $CD^{}_{}$ . A circle with center $P^{}_{}$ on $AB^{}_{}$ is drawn tangent to $BC^{}_{}$ and $AD^{}_{}$ . Given that $AP^{}_{}=\\frac mn$ , where $m^{}_{}$ and $n^{}_{}$ are relatively prime positive integers, find $m+n^{}_{}$ .",
+  "checkpoint": [
+    {
+      "\\boxed{164}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

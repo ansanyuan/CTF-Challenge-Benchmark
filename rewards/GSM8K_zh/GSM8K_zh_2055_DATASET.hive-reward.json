@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A new book sold 15 copies at the bookstore on Wednesday. On Thursday the book sold three times that many copies. On Friday the book sold one-fifth the number of copies it did on Thursday. How many copies of the book did the bookstore sell by Friday?",
+  "checkpoint": [
+    {
+      "\\boxed{69}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Each vertex of a regular dodecagon ( $12$ -gon) is to be colored either red or blue, and thus there are $2^{12}$ possible colorings. Find the number of these colorings with the property that no four vertices colored the same color are the four vertices of a rectangle.",
-    "checkpoint": [
-        {
-            "928": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Each vertex of a regular dodecagon ( $12$ -gon) is to be colored either red or blue, and thus there are $2^{12}$ possible colorings. Find the number of these colorings with the property that no four vertices colored the same color are the four vertices of a rectangle.",
+  "checkpoint": [
+    {
+      "\\boxed{928}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

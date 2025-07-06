@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kim is an office manager. Every morning she spends 5 minutes making coffee, 2 minutes per employee getting a status update, and 3 minutes per employee updating payroll records. If there are 9 employees in the office, how long does Kim's morning routine take?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

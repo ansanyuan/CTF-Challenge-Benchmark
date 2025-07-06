@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John decides to get a new apartment with a roommate.  His former rent was $2 per square foot for a 750 square foot apartment.  His new apartment cost $2800 per month, which he splits evenly with the roommate.  How much money does he save a year?",
+  "checkpoint": [
+    {
+      "\\boxed{1200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

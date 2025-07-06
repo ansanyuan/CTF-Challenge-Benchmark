@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The great pyramids sit at an angle of 32 degrees from the ground when you stand at the entrance of Sahir's house. The sun is moving at 5 degrees an hour straight upward from the pyramid relative to Sahir's house. If the sun starts at the tip of the pyramid and moves for 10 hours, how many degrees will there be from the ground to the sun?",
+  "checkpoint": [
+    {
+      "\\boxed{82}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

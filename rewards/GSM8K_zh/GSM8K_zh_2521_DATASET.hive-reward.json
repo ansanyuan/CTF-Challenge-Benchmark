@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rockefeller Army Base has 3000 more than twice as many guns as Grenada Army Base, 400 less than thrice as many war tractors as Grenada Army Base, and 30 times as many soldier uniforms as Grenada Army Base reserved for its national protection. How many total war supplies does Rockefeller have if Grenada's war supplies are equally divided among the 6000 war supplies they have in total?",
+  "checkpoint": [
+    {
+      "\\boxed{72600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

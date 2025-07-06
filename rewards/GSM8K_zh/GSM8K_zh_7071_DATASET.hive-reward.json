@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Two pieces of bread are needed for one regular sandwich. 3 pieces of bread are needed for a double meat sandwich. How many pieces of bread are needed for 14 regular sandwiches and 12 double meat sandwiches?",
+  "checkpoint": [
+    {
+      "\\boxed{64}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

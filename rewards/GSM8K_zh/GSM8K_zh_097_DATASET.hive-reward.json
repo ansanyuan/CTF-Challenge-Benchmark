@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James has a rainwater collection barrel.  For each inch of rain he collects 15 gallons.  On Monday it rained 4 inches and on Tuesday it rained 3 inches.  He can sell water for $1.2 per gallon.  How much money did he make from selling all the water?",
+  "checkpoint": [
+    {
+      "\\boxed{126}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

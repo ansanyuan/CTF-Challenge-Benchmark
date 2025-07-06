@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There were three jars of candy in the cabinet. The jar of peanut butter candy had 4 times as much candy as the jar of grape candy. The jar of grape candy had 5 more pieces of candy than the jar of banana candy. How many pieces of candy did the peanut butter jar have if the banana jar had 43?",
+  "checkpoint": [
+    {
+      "\\boxed{192}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

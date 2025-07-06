@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Francine wants to know if a local chemical plant is releasing toxic waste that makes the frogs mutate. In one local pond, she catches 5 frogs with extra legs, 2 frogs with 2 heads, two frogs that are bright red, and 18 normal frogs. What percentage of the frogs have mutated, rounded to the nearest integer?",
+  "checkpoint": [
+    {
+      "\\boxed{33}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

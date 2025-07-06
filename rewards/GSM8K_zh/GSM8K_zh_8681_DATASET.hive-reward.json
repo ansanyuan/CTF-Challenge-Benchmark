@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Deandre caught 3 tunas last Monday, the first tuna he caught weighs 56 kilograms, the second tuna he caught weighs 46 kilograms, and the last tuna he caught weighs 26 kilograms. If a kilogram of tuna costs $0.50, how much will he earn after selling all the tunas to the market?",
+  "checkpoint": [
+    {
+      "\\boxed{64}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

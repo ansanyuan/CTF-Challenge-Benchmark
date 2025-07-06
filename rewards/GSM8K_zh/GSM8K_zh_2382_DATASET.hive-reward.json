@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Clive opens a box full of different colored balls.   The box contains 6 blue balls, 4 red balls, 3 times as many green balls as blue ones and twice as many yellow ones as red ones.   How many balls are in the box Clive opens?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

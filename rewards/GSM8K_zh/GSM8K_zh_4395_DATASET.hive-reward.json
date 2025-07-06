@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dan's skateboarding helmet has ten more craters than Daniel's ski helmet. Rin's snorkel helmet has 15 more craters than Dan's and Daniel's helmets combined. If Rin's helmet has 75 craters, how many craters are in Dan's helmet?",
+  "checkpoint": [
+    {
+      "\\boxed{35}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

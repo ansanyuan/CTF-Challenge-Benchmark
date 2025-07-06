@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bill is laying power cable for a new neighborhood. There are going to be 18 east-west streets that are 2 miles long and 10 north-south streets that are four miles long. It takes 5 miles of cable to electrify 1 mile of street. If cable costs $2000/mile, what is the total cost of cable for the neighborhood?",
+  "checkpoint": [
+    {
+      "\\boxed{760000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：School coaches bought sports equipment. Coach A bought ten new basketballs for $29 each, while coach B bought 14 new baseballs for $2.50 each and a baseball bat for $18. How much more did coach A spend than coach B?",
+  "checkpoint": [
+    {
+      "\\boxed{237}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

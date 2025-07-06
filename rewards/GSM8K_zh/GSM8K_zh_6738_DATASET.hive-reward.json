@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Southton buries their time capsule 15 feet underground. Northton buries their time capsule 12 feet higher than 4 times the depth of the Southton time capsule. How deep is Northton's time capsule buried?",
+  "checkpoint": [
+    {
+      "\\boxed{48}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

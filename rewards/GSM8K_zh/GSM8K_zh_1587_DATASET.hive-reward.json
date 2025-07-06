@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Emma traveled by car 280 miles in 2 hours 20 minutes. What was the average speed of the car in miles per hour?",
+  "checkpoint": [
+    {
+      "\\boxed{120}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

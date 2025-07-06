@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Your mom bought a refrigerator and a washing machine. Note that the price of the refrigerator is $4275 and the price of the washing machine is $1490 less than the price of the refrigerator. Calculate the total price of the purchases in dollars.",
+  "checkpoint": [
+    {
+      "\\boxed{7060}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

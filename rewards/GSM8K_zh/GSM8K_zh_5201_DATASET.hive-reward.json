@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bryan bought 5 t-shirts and 4 pairs of pants for $1500. If a t-shirt costs $100, how much does each pair of pants cost?",
+  "checkpoint": [
+    {
+      "\\boxed{250}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Connie redeemed all her arcade tickets today. She spent half of them on a stuffed koala bear. She spent 10 tickets on a pair of earbuds. She spent another 15 tickets on glow bracelets. How many tickets did Connie redeem today?",
+  "checkpoint": [
+    {
+      "\\boxed{50}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

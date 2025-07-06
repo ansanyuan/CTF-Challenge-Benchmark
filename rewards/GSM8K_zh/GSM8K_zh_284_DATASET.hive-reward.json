@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lily has 5 lottery tickets to sell.  She sells the first ticket for $1.  She then sells each successive ticket for a dollar more than the previous ticket. She plans to keep a $4 profit and give the remaining money as the prize. How much money will the winner of the lottery receive?",
+  "checkpoint": [
+    {
+      "\\boxed{11}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

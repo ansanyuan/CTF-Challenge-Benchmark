@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A dime has the same value as 10 pennies and a nickel has the same value as 5 pennies. How many pennies will Grace have by exchanging her 10 dimes and 10 nickels?",
+  "checkpoint": [
+    {
+      "\\boxed{150}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

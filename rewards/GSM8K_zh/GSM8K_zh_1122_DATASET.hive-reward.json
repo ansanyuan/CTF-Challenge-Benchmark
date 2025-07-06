@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The difference in the number of pens that Alice and Clara each have matches their age difference. Alice has 60 pens and Clara has 2/5 times as many pens as Alice. If Alice's age is 20 and Clara is older than Alice, calculate Clara's age in 5 years to come.",
+  "checkpoint": [
+    {
+      "\\boxed{61}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

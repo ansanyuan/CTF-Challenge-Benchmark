@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：It takes Emmalyn and her research team, the Polar Bears, 30 minutes to fully navigate around a volcanic island. On Saturday, they decided to start off by rounding the island once. They then re-grouped and planned out the rest of their weekend research schedule. They completed 10 more round that day and then went home. When they came on Sunday, they were able to complete 15 rounds. Calculate the total time, in minutes, the Polar Bears spent circling the island over that weekend.",
+  "checkpoint": [
+    {
+      "\\boxed{780}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

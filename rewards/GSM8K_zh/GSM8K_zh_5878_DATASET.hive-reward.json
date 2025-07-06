@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alexa and Emily open up a lemonade stand in the front yard. They spent $10 for lemons, $5 for sugar and $3 for cups.  The lemonade is $4 a cup.  They sell a total of 21 cups.  How much profit did Alexa and Emily make after paying off expenses?",
+  "checkpoint": [
+    {
+      "\\boxed{66}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

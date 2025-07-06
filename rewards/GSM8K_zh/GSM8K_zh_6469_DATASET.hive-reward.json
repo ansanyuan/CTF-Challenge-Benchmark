@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alan bought a $2000 phone online. John bought it 2% more expensive in a local store. How much did John spend on his phone?",
+  "checkpoint": [
+    {
+      "\\boxed{2040}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

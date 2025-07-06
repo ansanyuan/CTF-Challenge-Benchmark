@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Frank has three less than half the number of cookies as Mike. Mike has three times as many cookies as Millie. If Millie has 4 cookies, how many cookies does Frank have?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

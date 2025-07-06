@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cersei bought 50 cotton candies. She gave her brother and sister 5 cotton candies each, then gave the remaining one-fourth of them to her cousin. If she ate 12 cotton candies, how many cotton candies are left?",
+  "checkpoint": [
+    {
+      "\\boxed{18}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

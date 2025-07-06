@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mr. Angstadt has 120 students throughout the school day.  Half of them are enrolled in Statistics.  Of the students in Statistics, 90 percent are seniors.  How many of Mr. Angstadt's students are seniors enrolled in Statistics?",
+  "checkpoint": [
+    {
+      "\\boxed{54}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

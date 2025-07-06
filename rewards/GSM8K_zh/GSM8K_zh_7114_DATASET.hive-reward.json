@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Darius has 5 buckets of water. One contains 11 ounces, one contains 13 ounces, one contains 12 ounces, one contains 16 ounces, and one contains 10 ounces. He pours the ten-ounce bucket into a bigger bucket, along with one of the other four. The total in the bigger bucket is now 23 ounces. He pours the remaining three buckets into a second large bucket. How many ounces does the second large bucket contain?",
+  "checkpoint": [
+    {
+      "\\boxed{39}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

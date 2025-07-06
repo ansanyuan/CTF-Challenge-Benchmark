@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：When Matty was born, the cost of a ticket to Mars was $1,000,000. The cost is halved every 10 years. How much will a ticket cost when Matty is 30?",
+  "checkpoint": [
+    {
+      "\\boxed{125000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

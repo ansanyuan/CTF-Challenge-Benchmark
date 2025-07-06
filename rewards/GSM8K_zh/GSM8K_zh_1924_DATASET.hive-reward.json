@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Katrina saw an ad that said if she signed up for her local recycling program, she could earn $5.00.  When she signed up, they told her for every friend that she referred, the friend would receive $5.00 and she would receive another $5.00 per friend.  That day, she had 5 friends sign up and another 7 friends by the end of the week.  How much money in total did she and her friends make?",
+  "checkpoint": [
+    {
+      "\\boxed{125}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

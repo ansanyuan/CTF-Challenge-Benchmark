@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A cylindrical log has diameter $12$ inches. A wedge is cut from the log by making two planar cuts that go entirely through the log. The first is perpendicular to the axis of the cylinder, and the plane of the second cut forms a $45^\\circ$ angle with the plane of the first cut. The intersection of these two planes has exactly one point in common with the log. The number of cubic inches in the wedge can be expressed as $n\\pi$ , where n is a positive integer. Find $n$ .",
-    "checkpoint": [
-        {
-            "216": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A cylindrical log has diameter $12$ inches. A wedge is cut from the log by making two planar cuts that go entirely through the log. The first is perpendicular to the axis of the cylinder, and the plane of the second cut forms a $45^\\circ$ angle with the plane of the first cut. The intersection of these two planes has exactly one point in common with the log. The number of cubic inches in the wedge can be expressed as $n\\pi$ , where n is a positive integer. Find $n$ .",
+  "checkpoint": [
+    {
+      "\\boxed{216}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

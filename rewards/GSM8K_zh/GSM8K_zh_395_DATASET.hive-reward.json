@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Chad sandwiches 2 crackers with a scoop of peanut butter.  He has 5 of these crackers a night before bed.  A box of crackers has 4 sleeves with each sleeve holding 28 crackers.  How many nights will 5 boxes of crackers last him?",
+  "checkpoint": [
+    {
+      "\\boxed{56}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

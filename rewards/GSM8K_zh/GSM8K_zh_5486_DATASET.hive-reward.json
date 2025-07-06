@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On a construction site, the Laker cement factory provided 500 bags of cement sold to Mr. Zander at $10 per bag. Mr. Zander also received twenty lorries of construction sand, each carrying 10 tons of sand, sold at $40 per ton. How much money did Mr. Zander pay for these construction materials?",
+  "checkpoint": [
+    {
+      "\\boxed{13000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

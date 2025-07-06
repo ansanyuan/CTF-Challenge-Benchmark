@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Du Chin bakes 200 meat pies in a day. He sells them for $20 each and uses 3/5 of the sales to buy ingredients to make meat pies for sale on the next day. How much money does Du Chin remain with after setting aside the money for buying ingredients?",
+  "checkpoint": [
+    {
+      "\\boxed{1600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Yolanda leaves home for work at 7:00 AM, riding her bike at 20 miles per hour. 15 minutes after she leaves, her husband realizes that she forgot her lunch, and jumps in the car to bring it to her. If he drives at 40 miles per hour and follows the exact same route as Yolanda, how many minutes will it take him to catch her?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

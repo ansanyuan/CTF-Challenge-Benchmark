@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Wally buys bears at the park. A bear is priced at $4.00 for the first bear and a discount of 50 cents per bear is given after that. How much does Wally pay for 101 bears?",
+  "checkpoint": [
+    {
+      "\\boxed{354}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

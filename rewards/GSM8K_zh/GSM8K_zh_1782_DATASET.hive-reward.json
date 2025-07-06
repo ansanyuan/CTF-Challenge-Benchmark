@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A salesman bought a case of 48 backpacks for $576. He sold 17 of them for $18 at the swap meet, 10 were sold to a department store for $25 each. If the remainder were sold for $22 each. How much was the salesman's profit?",
+  "checkpoint": [
+    {
+      "\\boxed{442}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

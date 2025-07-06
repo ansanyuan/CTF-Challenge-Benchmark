@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sandra eats 3 beignets every morning.  How many beignets will she eat in 16 weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{336}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

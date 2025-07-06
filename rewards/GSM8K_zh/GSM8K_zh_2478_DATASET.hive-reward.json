@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mike has earned a total of $160 in wages this week. He received the wages for his first job, then later received the wages from his second job where he works 12 hours a week. If his second job pays $9 per hour then how much money, in dollars, did Mike receive from his first job?",
+  "checkpoint": [
+    {
+      "\\boxed{52}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

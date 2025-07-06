@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Martha gets prize points every time she shops at her local grocery store. She gets 50 points per $10 spent, plus a 250 point bonus if she spends more than $100. Martha buys 3 pounds of beef for $11 each, 8 pounds of fruits and vegetables for $4/pound, 3 jars of spices for $6 each, and other groceries totaling $37. How many points does Martha get?",
+  "checkpoint": [
+    {
+      "\\boxed{850}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

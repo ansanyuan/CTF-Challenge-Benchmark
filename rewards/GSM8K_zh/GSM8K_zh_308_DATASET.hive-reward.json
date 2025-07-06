@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 110 calories in a serving of cheese.  Rick buys the large blocks that have 16 servings per block.  If Rick has already eaten 5 servings of cheese, how many calories are remaining in the block?",
+  "checkpoint": [
+    {
+      "\\boxed{1210}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

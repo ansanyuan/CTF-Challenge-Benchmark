@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sandi had $600. She spent half of it at a farmer’s market. Gillian spent $150 more than three times Sandi's total. What is the total that Gillian spent at the farmer’s market?",
+  "checkpoint": [
+    {
+      "\\boxed{1050}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

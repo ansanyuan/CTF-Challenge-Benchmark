@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On a three-day trip, Wendy drove 125 miles on the first day, and 223 miles on the second day. How many miles did she drive on the third day, if the total miles that Wendy drove for the trip is 493 miles?",
+  "checkpoint": [
+    {
+      "\\boxed{145}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

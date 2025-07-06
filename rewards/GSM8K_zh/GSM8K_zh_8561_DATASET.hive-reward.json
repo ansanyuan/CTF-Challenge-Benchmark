@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A farmer is baling hay in their field. Each hour the farmer makes 5 bales. At the same time, a truck is picking the hay bales up. Each hour the truck picks up 3 bales of hay. If the farmer and the truck driver put in a 6 hour day, how many bales of hay are left in the field?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

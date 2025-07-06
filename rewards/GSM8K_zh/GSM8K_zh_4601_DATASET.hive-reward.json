@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nick is trying to raise money for a charity. He is selling candy bars for $5. He is also selling chocolate oranges for $10. He wants to raise $1000. He only had 20 chocolate oranges that he sold out. How many candy bars does Nick need to sell to reach his goal?",
+  "checkpoint": [
+    {
+      "\\boxed{160}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

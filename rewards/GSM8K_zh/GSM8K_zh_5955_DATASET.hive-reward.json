@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tina's classroom has the same amount of students as Maura's. Zack's classroom has half the amount of total students between Tina and Maura's classrooms. How many students are there in total between the 3 classrooms if when Zack was sick there were 22 students in his class?",
+  "checkpoint": [
+    {
+      "\\boxed{69}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

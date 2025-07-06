@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：To win a brand new Bible at Tom Sawyer's Sunday school, a pupil has to win 10 yellow tickets; each yellow ticket is obtained by trading in 10 red tickets; each red ticket is obtained by trading in 10 blue tickets; and blue tickets are earned by memorizing two Bible verses. But rather than go to all that trouble, Tom Sawyer has traded various toys and treasures of his with his friends until he has gathered 8 yellow, 3 red, and 7 blue tickets. How many more blue tickets would he need to earn to win a new Bible?",
+  "checkpoint": [
+    {
+      "\\boxed{163}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

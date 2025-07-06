@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nicole has three older sisters. After each one outgrows their clothes, they give them to Nicole. They have all outgrown their clothes and have given them all to Nicole. Nicole started with 10 pieces of clothing. Her first older sister had half as many clothes as Nicole. The next oldest sister had 2 more pieces of clothing than Nicole. The oldest had the average of what her three younger sisters had. How many pieces of clothing does Nicole end up with?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

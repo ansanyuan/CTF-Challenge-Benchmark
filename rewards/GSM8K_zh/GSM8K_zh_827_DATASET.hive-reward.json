@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James takes 20 units per semester at community college.  If each unit costs $50 how much does he pay for 2 semesters?",
+  "checkpoint": [
+    {
+      "\\boxed{2000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

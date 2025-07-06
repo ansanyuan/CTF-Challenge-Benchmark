@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The area of a triangle with a given base and height is given by 1/2*base*height. What is the base length of a triangle with height 8 and area 24 square units?",
+  "checkpoint": [
+    {
+      "\\boxed{6}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

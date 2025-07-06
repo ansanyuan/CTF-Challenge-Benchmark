@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Penny's canoe can carry 6 people, but if she wants to take her dog, she will only fit 2/3 of that number inside. If every person in a trip where Penny had her dog inside the canoe weighed 140 pounds, and the dog 1/4 as much weight, calculate the total weight the canoe was carrying?",
+  "checkpoint": [
+    {
+      "\\boxed{595}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

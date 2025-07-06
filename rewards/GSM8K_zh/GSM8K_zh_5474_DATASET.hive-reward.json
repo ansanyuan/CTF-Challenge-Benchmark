@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jill likes to do small jobs online.  She makes $10 a day for her first month working online, and double that per day in her second month.  Her third month she makes the same amount per day as the previous month, but only works every other day.  How much did she make over three months, assuming each month is 30 days long?",
+  "checkpoint": [
+    {
+      "\\boxed{1200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

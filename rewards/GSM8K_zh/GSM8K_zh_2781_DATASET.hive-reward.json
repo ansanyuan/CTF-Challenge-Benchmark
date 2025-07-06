@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Crystal wanted to sell everything left in her pastry class before closing for the night.  She reduced her $3.00 cupcakes and her $2.00 cookies by half.  How much money did she make if she sold the last 16 cupcakes and 8 cookies?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

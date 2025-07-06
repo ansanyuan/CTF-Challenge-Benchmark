@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：55% of Toby's friends are boys and the rest are girls. If he has 33 friends who are boys, how many friends does he have who are girls?",
+  "checkpoint": [
+    {
+      "\\boxed{27}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

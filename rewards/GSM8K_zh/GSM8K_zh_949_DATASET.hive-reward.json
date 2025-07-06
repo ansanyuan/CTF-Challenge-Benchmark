@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jason goes to the library 4 times more often than William goes. If William goes 2 times per week to the library, how many times does Jason go to the library in 4 weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

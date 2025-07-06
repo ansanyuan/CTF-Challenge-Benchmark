@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Well's mother sells watermelons, peppers, and oranges at the local store. A watermelon costs three times what each pepper costs. An orange costs 5 less than what a watermelon cost. Dillon is sent to the store to buy 4 watermelons, 20 peppers, and 10 oranges. What's the total amount of money he will spend if each pepper costs 15$?",
+  "checkpoint": [
+    {
+      "\\boxed{880}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

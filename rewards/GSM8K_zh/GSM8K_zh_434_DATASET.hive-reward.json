@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Michael loves to paint and sells his creations. He charges $100 for a large painting and $80 for a small painting. At his last art show, he sold 5 large paintings and 8 small paintings. How much did he earn in all?",
+  "checkpoint": [
+    {
+      "\\boxed{1140}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

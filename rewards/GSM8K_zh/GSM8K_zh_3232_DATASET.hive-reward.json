@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lucca bought 200 pieces of bread. Lucca ate 1/4 of the pieces of bread in one day, and 2/5 of the remaining pieces the next day. If he ate half of the remaining pieces on the third day, calculate how many pieces of bread are remaining.",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

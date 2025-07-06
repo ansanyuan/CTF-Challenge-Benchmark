@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are six oranges in a fruit basket. There are two fewer apples than oranges.  There are 3 times as many bananas as apples, and there are half as many peaches as bananas.  How many pieces of fruit are in the fruit basket?",
+  "checkpoint": [
+    {
+      "\\boxed{28}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marta is weighing fruit at the grocery store. The apples weigh four ounces each and the oranges weight 3 ounces. Each plastic bag in the grocery store can hold 49 ounces of fruit before it splits. If Martha wants to put an equal number of apples and oranges in each bag, and she wants to buy 3 full bags of fruit, how many ounces of apples should she buy?",
+  "checkpoint": [
+    {
+      "\\boxed{84}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

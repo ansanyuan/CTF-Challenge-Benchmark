@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jon makes 3/4's the salary that Karen makes. John makes $3000 per month. How long will it take him to make the same amount of money that Karen does in 3 months?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

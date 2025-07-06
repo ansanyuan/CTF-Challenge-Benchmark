@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Frank goes to the store to buy some food. He buys 5 chocolate bars and 2 bags of chips. He hands the cashier $20 and gets $4 back as change. If the chocolate bars each cost $2, how much did each bag of chips cost?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

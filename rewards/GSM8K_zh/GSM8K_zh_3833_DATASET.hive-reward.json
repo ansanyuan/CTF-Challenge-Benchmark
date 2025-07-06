@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A florist is making bouquets for the weekend. The florist uses red, yellow, orange, and purple flowers, and each bouquet contains 9 flowers of any color combinations. This week he planted 125 seeds for each color of flower. Unfortunately, a fungus killed 45 red flowers, 61 yellow, 30 orange, and 40 purple flowers. How many bouquets can the florist make this weekend?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

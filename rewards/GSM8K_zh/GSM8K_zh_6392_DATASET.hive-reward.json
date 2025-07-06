@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Trevor and Joe were working together to finish a 500 piece puzzle.  They put the border together first and that was 75 pieces.  Trevor was able to place 105 pieces of the puzzle.  Joe was able to place three times the number of puzzle pieces as Trevor.  How many puzzle pieces are missing?",
+  "checkpoint": [
+    {
+      "\\boxed{5}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

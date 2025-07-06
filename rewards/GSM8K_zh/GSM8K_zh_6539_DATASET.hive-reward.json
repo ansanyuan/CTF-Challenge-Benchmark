@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A company is lining a 900-foot path with a fence. Every 6 feet, a fence pole is placed. The entire path is lined with a fence except for a 42-foot bridge. How many fence poles will be placed along the whole path on both sides?",
+  "checkpoint": [
+    {
+      "\\boxed{286}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

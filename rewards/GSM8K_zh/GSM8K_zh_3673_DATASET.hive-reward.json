@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Salem loves to write poems, and she always stores her poem in a creativity box kept safely in her home library. Last week, she created a poem with 20 stanzas. If each stanza has 10 lines, and each line has 8 words, calculate the total number of words in the poem.",
+  "checkpoint": [
+    {
+      "\\boxed{1600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

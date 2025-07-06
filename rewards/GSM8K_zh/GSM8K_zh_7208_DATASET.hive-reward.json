@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If the first skyscraper was built 100 years ago, how many years in the future will it be 5 years before its 200th anniversary of being built?",
+  "checkpoint": [
+    {
+      "\\boxed{95}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：An auto shop has a part that Clark needs for $80. Clark buys 7 of them and got a discount. If Clark only had to pay $439, how much was the discount?",
+  "checkpoint": [
+    {
+      "\\boxed{121}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

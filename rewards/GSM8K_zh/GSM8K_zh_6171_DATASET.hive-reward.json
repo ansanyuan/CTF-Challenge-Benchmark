@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lydia is planning a road trip with her family and is trying to plan a route. She has 60 liters of fuel and she will use all of this during her trip. She isn't sure how much fuel she is going to use in the first third of the trip but she knows she will need a third of all of her fuel for the second third of the trip, and half this amount for the final third of the trip. How much fuel, in liters, can Lydia use in the first third of the trip?",
+  "checkpoint": [
+    {
+      "\\boxed{30}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

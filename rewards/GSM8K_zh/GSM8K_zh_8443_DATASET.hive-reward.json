@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John decides to buy new phones for him, his 2 kids, and his wife.  Each phone after the first 2 is half price.  If the phone price is $600 how much did he pay for them all?",
+  "checkpoint": [
+    {
+      "\\boxed{1800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In a factory, there are 300 employees. 200 of them earn $12 per hour. Of the rest, 40 of them earn $14 per hour. All others earn $17 per hour. What is the cost to employ all these people for one 8-hour long shift?",
+  "checkpoint": [
+    {
+      "\\boxed{31840}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

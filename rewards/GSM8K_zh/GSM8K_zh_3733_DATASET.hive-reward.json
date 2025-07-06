@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：David finished his homework in 60 minutes. He spent 15 minutes on his math homework and 18 minutes on his spelling homework. He spent the rest of the time reading for his daily reading log. How many minutes did he spend reading?",
+  "checkpoint": [
+    {
+      "\\boxed{27}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dawn earns 48,000 a year in 12 equal monthly payments. Each month, she saves 10% of her salary. How much does she save each month?",
+  "checkpoint": [
+    {
+      "\\boxed{400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

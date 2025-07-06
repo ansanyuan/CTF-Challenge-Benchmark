@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rebecca bought 22 items for her camping trip, including tent stakes, packets of drink mix, and bottles of water.  She bought 3 times as many packets of drink mix as tent stakes.  She also bought 2 more bottles of water than she did tent stakes.  How many tent stakes did she buy?",
+  "checkpoint": [
+    {
+      "\\boxed{4}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kimberly went strawberry picking with her family over the weekend. She picked 8 times the amount of strawberries her brother picked and her parents picked 93 strawberries less than her. If her brother picked 3 baskets each containing 15 strawberries, how many strawberries would they each have if they divide the total number of strawberries equally amongst them?",
+  "checkpoint": [
+    {
+      "\\boxed{168}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

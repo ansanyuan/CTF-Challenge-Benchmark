@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lara bought 52 stems of flowers at the flower shop. She gave 15 flowers to her mom and gave 6 more flowers than she gave to her mom to her grandma. She put the rest in a vase. How many stems of flowers did Lara put in the vase?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

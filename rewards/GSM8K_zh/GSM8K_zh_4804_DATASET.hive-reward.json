@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Hannah wanted to make an apple pie that would serve 8 people.  She needed 2 pounds of apples that were on sale for $2.00 per pound. The pre-made pie crust cost $2.00.  The lemon cost $.50 and the butter cost $1.50.  How much did each serving of pie cost?",
+  "checkpoint": [
+    {
+      "\\boxed{1}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

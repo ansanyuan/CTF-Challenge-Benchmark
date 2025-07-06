@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sally sold 20 cups of lemonade last week. She sold 30% more lemonade this week. How many cups of lemonade did she sell in total for both weeks?",
+  "checkpoint": [
+    {
+      "\\boxed{46}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

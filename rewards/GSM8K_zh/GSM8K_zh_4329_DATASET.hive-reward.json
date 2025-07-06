@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The fisherman gets 8 Red snappers and 14 Tunas every day. If a Red snapper costs $3 and a Tuna costs $2, how much does he earn every day?",
+  "checkpoint": [
+    {
+      "\\boxed{52}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

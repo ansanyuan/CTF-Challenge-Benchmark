@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Johnny spent 3 hours working on a job that paid $7 per hour, 2 hours working on a job that paid $10 an hour, and 4 hours working on a job that paid $12 an hour.  Assuming he repeats this process 5 days in a row, how much does Johnny make?",
+  "checkpoint": [
+    {
+      "\\boxed{445}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

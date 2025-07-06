@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In Mariam's neighborhood, there are 40 houses on one side of the main road passing through the neighborhood and three times as many homes on the other side of the road. How many homes are in Mariam's neighborhood?",
+  "checkpoint": [
+    {
+      "\\boxed{160}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

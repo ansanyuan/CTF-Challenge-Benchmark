@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Luke pays a school fee. His mother gave him one $50 bill, two $20 bills, and three $10 bills. His father gave him four $50 bills, one $20 bill, and one $10 bill. If his parents gave him the exact amount for the school fee, how much is the school fee?",
+  "checkpoint": [
+    {
+      "\\boxed{350}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：If I read 4 novels with 200 pages each in a month, how many pages of novels will I read in a year?",
+  "checkpoint": [
+    {
+      "\\boxed{9600}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Gloria has five times as many dimes as quarters in her graduation money. She decides to put 2/5 of the quarters aside for future use. If she has 350 dimes, calculate the combined number of quarters and dimes she has after putting aside 2/5 of the quarters?",
+  "checkpoint": [
+    {
+      "\\boxed{392}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

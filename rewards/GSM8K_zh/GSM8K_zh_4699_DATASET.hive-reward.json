@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Andrew's father buys a package of 100 masks. Andrew lives with his 2 parents and 2 siblings. All members of Andrew's family change masks every 4 days. How many days will it take to finish the pack of masks?",
+  "checkpoint": [
+    {
+      "\\boxed{80}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

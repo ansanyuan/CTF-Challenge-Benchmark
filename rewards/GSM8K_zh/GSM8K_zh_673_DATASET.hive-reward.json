@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Harris feeds his dog 1 large organic carrot over the course of 1 day.  There are 5 carrots in a 1 pound bag and each bag costs $2.00.  In one year, how much will Harris spend on carrots?",
+  "checkpoint": [
+    {
+      "\\boxed{146}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

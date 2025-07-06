@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：An eraser costs $2 and a pencil costs $3. How much do 6 erasers and 8 pencils cost?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dream's car consumes 4 gallons of gas per mile. If she drives 400 miles today and 200 more miles tomorrow than today, how many gallons of gas will the car consume?",
+  "checkpoint": [
+    {
+      "\\boxed{4000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

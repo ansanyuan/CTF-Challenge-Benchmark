@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On the first day of the garden center sale, 14 marigolds were sold. The next day 25 more marigolds were sold. On the third day the center sold two times the number of marigolds it did on the day before. How many marigolds were sold during the sale?",
+  "checkpoint": [
+    {
+      "\\boxed{89}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

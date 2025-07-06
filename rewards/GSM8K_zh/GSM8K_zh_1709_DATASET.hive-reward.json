@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mark's basketball team scores 25 2 pointers, 8 3 pointers and 10 free throws.  Their opponents score double the 2 pointers but half the 3 pointers and free throws.  What's the total number of points scored by both teams added together?",
+  "checkpoint": [
+    {
+      "\\boxed{201}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

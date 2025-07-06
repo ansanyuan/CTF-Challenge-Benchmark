@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Triangle $ABC$ is inscribed in circle $\\omega$ . Points $P$ and $Q$ are on side $\\overline{AB}$ with $AP<AQ$ . Rays $CP$ and $CQ$ meet $\\omega$ again at $S$ and $T$ (other than $C$ ), respectively. If $AP=4,PQ=3,QB=6,BT=5,$ and $AS=7$ , then $ST=\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
-    "checkpoint": [
-        {
-            "43": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Triangle $ABC$ is inscribed in circle $\\omega$ . Points $P$ and $Q$ are on side $\\overline{AB}$ with $AP<AQ$ . Rays $CP$ and $CQ$ meet $\\omega$ again at $S$ and $T$ (other than $C$ ), respectively. If $AP=4,PQ=3,QB=6,BT=5,$ and $AS=7$ , then $ST=\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+  "checkpoint": [
+    {
+      "\\boxed{43}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

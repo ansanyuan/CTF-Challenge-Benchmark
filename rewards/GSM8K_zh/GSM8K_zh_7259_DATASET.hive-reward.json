@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A single line is worth 1000 points.  A tetris is worth 8 times that much.   Tim scored 6 singles and 4 tetrises.  How many points did he score?",
+  "checkpoint": [
+    {
+      "\\boxed{38000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tim decides to start selling necklaces he makes.  He uses 10 charms to make each necklace.  Each charm cost $15.  He sells the necklace for $200.  How much profit does he make if he sells 30?",
+  "checkpoint": [
+    {
+      "\\boxed{1500}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tommy's home is worth 25% more than he bought it for. He sells it and buys a new house that costs $500,000. If he had to take a loan for the 75% he can't pay, how much did he buy his first house for?",
+  "checkpoint": [
+    {
+      "\\boxed{100000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

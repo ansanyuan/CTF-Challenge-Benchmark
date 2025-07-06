@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Danny has a huge fish tank that contains 94 guppies, 76 angelfish, 89 tiger sharks, and 58 Oscar fish. If he sells 30 guppies, 48 angelfish, 17 tiger sharks, and 24 Oscar fish. How many fish will remain?",
+  "checkpoint": [
+    {
+      "\\boxed{198}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

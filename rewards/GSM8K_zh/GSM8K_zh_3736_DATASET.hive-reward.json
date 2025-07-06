@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Camille saw 3 cardinals and four times as many robins as cardinals while bird watching. She also saw twice as many blue jays as cardinals and 1 more than three times as many sparrows as cardinals. How many birds did Camille see?",
+  "checkpoint": [
+    {
+      "\\boxed{31}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

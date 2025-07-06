@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Julian has 80 Facebook friends. 60% are boys and 40% are girls. Boyd has twice as many friends who are girls and has 100 friends total. What percentage of Boyd’s friends are boys?",
+  "checkpoint": [
+    {
+      "\\boxed{36}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

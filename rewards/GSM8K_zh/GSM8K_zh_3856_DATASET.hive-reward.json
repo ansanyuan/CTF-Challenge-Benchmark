@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Meadow has a business that sells baby diapers to her local townspeople. She orders 30 boxes of diapers containing 40 packs weekly, with each pack having 160 diapers. She sells each diaper for $5. How much money is Meadow making from selling all her diapers?",
+  "checkpoint": [
+    {
+      "\\boxed{960000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John paints a giant mural that is 6m by 3m. The paint costs $4 per square meter. The artist can paint 1.5 square meters per hour and charges $10 per hour. How much does the mural cost?",
+  "checkpoint": [
+    {
+      "\\boxed{192}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The Llesis family drove and hiked 6 hours to their vacation spot. They drove an average of 50 miles per hour and hiked an average of 5 miles per hour less than half their speed when they drive. If it took them 1.5 hours to hike, how far was their vacation spot?",
+  "checkpoint": [
+    {
+      "\\boxed{255}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

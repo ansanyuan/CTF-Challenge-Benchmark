@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：1 chocolate bar costs $1.50 and can be broken into 3 sections to make 3 s'mores.  Ron is hosting a boy scout camp out in his backyard for 15 scouts.  He wants to make sure that there are enough chocolate bars for everyone to have 2 s'mores each.  How much will he spend on chocolate bars?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A hotel had operations expenses totaling $100. If the hotel received clients whose total payments for services offered totaled 3/4 of the cost of the operations, calculate the loss the hotel incurred.",
+  "checkpoint": [
+    {
+      "\\boxed{25}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

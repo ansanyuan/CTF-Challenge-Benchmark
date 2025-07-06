@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Amanda has to sell 80 tickets in 3 days so she can make enough money to go on vacation. On the first day, she sells 5 of her friends 4 tickets each. On the second day she sells 32 tickets. How many tickets does she need to sell on the third day to meet her goal?",
+  "checkpoint": [
+    {
+      "\\boxed{28}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

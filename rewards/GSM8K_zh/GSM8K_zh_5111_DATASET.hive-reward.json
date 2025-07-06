@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mark has 12 candy bars in total between Mars bars, Snickers, and Butterfingers.  He has 3 Snickers and 2 Mars bars.  How many Butterfingers does he have?",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lucy works in a pet shop. She can clean 2 aquariums in 3 hours. If Lucy is working 24 hours this week, how many aquariums could she clean?",
+  "checkpoint": [
+    {
+      "\\boxed{16}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

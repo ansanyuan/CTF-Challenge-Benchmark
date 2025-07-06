@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：An airplane was flying from California to Virginia.  The flight started with 124 passengers.  They made a layover in Texas.  58 passengers got off and 24 got on.  From there, they flew to North Carolina, where 47 people got off and 14 got on, before flying to Virginia.  There were also a total of 10 crew members on board for the entire flight.  How many people landed in Virginia?",
+  "checkpoint": [
+    {
+      "\\boxed{67}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

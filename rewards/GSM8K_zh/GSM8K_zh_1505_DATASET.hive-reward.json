@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A small theater company sells tickets to a show.  They have a 400 seat theater and fill to 80% capacity.  Each ticket cost $30.  They repeated the same performance 2 other days.  How much did they make?",
+  "checkpoint": [
+    {
+      "\\boxed{28800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

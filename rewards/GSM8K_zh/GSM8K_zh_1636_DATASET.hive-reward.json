@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Janet's grades for her first semester of college were 90, 80, 70, and 100. If her semester 2 average was 82 percent, how much higher was her semester 1 average compared to her semester 2 average?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

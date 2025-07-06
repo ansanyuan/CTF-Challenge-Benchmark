@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jason has six fish in his aquarium. He realizes that every day the number of fish doubles. On the third day he takes out one-third of the fish. On the fifth day he takes out one-fourth of the fish. On the seventh day he adds 15 more fish. How many fish in total does he have?",
+  "checkpoint": [
+    {
+      "\\boxed{207}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

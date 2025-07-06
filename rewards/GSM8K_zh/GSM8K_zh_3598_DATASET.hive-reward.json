@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nora's mother tells her to go and pick oranges from their farm. She picks 80 oranges from one tree, 60 from another tree, and 120 from the third tree. What's the total number of oranges she picked?",
+  "checkpoint": [
+    {
+      "\\boxed{260}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

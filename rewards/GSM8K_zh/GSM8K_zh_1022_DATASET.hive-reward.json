@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Porche has 3 hours to get all her homework done. Her math homework takes her 45 minutes. Her English homework takes her 30 minutes. Her science homework takes her 50 minutes. Her history homework takes her 25 minutes. She also has a special project due the next day. How much time does she have left to get that project done?",
+  "checkpoint": [
+    {
+      "\\boxed{30}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

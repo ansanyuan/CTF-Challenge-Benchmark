@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：How many of the integers between 1 and 1000, inclusive, can be expressed as the difference of the squares of two nonnegative integers?",
-    "checkpoint": [
-        {
-            "750": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：How many of the integers between 1 and 1000, inclusive, can be expressed as the difference of the squares of two nonnegative integers?",
+  "checkpoint": [
+    {
+      "\\boxed{750}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

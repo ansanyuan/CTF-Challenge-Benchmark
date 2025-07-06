@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The number of soldiers on opposite sides of a war each needs 10 pounds of food every day to continue fighting effectively. However, soldiers in the second are each given 2 pounds less food than the first side.  If the first side has 4000 soldiers and the other side 500 soldiers fewer than the first side, what's the total amount of pounds of food both sides are eating altogether every day?",
+  "checkpoint": [
+    {
+      "\\boxed{68000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Andy plants 90 geraniums and 40 fewer petunias that geraniums. How many flowers does he plant total?",
+  "checkpoint": [
+    {
+      "\\boxed{140}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

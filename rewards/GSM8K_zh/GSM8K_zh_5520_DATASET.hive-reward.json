@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：For a class fundraiser, 30 students were asked to bring in 12 brownies each.  20 students were asked to bring in 24 cookies each and 15 students were asked to bring in 12 donuts each.  If they sell everything for $2.00 each, how much money will they raise?",
+  "checkpoint": [
+    {
+      "\\boxed{2040}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

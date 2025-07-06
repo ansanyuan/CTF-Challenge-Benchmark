@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The maximum safe amount of caffeine you can consume per day is 500 mg. If each energy drink has 120 mg of caffeine and Brandy drinks 4 of them, how much more caffeine can she safely consume that day?",
+  "checkpoint": [
+    {
+      "\\boxed{20}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

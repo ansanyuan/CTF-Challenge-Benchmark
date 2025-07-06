@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Hortense loves daisies and sunflowers.  She planted 25 daisy seeds and 25 sunflower seeds in her flower bed.  If 60% of the daisy seeds germinate, and 80% of the sunflower seeds germinate, and 80% of the resulting plants produce flowers, how many plants will she grow that produce flowers?",
+  "checkpoint": [
+    {
+      "\\boxed{28}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

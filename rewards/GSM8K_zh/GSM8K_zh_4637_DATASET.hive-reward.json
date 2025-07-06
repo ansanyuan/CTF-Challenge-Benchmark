@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Randy had 32 biscuits. His father gave him 13 biscuits as a gift. His mother gave him 15 biscuits. Randy’s brother ate 20 of these biscuits. How many biscuits are Randy left with?",
+  "checkpoint": [
+    {
+      "\\boxed{40}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jasmine and her older sister Alexa went to the store to buy shoes. Alexa's shoes are twice as big as Jasmine's shoes. If Jasmine's shoe size is 7, what's the combined shoe size for both of them?",
+  "checkpoint": [
+    {
+      "\\boxed{21}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

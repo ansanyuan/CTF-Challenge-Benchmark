@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jaron wants to raise enough money selling candy bars to win the Nintendo Switch prize. He needs 2000 points for the Nintendo Switch. He has already sold 8 chocolate bunnies that are worth 100 points each. Each Snickers bar he sells earns 25 points. How many Snickers bars does he need to sell the win the Nintendo Switch?",
+  "checkpoint": [
+    {
+      "\\boxed{48}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

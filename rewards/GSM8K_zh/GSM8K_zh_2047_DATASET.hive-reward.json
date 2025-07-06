@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Each bank teller has 10 rolls of coins. Each roll has 25 coins. How many coins do four bank tellers have in all?",
+  "checkpoint": [
+    {
+      "\\boxed{1000}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

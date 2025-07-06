@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：The population of Port Perry is seven times as many as the population of Wellington. The population of Port Perry is 800 more than the population of Lazy Harbor. If Wellington has a population of 900, how many people live in Port Perry and Lazy Harbor combined?",
+  "checkpoint": [
+    {
+      "\\boxed{11800}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Barry and his friend, Jim, went horseback riding across central Texas. They traveled at 5 miles per hour for 7 hours, and then stopped for the evening.  The next day, they traveled at 6 miles per hour for 6 hours, and then at half that speed for another three hours, before stopping to rest for the night.  On the third and final day, they traveled for 5 hours at 7 miles per hour.  In total, how far did they travel, in miles, during their horseback riding trip?",
+  "checkpoint": [
+    {
+      "\\boxed{115}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

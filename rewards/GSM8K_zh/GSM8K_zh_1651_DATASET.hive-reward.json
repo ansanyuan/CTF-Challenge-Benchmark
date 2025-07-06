@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Edna made cookies for all of her neighbors and left the cookies outside for them to take. She made 150 cookies so her 15 neighbors could get 10 cookies each. However, the neighbor who arrived last told Edna there were only 8 cookies left. Edna thinks it was Sarah who took too many cookies. If all the other neighbors took the correct amount of cookies, how many cookies did Sarah take?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Class A is twice as big as Class B. Class A is also a third the size of Class C. If Class B has 20 people in it, how many people are in Class C?",
+  "checkpoint": [
+    {
+      "\\boxed{120}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

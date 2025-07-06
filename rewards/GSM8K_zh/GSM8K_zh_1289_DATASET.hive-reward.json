@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：James spends 3 hours vacuuming and 3 times as long on the rest of his chores.  How long does he spend on his chores?",
+  "checkpoint": [
+    {
+      "\\boxed{12}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

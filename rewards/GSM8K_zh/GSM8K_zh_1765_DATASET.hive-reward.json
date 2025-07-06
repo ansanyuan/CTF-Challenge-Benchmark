@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In Alaska the commercial Cod fishing season runs from January 1 - August 1 lasting exactly 7 months, or 213 days on a non-leap year.  Two fishermen are competing against each other to see who can earn more profit.  The first fisherman plans to catch fish at a steady rate of 3 per day for the entire season.  The second fisherman is a novice who will need to start more slowly. He plans to catch only 1 fish per day during the first 30 days, 2 fish per day during the next 60 days, and then 4 fish per day during the remainder of the season.  At the end of the season, how many more fish will be caught by the fisherman who catches the higher number of fish?",
+  "checkpoint": [
+    {
+      "\\boxed{3}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

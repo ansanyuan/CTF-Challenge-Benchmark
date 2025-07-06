@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：An investment bank gives 10 percent interest at the end of every month. How much money in total will you have, including interest, at the end of 2 months if you invest $300?",
+  "checkpoint": [
+    {
+      "\\boxed{363}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

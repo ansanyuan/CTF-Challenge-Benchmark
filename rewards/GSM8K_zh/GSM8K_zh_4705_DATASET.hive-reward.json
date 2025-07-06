@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John visits three different countries.  He stays in the first country for 2 weeks and he spends twice as long in each of the other two countries.  How much time does he spend on the trip?",
+  "checkpoint": [
+    {
+      "\\boxed{10}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Hash has nine more than half as many toys as Bill has. If Bill has 60 toys, how many total toys do the boys have?",
+  "checkpoint": [
+    {
+      "\\boxed{99}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

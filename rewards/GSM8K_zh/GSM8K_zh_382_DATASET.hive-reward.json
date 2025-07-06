@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：On Monday, Matt worked for 450 minutes in his office.  On Tuesday, he worked half the number of minutes he worked on Monday.  On Wednesday, he worked for 300 minutes.  How many more minutes did he work on Wednesday than on Tuesday.",
+  "checkpoint": [
+    {
+      "\\boxed{75}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

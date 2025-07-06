@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：In today's field day challenge, the 4th graders were competing against the 5th graders.  Each grade had 2 different classes.  The first 4th grade class had 12 girls and 13 boys.  The second 4th grade class had 15 girls and 11 boys.  The first 5th grade class had 9 girls and 13 boys while the second 5th grade class had 10 girls and 11 boys.  In total, how many more boys were competing than girls?",
+  "checkpoint": [
+    {
+      "\\boxed{2}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

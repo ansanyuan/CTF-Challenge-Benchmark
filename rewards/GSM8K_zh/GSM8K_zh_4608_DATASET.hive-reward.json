@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jim reads at a rate of 40 pages an hour.  He reads a total of 600 pages per week.  He increases his reading speed to 150% of its former speed but reads 4 hours less per week.  How many pages does he read a week now?",
+  "checkpoint": [
+    {
+      "\\boxed{660}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Gina has two bank accounts. Each account has a quarter of the balance in Betty's account. If Betty's account balance is $3,456, what is the combined balance of both Gina's accounts?",
+  "checkpoint": [
+    {
+      "\\boxed{1728}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lori owns a carsharing company. There are three red cars and two white cars available to rent. Renting the white car costs $2 for every minute and the red car $3 for every minute. All cars were rented for 3 hours. How much money did Lori earn?",
+  "checkpoint": [
+    {
+      "\\boxed{2340}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

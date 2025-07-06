@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：To make 3 km, Ben walked for 2 hours. Continuing at the same speed, how much time in minutes would it take him to travel 12 km?",
+  "checkpoint": [
+    {
+      "\\boxed{480}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

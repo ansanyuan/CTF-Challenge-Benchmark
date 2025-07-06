@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：John climbs 3 staircases.  The first staircase has 20 steps.  The next has twice as many steps as the first.  The final staircase has 10 fewer steps than the second one.  Each step is 0.5 feet.  How many feet did he climb?",
+  "checkpoint": [
+    {
+      "\\boxed{45}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

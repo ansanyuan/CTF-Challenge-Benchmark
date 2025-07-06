@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Thomas withdraws $1000 in 20 dollar bills from the bank account.  He loses 10 bills while getting home.  After that, he uses half of the remaining bills to pay for a bill.  Thomas then triples his money.  He then converts all his bills to 5 dollar bills.  How many 5 dollar bills does he have?",
+  "checkpoint": [
+    {
+      "\\boxed{240}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

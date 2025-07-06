@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $\\frac{m}{n}$ , in lowest terms, be the probability that a randomly chosen positive divisor of $10^{99}$ is an integer multiple of $10^{88}$ . Find $m + n$ .",
-    "checkpoint": [
-        {
-            "634": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $\\frac{m}{n}$ , in lowest terms, be the probability that a randomly chosen positive divisor of $10^{99}$ is an integer multiple of $10^{88}$ . Find $m + n$ .",
+  "checkpoint": [
+    {
+      "\\boxed{634}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

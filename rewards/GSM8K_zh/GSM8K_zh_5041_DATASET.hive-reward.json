@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：There are 320 ducks in a pond.  On the first night 1/4 of them get eaten by a fox.  On the second night 1/6 of the remaining ducks fly away, and on the third night 30 percent are stolen.  How many ducks remain after the three nights?",
+  "checkpoint": [
+    {
+      "\\boxed{140}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}
