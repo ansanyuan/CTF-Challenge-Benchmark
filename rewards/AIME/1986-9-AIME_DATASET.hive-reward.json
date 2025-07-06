@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：In $\\triangle ABC$ , $AB= 425$ , $BC=450$ , and $AC=510$ . An interior point $P$ is then drawn, and segments are drawn through $P$ parallel to the sides of the triangle. If these three segments are of an equal length $d$ , find $d$ .",
-    "checkpoint": [
-        {
-            "306": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：In $\\triangle ABC$ , $AB= 425$ , $BC=450$ , and $AC=510$ . An interior point $P$ is then drawn, and segments are drawn through $P$ parallel to the sides of the triangle. If these three segments are of an equal length $d$ , find $d$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

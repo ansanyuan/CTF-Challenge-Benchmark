@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $a_n=6^{n}+8^{n}$ . Determine the remainder on dividing $a_{83}$ by $49$ .",
-    "checkpoint": [
-        {
-            "35": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $a_n=6^{n}+8^{n}$ . Determine the remainder on dividing $a_{83}$ by $49$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

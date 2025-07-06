@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A hotel packed breakfast for each of three guests. Each breakfast should have consisted of three types of rolls, one each of nut, cheese, and fruit rolls. The preparer wrapped each of the nine rolls and once wrapped, the rolls were indistinguishable from one another. She then randomly put three rolls in a bag for each of the guests. Given that the probability each guest got one roll of each type is $\\frac mn,$ where $m$ and $n$ are relatively prime integers, find $m+n.$ ",
-    "checkpoint": [
-        {
-            "79": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A hotel packed breakfast for each of three guests. Each breakfast should have consisted of three types of rolls, one each of nut, cheese, and fruit rolls. The preparer wrapped each of the nine rolls and once wrapped, the rolls were indistinguishable from one another. She then randomly put three rolls in a bag for each of the guests. Given that the probability each guest got one roll of each type is $\\frac mn,$ where $m$ and $n$ are relatively prime integers, find $m+n.$ ",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

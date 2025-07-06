@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：For any positive integer $x_{}$ , let $S(x)$ be the sum of the digits of $x_{}$ , and let $T(x)$ be $|S(x+2)-S(x)|.$ For example, $T(199)=|S(201)-S(199)|=|3-19|=16.$ How many values of $T(x)$ do not exceed 1999?",
-    "checkpoint": [
-        {
-            "223": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：For any positive integer $x_{}$ , let $S(x)$ be the sum of the digits of $x_{}$ , and let $T(x)$ be $|S(x+2)-S(x)|.$ For example, $T(199)=|S(201)-S(199)|=|3-19|=16.$ How many values of $T(x)$ do not exceed 1999?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

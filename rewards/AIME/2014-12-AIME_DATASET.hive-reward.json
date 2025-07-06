@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Suppose that the angles of $\\triangle ABC$ satisfy $\\cos(3A)+\\cos(3B)+\\cos(3C)=1$ . Two sides of the triangle have lengths 10 and 13. There is a positive integer $m$ so that the maximum possible length for the remaining side of $\\triangle ABC$ is $\\sqrt{m}$ . Find $m$ .",
-    "checkpoint": [
-        {
-            "399": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Suppose that the angles of $\\triangle ABC$ satisfy $\\cos(3A)+\\cos(3B)+\\cos(3C)=1$ . Two sides of the triangle have lengths 10 and 13. There is a positive integer $m$ so that the maximum possible length for the remaining side of $\\triangle ABC$ is $\\sqrt{m}$ . Find $m$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Circles $\\mathcal{C}_1, \\mathcal{C}_2,$ and $\\mathcal{C}_3$ have their centers at (0,0), (12,0), and (24,0), and have radii 1, 2, and 4, respectively. Line $t_1$ is a common internal tangent to $\\mathcal{C}_1$ and $\\mathcal{C}_2$ and has a positive slope, and line $t_2$ is a common internal tangent to $\\mathcal{C}_2$ and $\\mathcal{C}_3$ and has a negative slope. Given that lines $t_1$ and $t_2$ intersect at $(x,y),$ and that $x=p-q\\sqrt{r},$ where $p, q,$ and $r$ are positive integers and $r$ is not divisible by the square of any prime, find $p+q+r.$",
-    "checkpoint": [
-        {
-            "27": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Circles $\\mathcal{C}_1, \\mathcal{C}_2,$ and $\\mathcal{C}_3$ have their centers at (0,0), (12,0), and (24,0), and have radii 1, 2, and 4, respectively. Line $t_1$ is a common internal tangent to $\\mathcal{C}_1$ and $\\mathcal{C}_2$ and has a positive slope, and line $t_2$ is a common internal tangent to $\\mathcal{C}_2$ and $\\mathcal{C}_3$ and has a negative slope. Given that lines $t_1$ and $t_2$ intersect at $(x,y),$ and that $x=p-q\\sqrt{r},$ where $p, q,$ and $r$ are positive integers and $r$ is not divisible by the square of any prime, find $p+q+r.$",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $m$ be the number of solutions in positive integers to the equation $4x+3y+2z=2009$ , and let $n$ be the number of solutions in positive integers to the equation $4x+3y+2z=2000$ . Find the remainder when $m-n$ is divided by $1000$ .",
-    "checkpoint": [
-        {
-            "0": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $m$ be the number of solutions in positive integers to the equation $4x+3y+2z=2009$ , and let $n$ be the number of solutions in positive integers to the equation $4x+3y+2z=2000$ . Find the remainder when $m-n$ is divided by $1000$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

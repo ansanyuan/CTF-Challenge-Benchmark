@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Squares $ABCD$ and $EFGH$ have a common center and $\\overline{AB} || \\overline{EF}$ . The area of $ABCD$ is 2016, and the area of $EFGH$ is a smaller positive integer. Square $IJKL$ is constructed so that each of its vertices lies on a side of $ABCD$ and each vertex of $EFGH$ lies on a side of $IJKL$ . Find the difference between the largest and smallest positive integer values for the area of $IJKL$ .",
-    "checkpoint": [
-        {
-            "840": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Squares $ABCD$ and $EFGH$ have a common center and $\\overline{AB} || \\overline{EF}$ . The area of $ABCD$ is 2016, and the area of $EFGH$ is a smaller positive integer. Square $IJKL$ is constructed so that each of its vertices lies on a side of $ABCD$ and each vertex of $EFGH$ lies on a side of $IJKL$ . Find the difference between the largest and smallest positive integer values for the area of $IJKL$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

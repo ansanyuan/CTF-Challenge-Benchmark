@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Convex pentagon $ABCDE$ has side lengths $AB=5$ , $BC=CD=DE=6$ , and $EA=7$ . Moreover, the pentagon has an inscribed circle (a circle tangent to each side of the pentagon). Find the area of $ABCDE$ .",
-    "checkpoint": [
-        {
-            "60": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Convex pentagon $ABCDE$ has side lengths $AB=5$ , $BC=CD=DE=6$ , and $EA=7$ . Moreover, the pentagon has an inscribed circle (a circle tangent to each side of the pentagon). Find the area of $ABCDE$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

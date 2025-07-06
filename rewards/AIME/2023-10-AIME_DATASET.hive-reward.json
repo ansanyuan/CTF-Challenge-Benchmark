@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $N$ be the number of ways to place the integers $1$ through $12$ in the $12$ cells of a $2 \\times 6$ grid so that for any two cells sharing a side, the difference between the numbers in those cells is not divisible by $3.$ One way to do this is shown below. Find the number of positive integer divisors of $N.$ \\[\\begin{array}{|c|c|c|c|c|c|} \\hline \\,1\\, & \\,3\\, & \\,5\\, & \\,7\\, & \\,9\\, & 11 \\\\ \\hline \\,2\\, & \\,4\\, & \\,6\\, & \\,8\\, & 10 & 12 \\\\ \\hline \\end{array}\\]",
-    "checkpoint": [
-        {
-            "144": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $N$ be the number of ways to place the integers $1$ through $12$ in the $12$ cells of a $2 \\times 6$ grid so that for any two cells sharing a side, the difference between the numbers in those cells is not divisible by $3.$ One way to do this is shown below. Find the number of positive integer divisors of $N.$ \\[\\begin{array}{|c|c|c|c|c|c|} \\hline \\,1\\, & \\,3\\, & \\,5\\, & \\,7\\, & \\,9\\, & 11 \\\\ \\hline \\,2\\, & \\,4\\, & \\,6\\, & \\,8\\, & 10 & 12 \\\\ \\hline \\end{array}\\]",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：For each real number $x$ , let $\\lfloor x \\rfloor$ denote the greatest integer that does not exceed $x$ . For how many positive integers $n$ is it true that $n<1000$ and that $\\lfloor \\log_{2} n \\rfloor$ is a positive even integer?",
-    "checkpoint": [
-        {
-            "340": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：For each real number $x$ , let $\\lfloor x \\rfloor$ denote the greatest integer that does not exceed $x$ . For how many positive integers $n$ is it true that $n<1000$ and that $\\lfloor \\log_{2} n \\rfloor$ is a positive even integer?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

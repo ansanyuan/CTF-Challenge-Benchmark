@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Find the number of subsets of $\\{1, 2, 3, 4, 5, 6, 7, 8\\}$ that are subsets of neither $\\{1, 2, 3, 4, 5\\}$ nor $\\{4, 5, 6, 7, 8\\}$ .",
-    "checkpoint": [
-        {
-            "196": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Find the number of subsets of $\\{1, 2, 3, 4, 5, 6, 7, 8\\}$ that are subsets of neither $\\{1, 2, 3, 4, 5\\}$ nor $\\{4, 5, 6, 7, 8\\}$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

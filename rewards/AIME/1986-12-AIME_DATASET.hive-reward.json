@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let the sum of a set of numbers be the sum of its elements. Let $S$ be a set of positive integers, none greater than 15. Suppose no two disjoint subsets of $S$ have the same sum. What is the largest sum a set $S$ with these properties can have?",
-    "checkpoint": [
-        {
-            "61": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let the sum of a set of numbers be the sum of its elements. Let $S$ be a set of positive integers, none greater than 15. Suppose no two disjoint subsets of $S$ have the same sum. What is the largest sum a set $S$ with these properties can have?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

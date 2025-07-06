@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：If the integer $k^{}_{}$ is added to each of the numbers $36^{}_{}$ , $300^{}_{}$ , and $596^{}_{}$ , one obtains the squares of three consecutive terms of an arithmetic series. Find $k^{}_{}$ .",
-    "checkpoint": [
-        {
-            "925": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：If the integer $k^{}_{}$ is added to each of the numbers $36^{}_{}$ , $300^{}_{}$ , and $596^{}_{}$ , one obtains the squares of three consecutive terms of an arithmetic series. Find $k^{}_{}$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

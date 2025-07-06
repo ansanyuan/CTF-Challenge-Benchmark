@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：For positive real numbers $s$ , let $\\tau(s)$ denote the set of all obtuse triangles that have area $s$ and two sides with lengths $4$ and $10$ . The set of all $s$ for which $\\tau(s)$ is nonempty, but all triangles in $\\tau(s)$ are congruent, is an interval $[a,b)$ . Find $a^2+b^2$ .",
-    "checkpoint": [
-        {
-            "736": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：For positive real numbers $s$ , let $\\tau(s)$ denote the set of all obtuse triangles that have area $s$ and two sides with lengths $4$ and $10$ . The set of all $s$ for which $\\tau(s)$ is nonempty, but all triangles in $\\tau(s)$ are congruent, is an interval $[a,b)$ . Find $a^2+b^2$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

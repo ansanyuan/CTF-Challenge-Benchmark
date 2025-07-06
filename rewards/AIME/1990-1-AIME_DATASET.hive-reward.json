@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：The increasing sequence $2,3,5,6,7,10,11,\\ldots$ consists of all positive integers that are neither the square nor the cube of a positive integer. Find the 500th term of this sequence.",
-    "checkpoint": [
-        {
-            "528": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：The increasing sequence $2,3,5,6,7,10,11,\\ldots$ consists of all positive integers that are neither the square nor the cube of a positive integer. Find the 500th term of this sequence.",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

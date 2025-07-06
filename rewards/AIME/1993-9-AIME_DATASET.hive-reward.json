@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Two thousand points are given on a circle. Label one of the points 1. From this point, count 2 points in the clockwise direction and label this point 2. From the point labeled 2, count 3 points in the clockwise direction and label this point 3. (See figure.) Continue this process until the labels $1,2,3\\dots,1993\\,$ are all used. Some of the points on the circle will have more than one label and some points will not have a label. What is the smallest integer that labels the same point as 1993? AIME 1993 Problem 9.png",
-    "checkpoint": [
-        {
-            "118": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Two thousand points are given on a circle. Label one of the points 1. From this point, count 2 points in the clockwise direction and label this point 2. From the point labeled 2, count 3 points in the clockwise direction and label this point 3. (See figure.) Continue this process until the labels $1,2,3\\dots,1993\\,$ are all used. Some of the points on the circle will have more than one label and some points will not have a label. What is the smallest integer that labels the same point as 1993? AIME 1993 Problem 9.png",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

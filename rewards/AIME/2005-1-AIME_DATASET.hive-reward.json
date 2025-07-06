@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A game uses a deck of $n$ different cards, where $n$ is an integer and $n \\geq 6.$ The number of possible sets of 6 cards that can be drawn from the deck is 6 times the number of possible sets of 3 cards that can be drawn. Find $n.$",
-    "checkpoint": [
-        {
-            "13": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A game uses a deck of $n$ different cards, where $n$ is an integer and $n \\geq 6.$ The number of possible sets of 6 cards that can be drawn from the deck is 6 times the number of possible sets of 3 cards that can be drawn. Find $n.$",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

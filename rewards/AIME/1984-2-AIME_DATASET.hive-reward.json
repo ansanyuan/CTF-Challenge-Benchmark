@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：The integer $n$ is the smallest positive multiple of $15$ such that every digit of $n$ is either $8$ or $0$ . Compute $\\frac{n}{15}$ .",
-    "checkpoint": [
-        {
-            "592": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：The integer $n$ is the smallest positive multiple of $15$ such that every digit of $n$ is either $8$ or $0$ . Compute $\\frac{n}{15}$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

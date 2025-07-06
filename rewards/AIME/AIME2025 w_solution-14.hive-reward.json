@@ -1,8 +1,8 @@
- {
+{
   "topic": "作答以下题目，并给出正确答案：Let $N$ denote the number of ordered triples of positive integers $(a, b, c)$ such that $a, b, c \\leq 3^6$ and $a^3 + b^3 + c^3$ is a multiple of $3^7$. Find the remainder when $N$ is divided by $1000$.",
   "checkpoint": [
     {
-      "735": 1
+      "$\\boxed{{{key}}}$": 1
     }
   ],
   "matchingmethod": [

@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A list of positive integers has the following properties: $\\bullet$ The sum of the items in the list is $30$ . $\\bullet$ The unique mode of the list is $9$ . $\\bullet$ The median of the list is a positive integer that does not appear in the list itself. Find the sum of the squares of all the items in the list.",
-    "checkpoint": [
-        {
-            "236": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A list of positive integers has the following properties: $\\bullet$ The sum of the items in the list is $30$ . $\\bullet$ The unique mode of the list is $9$ . $\\bullet$ The median of the list is a positive integer that does not appear in the list itself. Find the sum of the squares of all the items in the list.",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

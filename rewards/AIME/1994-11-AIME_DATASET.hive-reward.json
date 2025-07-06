@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Ninety-four bricks, each measuring $4''\\times10''\\times19'',$ are to be stacked one on top of another to form a tower 94 bricks tall.  Each brick can be oriented so it contributes $4''\\,$ or $10''\\,$ or $19''\\,$ to the total height of the tower.  How many different tower heights can be achieved using all 94 of the bricks?",
-    "checkpoint": [
-        {
-            "465": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Ninety-four bricks, each measuring $4''\\times10''\\times19'',$ are to be stacked one on top of another to form a tower 94 bricks tall.  Each brick can be oriented so it contributes $4''\\,$ or $10''\\,$ or $19''\\,$ to the total height of the tower.  How many different tower heights can be achieved using all 94 of the bricks?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

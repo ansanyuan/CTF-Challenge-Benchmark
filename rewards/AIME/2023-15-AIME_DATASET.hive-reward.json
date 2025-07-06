@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：For each positive integer $n$ let $a_n$ be the least positive integer multiple of $23$ such that $a_n \\equiv 1 \\pmod{2^n}.$ Find the number of positive integers $n$ less than or equal to $1000$ that satisfy $a_n = a_{n+1}.$",
-    "checkpoint": [
-        {
-            "363": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：For each positive integer $n$ let $a_n$ be the least positive integer multiple of $23$ such that $a_n \\equiv 1 \\pmod{2^n}.$ Find the number of positive integers $n$ less than or equal to $1000$ that satisfy $a_n = a_{n+1}.$",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

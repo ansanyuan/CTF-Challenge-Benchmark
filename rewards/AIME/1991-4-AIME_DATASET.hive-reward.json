@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：How many real numbers $x^{}_{}$ satisfy the equation $\\frac{1}{5}\\log_2 x = \\sin (5\\pi x)$ ?",
-    "checkpoint": [
-        {
-            "159": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：How many real numbers $x^{}_{}$ satisfy the equation $\\frac{1}{5}\\log_2 x = \\sin (5\\pi x)$ ?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

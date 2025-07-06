@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Square $ABCD$ has center $O, AB=900, E$ and $F$ are on $AB$ with $AE<BF$ and $E$ between $A$ and $F, m\\angle EOF =45^\\circ,$ and $EF=400.$ Given that $BF=p+q\\sqrt{r},$ where $p,q,$ and $r$ are positive integers and $r$ is not divisible by the square of any prime, find $p+q+r.$",
-    "checkpoint": [
-        {
-            "307": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Square $ABCD$ has center $O, AB=900, E$ and $F$ are on $AB$ with $AE<BF$ and $E$ between $A$ and $F, m\\angle EOF =45^\\circ,$ and $EF=400.$ Given that $BF=p+q\\sqrt{r},$ where $p,q,$ and $r$ are positive integers and $r$ is not divisible by the square of any prime, find $p+q+r.$",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Positive integers $a$ and $b$ satisfy the condition \\[\\log_2(\\log_{2^a}(\\log_{2^b}(2^{1000}))) = 0.\\] Find the sum of all possible values of $a+b$ .",
-    "checkpoint": [
-        {
-            "881": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Positive integers $a$ and $b$ satisfy the condition \\[\\log_2(\\log_{2^a}(\\log_{2^b}(2^{1000}))) = 0.\\] Find the sum of all possible values of $a+b$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

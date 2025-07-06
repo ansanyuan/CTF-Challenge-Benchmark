@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Each unit square of a 3-by-3 unit-square grid is to be colored either blue or red. For each square, either color is equally likely to be used. The probability of obtaining a grid that does not have a 2-by-2 red square is $\\frac {m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
-    "checkpoint": [
-        {
-            "929": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Each unit square of a 3-by-3 unit-square grid is to be colored either blue or red. For each square, either color is equally likely to be used. The probability of obtaining a grid that does not have a 2-by-2 red square is $\\frac {m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

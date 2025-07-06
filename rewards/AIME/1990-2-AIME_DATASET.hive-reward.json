@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Find the value of $(52+6\\sqrt{43})^{3/2}-(52-6\\sqrt{43})^{3/2}$ .",
-    "checkpoint": [
-        {
-            "828": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Find the value of $(52+6\\sqrt{43})^{3/2}-(52-6\\sqrt{43})^{3/2}$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：For any integer $k\\geq 1$ , let $p(k)$ be the smallest prime which does not divide $k$ . Define the integer function $X(k)$ to be the product of all primes less than $p(k)$ if $p(k)>2$ , and $X(k)=1$ if $p(k)=2$ . Let $\\{x_n\\}$ be the sequence defined by $x_0=1$ , and $x_{n+1}X(x_n)=x_np(x_n)$ for $n\\geq 0$ . Find the smallest positive integer $t$ such that $x_t=2090$ .",
-    "checkpoint": [
-        {
-            "149": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：For any integer $k\\geq 1$ , let $p(k)$ be the smallest prime which does not divide $k$ . Define the integer function $X(k)$ to be the product of all primes less than $p(k)$ if $p(k)>2$ , and $X(k)=1$ if $p(k)=2$ . Let $\\{x_n\\}$ be the sequence defined by $x_0=1$ , and $x_{n+1}X(x_n)=x_np(x_n)$ for $n\\geq 0$ . Find the smallest positive integer $t$ such that $x_t=2090$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

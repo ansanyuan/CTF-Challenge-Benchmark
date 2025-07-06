@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：The increasing sequence $3, 15, 24, 48, \\ldots\\,$ consists of those positive multiples of 3 that are one less than a perfect square.  What is the remainder when the 1994th term of the sequence is divided by 1000?",
-    "checkpoint": [
-        {
-            "63": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：The increasing sequence $3, 15, 24, 48, \\ldots\\,$ consists of those positive multiples of 3 that are one less than a perfect square.  What is the remainder when the 1994th term of the sequence is divided by 1000?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

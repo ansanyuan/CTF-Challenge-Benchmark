@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：The number $r$ can be expressed as a four-place decimal $0.abcd,$ where $a, b, c,$ and $d$ represent digits, any of which could be zero.  It is desired to approximate $r$ by a fraction whose numerator is 1 or 2 and whose denominator is an integer. The closest such fraction to $r$ is $\\frac 27.$ What is the number of possible values for $r$ ?",
-    "checkpoint": [
-        {
-            "417": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：The number $r$ can be expressed as a four-place decimal $0.abcd,$ where $a, b, c,$ and $d$ represent digits, any of which could be zero.  It is desired to approximate $r$ by a fraction whose numerator is 1 or 2 and whose denominator is an integer. The closest such fraction to $r$ is $\\frac 27.$ What is the number of possible values for $r$ ?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

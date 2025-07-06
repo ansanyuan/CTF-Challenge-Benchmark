@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $\\overline{CH}$ be an altitude of $\\triangle ABC$ . Let $R\\,$ and $S\\,$ be the points where the circles inscribed in the triangles $ACH\\,$ and $BCH^{}_{}$ are tangent to $\\overline{CH}$ . If $AB = 1995\\,$ , $AC = 1994\\,$ , and $BC = 1993\\,$ , then $RS\\,$ can be expressed as $m/n\\,$ , where $m\\,$ and $n\\,$ are relatively prime integers. Find $m + n\\,$ .",
-    "checkpoint": [
-        {
-            "997": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $\\overline{CH}$ be an altitude of $\\triangle ABC$ . Let $R\\,$ and $S\\,$ be the points where the circles inscribed in the triangles $ACH\\,$ and $BCH^{}_{}$ are tangent to $\\overline{CH}$ . If $AB = 1995\\,$ , $AC = 1994\\,$ , and $BC = 1993\\,$ , then $RS\\,$ can be expressed as $m/n\\,$ , where $m\\,$ and $n\\,$ are relatively prime integers. Find $m + n\\,$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

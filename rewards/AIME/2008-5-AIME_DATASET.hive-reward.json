@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：In trapezoid $ABCD$ with $\\overline{BC}\\parallel\\overline{AD}$ , let $BC = 1000$ and $AD = 2008$ . Let $\\angle A = 37^\\circ$ , $\\angle D = 53^\\circ$ , and $M$ and $N$ be the midpoints of $\\overline{BC}$ and $\\overline{AD}$ , respectively. Find the length $MN$ .",
-    "checkpoint": [
-        {
-            "504": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：In trapezoid $ABCD$ with $\\overline{BC}\\parallel\\overline{AD}$ , let $BC = 1000$ and $AD = 2008$ . Let $\\angle A = 37^\\circ$ , $\\angle D = 53^\\circ$ , and $M$ and $N$ be the midpoints of $\\overline{BC}$ and $\\overline{AD}$ , respectively. Find the length $MN$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

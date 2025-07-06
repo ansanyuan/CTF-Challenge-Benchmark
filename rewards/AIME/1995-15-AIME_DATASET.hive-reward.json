@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $p_{}$ be the probability that, in the process of repeatedly flipping a fair coin, one will encounter a run of 5 heads before one encounters a run of 2 tails.  Given that $p_{}$ can be written in the form $m/n$ where $m_{}$ and $n_{}$ are relatively prime positive integers, find $m+n$ .",
-    "checkpoint": [
-        {
-            "37": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $p_{}$ be the probability that, in the process of repeatedly flipping a fair coin, one will encounter a run of 5 heads before one encounters a run of 2 tails.  Given that $p_{}$ can be written in the form $m/n$ where $m_{}$ and $n_{}$ are relatively prime positive integers, find $m+n$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

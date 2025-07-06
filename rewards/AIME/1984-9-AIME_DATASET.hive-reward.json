@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：In tetrahedron $ABCD$ , edge $AB$ has length 3 cm. The area of face $ABC$ is $15\\mbox{cm}^2$ and the area of face $ABD$ is $12 \\mbox { cm}^2$ . These two faces meet each other at a $30^\\circ$ angle. Find the volume of the tetrahedron in $\\mbox{cm}^3$ .",
-    "checkpoint": [
-        {
-            "20": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：In tetrahedron $ABCD$ , edge $AB$ has length 3 cm. The area of face $ABC$ is $15\\mbox{cm}^2$ and the area of face $ABD$ is $12 \\mbox { cm}^2$ . These two faces meet each other at a $30^\\circ$ angle. Find the volume of the tetrahedron in $\\mbox{cm}^3$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

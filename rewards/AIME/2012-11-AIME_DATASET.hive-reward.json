@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $f_1(x) = \\frac23 - \\frac3{3x+1}$ , and for $n \\ge 2$ , define $f_n(x) = f_1(f_{n-1}(x))$ . The value of $x$ that satisfies $f_{1001}(x) = x-3$ can be expressed in the form $\\frac mn$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
-    "checkpoint": [
-        {
-            "8": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $f_1(x) = \\frac23 - \\frac3{3x+1}$ , and for $n \\ge 2$ , define $f_n(x) = f_1(f_{n-1}(x))$ . The value of $x$ that satisfies $f_{1001}(x) = x-3$ can be expressed in the form $\\frac mn$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

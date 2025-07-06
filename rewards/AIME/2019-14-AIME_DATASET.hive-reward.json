@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Find the sum of all positive integers $n$ such that, given an unlimited supply of stamps of denominations $5,n,$ and $n+1$ cents, $91$ cents is the greatest postage that cannot be formed.",
-    "checkpoint": [
-        {
-            "71": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Find the sum of all positive integers $n$ such that, given an unlimited supply of stamps of denominations $5,n,$ and $n+1$ cents, $91$ cents is the greatest postage that cannot be formed.",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

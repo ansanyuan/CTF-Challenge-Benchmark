@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A fenced, rectangular field measures 24 meters by 52 meters. An agricultural researcher has 1994 meters of fence that can be used for internal fencing to partition the field into congruent, square test plots. The entire field must be partitioned, and the sides of the squares must be parallel to the edges of the field. What is the largest number of square test plots into which the field can be partitioned using all or some of the 1994 meters of fence?",
-    "checkpoint": [
-        {
-            "702": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A fenced, rectangular field measures 24 meters by 52 meters. An agricultural researcher has 1994 meters of fence that can be used for internal fencing to partition the field into congruent, square test plots. The entire field must be partitioned, and the sides of the squares must be parallel to the edges of the field. What is the largest number of square test plots into which the field can be partitioned using all or some of the 1994 meters of fence?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

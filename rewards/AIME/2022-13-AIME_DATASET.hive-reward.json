@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：There is a polynomial $P(x)$ with integer coefficients such that \\[P(x)=\\frac{(x^{2310}-1)^6}{(x^{105}-1)(x^{70}-1)(x^{42}-1)(x^{30}-1)}\\] holds for every $0<x<1.$ Find the coefficient of $x^{2022}$ in $P(x)$ .",
-    "checkpoint": [
-        {
-            "220": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：There is a polynomial $P(x)$ with integer coefficients such that \\[P(x)=\\frac{(x^{2310}-1)^6}{(x^{105}-1)(x^{70}-1)(x^{42}-1)(x^{30}-1)}\\] holds for every $0<x<1.$ Find the coefficient of $x^{2022}$ in $P(x)$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

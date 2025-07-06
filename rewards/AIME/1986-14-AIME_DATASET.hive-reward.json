@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：The shortest distances between an interior diagonal of a rectangular parallelepiped , $P$ , and the edges it does not meet are $2\\sqrt{5}$ , $\\frac{30}{\\sqrt{13}}$ , and $\\frac{15}{\\sqrt{10}}$ . Determine the volume of $P$ .",
-    "checkpoint": [
-        {
-            "750": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：The shortest distances between an interior diagonal of a rectangular parallelepiped , $P$ , and the edges it does not meet are $2\\sqrt{5}$ , $\\frac{30}{\\sqrt{13}}$ , and $\\frac{15}{\\sqrt{10}}$ . Determine the volume of $P$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

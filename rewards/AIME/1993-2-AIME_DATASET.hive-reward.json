@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：During a recent campaign for office, a candidate made a tour of a country which we assume lies in a plane. On the first day of the tour he went east, on the second day he went north, on the third day west, on the fourth day south, on the fifth day east, etc. If the candidate went $\\frac{n^{2}}{2}$ miles on the $n^{\\mbox{th}}_{}$ day of this tour, how many miles was he from his starting point at the end of the $40^{\\mbox{th}}_{}$ day?",
-    "checkpoint": [
-        {
-            "580": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：During a recent campaign for office, a candidate made a tour of a country which we assume lies in a plane. On the first day of the tour he went east, on the second day he went north, on the third day west, on the fourth day south, on the fifth day east, etc. If the candidate went $\\frac{n^{2}}{2}$ miles on the $n^{\\mbox{th}}_{}$ day of this tour, how many miles was he from his starting point at the end of the $40^{\\mbox{th}}_{}$ day?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

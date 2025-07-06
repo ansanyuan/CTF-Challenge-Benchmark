@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A frog is positioned at the origin of the coordinate plane. From the point $(x, y)$ , the frog can jump to any of the points $(x + 1, y)$ , $(x + 2, y)$ , $(x, y + 1)$ , or $(x, y + 2)$ . Find the number of distinct sequences of jumps in which the frog begins at $(0, 0)$ and ends at $(4, 4)$ .",
-    "checkpoint": [
-        {
-            "556": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A frog is positioned at the origin of the coordinate plane. From the point $(x, y)$ , the frog can jump to any of the points $(x + 1, y)$ , $(x + 2, y)$ , $(x, y + 1)$ , or $(x, y + 2)$ . Find the number of distinct sequences of jumps in which the frog begins at $(0, 0)$ and ends at $(4, 4)$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

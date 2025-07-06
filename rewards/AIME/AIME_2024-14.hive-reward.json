@@ -1,8 +1,8 @@
- {
+{
   "topic": "作答以下题目，并给出正确答案：Let $A$, $B$, $C$, and $D$ be point on the hyperbola $\\frac{x^2}{20}- \\frac{y^2}{24} = 1$ such that $ABCD$ is a rhombus whose diagonals intersect at the origin. Find the greatest real number that is less than $BD^2$ for all such rhombi.",
   "checkpoint": [
     {
-      "480": 1
+      "$\\boxed{{{key}}}$": 1
     }
   ],
   "matchingmethod": [

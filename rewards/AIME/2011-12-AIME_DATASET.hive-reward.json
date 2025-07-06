@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Nine delegates, three each from three different countries, randomly select chairs at a round table that seats nine people. Let the probability that each delegate sits next to at least one delegate from another country be $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$ . ",
-    "checkpoint": [
-        {
-            "97": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Nine delegates, three each from three different countries, randomly select chairs at a round table that seats nine people. Let the probability that each delegate sits next to at least one delegate from another country be $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$ . ",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

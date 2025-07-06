@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：In triangle $ABC$ , $\\tan \\angle CAB = 22/7$ , and the altitude from $A$ divides $BC$ into segments of length $3$ and $17$ . What is the area of triangle $ABC$ ?",
-    "checkpoint": [
-        {
-            "110": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：In triangle $ABC$ , $\\tan \\angle CAB = 22/7$ , and the altitude from $A$ divides $BC$ into segments of length $3$ and $17$ . What is the area of triangle $ABC$ ?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

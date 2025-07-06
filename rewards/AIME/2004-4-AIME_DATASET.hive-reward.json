@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：How many positive integers less than 10,000 have at most two different digits?",
-    "checkpoint": [
-        {
-            "927": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：How many positive integers less than 10,000 have at most two different digits?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

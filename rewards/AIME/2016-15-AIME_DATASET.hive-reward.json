@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：For $1 \\leq i \\leq 215$ let $a_i = \\dfrac{1}{2^{i}}$ and $a_{216} = \\dfrac{1}{2^{215}}$ . Let $x_1, x_2, ..., x_{216}$ be positive real numbers such that $\\sum_{i=1}^{216} x_i=1$ and $\\sum_{1 \\leq i < j \\leq 216} x_ix_j = \\dfrac{107}{215} + \\sum_{i=1}^{216} \\dfrac{a_i x_i^{2}}{2(1-a_i)}$ . The maximum possible value of $x_2=\\dfrac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
-    "checkpoint": [
-        {
-            "863": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：For $1 \\leq i \\leq 215$ let $a_i = \\dfrac{1}{2^{i}}$ and $a_{216} = \\dfrac{1}{2^{215}}$ . Let $x_1, x_2, ..., x_{216}$ be positive real numbers such that $\\sum_{i=1}^{216} x_i=1$ and $\\sum_{1 \\leq i < j \\leq 216} x_ix_j = \\dfrac{107}{215} + \\sum_{i=1}^{216} \\dfrac{a_i x_i^{2}}{2(1-a_i)}$ . The maximum possible value of $x_2=\\dfrac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

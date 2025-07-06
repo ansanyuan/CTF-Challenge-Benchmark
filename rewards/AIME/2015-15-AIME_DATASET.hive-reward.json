@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Circles $\\mathcal{P}$ and $\\mathcal{Q}$ have radii $1$ and $4$ , respectively, and are externally tangent at point $A$ . Point $B$ is on $\\mathcal{P}$ and point $C$ is on $\\mathcal{Q}$ such that $BC$ is a common external tangent of the two circles. A line $\\ell$ through $A$ intersects $\\mathcal{P}$ again at $D$ and intersects $\\mathcal{Q}$ again at $E$ . Points $B$ and $C$ lie on the same side of $\\ell$ , and the areas of $\\triangle DBA$ and $\\triangle ACE$ are equal. This common area is $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ . [asy] import cse5; pathpen=black; pointpen=black; size(6cm);  pair E = IP(L((-.2476,1.9689),(0.8,1.6),-3,5.5),CR((4,4),4)), D = (-.2476,1.9689);  filldraw(D--(0.8,1.6)--(0,0)--cycle,gray(0.7)); filldraw(E--(0.8,1.6)--(4,0)--cycle,gray(0.7)); D(CR((0,1),1)); D(CR((4,4),4,150,390)); D(L(MP(\"D\",D(D),N),MP(\"A\",D((0.8,1.6)),NE),1,5.5)); D((-1.2,0)--MP(\"B\",D((0,0)),S)--MP(\"C\",D((4,0)),S)--(8,0)); D(MP(\"E\",E,N)); [/asy]",
-    "checkpoint": [
-        {
-            "129": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Circles $\\mathcal{P}$ and $\\mathcal{Q}$ have radii $1$ and $4$ , respectively, and are externally tangent at point $A$ . Point $B$ is on $\\mathcal{P}$ and point $C$ is on $\\mathcal{Q}$ such that $BC$ is a common external tangent of the two circles. A line $\\ell$ through $A$ intersects $\\mathcal{P}$ again at $D$ and intersects $\\mathcal{Q}$ again at $E$ . Points $B$ and $C$ lie on the same side of $\\ell$ , and the areas of $\\triangle DBA$ and $\\triangle ACE$ are equal. This common area is $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ . [asy] import cse5; pathpen=black; pointpen=black; size(6cm);  pair E = IP(L((-.2476,1.9689),(0.8,1.6),-3,5.5),CR((4,4),4)), D = (-.2476,1.9689);  filldraw(D--(0.8,1.6)--(0,0)--cycle,gray(0.7)); filldraw(E--(0.8,1.6)--(4,0)--cycle,gray(0.7)); D(CR((0,1),1)); D(CR((4,4),4,150,390)); D(L(MP(\"D\",D(D),N),MP(\"A\",D((0.8,1.6)),NE),1,5.5)); D((-1.2,0)--MP(\"B\",D((0,0)),S)--MP(\"C\",D((4,0)),S)--(8,0)); D(MP(\"E\",E,N)); [/asy]",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

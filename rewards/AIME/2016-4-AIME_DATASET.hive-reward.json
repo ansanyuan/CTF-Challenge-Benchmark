@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：An $a \\times b \\times c$ rectangular box is built from $a \\cdot b \\cdot c$ unit cubes. Each unit cube is colored red, green, or yellow. Each of the $a$ layers of size $1 \\times b \\times c$ parallel to the $(b \\times c)$ faces of the box contains exactly $9$ red cubes, exactly $12$ green cubes, and some yellow cubes. Each of the $b$ layers of size $a \\times 1 \\times c$ parallel to the $(a \\times c)$ faces of the box contains exactly $20$ green cubes, exactly $25$ yellow cubes, and some red cubes. Find the smallest possible volume of the box.",
-    "checkpoint": [
-        {
-            "180": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：An $a \\times b \\times c$ rectangular box is built from $a \\cdot b \\cdot c$ unit cubes. Each unit cube is colored red, green, or yellow. Each of the $a$ layers of size $1 \\times b \\times c$ parallel to the $(b \\times c)$ faces of the box contains exactly $9$ red cubes, exactly $12$ green cubes, and some yellow cubes. Each of the $b$ layers of size $a \\times 1 \\times c$ parallel to the $(a \\times c)$ faces of the box contains exactly $20$ green cubes, exactly $25$ yellow cubes, and some red cubes. Find the smallest possible volume of the box.",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

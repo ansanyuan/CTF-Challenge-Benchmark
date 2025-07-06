@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Triangle $ABC$ has side lengths $AB=120,BC=220$ , and $AC=180$ . Lines $\\ell_A,\\ell_B$ , and $\\ell_C$ are drawn parallel to $\\overline{BC},\\overline{AC}$ , and $\\overline{AB}$ , respectively, such that the intersections of $\\ell_A,\\ell_B$ , and $\\ell_C$ with the interior of $\\triangle ABC$ are segments of lengths $55,45$ , and $15$ , respectively. Find the perimeter of the triangle whose sides lie on lines $\\ell_A,\\ell_B$ , and $\\ell_C$ .",
-    "checkpoint": [
-        {
-            "715": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Triangle $ABC$ has side lengths $AB=120,BC=220$ , and $AC=180$ . Lines $\\ell_A,\\ell_B$ , and $\\ell_C$ are drawn parallel to $\\overline{BC},\\overline{AC}$ , and $\\overline{AB}$ , respectively, such that the intersections of $\\ell_A,\\ell_B$ , and $\\ell_C$ with the interior of $\\triangle ABC$ are segments of lengths $55,45$ , and $15$ , respectively. Find the perimeter of the triangle whose sides lie on lines $\\ell_A,\\ell_B$ , and $\\ell_C$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

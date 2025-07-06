@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：In convex hexagon $ABCDEF$ , all six sides are congruent, $\\angle A$ and $\\angle D$ are right angles, and $\\angle B, \\angle C, \\angle E,$ and $\\angle F$ are congruent. The area of the hexagonal region is $2116(\\sqrt{2}+1).$ Find $AB$ .",
-    "checkpoint": [
-        {
-            "46": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：In convex hexagon $ABCDEF$ , all six sides are congruent, $\\angle A$ and $\\angle D$ are right angles, and $\\angle B, \\angle C, \\angle E,$ and $\\angle F$ are congruent. The area of the hexagonal region is $2116(\\sqrt{2}+1).$ Find $AB$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

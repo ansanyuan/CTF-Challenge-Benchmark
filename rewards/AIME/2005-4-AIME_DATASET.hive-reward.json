@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Find the number of positive integers that are divisors of at least one of $10^{10},15^7,18^{11}.$",
-    "checkpoint": [
-        {
-            "435": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Find the number of positive integers that are divisors of at least one of $10^{10},15^7,18^{11}.$",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

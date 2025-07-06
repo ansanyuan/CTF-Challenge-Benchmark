@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：When a right triangle is rotated about one leg, the volume of the cone produced is $800\\pi \\;\\textrm{cm}^3$ . When the triangle is rotated about the other leg, the volume of the cone produced is $1920\\pi \\;\\textrm{cm}^3$ . What is the length (in cm) of the hypotenuse of the triangle?",
-    "checkpoint": [
-        {
-            "26": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：When a right triangle is rotated about one leg, the volume of the cone produced is $800\\pi \\;\\textrm{cm}^3$ . When the triangle is rotated about the other leg, the volume of the cone produced is $1920\\pi \\;\\textrm{cm}^3$ . What is the length (in cm) of the hypotenuse of the triangle?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

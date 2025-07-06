@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：The points $A$ , $B$ and $C$ lie on the surface of a sphere with center $O$ and radius $20$ . It is given that $AB=13$ , $BC=14$ , $CA=15$ , and that the distance from $O$ to triangle $ABC$ is $\\frac{m\\sqrt{n}}k$ , where $m$ , $n$ , and $k$ are positive integers, $m$ and $k$ are relatively prime, and $n$ is not divisible by the square of any prime. Find $m+n+k$ .",
-    "checkpoint": [
-        {
-            "118": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：The points $A$ , $B$ and $C$ lie on the surface of a sphere with center $O$ and radius $20$ . It is given that $AB=13$ , $BC=14$ , $CA=15$ , and that the distance from $O$ to triangle $ABC$ is $\\frac{m\\sqrt{n}}k$ , where $m$ , $n$ , and $k$ are positive integers, $m$ and $k$ are relatively prime, and $n$ is not divisible by the square of any prime. Find $m+n+k$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

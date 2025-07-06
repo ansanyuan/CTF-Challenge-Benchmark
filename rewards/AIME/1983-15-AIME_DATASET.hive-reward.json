@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：The adjoining figure shows two intersecting chords in a circle, with $B$ on minor arc $AD$ . Suppose that the radius of the circle is $5$ , that $BC=6$ , and that $AD$ is bisected by $BC$ . Suppose further that $AD$ is the only chord starting at $A$ which is bisected by $BC$ . It follows that the sine of the central angle of minor arc $AB$ is a rational number. If this number is expressed as a fraction $\\frac{m}{n}$ in lowest terms, what is the product $mn$ ? [asy]size(140); defaultpen(linewidth(.8pt)+fontsize(11pt)); dotfactor=1; pair O1=(0,0); pair A=(-0.91,-0.41); pair B=(-0.99,0.13); pair C=(0.688,0.728); pair D=(-0.25,0.97); path C1=Circle(O1,1); draw(C1); label(\"$A$\",A,W); label(\"$B$\",B,W); label(\"$C$\",C,NE); label(\"$D$\",D,N); draw(A--D); draw(B--C); pair F=intersectionpoint(A--D,B--C); add(pathticks(A--F,1,0.5,0,3.5)); add(pathticks(F--D,1,0.5,0,3.5)); [/asy]",
-    "checkpoint": [
-        {
-            "175": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：The adjoining figure shows two intersecting chords in a circle, with $B$ on minor arc $AD$ . Suppose that the radius of the circle is $5$ , that $BC=6$ , and that $AD$ is bisected by $BC$ . Suppose further that $AD$ is the only chord starting at $A$ which is bisected by $BC$ . It follows that the sine of the central angle of minor arc $AB$ is a rational number. If this number is expressed as a fraction $\\frac{m}{n}$ in lowest terms, what is the product $mn$ ? [asy]size(140); defaultpen(linewidth(.8pt)+fontsize(11pt)); dotfactor=1; pair O1=(0,0); pair A=(-0.91,-0.41); pair B=(-0.99,0.13); pair C=(0.688,0.728); pair D=(-0.25,0.97); path C1=Circle(O1,1); draw(C1); label(\"$A$\",A,W); label(\"$B$\",B,W); label(\"$C$\",C,NE); label(\"$D$\",D,N); draw(A--D); draw(B--C); pair F=intersectionpoint(A--D,B--C); add(pathticks(A--F,1,0.5,0,3.5)); add(pathticks(F--D,1,0.5,0,3.5)); [/asy]",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

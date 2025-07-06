@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：The members of a distinguished committee were choosing a president, and each member gave one vote to one of the $27$ candidates. For each candidate, the exact percentage of votes the candidate got was smaller by at least $1$ than the number of votes for that candidate. What is the smallest possible number of members of the committee?",
-    "checkpoint": [
-        {
-            "134": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：The members of a distinguished committee were choosing a president, and each member gave one vote to one of the $27$ candidates. For each candidate, the exact percentage of votes the candidate got was smaller by at least $1$ than the number of votes for that candidate. What is the smallest possible number of members of the committee?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

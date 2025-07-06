@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：What is the largest possible distance between two points, one on the sphere of radius 19 with center $(-2,-10,5),$ and the other on the sphere of radius 87 with center $(12,8,-16)$ ?",
-    "checkpoint": [
-        {
-            "137": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：What is the largest possible distance between two points, one on the sphere of radius 19 with center $(-2,-10,5),$ and the other on the sphere of radius 87 with center $(12,8,-16)$ ?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

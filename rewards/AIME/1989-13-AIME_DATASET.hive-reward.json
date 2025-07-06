@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $S^{}_{}$ be a subset of $\\{1,2,3^{}_{},\\ldots,1989\\}$ such that no two members of $S^{}_{}$ differ by $4^{}_{}$ or $7^{}_{}$ . What is the largest number of elements $S^{}_{}$ can have?",
-    "checkpoint": [
-        {
-            "905": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $S^{}_{}$ be a subset of $\\{1,2,3^{}_{},\\ldots,1989\\}$ such that no two members of $S^{}_{}$ differ by $4^{}_{}$ or $7^{}_{}$ . What is the largest number of elements $S^{}_{}$ can have?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

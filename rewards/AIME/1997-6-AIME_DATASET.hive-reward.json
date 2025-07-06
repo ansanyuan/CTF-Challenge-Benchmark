@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Point $B$ is in the exterior of the regular $n$ -sided polygon $A_1A_2\\cdots A_n$ , and $A_1A_2B$ is an equilateral triangle. What is the largest value of $n$ for which $A_1$ , $A_n$ , and $B$ are consecutive vertices of a regular polygon?",
-    "checkpoint": [
-        {
-            "42": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Point $B$ is in the exterior of the regular $n$ -sided polygon $A_1A_2\\cdots A_n$ , and $A_1A_2B$ is an equilateral triangle. What is the largest value of $n$ for which $A_1$ , $A_n$ , and $B$ are consecutive vertices of a regular polygon?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,8 +1,8 @@
- {
+{
   "topic": "作答以下题目，并给出正确答案：Consider the paths of length $16$ that follow the lines from the lower left corner to the upper right corner on an $8\\times 8$ grid. Find the number of such paths that change direction exactly four times, as in the examples shown below.",
   "checkpoint": [
     {
-      "294": 1
+      "$\\boxed{{{key}}}$": 1
     }
   ],
   "matchingmethod": [

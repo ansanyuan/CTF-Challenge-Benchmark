@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Square $ABCD$ is inscribed in a circle. Square $EFGH$ has vertices $E$ and $F$ on $\\overline{CD}$ and vertices $G$ and $H$ on the circle. The ratio of the area of square $EFGH$ to the area of square $ABCD$ can be expressed as $\\frac {m}{n}$ where $m$ and $n$ are relatively prime positive integers and $m < n$ . Find $10n + m$ .",
-    "checkpoint": [
-        {
-            "251": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Square $ABCD$ is inscribed in a circle. Square $EFGH$ has vertices $E$ and $F$ on $\\overline{CD}$ and vertices $G$ and $H$ on the circle. The ratio of the area of square $EFGH$ to the area of square $ABCD$ can be expressed as $\\frac {m}{n}$ where $m$ and $n$ are relatively prime positive integers and $m < n$ . Find $10n + m$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

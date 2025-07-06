@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $n$ be the number of ordered quadruples $(x_1,x_2,x_3,x_4)$ of positive odd integers that satisfy $\\sum_{i = 1}^4 x_i = 98.$ Find $\\frac n{100}.$",
-    "checkpoint": [
-        {
-            "196": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $n$ be the number of ordered quadruples $(x_1,x_2,x_3,x_4)$ of positive odd integers that satisfy $\\sum_{i = 1}^4 x_i = 98.$ Find $\\frac n{100}.$",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

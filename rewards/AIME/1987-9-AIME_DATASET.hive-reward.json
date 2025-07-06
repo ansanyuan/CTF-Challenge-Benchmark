@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Triangle $ABC$ has right angle at $B$ , and contains a point $P$ for which $PA = 10$ , $PB = 6$ , and $\\angle APB = \\angle BPC = \\angle CPA$ .  Find $PC$ . AIME 1987 Problem 9.png",
-    "checkpoint": [
-        {
-            "33": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Triangle $ABC$ has right angle at $B$ , and contains a point $P$ for which $PA = 10$ , $PB = 6$ , and $\\angle APB = \\angle BPC = \\angle CPA$ .  Find $PC$ . AIME 1987 Problem 9.png",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A sequence of integers $a_1, a_2, a_3, \\ldots$ is chosen so that $a_n = a_{n - 1} - a_{n - 2}$ for each $n \\ge 3$ . What is the sum of the first $2001$ terms of this sequence if the sum of the first $1492$ terms is $1985$ , and the sum of the first $1985$ terms is $1492$ ?",
-    "checkpoint": [
-        {
-            "986": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A sequence of integers $a_1, a_2, a_3, \\ldots$ is chosen so that $a_n = a_{n - 1} - a_{n - 2}$ for each $n \\ge 3$ . What is the sum of the first $2001$ terms of this sequence if the sum of the first $1492$ terms is $1985$ , and the sum of the first $1985$ terms is $1492$ ?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

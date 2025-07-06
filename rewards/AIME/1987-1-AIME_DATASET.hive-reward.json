@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：An ordered pair $(m,n)$ of non-negative integers is called \"simple\" if the addition $m+n$ in base $10$ requires no carrying. Find the number of simple ordered pairs of non-negative integers that sum to $1492$ .",
-    "checkpoint": [
-        {
-            "300": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：An ordered pair $(m,n)$ of non-negative integers is called \"simple\" if the addition $m+n$ in base $10$ requires no carrying. Find the number of simple ordered pairs of non-negative integers that sum to $1492$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：There are real numbers $a, b, c,$ and $d$ such that $-20$ is a root of $x^3 + ax + b$ and $-21$ is a root of $x^3 + cx^2 + d.$ These two polynomials share a complex root $m + \\sqrt{n} \\cdot i,$ where $m$ and $n$ are positive integers and $i = \\sqrt{-1}.$ Find $m+n.$",
-    "checkpoint": [
-        {
-            "330": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：There are real numbers $a, b, c,$ and $d$ such that $-20$ is a root of $x^3 + ax + b$ and $-21$ is a root of $x^3 + cx^2 + d.$ These two polynomials share a complex root $m + \\sqrt{n} \\cdot i,$ where $m$ and $n$ are positive integers and $i = \\sqrt{-1}.$ Find $m+n.$",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

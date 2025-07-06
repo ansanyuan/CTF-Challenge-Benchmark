@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Point $P$ lies on the diagonal $AC$ of square $ABCD$ with $AP > CP$ . Let $O_1$ and $O_2$ be the circumcenters of triangles $ABP$ and $CDP$ , respectively. Given that $AB = 12$ and $\\angle O_1PO_2 = 120 ^{\\circ}$ , then $AP = \\sqrt{a} + \\sqrt{b}$ , where $a$ and $b$ are positive integers. Find $a + b$ .",
-    "checkpoint": [
-        {
-            "96": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Point $P$ lies on the diagonal $AC$ of square $ABCD$ with $AP > CP$ . Let $O_1$ and $O_2$ be the circumcenters of triangles $ABP$ and $CDP$ , respectively. Given that $AB = 12$ and $\\angle O_1PO_2 = 120 ^{\\circ}$ , then $AP = \\sqrt{a} + \\sqrt{b}$ , where $a$ and $b$ are positive integers. Find $a + b$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

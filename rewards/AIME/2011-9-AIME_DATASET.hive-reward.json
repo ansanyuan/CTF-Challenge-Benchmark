@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Let $x_1$ , $x_2$ , $\\dots$ , $x_6$ be nonnegative real numbers such that $x_1 + x_2 + x_3 + x_4 + x_5 + x_6 = 1$ , and $x_1x_3x_5 + x_2x_4x_6 \\ge {\\frac{1}{540}}$ . Let $p$ and $q$ be relatively prime positive integers such that $\\frac{p}{q}$ is the maximum possible value of $x_1x_2x_3 + x_2x_3x_4 + x_3x_4x_5 + x_4x_5x_6 + x_5x_6x_1 + x_6x_1x_2$ . Find $p + q$ .",
-    "checkpoint": [
-        {
-            "559": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Let $x_1$ , $x_2$ , $\\dots$ , $x_6$ be nonnegative real numbers such that $x_1 + x_2 + x_3 + x_4 + x_5 + x_6 = 1$ , and $x_1x_3x_5 + x_2x_4x_6 \\ge {\\frac{1}{540}}$ . Let $p$ and $q$ be relatively prime positive integers such that $\\frac{p}{q}$ is the maximum possible value of $x_1x_2x_3 + x_2x_3x_4 + x_3x_4x_5 + x_4x_5x_6 + x_5x_6x_1 + x_6x_1x_2$ . Find $p + q$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

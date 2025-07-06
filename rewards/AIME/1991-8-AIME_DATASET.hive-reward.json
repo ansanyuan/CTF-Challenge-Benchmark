@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：For how many real numbers $a^{}_{}$ does the quadratic equation $x^2 + ax^{}_{} + 6a=0$ have only integer roots for $x^{}_{}$ ?",
-    "checkpoint": [
-        {
-            "10": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：For how many real numbers $a^{}_{}$ does the quadratic equation $x^2 + ax^{}_{} + 6a=0$ have only integer roots for $x^{}_{}$ ?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Patio blocks that are hexagons $1$ unit on a side are used to outline a garden by placing the blocks edge to edge with $n$ on each side. The diagram indicates the path of blocks around the garden when $n=5$ . AIME 2002 II Problem 4.gif If $n=202$ , then the area of the garden enclosed by the path, not including the path itself, is $m\\left(\\sqrt3/2\\right)$ square units, where $m$ is a positive integer. Find the remainder when $m$ is divided by $1000$ .",
-    "checkpoint": [
-        {
-            "803": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Patio blocks that are hexagons $1$ unit on a side are used to outline a garden by placing the blocks edge to edge with $n$ on each side. The diagram indicates the path of blocks around the garden when $n=5$ . AIME 2002 II Problem 4.gif If $n=202$ , then the area of the garden enclosed by the path, not including the path itself, is $m\\left(\\sqrt3/2\\right)$ square units, where $m$ is a positive integer. Find the remainder when $m$ is divided by $1000$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

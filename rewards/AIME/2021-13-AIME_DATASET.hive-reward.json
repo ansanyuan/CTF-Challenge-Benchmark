@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Find the least positive integer $n$ for which $2^n + 5^n - n$ is a multiple of $1000$ .",
-    "checkpoint": [
-        {
-            "797": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Find the least positive integer $n$ for which $2^n + 5^n - n$ is a multiple of $1000$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

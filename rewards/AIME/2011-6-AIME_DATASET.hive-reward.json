@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Define an ordered quadruple of integers $(a, b, c, d)$ as interesting if $1 \\le a<b<c<d \\le 10$ , and $a+d>b+c$ . How many interesting ordered quadruples are there?",
-    "checkpoint": [
-        {
-            "80": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Define an ordered quadruple of integers $(a, b, c, d)$ as interesting if $1 \\le a<b<c<d \\le 10$ , and $a+d>b+c$ . How many interesting ordered quadruples are there?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

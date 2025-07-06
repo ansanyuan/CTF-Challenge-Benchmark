@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A chord of a circle is perpendicular to a radius at the midpoint of the radius. The ratio of the area of the larger of the two regions into which the chord divides the circle to the smaller can be expressed in the form $\\frac{a\\pi+b\\sqrt{c}}{d\\pi-e\\sqrt{f}},$ where $a, b, c, d, e,$ and $f$ are positive integers, $a$ and $e$ are relatively prime, and neither $c$ nor $f$ is divisible by the square of any prime. Find the remainder when the product $abcdef$ is divided by 1000.",
-    "checkpoint": [
-        {
-            "592": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A chord of a circle is perpendicular to a radius at the midpoint of the radius. The ratio of the area of the larger of the two regions into which the chord divides the circle to the smaller can be expressed in the form $\\frac{a\\pi+b\\sqrt{c}}{d\\pi-e\\sqrt{f}},$ where $a, b, c, d, e,$ and $f$ are positive integers, $a$ and $e$ are relatively prime, and neither $c$ nor $f$ is divisible by the square of any prime. Find the remainder when the product $abcdef$ is divided by 1000.",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：The complex number $z$ is equal to $9+bi$ , where $b$ is a positive real number and $i^{2}=-1$ .  Given that the imaginary parts of $z^{2}$ and $z^{3}$ are the same, what is $b$ equal to?",
-    "checkpoint": [
-        {
-            "15": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：The complex number $z$ is equal to $9+bi$ , where $b$ is a positive real number and $i^{2}=-1$ .  Given that the imaginary parts of $z^{2}$ and $z^{3}$ are the same, what is $b$ equal to?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

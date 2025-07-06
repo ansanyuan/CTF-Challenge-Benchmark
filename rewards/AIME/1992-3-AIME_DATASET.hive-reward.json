@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A tennis player computes her win ratio by dividing the number of matches she has won by the total number of matches she has played. At the start of a weekend, her win ratio is exactly $0.500$ . During the weekend, she plays four matches, winning three and losing one. At the end of the weekend, her win ratio is greater than $.503$ . What's the largest number of matches she could've won before the weekend began?",
-    "checkpoint": [
-        {
-            "164": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A tennis player computes her win ratio by dividing the number of matches she has won by the total number of matches she has played. At the start of a weekend, her win ratio is exactly $0.500$ . During the weekend, she plays four matches, winning three and losing one. At the end of the weekend, her win ratio is greater than $.503$ . What's the largest number of matches she could've won before the weekend began?",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

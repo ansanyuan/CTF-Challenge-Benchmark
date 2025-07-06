@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：The points $(0,0)\\,$ , $(a,11)\\,$ , and $(b,37)\\,$ are the vertices of an equilateral triangle.  Find the value of $ab\\,$ .",
-    "checkpoint": [
-        {
-            "315": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：The points $(0,0)\\,$ , $(a,11)\\,$ , and $(b,37)\\,$ are the vertices of an equilateral triangle.  Find the value of $ab\\,$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

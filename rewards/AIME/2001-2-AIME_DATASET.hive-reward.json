@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：Each of the 2001 students at a high school studies either Spanish or French, and some study both. The number who study Spanish is between 80 percent and 85 percent of the school population, and the number who study French is between 30 percent and 40 percent. Let $m$ be the smallest number of students who could study both languages, and let $M$ be the largest number of students who could study both languages. Find $M-m$ .",
-    "checkpoint": [
-        {
-            "298": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：Each of the 2001 students at a high school studies either Spanish or French, and some study both. The number who study Spanish is between 80 percent and 85 percent of the school population, and the number who study French is between 30 percent and 40 percent. Let $m$ be the smallest number of students who could study both languages, and let $M$ be the largest number of students who could study both languages. Find $M-m$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

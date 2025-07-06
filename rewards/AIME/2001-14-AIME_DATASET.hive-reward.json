@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：There are $2n$ complex numbers that satisfy both $z^{28} - z^{8} - 1 = 0$ and $|z| = 1$ . These numbers have the form $z_{m} = \\cos\\theta_{m} + i\\sin\\theta_{m}$ , where $0\\leq\\theta_{1} < \\theta_{2} < \\ldots < \\theta_{2n} < 360$ and angles are measured in degrees. Find the value of $\\theta_{2} + \\theta_{4} + \\ldots + \\theta_{2n}$ .",
-    "checkpoint": [
-        {
-            "840": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：There are $2n$ complex numbers that satisfy both $z^{28} - z^{8} - 1 = 0$ and $|z| = 1$ . These numbers have the form $z_{m} = \\cos\\theta_{m} + i\\sin\\theta_{m}$ , where $0\\leq\\theta_{1} < \\theta_{2} < \\ldots < \\theta_{2n} < 360$ and angles are measured in degrees. Find the value of $\\theta_{2} + \\theta_{4} + \\ldots + \\theta_{2n}$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

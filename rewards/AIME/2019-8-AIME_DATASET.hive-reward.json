@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：The polynomial $f(z)=az^{2018}+bz^{2017}+cz^{2016}$ has real coefficients not exceeding $2019,$ and $f\\left(\\tfrac{1+\\sqrt3i}{2}\\right)=2015+2019\\sqrt3i$ . Find the remainder when $f(1)$ is divided by $1000$ .",
-    "checkpoint": [
-        {
-            "53": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：The polynomial $f(z)=az^{2018}+bz^{2017}+cz^{2016}$ has real coefficients not exceeding $2019,$ and $f\\left(\\tfrac{1+\\sqrt3i}{2}\\right)=2015+2019\\sqrt3i$ . Find the remainder when $f(1)$ is divided by $1000$ .",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }

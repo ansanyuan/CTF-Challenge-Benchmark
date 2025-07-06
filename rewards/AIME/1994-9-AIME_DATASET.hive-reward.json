@@ -1,11 +1,11 @@
 {
-    "topic": "作答以下题目，并给出正确答案：A solitaire game is played as follows.  Six distinct pairs of matched tiles are placed in a bag.  The player randomly draws tiles one at a time from the bag and retains them, except that matching tiles are put aside as soon as they appear in the player's hand.  The game ends if the player ever holds three tiles, no two of which match; otherwise the drawing continues until the bag is empty.  The probability that the bag will be emptied is $p/q,\\,$ where $p\\,$ and $q\\,$ are relatively prime positive integers.  Find $p+q.\\,$ ",
-    "checkpoint": [
-        {
-            "394": 1
-        }
-    ],
-    "matchingmethod": [
-        "normal"
-    ]
+  "topic": "作答以下题目，并给出正确答案：A solitaire game is played as follows.  Six distinct pairs of matched tiles are placed in a bag.  The player randomly draws tiles one at a time from the bag and retains them, except that matching tiles are put aside as soon as they appear in the player's hand.  The game ends if the player ever holds three tiles, no two of which match; otherwise the drawing continues until the bag is empty.  The probability that the bag will be emptied is $p/q,\\,$ where $p\\,$ and $q\\,$ are relatively prime positive integers.  Find $p+q.\\,$ ",
+  "checkpoint": [
+    {
+      "$\\boxed{{{key}}}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
 }
