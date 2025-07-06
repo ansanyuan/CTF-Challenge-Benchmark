@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：十年后，Melanie将会是18岁。她的年龄要多少年才会是现在的三倍？。",
+  "checkpoint": [
+    {
+      "$\\boxed{16}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

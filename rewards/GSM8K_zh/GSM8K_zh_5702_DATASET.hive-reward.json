@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alvin今年30岁，而Simon距离是Alvin年龄的一半还差5年。Simon今年多少岁？。",
+  "checkpoint": [
+    {
+      "$\\boxed{10}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

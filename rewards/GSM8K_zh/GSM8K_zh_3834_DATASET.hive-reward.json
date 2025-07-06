@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alyssa和Chelsea共同购买了40支蜡烛来装饰他们的房间。Alyssa用了其中一半，Chelsea用了剩下蜡烛的70%。现在房间里还有多少支蜡烛？。",
+  "checkpoint": [
+    {
+      "$\\boxed{6}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

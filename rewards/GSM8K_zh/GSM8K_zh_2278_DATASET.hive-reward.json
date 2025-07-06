@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Davante有一周的两倍朋友。他有3个女朋友。他有多少个男朋友？。",
+  "checkpoint": [
+    {
+      "$\\boxed{11}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

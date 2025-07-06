@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dora的父亲的年龄是Dora年龄的两倍再加8岁。如果Dora的母亲比Dora的父亲年轻4岁，而Dora今年15岁，计算Dora、她的父亲和母亲的总合年龄。。",
+  "checkpoint": [
+    {
+      "$\\boxed{87}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jeremy，Sebastian和Sophia三年后的年龄总和为150。目前，Sebastian比Jeremy大4岁。如果Jeremy现在40岁，计算Sophia三年后的年龄？。",
+  "checkpoint": [
+    {
+      "$\\boxed{60}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

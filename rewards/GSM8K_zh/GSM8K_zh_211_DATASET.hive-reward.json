@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bobby有16辆玩具车，他每年的玩具车数量增加50%。三年后Bobby会有多少辆玩具车？。",
+  "checkpoint": [
+    {
+      "$\\boxed{54}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

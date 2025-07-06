@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carmen需要再多7美元才能拥有Jethro的两倍金额。与此同时，Patricia有60美元，是Jethro的3倍。他们所有的钱的总和是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{113}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

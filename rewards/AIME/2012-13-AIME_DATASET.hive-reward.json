@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Equilateral $\\triangle ABC$ has side length $\\sqrt{111}$ . There are four distinct triangles $AD_1E_1$ , $AD_1E_2$ , $AD_2E_3$ , and $AD_2E_4$ , each congruent to $\\triangle ABC$ ,\nwith $BD_1 = BD_2 = \\sqrt{11}$ . Find $\\sum_{k=1}^4(CE_k)^2$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{677}$": 1
     }
   ],
   "matchingmethod": [

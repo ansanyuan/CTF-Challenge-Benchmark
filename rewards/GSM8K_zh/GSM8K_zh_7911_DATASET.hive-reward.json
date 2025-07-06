@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sitti和Juris分别买了34个和22个橘子。如果他们决定和其他6个朋友平均分配，每个人将得到多少个橘子？。",
+  "checkpoint": [
+    {
+      "$\\boxed{7}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

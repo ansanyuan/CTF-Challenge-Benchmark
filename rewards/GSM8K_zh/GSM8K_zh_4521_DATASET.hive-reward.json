@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cheryl有Cyrus的三倍多的彩色铅笔。Madeline有63支彩色铅笔，只有Cheryl的一半。他们三个人总共有多少支彩色铅笔？。",
+  "checkpoint": [
+    {
+      "$\\boxed{231}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

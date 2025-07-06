@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Santino有2棵木瓜树和3棵芒果树。如果每棵木瓜树能结出10个木瓜，每棵芒果树能结出20个芒果，Santino总共有多少水果？。",
+  "checkpoint": [
+    {
+      "$\\boxed{80}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

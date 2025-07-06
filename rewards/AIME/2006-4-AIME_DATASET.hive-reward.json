@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $N$ be the number of consecutive 0's at the right end of the decimal representation of the product $1!2!3!4!\\cdots99!100!.$ Find the remainder when $N$ is divided by 1000.",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{124}$": 1
     }
   ],
   "matchingmethod": [

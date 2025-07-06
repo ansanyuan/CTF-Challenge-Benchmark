@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kylie和Robert喜欢去海滩收集贝壳。周一，Kylie比收集了20个贝壳的Robert多收集了5个贝壳。周二，Kylie收集的贝壳是周一的2倍。周二Kylie收集了多少个贝壳？。",
+  "checkpoint": [
+    {
+      "$\\boxed{50}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

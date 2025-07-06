@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Chenny有10块糖果要分给她的朋友。她意识到她需要再买4块糖果，这样每个朋友就能收到2块糖果。Chenny有多少个朋友？。",
+  "checkpoint": [
+    {
+      "$\\boxed{7}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

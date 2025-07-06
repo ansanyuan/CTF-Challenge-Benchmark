@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nunzio每天午餐吃三块比萨。如果一块比萨代表整个比萨的八分之一，那么Nunzio在72天内吃了多少块比萨？。",
+  "checkpoint": [
+    {
+      "$\\boxed{27}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

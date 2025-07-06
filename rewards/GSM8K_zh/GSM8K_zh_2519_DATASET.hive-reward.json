@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：艾尔莎每个月有500MB的手机流量。如果她花了300MB在YouTube上，然后花了剩下流量的2/5在Facebook上，她还剩下多少MB的流量？。",
+  "checkpoint": [
+    {
+      "$\\boxed{120}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

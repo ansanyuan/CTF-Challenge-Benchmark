@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ricciana和Margarita参加了学校的跳远比赛。Ricciana跑步和跳跃总共跳了24英尺 - 跑了20英尺，跳了4英尺。Margarita跑了18英尺，跳的距离比Ricciana的跳跃距离少1英尺。Margarita比Ricciana跑和跳了多少远？。",
+  "checkpoint": [
+    {
+      "$\\boxed{1}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

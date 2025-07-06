@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Justin和Sabrina在Pine Grove小学一共有50支铅笔。Justin比Sabrina的铅笔数量多8支，是Sabrina的两倍。Sabrina有多少支铅笔？。",
+  "checkpoint": [
+    {
+      "$\\boxed{14}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

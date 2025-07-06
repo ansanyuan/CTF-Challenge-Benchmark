@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sammy可以吃15片泡菜。他的孪生姐姐Tammy可以吃Sammy的两倍。他们的哥哥Ron吃的泡菜片比Tammy少20%。Ron吃了多少片泡菜？。",
+  "checkpoint": [
+    {
+      "$\\boxed{24}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

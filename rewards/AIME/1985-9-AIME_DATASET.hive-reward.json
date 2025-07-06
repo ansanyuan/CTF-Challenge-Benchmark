@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：In a circle, parallel chords of lengths $2$ , $3$ , and $4$ determine central angles of $\\alpha$ , $\\beta$ , and $\\alpha + \\beta$ radians, respectively, where $\\alpha + \\beta < \\pi$ . If $\\cos \\alpha$ , which is a positive rational number, is expressed as a fraction in lowest terms, what is the sum of its numerator and denominator?",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{49}$": 1
     }
   ],
   "matchingmethod": [

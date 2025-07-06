@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marilyn的第一张唱片卖出的数量是Harald的10倍。如果他们总共卖出了88,000张唱片，那么Harald卖出了多少张？。",
+  "checkpoint": [
+    {
+      "$\\boxed{8000}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

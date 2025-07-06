@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：布兰妮有3只沙鼠：Puffy，Muffy和Scruffy。Puffy比Muffy重5盎司。Muffy比Scruffy轻3盎司。如果Scruffy重12盎司，如果布兰妮把Puffy和Muffy放在秤上，秤上会显示多少盎司？。",
+  "checkpoint": [
+    {
+      "$\\boxed{23}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jackie每天工作8小时，锻炼3小时，睡觉8小时。Jackie有多少空闲时间？。",
+  "checkpoint": [
+    {
+      "$\\boxed{5}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

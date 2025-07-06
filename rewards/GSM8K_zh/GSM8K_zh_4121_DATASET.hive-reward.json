@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bridget在夜空中数了14颗流星。Reginald数的流星比Bridget少2颗，但Sam数的流星比Reginald多4颗。Sam在夜空中比三人平均观察到的流星数量多了多少颗？。",
+  "checkpoint": [
+    {
+      "$\\boxed{2}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jonathan的量匙是量杯的2/3。如果他有两打量杯，并且在Pedro生日时送给他6个量匙，计算Jonathan剩下的总共有多少个器具。。",
+  "checkpoint": [
+    {
+      "$\\boxed{34}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alton拥有一家生意。他目前租用的空间每周花费20美元。如果Alton每天赚8美元，他每周的总利润是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{36}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

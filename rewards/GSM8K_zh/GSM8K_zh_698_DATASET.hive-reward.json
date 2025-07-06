@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Joey每晚学习SAT考试，每晚学习2小时，一周5晚。周末，他每天学习3小时。如果他的SAT考试还有6周，Joey将花多少时间学习？。",
+  "checkpoint": [
+    {
+      "$\\boxed{96}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

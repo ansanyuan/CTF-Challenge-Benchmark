@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jaylen有5根胡萝卜和2根黄瓜。Jaylen有比Kristin多两倍的甜椒。Jaylen比Kristin少3个绿豆的一半。如果Kristin有2个甜椒和20个绿豆，那么Jaylen总共有多少蔬菜？。",
+  "checkpoint": [
+    {
+      "$\\boxed{18}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

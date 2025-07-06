@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Geb的年龄比Haley的一半少10岁。如果Haley是26岁，那么Geb多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{3}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

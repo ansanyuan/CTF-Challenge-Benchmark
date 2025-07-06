@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $\\omega\\neq 1$ be a 13th root of unity. Find the remainder when\n\\[\\prod_{k=0}^{12}(2-2\\omega^k+\\omega^{2k})\\]\nis divided by 1000.",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{321}$": 1
     }
   ],
   "matchingmethod": [

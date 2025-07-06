@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Trevor和他的两个邻居朋友每年都去玩具店买玩具。Trevor总是比他的朋友Reed多花20美元在玩具上，而Reed花的钱是他们的朋友Quinn的两倍。如果Trevor每年花80美元买玩具，计算三个人在4年内总共花了多少钱。。",
+  "checkpoint": [
+    {
+      "$\\boxed{680}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Yuan比他的弟弟大7岁，是他的两倍年龄。David多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{7}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

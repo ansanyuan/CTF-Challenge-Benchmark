@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jeff的手机有16GB的存储空间。他已经使用了4GB。如果一首歌大约占用30MB的存储空间，Jeff的手机可以存储多少首歌？（1GB等于1000MB）。",
+  "checkpoint": [
+    {
+      "$\\boxed{400}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

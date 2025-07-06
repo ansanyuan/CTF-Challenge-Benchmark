@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mark身高5英尺3英寸，Mike身高6英尺1英寸。如果1英尺等于12英寸，Mike比Mark高多少英寸？。",
+  "checkpoint": [
+    {
+      "$\\boxed{10}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

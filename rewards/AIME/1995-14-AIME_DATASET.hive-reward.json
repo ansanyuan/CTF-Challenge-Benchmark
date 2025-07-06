@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：In a circle of radius 42, two chords of length 78 intersect at a point whose distance from the center is 18.  The two chords divide the interior of the circle into four regions.  Two of these regions are bordered by segments of unequal lengths, and the area of either of them can be expressed uniquely in the form $m\\pi-n\\sqrt{d},$ where $m, n,$ and $d_{}$ are positive integers and $d_{}$ is not divisible by the square of any prime number.  Find $m+n+d.$",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{378}$": 1
     }
   ],
   "matchingmethod": [

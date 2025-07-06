@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Trevor的哥哥在20年前是他的两倍年龄。如果他的哥哥现在32岁，那么10年前Trevor多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{16}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

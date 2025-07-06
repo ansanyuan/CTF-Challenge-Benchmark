@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Chenny今年10岁。Alyana比Chenny小4岁。如果Anne比Alyana大2岁，那么Anne多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{8}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

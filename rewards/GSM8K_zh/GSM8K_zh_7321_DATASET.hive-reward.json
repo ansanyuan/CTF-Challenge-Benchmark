@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alicia有20颗口香糖。Pedro有与Alicia拥有的数量相同的口香糖，再加上Alicia拥有数量的三倍。他们把口香糖放在一个碗里，后来Pedro拿出40%的口香糖吃掉了。碗里剩下多少颗口香糖？。",
+  "checkpoint": [
+    {
+      "$\\boxed{60}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

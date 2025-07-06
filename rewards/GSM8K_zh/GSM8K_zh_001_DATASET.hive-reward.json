@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Natalia在四月份向她的48个朋友出售了夹子，然后在五月份卖出了四月份的一半。Natalia在四月和五月总共卖了多少个夹子？。",
+  "checkpoint": [
+    {
+      "$\\boxed{72}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Avianna生日时买了红蜡烛和蓝蜡烛的比例是5:3。如果Avianna生日时有45支红蜡烛，她有多少支蓝蜡烛？。",
+  "checkpoint": [
+    {
+      "$\\boxed{27}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

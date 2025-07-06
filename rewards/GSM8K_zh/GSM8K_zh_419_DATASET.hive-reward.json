@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ken有五十支铅笔，他想和他的两个朋友Manny和Nilo分享一些。Ken给了Manny十支铅笔，给Nilo的比给Manny的多十支。他留下了剩下的铅笔。Ken留下了多少支铅笔？。",
+  "checkpoint": [
+    {
+      "$\\boxed{20}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

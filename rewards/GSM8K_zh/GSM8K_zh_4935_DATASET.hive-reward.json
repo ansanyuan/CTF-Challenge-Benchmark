@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Emma和Briana投资了一些资本到一家企业。Emma的投资应该每年产生资本的15%，而Briana的投资应该每年产生10%。如果Emma投资了300美元，Briana投资了500美元，他们的投资回报在2年后的差额是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{10}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Denise两年后将满25岁。她的妹妹Diane小4岁。Diane多少年后会满25岁？。",
+  "checkpoint": [
+    {
+      "$\\boxed{6}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

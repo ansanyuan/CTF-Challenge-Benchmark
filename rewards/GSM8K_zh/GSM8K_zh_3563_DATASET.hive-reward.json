@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：CJ，KJ和AJ收集邮票。CJ的邮票数量是KJ的两倍再加5，而KJ的邮票数量是AJ的一半。如果三个男孩一共有930张邮票，那么AJ有多少张邮票？。",
+  "checkpoint": [
+    {
+      "$\\boxed{370}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

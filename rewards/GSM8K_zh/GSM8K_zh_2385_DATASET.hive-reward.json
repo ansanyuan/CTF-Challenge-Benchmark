@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Gerald想买一个价值2个芬宁的肉馅饼。Gerald有54个法林，每个芬宁有6个法林。买了馅饼后，Gerald还剩下多少个芬宁？。",
+  "checkpoint": [
+    {
+      "$\\boxed{7}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

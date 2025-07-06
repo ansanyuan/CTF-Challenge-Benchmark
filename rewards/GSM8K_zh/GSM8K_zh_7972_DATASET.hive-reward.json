@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brianne和Ashley制作希腊橙派。Ashley带来了五盒橙子，每盒有十个橙子，而Brianne带来的橙子比Ashley多20个。如果一个希腊橙派需要三个橙子，他们能做多少个希腊橙派？。",
+  "checkpoint": [
+    {
+      "$\\boxed{40}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

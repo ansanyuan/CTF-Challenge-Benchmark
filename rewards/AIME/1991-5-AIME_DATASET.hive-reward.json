@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Given a rational number, write it as a fraction in lowest terms and calculate the product of the resulting numerator and denominator. For how many rational numbers between 0 and 1 will $20_{}^{}!$ be the resulting product?",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{128}$": 1
     }
   ],
   "matchingmethod": [

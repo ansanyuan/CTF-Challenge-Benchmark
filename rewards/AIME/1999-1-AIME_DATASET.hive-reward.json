@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Find the smallest prime that is the fifth term of an increasing arithmetic sequence, all four preceding terms also being prime. ",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{29}$": 1
     }
   ],
   "matchingmethod": [

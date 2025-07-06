@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Earl有90美元；Fred有48美元；Greg有36美元。Earl欠Fred28美元。Fred欠Greg32美元。Greg欠Earl40美元。当所有债务还清时，Greg和Earl一共有多少美元？。",
+  "checkpoint": [
+    {
+      "$\\boxed{130}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

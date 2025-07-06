@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Adrien的总薪水比Lylah的高出30%。四年后，他的薪水增加了，比四年前多赚了40%。如果Adrien和Lylah的薪水同时增加，而Adrien四年前赚了40000美元，计算四年后这两个人的总薪水是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{95200}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

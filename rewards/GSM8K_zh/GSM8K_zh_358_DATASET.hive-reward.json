@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Catriona的水族箱里有8条金鱼。她比金鱼多了4条神仙鱼。此外，她的孔雀鱼是天使鱼的两倍。Catriona的水族箱里有多少条鱼？。",
+  "checkpoint": [
+    {
+      "$\\boxed{44}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Indras的名字有6个字母。她妹妹的名字比Indras名字字母数的一半多4个字母。Indras和她妹妹的名字一共有多少个字母？。",
+  "checkpoint": [
+    {
+      "$\\boxed{13}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

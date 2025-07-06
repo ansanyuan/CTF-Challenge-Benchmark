@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Melisa和Jennifer在当地一家餐厅为他们父亲举办了50岁生日派对。当账单到来时，Melisa加了15%的小费，为42美元。Jennifer说服务很棒，他们应该留下20%的小费。20%的小费是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{56}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

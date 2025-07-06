@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：For any sequence of real numbers $A=(a_1,a_2,a_3,\\ldots)$ , define $\\Delta A^{}_{}$ to be the sequence $(a_2-a_1,a_3-a_2,a_4-a_3,\\ldots)$ , whose $n^{th}$ term is $a_{n+1}-a_n^{}$ . Suppose that all of the terms of the sequence $\\Delta(\\Delta A^{}_{})$ are $1^{}_{}$ , and that $a_{19}=a_{92}^{}=0$ . Find $a_1^{}$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{819}$": 1
     }
   ],
   "matchingmethod": [

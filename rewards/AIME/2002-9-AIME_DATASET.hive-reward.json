@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $\\mathcal{S}$ be the set $\\lbrace1,2,3,\\ldots,10\\rbrace$ Let $n$ be the number of sets of two non-empty disjoint subsets of $\\mathcal{S}$ . (Disjoint sets are defined as sets that have no common elements.) Find the remainder obtained when $n$ is divided by $1000$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{501}$": 1
     }
   ],
   "matchingmethod": [

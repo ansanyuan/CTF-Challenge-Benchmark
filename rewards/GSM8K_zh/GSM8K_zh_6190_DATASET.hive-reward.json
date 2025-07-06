@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：加拿大北部的Wayupnorth记录了四天的温度。温度分别为：-36华氏度，+13华氏度，-15华氏度和-10华氏度。Wayupnorth，加拿大这四天的平均华氏度数是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{-12}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

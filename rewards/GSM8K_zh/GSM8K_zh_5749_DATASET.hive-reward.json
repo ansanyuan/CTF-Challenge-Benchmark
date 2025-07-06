@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Boise居住的人数是西雅图居住人数的3/5。Lake View的人口比西雅图多4000人。如果Lake View的人口是24000，计算三个城市的总人口。。",
+  "checkpoint": [
+    {
+      "$\\boxed{56000}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Samantha的姓比Bobbie的姓少3个字母。如果Bobbie的姓减去两个字母，她的姓将是Jamie的姓的两倍长。Jamie的全名是Jamie Grey。Samantha的姓有多少个字母？。",
+  "checkpoint": [
+    {
+      "$\\boxed{7}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

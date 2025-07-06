@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Royce铺设房屋的瓦片比Rob多花了双倍时间再加40分钟。如果Rob花了2小时，那么Royce需要多少分钟？。",
+  "checkpoint": [
+    {
+      "$\\boxed{280}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

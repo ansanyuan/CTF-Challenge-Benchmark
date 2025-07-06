@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Hattie和她的朋友Lorelei正在使用跳绳进行跳跃比赛。Hattie在第一轮跳了180次，而Lorelei跳的次数是Hattie跳的3/4。在第二轮比赛中，Lorelei比Hattie多跳了50次。如果Hattie设法跳了第一轮跳跃次数的2/3，计算两轮比赛中两人总共跳了多少次。。",
+  "checkpoint": [
+    {
+      "$\\boxed{605}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

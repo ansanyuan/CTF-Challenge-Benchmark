@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Square $ABCD$ has sides of length 1. Points $E$ and $F$ are on $\\overline{BC}$ and $\\overline{CD},$ respectively, so that $\\triangle AEF$ is equilateral. A square with vertex $B$ has sides that are parallel to those of $ABCD$ and a vertex on $\\overline{AE}.$ The length of a side of this smaller square is $\\frac{a-\\sqrt{b}}{c},$ where $a, b,$ and $c$ are positive integers and $b$ is not divisible by the square of any prime. Find $a+b+c.$",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{12}$": 1
     }
   ],
   "matchingmethod": [

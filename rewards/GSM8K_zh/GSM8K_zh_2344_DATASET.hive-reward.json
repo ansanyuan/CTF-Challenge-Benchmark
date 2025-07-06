@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jerome上个月买了5辆新玩具车。这个月他买了两倍多，所以现在他有40辆玩具车。Jerome最初有多少辆玩具车？。",
+  "checkpoint": [
+    {
+      "$\\boxed{25}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

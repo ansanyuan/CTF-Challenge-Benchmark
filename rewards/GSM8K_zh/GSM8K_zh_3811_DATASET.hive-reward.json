@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Danielle的公寓有6个房间。 Heidi的公寓有Danielle的公寓的3倍房间数。 Grant的公寓有Heidi的公寓的1/9房间数。Grant的公寓有多少个房间？。",
+  "checkpoint": [
+    {
+      "$\\boxed{2}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

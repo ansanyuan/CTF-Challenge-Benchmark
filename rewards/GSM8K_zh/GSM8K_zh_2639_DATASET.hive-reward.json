@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bridge和Sarah两人一共有3美元。如果Bridge比Sarah多50美分，Sarah有多少美分？。",
+  "checkpoint": [
+    {
+      "$\\boxed{125}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

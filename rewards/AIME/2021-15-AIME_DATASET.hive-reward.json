@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $f(n)$ and $g(n)$ be functions satisfying \\[f(n) =  \\begin{cases} \\sqrt{n} & \\text{ if } \\sqrt{n} \\text{ is an integer}\\\\ 1 + f(n+1) & \\text{ otherwise} \\end{cases}\\] and \\[g(n) = \\begin{cases}\\sqrt{n} & \\text{ if } \\sqrt{n} \\text{ is an integer}\\\\ 2 + g(n+2) & \\text{ otherwise} \\end{cases}\\] for positive integers $n$ . Find the least positive integer $n$ such that $\\tfrac{f(n)}{g(n)} = \\tfrac{4}{7}$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{258}$": 1
     }
   ],
   "matchingmethod": [

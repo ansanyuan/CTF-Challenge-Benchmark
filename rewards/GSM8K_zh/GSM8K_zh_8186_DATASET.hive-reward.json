@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ginger和Amy都开始时有100块万圣节糖果。Ginger每天吃4块糖果，Amy每天吃3块糖果。两周后Amy多了多少糖果？。",
+  "checkpoint": [
+    {
+      "$\\boxed{14}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

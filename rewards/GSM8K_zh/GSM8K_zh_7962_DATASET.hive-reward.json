@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jana有27只小狗。Jana的小狗中有三分之二是博美犬。博美犬中有三分之一是女孩。Jana有多少只女博美犬？。",
+  "checkpoint": [
+    {
+      "$\\boxed{6}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

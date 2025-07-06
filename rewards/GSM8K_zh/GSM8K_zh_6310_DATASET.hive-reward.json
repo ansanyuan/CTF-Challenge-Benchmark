@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Maddox和Theo都从亚马逊购买了3台Polaroid相机，每台售价为20美元，然后决定在eBay上出售。Maddox以每台28美元的价格出售他的相机，而Theo以每台23美元的价格出售他的相机。Maddox从出售他的相机中获得的利润比Theo多多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{15}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

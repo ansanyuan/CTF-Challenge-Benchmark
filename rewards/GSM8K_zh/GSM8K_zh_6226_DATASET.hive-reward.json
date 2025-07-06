@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Pedro，Linden和Jesus正在玩一个游戏。Jesus有60个方块。Linden有75个方块。Pedro有200个。Pedro比Jesus和Linden的方块总数多多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{65}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

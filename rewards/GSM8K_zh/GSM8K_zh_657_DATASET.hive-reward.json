@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Zig写的书是Flo的四倍。如果Zig写了60本书，他们总共写了多少本书？。",
+  "checkpoint": [
+    {
+      "$\\boxed{75}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

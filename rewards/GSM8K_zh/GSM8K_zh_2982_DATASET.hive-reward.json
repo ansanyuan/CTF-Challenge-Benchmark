@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jackie每天走2英里，而Jessie每天走1.5英里。在6天内，Jackie比Jessie总共多走了多少英里？。",
+  "checkpoint": [
+    {
+      "$\\boxed{3}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tony花了7美元买了2打苹果和1串香蕉。Arnold花了5美元买了1打苹果和1串香蕉。一串香蕉多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{3}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

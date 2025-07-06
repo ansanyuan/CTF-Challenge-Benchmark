@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Misty最喜欢的数字是Glory最喜欢的数字的三分之一。如果Glory最喜欢的数字是450，他们最喜欢的数字的总和是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{600}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Trevor目前11岁，他的哥哥20岁。当Trevor的哥哥年龄是Trevor现在的3倍时，Trevor多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{24}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

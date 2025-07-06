@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $a$ and $b$ be positive integers satisfying $\\frac{ab+1}{a+b} < \\frac{3}{2}$ . The maximum possible value of $\\frac{a^3b^3+1}{a^3+b^3}$ is $\\frac{p}{q}$ , where $p$ and $q$ are relatively prime positive integers. Find $p+q$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{36}$": 1
     }
   ],
   "matchingmethod": [

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Caleb和Cynthia正在用水桶往他们的充气游泳池里加水。他们在水龙头处装满水桶，然后将其搬到游泳池。Caleb每次可以加7加仑水，Cynthia每次可以加8加仑水。充满游泳池需要105加仑水。Caleb和Cynthia需要用多少次行程才能用水桶填满游泳池？。",
+  "checkpoint": [
+    {
+      "$\\boxed{7}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Martha的猫捉到3只老鼠和7只鸟。Cara的猫捉到的动物数量是Martha的猫的动物数量的五倍减3。Cara的猫捉到了多少只动物？。",
+  "checkpoint": [
+    {
+      "$\\boxed{47}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

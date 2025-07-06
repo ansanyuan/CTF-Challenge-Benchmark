@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：作为健康的坚持者，Octavia喝的咖啡量是每日推荐量的一半。相比之下，Octavia的丈夫Juan喝的咖啡量是她的10倍。Juan的医生要求他将咖啡摄入量减少到每日推荐的4杯。Juan每天需要减少多少杯咖啡摄入量？。",
+  "checkpoint": [
+    {
+      "$\\boxed{16}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

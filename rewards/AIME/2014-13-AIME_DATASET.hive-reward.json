@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Ten adults enter a room, remove their shoes, and toss their shoes into a pile. Later, a child randomly pairs each left shoe with a right shoe without regard to which shoes belong together. The probability that for every positive integer $k<5$ , no collection of $k$ pairs made by the child contains the shoes from exactly $k$ of the adults is $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{28}$": 1
     }
   ],
   "matchingmethod": [

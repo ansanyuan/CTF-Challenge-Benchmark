@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：The lengths of the sides of a triangle with positive area are $\\log_{10} 12$ , $\\log_{10} 75$ , and $\\log_{10} n$ , where $n$ is a positive integer. Find the number of possible values for $n$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{893}$": 1
     }
   ],
   "matchingmethod": [

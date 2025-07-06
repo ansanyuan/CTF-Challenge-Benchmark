@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Katy，Wendi和Carrie去参加了一个制作面包的派对。 Katy带了三袋5磅的面粉。 Wendi带了比Katy多两倍的面粉，但Carrie带的面粉比Wendi带的少5磅。 Carrie比Katy带了多少面粉（以盎司计）？。",
+  "checkpoint": [
+    {
+      "$\\boxed{160}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

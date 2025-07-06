@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bethany一个小时内可以在跑道上跑10圈。Trey能跑的圈数比Bethany多4圈。Shaelyn能跑的圈数是Trey的一半。Quinn能跑的圈数比Shaelyn少2圈。与Quinn相比，Bethany能跑多几圈？。",
+  "checkpoint": [
+    {
+      "$\\boxed{5}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

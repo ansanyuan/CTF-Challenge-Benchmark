@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rosalina在她的婚礼当天收到了三个人的礼物。如果Emilio送了11份礼物，Jorge送了6份礼物，Pedro送了4份礼物，她收到了多少份礼物？。",
+  "checkpoint": [
+    {
+      "$\\boxed{21}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

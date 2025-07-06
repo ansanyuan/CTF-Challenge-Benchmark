@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tabitha和她的朋友们因为知道圣诞游行上会有糖果从花车上扔向人群而感到兴奋。Tabitha捡到了22块糖果。Stan捡到了13块。Julie捡到的糖果数量是Tabitha的一半，Carlos捡到的糖果数量是Stan的两倍。朋友们总共捡到了多少块糖果？。",
+  "checkpoint": [
+    {
+      "$\\boxed{72}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

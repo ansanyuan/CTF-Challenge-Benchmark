@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Norman高中每年平均招收4000名学生。邻近的Butler高中平均招收的学生数量是Norman高中的3/4。Norman高中的平均招生人数比Butler高中的招生人数多多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{1000}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

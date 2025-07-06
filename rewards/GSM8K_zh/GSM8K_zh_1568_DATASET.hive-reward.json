@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Billy和Tiffany正在比赛，看谁能在一周内跑最多的英里数。在周日、周一和周二，Billy每天跑1英里，Tiffany每天跑2英里。在周三、周四和周五，Billy每天跑1英里，Tiffany每天跑1/3英里。周六，Tiffany认为她会赢，于是休息了一天。Billy周六需要跑多少英里才能与Tiffany并列？。",
+  "checkpoint": [
+    {
+      "$\\boxed{1}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

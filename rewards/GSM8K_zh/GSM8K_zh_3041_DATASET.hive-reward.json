@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tim今年5岁。他的表兄Rommel的年龄是他的三倍。他的另一个表亲Jenny比Rommel大2岁。Tim比Jenny小多少岁？。",
+  "checkpoint": [
+    {
+      "$\\boxed{12}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

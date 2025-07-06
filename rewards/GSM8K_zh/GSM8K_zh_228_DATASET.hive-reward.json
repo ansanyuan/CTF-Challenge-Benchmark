@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ian在彩票中赢得了100美元。他决定用这笔钱来偿还债务。他先支付了20美元给Colin。然后，他支付给Helen的金额是他支付给Colin的两倍。最后，他支付给Benedict的金额是他支付给Helen的一半。在偿还债务后，他还剩下多少美元？。",
+  "checkpoint": [
+    {
+      "$\\boxed{20}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

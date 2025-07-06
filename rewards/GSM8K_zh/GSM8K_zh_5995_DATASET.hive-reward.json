@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dani有3只猫；Binkie，Frankie和Spaatz。每只猫的项圈上都镶有宝石。Binkie的项圈上的宝石数量是Frankie的四倍，但Spaatz的项圈上的宝石数量比Frankie的一半少两个。如果Spaatz的项圈上有1颗宝石，那么Binkie的项圈上有多少颗宝石？。",
+  "checkpoint": [
+    {
+      "$\\boxed{24}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Candice在学校的图书比赛中读的书是Amanda的3倍。Kara读的书是Amanda读书数量的一半，Patricia读的书是Kara读书数量的7倍。如果Candice读了18本书，Patricia读了多少本书？。",
+  "checkpoint": [
+    {
+      "$\\boxed{21}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jada、Rory和Kora制作陶土盘子，作为他们学校项目的艺术品展示。Jada制作的陶土盘子是Rory的两倍，而Rory制作的陶土盘子比Kora多20个。如果Kora制作了20个盘子，他们一共制作了多少个陶土盘子？。",
+  "checkpoint": [
+    {
+      "$\\boxed{140}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

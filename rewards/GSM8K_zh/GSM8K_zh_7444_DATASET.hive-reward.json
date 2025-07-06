@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Harry现在50岁。他的父亲比他大24岁。如果他的母亲比他父亲小25分之1的Harry现在的年龄，那么她在生Harry时多大？。",
+  "checkpoint": [
+    {
+      "$\\boxed{22}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

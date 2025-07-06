@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marco有24美元。玛丽有15美元。如果Marco给玛丽他所有的一半，玛丽将比Marco多。但是玛丽花了5美元。玛丽比Marco多多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{10}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

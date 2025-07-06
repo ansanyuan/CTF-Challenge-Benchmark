@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Denise和Daniel正在读同一本书。昨天，Denise读了10页，而Daniel读了13页。今天，Denise比Daniel昨天读的页数多读了5页，而Daniel今天没有读任何页数。Denise比Daniel多读了多少页？。",
+  "checkpoint": [
+    {
+      "$\\boxed{15}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kimberly买了8包猫粮和6包狗粮。每包猫粮含有11罐，每包狗粮含有6罐。Kimberly买的猫粮比狗粮多了多少罐？。",
+  "checkpoint": [
+    {
+      "$\\boxed{52}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

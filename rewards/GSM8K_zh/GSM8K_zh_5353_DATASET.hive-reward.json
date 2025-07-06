@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cooper，Dante和Maria的年龄总和为31岁。 Dante的年龄是Cooper的两倍。 Maria比Dante大一岁。 Cooper多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{6}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jamal以每支2美元的价格购买了4打彩色蜡笔。他购买的蜡笔的总成本是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{48}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

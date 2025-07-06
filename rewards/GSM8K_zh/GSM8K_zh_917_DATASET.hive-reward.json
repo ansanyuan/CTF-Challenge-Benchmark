@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Asaf和Alexander的年龄差是Asaf拥有铅笔总数的一半。他们的年龄总和为140岁，Asaf今年50岁。如果Alexander比Asaf多60支铅笔，计算他们一共有多少支铅笔？。",
+  "checkpoint": [
+    {
+      "$\\boxed{220}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Freddy比Stephanie小2岁。Stephanie的年龄是Job的4倍。如果Job是5岁，Freddy多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{18}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

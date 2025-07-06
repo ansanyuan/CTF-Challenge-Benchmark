@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：如果Stu有9本书，而Albert有Stu的4倍书，那么Stu和Albert总共有多少本书？。",
+  "checkpoint": [
+    {
+      "$\\boxed{45}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

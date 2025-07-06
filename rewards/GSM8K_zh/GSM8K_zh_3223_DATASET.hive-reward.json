@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nicole收集了400张宝可梦卡片。Cindy收集了两倍于Nicole的数量，Rex收集了Nicole和Cindy总共数量的一半。如果Rex将他的卡片平均分给他和他的三个弟弟，那么Rex剩下多少张卡片？。",
+  "checkpoint": [
+    {
+      "$\\boxed{150}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jessica在她母亲去世时是她母亲年龄的一半。如果她母亲现在还活着，十年后，她母亲就会70岁。Jessica现在多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{40}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

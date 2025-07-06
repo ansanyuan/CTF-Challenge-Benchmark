@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $a = \\pi/2008$ . Find the smallest positive integer $n$ such that \\[2[\\cos(a)\\sin(a) + \\cos(4a)\\sin(2a) + \\cos(9a)\\sin(3a) + \\cdots + \\cos(n^2a)\\sin(na)]\\] is an integer.",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{251}$": 1
     }
   ],
   "matchingmethod": [

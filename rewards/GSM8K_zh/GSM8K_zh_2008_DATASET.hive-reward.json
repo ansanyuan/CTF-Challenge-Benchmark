@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Merry照顾了10只小羊。她的兄弟比Merry多照顾了3只小羊。Merry和她的兄弟一共有多少只小羊？。",
+  "checkpoint": [
+    {
+      "$\\boxed{23}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

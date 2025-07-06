@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Frankie和Carla互相打了30场乒乓球比赛。Frankie赢了Carla赢的一半。Carla赢了多少场比赛？。",
+  "checkpoint": [
+    {
+      "$\\boxed{20}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

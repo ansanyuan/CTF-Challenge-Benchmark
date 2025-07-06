@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Emily每分钟可以打60个字。她写10800个字需要多少小时？。",
+  "checkpoint": [
+    {
+      "$\\boxed{3}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

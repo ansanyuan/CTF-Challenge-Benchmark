@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：A drawer contains a mixture of red socks and blue socks, at most 1991 in all. It so happens that, when two socks are selected randomly without replacement, there is a probability of exactly $\\frac{1}{2}$ that both are red or both are blue. What is the largest possible number of red socks in the drawer that is consistent with this data?",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{990}$": 1
     }
   ],
   "matchingmethod": [

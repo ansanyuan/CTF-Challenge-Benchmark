@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Simon、Gerry和Micky想要用手工制作的小型筏进行比赛。Simon的筏需要36根棍子，Gerry的筏需要Simon所需数量的三分之二，而Micky的筏需要比Simon和Gerry的筏加起来多9根棍子。这三个男孩总共需要收集多少根棍子？。",
+  "checkpoint": [
+    {
+      "$\\boxed{129}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

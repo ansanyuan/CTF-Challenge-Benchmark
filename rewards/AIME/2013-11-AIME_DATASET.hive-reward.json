@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $A = \\{1, 2, 3, 4, 5, 6, 7\\}$ , and let $N$ be the number of functions $f$ from set $A$ to set $A$ such that $f(f(x))$ is a constant function. Find the remainder when $N$ is divided by $1000$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{399}$": 1
     }
   ],
   "matchingmethod": [

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Elmo有他妹妹Laura的3倍书籍。Laura有她弟弟Stu的两倍书籍。如果Elmo有24本书，那么Stu有多少本书？。",
+  "checkpoint": [
+    {
+      "$\\boxed{4}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

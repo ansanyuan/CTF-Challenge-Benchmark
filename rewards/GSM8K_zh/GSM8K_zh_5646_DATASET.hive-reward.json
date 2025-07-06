@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：如果12袋橙子重24磅，8袋橙子重多少磅？。",
+  "checkpoint": [
+    {
+      "$\\boxed{16}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

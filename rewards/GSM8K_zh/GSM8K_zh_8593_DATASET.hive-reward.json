@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Amalia、Megan和Dior分配了家务活，这样每个人在其他人工作时都有事情做。Amalia的工作是修剪草坪，这花了她4个小时。Megan必须遛狗，她完成家务比Amalia多花了2个小时。Dior的工作是洗衣服，她花的时间比Amalia修剪草坪的时间多了4个小时以上。计算他们三个人一共花了多少时间来完成他们的家务活。。",
+  "checkpoint": [
+    {
+      "$\\boxed{18}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

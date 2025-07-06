@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：For any finite set $S$ , let $|S|$ denote the number of elements in $S$ . Find the number of ordered pairs $(A,B)$ such that $A$ and $B$ are (not necessarily distinct) subsets of $\\{1,2,3,4,5\\}$ that satisfy \\[|A| \\cdot |B| = |A \\cap B| \\cdot |A \\cup B|\\]",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{454}$": 1
     }
   ],
   "matchingmethod": [

@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $ABCDE$ be a convex pentagon with $AB || CE, BC || AD, AC || DE, \\angle ABC=120^\\circ, AB=3, BC=5,$ and $DE = 15.$ Given that the ratio between the area of triangle $ABC$ and the area of triangle $EBD$ is $m/n,$ where $m$ and $n$ are relatively prime positive integers, find $m+n.$",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{484}$": 1
     }
   ],
   "matchingmethod": [

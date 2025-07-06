@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $r$ , $s$ , and $t$ be the three roots of the equation \\[8x^3 + 1001x + 2008 = 0.\\] Find $(r + s)^3 + (s + t)^3 + (t + r)^3$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{753}$": 1
     }
   ],
   "matchingmethod": [

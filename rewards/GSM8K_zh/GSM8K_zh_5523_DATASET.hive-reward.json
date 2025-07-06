@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lacson夫人收获了80个甘薯。她向Adams夫人卖了20个，向Lenon先生卖了15个。还有多少个甘薯没有卖出？。",
+  "checkpoint": [
+    {
+      "$\\boxed{45}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

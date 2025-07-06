@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Aubrie有四张卡片，上面印有标签W、X、Y、Z。W标有数字200，X标有W标的一半，Y标有X和W标的总和，Z标有数字400。计算所有标签数字的总和。。",
+  "checkpoint": [
+    {
+      "$\\boxed{1000}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

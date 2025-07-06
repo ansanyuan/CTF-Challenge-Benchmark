@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Find the arithmetic mean of all the three-digit palindromes. (Recall that a palindrome is a number that reads the same forward and backward, such as $777$ or $383$ .)",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{550}$": 1
     }
   ],
   "matchingmethod": [

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alannah，Beatrix和Queen正在为新学年做准备，并从父母那里得到了书籍。Alannah比Beatrix多20本书。Queen比Alannah多1/5的书。如果Beatrix有30本书，三个人一共有多少本书？。",
+  "checkpoint": [
+    {
+      "$\\boxed{140}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

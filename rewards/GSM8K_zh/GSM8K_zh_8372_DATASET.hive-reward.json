@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dijana和Anis住在一个湖附近，每个周末他们都会划船出湖。一个星期天的早晨，他们俩都出去划船，Dijana整天划了50英里。Anis划的英里数是Dijana的1/5倍多。计算他们两个那天总共划了多少英里。。",
+  "checkpoint": [
+    {
+      "$\\boxed{110}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

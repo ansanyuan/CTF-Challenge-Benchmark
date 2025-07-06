@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tapanga和Corey一共有66颗糖果。然而，Tapanga比Corey多8颗糖果。Corey有多少颗糖果？。",
+  "checkpoint": [
+    {
+      "$\\boxed{29}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

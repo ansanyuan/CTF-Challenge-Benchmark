@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：An ellipse has foci at $(9, 20)$ and $(49, 55)$ in the $xy$ -plane and is tangent to the $x$ -axis. What is the length of its major axis?",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{85}$": 1
     }
   ],
   "matchingmethod": [

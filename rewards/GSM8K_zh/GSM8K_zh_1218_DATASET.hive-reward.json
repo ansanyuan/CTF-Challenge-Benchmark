@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Camden刚刚买了Rico的3/4倍的狗，Rico比Justin多10只狗。如果Justin有14只狗，Camden的狗总共有多少条腿？。",
+  "checkpoint": [
+    {
+      "$\\boxed{72}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

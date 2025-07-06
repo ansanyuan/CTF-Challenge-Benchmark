@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：去年Stacy身高50英寸。如果她比她的弟弟多长了6英寸，而她的弟弟去年长了1英寸，那么Stacy现在多高？。",
+  "checkpoint": [
+    {
+      "$\\boxed{57}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：如果1盎司的Dawn液体肥皂可以产生200,000个泡泡，而Dr. Bronner的液体肥皂每盎司可以产生的泡泡数量是Dawn液体肥皂的两倍，那么由相等混合的Dawn和Dr. Bronner液体肥皂的半盎司可以产生多少个泡泡？。",
+  "checkpoint": [
+    {
+      "$\\boxed{150000}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

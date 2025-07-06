@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：开学的第一天，Ava看到她的朋友Cole和Xavier在暑假期间都长高了很多。Xavier原来有4英尺高，长了3英寸。Cole原来有50英寸高，在暑假期间又长了2英寸。现在Cole和Xavier的身高差是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{1}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

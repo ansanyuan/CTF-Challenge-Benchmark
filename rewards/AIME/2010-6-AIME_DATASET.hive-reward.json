@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Find the smallest positive integer $n$ with the property that the polynomial $x^4 - nx + 63$ can be written as a product of two nonconstant polynomials with integer coefficients.",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{8}$": 1
     }
   ],
   "matchingmethod": [

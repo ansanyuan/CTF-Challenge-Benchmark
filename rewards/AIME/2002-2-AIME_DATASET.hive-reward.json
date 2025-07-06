@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Three vertices of a cube are $P=(7,12,10)$ , $Q=(8,8,1)$ , and $R=(11,3,9)$ . What is the surface area of the cube?",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{294}$": 1
     }
   ],
   "matchingmethod": [

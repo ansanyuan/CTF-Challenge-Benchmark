@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Trevor和Joe一起完成了一个500片的拼图。他们首先把边框拼好，用了75片。Trevor能放下105片拼图。Joe能放下的拼图数量是Trevor的三倍。缺少多少拼图片？。",
+  "checkpoint": [
+    {
+      "$\\boxed{5}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

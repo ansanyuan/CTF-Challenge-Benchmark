@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alan和Marcy一起发了150张停车罚单。如果Marcy比Alan的5倍少6张罚单，那么Alan发了多少张罚单？。",
+  "checkpoint": [
+    {
+      "$\\boxed{26}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

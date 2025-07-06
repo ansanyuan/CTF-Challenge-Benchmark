@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：For how many values of $k$ is $12^{12}$ the least common multiple of the positive integers $6^6$ and $8^8$ , and $k$ ?",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{25}$": 1
     }
   ],
   "matchingmethod": [

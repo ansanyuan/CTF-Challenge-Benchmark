@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Micah，Dean和Jake都在为当地一个非政府组织组织的马拉松比赛进行训练，以支持镇上患有癌症的儿童。Micah的速度是Dean的2/3。Jake完成马拉松比Micah多花1/3的时间。如果Dean花费了9小时，三人一共花了多少时间完成马拉松比赛？。",
+  "checkpoint": [
+    {
+      "$\\boxed{23}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

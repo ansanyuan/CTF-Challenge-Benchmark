@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jerry现在的年龄是5年前的两倍。Jerry在3年后会有多大岁数？。",
+  "checkpoint": [
+    {
+      "$\\boxed{13}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

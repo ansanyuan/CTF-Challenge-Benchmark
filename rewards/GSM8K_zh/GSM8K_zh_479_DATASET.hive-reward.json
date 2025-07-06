@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Stan比Steve重5磅。Steve比Jim轻8磅。如果Jim重110磅，他们三个同时站在秤上，他们的总重量是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{319}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nathan打业余棒球。他连续两周每天打了3小时。他的朋友托比亚斯每天打了5小时，但只打了一周。Nathan和Tobias总共打了多少小时？。",
+  "checkpoint": [
+    {
+      "$\\boxed{77}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

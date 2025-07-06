@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sandra的狗生了7只小狗。她的兽医给了她105份奶粉，供小狗们使用5天。Sandra每天应该喂小狗多少次？。",
+  "checkpoint": [
+    {
+      "$\\boxed{3}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

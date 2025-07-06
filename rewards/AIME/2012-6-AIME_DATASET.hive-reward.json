@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $z=a+bi$ be the complex number with $\\vert z \\vert = 5$ and $b > 0$ such that the distance between $(1+2i)z^3$ and $z^5$ is maximized, and let $z^4 = c+di$ . Find $c+d$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{125}$": 1
     }
   ],
   "matchingmethod": [

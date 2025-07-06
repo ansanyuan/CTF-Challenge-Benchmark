@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Delta、Beta和Gamma决定分享40个甜甜圈。Delta拿了8个甜甜圈，Beta拿了Gamma的三倍。Gamma拿了多少个甜甜圈？。",
+  "checkpoint": [
+    {
+      "$\\boxed{8}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

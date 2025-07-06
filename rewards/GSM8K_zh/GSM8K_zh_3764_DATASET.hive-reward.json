@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cooper每天做7个苹果派。他这样做了12天。然后，Ashley吃掉了他的50个派。Cooper剩下多少个苹果派？。",
+  "checkpoint": [
+    {
+      "$\\boxed{34}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

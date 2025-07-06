@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nathan买了一个大箱香蕉。他看到有六串每串八个香蕉和五串每串七个香蕉。Nathan一共有多少个香蕉？。",
+  "checkpoint": [
+    {
+      "$\\boxed{83}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

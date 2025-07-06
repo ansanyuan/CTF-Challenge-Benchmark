@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ariella在她儿子的储蓄账户中比Daniella多200美元。Ariella的账户以10%的年利率赚取简单利息。如果Daniella有400美元，两年后Arialla会有多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{720}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

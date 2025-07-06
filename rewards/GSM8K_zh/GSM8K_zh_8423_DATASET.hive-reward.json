@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marcus的年龄是Leo的一半，比Deanna小五岁。Deanna是26岁。Leo多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{42}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

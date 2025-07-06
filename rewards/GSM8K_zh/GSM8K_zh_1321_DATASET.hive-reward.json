@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Shaniqua擅长做头发。每次理发她赚12美元，每次造型她赚25美元。如果她理了8次发型并做了5次造型，Shaniqua会赚多少美元？。",
+  "checkpoint": [
+    {
+      "$\\boxed{221}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

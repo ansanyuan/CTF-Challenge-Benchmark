@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Wyatt有10个蓝色信封。他比蓝色信封少4个黄色信封。Wyatt总共有多少个信封？。",
+  "checkpoint": [
+    {
+      "$\\boxed{16}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

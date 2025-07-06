@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Leo和Ryan一起有48美元。Ryan拥有其中的2/3。Leo记得Ryan欠他10美元，但他也欠Ryan7美元。债务清偿后，Leo有多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{19}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

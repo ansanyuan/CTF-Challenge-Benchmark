@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jeremy为聚会买了3袋薯片。Stacy和Emily也为聚会买了薯片。如果他们总共需要10袋薯片，Stacy买了4袋，那么Emily应该买多少袋薯片？。",
+  "checkpoint": [
+    {
+      "$\\boxed{3}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

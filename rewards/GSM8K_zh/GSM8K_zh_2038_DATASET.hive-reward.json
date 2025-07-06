@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rhonda，Sally和Diane是学校田径队的成员。她们三个一起参加了600米接力赛。Rhonda跑了比赛的前200米，Sally跑了比赛的第二200米，Diane跑了比赛的最后200米。Rhonda可以在24秒内跑完200米。Sally花了比Rhonda多两秒跑完同样的距离，而Diane可以比Rhonda快三秒跑完200米。她们三个一起跑600米接力赛需要多少秒？。",
+  "checkpoint": [
+    {
+      "$\\boxed{71}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

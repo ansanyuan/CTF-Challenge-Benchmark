@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rachel买了23块饼干，Janet给了她42块饼干。另一天她的哥哥吃掉了44块饼干。Rachel还剩下多少块饼干？。",
+  "checkpoint": [
+    {
+      "$\\boxed{21}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

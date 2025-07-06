@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Polly和Peter下国际象棋。Polly每步平均需要28秒，而Peter每步平均需要40秒。比赛在30步后结束。比赛持续了多少分钟？。",
+  "checkpoint": [
+    {
+      "$\\boxed{17}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

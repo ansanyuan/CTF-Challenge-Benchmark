@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Koby和Cherie想点烟花。Koby买了2盒烟花，而Cherie只有1盒烟花。Koby的每盒烟花里有3个旋转火花和5个啸叫者。Cherie的盒子里有8个旋转火花和9个啸叫者。Koby和Cherie总共有多少个烟花？。",
+  "checkpoint": [
+    {
+      "$\\boxed{33}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

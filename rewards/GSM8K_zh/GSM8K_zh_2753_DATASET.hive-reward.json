@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Centerville镇的年度预算的15%用于公共图书馆。Centerville在公共图书馆上花费了3000美元，公共公园上花费了24%。年度预算剩下多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{12200}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

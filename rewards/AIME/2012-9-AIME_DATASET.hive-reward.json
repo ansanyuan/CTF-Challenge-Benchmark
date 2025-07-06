@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $x$ and $y$ be real numbers such that $\\frac{\\sin x}{\\sin y} = 3$ and $\\frac{\\cos x}{\\cos y} = \\frac12$ . The value of $\\frac{\\sin 2x}{\\sin 2y} + \\frac{\\cos 2x}{\\cos 2y}$ can be expressed in the form $\\frac pq$ , where $p$ and $q$ are relatively prime positive integers. Find $p+q$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{107}$": 1
     }
   ],
   "matchingmethod": [

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ha先生拥有的银元比Phung先生多5枚。Phung先生比Chiu先生多16枚银元。如果Chiu先生有56枚银元，三人总共有多少枚银元？。",
+  "checkpoint": [
+    {
+      "$\\boxed{205}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

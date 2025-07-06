@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Padma正在和Robert交换卡片。Padma一开始有75张卡片，她用其中2张有价值的卡片交换了Robert的10张卡片。Robert一开始有88张自己的卡片，他又用其中8张卡片交换了Padma的15张卡片。Padma和Robert之间一共交换了多少张卡片？。",
+  "checkpoint": [
+    {
+      "$\\boxed{35}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Trent捉到了180只蝌蚪，然后放走了其中的75%。他留下了多少只？。",
+  "checkpoint": [
+    {
+      "$\\boxed{45}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sandy想要减掉和Joey一样多的体重，但她需要4周的时间来减掉Joey一周内减掉的体重。如果Joey在4周内减掉了8磅，Sandy需要多少周才能减掉同样多的体重？。",
+  "checkpoint": [
+    {
+      "$\\boxed{16}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dorothy以Jemma的一半价格出售玻璃框架。Jemma以5美元的价格出售玻璃框架，卖出的框架数量是Dorothy的两倍。如果Jemma卖出了400个框架，他们总共从玻璃框架的销售中赚了多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{2500}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

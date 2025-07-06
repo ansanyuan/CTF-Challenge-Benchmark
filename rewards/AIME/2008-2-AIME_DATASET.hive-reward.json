@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Rudolph bikes at a constant rate and stops for a five-minute break at the end of every mile. Jennifer bikes at a constant rate which is three-quarters the rate that Rudolph bikes, but Jennifer takes a five-minute break at the end of every two miles. Jennifer and Rudolph begin biking at the same time and arrive at the $50$ -mile mark at exactly the same time. How many minutes has it taken them?",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{620}$": 1
     }
   ],
   "matchingmethod": [

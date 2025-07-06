@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $f(x)=|x-p|+|x-15|+|x-p-15|$ , where $0 < p < 15$ . Determine the minimum value taken by $f(x)$ for $x$ in the interval $p \\leq x\\leq15$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{15}$": 1
     }
   ],
   "matchingmethod": [

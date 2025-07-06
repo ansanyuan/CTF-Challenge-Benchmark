@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：二十年后，Ramon的年龄将是Loui今天年龄的两倍。如果Loui目前23岁，那么Ramon现在多大？。",
+  "checkpoint": [
+    {
+      "$\\boxed{26}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

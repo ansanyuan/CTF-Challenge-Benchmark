@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jason买了4打杯子蛋糕。他计划给他的表兄弟每人3个杯子蛋糕。Jason有多少个表兄弟？。",
+  "checkpoint": [
+    {
+      "$\\boxed{16}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

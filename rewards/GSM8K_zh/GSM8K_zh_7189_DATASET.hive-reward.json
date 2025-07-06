@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Shem每小时的收入是Kem的2.5倍。如果Kem每小时赚4美元，那么Shem一天工作8小时能赚多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{80}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

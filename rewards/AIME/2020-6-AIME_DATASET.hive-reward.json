@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Define a sequence recursively by $t_1 = 20$ , $t_2 = 21$ , and \\[t_n = \\frac{5t_{n-1}+1}{25t_{n-2}}\\] for all $n \\ge 3$ . Then $t_{2020}$ can be written as $\\frac{p}{q}$ , where $p$ and $q$ are relatively prime positive integers. Find $p+q$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{626}$": 1
     }
   ],
   "matchingmethod": [

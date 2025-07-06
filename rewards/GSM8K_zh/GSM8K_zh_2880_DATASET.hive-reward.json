@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Malcolm每顿早餐、午餐和晚餐后刷牙2分钟。30天后，他刷牙花了多少小时？。",
+  "checkpoint": [
+    {
+      "$\\boxed{3}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

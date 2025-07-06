@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：查理的Facebook朋友是多萝西的三倍。詹姆斯在Facebook上的朋友是多萝西的四倍。如果查理在Facebook上有12个朋友，那么詹姆斯有多少个Facebook朋友？。",
+  "checkpoint": [
+    {
+      "$\\boxed{16}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

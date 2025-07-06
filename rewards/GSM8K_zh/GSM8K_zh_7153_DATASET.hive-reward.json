@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Blanche、Rose和Dorothy喜欢在海滩上收集海玻璃。Blanche找到了12块绿色和3块红色的海玻璃。Rose找到了9块红色和11块蓝色的海玻璃。如果Dorothy找到的红色玻璃是Blanche和Rose的两倍，蓝色海玻璃是Rose的三倍，那么Dorothy一共找到了多少块海玻璃？。",
+  "checkpoint": [
+    {
+      "$\\boxed{57}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

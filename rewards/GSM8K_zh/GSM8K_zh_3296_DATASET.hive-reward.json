@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Karen和Donald和他们的6个孩子与Tom和Eva和他们的4个孩子共享一个海滩别墅。如果游泳池里有16条腿，那么有多少人不在游泳池里？。",
+  "checkpoint": [
+    {
+      "$\\boxed{6}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

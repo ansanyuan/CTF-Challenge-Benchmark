@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Keith和Blaine去钓鱼。Blaine钓到了5条鱼，而Keith钓到的是Blaine的两倍。他们一共钓到了多少条鱼？。",
+  "checkpoint": [
+    {
+      "$\\boxed{15}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Southlandia有史以来记录的最高温度是华氏-48度。Northlandia有史以来记录的最高温度是华氏21度。Midlandia有史以来记录的最高温度是华氏-3度。这三个国家的平均最高温度是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{-10}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：在7天内，Sofie将走的距离是Brian的两倍。如果Sofie计划每天走10英里，那么Brian在七天内将走多少英里？。",
+  "checkpoint": [
+    {
+      "$\\boxed{35}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Suppose that the sum of the squares of two complex numbers $x$ and $y$ is $7$ and the sum of the cubes is $10$ . What is the largest real value that $x + y$ can have?",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{4}$": 1
     }
   ],
   "matchingmethod": [

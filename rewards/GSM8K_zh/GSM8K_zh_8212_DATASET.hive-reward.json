@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alice比Steven多6本书。Clara的书是Steven的两倍。如果Clara有20本书，Clara比Alice多多少本书？。",
+  "checkpoint": [
+    {
+      "$\\boxed{4}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

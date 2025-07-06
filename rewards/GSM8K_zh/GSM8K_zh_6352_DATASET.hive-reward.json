@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Telegraph Road长162公里。Pardee Road长12000米。Telegraph Road比Pardee Road长多少公里？。",
+  "checkpoint": [
+    {
+      "$\\boxed{150}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

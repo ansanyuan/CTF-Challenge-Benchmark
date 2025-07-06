@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Find the smallest positive integer whose cube ends in $888$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{192}$": 1
     }
   ],
   "matchingmethod": [

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tricia是Amilia年龄的三分之一，而Amilia是Yorick年龄的四分之一。Yorick的年龄是Eugene的两倍，而Khloe是Eugene年龄的三分之一。Rupert比Khloe大10岁，但比22岁的Vincent小2岁。Tricia多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{5}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

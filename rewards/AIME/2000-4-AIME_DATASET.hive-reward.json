@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：What is the smallest positive integer with six positive odd integer divisors and twelve positive even integer divisors? ",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{180}$": 1
     }
   ],
   "matchingmethod": [

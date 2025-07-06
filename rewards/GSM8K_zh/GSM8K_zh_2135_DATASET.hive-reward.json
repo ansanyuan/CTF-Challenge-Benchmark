@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Martha收集了90罐，Diego收集的罐数比Martha收集的一半多10罐。如果他们两个应该为他们的项目共收集150罐，他们还需要收集多少罐？。",
+  "checkpoint": [
+    {
+      "$\\boxed{5}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

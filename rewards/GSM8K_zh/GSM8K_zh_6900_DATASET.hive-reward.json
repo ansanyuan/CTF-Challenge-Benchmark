@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Elvie的年龄和Arielle的年龄的和与积的总和为131。如果Elvie的年龄是10岁，Arielle多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{11}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

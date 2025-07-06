@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：在一个小时内，Ezra读的书是Ahmed的两倍。Ezra这个小时读了300本书，并决定再读150本。他们总共读了多少本书？。",
+  "checkpoint": [
+    {
+      "$\\boxed{675}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

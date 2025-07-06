@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $P$ be the product of the first 100 positive odd integers. Find the largest integer $k$ such that $P$ is divisible by $3^k$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{49}$": 1
     }
   ],
   "matchingmethod": [

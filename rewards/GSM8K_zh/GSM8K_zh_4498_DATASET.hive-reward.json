@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Paddy's Confidential有600罐炖肉，需要喂养40人。喂养30%较少的人需要多少罐？。",
+  "checkpoint": [
+    {
+      "$\\boxed{420}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

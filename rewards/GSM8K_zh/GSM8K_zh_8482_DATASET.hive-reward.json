@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Matteo以每小时55英里的速度行驶了4小时。Shandy以每小时45英里的速度行驶了10小时。Shandy比Matteo多开了多少英里？。",
+  "checkpoint": [
+    {
+      "$\\boxed{230}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

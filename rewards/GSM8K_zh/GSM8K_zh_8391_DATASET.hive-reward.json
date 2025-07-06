@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kira在杂货店买了3个苹果，5根香蕉和6个橙子。Lola吃了2个水果。还剩下多少个水果？。",
+  "checkpoint": [
+    {
+      "$\\boxed{12}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

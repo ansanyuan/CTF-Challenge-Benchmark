@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ashley的互联网连接速度是每秒20kb。知道1Mb有1000kb，她想知道她的互联网连接速度是每小时多少Mb。Ashley的互联网连接速度是每小时多少Mb？。",
+  "checkpoint": [
+    {
+      "$\\boxed{72}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

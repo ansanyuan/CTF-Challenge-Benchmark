@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marin和他的邻居Nancy每人每天吃4个苹果。他们30天内一共吃了多少个苹果？。",
+  "checkpoint": [
+    {
+      "$\\boxed{150}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

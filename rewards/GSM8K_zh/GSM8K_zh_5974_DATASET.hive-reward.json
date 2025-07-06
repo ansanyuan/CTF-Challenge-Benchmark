@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nathaniel有11张篮球比赛的门票。他每个最好的朋友都送了2张票，直到他只剩下3张票。Nathaniel有多少个最好的朋友？。",
+  "checkpoint": [
+    {
+      "$\\boxed{4}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

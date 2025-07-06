@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Janessa计划给她的弟弟Dexter他的第一套棒球卡。她目前有4张卡片，另外还有她父亲给她的13张。她从eBay订购了一套36张的卡片。在检查卡片后，她发现有4张卡片状况不好，决定扔掉它们。最终，Janessa给了Dexter29张卡片。Janessa自己留了多少张卡片？。",
+  "checkpoint": [
+    {
+      "$\\boxed{20}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

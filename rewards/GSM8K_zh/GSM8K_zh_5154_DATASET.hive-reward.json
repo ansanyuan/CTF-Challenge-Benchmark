@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Juanico比Gladys的年龄少4岁。如果Gladys从现在起十年后40岁，计算Juanico从现在起30年后的年龄。。",
+  "checkpoint": [
+    {
+      "$\\boxed{41}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

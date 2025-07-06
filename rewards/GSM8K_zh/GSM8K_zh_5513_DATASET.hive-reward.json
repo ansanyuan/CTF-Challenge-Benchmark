@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Trey有Kris的5倍乌龟。Kris有Kristen的四分之一。如果Kristen有12只乌龟，那么总共有多少只乌龟？。",
+  "checkpoint": [
+    {
+      "$\\boxed{30}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

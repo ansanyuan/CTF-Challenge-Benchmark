@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Aria的高中学分是Emily的两倍，而Emily的高中学分是Spencer的两倍。如果Emily有20个学分，那么三个人的高中学分总数的两倍是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{140}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

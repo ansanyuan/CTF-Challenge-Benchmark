@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Malcolm在Instagram上有240个粉丝，在Facebook上有500个粉丝。他在Twitter上的粉丝数量是他在Instagram和Facebook上粉丝数量的一半。与此同时，他在TikTok上的粉丝数量是他在Twitter上的3倍，而他在Youtube上的粉丝数量比他在TikTok上的多510个。Malcolm在所有社交媒体上一共有多少个粉丝？。",
+  "checkpoint": [
+    {
+      "$\\boxed{3840}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

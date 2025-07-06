@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Caroline的年龄是Ben的三倍。Ben的年龄是Chris的两倍。如果Chris是4岁，Caroline多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{24}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

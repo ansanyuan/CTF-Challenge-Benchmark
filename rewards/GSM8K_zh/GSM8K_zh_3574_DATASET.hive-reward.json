@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jennifer买的糖果是Emily买的两倍，是Bob买的三倍。如果Emily买了6颗糖果，那么Bob买了多少颗糖果？。",
+  "checkpoint": [
+    {
+      "$\\boxed{4}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

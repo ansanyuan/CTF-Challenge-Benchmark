@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Nina的数学家庭作业比Ruby多四倍，阅读家庭作业比Ruby多八倍。如果Ruby有六个数学家庭作业和两个阅读家庭作业，Nina一共有多少家庭作业？。",
+  "checkpoint": [
+    {
+      "$\\boxed{48}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

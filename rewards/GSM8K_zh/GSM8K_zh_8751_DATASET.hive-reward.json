@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mia和Emma的年龄相差16岁。如果年纪较小的Mia是40岁，那么他们的平均年龄是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{48}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

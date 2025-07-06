@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Omi的年龄是Kimiko的两倍。Arlette的年龄是Kimiko的3/4。如果Kimiko今年28岁，计算三人的平均年龄？。",
+  "checkpoint": [
+    {
+      "$\\boxed{35}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

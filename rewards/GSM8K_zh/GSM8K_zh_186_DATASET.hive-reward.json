@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Caleb和他爸爸去湖边钓鱼。Caleb钓到2条鳟鱼，他爸爸的钓到的数量是Caleb的三倍。相对于Caleb，他爸爸多钓到了多少条鳟鱼？。",
+  "checkpoint": [
+    {
+      "$\\boxed{4}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

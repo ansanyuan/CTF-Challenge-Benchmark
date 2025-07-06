@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Yun最初有20个订书钉，但后来丢了12个。Marion比Yun当前拥有的数量多1/4，再加上7。Marion有多少个订书钉？。",
+  "checkpoint": [
+    {
+      "$\\boxed{9}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

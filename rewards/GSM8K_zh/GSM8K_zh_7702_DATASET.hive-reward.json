@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kalinda和她妈妈正在拼一个360片的拼图。Kalinda通常每分钟可以拼上4片。她妈妈通常每分钟能拼上的片数是Kalinda的一半。他们完成这个拼图需要多少小时？。",
+  "checkpoint": [
+    {
+      "$\\boxed{1}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

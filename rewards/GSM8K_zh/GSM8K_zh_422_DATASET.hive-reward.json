@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Wilsborough夫人为了她的家人买音乐会门票存了500美元。她买了2张每张100美元的VIP门票和3张每张50美元的普通门票。Wilsborough夫人在买了门票后还剩下多少存款？。",
+  "checkpoint": [
+    {
+      "$\\boxed{150}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

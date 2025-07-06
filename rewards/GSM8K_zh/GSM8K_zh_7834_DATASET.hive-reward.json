@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carver刚满45岁，这使他的年龄比他儿子的两倍少5岁。他儿子多大了（单位：岁）？。",
+  "checkpoint": [
+    {
+      "$\\boxed{25}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

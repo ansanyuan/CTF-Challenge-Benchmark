@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Chris的院子里有6棵树。Ferdinand的树木数量是Chris的一半。Harry的树木数量是Ferdinand的两倍再加5棵。Harry的院子里比Ferdinand的院子多了多少棵树？。",
+  "checkpoint": [
+    {
+      "$\\boxed{8}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

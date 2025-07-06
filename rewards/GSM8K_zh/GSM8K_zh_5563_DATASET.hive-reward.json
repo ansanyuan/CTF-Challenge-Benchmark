@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marcel和Dale一起去商店买菜做晚餐。Marcel买了10个玉米，Dale买了Marcel数量的一半。Dale买了8个土豆，Marcel也买了一些。如果他们一起结账最终买了27个蔬菜，Marcel买了多少个土豆？。",
+  "checkpoint": [
+    {
+      "$\\boxed{4}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

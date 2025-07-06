@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Debby和Maggie同意分享一笔钱，使得Debby拿25%，Maggie拿剩下的。如果Maggie的份额是4500美元，他们一共分享了多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{6000}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

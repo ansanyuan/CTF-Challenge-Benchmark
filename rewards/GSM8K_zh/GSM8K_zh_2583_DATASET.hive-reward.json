@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Markus的年龄是他儿子的两倍，而Markus的儿子的年龄是Markus的孙子的两倍。如果Markus、他的儿子和他的孙子的年龄总和是140岁，那么Markus的孙子多少岁了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{20}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

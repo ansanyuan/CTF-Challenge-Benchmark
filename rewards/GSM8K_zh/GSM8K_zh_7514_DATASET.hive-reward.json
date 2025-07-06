@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brandon的iPhone是Ben的iPhone的四倍年龄。Ben的iPhone比Suzy的iPhone年龄大两倍。如果Suzy的iPhone有1年的历史，那么Brandon的iPhone有多大年纪？。",
+  "checkpoint": [
+    {
+      "$\\boxed{8}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

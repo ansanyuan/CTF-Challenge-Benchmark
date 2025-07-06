@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Courtney参加了一场音乐会，并报告说观众有48人。然而，Kelly去了同一场音乐会，并说Courtney夸大了出席人数的20%。如果Kelly是对的，那么真正有多少人参加了音乐会？。",
+  "checkpoint": [
+    {
+      "$\\boxed{40}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

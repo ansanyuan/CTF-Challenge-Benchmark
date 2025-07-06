@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Snap, Crackle和Pop在杂货店买了150美元的谷物。Snap花了Crackle的两倍。Crackle花了Pop的三倍。Pop花了多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{15}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

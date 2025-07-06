@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Terez的农场上有44头奶牛。50%的奶牛是母牛，50%的母牛怀孕了。Terez有多少头怀孕的母牛？。",
+  "checkpoint": [
+    {
+      "$\\boxed{11}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

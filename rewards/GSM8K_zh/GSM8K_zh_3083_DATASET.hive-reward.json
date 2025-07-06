@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mimi在海滩上捡了2打贝壳。Kyle找到的贝壳是Mimi的两倍，然后把它们放在口袋里。Leigh拿走了Kyle找到的贝壳的三分之一。Leigh有多少贝壳？。",
+  "checkpoint": [
+    {
+      "$\\boxed{16}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

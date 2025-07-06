@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kaylin比Sarah小五岁，Sarah的年龄是Eli年龄的两倍，Eli比Freyja大九岁。如果Freyja十岁了，那么Kaylin多大？。",
+  "checkpoint": [
+    {
+      "$\\boxed{33}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

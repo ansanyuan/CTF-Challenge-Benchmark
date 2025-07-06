@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Britany每周录制18个4分钟的TikTok视频。她每周花2小时写业余歌曲在TikTok上演唱，以及每周六天花15分钟化妆后再为TikTok拍摄自己。Britany在一个有四周的月份里，总共花了多少时间在TikTok上？。",
+  "checkpoint": [
+    {
+      "$\\boxed{1128}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

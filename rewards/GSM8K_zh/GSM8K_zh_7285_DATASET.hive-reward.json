@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Talia正在和她的朋友踢足球。他们玩的公园离Talia的家有5英里。在比赛结束后，Talia计划去距离公园3英里、离她家8英里的杂货店。从Talia的家出发并返回，那天Talia一共开了多少英里？。",
+  "checkpoint": [
+    {
+      "$\\boxed{16}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

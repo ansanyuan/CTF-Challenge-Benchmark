@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Amora、Lainey和Collins想要平均分配玉米片，但后来意识到只有两个人能得到相同数量的玉米片，而另一个人会比其他人多得到15片玉米片。如果Amora和Lainey每人得到70片玉米片，那么总共有多少片玉米片？。",
+  "checkpoint": [
+    {
+      "$\\boxed{225}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

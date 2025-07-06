@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let\\[f(x)=\\\frac{(x-18)(x-72)(x-98)(x-k)}{x}.\\]There exist exactly three positive real values of $k$ such that $f$ has a minimum at exactly two real values of $x$. Find the sum of these three values of $k$.",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{240}$": 1
     }
   ],
   "matchingmethod": [

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sheila，Purity和Rose想要租一间房子。Sheila提出支付Purity的房租的五倍。Rose只能支付Purity支付的三倍。如果Rose的份额是1800美元，那么房子的总房租是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{5400}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

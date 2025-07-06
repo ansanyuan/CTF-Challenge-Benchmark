@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Greg和Katie去了Scarlet夫人的金店，让她打开他们的金箱。当Scarlet夫人打开箱子时，他们意识到Greg的金比Katie少四倍。如果金的总量是100，Greg有多少金？。",
+  "checkpoint": [
+    {
+      "$\\boxed{20}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Safari国家公园有100只狮子，一半的蛇，比蛇少10只长颈鹿。另一方面，Savanna国家公园比Safari国家公园有两倍的狮子，比Safari国家公园有三倍的蛇，比Safari国家公园多20只长颈鹿。Savanna国家公园总共有多少动物？。",
+  "checkpoint": [
+    {
+      "$\\boxed{410}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

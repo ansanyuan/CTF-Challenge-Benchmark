@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Teairra的衣柜里有5件衬衫和24条裤子。如果Teairra的衬衫中有3件格子衬衫，Teairra的裤子中有5条是紫色的，那么Teairra有多少件既不是格子衬衫也不是紫色裤子？。",
+  "checkpoint": [
+    {
+      "$\\boxed{21}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

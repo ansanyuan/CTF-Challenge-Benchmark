@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ryan的派对规模是Taylor生日派对的4倍。如果两个派对总共有240人，那么Ryan的派对有多少人？。",
+  "checkpoint": [
+    {
+      "$\\boxed{192}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

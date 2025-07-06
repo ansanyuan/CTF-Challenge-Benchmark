@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $m$ be the number of five-element subsets that can be chosen from the set of the first $14$ natural numbers so that at least two of the five numbers are consecutive. Find the remainder when $m$ is divided by $1000$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{750}$": 1
     }
   ],
   "matchingmethod": [

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Del和Juan一共摘了107个橙子。Del连续两天每天摘了23个，剩下的由Juan摘。Juan摘了多少个橙子？。",
+  "checkpoint": [
+    {
+      "$\\boxed{61}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

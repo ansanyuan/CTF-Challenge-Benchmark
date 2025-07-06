@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cape May和Daytona Beach每年都有40次鲨鱼目击事件。如果Cape May的鲨鱼目击事件数量是Daytona Beach的两倍减8，那么Cape May有多少次鲨鱼目击事件？。",
+  "checkpoint": [
+    {
+      "$\\boxed{24}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

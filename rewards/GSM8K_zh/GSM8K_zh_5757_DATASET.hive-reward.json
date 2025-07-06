@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jacob的写作速度是Nathan的两倍。Nathan在一个小时内写了25封信。两人在一起10小时能写多少封信？。",
+  "checkpoint": [
+    {
+      "$\\boxed{750}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

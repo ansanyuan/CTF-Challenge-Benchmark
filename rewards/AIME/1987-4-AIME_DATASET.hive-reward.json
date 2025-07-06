@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Find the area of the region enclosed by the graph of $|x-60|+|y|=\\left|\\frac{x}{4}\\right|.$",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{480}$": 1
     }
   ],
   "matchingmethod": [

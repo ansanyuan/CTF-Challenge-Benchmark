@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alexis有迪兰和阿什利的芒果总数的四倍。如果Alexis有60个芒果，他们三个总共有多少个芒果？。",
+  "checkpoint": [
+    {
+      "$\\boxed{75}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

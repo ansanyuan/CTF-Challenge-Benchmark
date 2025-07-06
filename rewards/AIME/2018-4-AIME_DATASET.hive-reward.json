@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：In equiangular octagon $CAROLINE$ , $CA = RO = LI = NE =$ $\\sqrt{2}$ and $AR = OL = IN = EC = 1$ . The self-intersecting octagon $CORNELIA$ encloses six non-overlapping triangular regions. Let $K$ be the area enclosed by $CORNELIA$ , that is, the total area of the six triangular regions. Then $K = \\frac{a}{b}$ , where $a$ and $b$ are relatively prime positive integers. Find $a + b$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{23}$": 1
     }
   ],
   "matchingmethod": [

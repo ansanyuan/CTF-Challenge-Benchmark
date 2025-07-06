@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Larry每天花半小时两次遛狗和和狗玩耍。他还每天花五分之一小时喂狗。Larry每天花多少分钟在狗身上？。",
+  "checkpoint": [
+    {
+      "$\\boxed{72}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

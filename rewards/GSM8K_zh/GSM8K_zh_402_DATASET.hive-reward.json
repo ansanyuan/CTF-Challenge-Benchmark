@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kimberley、Ela和Houston都被她们的奶奶派去收集木柴。Kimberley收集了十磅木柴，Houston收集了12磅木柴。如果她们三个一共收集了35磅木柴，Ela收集了多少磅木柴？。",
+  "checkpoint": [
+    {
+      "$\\boxed{13}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

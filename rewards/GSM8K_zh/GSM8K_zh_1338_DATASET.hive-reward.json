@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bonny刚刚买了她的第13双鞋，这比Becky拥有的鞋的双数的两倍少5双。Bobby拥有的鞋的双数是Becky的三倍。Bobby有多少双鞋？。",
+  "checkpoint": [
+    {
+      "$\\boxed{27}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

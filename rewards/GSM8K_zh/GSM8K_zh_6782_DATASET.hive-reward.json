@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Papi Calot准备种植土豆的花园。他计划种植7排，每排18株植物。但他还有一点空间，所以他考虑增加15株土豆植物。Papi Calot需要购买多少株植物？。",
+  "checkpoint": [
+    {
+      "$\\boxed{141}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

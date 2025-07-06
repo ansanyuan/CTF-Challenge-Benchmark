@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marvin和Tina在卖糖果来帮助筹集他们的班级旅行经费。每个糖果的成本是2美元。Marvin总共卖出了35个糖果。Tina卖出的糖果数量是Marvin的三倍。Tina卖糖果相比Marvin多赚了多少钱用于班级旅行？。",
+  "checkpoint": [
+    {
+      "$\\boxed{140}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

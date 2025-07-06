@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：5年后，Nacho的年龄将是Divya的3倍。如果Divya目前5岁，他们现在的年龄总和是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{40}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

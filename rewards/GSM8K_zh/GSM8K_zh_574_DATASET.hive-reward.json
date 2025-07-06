@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bert能以每部18美元的价格卖出8部玩具手机，而Tory能以每部20美元的价格卖出7部玩具枪。Bert比Tory赚了多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{4}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Camp Cedar有40个男孩，女孩的数量是男孩的3倍。每8个孩子需要1名辅导员。Camp Cedar需要多少名辅导员？。",
+  "checkpoint": [
+    {
+      "$\\boxed{20}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

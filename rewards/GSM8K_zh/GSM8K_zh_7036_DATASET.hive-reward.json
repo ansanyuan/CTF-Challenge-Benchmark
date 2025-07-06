@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ahmed和Emily正在比赛，看谁能在班上得到最好的成绩。已经有9个作业，Ahmed在班上得了91分。Emily得了92分。最后一个作业的分数和其他作业一样。Emily在最后一个作业上得了90分。如果所有分数都是整数，Ahmed至少需要得到多少分才能击败Emily？。",
+  "checkpoint": [
+    {
+      "$\\boxed{100}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

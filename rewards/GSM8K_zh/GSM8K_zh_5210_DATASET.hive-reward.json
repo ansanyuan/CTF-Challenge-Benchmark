@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Samantha、Aira和Joe在平均分配橡皮筋后，每人收到6根橡皮筋。如果Samantha比Aira多5根橡皮筋，而Aira比Joe少1根橡皮筋，Aira有多少根橡皮筋？。",
+  "checkpoint": [
+    {
+      "$\\boxed{4}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

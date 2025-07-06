@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Gissela、Gordy和Gary是卡车司机。Gissela有一辆卡车，足以运载4000磅的砾石。Gordy的卡车比Gissela的卡车多运载800磅。当Gary开着他的卡车加入Gissela和Gordy时，三辆卡车合计可以运载11600磅的砾石。Gary的卡车能运载多少磅的砾石？。",
+  "checkpoint": [
+    {
+      "$\\boxed{2800}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

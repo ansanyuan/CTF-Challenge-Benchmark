@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Micah每分钟可以打字20个单词，Isaiah每分钟可以打字40个单词。在一个小时内，Isaiah比Micah多可以打字多少个单词？。",
+  "checkpoint": [
+    {
+      "$\\boxed{1200}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

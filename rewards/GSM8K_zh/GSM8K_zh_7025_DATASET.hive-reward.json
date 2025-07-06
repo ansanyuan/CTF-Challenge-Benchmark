@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Vicente买了5公斤大米和3磅肉。每公斤大米2美元，一磅肉5美元。Vicente总共花了多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{25}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

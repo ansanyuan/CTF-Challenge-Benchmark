@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Allie，Rob和Allyn每人买了一碗葡萄。 Allie的碗比Rob的碗多两颗葡萄。 Allyn的碗比Allie的碗多四颗葡萄。 如果Rob的碗有25颗葡萄，三个碗总共有多少颗葡萄？。",
+  "checkpoint": [
+    {
+      "$\\boxed{83}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

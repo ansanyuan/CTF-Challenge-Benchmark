@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ray有95美分的镍币。如果Ray给了彼得25美分，给了兰迪的钱是给彼得的两倍，Ray还剩下多少个镍币？。",
+  "checkpoint": [
+    {
+      "$\\boxed{4}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

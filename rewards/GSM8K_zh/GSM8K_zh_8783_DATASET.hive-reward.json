@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：女孩们正试图为嘉年华筹集资金。Kim比Alexandra多筹集了320美元，而Alexandra筹集了430美元；Maryam比Sarah多筹集了400美元，而Sarah筹集了300美元。她们总共筹集了多少美元？。",
+  "checkpoint": [
+    {
+      "$\\boxed{2280}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

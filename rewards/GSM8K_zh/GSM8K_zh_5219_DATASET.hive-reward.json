@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Brian钓鱼的频率是Chris的两倍，但是每次钓鱼的捕获量比Chris少2/5。如果Brian每次钓鱼都能捕获400条鱼，那么如果Chris去钓鱼10次，他们总共会捕获多少条鱼？。",
+  "checkpoint": [
+    {
+      "$\\boxed{13600}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

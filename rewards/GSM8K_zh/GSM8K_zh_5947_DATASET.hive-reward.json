@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Wallace的热水器的容量是Catherine的热水器的两倍。如果Wallace的热水器的容量是40加仑，且它的3/4满，那么如果Catherine的热水器也满了，它的容量的3/4，两者总共有多少加仑的水？。",
+  "checkpoint": [
+    {
+      "$\\boxed{45}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

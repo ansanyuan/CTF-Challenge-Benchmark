@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jermaine，Terrence和Emilee总共赚了90美元。 Jermaine比Terrence多赚了5美元。如果Terrence赚了30美元，Emilee赚了多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{25}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

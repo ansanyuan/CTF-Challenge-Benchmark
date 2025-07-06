@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Samir昨天爬了318级台阶。Veronica比这个数量的一半多爬了18级。昨天Veronica和Samir一共爬了多少级台阶？。",
+  "checkpoint": [
+    {
+      "$\\boxed{495}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

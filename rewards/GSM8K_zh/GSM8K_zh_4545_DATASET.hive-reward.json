@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kendra和Laurel有售卖不同品牌鞋子系列的商店。2014年，Kendra的销售额比Laurel少8000美元。然而，2015年，Kendra的销售额比Laurel在2014年多20%。如果Laurel在2014年赚了30000美元，计算Kendra在这两年的总收入。。",
+  "checkpoint": [
+    {
+      "$\\boxed{58000}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：A楼有4层，比B楼少9层。C楼比B楼的层数少6层，是B楼层数的五倍。C楼有多少层？。",
+  "checkpoint": [
+    {
+      "$\\boxed{59}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

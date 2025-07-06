@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Harper有15根橡皮筋。他的弟弟比他少6根橡皮筋。他们一共有多少根橡皮筋？。",
+  "checkpoint": [
+    {
+      "$\\boxed{24}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

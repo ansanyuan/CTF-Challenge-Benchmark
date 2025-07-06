@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Martha购物后，冰箱里有4瓶果汁，食品储藏室里有4瓶果汁。在这一周里，Martha又买了5瓶果汁。如果Martha和她的家人在这一周里喝了3瓶果汁，剩下多少瓶？。",
+  "checkpoint": [
+    {
+      "$\\boxed{10}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

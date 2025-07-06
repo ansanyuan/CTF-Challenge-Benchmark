@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jeremy买了一台价值3000美元的电脑，以及一些配件，价格为电脑价格的10%。如果在购买前，Jeremy的钱是电脑价格的两倍，那么Jeremy有多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{2700}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

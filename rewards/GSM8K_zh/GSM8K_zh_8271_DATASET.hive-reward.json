@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carrie正在计划颂歌表演的时间表。合唱团计划唱两次“Deck the Halls”和一次“Jingle Bells”。如果“Deck the Halls”的时长是150秒，而“Jingle Bells”的时长是240秒，他们将要唱颂歌多长时间？。",
+  "checkpoint": [
+    {
+      "$\\boxed{540}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

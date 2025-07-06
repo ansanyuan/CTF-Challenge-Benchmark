@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kayla和Theresa去买巧克力和苏打汽水。Theresa买的巧克力和苏打汽水的数量是Kayla的两倍。如果Theresa买了12块巧克力和18听苏打汽水，那么Kayla总共买了多少块巧克力和苏打汽水？。",
+  "checkpoint": [
+    {
+      "$\\boxed{15}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

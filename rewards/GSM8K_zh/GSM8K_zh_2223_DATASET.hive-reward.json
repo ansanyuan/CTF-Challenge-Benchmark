@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Selena和Josh在一场比赛中跑步。他们一起跑了36英里。Josh跑了Selena跑的一半的距离。Selena跑了多少英里？。",
+  "checkpoint": [
+    {
+      "$\\boxed{24}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

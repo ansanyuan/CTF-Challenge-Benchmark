@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $ABCD$ be an isosceles trapezoid with $\\overline{AD}||\\overline{BC}$ whose angle at the longer base $\\overline{AD}$ is $\\dfrac{\\pi}{3}$ . The diagonals have length $10\\sqrt {21}$ , and point $E$ is at distances $10\\sqrt {7}$ and $30\\sqrt {7}$ from vertices $A$ and $D$ , respectively. Let $F$ be the foot of the altitude from $C$ to $\\overline{AD}$ . The distance $EF$ can be expressed in the form $m\\sqrt {n}$ , where $m$ and $n$ are positive integers and $n$ is not divisible by the square of any prime. Find $m + n$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{32}$": 1
     }
   ],
   "matchingmethod": [

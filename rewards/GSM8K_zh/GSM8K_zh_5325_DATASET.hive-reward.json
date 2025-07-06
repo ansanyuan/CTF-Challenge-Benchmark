@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Parker和Richie按2:3的比例分配了一笔钱。如果Parker得到了50美元（这是较小的份额），他们一共分得多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{125}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

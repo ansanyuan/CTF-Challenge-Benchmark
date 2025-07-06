@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Stefan、Vail和Aiguo收集了海贝。 Stefan比Vail多16个海贝。 Vail比Aiguo少5个。 Aiguo有20个海贝。这3个孩子总共有多少海贝？。",
+  "checkpoint": [
+    {
+      "$\\boxed{66}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

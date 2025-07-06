@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Haylee的水族箱里有3打孔雀鱼。Jose的鱼缸里有Haylee的一半孔雀鱼。Charliz的鱼缸里有Jose的三分之一。Nicolai的池塘里有Charliz的四倍孔雀鱼。四位朋友总共有多少孔雀鱼？。",
+  "checkpoint": [
+    {
+      "$\\boxed{84}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

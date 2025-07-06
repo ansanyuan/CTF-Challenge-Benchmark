@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：尤里现在养了多少只小狗？。",
+  "checkpoint": [
+    {
+      "$\\boxed{74}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

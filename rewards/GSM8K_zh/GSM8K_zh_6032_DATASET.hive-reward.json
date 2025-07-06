@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sam和Drew的年龄总和为54岁。Sam是Drew年龄的一半。Sam多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{18}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

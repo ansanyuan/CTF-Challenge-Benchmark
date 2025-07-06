@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Small Tree School有96名四年级学生。其中43名是女孩。周五，有5名四年级女孩和4名四年级男孩缺席。周五有多少名四年级男孩在Small Tree School？。",
+  "checkpoint": [
+    {
+      "$\\boxed{49}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

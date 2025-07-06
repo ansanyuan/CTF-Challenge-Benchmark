@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Meso可以在5分钟内打字15页。Tyler可以在3分钟内打字相同的15页。Meso和Tyler一起打字40页需要多少分钟？。",
+  "checkpoint": [
+    {
+      "$\\boxed{5}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

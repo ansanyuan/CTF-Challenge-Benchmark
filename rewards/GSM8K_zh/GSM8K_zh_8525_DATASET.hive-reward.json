@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ingrid每天喝8杯水。如果一加仑有16杯水，那么她30天内喝了多少加仑的水？。",
+  "checkpoint": [
+    {
+      "$\\boxed{15}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

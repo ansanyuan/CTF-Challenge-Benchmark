@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Find $x^2+y^2_{}$ if $x_{}^{}$ and $y_{}^{}$ are positive integers such that \\begin{align*} xy+x+y&=71, \\\\ x^2y+xy^2&=880. \\end{align*}",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{146}$": 1
     }
   ],
   "matchingmethod": [

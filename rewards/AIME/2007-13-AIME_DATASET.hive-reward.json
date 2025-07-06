@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：A triangular array of squares has one square in the first row, two in the second, and in general, $k$ squares in the $k$ th row for $1 \\leq k \\leq 11.$ With the exception of the bottom row, each square rests on two squares in the row immediately below (illustrated in given diagram). In each square of the eleventh row, a $0$ or a $1$ is placed. Numbers are then placed into the other squares, with the entry for each square being the sum of the entries in the two squares below it. For how many initial distributions of $0$ 's and $1$ 's in the bottom row is the number in the top square a multiple of $3$ ? [asy] for (int i=0; i<12; ++i){  for (int j=0; j<i; ++j){    //dot((-j+i/2,-i));    draw((-j+i/2,-i)--(-j+i/2+1,-i)--(-j+i/2+1,-i+1)--(-j+i/2,-i+1)--cycle);  } } [/asy]",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{640}$": 1
     }
   ],
   "matchingmethod": [

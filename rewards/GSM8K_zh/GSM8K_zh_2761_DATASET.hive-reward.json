@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Joel今年5岁，他爸爸今年32岁。当他爸爸的年龄是他的两倍时，Joel多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{27}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

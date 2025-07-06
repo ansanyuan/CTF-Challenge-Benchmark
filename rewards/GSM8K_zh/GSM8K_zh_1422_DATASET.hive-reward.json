@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Xavier需要84个纸盘举办一个乔迁派对。他已经有21个绿色的盘子和28个红色的盘子。Xavier还应该再买多少个盘子？。",
+  "checkpoint": [
+    {
+      "$\\boxed{35}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

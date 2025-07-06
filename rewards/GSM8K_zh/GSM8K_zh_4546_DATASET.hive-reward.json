@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mandy比Jackson大十岁。Adele的年龄是Jackson的3/4。如果Jackson现在20岁，那么他们三个人十年后的年龄总和是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{95}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

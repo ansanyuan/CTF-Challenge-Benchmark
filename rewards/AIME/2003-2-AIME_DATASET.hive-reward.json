@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $N$ be the greatest integer multiple of 8, whose digits are all different. What is the remainder when $N$ is divided by 1000?",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{120}$": 1
     }
   ],
   "matchingmethod": [

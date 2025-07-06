@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Ten chairs are arranged in a circle. Find the number of subsets of this set of chairs that contain at least three adjacent chairs. ",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{581}$": 1
     }
   ],
   "matchingmethod": [

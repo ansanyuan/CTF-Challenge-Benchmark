@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Compute $\\sqrt{(31)(30)(29)(28)+1}$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{869}$": 1
     }
   ],
   "matchingmethod": [

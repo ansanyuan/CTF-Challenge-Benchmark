@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Find the largest possible value of $k$ for which $3^{11}$ is expressible as the sum of $k$ consecutive positive integers.",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{486}$": 1
     }
   ],
   "matchingmethod": [

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：每完成一个小任务，Jairus得到0.8美元，而Jenny得到0.5美元。如果他们每人完成了20个任务，Jairus将比Jenny多得多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{6}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

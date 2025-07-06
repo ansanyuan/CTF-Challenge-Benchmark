@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Given that $z$ is a complex number such that $z+\\frac 1z=2\\cos 3^\\circ$ , find the least integer that is greater than $z^{2000}+\\frac 1{z^{2000}}$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{0}$": 1
     }
   ],
   "matchingmethod": [

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Greg的PPO算法在CoinRun环境中获得了可能奖励的90%。CoinRun的最大奖励是ProcGen最大奖励的一半，ProcGen最大奖励是240。Greg的PPO算法获得了多少奖励？。",
+  "checkpoint": [
+    {
+      "$\\boxed{108}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

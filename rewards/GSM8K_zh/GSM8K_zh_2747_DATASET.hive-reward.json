@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Al比Ben重25磅。Ben比Carl轻16磅。如果Ed重146磅，比Al轻38磅，找出Carl的体重。。",
+  "checkpoint": [
+    {
+      "$\\boxed{175}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Stacy比Steve多2个，是Steve的三倍。Steve比Skylar的一半还少。如果Skylar有20个浆果，Stacy有多少个浆果？。",
+  "checkpoint": [
+    {
+      "$\\boxed{32}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

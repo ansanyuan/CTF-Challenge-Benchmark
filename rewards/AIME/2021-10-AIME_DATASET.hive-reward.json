@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Two spheres with radii $36$ and one sphere with radius $13$ are each externally tangent to the other two spheres and to two different planes $\\mathcal{P}$ and $\\mathcal{Q}$ . The intersection of planes $\\mathcal{P}$ and $\\mathcal{Q}$ is the line $\\ell$ . The distance from line $\\ell$ to the point where the sphere with radius $13$ is tangent to plane $\\mathcal{P}$ is $\\tfrac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{335}$": 1
     }
   ],
   "matchingmethod": [

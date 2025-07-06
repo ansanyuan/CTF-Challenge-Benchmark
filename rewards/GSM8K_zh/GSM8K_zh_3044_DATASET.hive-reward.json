@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mark一天开始有14个纽扣。他的朋友Shane给了他3倍于那个数量的纽扣。然后他的另一个朋友Sam问他是否可以拿走Mark一半的纽扣。Mark最后有多少个纽扣？。",
+  "checkpoint": [
+    {
+      "$\\boxed{28}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

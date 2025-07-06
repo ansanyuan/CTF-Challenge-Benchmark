@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ibrahim想要买一个价值120欧元的MP3播放器和一个价值19欧元的CD。他有55欧元的存款。他的父亲参与了他的购买，给了他20欧元。Ibrahim缺多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{64}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

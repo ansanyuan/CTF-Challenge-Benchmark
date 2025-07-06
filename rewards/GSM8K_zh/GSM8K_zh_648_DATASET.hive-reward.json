@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Quinton在他的生日时带了40个纸杯蛋糕到学校。他给了Ms. Delmont班级的18名学生每人一个纸杯蛋糕。他还给了Mrs. Donnelly班级的16名学生每人一个纸杯蛋糕。他还给了Ms. Delmont、Mrs. Donnelly、学校护士和学校校长每人一个纸杯蛋糕。他剩下多少个纸杯蛋糕？。",
+  "checkpoint": [
+    {
+      "$\\boxed{2}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

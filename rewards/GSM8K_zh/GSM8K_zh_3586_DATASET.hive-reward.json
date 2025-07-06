@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Colt和Curt准备好了113份饭菜捐赠给慈善机构。出乎意料的是，Sole Mart提供了额外的50份饭菜。如果Colt和Curt已经分发了85份饭菜，还剩下多少份饭菜需要分发？。",
+  "checkpoint": [
+    {
+      "$\\boxed{78}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

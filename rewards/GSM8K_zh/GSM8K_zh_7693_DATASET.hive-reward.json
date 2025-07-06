@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：四个学生在一款棋盘游戏中总共得了251分。Naomi得了68分。Yuri得的分数是Naomi的一半再多10分，而Brianna得的分数比Naomi多17分。Jojo得了多少分？。",
+  "checkpoint": [
+    {
+      "$\\boxed{54}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

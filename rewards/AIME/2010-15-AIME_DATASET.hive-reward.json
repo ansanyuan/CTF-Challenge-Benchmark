@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：In triangle $ABC$ , $AC=13$ , $BC=14$ , and $AB=15$ . Points $M$ and $D$ lie on $AC$ with $AM=MC$ and $\\angle ABD = \\angle DBC$ . Points $N$ and $E$ lie on $AB$ with $AN=NB$ and $\\angle ACE = \\angle ECB$ . Let $P$ be the point, other than $A$ , of intersection of the circumcircles of $\\triangle AMN$ and $\\triangle ADE$ . Ray $AP$ meets $BC$ at $Q$ . The ratio $\\frac{BQ}{CQ}$ can be written in the form $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m-n$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{218}$": 1
     }
   ],
   "matchingmethod": [

@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：A set contains four numbers. The six pairwise sums of distinct elements of the set, in no particular order, are $189$ , $320$ , $287$ , $234$ , $x$ , and $y$ . Find the greatest possible value of $x+y$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{791}$": 1
     }
   ],
   "matchingmethod": [

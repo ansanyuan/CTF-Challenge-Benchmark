@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Amy, Jeremy和Chris的年龄总和为132岁。Amy的年龄是Jeremy的1/3，Chris的年龄是Amy的两倍。Jeremy多大？。",
+  "checkpoint": [
+    {
+      "$\\boxed{66}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

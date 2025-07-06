@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $A$ and $B$ be the endpoints of a semicircular arc of radius $2$ . The arc is divided into seven congruent arcs by six equally spaced points $C_1,C_2,\\dots,C_6$ . All chords of the form $\\overline{AC_i}$ or $\\overline{BC_i}$ are drawn. Let $n$ be the product of the lengths of these twelve chords. Find the remainder when $n$ is divided by $1000$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{672}$": 1
     }
   ],
   "matchingmethod": [

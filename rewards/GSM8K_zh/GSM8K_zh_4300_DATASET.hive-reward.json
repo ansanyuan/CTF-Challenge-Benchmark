@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kelsey带了她的2/5个托盘鸡蛋去Willa的派对。Stephanie也带了半个托盘的鸡蛋去派对，而Alayah比Kelsey和Stephanie的鸡蛋总数多40个。如果Willa已经有两个托盘的鸡蛋，计算派对上使用的鸡蛋总数。。",
+  "checkpoint": [
+    {
+      "$\\boxed{154}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

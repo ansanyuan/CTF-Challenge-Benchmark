@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：What is the largest positive integer $n$ for which there is a unique integer $k$ such that $\\frac{8}{15} < \\frac{n}{n + k} < \\frac{7}{13}$ ?",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{112}$": 1
     }
   ],
   "matchingmethod": [

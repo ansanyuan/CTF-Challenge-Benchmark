@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Gestures For Good公园的大象数量是We Preserve For Future公园大象数量的3倍。如果We Preserve For Future公园有70头大象，请计算两个公园的大象总数。。",
+  "checkpoint": [
+    {
+      "$\\boxed{280}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

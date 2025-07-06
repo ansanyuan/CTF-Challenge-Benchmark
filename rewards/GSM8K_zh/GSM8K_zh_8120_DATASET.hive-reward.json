@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alisa每小时骑行12英里，骑行了4.5小时。Stanley每小时骑行10英里，骑行了2.5小时。Alisa和Stanley总共骑行了多少英里？。",
+  "checkpoint": [
+    {
+      "$\\boxed{79}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

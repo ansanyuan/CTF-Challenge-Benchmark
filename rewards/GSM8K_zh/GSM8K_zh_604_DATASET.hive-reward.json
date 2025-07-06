@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Alyssa和Abigail需要收集100个空罐子用于他们的科学项目。截止到今天，Alyssa收集了30个，而Abigail收集了43个空罐子。他们还应该再收集多少个空罐子？。",
+  "checkpoint": [
+    {
+      "$\\boxed{27}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

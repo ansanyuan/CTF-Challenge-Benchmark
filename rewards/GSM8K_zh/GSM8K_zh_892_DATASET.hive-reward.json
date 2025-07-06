@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lavinia的女儿比Katie的女儿小10岁。Lavinia的儿子的年龄是Katie的女儿的两倍。如果Katie的女儿今年12岁，Lavinia的儿子比Lavinia的女儿大多少岁？。",
+  "checkpoint": [
+    {
+      "$\\boxed{22}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

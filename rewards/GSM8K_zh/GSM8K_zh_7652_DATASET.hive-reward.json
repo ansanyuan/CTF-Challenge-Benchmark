@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rani的螃蟹比Monic多10只，而Monic的螃蟹比Bo少4只。如果Bo有40只螃蟹，计算三人共有多少只螃蟹。。",
+  "checkpoint": [
+    {
+      "$\\boxed{122}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

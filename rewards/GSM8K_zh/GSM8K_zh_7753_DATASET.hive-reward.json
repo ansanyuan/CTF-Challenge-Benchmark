@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ruby的年龄是Sam的6倍。9年后，Ruby的年龄将是Sam的3倍。Sam现在多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{6}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

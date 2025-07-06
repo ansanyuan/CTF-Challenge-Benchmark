@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Four lighthouses are located at points $A$ , $B$ , $C$ , and $D$ . The lighthouse at $A$ is $5$ kilometers from the lighthouse at $B$ , the lighthouse at $B$ is $12$ kilometers from the lighthouse at $C$ , and the lighthouse at $A$ is $13$ kilometers from the lighthouse at $C$ . To an observer at $A$ , the angle determined by the lights at $B$ and $D$ and the angle determined by the lights at $C$ and $D$ are equal. To an observer at $C$ , the angle determined by the lights at $A$ and $B$ and the angle determined by the lights at $D$ and $B$ are equal. The number of kilometers from $A$ to $D$ is given by $\\frac{p\\sqrt{r}}{q}$ , where $p$ , $q$ , and $r$ are relatively prime positive integers, and $r$ is not divisible by the square of any prime. Find $p+q+r$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{96}$": 1
     }
   ],
   "matchingmethod": [

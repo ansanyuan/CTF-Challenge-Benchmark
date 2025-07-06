@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Mohammad有80袋薯片。四分之一的薯片袋是Doritos。如果Mohammad想把Doritos的袋子分成4等份，每份会有多少袋Doritos？。",
+  "checkpoint": [
+    {
+      "$\\boxed{5}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

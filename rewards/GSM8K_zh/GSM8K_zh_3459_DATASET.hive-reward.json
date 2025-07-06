@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Jake每周投递234份报纸。Miranda每周投递的报纸是Jake的两倍。Miranda每月比Jake多投递多少份报纸？。",
+  "checkpoint": [
+    {
+      "$\\boxed{936}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

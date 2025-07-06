@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marlene想买半打衬衫以享受折扣。一件衬衫的正价是50美元，现在打8折。Marlene要为这些衬衫支付多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{240}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

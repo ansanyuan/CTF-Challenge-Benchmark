@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Collin有25朵花。Ingrid给了Collin她33朵花的三分之一。如果每朵花有4片花瓣，Collin总共有多少片花瓣？。",
+  "checkpoint": [
+    {
+      "$\\boxed{144}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

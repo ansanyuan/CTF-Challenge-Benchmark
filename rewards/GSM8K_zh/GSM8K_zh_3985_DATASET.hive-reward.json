@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Judson, Camilo, and Kenny决定共同出钱为他们的房子涂漆。Judson出了500美元，Kenny出的钱比Judson多20%，Camilo比Kenny多出了200美元。涂房子的费用是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{1900}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

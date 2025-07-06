@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：所有名为Barry的人都很友善，而只有一半名为Kevin的人是友善的。三分之四名为Julie的人是友善的，而名为Joe的人中只有10%是友善的。如果一群人中有24个名为Barry的人，20个名为Kevin的人，80个名为Julie的人和50个名为Joe的人，这群人中有多少友善的人？。",
+  "checkpoint": [
+    {
+      "$\\boxed{99}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

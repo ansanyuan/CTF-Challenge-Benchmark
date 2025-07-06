@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Robby、Jaylen和Miranda在一家芝士蛋糕工厂工作，每小时赚10美元。他们每天工作10小时，一周工作5天。Robby存下了他工资的2/5，Jaylene存下了他工资的3/5，而Miranda存下了她工资的一半。四周后，三名员工的总存款是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{3000}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kylie和Kayla一起摘苹果，总共带回了340个苹果。如果Kayla比Kylie摘的苹果数量多了10个，那么Kayla摘了多少个苹果？。",
+  "checkpoint": [
+    {
+      "$\\boxed{274}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Vins骑自行车去学校6英里。他沿着另一条长7英里的路回家。本周，Vins骑车去学校和回家5次。Vins本周骑了多少英里？。",
+  "checkpoint": [
+    {
+      "$\\boxed{65}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

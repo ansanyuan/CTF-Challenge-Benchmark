@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Carmen之前有28只猫和18只狗，然后她送走了3只猫。现在Carmen比狗多了多少只猫？。",
+  "checkpoint": [
+    {
+      "$\\boxed{7}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

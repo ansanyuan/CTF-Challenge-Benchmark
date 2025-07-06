@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Bianca上周末工作了12.5小时。Celeste工作时间是Bianca的两倍，而McClain比Celeste少工作了8.5小时。这三个人总共工作了多少分钟？。",
+  "checkpoint": [
+    {
+      "$\\boxed{3240}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

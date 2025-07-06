@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Lisa、Jack和Tommy一整周洗车赚了60美元。然而，60美元中有一半是Lisa赚的。Tommy赚了Lisa赚的一半。Lisa比Tommy多赚了多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{15}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

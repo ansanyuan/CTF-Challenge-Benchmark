@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Amber、Micah和Ahito总共跑了52英里。Amber跑了8英里。Micah跑的是Amber跑的3.5倍。Ahito跑了多少英里？。",
+  "checkpoint": [
+    {
+      "$\\boxed{16}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Hearty买了3包蓝色和5包红色的珠子。如果每包里有40颗珠子，Hearty一共有多少颗珠子？。",
+  "checkpoint": [
+    {
+      "$\\boxed{320}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

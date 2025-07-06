@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dominick去了他队伍的更衣室，看到的机器人数量是头盔的一半，头盔的数量是足球的一半。如果有20个头盔，计算Dominick看到的物品总数。。",
+  "checkpoint": [
+    {
+      "$\\boxed{70}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

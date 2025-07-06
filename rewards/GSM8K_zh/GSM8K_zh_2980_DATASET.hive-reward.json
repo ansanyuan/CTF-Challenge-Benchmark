@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Barbeck有Steve的两倍吉他，但Davey有Barbeck的三倍吉他。如果总共有27把吉他，Davey有多少把吉他？。",
+  "checkpoint": [
+    {
+      "$\\boxed{18}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

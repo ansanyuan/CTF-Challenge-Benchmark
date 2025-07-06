@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Delores有450美元。她买了一台价值400美元的电脑和一台价值40美元的打印机。Delores还剩下多少美元？。",
+  "checkpoint": [
+    {
+      "$\\boxed{10}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

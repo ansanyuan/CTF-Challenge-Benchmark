@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Moore一家比较了手机套餐，以获得最优惠的交易。在T-Mobile，家庭套餐每月前两条线路的费用为50美元，每条额外线路为16美元。在M-Mobile，家庭套餐前两条线路的费用为45美元，每条额外线路为14美元。Moore一家需要购买5条手机线路。M-Mobile比T-Mobile便宜多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{11}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

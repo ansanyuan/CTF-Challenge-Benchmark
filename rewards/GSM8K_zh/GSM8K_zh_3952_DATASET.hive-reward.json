@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kelsey在1999年满25岁。她的姐姐比Kelsey大3岁。现在是2021年。Kelsey的姐姐多大了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{50}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

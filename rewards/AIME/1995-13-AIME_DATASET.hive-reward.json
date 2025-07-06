@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $f(n)$ be the integer closest to $\\sqrt[4]{n}.$ Find $\\sum_{k=1}^{1995}\\frac 1{f(k)}.$",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{400}$": 1
     }
   ],
   "matchingmethod": [

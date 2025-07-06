@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Rodney, Roger和Ron一共可以举起239磅的重量。Rodney可以举起的重量是Roger的两倍，而Roger可以举起的重量比Ron的四倍少7磅。Rodney可以举起多少重量？。",
+  "checkpoint": [
+    {
+      "$\\boxed{146}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

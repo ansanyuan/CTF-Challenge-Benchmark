@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Roselyn给Mara的书是她给Rebecca的三倍，她剩下60本书。如果Rebecca收到了40本书，Roselyn之前有多少本书？。",
+  "checkpoint": [
+    {
+      "$\\boxed{220}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Sam、Sid和Steve为艺术课的小组活动带来了冰棒棍。Sam的数量是Sid的三倍，Sid的数量是Steve的两倍。如果Steve有12根冰棒棍，他们可以用多少根冰棒棍进行艺术课的活动？。",
+  "checkpoint": [
+    {
+      "$\\boxed{108}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

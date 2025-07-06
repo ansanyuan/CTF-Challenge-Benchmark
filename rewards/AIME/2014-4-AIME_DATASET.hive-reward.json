@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：The repeating decimals $0.abab\\overline{ab}$ and $0.abcabc\\overline{abc}$ satisfy $0.abab\\overline{ab}+0.abcabc\\overline{abc}=\\frac{33}{37},$ where $a$ , $b$ , and $c$ are (not necessarily distinct) digits. Find the three digit number $abc$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{447}$": 1
     }
   ],
   "matchingmethod": [

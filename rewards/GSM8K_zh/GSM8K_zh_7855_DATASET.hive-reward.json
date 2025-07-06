@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Cho每小时徒步14公里，共徒步了8小时。Chloe每小时徒步9公里，5小时后停下来。Cho徒步的距离比Chloe多了多少公里？。",
+  "checkpoint": [
+    {
+      "$\\boxed{67}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

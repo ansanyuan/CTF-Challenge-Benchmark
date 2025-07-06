@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Dina的娃娃数量是多少，如果Ivy有20个收藏版娃娃？。",
+  "checkpoint": [
+    {
+      "$\\boxed{60}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

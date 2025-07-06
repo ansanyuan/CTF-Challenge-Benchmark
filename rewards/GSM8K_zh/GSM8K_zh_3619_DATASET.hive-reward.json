@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Maurice每完成一个任务会得到2美元。而每完成10个任务，他会得到6美元的奖金。如果Maurice完成30个任务，他会赚多少钱？。",
+  "checkpoint": [
+    {
+      "$\\boxed{78}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

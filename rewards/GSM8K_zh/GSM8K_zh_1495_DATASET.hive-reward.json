@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Micah的水族箱里有7条鱼。 Kenneth的水族箱里有Micah的三倍鱼，而Matthias的水族箱里比Kenneth少15条鱼。这几个男孩总共有多少条鱼？。",
+  "checkpoint": [
+    {
+      "$\\boxed{34}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

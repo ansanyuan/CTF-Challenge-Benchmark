@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Arianna种了一个花园，里面有10排花，每排有20朵花。目前，只有4/5的种植的花开了。Arianna的花园里有多少朵花开了？。",
+  "checkpoint": [
+    {
+      "$\\boxed{160}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

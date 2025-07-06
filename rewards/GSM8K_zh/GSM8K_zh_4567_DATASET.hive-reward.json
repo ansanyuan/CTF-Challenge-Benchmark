@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Zion今年8岁，他的爸爸比他的年龄大4倍再加3岁。10年后，Zion的爸爸比他大多少岁？。",
+  "checkpoint": [
+    {
+      "$\\boxed{27}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

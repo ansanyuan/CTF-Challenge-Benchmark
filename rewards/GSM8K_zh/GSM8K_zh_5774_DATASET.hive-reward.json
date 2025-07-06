@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Ravenswood森林的侏儒数量是Westerville树林的四倍。如果Westerville树林有20个侏儒，如果有40%的侏儒被森林主人使用，Ravenswood森林会剩下多少侏儒？。",
+  "checkpoint": [
+    {
+      "$\\boxed{48}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

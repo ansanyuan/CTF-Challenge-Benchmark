@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kaplan夫人有Bobby的1/4披萨片数量。如果Bobby有2个披萨，每个披萨有6片，那么Kaplan夫人有多少片？。",
+  "checkpoint": [
+    {
+      "$\\boxed{3}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

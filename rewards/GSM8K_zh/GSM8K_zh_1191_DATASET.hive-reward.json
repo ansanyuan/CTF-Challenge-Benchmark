@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Kiarra的年龄是Bea的两倍。Job比Bea大三倍。Figaro比Job大7岁。Harry比Figaro小一半。如果Kiarra是30岁，那么Harry多大？。",
+  "checkpoint": [
+    {
+      "$\\boxed{26}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Timothy和Theresa经常去看电影。 Timothy在2010年比2009年多看了7次电影。 2009年，Timothy去看了24次电影。 2010年，Theresa看的电影是Timothy的两倍，但在2009年，她只看了他的一半。 Timothy和Theresa在2009年和2010年一共去了多少次电影？。",
+  "checkpoint": [
+    {
+      "$\\boxed{129}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

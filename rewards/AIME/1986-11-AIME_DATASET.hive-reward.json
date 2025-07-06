@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：The polynomial $1-x+x^2-x^3+\\cdots+x^{16}-x^{17}$ may be written in the form $a_0+a_1y+a_2y^2+\\cdots +a_{16}y^{16}+a_{17}y^{17}$ , where $y=x+1$ and the $a_i$ 's are constants. Find the value of $a_2$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{816}$": 1
     }
   ],
   "matchingmethod": [

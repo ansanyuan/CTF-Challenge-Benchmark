@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Marion的自行车价值356美元。Stephanie的自行车价值Marion的两倍。他们两个自行车的总价值是多少？。",
+  "checkpoint": [
+    {
+      "$\\boxed{1068}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

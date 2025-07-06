@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Darrell和Allen的年龄比是7:11。如果他们现在的总年龄是162岁，计算10年后Allen的年龄。。",
+  "checkpoint": [
+    {
+      "$\\boxed{109}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

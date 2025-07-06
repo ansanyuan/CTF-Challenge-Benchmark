@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Samuel花了30分钟完成他的家庭作业，而Sarah花了1.3小时完成。Samuel比Sarah快了多少分钟？。",
+  "checkpoint": [
+    {
+      "$\\boxed{48}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

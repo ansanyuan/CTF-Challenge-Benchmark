@@ -1,0 +1,11 @@
+{
+  "topic": "回答下面的数学问题：Tina的教室和Maura的教室有相同数量的学生。Zack的教室有Tina和Maura教室学生总数的一半。如果Zack生病时他的班级有22名学生，那么三个教室一共有多少学生？。",
+  "checkpoint": [
+    {
+      "$\\boxed{69}$": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

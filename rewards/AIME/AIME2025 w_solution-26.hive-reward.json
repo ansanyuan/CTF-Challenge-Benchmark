@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $A_1A_2\\dots A_{11}$ be a non-convex $11$-gon such that The area of $A_iA_1A_{i+1}$ is $1$ for each $2 \\le i \\le 10$, $\\cos(\\angle A_iA_1A_{i+1})=\\\frac{12}{13}$ for each $2 \\le i \\le 10$, The perimeter of $A_1A_2\\dots A_{11}$ is $20$. If $A_1A_2+A_1A_{11}$ can be expressed as $\\\frac{m\\sqrt{n}-p}{q}$ for positive integers $m,n,p,q$ with $n$ squarefree and $\\gcd(m,p,q)=1$, find $m+n+p+q$.",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{19}$": 1
     }
   ],
   "matchingmethod": [

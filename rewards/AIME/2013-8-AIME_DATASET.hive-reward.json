@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：A hexagon that is inscribed in a circle has side lengths $22$ , $22$ , $20$ , $22$ , $22$ , and $20$ in that order. The radius of the circle can be written as $p+\\sqrt{q}$ , where $p$ and $q$ are positive integers. Find $p+q$ .",
   "checkpoint": [
     {
-      "$\\boxed{{{key}}}$": 1
+      "$\\boxed{272}$": 1
     }
   ],
   "matchingmethod": [
