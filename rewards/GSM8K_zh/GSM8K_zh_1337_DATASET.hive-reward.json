@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jason在附近剪一块草坪需要30分钟。如果他在周六和周日各剪8块草坪，他剪草花了多少小时？。",
+  "topic": "回答下面的数学问题：It takes Jason 30 minutes to cut 1 lawn in his neighborhood.  If he cuts 8 yards on both Saturday and Sunday, how many hours does he spend cutting grass?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

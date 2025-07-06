@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：五个人正在筹划一个派对。索尼娅将购买一条法式面包（每条3美元）和一盘冷切肉（23美元）。芭芭拉将购买苏打水（每人1美元）和两盒饼干（每盒2美元）。马里奥和瑞克将分担两包奶酪爆米花的费用（每包3美元）。丹尼卡将提供一包纸盘，价格为4美元。索尼娅将比其他人一起花费多少钱？。",
+  "topic": "回答下面的数学问题：Five people are planning a party. Sonja will buy a loaf of French bread ($3 a loaf) and a platter of cold cuts ($23). Barbara will buy the soda ($1 per person) and two boxes of crackers ($2 per box). Mario and Rick will split the cost of two packages of Cheese Doodles ($3 per package). Danica will supply a package of paper plates for $4. How much more will Sonja spend than the rest of the office put together?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

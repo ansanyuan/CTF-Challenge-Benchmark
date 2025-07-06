@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：海斯每周洗3次衣服，每次使用一颗洗衣粉囊。他的洗衣粉囊一包有39颗。他一年需要多少包洗衣粉囊才能完成一整年的洗衣？。",
+  "topic": "回答下面的数学问题：Hayes does 3 loads of laundry a week using a detergent pod for each load.  His detergent pods come 39 to a pack.  How many packs of detergent pods will he need to do a full year of laundry?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

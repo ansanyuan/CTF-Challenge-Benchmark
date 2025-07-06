@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡罗尔在开车回大学的路上加满了油箱，距离大学有220英里。她的车每加仑可以行驶20英里，油箱容量为16加仑。她回到家后，不再加油，她还能再行驶多少英里？。",
+  "topic": "回答下面的数学问题：Carol fills up her gas tank as she is driving home for college, which is 220 miles away. She can get 20 miles to the gallon in her car, which has a 16-gallon gas tank. How many more miles will she be able to drive after she gets home and without filling her tank again?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

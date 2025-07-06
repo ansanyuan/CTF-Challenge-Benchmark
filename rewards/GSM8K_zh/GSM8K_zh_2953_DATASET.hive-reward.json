@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每5个人参加一次诗歌课，老师就给其中一个学生一个棒棒糖。如果有45个人上课，然后又有15个人过了一会儿来，老师一共送出了多少个棒棒糖？。",
+  "topic": "回答下面的数学问题：For every 5 people that attend a poetry class, the teacher gives one of the students a lollipop. If 45 people show up for class, then another 15 come in a while later, how many lollipops did the teacher give away?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米莉正在为她的舞蹈团制作羽毛围巾。每只火烈鸟有20根尾羽，一次只能安全地拔下它们尾羽的25%。如果米莉需要制作12条围巾，每条围巾有200根羽毛，她需要收获多少只火烈鸟？。",
+  "topic": "回答下面的数学问题：Milly is making feather boas for her dance team. Each flamingo has 20 tail feathers, and it's only safe to pluck 25% of their tail feathers at one time. If Milly needs to make 12 boas, and each boa has 200 feathers, how many flamingoes does she need to harvest?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

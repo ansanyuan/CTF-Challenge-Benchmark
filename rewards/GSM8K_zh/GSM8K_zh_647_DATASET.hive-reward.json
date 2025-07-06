@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一辆公共汽车的容量为200人。如果它在从A市到B市的第一次旅行中载客量为其容量的3/4，在返回旅行中为其容量的4/5，计算这两次旅行中公共汽车总共载客人数是多少？。",
+  "topic": "回答下面的数学问题：A bus has a capacity of 200 people. If it carried 3/4 of its capacity on its first trip from city A to city B and 4/5 of its capacity on its return trip, calculate the total number of people the bus carried on the two trips?",
   "checkpoint": [
     {
-      "$\\boxed{310}$": 1
+      "\\boxed{310}": 1
     }
   ],
   "matchingmethod": [

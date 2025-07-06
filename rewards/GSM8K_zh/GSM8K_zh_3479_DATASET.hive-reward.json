@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：帕特正在为棉花糖购买材料。他和他的朋友们每人吃3个棉花糖。总共有8个人。制作4个棉花糖的材料费用为3美元。购买所有材料将花费多少钱？。",
+  "topic": "回答下面的数学问题：Pat is buying supplies for S'mores. He and his friends will each eat 3 S'mores. There are 8 of them in total. It costs $3 in supplies to make 4 S'mores. How much will it cost to buy all the supplies?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

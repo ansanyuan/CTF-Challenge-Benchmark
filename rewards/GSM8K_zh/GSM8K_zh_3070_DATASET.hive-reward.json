@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽安在贝拉8岁时20岁。当贝拉18岁时，玛丽安多大？。",
+  "topic": "回答下面的数学问题：Marianne was 20 years old when Bella was 8 years old. How old will Marianne be when Bella turns 18?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

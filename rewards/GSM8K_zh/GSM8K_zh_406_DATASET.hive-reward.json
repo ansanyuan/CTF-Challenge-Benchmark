@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一条河将用于划船比赛。如果每艘船宽3英尺，它们之间或河岸必须至少有2英尺的间隔，那么在宽42英尺的河中可以有多少艘船参加比赛？。",
+  "topic": "回答下面的数学问题：A river is to be used for a boat race. If each boat is 3 feet across and they must have at least 2 feet between them or the riverbank, how many boats can race in a river that is 42 feet across?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

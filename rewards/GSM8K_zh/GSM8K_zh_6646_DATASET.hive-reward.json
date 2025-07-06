@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：桑德罗有六倍于儿子数量的女儿。如果他目前有三个儿子，他一共有多少个孩子？。",
+  "topic": "回答下面的数学问题：Sandro has six times as many daughters as sons. If he currently has three sons, how many children does he have?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

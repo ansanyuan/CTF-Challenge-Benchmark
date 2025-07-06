@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Find $3x^2 y^2$ if $x$ and $y$ are integers such that $y^2 + 3x^2 y^2 = 30x^2 + 517$ .",
   "checkpoint": [
     {
-      "$\\boxed{588}$": 1
+      "\\boxed{588}": 1
     }
   ],
   "matchingmethod": [

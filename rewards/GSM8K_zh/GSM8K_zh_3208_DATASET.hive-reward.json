@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周日早上，约瑟芬在农场小摊上卖牛奶。买家带来了自己的容器。她用每个容器装了两升的牛奶三个，每个容器装了0.75升的牛奶两个，每个容器装了0.5升的牛奶五个。约瑟芬总共卖了多少升的牛奶？。",
+  "topic": "回答下面的数学问题：On a Sunday morning, Josephine sold milk in the farm stall. The buyers brought their containers. She filled three containers with two liters each, two containers with 0.75 liters each, and five containers with 0.5 liters each. How many liters of milk did Josephine sell in total?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

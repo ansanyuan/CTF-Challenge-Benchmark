@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：星际谜团号上的新奇商店出售杂志和巧克力。 四块巧克力的成本等于8本杂志的成本。 如果一本杂志的价格是1美元，那么一打巧克力的成本是多少美元？。",
+  "topic": "回答下面的数学问题：The novelty shop on the Starship Conundrum sells magazines and chocolates.  The cost of four chocolate bars is equal to the cost of 8 magazines.  If one magazine costs $1, how much does a dozen chocolate bars cost, in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

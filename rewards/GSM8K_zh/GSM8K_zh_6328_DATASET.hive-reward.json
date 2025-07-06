@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在480名员工中，有10%的员工获得了薪水增加，而有20%的员工获得了差旅津贴增加。没有获得任何增加的员工有多少人？。",
+  "topic": "回答下面的数学问题：Out of 480 employees, 10% got a salary increase while 20% got a travel allowance increase. How many employees did not get any increase?",
   "checkpoint": [
     {
-      "$\\boxed{336}$": 1
+      "\\boxed{336}": 1
     }
   ],
   "matchingmethod": [

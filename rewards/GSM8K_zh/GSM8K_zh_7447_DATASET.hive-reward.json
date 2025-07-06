@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在某所学校，三分之二的男学生喜欢打篮球，但只有五分之一的女学生喜欢打篮球。如果男女学生的比例为3:2，学校有1000名学生，那么学校中不喜欢打篮球的人口占比是多少？。",
+  "topic": "回答下面的数学问题：In a certain school, 2/3 of the male students like to play basketball, but only 1/5 of the female students like to play basketball. What percent of the population of the school do not like to play basketball if the ratio of the male to female students is 3:2 and there are 1000 students?",
   "checkpoint": [
     {
-      "$\\boxed{52}$": 1
+      "\\boxed{52}": 1
     }
   ],
   "matchingmethod": [

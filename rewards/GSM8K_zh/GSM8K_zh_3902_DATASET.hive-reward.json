@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史蒂文的老师给全班布置了一个任务，收集60种不同的水果种子。苹果平均有6颗种子，梨平均有2颗种子，葡萄平均有3颗种子。史蒂文准备了4个苹果，3个梨和9颗葡萄来提取它们的种子。他还需要多少颗种子才能完成任务？。",
+  "topic": "回答下面的数学问题：Steven's teacher sends the class an assignment to collect 60 different fruit seeds. Apples average 6 seeds, pears average 2 seeds, and grapes average 3 seeds. Steven has set aside 4 apples, 3 pears, and 9 grapes to extract their seeds. How many more seeds does he need to fulfill his assignment?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

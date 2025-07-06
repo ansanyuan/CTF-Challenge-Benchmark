@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每天，比利烤了11天的南瓜派，然后把它们放在冰箱里。覆盖一个派需要2罐奶油。如果蒂凡尼过来吃了4个派，比利需要买多少罐奶油来覆盖剩下的派？。",
+  "topic": "回答下面的数学问题：Every day, Billie bakes 3 pumpkin pies for 11 days and puts them in the refrigerator.  It takes 2 cans of whipped cream to cover 1 pie.  If Tiffany comes over and eats 4 pies, how many cans of whipped cream does Billie need to buy to cover the remaining pies?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

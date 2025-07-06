@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carly正在用隔夜快递给她的奶奶寄送一些新鲜出炉的饼干。运费等于固定的5.00美元费用加上每磅重量的0.80美元。如果包裹重5磅，Carly为运费支付了多少钱？。",
+  "topic": "回答下面的数学问题：Carly is overnight shipping some fresh-baked cookies to her grandma. The shipping cost is equal to a flat $5.00 fee plus $0.80 per pound of weight. If the package weighs 5 pounds, how much does Carly pay for shipping?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

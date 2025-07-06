@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一周内，有450辆车通过了一个收费站。星期一有50辆车通过了收费站，星期二也有同样数量的车通过了收费站。在接下来的星期三和星期四，通过收费站的车辆数量是星期一通过的车辆数量的两倍。如果在本周剩下的日子里，通过收费站的车辆数量相等，请计算在每个剩下的日子里通过收费站的车辆的总数。。",
+  "topic": "回答下面的数学问题：In a week, 450 cars drove through a toll booth. Fifty vehicles went through the toll booth on Monday and the same number of vehicles drove through the toll booth on Tuesday. On each of Wednesday and Thursday, twice the number of cars that passed through the toll booth on Monday went through the toll booth. If, for the remaining of the days of the week, an equal number of vehicles passed through the toll booth, calculate the total number of cars that passed the toll both in each of the remaining days.",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

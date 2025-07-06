@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：加勒特正在为零食爆米花。随着锅中的玉米粒加热，玉米粒开始越爆越快。在烹饪的前30秒内，有20粒爆开，然后在接下来的30秒内，爆开的数量是之前的三倍。在接下来的30秒内，爆开的速率增加到最初的四倍，但在最后30秒内，爆开的速度减慢到前30秒的一半。加勒特将锅从热源上拿下后，最后30秒内爆开的玉米粒数量的四分之一也因残余热量而爆开。加勒特有多少爆米花可以吃？。",
+  "topic": "回答下面的数学问题：Garrett is popping popcorn for a snack. As the pan of kernels heats up, the kernels start popping faster. Twenty pop in the first 30 seconds of cooking, then three times that amount in the next 30 seconds. The kernels increase to four times the initial popping rate in the next thirty seconds, but in the final 30 seconds, the popping slows down to half the rate as the past 30 seconds. After Garrett takes the pan off the heat, a quarter of the number of kernels that popped in the final 30 seconds of cooking also pop from the residual heat. How many pieces of popcorn does Garrett have to eat?",
   "checkpoint": [
     {
-      "$\\boxed{210}$": 1
+      "\\boxed{210}": 1
     }
   ],
   "matchingmethod": [

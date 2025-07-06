@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗比每周跟踪他的营养摄入。他早上吃3杯米饭，下午吃2杯米饭，晚上吃5杯米饭。如果一杯米饭含有10克脂肪，罗比一周摄入多少克脂肪？。",
+  "topic": "回答下面的数学问题：Robbie is tracking his nutrition intake per week. He eats 3 cups of rice in the morning, 2 cups of rice in the afternoon, and 5 cups of rice in the evening. If a cup of rice has 10 grams of fat, how many grams of fat does Robbie get in a week?",
   "checkpoint": [
     {
-      "$\\boxed{700}$": 1
+      "\\boxed{700}": 1
     }
   ],
   "matchingmethod": [

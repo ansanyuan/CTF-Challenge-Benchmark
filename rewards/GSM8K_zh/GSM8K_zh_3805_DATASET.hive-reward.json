@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Corveus每天睡4小时，他的医生建议他每天睡6小时。Corveus一周缺少多少小时的睡眠？。",
+  "topic": "回答下面的数学问题：Corveus sleeps 4 hours a day and his doctor recommended for him to sleep 6 hours a day. How many hours of sleep does Corveus lack in a week?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

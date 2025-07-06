@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：塔尼亚有五个篮子，总共有58个水果。一个篮子里有18个芒果，另一个篮子里有10个梨，另一个篮子里有12个木瓜，最后两个篮子分别含有相同数量的猕猴桃和柠檬，柠檬有多少个？。",
+  "topic": "回答下面的数学问题：Tania has five baskets containing a total of 58 fruits. There are 18 mangoes in one basket, 10 pears in another, 12 pawpaws in another and the last 2 contain the same number of kiwi and lemon respectively, how many lemons are there?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

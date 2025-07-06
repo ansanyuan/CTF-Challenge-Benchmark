@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个园艺店出售南瓜种子的包装售价为2.50美元，番茄种子的包装售价为1.50美元，辣椒种子的包装售价为0.90美元。哈里打算在他的农场种植三种不同类型的蔬菜。如果他想购买三包南瓜种子，四包番茄种子和五包辣椒种子，他将花费多少钱？。",
+  "topic": "回答下面的数学问题：A garden store sells packages of pumpkin seeds for $2.50, tomato seeds for $1.50, and chili pepper seeds for $0.90. Harry is planning to plant three different types of vegetables on his farm. How much will Harry have to spend if he wants to buy three packets of pumpkin seeds, four packets of tomato seeds, and five packets of chili pepper seeds?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔治的梨比香蕉多45%。如果乔治有200个香蕉，那么乔治总共有多少水果？。",
+  "topic": "回答下面的数学问题：George has 45% more pears than bananas. If George has 200 bananas, how many fruits does George have?",
   "checkpoint": [
     {
-      "$\\boxed{490}$": 1
+      "\\boxed{490}": 1
     }
   ],
   "matchingmethod": [

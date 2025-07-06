@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯买的玩具士兵是玩具汽车的两倍。他买了20辆玩具汽车。他总共买了多少个玩具？。",
+  "topic": "回答下面的数学问题：James buys twice as many toy soldiers as toy cars.  He buys 20 toy cars.  How many total toys does he buy?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

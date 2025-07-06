@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰训练超级马拉松。他最初只能连续跑8小时，但最终将这个时间增加了75%。他还将自己的8英里/小时的速度提高了4英里/小时。现在他能跑多远？。",
+  "topic": "回答下面的数学问题：John trains for ultramarathons.  He starts only able to run 8 hours straight but eventually increases that by 75%.  He also increases his speed of 8 mph by 4 mph.  How far can he run now?",
   "checkpoint": [
     {
-      "$\\boxed{168}$": 1
+      "\\boxed{168}": 1
     }
   ],
   "matchingmethod": [

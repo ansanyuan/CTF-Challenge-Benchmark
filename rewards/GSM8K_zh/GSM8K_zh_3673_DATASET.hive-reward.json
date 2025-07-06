@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Salem喜欢写诗，她总是把她的诗存放在她家的图书馆里的创意盒中。上周，她创作了一首有20个段落的诗。如果每个段落有10行，每行有8个词，请计算诗中的总词数。。",
+  "topic": "回答下面的数学问题：Salem loves to write poems, and she always stores her poem in a creativity box kept safely in her home library. Last week, she created a poem with 20 stanzas. If each stanza has 10 lines, and each line has 8 words, calculate the total number of words in the poem.",
   "checkpoint": [
     {
-      "$\\boxed{1600}$": 1
+      "\\boxed{1600}": 1
     }
   ],
   "matchingmethod": [

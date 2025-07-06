@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：班上有24名学生，其中三分之一参加了课后国际象棋项目，其中一半的学生将因为地区国际象棋比赛而在周五缺席。这个班上有多少学生参加了那个比赛？。",
+  "topic": "回答下面的数学问题：Of the 24 students in class, one-third are in the after-school chess program, and half of those students will be absent from school on Friday for the regional chess tournament. How many of the students in this class are going to that tournament?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Helga去购物买了一双新鞋。在第一家商店，她试穿了7双鞋。在第二家商店，她试穿的鞋比在第一家商店多2双。在第三家商店，她没有试穿任何鞋，但她买了一条围巾。但在第四家商店，她试穿的鞋是前三家商店加起来的两倍，最后才选择了一双要买的鞋。Helga在购买新鞋之前试穿的鞋的总数是多少？。",
+  "topic": "回答下面的数学问题：Helga went shopping for a new pair of shoes. At the first store, she tried on 7 pairs of shoes. At the second store, she tried on 2 more pairs than at the first store. At the third store, she did not try on any shoes, but she did buy a scarf.  But at the fourth store, she tried on twice as many pairs of shoes as she did at all three other stores combined, before finally choosing a pair to buy.  What is the total number of pairs of shoes Helga tried on before buying her new shoes?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚历克斯正在进行一次横穿美国的自行车旅行。今天早上出发后，他在平地上的平均速度约为每小时20英里。四个半小时后，道路开始向上倾斜，他只能以每小时12英里的速度前进。然后再过两个半小时，道路下坡，他能以大部分时间以每小时24英里的速度滑行。不幸的是，他只能享受了一个半小时，就爆了一条轮胎。他忘记带修理工具包，所以他不得不步行推着自行车到下一个镇。如果下一个镇离他今天早上出发的地方有164英里，亚历克斯需要步行多远？。",
+  "topic": "回答下面的数学问题：Alex is on a cross-country bike trip. After starting this morning, he manages an average speed over flat ground of about 20 miles per hour. Four and a half hours later, the road started to incline upwards enough that he could only manage 12 miles per hour. Two and a half hours later, though, the road declined downhill and was able to mostly coast at 24 miles per hour. Unfortunately, he only got to enjoy this for one and a half hours before he punctured a tire. He had forgotten to pack a repair kit, so he had to walk his bike the rest of the way to the next town. If the next town was 164 miles from where he started this morning, how far did Alex have to walk?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

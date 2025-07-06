@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：维克多、奥斯汀和布莱恩做了捕虾陷阱。维克多的陷阱捕到了26只虾，奥斯汀的陷阱捕到的虾比维克多的少8只。布莱恩的陷阱捕到了维克多和奥斯汀总共虾数的一半。然后男孩们以每11尾虾7美元的价格出售虾，然后平均分配他们的收入，每个男孩能赚多少钱？。",
+  "topic": "回答下面的数学问题：Victor, Austin, and Brian made traps to catch shrimp. Victor's trap caught 26 shrimp and Austin's trap caught 8 less than Victor's. Brian's trap caught half of Victor and Austin's total number of shrimp. If the boys then sold their shrimp for $7 for every 11 tails of shrimp and then divided their earnings equally amongst themselves, how much money does each boy make?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

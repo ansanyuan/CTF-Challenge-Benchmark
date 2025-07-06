@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：沃森老师的班上有14个学龄前儿童和24个一年级学生，还有一些二年级学生。总共沃森老师有42名学生。沃森老师的班上有多少名二年级学生？。",
+  "topic": "回答下面的数学问题：There are 14 kindergartners and 24 first graders and some second graders in Ms. Watson's class. Overall Ms. Watson has 42 students. How many second graders are in Ms. Watson’s class?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

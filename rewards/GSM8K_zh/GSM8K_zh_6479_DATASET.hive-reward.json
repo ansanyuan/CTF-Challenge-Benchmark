@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍勃在他的花园里种了玉米，它刚刚开始发芽。种植后一周，它长高了2英寸。第二周，它的高度增加了第一周的两倍。第三周，它的增长是前一周的4倍。玉米植物现在有多高？。",
+  "topic": "回答下面的数学问题：Bob has planted corn in his garden, and it has just started to sprout. A week after planting it, it had grown 2 inches. The next week, its height increased by twice as much as it had the first week. In the third week, it grew 4 times as much as it did the week before. How tall are the corn plants now?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

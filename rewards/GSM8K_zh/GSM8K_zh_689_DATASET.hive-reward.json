@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Trent捉到了180只蝌蚪，然后放走了其中的75%。他留下了多少只？。",
+  "topic": "回答下面的数学问题：Trent caught 180 tadpoles then let 75% of them go. How many did he keep?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

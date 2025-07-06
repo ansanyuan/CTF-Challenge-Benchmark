@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：作为特殊款待，乔治亚每个月的第一天做松饼并把它们带给她的学生。她的松饼食谱只能做6个松饼，而她有24名学生。在9个月内，乔治亚要做多少批松饼？。",
+  "topic": "回答下面的数学问题：As a special treat, Georgia makes muffins and brings them to her students on the first day of every month.  Her muffin recipe only makes 6 muffins and she has 24 students.  How many batches of muffins does Georgia make in 9 months?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

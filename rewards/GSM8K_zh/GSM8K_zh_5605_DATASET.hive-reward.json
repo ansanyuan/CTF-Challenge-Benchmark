@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一场足球比赛中，上半场A队得了8分，而B队只得了上半场的一半。下半场，B队得了和A队上半场一样多的分，而A队只比B队少了2个进球。整场比赛两队一共得了多少个进球？。",
+  "topic": "回答下面的数学问题：During a soccer game, in the first half, Team A scored 8 points, and Team B scored only half as many points. In the second half, Team B was able to get as many points as Team A in the first half, and Team A scored only 2 goals less than Team B. How many goals did both teams score during the whole match?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：戴顿海滩有12条鲨鱼，那么开普梅有多少条鲨鱼？。",
+  "topic": "回答下面的数学问题：Cape May has 8 more than twice as many sharks as Daytona Beach. If Daytona Beach has 12 sharks, how many sharks are there in Cape May?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

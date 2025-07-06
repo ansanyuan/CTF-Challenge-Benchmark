@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Addilynn去杂货店买了六打鸡蛋用于家里。两周后，她用掉了一半的鸡蛋，然后在搬动鸡蛋清洁货架时不小心打碎了剩下的15个鸡蛋。货架上还剩下多少鸡蛋？。",
+  "topic": "回答下面的数学问题：Addilynn went to the grocery store and bought six dozen eggs for use in her house. After two weeks, she used half of the eggs, then accidentally broke 15 of the remaining eggs while moving them to clean the shelves. How many eggs are left on the shelf?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

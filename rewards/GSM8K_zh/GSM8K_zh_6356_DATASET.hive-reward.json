@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：路易斯正在为一个正式场合做一套天鹅绒西装。他选择的天鹅绒面料是每码24美元。他花15美元买了一个图案，还买了两卷银色线，每卷3美元。如果他在图案、线和面料上花了141美元，他买了多少码面料？。",
+  "topic": "回答下面的数学问题：Louis is making himself a velvet suit for a formal event. The velvet fabric he chose was $24 per yard. He bought a pattern for $15, and two spools of silver thread for $3 each. If he spent $141 for the pattern, thread, and fabric, how many yards of fabric did he buy?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

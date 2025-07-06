@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两个碗装满了弹珠，第一个碗的容量等于第二个碗容量的3/4。如果第二个碗有600颗弹珠，计算两个碗一共装了多少颗弹珠。。",
+  "topic": "回答下面的数学问题：Two bowls are holding marbles, and the first bowl has a capacity equal to 3/4 the capacity of the second bowl. If the second bowl has 600 marbles, calculate the total number of marbles both bowls are holding together.",
   "checkpoint": [
     {
-      "$\\boxed{1050}$": 1
+      "\\boxed{1050}": 1
     }
   ],
   "matchingmethod": [

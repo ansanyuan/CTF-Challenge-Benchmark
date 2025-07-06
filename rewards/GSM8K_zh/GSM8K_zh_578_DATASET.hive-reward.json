@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在轮滑比赛中，有4个队伍在竞争。每个队伍由10名成员组成，每个成员需要一双轮滑鞋来比赛，并另外备用一双。现在没有一双轮滑鞋有鞋带，所以每个成员被提供了每双轮滑鞋3套鞋带。一共发放了多少套鞋带？。",
+  "topic": "回答下面的数学问题：At a roller derby, 4 teams are competing. Each team is made up of 10 members, and each member needs a pair of roller skates to compete in and another pair of skates as a backup. None of the skates have laces yet, so each member is offered 3 sets of laces per pair of skates. How many sets of laces have been handed out?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

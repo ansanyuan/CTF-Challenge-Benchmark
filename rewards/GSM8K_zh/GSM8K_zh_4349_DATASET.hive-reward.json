@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰以每只10美元的价格购买了30只鸭子。它们的重量为4磅，他以每磅5美元的价格出售。他赚了多少利润？。",
+  "topic": "回答下面的数学问题：John buys 30 ducks for $10 each.  They weigh 4 pounds and he sells them for $5 per pound.  How much profit did he make?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

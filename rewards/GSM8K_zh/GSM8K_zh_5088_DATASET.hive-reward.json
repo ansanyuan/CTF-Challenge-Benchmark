@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carter通常每周烤6个芝士蛋糕，5个松饼和8个红丝绒蛋糕。这周他能烤三倍的芝士蛋糕，松饼和巧克力蛋糕，以及红丝绒蛋糕。Carter这周能多烤多少蛋糕？。",
+  "topic": "回答下面的数学问题：Carter usually bakes 6 cheesecakes, 5 muffins, and 8 red velvet cakes regularly for a week. For this week he was able to bake triple the number of cheesecakes, muffins, chocolate moist cakes, and red velvet cakes. How much more cakes was Carter able to bake for this week?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

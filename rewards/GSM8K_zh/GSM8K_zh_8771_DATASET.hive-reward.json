@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tim制作了一种特别的蜂蜜和果酱混合物。制作1罐混合物需要2磅百香果和1.5磅菠萝蜜。它还需要2磅特别的蜂蜜。百香果的价格是每磅6美元，菠萝蜜是每磅8美元，蜂蜜是每磅10美元。他每罐售价50美元。他卖出10罐能赚多少利润？。",
+  "topic": "回答下面的数学问题：Tim makes a special honey and jam mix.  To make 1 jar of the mixture it takes 2 pounds of passion fruit and 1.5 pounds of jackfruit.  It also takes 2 pounds of special honey.  The passion fruit costs $6 per pound, the jackfruit is $8 per pound, and the honey is $10 per pound.  He sells each jar for $50.  How much profit does he make selling 10 jars?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

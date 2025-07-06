@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Harry拥有3只壁虎，2只鬣蜥和4条蛇。如果他每个月花费10美元喂养每条蛇，5美元喂养每只鬣蜥和15美元喂养每只壁虎，那么他每年喂养所有宠物的花费是多少？。",
+  "topic": "回答下面的数学问题：Harry owns 3 geckos, 2 iguanas, and 4 snakes. If he spends $10 to feed each snake, $5 to feed each iguana, and $15 to feed each gecko every month, how much does he spend every year to feed all his pets?",
   "checkpoint": [
     {
-      "$\\boxed{1140}$": 1
+      "\\boxed{1140}": 1
     }
   ],
   "matchingmethod": [

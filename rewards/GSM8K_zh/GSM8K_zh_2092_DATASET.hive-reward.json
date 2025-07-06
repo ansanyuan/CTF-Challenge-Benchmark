@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：商店所有商品都打8%的折扣。如果莎拉买了一双鞋花了184美元，她节省了多少钱？。",
+  "topic": "回答下面的数学问题：A store has an 8% discount on all items. If Shara paid $184 for a pair of shoes, how much did Shara save?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

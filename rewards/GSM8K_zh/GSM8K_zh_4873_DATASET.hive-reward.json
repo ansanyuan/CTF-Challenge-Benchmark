@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉尔是学校舞蹈队的发型师，她需要给8名舞者编发。如果每名舞者有5条辫子，每条辫子需要30秒，那么编完所有舞者的头发需要多少分钟？。",
+  "topic": "回答下面的数学问题：Jill is the hairdresser for the school's dance team and has to braid 8 dancers' hair. If each dancer has five braids and each braid takes 30 seconds, how many minutes will it take to braid all the dancers' hair?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：南希想为家庭聚会做花生酱饼干，但她的表弟对花生过敏。她决定改用杏仁酱饼干。一罐杏仁酱的价格是花生酱的三倍。制作一批饼干需要半罐酱。一罐花生酱的价格是3美元。制作杏仁酱饼干每批比制作花生酱饼干多花费多少美元？。",
+  "topic": "回答下面的数学问题：Nancy wanted to make peanut butter cookies for a family gathering, but her cousin is allergic to peanuts. She decided to make almond butter cookies instead. A jar of almond butter costs three times the amount that a jar of peanut butter does. It takes half a jar to make a batch of cookies. A jar of peanut butter costs $3. How many dollars more does it cost per batch to make almond butter cookies instead of peanut butter cookies?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

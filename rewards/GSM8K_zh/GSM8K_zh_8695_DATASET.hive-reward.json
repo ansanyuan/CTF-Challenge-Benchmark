@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾登正在为社区烧烤活动制作他著名的牛排馆调味肉丸。他每用一磅牛肉就加两汤匙他的秘制牛排馆调料。他每磅肉能做出十六个肉丸。如果他想为烧烤活动制作80个肉丸，他需要多少秘制调料？。",
+  "topic": "回答下面的数学问题：Aiden is making his famous steakhouse-seasoned meatballs for a neighborhood cookout. He adds two tablespoons of his secret steakhouse seasoning for every pound of ground beef he uses. He gets sixteen meatballs from each pound of meat. If he wants to make 80 meatballs for the cookout, how much of his secret seasoning will he need?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布莱恩的朋友鲍比的电子游戏比布莱恩少5个，但是是布莱恩的3倍。如果布莱恩有20个电子游戏，但在比较之前丢失了5个，鲍比有多少个电子游戏？。",
+  "topic": "回答下面的数学问题：Brian's friend Bobby has 5 fewer than 3 times as many video games as Brian does.  If Brian has 20 video games but lost 5 right before the comparison was made, how many does Bobby have?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

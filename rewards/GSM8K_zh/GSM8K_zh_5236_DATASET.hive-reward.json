@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Banks先生和Elizabeth女士是投资不同收入来源并从投资中赚取收入的企业家。Banks先生从他的八项投资中每项获得了500美元的收入。Elizabeth女士也从她的5项投资中每项获得了900美元。Elizabeth女士从她的投资中比Banks先生多赚了多少钱？。",
+  "topic": "回答下面的数学问题：Mr. Banks and Ms. Elizabeth are entrepreneurs who invest in different income streams and earn revenue from the investments. From each of his eight investments, Mr. Banks received $500 in revenue. Ms. Elizabeth also received $900 from each of her 5 investment streams. How much more money did Ms. Elizabeth make from her investments than Mr. Banks?",
   "checkpoint": [
     {
-      "$\\boxed{500}$": 1
+      "\\boxed{500}": 1
     }
   ],
   "matchingmethod": [

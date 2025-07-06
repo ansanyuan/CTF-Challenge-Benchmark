@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉赛尔负责接力赛跑的田径运动日。去年，比赛的距离是300米。今年，它将是去年的4倍长。吉赛尔需要为接力赛设置6张桌子。桌子之间的距离必须相同，最后一张桌子将在终点线上。第1张桌子和第3张桌子之间的距离是多少米？。",
+  "topic": "回答下面的数学问题：Giselle is in charge of the relay run on track and field day. Last year, the race was 300 meters. This year, it will be 4 times as long. Giselle needs to set up 6 tables for the relay run. The distance between the tables must be the same and the last table will be at the finish line. What is the distance between table 1 and table 3 in meters?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ryan在一个办公室工作，那里有偶数男性和女性在工作。Ryan参加了一个由4名男性和6名女性组成的会议，这些人是从办公室挑选出来的。这使得办公室工作的女性数量减少了20%。Ryan的办公室有多少人在工作？。",
+  "topic": "回答下面的数学问题：Ryan works in an office that has an even number of men and women working there.  Ryan participates in a meeting composed of 4 men and 6 women who are pulled from the office floor.   This reduces the number of women working on the office floor by 20%.  How many people work at Ryan's office?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

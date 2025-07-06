@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每年万圣节，社区中的一户人家送牙刷而不是糖果，所以它总是被扔鸡蛋和用卫生纸覆盖。如果主人每个鸡蛋花15秒清理，每卷卫生纸花30分钟清理，那么他需要花多长时间（以分钟为单位）来清理60个鸡蛋和7卷卫生纸？。",
+  "topic": "回答下面的数学问题：Every Halloween one house in the neighborhood gives out toothbrushes instead of candy, so it always gets egged and covered in toilet paper. If the owner spends 15 seconds cleaning up each egg and 30 minutes cleaning up each roll of toilet paper, how long (in minutes) will they have to spend cleaning up 60 eggs and 7 rolls of toilet paper?",
   "checkpoint": [
     {
-      "$\\boxed{225}$": 1
+      "\\boxed{225}": 1
     }
   ],
   "matchingmethod": [

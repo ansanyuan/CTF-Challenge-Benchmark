@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ella花掉了她做保姆赚的钱的40%在视频游戏上。去年她花了100美元。今年她得到了10%的加薪。Ella的新工资是多少？。",
+  "topic": "回答下面的数学问题：Ella spends 40% of the money she makes from babysitting on video games. Last year she spent $100. This year she received a 10% raise. What is Ella’s new salary?",
   "checkpoint": [
     {
-      "$\\boxed{275}$": 1
+      "\\boxed{275}": 1
     }
   ],
   "matchingmethod": [

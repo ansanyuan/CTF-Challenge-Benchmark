@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿洛需要为学习用品购买的书和钢笔的比例是7:3。如果他从商店购买了总共400件文具，计算他购买的书的数量。。",
+  "topic": "回答下面的数学问题：The ratio of books to pens that Arlo has to buy for his school supplies is 7:3. If he bought a total of 400 stationery from the store, calculate the number of books he bought.",
   "checkpoint": [
     {
-      "$\\boxed{280}$": 1
+      "\\boxed{280}": 1
     }
   ],
   "matchingmethod": [

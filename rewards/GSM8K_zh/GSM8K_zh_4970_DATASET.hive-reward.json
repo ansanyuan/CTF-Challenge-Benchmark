@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍娜正在为她在《雾都孤儿》中的角色制作服装。她需要制作一个外裙和两条衬裙。每条裙子使用一块材料，尺寸为12英尺乘以4英尺的矩形。她还需要制作一个紧身衣，紧身衣需要2平方英尺的材料，每个袖子需要5平方英尺的面料。如果她使用的材料价格为每平方英尺3美元，她总共花费了多少钱在材料上？。",
+  "topic": "回答下面的数学问题：Jenna is making a costume for her role in Oliver Twist. She needs to make an overskirt and two petticoats. Each skirt uses a rectangle of material that measures 12 feet by 4 feet. She also needs to make a bodice that uses 2 square feet of material for the shirt and 5 square feet of fabric for each of the sleeves. If the material she uses costs $3 per square foot, how much does she spend on the material in total?",
   "checkpoint": [
     {
-      "$\\boxed{468}$": 1
+      "\\boxed{468}": 1
     }
   ],
   "matchingmethod": [

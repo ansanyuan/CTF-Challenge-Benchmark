@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一对夫妇同意平均分担开支，包括家庭帮佣的工资。在工作期间，家庭帮佣发生了意外；因此，她接受了一项花费了128美元的医疗程序。夫妇决定支付医疗费用的一半，另一半将从她的160美元工资中扣除。如果丈夫支付了整个医院账单的一半，他还需要支付多少钱，以便他们平均分担家庭帮佣的费用？。",
+  "topic": "回答下面的数学问题：A couple agreed to split their expenses equally, including the salary of their house help. While doing her job, the house help had an accident; thus, she underwent a medical procedure which cost her $128. The couple decided to pay half of the medical expenses and the other half will be deducted from her $160 salary. If the husband paid for the entire half of the hospital bill, how much does he still need to pay so that they split the expenses for the house help equally?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

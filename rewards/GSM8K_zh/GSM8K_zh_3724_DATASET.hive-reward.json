@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡梅隆以他弟弟查斯的两倍速度驾驶。但丹妮尔以卡梅隆的三倍速度驾驶。如果丹妮尔从格兰维尔到索尔兹伯里需要30分钟，那么查斯从格兰维尔到索尔兹伯里需要多长时间（以分钟计）？。",
+  "topic": "回答下面的数学问题：Cameron drives at twice the speed of his brother, Chase.  But Danielle drives at three times the speed of Cameron.  If it takes Danielle 30 minutes to travel from Granville to Salisbury, how long, in minutes, will it take Chase to travel from Granville to Salisbury?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

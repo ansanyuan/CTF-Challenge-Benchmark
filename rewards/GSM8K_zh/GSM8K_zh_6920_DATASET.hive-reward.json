@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在博尔顿先生的25名学生的班级中，有2/5的学生喜欢数学，剩下的学生中有1/3喜欢科学，其余的学生喜欢历史。计算喜欢历史和喜欢数学的学生的总人数。。",
+  "topic": "回答下面的数学问题：In Mr. Bolton's class of 25 students, 2/5 of the students like maths, 1/3 of the remaining students like science, and the rest of the students like history. Calculate the combined total number of students who like history and those who like maths.",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

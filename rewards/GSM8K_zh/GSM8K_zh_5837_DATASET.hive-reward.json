@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kellan打蜡他的汽车需要3盎司的蜡，打蜡他的SUV需要4盎司。他买了一瓶11盎司的车蜡，但在使用前洒出了2盎司。在给他的汽车和SUV打蜡后，他还剩下多少盎司？。",
+  "topic": "回答下面的数学问题：It takes 3 ounces of wax to detail Kellan’s car and 4 ounces to detail his SUV. He bought an 11-ounce bottle of vehicle wax, but spilled 2 ounces before using it. How many ounces does he have left after waxing his car and SUV?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

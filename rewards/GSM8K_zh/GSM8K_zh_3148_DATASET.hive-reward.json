@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Peter需要购买鸟食以供一周之需。他知道每只鹦鹉每天吃2克。他的鹦鹉每天吃14克。他的雀鸟吃鹦鹉吃的一半。如果他有3只鹦鹉，2只鹦鹉和4只雀鸟，他需要购买多少克的鸟食？。",
+  "topic": "回答下面的数学问题：Peter needs to buy birdseed to last a week. He knows that each parakeet eats 2 grams a day. His parrots eat 14 grams a day. His finches eat half of what a parakeet eats. If he has 3 parakeets, 2 parrots and 4 finches, how many grams of birdseed does he need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{266}$": 1
+      "\\boxed{266}": 1
     }
   ],
   "matchingmethod": [

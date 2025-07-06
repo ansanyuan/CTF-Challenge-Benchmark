@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只鸟决定离开她在北方的夏季家园，前往南方的冬季家园。为了进行这次旅行，这只鸟从家中向南飞行了10小时，速度是每小时30英里。然后，鸟儿转向向北飞行了2小时，速度是每小时18英里。最后，鸟儿再次改变方向，向南飞行了5小时，速度是每小时22英里，然后在她的南方家园降落。这只鸟的北方家园和南方家园之间的距离是多少英里？。",
+  "topic": "回答下面的数学问题：A bird decides to leave her summer home in the north and travel to her winter home in the south.  To make the journey, the bird leaves her home flying in a southerly direction for 10 hours at a speed of 30 miles per hour.  Then, the bird turns direction and flies towards the north for 2 hours are a speed of 18 miles per hour.  Finally, the bird changes direction and flies toward the south for 5 hours at a speed of 22 miles per hour before landing at her southern home.  What is the distance, in miles, between the bird's northern and the southern homes?",
   "checkpoint": [
     {
-      "$\\boxed{374}$": 1
+      "\\boxed{374}": 1
     }
   ],
   "matchingmethod": [

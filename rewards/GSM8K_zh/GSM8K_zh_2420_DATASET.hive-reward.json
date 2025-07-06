@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只熊正在寻找她的幼崽和自己。她一周需要210磅的肉。每只幼崽每周需要35磅，她有4只幼崽。她捕猎兔子，每只兔子重5磅。如果她每天捕猎，她每天需要捕捉多少只兔子？。",
+  "topic": "回答下面的数学问题：A bear is hunting for her cubs and herself. She needs 210 pounds of meat in a week. Each cub needs 35 pounds a week and she has 4 cubs. She hunts rabbits, which are five pounds each. If she hunts daily, how many rabbits does she need to catch each day?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

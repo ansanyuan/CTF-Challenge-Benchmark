@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：公园里的豪猪数量是50只。雌性豪猪的数量是总数的3/5。如果每只雌性豪猪每个月都生4只小豪猪，那么一年后公园里将有多少只豪猪？。",
+  "topic": "回答下面的数学问题：The population of porcupines in a park is 50. The number of female porcupines is 3/5 of the total population. If each female porcupine gives birth to 4 babies every month, how many porcupines will be in the park after a year?",
   "checkpoint": [
     {
-      "$\\boxed{1490}$": 1
+      "\\boxed{1490}": 1
     }
   ],
   "matchingmethod": [

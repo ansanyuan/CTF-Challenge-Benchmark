@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉姆决定批量购买蛋黄酱。他可以在Costco以8美元买到1加仑的蛋黄酱。在普通商店，一瓶16盎司的蛋黄酱售价为3美元。他通过购买加仑装的蛋黄酱节省了多少钱？。",
+  "topic": "回答下面的数学问题：Jim decides to buy mayo in bulk.  He can buy 1 gallon of mayo at Costco for 8 dollars.  At the normal store, a 16-ounce bottle costs $3.  How much money does he save by buying the gallon container?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

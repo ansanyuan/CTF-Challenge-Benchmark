@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：简计算了两只斑马，每只有17条纹，一只斑马有36条纹，还有一只斑马有那么多条纹的一半。斑马平均有多少条纹？。",
+  "topic": "回答下面的数学问题：Jane counts two zebras with 17 stripes each, a zebra with 36 stripes, and another zebra with half that many stripes. How many stripes do the zebras have on average?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

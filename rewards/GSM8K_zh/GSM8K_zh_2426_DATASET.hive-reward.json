@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mabel的花园里有5朵雏菊，每朵雏菊有8片花瓣。如果她把2朵雏菊送给老师，她花园里剩下的雏菊有多少片花瓣？。",
+  "topic": "回答下面的数学问题：Mabel has 5 daisies in her garden, and each daisy has 8 petals.  If she gives 2 daisies to her teacher, how many petals does she have on the remaining daisies in her garden?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

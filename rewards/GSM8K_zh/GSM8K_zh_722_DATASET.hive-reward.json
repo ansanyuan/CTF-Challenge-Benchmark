@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家电子商店提供智能手机每部300美元，个人电脑比智能手机贵500美元，高级平板电脑的价格是智能手机和个人电脑价格之和。购买这三种产品总共需要支付多少钱？。",
+  "topic": "回答下面的数学问题：An electronic shop offers smartphones for $300 each, personal computers for $500 more than smartphones, and advanced tablets for the sum of the prices of a smartphone and personal computer. How much do you have to pay to buy one of each of the three mentioned products?",
   "checkpoint": [
     {
-      "$\\boxed{2200}$": 1
+      "\\boxed{2200}": 1
     }
   ],
   "matchingmethod": [

@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $\\triangle ABC$ be an isosceles triangle with $\\angle A = 90^\\circ.$ There exists a point $P$ inside $\\triangle ABC$ such that $\\angle PAB = \\angle PBC = \\angle PCA$ and $AP = 10.$ Find the area of $\\triangle ABC.$",
   "checkpoint": [
     {
-      "$\\boxed{250}$": 1
+      "\\boxed{250}": 1
     }
   ],
   "matchingmethod": [

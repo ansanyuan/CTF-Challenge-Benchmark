@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮丝每周工作的前40个小时每小时赚10美元，之后的加班每小时15美元。如果珍妮丝一周工作60个小时，她能赚多少钱？。",
+  "topic": "回答下面的数学问题：Janice gets paid $10 an hour for the first 40 hours she works each week, and $15 each hour of overtime after that. If Janice works 60 hours one week, how much money does she make?",
   "checkpoint": [
     {
-      "$\\boxed{700}$": 1
+      "\\boxed{700}": 1
     }
   ],
   "matchingmethod": [

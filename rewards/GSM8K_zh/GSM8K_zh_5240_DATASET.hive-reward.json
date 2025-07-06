@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：路易叔叔在他2小时的飞机航班上得到了四袋花生。每袋里有30颗花生。如果他在飞行中吃光了所有的花生，每次吃一颗，等间隔时间消耗，那么每颗花生之间的时间长度是多少分钟？。",
+  "topic": "回答下面的数学问题：Uncle Lou was given four bags of peanuts to eat on his 2-hour plane flight.  Each bag contains 30 peanuts.  If he eats all of the peanuts during the flight, one at a time, consumed at equally spaced intervals, what is the length of time, in minutes, between eating each peanut?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

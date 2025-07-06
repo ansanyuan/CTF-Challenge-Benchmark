@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：妮娜喜欢把昆虫养成宠物。她有3只蜘蛛和50只蚂蚁。每只蜘蛛有8只眼睛。每只蚂蚁有2只眼睛。妮娜的宠物昆虫总共有多少只眼睛？。",
+  "topic": "回答下面的数学问题：Nina enjoys keeping insects as pets. She has 3 spiders and 50 ants. Each spider has 8 eyes. Each ant has 2 eyes. How many eyes are there in total among Nina’s pet insects?",
   "checkpoint": [
     {
-      "$\\boxed{124}$": 1
+      "\\boxed{124}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Brady在数他存钱罐里的钱。他有100个一分钱硬币，40个五分钱硬币，20个十分钱硬币和40张一美元纸币。Brady的存钱罐里总共有多少美元？。",
+  "topic": "回答下面的数学问题：Brady is counting the money in his piggy bank. He has 100 pennies, 40 nickels, 20 dimes, and 40 pieces of dollar bills. How much does Brady have in his piggy bank in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

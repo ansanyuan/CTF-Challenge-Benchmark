@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：谢尔比有20美元要带到书展。她买了一本书花了8美元，另一本花了4美元。她决定用剩下的钱买尽可能多的4美元的海报。她可以买多少张海报？。",
+  "topic": "回答下面的数学问题：Shelby had $20 to take to the book fair. She bought one book for $8 and another for $4. She decided to buy as many $4 posters as she could with the money she had left. How many posters can she buy?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

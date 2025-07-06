@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：参观当地博物馆时，戈登先生带了比男孩多2/5的女孩。如果他们的巴士上有一名司机和一名助手，而旅行团中男孩的总数为50，考虑到老师也和学生一起在巴士上，计算巴士上的总人数。。",
+  "topic": "回答下面的数学问题：On a trip to visit the local museum, Mr. Gordon has taken 2/5 times more girls than boys. If their bus has a driver and an assistant, and the total number of boys on the trip is 50, calculate the total number of people on the bus considering the teacher also drives together with the students on the bus.",
   "checkpoint": [
     {
-      "$\\boxed{123}$": 1
+      "\\boxed{123}": 1
     }
   ],
   "matchingmethod": [

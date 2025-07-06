@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：沃尔玛出售一款多功能工具，其中包括一个螺丝刀、3把刀和另外两种工具。Target出售一款多功能工具，其中包括一个螺丝刀、比沃尔玛多两倍的刀、三个锉刀和一把剪刀。相比沃尔玛，Target的多功能工具多了多少种工具？。",
+  "topic": "回答下面的数学问题：Walmart sells a multitool with a screwdriver, 3 knives, and two other tools. Target sells a multitool with a screwdriver, twice as many knives as Walmart, three files and a pair of scissors. How many more tools does the Target multitool have compared to Walmart?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

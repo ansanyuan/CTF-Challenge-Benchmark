@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔治有100美元。他买了一件价值24美元的衬衫，然后他还买了一双袜子。然后他剩下65美元。一双袜子多少钱？。",
+  "topic": "回答下面的数学问题：George had $100. He bought a shirt for $24 and he also bought a pair of socks. Then he had $65 left. How much is a pair of socks?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

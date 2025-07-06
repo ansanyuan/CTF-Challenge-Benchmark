@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个罐子里有37颗软糖。帕特取出了其中的15颗。然后帕特又放回了其中的5颗，然后又取出了4颗。现在罐子里有多少颗软糖？。",
+  "topic": "回答下面的数学问题：There were 37 jellybeans in a jar. Pat removed 15 of them. Pat then added 5 of the removed jellybeans back in, and then removed 4 more. How many jellybeans are now in the jar?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

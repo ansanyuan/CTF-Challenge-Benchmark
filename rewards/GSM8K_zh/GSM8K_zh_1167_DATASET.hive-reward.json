@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个壁虎每三天吃70只蟋蟀。第一天她吃掉蟋蟀的30%。第二天她比第一天少吃6只，第三天她吃完剩下的蟋蟀。她第三天吃了多少只蟋蟀？。",
+  "topic": "回答下面的数学问题：A gecko eats 70 crickets every three days.  The first day she eats 30% of the crickets.  The second day she eats 6 less than the first, and the third day she finishes up the remaining crickets.  How many crickets does she eat on the third day?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：特拉维斯想要飞往澳大利亚。普通机票的价格大约为2000美元。由于特拉维斯是学生，他将获得这个价格的30%折扣。他需要支付多少钱购买机票？。",
+  "topic": "回答下面的数学问题：Travis wants to fly to Australia. The regular tickets cost about $2000. As Travis is a student, he will get a 30% discount on this price. How much does he need to pay for his ticket?",
   "checkpoint": [
     {
-      "$\\boxed{1400}$": 1
+      "\\boxed{1400}": 1
     }
   ],
   "matchingmethod": [

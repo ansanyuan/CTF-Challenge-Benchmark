@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Fran烤了50个红色马卡龙和40个绿色马卡龙。如果Fran吃了15个绿色马卡龙和红色马卡龙的数量是绿色马卡龙的两倍，那么剩下多少个马卡龙？。",
+  "topic": "回答下面的数学问题：Fran baked 50 red macaroons and 40 green macarons. How many macaroons will remain if Fran ate 15 green macaroons and twice as many red macaroons as green macaroons?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

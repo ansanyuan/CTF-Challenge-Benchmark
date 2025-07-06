@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔正在烤蛋糕，需要6杯面粉。他唯一的量杯是1/4杯。他有一个8杯的面粉袋，意识到测量他不需要的面粉，把它从袋子里取出，然后把剩下的倒进碗里会更快。他应该取出多少勺？。",
+  "topic": "回答下面的数学问题：Michael is baking a cake and needs 6 cups of flour. The only measuring cup he has is the 1/4 cup. He has an 8 cup bag of flour and realizes it would be faster to measure the flour he doesn't need, take it out of the bag, and then dump the rest of the bag into the bowl. How many scoops should he remove?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

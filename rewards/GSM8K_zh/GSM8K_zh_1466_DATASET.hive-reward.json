@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jack上了三层楼梯，然后下了六层楼梯。如果每层楼梯有12个每个8英寸高的台阶，Jack比起开始时下降了多少英尺？。",
+  "topic": "回答下面的数学问题：Jack goes up three flights of stairs, then down six flights of stairs. If each flight of stairs has 12 steps that each each 8 inches high, how many feet further down is Jack than when he started?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

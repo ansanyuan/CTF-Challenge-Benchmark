@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：上周国税局收到了5168份税务报告。周一和周二他们总共收到了1907份报告。周四和周五他们总共收到了2136份报告。他们周三收到了多少份报告？。",
+  "topic": "回答下面的数学问题：Last week the IRS received 5168 tax reports. On Monday and Tuesday they received a total of 1907 reports. On Thursday and Friday they received a total of 2136 reports. How many reports did they receive on Wednesday?",
   "checkpoint": [
     {
-      "$\\boxed{1125}$": 1
+      "\\boxed{1125}": 1
     }
   ],
   "matchingmethod": [

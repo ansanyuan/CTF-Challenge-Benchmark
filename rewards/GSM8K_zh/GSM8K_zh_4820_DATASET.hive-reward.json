@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：尼克要求所有同事为桑德拉的生日礼物共同出资100美元。老板同意贡献15美元，托德自愿贡献两倍于老板的金额，因为他总是要超过其他人。如果剩下的5名员工（包括尼克在内）每人支付相等的金额，他们每人需要支付多少钱？。",
+  "topic": "回答下面的数学问题：Nick is asking all his co-workers to chip in for a birthday gift for Sandra that costs $100. The boss agrees to contribute $15, and Todd volunteers to contribute twice as much since he always has to one-up everyone. If the remaining 5 employees (counting Nick) each pay an equal amount, how much do they each pay?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

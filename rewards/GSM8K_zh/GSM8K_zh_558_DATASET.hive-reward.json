@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安迪从18棵每棵有7个番茄的植株上收获了所有的番茄。如果他将一半的番茄晾干，并将剩下的三分之一制成番茄酱，剩下多少个番茄？。",
+  "topic": "回答下面的数学问题：Andy harvests all the tomatoes from 18 plants that have 7 tomatoes each. If he dries half the tomatoes and turns a third of the remainder into marinara sauce, how many tomatoes are left?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个特殊的气球在水下每小时增加其前一体积的五分之二。如果它的原始体积是500cm³，在水下2小时后它的体积将是多少？。",
+  "topic": "回答下面的数学问题：A special balloon increases by two-fifths of its previous volume every hour when placed under water. If its original volume is 500cm³, what will its volume be after 2 hours underwater?",
   "checkpoint": [
     {
-      "$\\boxed{980}$": 1
+      "\\boxed{980}": 1
     }
   ],
   "matchingmethod": [

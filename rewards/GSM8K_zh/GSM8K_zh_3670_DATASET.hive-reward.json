@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个冰淇淋小贩的车上有50个巧克力口味的冰淇淋和54个芒果口味的冰淇淋。如果他卖掉了巧克力口味冰淇淋的3/5和芒果口味冰淇淋的2/3，那么总共有多少个冰淇淋没有卖出去？。",
+  "topic": "回答下面的数学问题：An ice cream vendor has 50 chocolate-flavored ice creams and 54 mango-flavored ice creams in his cart. If he sold 3/5 of the chocolate-flavored ice creams and 2/3 of the mango-flavored ice creams, how many total ice creams were not sold?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mikey喜欢他的蜂蜜燕麦片。每勺燕麦片中有4个燕麦团。每碗燕麦片中有25勺燕麦片。如果每盒燕麦片包含500个燕麦团，每盒燕麦片有多少碗燕麦片？。",
+  "topic": "回答下面的数学问题：Mikey likes his honey cluster of oats cereal.  In each spoonful, there are 4 clusters of oats.  In each bowl of cereal, he gets 25 spoonfuls of cereal.  If each box of cereal contains 500 clusters of oats, how many bowlfuls of cereal are in each box?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

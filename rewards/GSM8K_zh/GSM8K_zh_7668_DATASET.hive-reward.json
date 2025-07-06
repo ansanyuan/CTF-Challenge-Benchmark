@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Violetta想买新蜡笔。她需要5种不同颜色的蜡笔，并为此准备了20美元。一支蜡笔的成本是2美元。她会得到多少零钱？。",
+  "topic": "回答下面的数学问题：Violetta wants to buy new crayons. She needs them in 5 different colors and prepared $20 for this purchase. One crayon costs $2. How much change will she get?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

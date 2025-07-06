@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂莫西决定开始过起土地生活。他以每英亩20美元的价格购买了30英亩的土地。然后，他为12万美元建造了一座大房子。之后，他以每头1000美元的价格买了20头奶牛和每只5美元的价格买了100只鸡。最后是太阳能电池板的安装，安装需要6小时，每小时的安装费用为100美元，然后设备的固定费用为6000美元。所有这些加起来一共花了多少钱？。",
+  "topic": "回答下面的数学问题：Timothy decides he wants to start living off the land.  He buys 30 acres of land for $20 an acre.  He then builds himself a large house for $120,000.  After that, he gets himself 20 cows for $1000 per cow and 100 chickens for $5 per chicken.  The last thing is solar panels which take 6 hours to install with an installation cost of $100 an hour and then a flat fee of $6000 for the equipment.  How much did everything cost?",
   "checkpoint": [
     {
-      "$\\boxed{147700}$": 1
+      "\\boxed{147700}": 1
     }
   ],
   "matchingmethod": [

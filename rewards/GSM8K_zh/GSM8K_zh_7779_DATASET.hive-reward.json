@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰和20个人进行了手臂摔跤比赛。他赢了80%。他输给了多少人？。",
+  "topic": "回答下面的数学问题：John arm wrestles 20 people.  He beats 80%.  How many people did he lose to?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一副魔术师的牌中，有15张红色的牌，绿色的牌比红色的多60%。黄色的牌数量和红色及绿色牌的总和一样多。所有提到的颜色的牌共有多少张？。",
+  "topic": "回答下面的数学问题：In a set of magicians cards, there are 15 red cards, and 60% more green cards. Yellow cards are as many, as the sum of red and green cards. How many cards of all mentioned colors are there?",
   "checkpoint": [
     {
-      "$\\boxed{78}$": 1
+      "\\boxed{78}": 1
     }
   ],
   "matchingmethod": [

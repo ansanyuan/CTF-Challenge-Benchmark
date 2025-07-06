@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在公园里，迪米特里看到家庭骑自行车和三轮车。自行车有两个轮子，三轮车有三个轮子。有6名成年人骑自行车，15名儿童骑三轮车。迪米特里在公园里看到了多少个轮子？。",
+  "topic": "回答下面的数学问题：At the park, Dimitri saw families riding bicycles and tricycles. Bicycles have two wheels and tricycles have three wheels.  6 adults were riding bicycles and 15 children were riding tricycles.   How many wheels did Dimitri see at the park?",
   "checkpoint": [
     {
-      "$\\boxed{57}$": 1
+      "\\boxed{57}": 1
     }
   ],
   "matchingmethod": [

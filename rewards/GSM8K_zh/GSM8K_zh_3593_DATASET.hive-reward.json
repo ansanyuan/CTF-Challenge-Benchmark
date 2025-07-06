@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆参加了一个联合本科和博士项目。完成学士学位需要3年，完成博士学位需要5年。汤姆用了3/4的时间完成了学业。他完成学业需要多长时间？。",
+  "topic": "回答下面的数学问题：Tom goes to a combined undergrad and Ph.D. program.  It takes 3 years to finish the BS and 5 years to finish the Ph.D.  Tom finishes it in 3/4ths the time.  How long does it take for him to finish?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

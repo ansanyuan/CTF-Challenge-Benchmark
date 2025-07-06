@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一名四分卫在一场比赛中投出了50次传球。他向球场右侧投出的传球数量是向左侧的两倍。他向球场中心投出的传球数量比向左侧多2次。他向左侧投出了多少次传球？。",
+  "topic": "回答下面的数学问题：A quarterback throws 50 passes in one game.  He throws twice as many passes to the right of the field than he does to the left of the field.  He throws 2 more passes to the center of the field than he did to the left.  How many passes did he throw to the left side of the field?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

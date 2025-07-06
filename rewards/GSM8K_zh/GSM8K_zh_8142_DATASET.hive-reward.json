@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一家有50名员工的公司里，20%的员工是管理层。在这20%的管理层中，只有30%负责监督整个公司。有多少名员工负责监督公司？。",
+  "topic": "回答下面的数学问题：In a company of 50 employees, 20% of the employees are management.  Out of this 20%, only 30% oversee the entire company.  How many employees oversee the company?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

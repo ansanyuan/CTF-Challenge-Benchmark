@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：球赛开始时体育场里有600人。在比赛结束之前，四分之一的男孩和八分之一的女孩提前离开了。如果比赛开始时有240个女孩，那么最后有多少人留下来看比赛的结束？。",
+  "topic": "回答下面的数学问题：There were 600 people in the stadium when the football game started. Before the game was over, one-fourth of the boys and one-eighth of the girls left early. How many people remained to see the end of the game if there were 240 girls at the beginning of the game?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

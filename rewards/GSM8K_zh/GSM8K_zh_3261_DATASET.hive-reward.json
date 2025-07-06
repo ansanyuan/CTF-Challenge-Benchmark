@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Martha每天早上买1杯4.00美元的拿铁，一周5天。每周3天，她买一杯2.00美元的冰咖啡。她整年的目标是削减25%的咖啡开支。她将会节省多少钱？。",
+  "topic": "回答下面的数学问题：Martha buys 1 latte for $4.00 every morning, 5 days a week.  3 days a week, she buys an iced coffee for $2.00.  Her goal for the entire year is to cut her coffee spending by 25%.  How much will she save?",
   "checkpoint": [
     {
-      "$\\boxed{338}$": 1
+      "\\boxed{338}": 1
     }
   ],
   "matchingmethod": [

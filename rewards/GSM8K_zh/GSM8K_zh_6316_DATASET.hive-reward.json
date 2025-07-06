@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克因为邻居整晚都在大声播放泰勒·斯威夫特的歌而感到生气，所以他割了他们的三个轮胎并砸碎了他们的前窗户。如果每个轮胎的成本是250美元，窗户的成本是700美元，杰克需要为损坏支付多少钱？。",
+  "topic": "回答下面的数学问题：Jack is mad at his neighbors for blasting Taylor Swift all night, so he slashes three of their tires and smashes their front window. If the tires cost $250 each and the window costs $700, how much will Jack have to pay for the damages?",
   "checkpoint": [
     {
-      "$\\boxed{1450}$": 1
+      "\\boxed{1450}": 1
     }
   ],
   "matchingmethod": [

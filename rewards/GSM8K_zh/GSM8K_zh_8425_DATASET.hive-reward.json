@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：这本书印在纸上，叠起来每英寸有100页。每张纸的两面都印有内容，每面印有一书页。如果这本书厚1.5英寸，那么书里总共有多少页？。",
+  "topic": "回答下面的数学问题：The book is printed on paper that, when stacked, is 100 pages to the inch. Each paper is printed on both sides, with one page of the book printed on each side. How many pages are in the book, if it is 1.5 inches thick?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

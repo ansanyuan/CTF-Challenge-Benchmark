@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Martin拥有一家养鸡场。10只母鸡在10天内产下80枚蛋。Martin决定再买15只母鸡。所有母鸡在15天内会产下多少枚蛋？。",
+  "topic": "回答下面的数学问题：Martin owns a farm with hens. 10 hens do lay 80 eggs in 10 days. Martin decided to buy 15 more hens. How many eggs will all hens lay in 15 days?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

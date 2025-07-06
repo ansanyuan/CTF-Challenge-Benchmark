@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯以每小时30英里的速度开了半个小时，然后以两倍的速度开了两倍的时间。他总共开了多远？。",
+  "topic": "回答下面的数学问题：James drives 30 mph for half an hour and then twice as long for twice the speed.  How far did he drive in total?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

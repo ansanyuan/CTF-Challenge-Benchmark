@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝拉的芭蕾舞表演结束后，她从父母那里收到了2打玫瑰花，从她的10位舞者朋友那里每人收到了2朵玫瑰花。贝拉收到了多少朵玫瑰花？。",
+  "topic": "回答下面的数学问题：After Bella’s ballet performance, she received 2 dozen roses from her parents, and 2 roses from each of her 10 dancer friends.  How many roses did Bella receive?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

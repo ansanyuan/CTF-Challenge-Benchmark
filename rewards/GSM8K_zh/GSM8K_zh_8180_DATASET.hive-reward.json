@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当地消防员正在进行一次“填满靴子”的筹款活动。他们的目标是筹集6300美元。在最初的3小时后，他们已经筹集了2100美元。假设每小时筹集的金额相同，他们总共需要筹款多少小时才能达到他们的目标？。",
+  "topic": "回答下面的数学问题：The local firefighters are doing a “fill the boot” fundraiser. Their goal is to raise $6300. After the first 3 hours, they have raised $2100.  For how many hours do they have to fundraise in total to reach their goal, assuming an equal amount raised in every hour?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

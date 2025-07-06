@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个有300名学生的班级中，吸烟青少年的人数占班级的40%。一年内，有70%的吸烟学生因吸烟引起的并发症住院。计算班级中未因吸烟引起的并发症住院的吸烟学生的总人数。。",
+  "topic": "回答下面的数学问题：In a class of 300 students, the number of smoking teens is 40% of the class. In a year, 70% of the smoking students are hospitalized from smoking-related complications. Calculate the total number of smoking students from the class who have not been hospitalized from smoking-related complications.",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰和亚斯敏的爸爸叫加布里埃尔。如果约翰的孩子数量是他妹妹的两倍，而加布里埃尔有六个孙子，那么亚斯敏有多少个孩子？。",
+  "topic": "回答下面的数学问题：John and Yasmin's dad is named Gabriel. If John has twice the number of children that her sister has and Gabriel has six grandkids, how many children does Yasmin have?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

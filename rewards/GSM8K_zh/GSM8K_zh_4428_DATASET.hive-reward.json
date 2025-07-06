@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在公园里，娜奥米看到人们骑了7辆普通自行车和11辆儿童自行车。普通自行车有2个轮子，儿童自行车有4个轮子。娜奥米在公园里看到了多少个轮子？。",
+  "topic": "回答下面的数学问题：At the park, Naomi saw people riding 7 regular bikes and 11 children’s bikes.  Regular bikes have 2 wheels and kid’s bikes have 4 wheels.  How many wheels did Naomi see at the park?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

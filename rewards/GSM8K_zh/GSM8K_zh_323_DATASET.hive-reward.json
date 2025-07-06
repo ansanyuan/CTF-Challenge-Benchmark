@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家不正当的餐厅在不让顾客知情的情况下在税后收费后收取小费。如果我的总账单是140美元，我的城市的销售税是10%，我点了一份80美元的纽约肉眼牛排，和一杯10美元的葡萄酒，他们收了我多少小费？。",
+  "topic": "回答下面的数学问题：A shady restaurant is charging customers gratuities after taxes without them being aware. If my total bill was $140, the sales tax in my city is 10%, I ordered a NY Striploin for $80, and I ordered a glass of wine for $10, how much did they charge me for gratuities?",
   "checkpoint": [
     {
-      "$\\boxed{41}$": 1
+      "\\boxed{41}": 1
     }
   ],
   "matchingmethod": [

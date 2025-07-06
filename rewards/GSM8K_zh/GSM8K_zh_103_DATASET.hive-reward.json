@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾莉在田野里找到了一辆旧自行车，她认为只需要一些油就可以让它再次正常工作。她修复每个车轮需要10毫升的油，还需要另外5毫升的油来修复自行车的其他部分。她总共需要多少油来修复自行车？。",
+  "topic": "回答下面的数学问题：Ellie has found an old bicycle in a field and thinks it just needs some oil to work well again.  She needs 10ml of oil to fix each wheel and will need another 5ml of oil to fix the rest of the bike. How much oil does she need in total to fix the bike?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

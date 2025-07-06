@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周二，莉萨的支票账户里有800美元。周三，她支付了450美元的房租。周四，她存入了1500美元的工资支票。周五，她支付了分别为117美元和100美元的电费和网络费。然后在周六，她支付了70美元的电话费。莉萨的账户里还剩多少钱？。",
+  "topic": "回答下面的数学问题：On Tuesday, Liza had $800 in her checking account. On Wednesday, she paid her rent, $450. On Thursday, she deposited her $1500 paycheck. On Friday, she paid her electricity and internet bills which were $117 and $100, respectively. Then on Saturday, she paid her phone bill, $70. How much money is left in Liza's account?",
   "checkpoint": [
     {
-      "$\\boxed{1563}$": 1
+      "\\boxed{1563}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：瑞克可以在一个小时内熨烫4件衬衫。他可以在一个小时内熨烫3条长裤。如果他花了3个小时熨烫衬衫和5个小时熨烫长裤，他熨烫了多少件衣服？。",
+  "topic": "回答下面的数学问题：Rick can iron 4 dress shirts in an hour.  He can iron 3 dress pants in an hour.  If he spends 3 hours ironing dress shirts and 5 hours ironing dress pants, how many pieces of clothing has he ironed?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

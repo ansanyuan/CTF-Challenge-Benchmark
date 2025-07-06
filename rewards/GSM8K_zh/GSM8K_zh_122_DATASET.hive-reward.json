@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Stella和Twinkle以每人每小时250块的速度填满一辆容量为6000块石块的卡车。他们工作了四个小时，然后又有6个其他人以相同的速度加入了工作。填满卡车需要多少小时？。",
+  "topic": "回答下面的数学问题：Stella and Twinkle are filling up a truck with a capacity of 6000 stone blocks at the rate of 250 blocks per hour per person. They work for four hours and are then joined by 6 other people who also work at the same rate. How many hours did filling the truck take?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

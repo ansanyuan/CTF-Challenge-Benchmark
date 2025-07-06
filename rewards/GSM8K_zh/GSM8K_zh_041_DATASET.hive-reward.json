@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一张音乐会门票售价为40美元。本森先生购买了12张门票，并且对超过10张购买的每张门票都享有5%的折扣。本森先生总共支付了多少钱？。",
+  "topic": "回答下面的数学问题：A concert ticket costs $40. Mr. Benson bought 12 tickets and received a 5% discount for every ticket bought that exceeds 10. How much did Mr. Benson pay in all?",
   "checkpoint": [
     {
-      "$\\boxed{476}$": 1
+      "\\boxed{476}": 1
     }
   ],
   "matchingmethod": [

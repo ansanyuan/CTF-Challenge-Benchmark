@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史蒂芬的蚂蚁农场里有110只蚂蚁。一半的蚂蚁是工蚁，工蚁中有20%是雄蚁。那么有多少只雌性工蚁？。",
+  "topic": "回答下面的数学问题：Stephen has 110 ants in his ant farm.  Half of the ants are worker ants, 20 percent of the worker ants are male.  How many female worker ants are there?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

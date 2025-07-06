@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯决定走路去商店。当他走到一半时，他意识到他忘了带东西，不得不走回家。如果他的家距离商店4英里，他每小时走4英里，那么他到达商店需要多长时间？。",
+  "topic": "回答下面的数学问题：James decided to walk to the store.  When he got halfway there he realized he forgot something at home and had to walk back.  If his home is 4 miles from the store and he walks 4 miles per hour how long did it take him to reach the store?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Percius有一堆弹珠。其中40%是透明的。20%是黑色的，其余都是其他颜色。他的一个朋友问他是否可以拿走五颗弹珠。平均来说，他的朋友最终会得到多少颗其他颜色的弹珠？。",
+  "topic": "回答下面的数学问题：Percius has a collection of marbles. 40% of them are clear. 20% are black, and the remainder are all the other colors. A friend of his asks if he can take five marbles. On average, how many marbles of other colors will his friend end up getting?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

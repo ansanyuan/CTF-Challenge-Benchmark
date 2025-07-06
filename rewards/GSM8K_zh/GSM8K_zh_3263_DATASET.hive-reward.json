@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cynthia想要落地窗帘，额外增加5英寸的材料，这样它将在底部形成褶皱。如果她的房间高8英尺，窗帘需要多长？。",
+  "topic": "回答下面的数学问题：Cynthia wants floor-to-ceiling curtains made with an additional 5\" of material so it will pool at the bottom. If her room is 8 feet tall, how long will the curtains need to be?",
   "checkpoint": [
     {
-      "$\\boxed{101}$": 1
+      "\\boxed{101}": 1
     }
   ],
   "matchingmethod": [

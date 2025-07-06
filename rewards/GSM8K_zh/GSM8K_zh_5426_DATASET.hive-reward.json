@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在约翰斯敦，人口为80，每个人都独自开车上班。每辆汽车每年排放10磅的碳。一辆公共汽车每年排放100磅的碳。一辆公共汽车可以容纳40人。该城镇决定开始运营一辆公共汽车，以前开车的人中有25%现在乘坐公共汽车。现在每年排放的碳减少了多少磅？。",
+  "topic": "回答下面的数学问题：In Johnstown, the population is 80 and every single person drives by themselves to work. Each car on a road pollutes 10 pounds of carbon a year. A single bus pollutes 100 pounds of carbon a year. A bus can hold 40 people. The town decides to start running a bus and 25% of the people who used to drive now take the bus. How many fewer pounds of carbon are now emitted per year?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

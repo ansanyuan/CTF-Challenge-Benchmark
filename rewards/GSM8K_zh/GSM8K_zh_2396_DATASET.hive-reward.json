@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位厨师为58名成年人提供了服务，比成年人的数量少35名儿童，并且比儿童的数量多两倍的老年人。一共为多少位客人提供了服务？。",
+  "topic": "回答下面的数学问题：A chef has served 58 adults, 35 fewer children than the number of adults, and twice as many seniors as children. What is the total number of guests served?",
   "checkpoint": [
     {
-      "$\\boxed{127}$": 1
+      "\\boxed{127}": 1
     }
   ],
   "matchingmethod": [

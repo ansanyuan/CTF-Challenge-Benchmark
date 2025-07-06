@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史蒂夫和乔治亚在夏威夷度假时决定把菠萝运回家。每个菠萝的成本是1.25美元，他们买了一打。把所有菠萝运回家将花费21.00美元。最终每个菠萝将花费多少钱？。",
+  "topic": "回答下面的数学问题：While on vacation in Hawaii, Steve and Georgia decided to ship pineapples to their home.  Each pineapple costs $1.25 and they buy a dozen.  It will cost $21.00 to ship all of them to their home.  How much will each pineapple end up costing them?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

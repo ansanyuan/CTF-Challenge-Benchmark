@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍勃需要雇人修理他的花园。一场风暴摧毁了他所有的20株玫瑰花。他决定重新种植所有的玫瑰花。每株玫瑰花的成本是150美元。他还需要支付园丁每小时30美元，每天工作5小时，共计4天。最终的花园项目费用是每立方英尺5美元的100立方英尺土壤。整个园艺项目的总成本是多少？。",
+  "topic": "回答下面的数学问题：Bob has to hire someone to fix his garden.  A storm destroyed all 20 of his rose bushes.  He decides to replant all the rose bushes.  Each rose bush costs $150.  He also needs to pay a gardener $30 an hour, 5 hours each day for 4 days.  The final expense is 100 cubic feet of soil sold for $5 per cubic foot.  How much did the entire gardening project cost?",
   "checkpoint": [
     {
-      "$\\boxed{4100}$": 1
+      "\\boxed{4100}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史蒂夫想在四天内赚取100美元，所以他在瑞典接了一个采摘越橘的工作。这份工作每采摘一磅越橘就支付2美元。周一他采摘了8磅。周二的收成是前一天的三倍。周三他感到非常疲倦，决定休息。史蒂夫周四需要采摘多少磅的越橘？。",
+  "topic": "回答下面的数学问题：Steve wanted to make a total of $100 within four days, so he took on a berry-picking job in Sweden. The job paid $2 for every pound of lingonberries picked. On Monday he picked 8 pounds. Tuesday’s harvest was triple what he had picked the previous day. On Wednesday he felt very tired and decided to rest. How many pounds of lingonberries did Steve have to pick on Thursday?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：菲尔和安德烈决定订一些披萨。他们点了一个小芝士披萨和一个大意大利辣香肠披萨。小披萨有8片，大披萨有14片。他们已经吃了9片。每人剩下多少片？。",
+  "topic": "回答下面的数学问题：Phil and Andre decide to order some pizza. They get a small cheese and a large pepperoni. The small pizza has 8 slices, The large has 14 slices. They have both eaten 9 slices already. How many pieces are left per person?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

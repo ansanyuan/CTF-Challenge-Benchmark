@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个艺术家每周花30小时绘画。她完成一幅画需要3小时，她在四周内可以完成多少幅画？。",
+  "topic": "回答下面的数学问题：An artist spends 30 hours every week painting. If it takes her 3 hours to complete a painting, how many paintings can she make in four weeks?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

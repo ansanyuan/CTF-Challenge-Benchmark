@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：唐娜做了一个蛋糕带到一个派对上，客人吃掉了一半的蛋糕。派对结束后的第二天，她把剩下的一半与她的兄弟们分享。第二天，她在午夜吃了一块作为宵夜。比她的宵夜多两倍的块数剩下了。蛋糕最初有多少块？。",
+  "topic": "回答下面的数学问题：Donna made a cake to take to a party where the guests ate half the cake. The day after the party, she shared half the leftovers with her brothers. The following day, she ate one piece as a midnight snack. Twice as many pieces as her snack were left. How many pieces was the cake to begin with?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

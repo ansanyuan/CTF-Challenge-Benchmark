@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Ed has five identical green marbles, and a large supply of identical red marbles. He arranges the green marbles and some of the red ones in a row and finds that the number of marbles whose right hand neighbor is the same color as themselves is equal to the number of marbles whose right hand neighbor is the other color. An example of such an arrangement is GGRRRGGRG. Let $m$ be the maximum number of red marbles for which such an arrangement is possible, and let $N$ be the number of ways he can arrange the $m+5$ marbles to satisfy the requirement. Find the remainder when $N$ is divided by $1000$ .",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安可以滑行6英里/小时。她的朋友格伦达可以滑行8英里/小时。如果她们从同一地点开始，沿着相反的方向直线滑行3小时，她们最终相距多少英里？。",
+  "topic": "回答下面的数学问题：Ann can skate 6 miles an hour. Her friend Glenda can skate 8 miles an hour. If they start in the same place and skate in straight lines in opposite directions for 3 hours, how many miles apart do they end up?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

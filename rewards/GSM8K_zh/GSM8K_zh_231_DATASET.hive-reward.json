@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Emery和Serena去他们学校的图书馆，每人借了一本杰克·史蒂夫的《生活》书来为他们的学校项目阅读。如果Emery的阅读速度是Serena的五倍，而这本书花了她20天的时间来阅读，那么两人阅读这本书的平均天数是多少？。",
+  "topic": "回答下面的数学问题：Emery and Serena go to their school library, and each borrows a copy of The life of Jack Steve's book to read for their school project. If Emery can read five times as fast as Serena, and the book takes her 20 days to read, what's the average number of days the two take to read the book?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

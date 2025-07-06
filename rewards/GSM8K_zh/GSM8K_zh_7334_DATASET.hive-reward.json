@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰买了一把光剑玩具。它的价格是他其他所有星球大战玩具价格的两倍。如果他其他的星球大战玩具花费了1000美元，那么买了光剑后他一共花了多少钱？。",
+  "topic": "回答下面的数学问题：John buys a lightsaber toy.  It is twice as expensive as all his other Star Wars toys combined.  If his other Star Wars toys cost $1000, how much money has he spent in all after buying the lightsaber?",
   "checkpoint": [
     {
-      "$\\boxed{3000}$": 1
+      "\\boxed{3000}": 1
     }
   ],
   "matchingmethod": [

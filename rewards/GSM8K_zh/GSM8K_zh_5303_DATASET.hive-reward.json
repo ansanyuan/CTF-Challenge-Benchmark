@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Pauly正在为他的家人做煎蛋卷。有三打鸡蛋，他打算全部使用。每个煎蛋卷需要4个鸡蛋。包括他自己，一共有3个人。每个人能得到多少个煎蛋卷？。",
+  "topic": "回答下面的数学问题：Pauly is making omelets for his family. There are three dozen eggs, and he plans to use them all. Each omelet requires 4 eggs. Including himself, there are 3 people. How many omelets does each person get?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

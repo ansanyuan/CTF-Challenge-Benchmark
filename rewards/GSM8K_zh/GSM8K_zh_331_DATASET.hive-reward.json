@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Laura正在筹划她的婚礼。她预计会有220人参加婚礼，但她被告知大约5%的人通常不会出现。有多少人会去参加她的婚礼？。",
+  "topic": "回答下面的数学问题：Laura is planning her wedding. She expects 220 people to attend the wedding, but she has been told that approximately 5% typically don't show. How many people will go to her wedding?",
   "checkpoint": [
     {
-      "$\\boxed{209}$": 1
+      "\\boxed{209}": 1
     }
   ],
   "matchingmethod": [

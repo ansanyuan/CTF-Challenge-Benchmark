@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：朱莉有500美元。她花了20%的钱买衣服，然后又花了剩下钱的25%买CD。朱莉还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Julie had $500. She spent 20% of it on clothes and then 25% of the remaining money on CDs. How much money did Julie have left?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：沃尔特去了动物园，在那里他花了一定的时间看海豹，看企鹅的时间是看海豹的8倍，看大象的时间是13分钟。如果他在动物园待了2小时10分钟，他看海豹花了多少分钟？。",
+  "topic": "回答下面的数学问题：Walter goes to the zoo, where he spends a certain amount of time looking at the seals, eight times as long looking at the penguins, and 13 minutes looking at the elephants. If he spent 2 hours and 10 minutes at the zoo, how many minutes did he spent looking at the seals?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊甸、玛丽和艾丽丝聚集沙子填满他们的沙箱。伊甸搬了4桶沙。玛丽比伊甸多搬了3桶沙。艾丽丝比玛丽少搬了1桶沙。如果每桶沙含有2磅，她们总共搬了多少磅的沙？。",
+  "topic": "回答下面的数学问题：Eden, Mary and Iris gather sand to fill their sandbox. Eden carried 4 buckets of sand. Mary carried 3 more buckets of sand than Eden. Iris carried 1 less bucket of sand than Mary. If each bucket contains 2 pounds of sand, how many pounds of sand did they collect in total?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

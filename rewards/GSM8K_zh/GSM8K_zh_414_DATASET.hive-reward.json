@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ryan有40个球。红色球的数量是蓝色球数量的两倍，其余的是绿色球。如果有11个蓝色球，那么有多少个绿色球？。",
+  "topic": "回答下面的数学问题：Ryan has 40 balls. There are twice as many red balls as blue while the rest are green. If there are 11 blue balls, how many green balls are there?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

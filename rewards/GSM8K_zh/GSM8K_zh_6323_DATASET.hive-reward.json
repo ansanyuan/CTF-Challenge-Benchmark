@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：康奈尔先生从他的苹果树上收获了60个苹果，从他的桃树上收获了3倍于此的桃子。这两种水果的数量之间的差异是多少？。",
+  "topic": "回答下面的数学问题：Mr. Connell harvested 60 apples from his apple tree and 3 times as many peaches from his peach tree. What is the difference between the number of the two fruits?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

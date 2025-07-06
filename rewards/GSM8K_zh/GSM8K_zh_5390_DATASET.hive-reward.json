@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Nissa每只猫的指甲剪下来需要10秒。清洁每只猫的耳朵需要90秒，洗澡需要5分钟。如果猫每只脚有四个爪子，那么整个梳理猫的过程需要多少秒？。",
+  "topic": "回答下面的数学问题：It takes Nissa 10 seconds to clip each of her cats' nails. 90 seconds to clean each of her ears, and 5 minutes to shampoo her. If the cat has four claws on each foot, how many seconds does grooming her cat take total?",
   "checkpoint": [
     {
-      "$\\boxed{640}$": 1
+      "\\boxed{640}": 1
     }
   ],
   "matchingmethod": [

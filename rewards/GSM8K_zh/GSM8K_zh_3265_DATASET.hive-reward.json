@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨米有8份礼物要包装。每份礼物需要1.5米的丝带。不幸的是，她没有可用的丝带，所以汤姆让她使用他的15米长的丝带。汤姆的丝带会剩下多少米？。",
+  "topic": "回答下面的数学问题：Sammy has 8 gifts to wrap. Each gift requires 1.5 meters of ribbon. Unfortunately, she has no available ribbon so Tom let her use his 15-meter long ribbon. How many meters of ribbon will be left from Tom's ribbon?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bert的金毛寻回犬从小狗长到了成年犬。在7周大时，小狗重6磅，但到了第9周体重翻了一番。在3个月大时，它的体重再次翻了一番，5个月大时又翻了一番。最后，到了一岁时，狗狗通过增加30磅达到了最终的成年体重。狗的完整成年体重是多少磅？。",
+  "topic": "回答下面的数学问题：Bert's golden retriever has grown tremendously since it was a puppy.  At 7 weeks old, the puppy weighed 6 pounds, but doubled in weight by week 9.  It doubled in weight again at 3 months old, and doubled again at 5 months old.  Finally, the dog reached its final adult weight by adding another 30 pounds by the time it was one year old.  What is the dog's full adult weight, in pounds?",
   "checkpoint": [
     {
-      "$\\boxed{78}$": 1
+      "\\boxed{78}": 1
     }
   ],
   "matchingmethod": [

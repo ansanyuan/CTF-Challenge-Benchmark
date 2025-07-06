@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周一时，一个水箱的深度为17英尺。到了周二，水箱里的水多了7英尺。到了周三，水的深度是周二的三分之二。周三水箱的水深是多少？。",
+  "topic": "回答下面的数学问题：A tank of water has a depth of 17 feet on Monday. On Tuesday, the tank had 7 feet more water. On Wednesday, the depth of the water is two thirds of what it was on Tuesday. What is the tank’s water depth on Wednesday?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

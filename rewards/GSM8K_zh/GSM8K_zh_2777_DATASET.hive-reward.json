@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：昨晚，吉姆买了一盏价值7美元的灯和一个价格低4美元的灯泡。如果他买了2盏灯和6个灯泡，吉姆总共支付了多少钱？。",
+  "topic": "回答下面的数学问题：Last night, Jim bought a $7 lamp and a bulb which cost $4 less. If he bought 2 lamps and 6 bulbs, how much did Jim pay in all?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿尔伯特注意到一群大雁在天空中以V形编队飞行。一半的大雁从编队中分开，朝着地面飞去，并降落在一些树上。然后，有4只大雁从树上飞起，加入那些已经在空中飞行的大雁，形成了天空中的新的V形编队。如果最终飞行在V形编队中的大雁数量是12，那么阿尔伯特最初在天空中注意到的大雁数量是多少？。",
+  "topic": "回答下面的数学问题：Albert noticed a flock of geese flying together in a V formation in the sky overhead.  One half of the geese broke off from the formation, flew toward the earth, and landed in some trees.  Then, 4 geese flew up, out of the trees, and joined those already flying in the air to make a new V formation in the sky.  If the final number of geese flying in the V formation was 12, how many geese were in the first formation Albert noticed in the sky?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

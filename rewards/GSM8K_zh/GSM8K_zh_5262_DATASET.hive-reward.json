@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：由于干旱，杰瑞的家庭在七月份只能使用1000加仑的水。杰瑞用于饮水和烹饪的水量为100加仑，每次淋浴用水20加仑。他想要填满他的游泳池，游泳池的尺寸为10英尺 * 10英尺 * 6英尺。如果每加仑的水可以填满1立方英尺的游泳池，杰瑞七月份可以洗多少次澡？。",
+  "topic": "回答下面的数学问题：Due to a drought, Jerry's household can only use 1000 gallons of water during July. Jerry uses 100 gallons for drinking and cooking and 20 gallons per shower. He wants to fill his pool, which measures 10 feet by 10 feet by 6 feet. If each gallon of water fills 1 cubic foot of the pool, how many showers can Jerry take in July?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

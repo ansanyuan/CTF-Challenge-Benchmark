@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在宠物商店，有3只鸟，5只狗，4条蛇和1只蜘蛛待售。总共有多少条腿？。",
+  "topic": "回答下面的数学问题：At the pet shop, there were 3 birds, 5 dogs, 4 snakes, and 1 spider for sale. How many legs were there in total?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：公园里有88只狗。其中12只狗在奔跑。它们中有一半在玩玩具。四分之一在叫。有多少只狗什么都没做？。",
+  "topic": "回答下面的数学问题：There are 88 dogs in a park. 12 of the dogs are running. Half of them are playing with toys. A fourth of them are barking. How many dogs are not doing anything?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

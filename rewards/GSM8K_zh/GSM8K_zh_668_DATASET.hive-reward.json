@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：麦迪逊带她的狗去了狗公园。包括麦迪逊的狗在内，一半的狗有斑点，1/5的狗有尖耳朵。如果有15只狗有斑点，有多少只狗有尖耳朵？。",
+  "topic": "回答下面的数学问题：Madison takes her dog to the dog park. Counting Madison's dog, half the dogs have spots and 1/5 have pointy ears. If 15 dogs have spots, how many have pointy ears?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

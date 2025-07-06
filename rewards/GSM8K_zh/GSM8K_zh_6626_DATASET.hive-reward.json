@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊万买了48个苹果来做24个标准大小的馅饼。最后他没有像他想象的那样使用那么多，因为他决定做迷你馅饼而不是标准大小的馅饼，迷你馅饼每个只需要半个苹果。如果伊万烤了24个迷你馅饼，他剩下多少个苹果？。",
+  "topic": "回答下面的数学问题：Ivan buys 48 apples to make 24 full-size pies. He ends up not using as many as he thought because he decides to make mini pies instead of full-size ones, which only use 1/2 an apple each. If Ivan bakes 24 mini pies, how many apples does he have leftover?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

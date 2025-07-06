@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：朱莉娅这个周末将在她的高中音乐剧中表演，她的家人想来看演出。成人票价为12美元，儿童票价为10美元。如果她的妈妈、爸爸、奶奶和三个小妹妹来看演出，他们的门票总共将是多少？。",
+  "topic": "回答下面的数学问题：Julia is performing in her high school musical this weekend and her family wants to come to the show. Tickets are $12 for adults and $10 for children. If her mom, dad, grandma, and three little sisters come to the show, how much will the total be for their tickets?",
   "checkpoint": [
     {
-      "$\\boxed{66}$": 1
+      "\\boxed{66}": 1
     }
   ],
   "matchingmethod": [

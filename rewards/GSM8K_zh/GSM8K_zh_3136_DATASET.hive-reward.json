@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰是一个古怪的百万富翁。他决定用瓶装水填满他的游泳池。一立方英尺的水是25升。他的游泳池深10英尺，长6英尺，宽20英尺。一升水的成本是3美元。填满游泳池需要多少钱？。",
+  "topic": "回答下面的数学问题：John is an eccentric millionaire.  He decides to fill his swimming pool with bottled water.  A cubic foot of water is 25 liters.  His pool is 10 feet deep and 6 feet by 20 feet.  A liter of water costs $3.  How much does it cost to fill the pool?",
   "checkpoint": [
     {
-      "$\\boxed{90000}$": 1
+      "\\boxed{90000}": 1
     }
   ],
   "matchingmethod": [

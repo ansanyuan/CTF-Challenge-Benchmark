@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马特需要为家里买新的盘子。他只想每周洗一次碗。一周有三天，只有他和他的儿子吃饭，他们每人用1个盘子。在其余的日子，他的父母加入他们，每个人那天用2个盘子。他需要买多少个盘子？。",
+  "topic": "回答下面的数学问题：Matt needs to buy new plates for his home.  He only wants to do dishes once a week.  Three days a week it is only him and his son eating and they use 1 plate each.  On the remainder of the days, his parents join them and everyone uses 2 plates that day.  How many plates does he need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：黛安娜比格蕾丝大两倍。如果格蕾丝一年前3岁，那么黛安娜今天多大？。",
+  "topic": "回答下面的数学问题：Diana is twice as old as Grace is today. If Grace turned 3 a year ago, how old is Diana today?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克和泰德种植了番茄。在早晨，迈克种植了50颗番茄种子，而泰德种植的数量是迈克的两倍。下午，迈克种植了60颗番茄种子，而泰德种植的数量比迈克少20颗。他们总共种植了多少颗番茄种子？。",
+  "topic": "回答下面的数学问题：Mike and Ted planted tomatoes.  In the morning, Mike planted 50 tomato seeds while Ted planted twice as much as Mike.  In the afternoon, Mike planted 60 tomato seeds while Ted planted 20 fewer tomato seeds than Mike. How many tomato seeds did they plant altogether?",
   "checkpoint": [
     {
-      "$\\boxed{250}$": 1
+      "\\boxed{250}": 1
     }
   ],
   "matchingmethod": [

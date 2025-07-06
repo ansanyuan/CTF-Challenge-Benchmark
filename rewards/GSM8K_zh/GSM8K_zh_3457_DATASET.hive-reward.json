@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：老师把学生分成了四组。一组有5个学生，另一组有8个学生，第三组有7个学生。如果总共有24个学生，第四组有多少学生？。",
+  "topic": "回答下面的数学问题：The teacher divided the students into four groups. One group had 5 students, another 8 students, and the third 7 students. If there were 24 total students, how many students were in the fourth group?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

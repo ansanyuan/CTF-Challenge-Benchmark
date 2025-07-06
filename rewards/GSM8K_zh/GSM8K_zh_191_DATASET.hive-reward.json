@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：去年达拉斯的年龄是达西的3倍。达西的年龄是迪克斯特的两倍，而迪克斯特现在8岁。达拉斯现在多大了？。",
+  "topic": "回答下面的数学问题：Last year Dallas was 3 times the age of his sister Darcy. Darcy is twice as old as Dexter who is 8 right now. How old is Dallas now?",
   "checkpoint": [
     {
-      "$\\boxed{46}$": 1
+      "\\boxed{46}": 1
     }
   ],
   "matchingmethod": [

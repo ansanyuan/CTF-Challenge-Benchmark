@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贾里德喜欢画怪物。他画了一幅怪物家庭肖像。妈妈怪物有1只眼睛，爸爸怪物有3只眼睛。他们有3个孩子，每个孩子有4只眼睛。整个家庭有多少只眼睛？。",
+  "topic": "回答下面的数学问题：Jared likes to draw monsters. He drew a monster family portrait. The mom had 1 eye and the dad had 3. They had 3 kids, each with 4 eyes. How many eyes did the whole family have?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

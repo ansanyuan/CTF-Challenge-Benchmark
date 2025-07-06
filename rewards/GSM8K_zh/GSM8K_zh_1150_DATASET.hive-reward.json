@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：曼迪6岁时开始阅读只有8页的书。当她的年龄是6的两倍时，她开始阅读长度是原来的5倍长的书，8年后，她开始阅读长度是原来的3倍长的书。现在，她阅读的书的页数是多少？。",
+  "topic": "回答下面的数学问题：Mandy started reading books with only 8 pages when she was 6 years old. By the time she was twice that age, she was reading books 5 times longer, and 8 years later, she was reading books 3 times longer than that. Presently, she reads books that are 4 times the previous length. How many pages do the books she reads now have?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

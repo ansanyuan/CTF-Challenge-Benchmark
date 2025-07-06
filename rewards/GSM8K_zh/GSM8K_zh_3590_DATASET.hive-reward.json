@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丹尼正在把他的帆船带到海洋上。当他使用24平方英尺的帆时，他的速度为50英里/小时。当他使用12平方英尺的帆时，他的速度为20英里/小时。他计划前往200英里。较大的帆比较小的帆快多少小时？。",
+  "topic": "回答下面的数学问题：Danny is bringing his sailboat out to the ocean. When he uses his 24 square foot sail he goes 50 MPH. When he uses his 12 square foot sail he goes 20 MPH. He plans to travel 200 miles. How many hours faster is the bigger sail than the smaller one?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

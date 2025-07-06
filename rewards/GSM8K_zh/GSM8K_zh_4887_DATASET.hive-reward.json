@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆每周跳舞4次，每次2小时，连续10年如此。他一共跳了多少小时？。",
+  "topic": "回答下面的数学问题：Tom dances 4 times a week for 2 hours at a time and does this every year for 10 years.  How many hours did he dance?",
   "checkpoint": [
     {
-      "$\\boxed{4160}$": 1
+      "\\boxed{4160}": 1
     }
   ],
   "matchingmethod": [

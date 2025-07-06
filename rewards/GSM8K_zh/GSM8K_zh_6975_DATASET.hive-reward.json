@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个家庭有四个成员。每个成员早餐吃3片面包，零食吃2片面包。一条面包有12片。五条面包可以在这个家庭中持续多少天？。",
+  "topic": "回答下面的数学问题：There are four members in one household. Each member consumes 3 slices of bread during breakfast and 2 slices of bread for snacks. A loaf of bread has 12 slices. How many days will five loaves of bread last in this family?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

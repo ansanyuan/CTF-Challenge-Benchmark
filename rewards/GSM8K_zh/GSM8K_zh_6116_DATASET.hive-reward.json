@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Pauly正在制作冰块。他需要10磅的冰块。他知道2盎司的水可以制作1个冰块，每个冰块的重量为1/16磅。他需要1小时制作10个冰块。每小时他的冰块制造机的运行成本为1.50美元。每盎司的水的成本为0.10美元。制作所有冰块将花费多少钱？。",
+  "topic": "回答下面的数学问题：Pauly is making ice cubes. He needs 10 pounds of cubes. He knows that 2 ounces of water make 1 cube and each cube weighs 1/16th of a pound. It takes him 1 hour to make 10 cubes. Every hour his ice maker run costs $1.50. Every ounce of water costs $0.10. How much will it cost to make all the ice?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

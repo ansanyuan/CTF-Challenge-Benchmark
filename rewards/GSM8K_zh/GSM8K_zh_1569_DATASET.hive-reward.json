@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sasha为她学校的义卖筹款活动做了30个巧克力松饼。Melissa做的松饼数量是Sasha的4倍，Tiffany做的松饼数量是Sasha和Melissa总数的一半。如果一个松饼售价为4美元，Sasha、Melissa和Tiffany共为筹款活动贡献了多少钱？。",
+  "topic": "回答下面的数学问题：Sasha made 30 chocolate muffins for her school bake sale fundraiser. Melissa made 4 times as many muffins as Sasha, and Tiffany made half of Sasha and Melissa's total number of muffins. If one muffin sold for $4, how much money did Sasha, Melissa, and Tiffany contribute to the fundraiser?",
   "checkpoint": [
     {
-      "$\\boxed{900}$": 1
+      "\\boxed{900}": 1
     }
   ],
   "matchingmethod": [

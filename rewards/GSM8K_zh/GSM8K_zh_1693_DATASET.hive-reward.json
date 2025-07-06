@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：苏从新奥尔良到纽约的飞行后16小时才从纽约飞往旧金山。如果从新奥尔良到纽约的旅程花费的时间是她从纽约到旧金山的3/4倍，她从纽约到旧金山的飞行后24小时才到达，计算她从新奥尔良到旧金山总共花费的时间是多少？。",
+  "topic": "回答下面的数学问题：Sue is traveling from New York to San Francisco, 16 hours later after landing in New York from New Orleans. If the journey from New Orleans to New York took 3/4 times as much time as she takes to travel from New York to San Francisco, and she lands in San Francisco 24 hours later after departing from New York, calculate the total time she took to reach San Francisco from New Orleans?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

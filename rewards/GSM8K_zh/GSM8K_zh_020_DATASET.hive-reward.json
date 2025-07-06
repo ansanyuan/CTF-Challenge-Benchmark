@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂姆每个工作日骑自行车往返上班。他的工作地点离家20英里。他还骑自行车进行了一次周末骑行，骑了200英里。如果他以每小时25英里的速度骑自行车，他一周骑车花了多少时间？。",
+  "topic": "回答下面的数学问题：Tim rides his bike back and forth to work for each of his 5 workdays.  His work is 20 miles away.  He also goes for a weekend bike ride of 200 miles.    If he can bike at 25 mph how much time does he spend biking a week?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

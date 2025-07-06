@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果盒子里红色蜡笔的数量是蓝色蜡笔的四倍，而蓝色蜡笔有3支。盒子里总共有多少支蜡笔？。",
+  "topic": "回答下面的数学问题：If there are four times as many red crayons as blue crayons in a box, and there are 3 blue crayons.  How many crayons total are in the box?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

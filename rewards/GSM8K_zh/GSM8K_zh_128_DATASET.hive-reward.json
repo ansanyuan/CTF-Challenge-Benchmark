@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三只猫坐在篱笆上，对着月亮喵喵叫。第一只猫每分钟喵喵叫3次。第二只猫的喵喵叫频率是第一只猫的两倍。第三只猫的喵喵叫频率是第二只猫的三分之一。这三只猫在5分钟内总共喵喵叫了多少次？。",
+  "topic": "回答下面的数学问题：Three cats sat on a fence, meowing at the moon.  The first cat meowed 3 times per minute.  The second cat meowed twice as frequently as the first cat.  And the third cat meowed at one-third the frequency of the second cat.  What is the combined total number of meows the three cats make in 5 minutes?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两只小狗，两只小猫和三只鹦鹉在宠物店出售。小狗的价格是鹦鹉的三倍，而鹦鹉的价格是小猫的一半。如果一只鹦鹉的成本是10美元，购买宠物店所有宠物的总成本是多少美元？。",
+  "topic": "回答下面的数学问题：Two puppies, two kittens, and three parakeets were for sale at the pet shop.  The puppies were three times more expensive than the parakeets, and the parakeets were half as expensive as the kittens.  If the cost of one parakeet was $10, what would it cost to purchase all of the pets for sale at the pet shop, in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{130}$": 1
+      "\\boxed{130}": 1
     }
   ],
   "matchingmethod": [

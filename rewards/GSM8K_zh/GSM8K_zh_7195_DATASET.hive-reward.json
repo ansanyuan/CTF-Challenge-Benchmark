@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：雅米尔和他的两个朋友莎拉和朱利安去他们学校的游泳池游泳。雅米尔每天比莎拉多游泳20米，而莎拉游泳的距离是朱利安的两倍。他们整个星期都去游泳池，游泳的距离和之前一样。如果朱利安游了50米，那么他们三个整个星期的总距离是多少？。",
+  "topic": "回答下面的数学问题：Jamir and his two friends Sarah and Julien, go to their school's swimming pool to swim. Jamir swims 20 more meters per day than Sarah, who swims twice the distance Julien swims. They go to the swimming pool the whole week, swimming the same distances as before. If Julien swam 50 meters, what's the combined distance for three of them for the whole week?",
   "checkpoint": [
     {
-      "$\\boxed{1890}$": 1
+      "\\boxed{1890}": 1
     }
   ],
   "matchingmethod": [

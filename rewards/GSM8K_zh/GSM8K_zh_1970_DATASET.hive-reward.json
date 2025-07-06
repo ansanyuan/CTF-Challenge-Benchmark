@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Stacy有32个浆果。史蒂夫拿走了史蒂西的4个浆果，但仍比史蒂西最初拥有的浆果少7个。史蒂夫最初有多少个浆果？。",
+  "topic": "回答下面的数学问题：Stacy has 32 berries. Steve takes 4 of Stacy's berries, and still has 7 less berries than Stacy started with. How many berries did Steve start with?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

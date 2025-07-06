@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：这首史诗诗歌目前有24行。如果一个人每个月增加3行诗，那么多少个月后这首诗将包含90行？。",
+  "topic": "回答下面的数学问题：The epic poem currently contains 24 lines. If a person adds 3 lines to the poem every month, in how many months will the poem contain 90 lines?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆玩一个在线交易卡牌游戏。他的牌组有19张稀有卡，11张非常见卡和30张普通卡。稀有卡的价格是1美元，非常见卡是0.50美元，普通卡是每张0.25美元。他的牌组总共花了多少钱？。",
+  "topic": "回答下面的数学问题：Tom plays an online trading card game.  His deck has 19 rare cards, 11 uncommon, and 30 commons.  The rare cards cost $1, the uncommon are $.50, and the commons are $.25 each.  How much did his deck cost?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

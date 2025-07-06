@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮弗有十个梨，20个橙子，和梨的两倍的苹果。如果她给了她妹妹每种水果两个，她剩下多少水果？。",
+  "topic": "回答下面的数学问题：Jennifer has ten pears, 20 oranges, and twice as many apples as pears. If she gives her sister two of each fruit, how many fruits does she have left?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

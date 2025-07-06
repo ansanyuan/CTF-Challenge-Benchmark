@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝丝有一套125枚金币。卡尔送给贝丝额外的35枚金币作为礼物。然后，贝丝决定出售她一半的金币。贝丝卖了多少枚金币？。",
+  "topic": "回答下面的数学问题：Beth had a set of 125 gold coins.  Carl gave Beth a gift of an additional 35 gold coins.  Then, Beth decided to sell half of her coins.  How many coins did Beth sell?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

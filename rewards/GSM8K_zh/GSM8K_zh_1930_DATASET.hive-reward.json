@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lori拥有Sydney的15倍多的小熊玩偶。如果Lori有300只小熊玩偶，他们总共有多少只小熊玩偶？。",
+  "topic": "回答下面的数学问题：Lori owns 15 times as many beanie babies as Sydney. If Lori has 300 beanie babies, how many beanie babies do they have in total?",
   "checkpoint": [
     {
-      "$\\boxed{320}$": 1
+      "\\boxed{320}": 1
     }
   ],
   "matchingmethod": [

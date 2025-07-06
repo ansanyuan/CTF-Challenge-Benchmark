@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rita正在阅读一本有95页的五章书。每一章都比前一章多3页。第一章有多少页？。",
+  "topic": "回答下面的数学问题：Rita is reading a five-chapter book with 95 pages. Each chapter has three pages more than the previous one. How many pages does the first chapter have?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

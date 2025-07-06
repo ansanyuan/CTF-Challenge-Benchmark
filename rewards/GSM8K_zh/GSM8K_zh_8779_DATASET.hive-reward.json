@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚当斯一家忙着做饼干。到目前为止，他们已经做了7995个饼干。他们有2595个彩虹饼干，3075个燕麦饼干，还有一些巧克力碎片饼干。他们做了多少个巧克力碎片饼干？。",
+  "topic": "回答下面的数学问题：The Adams family is busy making cookies. So far, they've made 7995 cookies. They have 2595 rainbow cookies, 3075 oatmeal cookies, and some chocolate chip cookies. How many chocolate chip cookies have they made?",
   "checkpoint": [
     {
-      "$\\boxed{2325}$": 1
+      "\\boxed{2325}": 1
     }
   ],
   "matchingmethod": [

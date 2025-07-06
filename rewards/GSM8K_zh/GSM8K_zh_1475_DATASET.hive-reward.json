@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊芙琳的家人上周看了10个小时的电视。上上周，他们看了8个小时的电视。如果下周他们看了12个小时的电视，他们每周平均看电视的小时数是多少？。",
+  "topic": "回答下面的数学问题：Evelyn’s family watched 10 hours of television last week. The week before, they watched 8 hours of television. If they watch 12 hours of television next week, what is the average number of hours of television that they watch per week?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

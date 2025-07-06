@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Pam有一些袋装的苹果。她的每个袋子里的苹果数量是杰拉德的3倍。杰拉德的袋子里每个有40个苹果。如果Pam总共有1200个苹果，她有多少袋苹果？。",
+  "topic": "回答下面的数学问题：Pam has some bags of apples. Each of her bags has as many apples as 3 of Gerald's bags. Gerald's bags have 40 apples each. If Pam has 1200 apples in total, how many bags of apples does she have?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

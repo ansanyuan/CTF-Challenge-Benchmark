@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jasmine可以从一个满满2升的牛奶容器中倒出多少份200毫升的牛奶？。",
+  "topic": "回答下面的数学问题：How many portions of 200 ml milk can Jasmine pour from a full 2-liter container of milk?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

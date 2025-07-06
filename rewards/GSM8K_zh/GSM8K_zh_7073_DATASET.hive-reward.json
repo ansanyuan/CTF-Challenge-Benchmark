@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：5年后，Nacho的年龄将是Divya的3倍。如果Divya目前5岁，他们现在的年龄总和是多少？。",
+  "topic": "回答下面的数学问题：In 5 years, Nacho will be three times older than Divya. If Divya is currently 5 years old, what's the sum of their ages now?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

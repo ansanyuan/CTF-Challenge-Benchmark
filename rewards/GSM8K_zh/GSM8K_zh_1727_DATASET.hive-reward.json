@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在某所学校，三分之二的学生是女性。十分之一的男性是外国学生。如果学校有300名学生，非外国男性学生有多少人？。",
+  "topic": "回答下面的数学问题：At a certain school, 2/3 of the population are females. One-tenth of the males are foreign students. If the school has 300 students, how many students are non-foreign male students?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

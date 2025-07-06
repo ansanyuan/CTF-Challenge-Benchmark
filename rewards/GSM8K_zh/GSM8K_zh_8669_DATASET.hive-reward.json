@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Maxim先生在The Best Cookeries Around餐厅工作。在某一天，早上有50人进入餐厅用餐。大约在10点，又有40人进入餐厅，点了和第一批人同样多的食物。过了一会儿，两倍于10点进餐厅的人数进来点了午餐。到了晚上，又有3倍于最初进来的人数的人进入了餐厅。计算出那天进入餐厅的总人数。。",
+  "topic": "回答下面的数学问题：Mr. Maxim works at The Best Cookeries Around restaurant. On a particular day, 50 people entered the restaurant in the morning to eat. At around 10:00, 40 more people entered the restaurant and ordered the same amount of food as the first people. After a while, twice the number of people who entered the restaurant at 10:00 came in and ordered lunch. By evening, an additional 3 times as many people as the number that came in first had entered the restaurant. Calculate the total number of people that entered the restaurant on that day.",
   "checkpoint": [
     {
-      "$\\boxed{320}$": 1
+      "\\boxed{320}": 1
     }
   ],
   "matchingmethod": [

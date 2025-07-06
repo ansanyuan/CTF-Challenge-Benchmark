@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jen计划出售她的根茎类作物。她有6个山药，每个可以卖1.5美元，10个红薯，每个2美元，以及4个胡萝卜，每个1.25美元。如果她全部卖出，她将赚多少钱？。",
+  "topic": "回答下面的数学问题：Jen is planning to sell her root crops. She has 6 yams which can be sold at $1.5 each, 10 sweet potatoes that cost $2 each, and 4 carrots which cost $1.25 each. If she sells everything, how much will she earn?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

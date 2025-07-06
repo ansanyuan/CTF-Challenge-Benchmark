@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Phil有一个他喜欢增加的硬币收藏。他从父母那里得到了50个州纪念硬币。在接下来的一年里，他将这个数量翻了一番。第二年，他每个月收集3个。第三年，他每隔3个月收集1个。第四年，当他把收藏品弄丢时，他失去了其中四分之一。在失去一些硬币后，他还剩下多少？。",
+  "topic": "回答下面的数学问题：Phil has a coin collection he likes to add to.  He started with 50 state quarters his parents gave him.  Over the next year he doubled this.  The following year he collected 3 each month.  The year after that he collected 1 every third month.  The year after that he lost a quarter of them when he misplaced his collection.  How many did he have left after losing some?",
   "checkpoint": [
     {
-      "$\\boxed{105}$": 1
+      "\\boxed{105}": 1
     }
   ],
   "matchingmethod": [

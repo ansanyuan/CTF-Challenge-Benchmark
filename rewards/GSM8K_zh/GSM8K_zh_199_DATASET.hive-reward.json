@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rosie每小时跑6英里。她周一跑了1小时，周二跑了30分钟，周三跑了1小时，周四跑了20分钟。如果她想在这一周跑20英里，她周五应该跑多少分钟？。",
+  "topic": "回答下面的数学问题：Rosie runs 6 miles per hour. She runs for 1 hour on Monday, 30 minutes on Tuesday, 1 hour on Wednesday, and 20 minutes on Thursday. If she wants to run 20 miles for the week, how many minutes should she run on Friday?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

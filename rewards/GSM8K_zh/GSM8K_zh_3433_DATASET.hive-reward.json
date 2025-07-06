@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Milly和Floretta在花园里进行水球战。她们使用了3包自己的水球，还用了邻居的2包水球。每包水球里有6个水球。Milly和Floretta把所有的水球都装满，然后平均分配，但Milly在Floretta不注意的时候多拿了7个水球。Floretta剩下多少个水球？。",
+  "topic": "回答下面的数学问题：Milly and Floretta are having a water balloon fight in their garden. They use 3 packs of their own water balloons and also use 2 packs of a neighbor’s water balloons. Each pack of water balloons contains 6 balloons. Milly and Floretta fill all of the balloons then split them evenly, but Milly takes an extra 7 balloons when Floretta isn't looking. How many water balloons is Floretta left with?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

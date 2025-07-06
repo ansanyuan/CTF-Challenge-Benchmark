@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：公司的数据录入团队有5名员工参与一个大项目。鲁迪每分钟打字64个单词，乔伊斯每分钟打字76个单词，格拉迪斯每分钟打字91个单词，丽莎每分钟打字80个单词，迈克每分钟打字89个单词。团队的平均打字速度是多少？。",
+  "topic": "回答下面的数学问题：The company's data entry team had 5 employees working on a large project.  Rudy types 64 words per minute, Joyce types 76 words per minute, Gladys types 91 words per minute, Lisa types 80 words per minute and Mike types 89 words per minute.  What is the team's average typed words per minute?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚伯拉罕拥有80平方米的未使用土地。他卖掉了一半的土地，每平方米50美元，一个月后，他又卖掉了四分之一的土地，每平方米30美元。然后他以每平方米3美元的价格卖掉了剩余的土地。亚伯拉罕卖掉所有未使用土地后能够赚到多少钱？。",
+  "topic": "回答下面的数学问题：Abraham owns 80 square meters of unused land. He sold half of the land for $50, and after a month, he sold another 1/4 of his land for $30. He then sold the remaining land for $3 per square meter. How much money will he be able to earn after selling all his unused land?",
   "checkpoint": [
     {
-      "$\\boxed{170}$": 1
+      "\\boxed{170}": 1
     }
   ],
   "matchingmethod": [

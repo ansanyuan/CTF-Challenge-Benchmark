@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汉娜试图弄清楚这周她会拿到多少工资。她每小时赚30美元，每周工作18小时。她每次迟到都会被扣5美元。如果这周她迟到了3次，她能拿到多少工资？。",
+  "topic": "回答下面的数学问题：Hannah is trying to figure out how much she'll get paid this week. She makes $30/hour and works 18 hours per week. Her pay is docked $5 each time she's late. If she was late 3 times this week, how much does she get paid?",
   "checkpoint": [
     {
-      "$\\boxed{525}$": 1
+      "\\boxed{525}": 1
     }
   ],
   "matchingmethod": [

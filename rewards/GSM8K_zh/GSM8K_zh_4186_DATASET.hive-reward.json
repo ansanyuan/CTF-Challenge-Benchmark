@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Emily买了9包糖果项链送给她在情人节的同学。每包里有8条糖果项链。Emily一次打开一包。在她的同学们拿走他们想要的糖果项链后，剩下40条糖果项链。Emily为她的同学们打开了多少包？。",
+  "topic": "回答下面的数学问题：Emily bought 9 packs of candy necklaces to give her classmates at school for Valentine’s Day. Each pack had 8 candy necklaces in it. Emily opened one pack at a time. After her classmates took as many as they wanted, there were 40 candy necklaces left. How many packs did Emily open for her classmates?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

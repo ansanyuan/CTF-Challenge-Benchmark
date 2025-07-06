@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莫妮卡出门一天花了一些钱。她去了商场花了250美元。然后，她去看了3部连续的电影，每部电影花了24美元。然后她在回家的路上顺便去了农贸市场，买了20袋每袋1.25美元的豆子。莫妮卡一天花了多少钱？。",
+  "topic": "回答下面的数学问题：Monika went out for the day and spent some money. She went to the mall and spent $250. Then, she went to the movies and watched 3 movies back to back that each cost $24. Then she stopped by the farmer's market on her way home and got 20 bags of beans at $1.25/bag. How much money did Monika spend throughout her day?",
   "checkpoint": [
     {
-      "$\\boxed{347}$": 1
+      "\\boxed{347}": 1
     }
   ],
   "matchingmethod": [

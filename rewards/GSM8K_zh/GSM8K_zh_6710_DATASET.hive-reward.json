@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rita从一家二手服装店购买了5件短裙，3条裤子和4件夹克。每件连衣裙的价格为20美元，裤子的价格为12美元，夹克的价格为30美元，她还额外花了5美元的交通费。如果她最初有400美元，那么她现在有多少钱？。",
+  "topic": "回答下面的数学问题：Rita bought 5 short dresses, 3 pairs of pants and 4 jackets from a store that sells second-hand clothes. The dresses cost $20 each, the pants cost $12, the jackets cost $30 each, and she spent an additional $5 on transportation. If she had $400 initially, how much does she have now?",
   "checkpoint": [
     {
-      "$\\boxed{139}$": 1
+      "\\boxed{139}": 1
     }
   ],
   "matchingmethod": [

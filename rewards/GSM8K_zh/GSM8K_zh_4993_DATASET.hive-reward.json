@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Pria购买了一辆宣传估计油耗为每加仑35英里的新车。这辆车有一个12加仑的油箱。她给车加满了油，然后能够驾驶总共372英里。Pria的里程和宣传里程之间的每加仑英里数的差是多少？。",
+  "topic": "回答下面的数学问题：Pria bought a new car that advertised an estimated gas mileage of 35 miles per gallon. The car has a 12-gallon tank. She filled her car full of gas and was able to drive a total of 372 miles. What was the difference, in miles per gallon, between Pria's mileage and the advertised mileage?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

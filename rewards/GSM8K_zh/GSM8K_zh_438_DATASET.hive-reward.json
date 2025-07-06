@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lao在养鸡。他每只鸡能卖1.50美元。一袋鸡饲料重20磅，价格为2美元。每只鸡从孵化到卖出需要2磅饲料。如果他从卖鸡中赚了65美元，他卖了多少只鸡？。",
+  "topic": "回答下面的数学问题：Lao is farming chickens. He can sell each chicken for $1.50. A bag of chicken feed weighs 20 pounds and costs $2. Each chicken will need 2 pounds of feed from the time it hatches to the time he sells it. If he makes $65 profit from selling chickens, how many did he sell?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

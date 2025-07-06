@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cristian的饼干罐里有比白色饼干多50个黑色饼干。他吃掉了黑色饼干的一半和白色饼干的3/4。如果他最初有80个白色饼干，饼干罐里一共剩下多少个饼干？。",
+  "topic": "回答下面的数学问题：Cristian has 50 more black cookies in his cookie jar than white cookies. He eats half of the black cookies and 3/4 of the white cookies. If he initially had 80 white cookies, how many cookies are remaining within the cookie jar altogether?",
   "checkpoint": [
     {
-      "$\\boxed{85}$": 1
+      "\\boxed{85}": 1
     }
   ],
   "matchingmethod": [

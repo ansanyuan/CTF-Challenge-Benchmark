@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蕾妮有她妹妹的三倍多的娃娃，而她妹妹比她们的祖母多两个娃娃。如果她们的祖母有50个娃娃，她们总共有多少个娃娃？。",
+  "topic": "回答下面的数学问题：Rene has three times as many dolls as her sister, while her sister has two more dolls than their grandmother. If their grandmother has 50 dolls, how many dolls do they have altogether?",
   "checkpoint": [
     {
-      "$\\boxed{258}$": 1
+      "\\boxed{258}": 1
     }
   ],
   "matchingmethod": [

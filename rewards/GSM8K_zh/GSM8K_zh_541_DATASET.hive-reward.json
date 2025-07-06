@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Emery翻看她妈妈放饼干切割模具的抽屉。有6个三角形形状的饼干切割模具，4个正方形的和2个六边形的。这些饼干切割模具总共有多少条边？。",
+  "topic": "回答下面的数学问题：Emery looks through the drawer where her mom keeps the cookie cutters. There are 6 cookie cutters shaped like triangles, 4 square ones and 2 hexagons. How many sides are there on the cookie cutters in total?",
   "checkpoint": [
     {
-      "$\\boxed{46}$": 1
+      "\\boxed{46}": 1
     }
   ],
   "matchingmethod": [

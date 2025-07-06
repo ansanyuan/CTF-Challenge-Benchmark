@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jack在班结束时在商店清点他的收银机。他的收银机里有2张100美元的钞票，1张50美元的钞票，5张20美元的钞票，3张10美元的钞票，7张5美元的钞票，27张1美元的钞票，以及一定数量的零钱。如果他应该留下300美元的纸币以及收银机里的所有硬币，并将剩下的交给总部，他将交出多少钱？。",
+  "topic": "回答下面的数学问题：Jack is counting out his register at the end of his shift in the shop. His till has 2 $100 bills, 1 $50 bill, 5 $20 bills, 3 $10 bills, 7 $5 bills, 27 $1 bills, and a certain amount of change in coins. If he is supposed to leave $300 in notes as well as all the coins in the till and turn the rest in to the main office, how much money will he be handing in?",
   "checkpoint": [
     {
-      "$\\boxed{142}$": 1
+      "\\boxed{142}": 1
     }
   ],
   "matchingmethod": [

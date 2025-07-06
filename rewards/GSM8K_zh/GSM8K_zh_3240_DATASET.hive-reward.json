@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡尔造成了一起车祸，导致财产损失价值40,000美元和医疗费用价值70,000美元。如果卡尔的保险公司将支付费用的80%，剩下的20%由卡尔支付，卡尔个人欠多少钱？。",
+  "topic": "回答下面的数学问题：Carl caused a car accident that resulted in $40,000 worth of property damage and $70,000 worth of medical bills. If Carl's insurance company will pay 80% of the costs, leaving Carl to pay the remaining 20%, how much does Carl personally owe?",
   "checkpoint": [
     {
-      "$\\boxed{22000}$": 1
+      "\\boxed{22000}": 1
     }
   ],
   "matchingmethod": [

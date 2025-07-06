@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家宠物店有6个笼子装着啮齿动物。其中3个笼子里有10只仓鼠，另外3个笼子里有5只豚鼠。宠物店总共有多少只啮齿动物？。",
+  "topic": "回答下面的数学问题：A pet shop had 6 cages of rodents. 3 of the cages have 10 hamsters and the other 3 have 5 guinea pigs. How many rodents did the pet shop have in total?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

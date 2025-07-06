@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jean的化妆师每小时收费250美元。她在一部电影中需要非常昂贵的化妆品，每天需要化妆6小时，每周需要化妆4次。电影拍摄需要5周时间完成。电影拍摄完成后，由于工作量大，化妆师给了Jean 10%的折扣。Jean支付了多少钱？。",
+  "topic": "回答下面的数学问题：Jeans makeup artist charges her $250 an hour.  She requires very expensive makeup for a movie she is in and it takes 6 hours to do each day and she needs it done 4 times a week.  The movie takes 5 weeks to finish.  After the movie is done the makeup artist gives Jean a 10% discount because of the amount of work done.  How much did Jean pay?",
   "checkpoint": [
     {
-      "$\\boxed{27000}$": 1
+      "\\boxed{27000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：保罗去商店买一些杂货。他买了一些面包，价格为2美元，黄油价格为3美元，果汁的价格是面包价格的两倍。他购物时有15美元。保罗还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Paul went to a shop to buy some groceries. He bought some bread for $2, butter for $3, and juice for two times the price of the bread. He had $15 for his shopping. How much money did Paul have left?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

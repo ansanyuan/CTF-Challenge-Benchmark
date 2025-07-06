@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米歇尔带三明治去工作给她的同事。她给了其中一个同事4个三明治，并留下了两倍于此数量的三明治给自己。如果她最初做了20个三明治，她还剩下多少个三明治可以给其他同事？。",
+  "topic": "回答下面的数学问题：Michelle is bringing sandwiches to work to give to her co-workers. She gives 4 sandwiches to one of her co-workers and keeps twice this amount for herself. If she had originally made 20 sandwiches, how many sandwiches does she have left to give to her other co-workers?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

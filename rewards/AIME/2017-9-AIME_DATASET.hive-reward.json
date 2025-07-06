@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：A special deck of cards contains $49$ cards, each labeled with a number from $1$ to $7$ and colored with one of seven colors. Each number-color combination appears on exactly one card. Sharon will select a set of eight cards from the deck at random. Given that she gets at least one card of each color and at least one card with each number, the probability that Sharon can discard one of her cards and $\\textit{still}$ have at least one card of each color and at least one card with each number is $\\frac{p}{q}$ , where $p$ and $q$ are relatively prime positive integers. Find $p+q$ .",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

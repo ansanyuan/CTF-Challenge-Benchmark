@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：8年后，伯纳德先生的年龄将是卢克现在年龄的3倍。如果卢克现在20岁，那么比他们的平均年龄小10岁是多少？。",
+  "topic": "回答下面的数学问题：In eight years, Mr. Bernard will be 3 times as old as Luke is now. If Luke is 20, what is 10 years less than their average age?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

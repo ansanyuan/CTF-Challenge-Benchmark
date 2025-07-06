@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅根每天工作八个小时，每小时赚7.50美元。如果她一个月工作20天，她两个月的总收入将是多少？。",
+  "topic": "回答下面的数学问题：Megan works eight hours a day and earns $7.50 per hour.  If she works 20 days a month, how much will be her total earnings for two months of work?",
   "checkpoint": [
     {
-      "$\\boxed{2400}$": 1
+      "\\boxed{2400}": 1
     }
   ],
   "matchingmethod": [

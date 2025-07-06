@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汉娜正在做香蕉面包。她需要每杯香蕉泥用3杯面粉。每杯香蕉泥需要4个香蕉。如果汉娜使用20个香蕉，她应该使用多少杯面粉？。",
+  "topic": "回答下面的数学问题：Hannah is making banana bread. She needs to use 3 cups of flour for every cup of banana mush. It takes 4 bananas to make one cup of mush. If Hannah uses 20 bananas, how many cups of flour should she use?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ian在彩票中赢得了100美元。他决定用这笔钱来偿还债务。他先支付了20美元给Colin。然后，他支付给Helen的金额是他支付给Colin的两倍。最后，他支付给Benedict的金额是他支付给Helen的一半。在偿还债务后，他还剩下多少美元？。",
+  "topic": "回答下面的数学问题：Ian won $100 in the lottery.  He decided to use the money to pay off debts. He paid $20 to Colin. He then paid twice as much to Helen, as he had paid to Colin. Then finally, he paid half as much to Benedict, as he had paid to Helen.  How much money, in dollars, does he have left after paying off debts?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

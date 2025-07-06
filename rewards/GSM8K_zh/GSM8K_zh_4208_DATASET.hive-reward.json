@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米兹尔花了她津贴的35%。如果她花了14美元，她的津贴还剩多少钱？。",
+  "topic": "回答下面的数学问题：Mitzel spent 35% of her allowance. If she spent $14, how much money is left in her allowance?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

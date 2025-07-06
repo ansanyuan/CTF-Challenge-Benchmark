@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：特洛伊正在考虑购买一台价值80美元的新电脑。他最初存了50美元，并计划以20美元的价格出售他的旧电脑。他还需要多少钱才能买到新电脑？。",
+  "topic": "回答下面的数学问题：Troy is thinking of buying a new computer that is worth $80. He has initially saved $50 and plans to sell his old computer for $20. How much more money does he need so he could buy the new computer?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

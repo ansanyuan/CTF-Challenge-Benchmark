@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：月球由50%的铁，20%的碳组成，其余是其他元素。火星的重量是月球的两倍，但具有完全相同的成分。如果火星是150吨其他元素，月球的重量是多少吨？。",
+  "topic": "回答下面的数学问题：The moon is made of 50% iron, 20% carbon, and the remainder is other elements. Mars weighs twice as much as the moon, but has the exact same composition. If Mars is 150 tons of other elements, how many tons does the moon weigh?",
   "checkpoint": [
     {
-      "$\\boxed{250}$": 1
+      "\\boxed{250}": 1
     }
   ],
   "matchingmethod": [

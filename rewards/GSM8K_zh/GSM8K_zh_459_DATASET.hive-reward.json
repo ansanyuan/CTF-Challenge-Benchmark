@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marcy的年级正在选举他们的班长。 Marcy得到的选票数是Barry的三倍，而Barry得到的选票数是Joey得到的选票数加3的两倍。如果Joey得到了8张选票，那么Marcy得到了多少张选票？。",
+  "topic": "回答下面的数学问题：Marcy's grade is electing their class president. Marcy got three times as many votes as Barry, who got twice as many as 3 more than the number of votes Joey got. If Joey got 8 votes, how many votes did Marcy get?",
   "checkpoint": [
     {
-      "$\\boxed{66}$": 1
+      "\\boxed{66}": 1
     }
   ],
   "matchingmethod": [

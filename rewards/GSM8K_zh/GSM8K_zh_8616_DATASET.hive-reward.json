@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jess在尝试猜测罐子里有多少颗蓝色的果冻豆。她可以看到有17颗绿色的果冻豆和两倍数量的红色果冻豆。剩下的果冻豆都是蓝色的。如果总共有60颗果冻豆，那么有多少颗是蓝色的果冻豆？。",
+  "topic": "回答下面的数学问题：Jess is trying to guess the number of blue jellybeans in a jar. She can see that there are 17 green jelly beans and twice as many red jelly beans. The rest of the jellybeans are blue jelly beans. If there are a total of 60 jelly beans in total, how many blue jellybeans are there?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

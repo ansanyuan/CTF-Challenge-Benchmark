@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔的妈妈给了他56美元去商店。乔买了7本笔记本和2本书。每本笔记本的价格是4美元，每本书的价格是7美元。乔还剩多少钱？。",
+  "topic": "回答下面的数学问题：Joe’s mother gave him $56 to go to the store. Joe bought 7 notebooks and 2 books. Each notebook costs $4 and each book costs $7. How much money does Joe have left?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽使用可以容纳最多20磅的塑料购物袋。她买了4磅的青豆，6磅的牛奶，和胡萝卜的数量是青豆的两倍。玛丽还能再装多少磅的杂货？。",
+  "topic": "回答下面的数学问题：Mary uses plastic grocery bags that can hold a maximum of twenty pounds. She buys 4 pounds of green beans, 6 pounds milk, and twice the amount of carrots as green beans. How many more pounds of groceries can Mary fit in that bag?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：篮子里有一些橙子。Ana削一个橙子要花3分钟，Jane削同样的橙子要花4分钟。如果Ana和Jane同时开始从这个篮子里拿橙子来削，那么一个小时后Ana比Jane多削了多少个橙子？。",
+  "topic": "回答下面的数学问题：There are some oranges in a basket. Ana spends 3 minutes peeling an orange and Jane spends 4 minutes doing the same. If Ana and Jane start picking oranges from this basket to peel at the same time, how many more oranges will Ana have peeled than Jane after an hour?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

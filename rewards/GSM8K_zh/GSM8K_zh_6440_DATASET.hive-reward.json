@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Geli每周锻炼3次。在她的第一天，她开始做10个俯卧撑。她的健身教练鼓励她每天增加5个俯卧撑。在她的第一个星期里，她总共会做多少个俯卧撑？。",
+  "topic": "回答下面的数学问题：Geli is committed to her 3 times a week workout. On her first day, she started doing 10 push-ups. Her fitness trainer encouraged her to add 5 more push-ups each day. How many push-ups will she do in total throughout her first week?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

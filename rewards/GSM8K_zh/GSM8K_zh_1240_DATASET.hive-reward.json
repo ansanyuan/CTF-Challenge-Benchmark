@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆决定给他的房间铺新地板。拆除地板的费用是50美元。新地板的价格是每平方英尺1.25美元，汤姆的房间是8*7平方英尺。更换地板的总费用是多少？。",
+  "topic": "回答下面的数学问题：Tom decides to get a new floor for his room.  It cost $50 to remove the floor.  The new floor costs $1.25 per square foot and Tom's room is 8*7 feet.  How much did it cost to replace the floor?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

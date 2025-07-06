@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：五个篮子中每个篮子的平均水果数量是25。如果篮子A包含15个苹果，B有30个芒果，C有20个桃子，D有25个梨，E有一些香蕉，那么篮子E有多少个香蕉？。",
+  "topic": "回答下面的数学问题：The average number of fruits per basket in five baskets is 25. If basket A contains 15 apples, B has 30 mangoes, C has 20 peaches, D has 25 pears and E has some bananas, how many bananas are in basket E?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：巴特填写调查问卷来赚钱。他每回答一个问题在调查中可以得到0.2美元。每份调查有10个问题。星期一他完成了3份调查，星期二完成了4份调查。在这两天里他赚了多少钱？。",
+  "topic": "回答下面的数学问题：Bart fills out surveys to earn money. He receives $0.2 for every question he answers in the survey. Each survey has 10 questions. On Monday he finished 3 surveys, and on Tuesday 4 surveys. How much money did he earn during these two days?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

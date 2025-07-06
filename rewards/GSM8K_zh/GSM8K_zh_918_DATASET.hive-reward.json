@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰森正在爬一个电话杆，旁边是他的朋友马特在爬一棵树。马特每分钟可以爬6英尺，而杰森每分钟可以爬12英尺。7分钟后，杰森比马特高多少英尺？。",
+  "topic": "回答下面的数学问题：Jason is climbing a telephone pole next to a tree his friend Matt is climbing. Matt can climb 6 feet/minute and Jason can climb 12 feet per minute. After 7 minutes, how much higher will Jason be than Matt?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

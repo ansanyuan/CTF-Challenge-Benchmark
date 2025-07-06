@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丹巴夫人正在为她侄女的婚礼制作花束。她需要制作5束花和7个桌面装饰。她每个桌面装饰使用12朵白玫瑰，每束花使用5朵白玫瑰。她总共需要多少朵白玫瑰才能完成所有的花束和桌面装饰？。",
+  "topic": "回答下面的数学问题：Mrs. Dunbar was creating floral arrangements for her niece's wedding.  She needed to make 5 bouquets and 7 table decorations.  She uses 12 white roses in each table decoration and 5 white roses in each bouquet.  How many white roses in total does she need to complete all bouquets and table decorations?",
   "checkpoint": [
     {
-      "$\\boxed{109}$": 1
+      "\\boxed{109}": 1
     }
   ],
   "matchingmethod": [

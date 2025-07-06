@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marnie打开一袋薯片，吃了5片看看她是否喜欢。她喜欢，所以她又吃了5片。袋子里有100片薯片，从她第二天开始吃，她每天吃10片。Marnie吃完整袋薯片需要多少天？。",
+  "topic": "回答下面的数学问题：Marnie opens a bag of chips and eats 5 of them to see if she likes them. She does, so she eats 5 more. The bag has 100 chips in it and starting on the second day she has them, Marnie eats 10 each day. How many days does it take for Marnie to eat the whole bag of chips?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

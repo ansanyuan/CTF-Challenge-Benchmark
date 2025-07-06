@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：打火机在加油站每个1.75美元，或者在亚马逊每包12个5.00美元。阿曼达买24个打火机，与在加油站买相比，她会省下多少钱？。",
+  "topic": "回答下面的数学问题：Lighters cost $1.75 each at the gas station, or $5.00 per pack of twelve on Amazon. How much would Amanda save by buying 24 lighters online instead of at the gas station?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

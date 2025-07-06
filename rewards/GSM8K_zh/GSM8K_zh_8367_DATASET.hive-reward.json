@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克每周工作5天，每天工作8小时。他过去每小时赚10美元，但他们每小时增加了他2美元的工资。他一周赚多少钱？。",
+  "topic": "回答下面的数学问题：Mark works at his job for 8 hours a day for 5 days a week.  He used to make $10 an hour but they raised his pay by $2 per hour.  How much does he make a week?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：桌子上有糖果。杰克来了，拿走了所有糖果的一半和多4颗糖果。然后保罗来了，拿走了剩下的7颗糖果。一开始桌子上有多少颗糖果？。",
+  "topic": "回答下面的数学问题：There were sweets on the table. Jack came and took half of all the candies and 4 more candies. Then Paul came and took the remaining 7 sweets. How many sweets were on the table at first?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

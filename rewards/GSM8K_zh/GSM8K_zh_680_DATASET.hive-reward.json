@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：巴特以每本1.25美元的价格购买了总价值10美元的记事本。每本记事本有60页。他购买了多少页？。",
+  "topic": "回答下面的数学问题：Bart buys $10 of notepads for $1.25 each.  They have 60 pages each.  How many pages did he buy?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

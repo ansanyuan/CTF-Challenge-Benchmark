@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊桑制作蜂蜡蜡烛。每支蜡烛他使用8盎司的蜂蜡和1盎司的椰子油。如果他制作的蜡烛比10支少3支，那么蜡烛的总重量将是多少盎司？。",
+  "topic": "回答下面的数学问题：Ethan makes beeswax candles.  For each candle, he uses 8 ounces of beeswax and 1 ounce of coconut oil.  If he makes three less than 10 candles, what will be the combined weight of the candles in ounces?",
   "checkpoint": [
     {
-      "$\\boxed{63}$": 1
+      "\\boxed{63}": 1
     }
   ],
   "matchingmethod": [

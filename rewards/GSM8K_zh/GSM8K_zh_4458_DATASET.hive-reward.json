@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Matt用2磅面粉可以做一打饼干。他使用了4袋面粉，每袋重5磅。如果吉姆吃了15块饼干，剩下多少块饼干？。",
+  "topic": "回答下面的数学问题：Matt can make a batch of a dozen cookies using 2 pounds of flour.  He uses 4 bags of flour each weighing 5 pounds.  If Jim eats 15 cookies how many cookies are left?",
   "checkpoint": [
     {
-      "$\\boxed{105}$": 1
+      "\\boxed{105}": 1
     }
   ],
   "matchingmethod": [

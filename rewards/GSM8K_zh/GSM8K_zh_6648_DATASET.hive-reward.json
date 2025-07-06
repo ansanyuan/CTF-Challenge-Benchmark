@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：昨天，莎拉收集了50个铝罐，而拉拉收集了30个更多的铝罐。今天，莎拉收集了40个，而拉拉收集了70个铝罐。他们今天比昨天少收集了多少个铝罐？。",
+  "topic": "回答下面的数学问题：Yesterday, Sarah collected 50 aluminum cans while Lara collected 30 more aluminum cans. Today, Sarah collected 40 while Lara collected 70 aluminum cans. How many fewer cans did they collect today than yesterday?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

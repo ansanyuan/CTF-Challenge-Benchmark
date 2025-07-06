@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：需要3个蜂巢才能制作足够的蜡来制作12支蜡烛。需要多少个蜂巢才能制作96支蜡烛？。",
+  "topic": "回答下面的数学问题：It takes 3 beehives to make enough wax to make 12 candles. How many hives does it take to make 96 candles?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

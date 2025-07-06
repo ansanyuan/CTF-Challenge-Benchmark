@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个YouTube视频获得了3000个赞和比一半还多100个的踩。如果视频获得了1000个额外的踩和0个额外的赞，那么视频有多少个踩？。",
+  "topic": "回答下面的数学问题：A YouTube video got 3000 likes and 100 more than half as many dislikes. If the video gets 1000 more dislikes and 0 more likes how many dislikes does the video have?",
   "checkpoint": [
     {
-      "$\\boxed{2600}$": 1
+      "\\boxed{2600}": 1
     }
   ],
   "matchingmethod": [

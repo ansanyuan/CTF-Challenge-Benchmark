@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：辛迪有37个信封。如果辛迪每个朋友都给3个信封，她还剩下多少个信封？。",
+  "topic": "回答下面的数学问题：Cindy has 37 envelopes. If Cindy gives 3 envelopes to each of her 5 friends, how many envelopes does she have left?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

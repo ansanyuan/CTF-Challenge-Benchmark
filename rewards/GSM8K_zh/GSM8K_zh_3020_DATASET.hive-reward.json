@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Janelle有26颗绿色弹珠。然后她买了6袋蓝色弹珠。每袋里有10颗弹珠。她制作了一个礼物，里面有6颗绿色弹珠和8颗蓝色弹珠，然后送给了一个朋友。Janelle现在有多少颗弹珠？。",
+  "topic": "回答下面的数学问题：Janelle had 26 green marbles. Then she bought 6 bags of blue marbles. There were 10 marbles in each bag.  She created a gift of 6 green marbles and 8 blue marbles and gave it to a friend. How many marbles does Janelle have now?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

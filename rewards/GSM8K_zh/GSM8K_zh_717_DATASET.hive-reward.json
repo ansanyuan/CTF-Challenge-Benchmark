@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lance有70美分，玛格丽特有四分之三美元，盖伊有两个25美分和一个10美分，比尔有六个10美分。他们总共有多少美分？。",
+  "topic": "回答下面的数学问题：Lance has 70 cents, Margaret has three-fourths of a dollar, Guy has two quarters and a dime, and Bill has six dimes. How many cents do they have combined?",
   "checkpoint": [
     {
-      "$\\boxed{265}$": 1
+      "\\boxed{265}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：电影院售价成人票5美元，晚场票7美元，首映票10美元。一桶爆米花售价10美元。星期五，他们有32名成人票顾客，40名晚场票顾客，以及58名首映电影的顾客。如果一半的顾客购买了爆米花，电影院星期五晚上赚了多少美元？。",
+  "topic": "回答下面的数学问题：A movie theater charges $5 for matinee tickets, $7 for evening tickets, and $10 for opening night tickets. A bucket of popcorn costs $10. On Friday, they had 32 matinee customers, 40 evening customers, and 58 customers for an opening night showing of a movie. If half the customers bought popcorn, how much money in dollars did the theater make on Friday night?",
   "checkpoint": [
     {
-      "$\\boxed{1670}$": 1
+      "\\boxed{1670}": 1
     }
   ],
   "matchingmethod": [

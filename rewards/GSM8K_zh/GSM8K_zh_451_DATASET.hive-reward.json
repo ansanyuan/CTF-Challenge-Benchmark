@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Flora一直经常骨折。胡安医生要求她在3周内喝105加仑的牛奶来加强骨骼。Flora认为每天喝3加仑的牛奶就足够了，但她的哥哥说她仍然需要喝更多。为了满足胡安医生的要求，Flora每天还需要喝多少加仑的牛奶？。",
+  "topic": "回答下面的数学问题：Flora has been experiencing frequent fractures. Dr. Juan has asked her to strengthen her bones by drinking 105 gallons of milk within 3 weeks. Flora thinks that drinking 3 gallons of milk daily will be enough, but her brother says she'll still need to drink more. To fulfill Dr. Juan’s requirement, how many more gallons must Flora drink daily?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

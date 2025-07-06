@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托马斯买了一个重量背心。它重60磅，在开始时对他很有效，但在一段时间的训练后，他决定要增加60%的重量。这些重量以2磅的钢锭的形式出售。每个锭的成本是5美元，如果购买超过10个，则可以享受20%的折扣。获得所需的重量需要多少钱？。",
+  "topic": "回答下面的数学问题：Thomas buys a weight vest.  It weighed 60 pounds and worked well for him in the beginning but after a bit of training he decides he wants to increase the weight by 60%.  The weights come in 2-pound steel ingots.  Each ingot cost $5 and if you buy more than 10 you get a 20% discount.  How much does it cost to get the weight he needs?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

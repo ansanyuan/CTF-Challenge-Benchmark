@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗布有24张棒球卡，其中有一些是重复的。罗布的卡片中有三分之一是重复的，而杰斯有罗布的五倍重复的卡片。杰斯有多少张重复的棒球卡？。",
+  "topic": "回答下面的数学问题：Rob has 24 baseball cards, and a few are doubles. One third of Rob's cards are doubles, and Jess has 5 times as many doubles as Rob. How many doubles baseball cards does Jess have?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jennifer买的糖果是Emily买的两倍，是Bob买的三倍。如果Emily买了6颗糖果，那么Bob买了多少颗糖果？。",
+  "topic": "回答下面的数学问题：Jennifer bought twice as many candies as Emily and three times as many as Bob bought. If Emily bought 6 candies, how many candies did Bob buy?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

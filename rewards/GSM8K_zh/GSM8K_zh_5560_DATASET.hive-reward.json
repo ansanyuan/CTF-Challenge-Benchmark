@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：利梅尔是一名篮球运动员。在其中一场比赛中，他投篮得分7次。他还投进了3分球3次。他在那场比赛中总共得了多少分？。",
+  "topic": "回答下面的数学问题：Lemuel is a basketball player. In one of the games, he made 2-point shots 7 times. He also made 3-points shots thrice. How many points, in total, did he make in that game?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一份有50道题的考试中，每道题有两分。梅根得知她的分数比她的朋友何塞低20分，而何塞的分数比他们的朋友艾莉森高40分。如果何塞答错了5道题，计算三人在考试中的总分是多少？。",
+  "topic": "回答下面的数学问题：In a 50-question test with two marks for each question, Meghan learned that she scored 20 marks less than her friend Jose, who scored 40 more marks than their friend Alisson. Calculate the total score for the three in the test combined if Jose got 5 questions wrong?",
   "checkpoint": [
     {
-      "$\\boxed{210}$": 1
+      "\\boxed{210}": 1
     }
   ],
   "matchingmethod": [

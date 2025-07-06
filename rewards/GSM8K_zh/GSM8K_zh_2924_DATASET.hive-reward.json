@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ruel有四本10张邮票和六本15张邮票。Ruel有多少张邮票？。",
+  "topic": "回答下面的数学问题：Ruel has four books of 10 stamps and six books of 15 stamps. How many stamps does Ruel have?",
   "checkpoint": [
     {
-      "$\\boxed{130}$": 1
+      "\\boxed{130}": 1
     }
   ],
   "matchingmethod": [

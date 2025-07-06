@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莫里斯一生中只骑过几次马。他最好的朋友马特经常骑马。当莫里斯去拜访马特两个星期时，他又骑了8次。每次，马特都和他一起去。与此同时，除了马特陪同莫里斯的次数外，他另外骑了16次。如果在那两个星期内，马特骑马的总次数是莫里斯拜访之前骑马次数的三倍，那么莫里斯在拜访马特之前骑马了多少次？。",
+  "topic": "回答下面的数学问题：Maurice had only been horseback riding a handful of times in his life. His best friend, Matt, goes horseback riding regularly. When Maurice went to visit Matt for two weeks, he rode another 8 times. Each time, Matt went with him. Meanwhile, besides the times that Matt accompanied Maurice, he rode an additional 16 times. If the total number of times Matt rode during that two weeks is three times the number of times Maurice had ridden before his visit, how many times had Maurice been horseback riding before visiting Matt?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

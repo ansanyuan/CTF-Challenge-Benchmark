@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉尔每小时教书赚20美元，当啦啦队教练赚30美元。如果她一年工作50周，每周作为老师工作35小时，作为教练工作15小时，她的年薪是多少？。",
+  "topic": "回答下面的数学问题：Jill gets paid $20 per hour to teach and $30 to be a cheerleading coach. If she works 50 weeks a year, 35 hours a week as a teacher and 15 hours a week as a coach, what's her annual salary?",
   "checkpoint": [
     {
-      "$\\boxed{57500}$": 1
+      "\\boxed{57500}": 1
     }
   ],
   "matchingmethod": [

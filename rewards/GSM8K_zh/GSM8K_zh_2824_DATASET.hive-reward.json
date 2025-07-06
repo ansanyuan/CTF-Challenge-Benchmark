@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽在星期六有50箱苹果，星期天有25箱。每箱有10个苹果。如果她在星期六和星期天总共卖了720个苹果，还剩下多少箱苹果？。",
+  "topic": "回答下面的数学问题：Merry had 50 boxes of apples on Saturday and 25 boxes on Sunday. There were 10 apples in each box. If she sold a total of 720 apples on Saturday and Sunday, how many boxes of apples are left?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

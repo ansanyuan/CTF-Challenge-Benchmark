@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丹尼拥有一座农场，在他的农场里有4头奶牛和3只羊，它们每天吃2石料。他还有7只鸡，它们每天吃3石料。他应该有多少石料才能满足动物们一天的需要？。",
+  "topic": "回答下面的数学问题：Dany owns a farm, in his farm he has 4 cows and 3 sheep that eat 2 bushels a day. He also has 7 chickens that eat 3 bushels a day. How many bushels should he have to suffice the animals for a day?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

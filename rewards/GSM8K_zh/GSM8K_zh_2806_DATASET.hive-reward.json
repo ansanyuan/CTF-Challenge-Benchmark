@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布兰妮有3只沙鼠：Puffy，Muffy和Scruffy。Puffy比Muffy重5盎司。Muffy比Scruffy轻3盎司。如果Scruffy重12盎司，如果布兰妮把Puffy和Muffy放在秤上，秤上会显示多少盎司？。",
+  "topic": "回答下面的数学问题：Brittany has 3 gerbils: Puffy, Muffy, and Scruffy. Puffy weighs 5 ounces more than Muffy. Muffy weighs 3 ounces less than Scruffy.  If Scruffy weighs 12 ounces, how much would the scale indicate, in ounces, if Brittany put Puffy and Muffy on the scale?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

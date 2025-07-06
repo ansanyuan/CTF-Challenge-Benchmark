@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰每天在他的频道上发布3个视频。其中两个是短视频，每个视频2分钟，另一个视频的长度是前两个视频的6倍。假设一周7天，他每周发布多少分钟的视频？。",
+  "topic": "回答下面的数学问题：John releases 3 videos on his channel a day.  Two of them are short 2 minute videos and 1 of them is 6 times as long.  Assuming a 7-day week, how many minutes of video does he release per week?",
   "checkpoint": [
     {
-      "$\\boxed{112}$": 1
+      "\\boxed{112}": 1
     }
   ],
   "matchingmethod": [

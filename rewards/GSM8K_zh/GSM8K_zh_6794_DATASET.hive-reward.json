@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有7辆卡车装有20箱油。有5辆卡车装有12箱油。每箱可以装8个油罐。如果所有的油均匀地重新分配到10辆卡车上，每辆卡车将有多少个油罐？。",
+  "topic": "回答下面的数学问题：There are 7 trucks that have 20 boxes. There are 5 trucks that have 12 boxes. Each box holds 8 containers of oil. If all of the oil is evenly redistributed onto 10 trucks, how many containers of oil will each truck have?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

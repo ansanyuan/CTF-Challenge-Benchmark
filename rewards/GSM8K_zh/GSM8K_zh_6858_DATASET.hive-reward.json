@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Archer从湖中捕了八条鱼去市场卖。当他到达市场时，他比预期更快地卖掉了鱼，决定回到湖中捕更多的鱼。第二轮他比之前多捕了12条鱼。需求更大，他不得不在一天结束时比第二轮多捕60%的鱼，并在市场上全部卖掉。那天他一共捕了多少条鱼？。",
+  "topic": "回答下面的数学问题：Archer caught eight fish from the lake to sell in the market. When he reached the market, he sold the fish faster than he had anticipated and decided to go back to the lake and catch more fish. He caught 12 more fish in the second round than he had caught earlier. The demand was even greater, and he had to close the day by catching 60% more fish than the number he had caught in the second round and sold all of them in the market. How many fish did he catch that day?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

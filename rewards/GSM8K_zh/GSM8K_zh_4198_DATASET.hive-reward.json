@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Chantal织毛衣出售。每件毛衣需要4个毛线球。每个毛线球的成本是6美元。如果她每件毛衣卖35美元，那么她在28件毛衣中总共会赚多少钱？。",
+  "topic": "回答下面的数学问题：Chantal knits sweaters to sell. Each sweater takes 4 balls of yarn. Each ball of yarn costs $6. How much money will Chantal gain in all 28 sweaters if she sells each sweater for $35?",
   "checkpoint": [
     {
-      "$\\boxed{308}$": 1
+      "\\boxed{308}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗纳德想通过转售一周前购买的一些手机来获利。他以3000美元购买了200部手机，并且他希望在所有手机售出时获得初始投资的三分之一的利润。包括利润率，每部手机的售价是多少？。",
+  "topic": "回答下面的数学问题：Ronald wants to make profits by re-selling some phones he bought a week ago. He bought 200 units for just $3000, and he wants to gain a third of the initial investment in profits when all units are sold. Including the profit margin, what will be the selling price for each phone?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

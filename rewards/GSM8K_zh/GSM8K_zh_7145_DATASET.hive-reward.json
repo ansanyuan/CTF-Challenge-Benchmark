@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：iPhone的价格在一个特定月份下降了10%，第二个月再下降了20%。如果初始价格为1000美元，请计算第二个月后的价格。。",
+  "topic": "回答下面的数学问题：The price of an iPhone fell 10% in a particular month and another 20% in the second month.  If the initial price was $1000, calculate the price after the second month.",
   "checkpoint": [
     {
-      "$\\boxed{720}$": 1
+      "\\boxed{720}": 1
     }
   ],
   "matchingmethod": [

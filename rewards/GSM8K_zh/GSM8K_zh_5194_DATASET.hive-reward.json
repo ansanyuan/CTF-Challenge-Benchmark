@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Roxy的花园里有7株开花植物。她的结果植物数量是开花植物数量的两倍。周六，她去苗圃买了3株开花植物和2株结果植物。周日，她送给邻居Ronny1株开花植物和4株结果植物。她的花园里剩下多少植物？。",
+  "topic": "回答下面的数学问题：Roxy has 7 flowering plants in her garden.  She has twice as many fruiting plants as her flowering plants.  On Saturday, she goes to the nursery and buys 3 flowering plants and 2 fruiting plants. On Sunday, she gives away 1 flowering plant and 4 fruiting plants to her neighbor, Ronny.   How many plants are remaining in her garden?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

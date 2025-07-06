@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Maia是一名自由博客作者，为不同的客户工作，每天为他们撰写不同的文章。她每天收到6个客户请求，每天处理其中的4个。在5天后，她将剩下多少个客户请求需要处理？。",
+  "topic": "回答下面的数学问题：Maia is a freelance blogger working for different clients for whom she writes different articles every day. She gets 6 client requests every day and works on four of them each day. How many client requests will she have remaining to work on after 5 days.",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

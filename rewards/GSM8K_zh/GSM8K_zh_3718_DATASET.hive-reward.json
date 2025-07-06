@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克在后院种了一些草莓。每个月，草莓植株的数量都会翻倍。3个月后，马克挖起了4株草莓植株送给他的朋友。如果他还剩下20株草莓植株，那么他最初种了多少株？。",
+  "topic": "回答下面的数学问题：Mark plants some strawberries in his backyard. Every month, the number of strawberry plants doubles. After 3 months, Mark digs up 4 strawberry plants and gives them to his friend.  If he still has 20 strawberry plants, how many did he initially plant?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

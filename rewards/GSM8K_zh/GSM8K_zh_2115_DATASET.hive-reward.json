@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈尔斯和达芬妮正在比较他们的阅读收藏，并想弄清楚谁有更多的页面。他们即将数每一页，但他们的父母建议他们看看谁的收藏更高。迈尔斯的收藏更高，但达芬妮注意到迈尔斯读的是厚书，所以页面更厚。经过更多的测量，他们发现对于迈尔斯，1英寸等于5页，但对于达芬妮，1英寸等于50页。如果迈尔斯的书有240英寸高，达芬妮的收藏有25英寸高，最长的收藏有多少页？。",
+  "topic": "回答下面的数学问题：Miles and Daphne are comparing their reading collection and want to figure out who has more pages. They are about to count each page, but their parents suggest that they see whose collection is taller. Mile's collection is taller, but then Daphne notices that Miles reads board books, and so the pages are thicker. After some more measuring, they figure out that for Miles, 1 inch equals 5 pages, but for Daphne 1 inch equals 50 pages. If Miles's books are 240 inches tall and Daphne's collection is 25 inches tall, how many pages are in the longest collection?",
   "checkpoint": [
     {
-      "$\\boxed{1250}$": 1
+      "\\boxed{1250}": 1
     }
   ],
   "matchingmethod": [

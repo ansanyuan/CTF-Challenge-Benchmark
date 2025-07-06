@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当哈丽特清理沙发和椅子时，她找到了10个25美分硬币，3个10美分硬币，3个5美分硬币和5个1美分硬币。哈丽特找到了多少钱？。",
+  "topic": "回答下面的数学问题：When Harriett vacuumed the sofa and chair she found 10 quarters, 3 dimes, 3 nickels, and 5 pennies.  How much money did Harriett find?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Brinley在Bert先生的数学课上。Bert先生每学期会进行六次测试，并允许学生在每学期的平均分中去掉一个最低分。如果Brinley在前五次测试中的分数是89、71、92、100和86，那么她在第六次测试中需要得到多少分才能获得93的平均分？。",
+  "topic": "回答下面的数学问题：Brinley is in Mr. Bert's math class. Mr. Bert gives six tests each semester. He allows the students to remove the lowest score from the average each semester. If Brinley has scores of 89, 71, 92, 100 and 86 on the first five tests, what score does she need on the sixth test to get an average of 93?",
   "checkpoint": [
     {
-      "$\\boxed{98}$": 1
+      "\\boxed{98}": 1
     }
   ],
   "matchingmethod": [

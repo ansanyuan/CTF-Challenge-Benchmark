@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果Derek必须带着他的兄弟走20英里，那么他需要多花多少分钟？。",
+  "topic": "回答下面的数学问题：It takes Derek 9 minutes to walk a mile if he doesn't have to walk with his brother. If he has to take his brother it takes 12 minutes to walk a mile. How many minutes longer would it take him to walk 20 miles if he had to take his brother?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

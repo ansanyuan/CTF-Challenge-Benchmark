@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克莱尔正在安排她的一天。她有四个小时用来清洁和两个小时用来烹饪，然后在她的工作日剩下的时间中平均分配在手工艺和裁缝之间。然后她睡了八个小时。如果所有这些都发生在一天之内，克莱尔花了多少小时在手工艺上？。",
+  "topic": "回答下面的数学问题：Claire is scheduling her day. She has four hours to clean and two hours to cook, then divides the rest of her working day equally between crafting and tailoring. She then sleeps eight hours. If all of this takes place within one day, how many hours did Claire spend crafting?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

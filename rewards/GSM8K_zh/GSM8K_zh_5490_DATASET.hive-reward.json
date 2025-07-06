@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kirsty收集小动物模型。上次她购买时，每个模型的价格是0.45美元。她存够钱买30个模型，但当她去商店时，发现价格已经涨到了0.50美元。现在她能买多少个模型？。",
+  "topic": "回答下面的数学问题：Kirsty collects small models of animals. The last time she bought some, each one cost $0.45. She saves enough to buy 30 models, but when she goes to the shop, she finds out that the price had increased to $0.50. How many models can she buy now?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

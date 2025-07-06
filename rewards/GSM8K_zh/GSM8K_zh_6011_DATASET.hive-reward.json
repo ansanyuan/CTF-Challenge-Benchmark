@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯每只手可以负重300磅走20米。如果只走10米，他可以负重增加30%。此外，使用提升带可以再增加20%。如果他在不使用提升带的情况下，将20米的距离增加50磅，其他方面按比例增加，那么他使用提升带在10米内可以负重多少磅？。",
+  "topic": "回答下面的数学问题：James can do a farmer's walk with 300 pounds per hand for 20 meters.  He can lift 30% more if he only goes 10 meters.  In addition, lifting straps give him another 20%.  How much can he move with lifting straps for 10 meters if he increases his 20-meter distance without straps by 50 pounds and everything else increases in proportion?",
   "checkpoint": [
     {
-      "$\\boxed{546}$": 1
+      "\\boxed{546}": 1
     }
   ],
   "matchingmethod": [

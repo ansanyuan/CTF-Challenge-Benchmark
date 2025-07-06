@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kiki喜欢把她的钱花在帽子和围巾上。当她买的帽子是围巾的两倍时，她把60%的钱花在帽子上，剩下的花在围巾上。如果她现在有90美元，如果围巾每条售价2美元，她会买多少条围巾？。",
+  "topic": "回答下面的数学问题：Kiki likes to spend her money on hats and scarves. When she buys twice as many hats as scarves, she spends 60% of her money on hats and the rest on scarves. If she currently has $90, how many scarves will she buy if they are sold at $2 each?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

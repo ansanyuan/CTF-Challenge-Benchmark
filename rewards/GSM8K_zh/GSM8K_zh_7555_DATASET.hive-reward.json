@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：查理有10张贴纸。他在商场的一家店里买了21张贴纸，并在生日时得到了23张贴纸。然后查理给了他妹妹9张贴纸，并用了28张来装饰一张贺卡。查理剩下多少张贴纸？。",
+  "topic": "回答下面的数学问题：Charlie had 10 stickers. He bought 21 stickers from a store in the mall and got 23 stickers for his birthday. Then Charlie gave 9 of the stickers to his sister and used 28 to decorate a greeting card. How many stickers does Charlie have left?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

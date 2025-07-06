@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽刚到海滩。她的毛巾是弗朗西斯的4倍。他们的毛巾的总重量是60磅。如果玛丽有24条毛巾，那么弗朗西斯的毛巾重多少盎司？。",
+  "topic": "回答下面的数学问题：Mary just arrived at the beach. She has 4 times as many towels as Frances does. The total weight of their towels is 60 pounds. If Mary has 24 towels, how much do Frances's towels weigh in ounces?",
   "checkpoint": [
     {
-      "$\\boxed{128}$": 1
+      "\\boxed{128}": 1
     }
   ],
   "matchingmethod": [

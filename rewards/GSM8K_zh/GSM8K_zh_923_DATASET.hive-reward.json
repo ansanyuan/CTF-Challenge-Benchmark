@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯登斯在新公司工作的时间比在旧公司多了五个月。如果她在旧公司工作了3年，每月赚5000美元，而她现在在新公司的收入比旧公司高20%，请计算她在两家公司工作期间总共赚了多少钱？。",
+  "topic": "回答下面的数学问题：Cadence has worked for her new company five months longer than she worked for her old company. If she worked at her old company for 3 years earning $5000 per month, and she's now earning 20% more in the new company, calculate the total amount of money she's earned in both companies in the period she's worked for them?",
   "checkpoint": [
     {
-      "$\\boxed{426000}$": 1
+      "\\boxed{426000}": 1
     }
   ],
   "matchingmethod": [

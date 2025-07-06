@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Darla的储物柜里有6本书。Katie的书是Darla的一半，Gary的书是Darla和Katie的书的总和的5倍。这三个人总共有多少本书？。",
+  "topic": "回答下面的数学问题：Darla has 6 books in her locker.  Katie has half as many books as Darla, and Gary has 5 times the number of books that Darla and Katie have combined.  How many books do the three have total?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

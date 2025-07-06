@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽亚买了一张动物园门票。原价为15美元，但她能够获得40%的折扣。玛丽亚为门票支付了多少钱？。",
+  "topic": "回答下面的数学问题：Maria bought a ticket to a ZOO. The regular price stands at $15, but she was able to get a 40% discount. How much did Maria pay for the ticket?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

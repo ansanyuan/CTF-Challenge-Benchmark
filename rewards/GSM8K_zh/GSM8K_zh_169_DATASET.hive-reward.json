@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Silvia的面包店在50.00美元以上的预定订单上提供10%的折扣。她订购了2个15.00美元的奶油蛋饼，6个每个3.00美元的羊角面包和6个每个2.00美元的脱脂饼干。她的订单在打折后会是多少？。",
+  "topic": "回答下面的数学问题：Silvia’s bakery is offering 10% on advanced orders over $50.00.  She orders 2 quiches for $15.00 each, 6 croissants at $3.00 each and 6 buttermilk biscuits for $2.00 each.  How much will her order be with the discount?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kyle有一个报纸投递路线。每周一到周六，他为他路线上的100户人家投递日报。周日，他有10个客户不会收到周日的报纸，但他会给其他只在周日收报纸的房子投递30份报纸。Kyle每周投递多少份报纸？。",
+  "topic": "回答下面的数学问题：Kyle has a newspaper-delivery route. Every Monday through Saturday, he delivers the daily paper for the 100 houses on his route. On Sunday, 10 of his customers do not get the Sunday paper, but he delivers 30 papers to other houses that get the newspaper only on Sunday. How many papers does Kyle deliver each week?",
   "checkpoint": [
     {
-      "$\\boxed{720}$": 1
+      "\\boxed{720}": 1
     }
   ],
   "matchingmethod": [

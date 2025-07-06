@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔恩参加了一场铁人三项比赛。他游泳用了40分钟，骑自行车用了1小时20分钟，跑步用了50分钟。与乔恩相比，詹姆斯游泳快了10%，但骑自行车慢了5分钟。如果乔恩赢了10分钟，那么詹姆斯跑步用了多长时间？。",
+  "topic": "回答下面的数学问题：Jon runs a triathlon.  It takes him 40 minutes for the swim, an hour and 20 minutes for the bike ride and 50 minutes for the run.  Compared to Jon, James finishes the swim 10% faster but takes 5 minutes longer on the bike.  If Jon won by 10 minutes, how long did it take James to do the run?",
   "checkpoint": [
     {
-      "$\\boxed{59}$": 1
+      "\\boxed{59}": 1
     }
   ],
   "matchingmethod": [

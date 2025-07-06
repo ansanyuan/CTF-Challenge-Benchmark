@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当比利刚被雇佣时，他的时薪是10美元。两个月后，他的时薪增加了0.50美元。在他工作一周年时，他的时薪又增加了1.00美元。萨莉刚开始在另一家公司工作，她的起始工资比比利的起始工资高出0.50美元。如果比利和萨莉都工作20小时，比利将比萨莉多赚多少钱（单位：美元）？。",
+  "topic": "回答下面的数学问题：When Billy was first hired, he was paid at a rate of $10 per hour.  After 2 months, he was given a raise of $0.50 per hour.  On his first anniversary at work, he was given a raise of $1.00 per hour.  Sally just started working at a different business, and her starting salary is $0.50 more per hour than Billy's starting salary was.  If both Billy and Sally work 20 hours, how much more money will Billy earn than Sally, in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

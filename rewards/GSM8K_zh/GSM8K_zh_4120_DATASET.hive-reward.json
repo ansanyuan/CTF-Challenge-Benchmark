@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格兰特过去三个月一直以自由职业数学工作者的身份工作。第一个月他赚了350美元。第二个月他比第一个月赚的多50美元。第三个月他的收入是前两个月收入的四倍。格兰特在前三个月总共赚了多少钱？。",
+  "topic": "回答下面的数学问题：Grant has worked as a freelance math worker for the last three months.  The first month he made 350$.  The second month he made 50$ more than double he made the first month.  The third month he quadrupled the sum of the first two months.  How much did Grant make in his first three months total?",
   "checkpoint": [
     {
-      "$\\boxed{5500}$": 1
+      "\\boxed{5500}": 1
     }
   ],
   "matchingmethod": [

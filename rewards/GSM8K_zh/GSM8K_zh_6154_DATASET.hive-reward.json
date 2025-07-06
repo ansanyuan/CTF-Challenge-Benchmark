@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：要买一本书，在超市买前5本书每本20美元，而每买超过5本的书，你会得到2美元的折扣。如果Beatrice买了20本书，她在超市一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：To buy a book, you pay $20 for each of the first 5 books at the supermarket, and for each additional book you buy over $20, you receive a discount of $2. If Beatrice bought 20 books, how much did she pay at the supermarket?",
   "checkpoint": [
     {
-      "$\\boxed{370}$": 1
+      "\\boxed{370}": 1
     }
   ],
   "matchingmethod": [

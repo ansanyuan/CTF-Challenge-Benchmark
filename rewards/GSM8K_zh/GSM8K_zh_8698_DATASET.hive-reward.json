@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周一下了2英寸的雨，预计周二的降雨量将是周一总量的两倍再多1英寸。周二会下多少英寸的雨？。",
+  "topic": "回答下面的数学问题：It rained 2 inches on Monday and is expected to rain 1 more inch than twice of Monday’s total on Tuesday. How many inches of rain will there be on Tuesday?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

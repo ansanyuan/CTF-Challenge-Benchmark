@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carla的老师告诉她，她需要在10天内收集30片树叶和20只虫子，以完成一个项目。如果她总是希望每天收集相同数量的物品，Carla每天需要收集多少物品？。",
+  "topic": "回答下面的数学问题：Carla's teacher tells her that she needs to collect 30 leaves and 20 bugs for a project that's due in 10 days. How many items does Carla need to collect each day if she always wants to collect the same daily amount?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

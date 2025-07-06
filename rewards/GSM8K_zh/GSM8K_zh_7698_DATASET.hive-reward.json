@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carlos和Benji在海滩上。Carlos租了一个每小时30美元的独木舟，Benji租了一个每小时18美元的香蕉船。如果Carlos使用独木舟3小时，Benji使用香蕉船5小时，他们总共要支付多少租金？。",
+  "topic": "回答下面的数学问题：Carlos and Benji are at the beach. Carlos rents a canoe for $30 an hour and Benji rents a banana boat raft for $18 an hour. If Carlos uses the boat for 3 hours and Benji uses the raft for 5 hours, how much will they pay for their rentals, altogether?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

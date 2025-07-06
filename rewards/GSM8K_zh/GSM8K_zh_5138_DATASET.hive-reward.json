@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Stoney Hollow Middle School要去动物园进行实地考察。有109名五年级学生，115名六年级学生和118名七年级学生。每个年级都有4名老师和2名家长陪同进行监护。每辆校车有72个座位。这次实地考察需要多少辆校车？。",
+  "topic": "回答下面的数学问题：Stoney Hollow Middle School is taking a field trip to the zoo. There are 109 fifth graders, 115 sixth graders, and 118 seventh graders. There are 4 teachers and 2 parents from each grade coming along to chaperone on the trip. There are 72 seats on each school bus. How many buses are needed for the field trip?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

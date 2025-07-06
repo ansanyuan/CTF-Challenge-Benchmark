@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯有3加仑牛奶。他喝了13盎司的牛奶。如果一加仑有128盎司，詹姆斯剩下多少盎司的牛奶？。",
+  "topic": "回答下面的数学问题：James has 3 gallons of milk. He drank 13 ounces of the milk. If there are 128 ounces in a gallon, how many ounces of milk does James have left?",
   "checkpoint": [
     {
-      "$\\boxed{371}$": 1
+      "\\boxed{371}": 1
     }
   ],
   "matchingmethod": [

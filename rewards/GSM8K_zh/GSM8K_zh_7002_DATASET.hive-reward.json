@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安德鲁买了一个大袋气球。袋子里有303个蓝色气球和453个紫色气球。如果安德鲁把一半的气球给了他的兄弟，他剩下多少个气球？。",
+  "topic": "回答下面的数学问题：Andrew bought a big bag of balloons. The bag had 303 blue balloons and 453 purple balloons. If Andrew shares half of his balloons with his brother, how many balloons does he have left?",
   "checkpoint": [
     {
-      "$\\boxed{378}$": 1
+      "\\boxed{378}": 1
     }
   ],
   "matchingmethod": [

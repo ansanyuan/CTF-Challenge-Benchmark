@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比利做了49个三明治；凯特琳比他多做了47个。克洛伊做的数量是凯特琳做的数量的四分之一。他们总共做了多少个三明治？。",
+  "topic": "回答下面的数学问题：Billy made 49 sandwiches; Katelyn made 47 more than that. Chloe made a quarter of the amount that Katelyn made. How many sandwiches did they make in all?",
   "checkpoint": [
     {
-      "$\\boxed{169}$": 1
+      "\\boxed{169}": 1
     }
   ],
   "matchingmethod": [

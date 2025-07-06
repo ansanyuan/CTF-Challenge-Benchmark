@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Verna非常喜欢吃水果。她买了三个苹果，每个1.50美元，五个橙子，每个0.80美元，以及六个桃子，每个0.75美元。如果她给了20美元，她收到了多少零钱？。",
+  "topic": "回答下面的数学问题：Verna loves to eat fruit. She bought three apples at $1.50 each, five oranges at $0.80 each, and six peaches at $0.75 each.  If she gave $20, how much change did she receive?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

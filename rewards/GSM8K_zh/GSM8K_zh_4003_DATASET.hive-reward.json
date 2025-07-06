@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jeremy因为正在经历疼痛而决定服用泰诺，他决定每6小时服用1000毫克，持续2周。如果每片药物为500毫克，他需要服用多少片？。",
+  "topic": "回答下面的数学问题：Jeremy decides to take Tylenol because of the pain he is experiencing. He decides to take 1000 mg every 6 hours for 2 weeks.  How many pills do they take if they are each 500 mg?",
   "checkpoint": [
     {
-      "$\\boxed{112}$": 1
+      "\\boxed{112}": 1
     }
   ],
   "matchingmethod": [

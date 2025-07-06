@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Debra是一档乡村音乐电台节目的主持人，她播放名人乡村音乐歌手的采访。每周，她采访三位歌手，依次进行。第一个采访片段总是比其他两个片段加起来的时间长一倍，而第三个采访片段总是比第二个片段的时间短一半。如果第三个片段的长度是10分钟，整个节目的长度是多少分钟？。",
+  "topic": "回答下面的数学问题：Debra is the host of a country music radio show, and she broadcasts interviews with celebrity country music singers. Each week, she interviews three singers, one at a time.  The first interview segment is always twice as long as the other two segments combined, and the third interview segment is always half as long as the second. If the third segment is 10 minutes long, how many minutes long is the entire show?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

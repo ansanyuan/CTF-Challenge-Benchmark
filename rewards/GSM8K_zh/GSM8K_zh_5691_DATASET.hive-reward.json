@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：弗雷德有12块相同的糖果棒，而鲍勃叔叔有多6块。如果雅克琳有弗雷德和鲍勃叔叔的糖果棒总数的十倍，那么雅克琳的糖果棒的40%是多少？。",
+  "topic": "回答下面的数学问题：Fred has 12 identical candy bars, and Uncle Bob has 6 more. If Jacqueline has ten times the total number of candy bars Fred and Uncle Bob have, what's 40% of Jacqueline's candy bars?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

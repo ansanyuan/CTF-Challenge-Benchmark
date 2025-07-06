@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格莱迪斯的年龄等于比利和卢卡斯的年龄之和的两倍。比利比格莱迪斯小3倍，而格莱迪斯现在30岁。卢卡斯从现在起三年后多大？。",
+  "topic": "回答下面的数学问题：The age of Gladys is equal to twice the sum of the ages of Billy and Lucas. Billy is 3 times younger than Gladys who is 30 years old now. How old will Lucas be three years from now?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

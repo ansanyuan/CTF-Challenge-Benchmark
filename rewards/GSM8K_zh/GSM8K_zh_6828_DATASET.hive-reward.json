@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在蔓越莓季节的高峰期，一个沼泽地有60000颗蔓越莓。40%被人类采摘，另外20000颗被麋鹿吃掉。剩下多少颗蔓越莓？。",
+  "topic": "回答下面的数学问题：At the height of cranberry season, there are 60000 cranberries in a bog. 40% are harvested by humans and another 20000 are eaten by elk. How many cranberries are left?",
   "checkpoint": [
     {
-      "$\\boxed{16000}$": 1
+      "\\boxed{16000}": 1
     }
   ],
   "matchingmethod": [

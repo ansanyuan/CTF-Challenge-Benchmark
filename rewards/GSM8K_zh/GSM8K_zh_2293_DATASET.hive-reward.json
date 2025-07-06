@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jake来自一个保守的家庭，所以有一天在学校午餐时，他把他的饮食津贴的四分之一给了一个饥饿的朋友。如果糖果每颗20美分，Jake的饮食津贴是4美元，他的朋友可以用Jake给他的钱买多少颗糖果？。",
+  "topic": "回答下面的数学问题：Jake is from a conservative household so during lunch at school one day, he gave one-quarter of his feeding allowance to a hungry friend. If candies cost 20 cents apiece and Jake's feeding allowance is $4, how many candies can his friend purchase with the money Jake gave to him?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

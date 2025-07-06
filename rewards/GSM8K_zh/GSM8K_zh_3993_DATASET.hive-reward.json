@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hooper Bay的龙虾数量是其他两个港口的数量的两倍。如果其他两个港口各有80磅的龙虾，那么三个港口一共有多少磅的龙虾？。",
+  "topic": "回答下面的数学问题：Hooper Bay has twice as many pounds of lobster than the two other harbors combined. If the other two harbors have 80 pounds of lobster each, how many pounds of lobster are the three harbors holding?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

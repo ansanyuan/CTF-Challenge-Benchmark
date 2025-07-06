@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校护士必须在小学进行虱子检查。她必须检查26名幼儿园学生，19名一年级学生，20名二年级学生和25名三年级学生。如果每次检查需要2分钟，护士需要多长时间才能完成所有的检查？。",
+  "topic": "回答下面的数学问题：The school nurse must conduct lice checks at the elementary school. She must check 26 Kindergarteners, 19 first graders, 20 second graders, and 25 third graders. If each check takes 2 minutes, how many hours will it take the nurse to complete all the checks?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

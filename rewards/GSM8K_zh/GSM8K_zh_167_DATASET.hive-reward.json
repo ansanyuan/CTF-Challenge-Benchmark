@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：老爷爷Lou喜欢在Hallmark频道上观看电影，每部电影都有90分钟。如果在星期二，他在Hallmark频道上观看了几部完整的电影，总共观看了4小时30分钟，然后在星期三，他观看的电影数量是星期二的两倍。在这两天内，老爷爷最多能观看多少部完整的电影？。",
+  "topic": "回答下面的数学问题：Grandpa Lou enjoys watching movies on the Hallmark channel, where every movie lasts 90 minutes.  If, on Tuesday, he watched several full-length movies on the Hallmark channel for a total of 4 hours and 30 minutes, and then on Wednesday he watched on the same channel twice as many movies as he did on Tuesday.  What is the maximum number of full-length movies Grandpa could have watched during these two days?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

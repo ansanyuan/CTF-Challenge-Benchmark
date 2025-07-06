@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：冰块冻结需要40分钟，每个冰沙需要3分钟将其冻结后制作。制作5个冰沙需要多长时间？。",
+  "topic": "回答下面的数学问题：It takes 40 minutes to freeze ice cubes and 3 minutes per smoothie to turn them into smoothies once they're frozen. How long does it take to make 5 smoothies?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

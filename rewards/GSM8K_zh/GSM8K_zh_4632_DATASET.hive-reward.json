@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一名记者按照每篇文章的字数和每篇文章的报酬来计算报酬。她每个字赚0.1美元。她每篇文章赚60美元。她必须在接下来的4小时内完成三篇报道。她平均每分钟写10个字。如果她一直写作，她可以预期每小时赚多少钱？。",
+  "topic": "回答下面的数学问题：A reporter is paid by the word and per article. She earns $.1 per word. She earns $60 per article. She has to finish three stories in the next 4 hours. She averages 10 words a minute. How much can she expect to earn per hour if she writes the entire time?",
   "checkpoint": [
     {
-      "$\\boxed{105}$": 1
+      "\\boxed{105}": 1
     }
   ],
   "matchingmethod": [

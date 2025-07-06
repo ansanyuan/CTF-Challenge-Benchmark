@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Vince拥有一家美发沙龙，他每位顾客收入18美元。他的月支出是280美元，用于租金和电费，他的收入的20%用于娱乐和放松。他会存下剩下的钱。如果他一个月为80位顾客服务，他会存下多少钱？。",
+  "topic": "回答下面的数学问题：Vince owns a hair salon and he earns $18 per head. His monthly expenses are $280 for rent and electricity and 20% of his earnings are allocated for recreation and relaxation. He will save the rest. How much does he save if he serves 80 customers a month?",
   "checkpoint": [
     {
-      "$\\boxed{872}$": 1
+      "\\boxed{872}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果帕姆目前的年龄是蕾娜的两倍，并且在10年后，蕾娜的年龄会比帕姆大5岁，那么帕姆现在多大？。",
+  "topic": "回答下面的数学问题：If Pam is currently twice as young as Rena is, and in 10 years Rena will be 5 years older than her, how old is Pam now?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

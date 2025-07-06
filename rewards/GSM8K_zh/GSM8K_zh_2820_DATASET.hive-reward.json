@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布莱恩喜欢读书。他读了一本有20章的书，两本各有15章的书，以及一本书的章节数是前三本书的一半。布莱恩读了多少章的书？。",
+  "topic": "回答下面的数学问题：Brian likes to read books.  He read one book that had 20 chapters, two books that had 15 chapters each, and one book that had half the chapters of the three previous books put together. How many chapters of books did Brian read?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

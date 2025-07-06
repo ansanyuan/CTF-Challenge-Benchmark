@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Francie存了几个星期的零用钱。她连续8个星期每周都会得到5美元的零用钱。然后她爸爸提高了她的零用钱，她连续6个星期每周得到6美元。Francie用一半的钱买了新衣服。剩下的钱，她买了一款价值35美元的电子游戏。买了电子游戏后，Francie还剩多少钱？。",
+  "topic": "回答下面的数学问题：Francie saves up her allowance for several weeks. She receives an allowance of $5 a week for 8 weeks. Then her dad raises her allowance, and she receives $6 a week for 6 weeks. Francie uses half of the money to buy new clothes. With the remaining money, she buys a video game that costs $35. How much money does Francie have remaining after buying the video game?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

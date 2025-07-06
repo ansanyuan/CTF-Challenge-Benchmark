@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Vinny体重300磅，然后在他的节食第一个月减掉了20磅。他继续节食，但每个月减掉的重量是前一个月的一半。在他的节食第五个月开始时，他更加努力减肥，然后决定结束节食。如果Vinny在节食结束时体重为250.5磅，他在第五个月中减掉了多少磅？。",
+  "topic": "回答下面的数学问题：Vinny weighed 300 pounds then lost 20 pounds in the first month of his diet. He continued his diet but each month, he lost half as much weight as he had lost in the previous month. At the start of the fifth month of his diet, he worked harder to lose extra weight then decided to end his diet. If Vinny weighed 250.5 pounds at the end of his diet, how many pounds did he lose throughout the fifth month?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个水箱的容量为4000加仑。马克连接了一个管道到水箱，以每小时10加仑的速度向水箱注水。需要多长时间才能将水箱填满到其容量的3/4？。",
+  "topic": "回答下面的数学问题：A water tank has a capacity of 4000 gallons. Mack connects a pipe to the tank that fills the tank with water at the rate of 10 gallons per hour. How long will it take to fill the tank to 3/4 of its capacity?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝利决定给贾斯汀和伊洛娜各两条橡皮筋，以便他最后只剩下8条橡皮筋。伊洛娜一开始有多少条橡皮筋？。",
+  "topic": "回答下面的数学问题：In the beginning, Justine had 10 more rubber bands than Bailey but 2 fewer bands than Ylona. Bailey decided to give two bands each to Justine and Ylona so that he is left with only 8 rubber bands. How many rubber bands did Ylona have in the beginning?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

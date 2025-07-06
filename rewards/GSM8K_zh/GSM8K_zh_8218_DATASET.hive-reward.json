@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Melissa从事宠物美容师工作。这周，她有8只狗需要洗澡，5只猫需要剪指甲，3只鸟需要修剪翅膀，还有12匹马需要梳理。如果她将美容工作均匀分配到每天，那么她每天要照顾多少只动物？。",
+  "topic": "回答下面的数学问题：Melissa works as a pet groomer. This week, she has 8 dogs that need to be bathed, 5 cats that need their nails clipped, 3 birds that need their wings trimmed, and 12 horses that need to be brushed. If she splits the grooming jobs evenly over the days, how many animals will she groom each day of the week?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

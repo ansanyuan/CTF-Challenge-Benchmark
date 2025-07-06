@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Danai正在为万圣节装饰她的房子。她在房子周围放了12个塑料头骨。她有4个扫帚，每个门的前后各一个。她在房子的各个地方挂了12个蜘蛛网。Danai在房子周围放了两倍于她放蜘蛛网的南瓜。她还在餐桌上放了一个大大的坩埚。如果Danai还有预算可以购买20个装饰物，并且还有10个要放，她总共会放多少个装饰物？。",
+  "topic": "回答下面的数学问题：Danai is decorating her house for Halloween. She puts 12 plastic skulls all around the house. She has 4 broomsticks, 1 for each side of the front and back doors to the house. She puts up 12 spiderwebs around various areas of the house. Danai puts twice as many pumpkins around the house as she put spiderwebs. She also places a large cauldron on the dining room table. If Danai has the budget left to buy 20 more decorations and has 10 left to put up, how many decorations will she put up in all?",
   "checkpoint": [
     {
-      "$\\boxed{83}$": 1
+      "\\boxed{83}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：教堂每排有六把椅子。如果教堂有20排椅子，每把椅子可以坐五个人，计算需要坐在椅子上的人数，教堂才能坐满。。",
+  "topic": "回答下面的数学问题：There are six chairs in each row in a church. If there are 20 rows of chairs in the church, and each chair holds five people, calculate the number of people who have to sit in the chairs for the church to be full.",
   "checkpoint": [
     {
-      "$\\boxed{600}$": 1
+      "\\boxed{600}": 1
     }
   ],
   "matchingmethod": [

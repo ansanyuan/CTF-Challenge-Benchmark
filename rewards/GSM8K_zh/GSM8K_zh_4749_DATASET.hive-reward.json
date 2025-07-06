@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：曲奇罐里有一些钱。多丽丝从曲奇罐里花了6美元。玛莎花了比多丽丝少一半的钱。如果曲奇罐里还剩15美元，一开始曲奇罐里有多少钱（以美元计）？。",
+  "topic": "回答下面的数学问题：There was some money in the cookie jar. Doris spent $6 from the cookie jar. Martha spent half as much as Doris. If there were $15 left in the cookie jar, how much money, in dollars, was there in the cookie jar at first?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

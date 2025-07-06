@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只母鸭有8只小鸭。前3只小鸭各自找到5只蜗牛。另外3只小鸭各自找到9只蜗牛，剩下的小鸭各自找到母鸭找到蜗牛数量的一半。如果母鸭找到的蜗牛数量是前两组小鸭总数的3倍，那么这个鸭家族总共找到多少只蜗牛？。",
+  "topic": "回答下面的数学问题：A mother duck as 8 ducklings. The first 3 ducklings find 5 snails each. Another 3 ducklings find 9 snails each, and the remaining ducklings each find half the number of snails that mother duck finds. If mother duck finds tree times the total number of snails as the first 2 groups of ducklings, how many snails does the family of ducks have collectively?",
   "checkpoint": [
     {
-      "$\\boxed{294}$": 1
+      "\\boxed{294}": 1
     }
   ],
   "matchingmethod": [

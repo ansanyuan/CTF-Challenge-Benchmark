@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比尔和琼都在图书馆工作。5年前，琼的工作经验是比尔的3倍。现在她的工作经验是比尔的两倍。比尔现在有多少年的工作经验？。",
+  "topic": "回答下面的数学问题：Bill and Joan both work for a library. 5 years ago, Joan had 3 times as much experience as Bill. Now she has twice as much experience as Bill. How many years of experience does Bill have now?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

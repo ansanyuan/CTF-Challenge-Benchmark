@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一列火车有4节车厢，每节车厢有25个座位。如果每节车厢可以容纳多10名乘客，那么能坐满3列火车的乘客人数是多少？。",
+  "topic": "回答下面的数学问题：There are 4 carriages in a train and each carriage has 25 seats. If each carriage could accommodate 10 more passengers, how many passengers would fill up 3 trains?",
   "checkpoint": [
     {
-      "$\\boxed{420}$": 1
+      "\\boxed{420}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝拉每天吃6个苹果。如果在一周内她消耗了格雷斯采摘的三分之一的苹果，那么6周后格雷斯会有多少个苹果？。",
+  "topic": "回答下面的数学问题：Bella eats 6 apples a day. If during the week she consumes a third of the apples Grace picks, how many apples will Grace have after 6 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{504}$": 1
+      "\\boxed{504}": 1
     }
   ],
   "matchingmethod": [

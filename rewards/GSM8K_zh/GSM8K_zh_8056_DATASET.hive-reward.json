@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：胡安问他的邻居赫伯特，他的房子值多少钱。赫伯特回答说他买房子花了76,000美元。如果胡安的房子比赫伯特的便宜30%，计算两栋房子的总价值。。",
+  "topic": "回答下面的数学问题：Juan asked his neighbor, Herb, how much his house was worth. Herb answered that he paid $76,000 for the house. If Juan's house is 30% less expensive than Herb's, calculate the value of the two houses combined.",
   "checkpoint": [
     {
-      "$\\boxed{129200}$": 1
+      "\\boxed{129200}": 1
     }
   ],
   "matchingmethod": [

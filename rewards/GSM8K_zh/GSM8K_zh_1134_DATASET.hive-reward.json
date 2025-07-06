@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marcus正在举办一个水气球派对。他有100个气球。每个气球可以装3盎司的水。他可以用每瓶2.5美元的价格购买50盎司的水。如果他带着2张10美元的钞票走进商店，那么在他购买所需的所有水后，他会有多少零钱？。",
+  "topic": "回答下面的数学问题：Marcus is having a water balloon party. He has 100 balloons. Each balloon holds 3 ounces of water. He can buy 50 ounces of water for $2.5 a bottle. If he walks into the store with 2 $10 bills, how much change will he have after he buys all the water he needs?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

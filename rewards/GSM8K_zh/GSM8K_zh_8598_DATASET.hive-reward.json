@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：塞斯把他一半的贴纸给了路易斯。路易斯用掉了一半的贴纸，剩下的都给了克里斯。克里斯保留了9张贴纸，剩下的7张贴纸给了罗布。塞斯一开始有多少张贴纸？。",
+  "topic": "回答下面的数学问题：Seth gave half of his stickers to Luis. Luis used half of the stickers and gave the rest to Kris.  Kris kept 9 of the stickers and gave the remaining 7 stickers to Rob. How many stickers did Seth have in the beginning?",
   "checkpoint": [
     {
-      "$\\boxed{64}$": 1
+      "\\boxed{64}": 1
     }
   ],
   "matchingmethod": [

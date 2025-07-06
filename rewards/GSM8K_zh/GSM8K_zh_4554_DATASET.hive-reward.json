@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安吉拉比海伦高4厘米。海伦比艾米高3厘米。如果艾米身高150厘米，安吉拉身高多少厘米？。",
+  "topic": "回答下面的数学问题：Angela is 4 cm taller than Helen. Helen is 3 cm taller than Amy. If Amy is 150 cm tall, how many centimeters tall is Angela?",
   "checkpoint": [
     {
-      "$\\boxed{157}$": 1
+      "\\boxed{157}": 1
     }
   ],
   "matchingmethod": [

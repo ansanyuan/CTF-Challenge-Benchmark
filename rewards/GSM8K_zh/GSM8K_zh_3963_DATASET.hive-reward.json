@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卢卡斯带着20美元去商店，需要买3个每个2美元的鳄梨。他带回家多少零钱？。",
+  "topic": "回答下面的数学问题：Lucas went to the store with $20 and needed to buy 3 avocados that cost $2 each. How much change does he bring home?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

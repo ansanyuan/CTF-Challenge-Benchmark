@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马修每天喝4杯水。每杯水是5盎司。他决定只买一瓶35盎司的水。他每周会填充多少次这个瓶子？。",
+  "topic": "回答下面的数学问题：Matthew drinks 4 glasses of water per day. Each glass is 5 ounces. He decides to just buy a 35 ounces water bottle. How many times will he fill it each week?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

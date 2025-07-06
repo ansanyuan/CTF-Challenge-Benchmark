@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一次为期三天的旅行中，温迪在第一天开了125英里，在第二天开了223英里。如果温迪整个旅行的总英里数是493英里，她第三天开了多少英里？。",
+  "topic": "回答下面的数学问题：On a three-day trip, Wendy drove 125 miles on the first day, and 223 miles on the second day. How many miles did she drive on the third day, if the total miles that Wendy drove for the trip is 493 miles?",
   "checkpoint": [
     {
-      "$\\boxed{145}$": 1
+      "\\boxed{145}": 1
     }
   ],
   "matchingmethod": [

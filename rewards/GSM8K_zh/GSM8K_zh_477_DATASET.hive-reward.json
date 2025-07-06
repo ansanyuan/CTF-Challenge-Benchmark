@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Joey想要购买最新发布的设计师High Jump篮球鞋。他计划为3个邻居割草，每个草坪8美元，向朋友出售2个收藏品，每个9美元，以及在课后工作10小时，每小时5美元。如果他的收入刚好足以支付High Jump篮球鞋的价格，那鞋子的价格是多少？。",
+  "topic": "回答下面的数学问题：Joey wants to buy the latest released pair of designer High Jump basketball sneakers. He plans to mow 3 neighbors’ lawns for $8 a lawn, sell 2 collectible figures to his friends for $9 each, and work an after-school job for 10 hours at $5 per hour. If his earnings just cover the price of the High Jump sneakers, how much do the shoes cost?",
   "checkpoint": [
     {
-      "$\\boxed{92}$": 1
+      "\\boxed{92}": 1
     }
   ],
   "matchingmethod": [

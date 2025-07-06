@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gabe的播放列表上有三首歌。“最美好的一天”是3分钟，“扬起屋顶”是2分钟，“说唱对决”是3分钟。在40分钟的车程中，Gabe可以听完他的整个播放列表多少次？。",
+  "topic": "回答下面的数学问题：Gabe has three songs on his playlist. “The Best Day” is 3 minutes, “Raise the Roof” is 2 minutes, and “Rap Battle” is 3 minutes. How many times can Gabe listen to his entire playlist on the 40-minute ride to his wrestling match?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

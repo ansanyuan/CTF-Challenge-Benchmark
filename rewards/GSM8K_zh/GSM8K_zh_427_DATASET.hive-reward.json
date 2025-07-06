@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：小学的学生人数比中学的学生人数少了四倍的三。如果中学的学生人数是50，计算两个级别的学生总人数。。",
+  "topic": "回答下面的数学问题：There is three less than four times the number of students in Elementary School as there are in Middle School.  If the number of students in Middle school is 50, calculate the total number of students in both levels.",
   "checkpoint": [
     {
-      "$\\boxed{247}$": 1
+      "\\boxed{247}": 1
     }
   ],
   "matchingmethod": [

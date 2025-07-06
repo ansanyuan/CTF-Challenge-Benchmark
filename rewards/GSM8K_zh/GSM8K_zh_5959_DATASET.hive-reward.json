@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托尼举重作为一种锻炼方式。他可以用一只手举起90磅的重量，这个锻炼被称为“弯举”。在一个被称为“军事挤压”的锻炼中，他可以举起比他弯举的重量多两倍。他最喜欢的锻炼被称为“深蹲”，他可以深蹲的重量是他可以在军事挤压中举起的5倍。托尼在深蹲锻炼中可以举起多少磅的重量？。",
+  "topic": "回答下面的数学问题：Tony lifts weights as a form of exercise.  He can lift 90 pounds with one arm in the exercise known as \"the curl.\"  In an exercise known as \"the military press,\" he can lift over his head twice the weight that he can curl.  His favorite exercise is known as \"the squat\" and he can squat 5 times the weight that he can lift in the military press.  How much weight, in pounds, can Tony lift in the squat exercise?",
   "checkpoint": [
     {
-      "$\\boxed{900}$": 1
+      "\\boxed{900}": 1
     }
   ],
   "matchingmethod": [

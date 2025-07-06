@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学年结束时，Kate问她的老师是否可以拿走3盒64块蜡笔，因为它们都磨损成小块了。老师同意了。Kate把蜡笔带回家，决定通过在烤箱里放几分钟，将8小块蜡笔融化在一个松饼烤盘里来制作蜡笔松饼。如果她能以每个1.50美元的价格卖掉她的松饼蜡笔，Kate能赚多少钱？。",
+  "topic": "回答下面的数学问题：At the end of the school year, Kate asked her teacher if she could have the 3 boxes of 64 crayons since they were all worn down to small pieces.  The teacher agreed.  Kate took the crayons home and decided to make crayon muffins by melting 8 small pieces of crayons together in a muffin tin that she placed in an oven for a few minutes. If she can sell her muffin crayons for $1.50 each, how much money can Kate make?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

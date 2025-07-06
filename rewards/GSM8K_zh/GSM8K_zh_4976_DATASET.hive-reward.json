@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Angela有一套24件稀有动作人物玩偶。她在当铺卖掉了四分之一，然后把剩下的三分之一给了她的女儿。她还剩下多少？。",
+  "topic": "回答下面的数学问题：Angela has a collection of 24 pieces of rare action figures. She sold off a quarter of them at the pawnshop and gave one-third of the remainder to her daughter. How many does she have left?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

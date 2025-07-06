@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿玛拉有100件衣服，但开始把她的衣服捐给别人。她给一个孤儿院捐了5件，给另一个孤儿院捐了这个数量的三倍。如果她决定扔掉15件旧衣服，她剩下多少件衣服？。",
+  "topic": "回答下面的数学问题：Amara had 100 pieces of clothing but started donating her clothes to others. She donated 5 to one orphanage home and triple that to another orphanage home. If she decides to throw away 15 of her old clothes, how many pieces of clothing does she have remaining?",
   "checkpoint": [
     {
-      "$\\boxed{65}$": 1
+      "\\boxed{65}": 1
     }
   ],
   "matchingmethod": [

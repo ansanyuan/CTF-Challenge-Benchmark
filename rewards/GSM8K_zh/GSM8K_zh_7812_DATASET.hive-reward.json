@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个有200名学生的班级被分成3组，其中2组人数相等，最后一组（也就是最小的一组）比其他每组少10人。这个（最小的）组里有多少名学生？。",
+  "topic": "回答下面的数学问题：A class of 200 students is split into 3 groups such that 2 of them are equal in number and the last one (which is the smallest) is 10 less than each of the other groups. How many students are in this (smallest) group?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

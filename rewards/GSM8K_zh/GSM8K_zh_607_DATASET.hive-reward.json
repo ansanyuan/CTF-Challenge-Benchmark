@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个大盒子里，有4种颜色的弹珠。里面有20颗红色的弹珠。绿色的弹珠比红色的多三倍。黄色的弹珠占绿色弹珠的20%。如果盒子里所有弹珠的总数是绿色弹珠数量的三倍，那么不同颜色的弹珠有多少颗？。",
+  "topic": "回答下面的数学问题：In a big box, there are marbles in 4 colors. Inside, there are 20 red marbles.  There are three times more green marbles than red.  Yellow marbles make up 20% of the green marbles. How many marbles are of a different color if the total of all marbles in the box is three times more than the number of green marbles?",
   "checkpoint": [
     {
-      "$\\boxed{88}$": 1
+      "\\boxed{88}": 1
     }
   ],
   "matchingmethod": [

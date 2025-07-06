@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Amelia有一些洗衣要做。她有一堆白色衣物需要在洗衣机中洗72分钟，在烘干机中烘干50分钟。她有一堆深色衣物需要在洗衣机中洗58分钟，在烘干机中烘干65分钟。她有一堆彩色衣物需要在洗衣机中洗45分钟，在烘干机中烘干54分钟。如果她一次洗一堆衣物，她需要多长时间来洗和烘干所有三堆衣物，以分钟为单位？。",
+  "topic": "回答下面的数学问题：Amelia has laundry to do. She has a load of whites that will take 72 minutes in the washing machine and 50 minutes in the dryer. She has a load of darks that will take 58 minutes in the washing machine and 65 minutes in the dryer. She has a load of colors that will take 45 minutes in the washer and 54 minutes in the dryer. If she does one load at a time, how long will it take her to wash and dry all three loads, in minutes?",
   "checkpoint": [
     {
-      "$\\boxed{344}$": 1
+      "\\boxed{344}": 1
     }
   ],
   "matchingmethod": [

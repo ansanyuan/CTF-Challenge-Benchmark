@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Dexter有五只猪。每只猪每天吃两次饲料，每次吃4磅。如果Dexter订购了300磅饲料，那么一周后还剩多少磅饲料？。",
+  "topic": "回答下面的数学问题：Dexter has five pigs. Each one eats 4 pounds of feed, twice a day. If Dexter ordered 300 pounds of feed, how many pounds of feed is left after a week?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

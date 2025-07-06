@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在失去一顶帽子之前，警察奥布莱恩比消防局长辛普森拥有的帽子多了5顶。如果消防局长辛普森有15顶帽子，那么警察奥布莱恩现在有多少顶帽子？。",
+  "topic": "回答下面的数学问题：Before he lost one, Policeman O'Brien had 5 more than twice as many hats as fire chief Simpson. If fire chief Simpson has 15 hats, how many hats does Policeman O'Brien now have?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

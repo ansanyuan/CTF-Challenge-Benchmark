@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Wendy想要在一个有6排6列的书架系统中放置比两倍书籍数量多20本的书。她需要携带多少本书来完成她的任务？。",
+  "topic": "回答下面的数学问题：Wendy wants to place 20 more than double the number of books in a shelving system with 6 rows and 6 columns. How many books will she need to carry to complete her task?",
   "checkpoint": [
     {
-      "$\\boxed{92}$": 1
+      "\\boxed{92}": 1
     }
   ],
   "matchingmethod": [

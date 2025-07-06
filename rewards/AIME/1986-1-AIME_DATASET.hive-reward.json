@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：What is the sum of the solutions to the equation $\\sqrt[4]{x} = \\frac{12}{7 - \\sqrt[4]{x}}$ ?",
   "checkpoint": [
     {
-      "$\\boxed{337}$": 1
+      "\\boxed{337}": 1
     }
   ],
   "matchingmethod": [

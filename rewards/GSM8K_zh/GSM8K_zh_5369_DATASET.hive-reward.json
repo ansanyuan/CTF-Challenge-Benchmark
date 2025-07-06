@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lisa正在做披萨。她在一张披萨上使用了30片意大利辣香肠，两倍于火腿的数量，以及比意大利辣香肠多12片的香肠。如果有6片披萨，并且所有的配料都均匀分布，每片披萨上总共有多少块肉？。",
+  "topic": "回答下面的数学问题：Lisa is making a pizza. She uses 30 pieces of pepperoni for a pizza, twice as many pieces of ham, and 12 more pieces of sausage than pepperoni. If there are 6 slices of pizza, and everything was distributed evenly, how many pieces of meat altogether are on each slice?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

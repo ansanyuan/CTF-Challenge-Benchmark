@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安迪迟到了。学校上午8:00开始，他通常需要30分钟才能到那里，但今天他不得不在4个红灯处每个停留3分钟，并等待10分钟才能通过施工。如果他在7:15离开家，他会迟到多少分钟？。",
+  "topic": "回答下面的数学问题：Andy is running late. School starts at 8:00 AM and it normally takes him 30 minutes to get there, but today he had to stop for 3 minutes each at 4 red lights and wait 10 minutes to get past construction. If he left his house at 7:15, how many minutes late will he be?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

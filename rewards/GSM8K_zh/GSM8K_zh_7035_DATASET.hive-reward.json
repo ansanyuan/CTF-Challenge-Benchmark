@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Emily去钓鱼，度过了一个非常忙碌的一天。她钓到了4条鳟鱼，3条鲶鱼和5条蓝鳃鱼。如果鳟鱼每条重2磅，鲶鱼每条重1.5磅，蓝鳃鱼每条重2.5磅，她总共钓到了多少磅的鱼？。",
+  "topic": "回答下面的数学问题：Emily goes fishing and has a very busy day. She catches 4 trout, 3 catfish, and 5 bluegills. If the trout weigh 2 pounds each, the catfish weigh 1.5 pounds each, and the bluegills weigh 2.5 pounds each, how many total pounds of fish did she catch?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

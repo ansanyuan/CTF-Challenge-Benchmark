@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰每天使用75瓦的电风扇8小时。他每个月（30天）使用多少千瓦时的电能来使用电风扇？。",
+  "topic": "回答下面的数学问题：John uses a 75-watt electric fan for 8 hours a day. How much kWh of electric energy does he consume per month (30 days) for using the electric fan?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

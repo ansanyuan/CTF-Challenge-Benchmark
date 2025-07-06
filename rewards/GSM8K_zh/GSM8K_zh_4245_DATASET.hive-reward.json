@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格雷一家在一次特卖中买了几只鸡。约翰比玛丽多拿了5只鸡。雷比玛丽少拿了6只鸡。如果雷拿了10只鸡，约翰比雷多拿了多少只鸡？。",
+  "topic": "回答下面的数学问题：The Grey's bought several chickens at a sale. John took 5 more of the chickens than Mary took. Ray took 6 chickens less than Mary. If Ray took 10 chickens, how many more chickens did John take than Ray?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

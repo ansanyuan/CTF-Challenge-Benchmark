@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果8升是装满水的容器的容量的20％，请计算40个这样的装满水的容器的总容量。。",
+  "topic": "回答下面的数学问题：If eight liters is 20% the capacity of a container filled with water, calculate the total capacity of 40 such containers filled with water.",
   "checkpoint": [
     {
-      "$\\boxed{1600}$": 1
+      "\\boxed{1600}": 1
     }
   ],
   "matchingmethod": [

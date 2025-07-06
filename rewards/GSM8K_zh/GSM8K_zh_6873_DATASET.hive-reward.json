@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了改善健康，玛丽决定每天喝1.5升水，这是她的医生建议的。玛丽的玻璃杯可以装250毫升水。玛丽每天应该喝多少杯水才能达到她的目标？。",
+  "topic": "回答下面的数学问题：To improve her health, Mary decides to drink 1.5 liters of water a day as recommended by her doctor. Mary's glasses hold 250 mL of water. How many glasses of water should Mary drink per day to reach her goal?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

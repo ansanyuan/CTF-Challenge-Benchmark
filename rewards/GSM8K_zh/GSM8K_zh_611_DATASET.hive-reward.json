@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：所有馅饼中有68%是用叉子吃的。如果有各种馅饼2000个，有多少个馅饼不是用叉子吃的？。",
+  "topic": "回答下面的数学问题：68% of all pies are eaten with forks. If there are 2000 pies of all kinds, how many of the pies are not eaten with forks?",
   "checkpoint": [
     {
-      "$\\boxed{640}$": 1
+      "\\boxed{640}": 1
     }
   ],
   "matchingmethod": [

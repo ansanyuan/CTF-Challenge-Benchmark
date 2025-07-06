@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Joey每周都踢足球。上周他周一踢了2场比赛，周五踢了1场比赛，周六踢的比赛是周一的两倍。Joey一周总共踢了多少场比赛？。",
+  "topic": "回答下面的数学问题：Joey plays football every week. Last week he played 2 matches on Monday, 1 match on Friday, and on Saturday he played double the number of matches he played on Monday. How many matches did Joey play in one week?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

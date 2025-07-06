@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tricia订购了三打鸡蛋。她将用其中的四分之一来制作薄煎饼，剩下的三分之二用来制作纸杯蛋糕。早餐做荷包蛋还剩下多少鸡蛋？。",
+  "topic": "回答下面的数学问题：Tricia ordered three dozen eggs. She will use 1/4 of them for making crepes, and 2/3 of the remaining for making cupcakes. How many eggs are left to make sunny-side-up eggs for breakfast?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

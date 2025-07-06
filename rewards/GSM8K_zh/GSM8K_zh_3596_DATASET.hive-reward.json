@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sergio先生是一位种植苹果、芒果和橙子的水果种植者。在一个特定的季节，苹果的总产量是芒果的两倍，而橙子的总产量比芒果多200公斤。如果他的农场产出了400公斤的芒果，并且他以每公斤50美元的价格出售水果，计算他在那个季节总共获得的金额。。",
+  "topic": "回答下面的数学问题：Mr. Sergio is a fruit grower producing apples, mangoes and oranges. In a particular season, the total produce of apples was twice the total produce of mangoes, and the total produce of oranges was 200 kg more than that of mangoes. If his farm produced 400 kg of mangoes and he sold the fruits at $50 per kg,  calculate the total amount of money he got in that season.",
   "checkpoint": [
     {
-      "$\\boxed{90000}$": 1
+      "\\boxed{90000}": 1
     }
   ],
   "matchingmethod": [

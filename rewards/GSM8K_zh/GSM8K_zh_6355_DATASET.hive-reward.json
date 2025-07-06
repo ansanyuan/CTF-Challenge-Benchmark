@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：尼克今年13岁。他的妹妹比他大6岁，他们的弟弟的年龄是他们两人年龄之和的一半。他们的弟弟在5年后多大？。",
+  "topic": "回答下面的数学问题：Nick is 13 years old. His sister is 6 years older and their brother is half their combined age. How old would their brother be in 5 years?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bill为了赚钱出了20道数学题。Ryan出的题目是Bill的两倍，Frank出的题目是Ryan的三倍。假设每个人需要按照相等比例出4种不同类型的数学问题，那么Frank每种类型出多少题？。",
+  "topic": "回答下面的数学问题：Bill composes 20 total math questions for money.  Ryan composes twice as many problems as Bill, and Frank composes 3 times as many as Ryan.  Assuming each person has to compose 4 different types of math problems in equal proportion out of the total amount, how many problems of each type does Frank compose?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

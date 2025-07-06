@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤米正在看他的零钱收藏。他比便士多10个10美分。他的镍币数量是他的10美分的两倍。他有4个25美分硬币。他的便士数量是他的25美分的10倍。他有多少个镍币？。",
+  "topic": "回答下面的数学问题：Tommy is looking at his change collection. He has 10 more dimes than pennies. He has twice as many nickels as dimes. He has 4 quarters. He has 10 times as many pennies as quarters. How many nickels does he have?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗伯塔带着158美元去商场购物。她在新鞋上花了45美元，在新包上少花了17美元，午餐花了包的四分之一的价格。这些购买后她还剩多少钱？。",
+  "topic": "回答下面的数学问题：Roberta takes $158 with her on a shopping trip to the mall. She spends $45 on new shoes, $17 less on a new bag, and a quarter of the price of the bag for lunch. How much money does she have left after these purchases?",
   "checkpoint": [
     {
-      "$\\boxed{78}$": 1
+      "\\boxed{78}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个水果和蔬菜商人安装了15公斤的胡萝卜，13公斤的西葫芦和8公斤的西兰花。他只卖了一半。他卖了多少公斤的蔬菜？。",
+  "topic": "回答下面的数学问题：A fruit and vegetable merchant installed 15 kg of carrots, 13 kg of zucchini and 8 kg of broccoli. He sold only half of them. What mass of vegetables did he sell?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

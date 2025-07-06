@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Greg买了一包装有20个燕麦棒的零食，用来每天的午餐。他留出一根燕麦棒作为一周的每一天，将剩下的三根燕麦棒与他的朋友Pete交换了一瓶苏打水，然后把剩下的给了他的两个姐妹。当他们平均分配时，每个姐妹得到了多少根？。",
+  "topic": "回答下面的数学问题：Greg bought a 20-pack of granola bars to eat at lunch for the week. He set aside one for each day of the week, traded three of the remaining bars to his friend Pete for a soda, and gave the rest to his two sisters. How many did each sister get when they split them evenly?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

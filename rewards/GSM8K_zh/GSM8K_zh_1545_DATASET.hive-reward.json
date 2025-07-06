@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：本将获得1496美元的奖金。他选择将这笔金额分配如下：厨房的1/22，假期的1/4和给他的3个孩子的圣诞礼物的1/8。在这些开支之后，他还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Ben will receive a bonus of $1496. He chooses to allocate this amount as follows: 1/22 for the kitchen, 1/4 for holidays and 1/8 for Christmas gifts for his 3 children. How much money will he still have left after these expenses?",
   "checkpoint": [
     {
-      "$\\boxed{867}$": 1
+      "\\boxed{867}": 1
     }
   ],
   "matchingmethod": [

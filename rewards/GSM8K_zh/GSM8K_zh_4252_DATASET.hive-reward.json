@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carly试图锻炼身体，准备参加足球队的选拔。她开始每周跑2英里。第二周，她每周跑的时间是上周的两倍加上额外的3英里。第三周，她跑的距离是第二周的9/7。接下来一周，她扭伤了脚踝，不得不减少每周跑步的时间5英里。她受伤那周跑了多少英里？。",
+  "topic": "回答下面的数学问题：Carly is trying to get in shape to try out for the soccer team. She starts by running 2 miles a week. The second week, she runs twice as long plus 3 extra miles per week. The third week she runs 9/7 as much as she ran the second week. The week after that, she sprains her ankle and has to reduce her running time by 5 miles per week. How many miles did she run the week she was injured?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

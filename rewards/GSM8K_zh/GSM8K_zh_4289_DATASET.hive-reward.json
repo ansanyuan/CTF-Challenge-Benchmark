@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：威尔逊去了一家快餐店。他买了2个汉堡，每个5美元，和3瓶可乐，每瓶2美元。威尔逊使用了他的4美元折扣券。他总共支付了多少钱？。",
+  "topic": "回答下面的数学问题：Wilson goes to a fast-food restaurant. He buys 2 hamburgers for $5 each and 3 bottles of cola for $2 each. Wilson uses his $4 discount coupon. How much money does he pay in total?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

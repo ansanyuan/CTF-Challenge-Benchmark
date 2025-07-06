@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校图书馆有120本书。每个学生需要5本书来上课。图书馆在开学第一天帮助了4名学生，第二天帮助了5名学生，第三天帮助了6名学生。在开学第四天，图书馆可以帮助多少名学生？。",
+  "topic": "回答下面的数学问题：A school library has 120 books.  Each student needs 5 books for their classes.  The library was able to help 4 students on the first day of school, 5 students on the second day and 6 students on the third day.  How many students can the library help out on the fourth day of school?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

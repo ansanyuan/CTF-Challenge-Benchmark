@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汉克每天早上读报纸，一周5天，每天30分钟。他每天晚上读小说的一部分，一周5天，每天1小时。周六和周日他的阅读时间加倍。汉克一周读书花了多少分钟？。",
+  "topic": "回答下面的数学问题：Hank reads the newspaper every morning, 5 days a week for 30 minutes.  He reads part of a novel every evening, 5 days a week, for 1 hour.  He doubles his reading time on Saturday and Sundays.  How many minutes does Hank spend reading in 1 week?",
   "checkpoint": [
     {
-      "$\\boxed{810}$": 1
+      "\\boxed{810}": 1
     }
   ],
   "matchingmethod": [

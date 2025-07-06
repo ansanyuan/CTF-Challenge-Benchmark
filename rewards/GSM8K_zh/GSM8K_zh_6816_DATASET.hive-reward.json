@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个动物园正在布置动物围栏的布局。一排有4个老虎围栏，每个老虎围栏后面有2个斑马围栏。动物园里散布着三倍于斑马围栏数量的长颈鹿围栏。老虎围栏里有4只老虎，斑马围栏里有10只斑马，长颈鹿围栏里有2只长颈鹿。如果这些是动物园里唯一的动物，那么动物园里有多少动物？。",
+  "topic": "回答下面的数学问题：A zoo is arranging the layout of its animal enclosures. There are 4 tiger enclosures in a row and behind each of these are 2 zebra enclosures. There are three times as many giraffe enclosures as zebra enclosures scattered around the zoo. The tiger enclosures hold 4 tigers, the zebra enclosures hold 10 zebras and the giraffe enclosures hold 2 giraffes. If these are the only animals in the zoo, how many animals are in the zoo?",
   "checkpoint": [
     {
-      "$\\boxed{144}$": 1
+      "\\boxed{144}": 1
     }
   ],
   "matchingmethod": [

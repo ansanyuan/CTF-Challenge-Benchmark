@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在莎拉的工作中，60%的员工是女性，其余是男性。在男性员工中，75%拥有大学学位，8人没有。莎拉的公司有多少名女性员工？。",
+  "topic": "回答下面的数学问题：At Sarah's job 60% of the employees are women and the rest are men. Of the men, 75% have a college degree and 8 do not. How many women work at Sarah's company?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

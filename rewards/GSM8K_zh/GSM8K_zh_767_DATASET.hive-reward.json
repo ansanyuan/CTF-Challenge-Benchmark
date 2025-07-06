@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅根正在送餐。在她的30个客户中，有7个需要素食餐，8个需要犹太餐，还有三个人需要既是素食又是犹太餐。梅根送了多少份既不是犹太餐也不是素食餐的餐？。",
+  "topic": "回答下面的数学问题：Megan is delivering meals on wheels. Out of her 30 clients, 7 need vegan meals, 8 need kosher meals, and three people need meals that are both vegan and kosher. How many meals does Megan deliver that are neither kosher nor vegan?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

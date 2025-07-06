@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alex用丝绸制作豪华连衣裙。每件连衣裙需要5米丝绸，Alex的仓库里有600米丝绸。他的朋友们也想学习如何制作这些连衣裙，所以Alex给了他们每人20米丝绸。他用剩下的丝绸自己制作连衣裙。Alex能制作多少件连衣裙？。",
+  "topic": "回答下面的数学问题：Alex makes luxury dresses out of silk. Each dress needs 5 meters of silk and Alex has 600 meters of silk in storage. His friends also want to learn how to make these dresses so Alex gives all 5 of them 20 meters of silk each. He uses the rest to make dresses himself. How many dresses can Alex make?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿文准备登山，他想一周总共跑20公里。第一天，他跑了2公里。在接下来的每一天，他的跑步距离比前一天增加1公里。如果他一周跑5天，他第五天跑了多少公里？。",
+  "topic": "回答下面的数学问题：In preparation for his mountain climbing, Arvin wants to run a total of 20 kilometers in a week. On the first day, he ran 2 kilometers. On each subsequent day, he increased his running distance by 1 kilometer over the previous day. If he runs for 5 days a week, how many kilometers did he run on the 5th day?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

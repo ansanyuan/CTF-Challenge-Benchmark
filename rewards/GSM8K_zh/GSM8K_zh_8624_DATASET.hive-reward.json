@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Patricia有30朵玫瑰。她给了她妈妈24朵玫瑰。她又买了15朵玫瑰。现在她有多少朵玫瑰？。",
+  "topic": "回答下面的数学问题：Patricia has 30 roses. She gave 24 roses to her mother. She bought 15 more roses.  How many roses did she have now?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

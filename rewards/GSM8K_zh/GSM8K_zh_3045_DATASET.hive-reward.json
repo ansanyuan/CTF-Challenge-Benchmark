@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆决定用所有的牛肉做千层面。 面条的数量是牛肉的两倍。 他有10磅的牛肉。 他已经有4磅的千层面，而面条是以2磅一包的。 他需要买多少包？。",
+  "topic": "回答下面的数学问题：Tom decides to make lasagna with all his beef.  It takes twice as many noodles as beef.  He has 10 pounds of beef.  He already has 4 pounds of lasagna noodles and the noodles come in 2-pound packages.  How many packages does he need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

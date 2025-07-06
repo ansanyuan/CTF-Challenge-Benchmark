@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：公园里有920只鹿。10%的鹿有8只鹿角，其中四分之一的数量也有白化毛皮。有多少只白化的8只鹿角的鹿？。",
+  "topic": "回答下面的数学问题：There are 920 deer in a park. 10% of the deer have 8 antlers, and a quarter of that number also have albino fur. How many albino 8-antlered deer are there?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

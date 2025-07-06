@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：利泽特在第三次测验中得了92分，平均分是94。利泽特前两次测验的平均分是多少？。",
+  "topic": "回答下面的数学问题：Lizette scored 92 on her third quiz giving her an average of 94. What is Lizette's average in her first two quizzes?",
   "checkpoint": [
     {
-      "$\\boxed{95}$": 1
+      "\\boxed{95}": 1
     }
   ],
   "matchingmethod": [

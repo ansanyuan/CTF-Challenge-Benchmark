@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在7天内，Sofie将走的距离是Brian的两倍。如果Sofie计划每天走10英里，那么Brian在七天内将走多少英里？。",
+  "topic": "回答下面的数学问题：In 7 days, Sofie will walk twice as far as Brian. If Sofie plans to walk 10 miles every day, how many miles will Brian walk in seven days?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

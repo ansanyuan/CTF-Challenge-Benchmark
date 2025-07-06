@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：黛西是一只喜欢玩狗玩具的贵宾犬小狗。她经常以各种方式丢失它们，她的主人需要替换它们。星期一，黛西玩了5个狗玩具。星期二，黛西在丢失了一些后还剩下3个狗玩具，她的主人去商店给她买了3个新的。星期三，黛西的所有旧和新狗玩具都不见了，所以她的主人去商店给她买了5个新的。如果黛西的主人找到了所有丢失的狗玩具，包括新的狗玩具，那么现在黛西会有多少个狗玩具？。",
+  "topic": "回答下面的数学问题：Daisy is a poodle puppy who loves to play with her dog toys. She often loses them in various ways, and her owner needs to replace them. On Monday, Daisy played with 5 dog toys. On Tuesday, Daisy had 3 dog toys left after losing some, and her owner went to the store and got her 3 more. On Wednesday, all of Daisy's old and new dog toys were missing, so her owner went to the store and bought her 5 more. If Daisy's owner found all the lost dog toys, including the new dog toys, how many dog toys would Daisy have now?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

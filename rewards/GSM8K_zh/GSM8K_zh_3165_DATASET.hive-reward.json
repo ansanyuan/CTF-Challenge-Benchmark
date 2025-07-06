@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伯特为他的集邮收藏买了一些独特的邮票。在购买之前，他只有他购买的邮票的一半。如果他购买了300张邮票，购买后伯特总共有多少张邮票？。",
+  "topic": "回答下面的数学问题：Bert bought some unique stamps for his collection. Before the purchase, he had only half the stamps he bought. If he bought 300 stamps, how many stamps does Bert have in total after the purchase?",
   "checkpoint": [
     {
-      "$\\boxed{450}$": 1
+      "\\boxed{450}": 1
     }
   ],
   "matchingmethod": [

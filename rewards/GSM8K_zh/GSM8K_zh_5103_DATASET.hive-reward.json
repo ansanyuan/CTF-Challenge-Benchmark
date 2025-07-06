@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Loris需要再多三本书才能与Lamont拥有相同数量的书，而Lamont拥有的书是Darryl的两倍。如果Darryl有20本书，计算三人总共有多少本书。。",
+  "topic": "回答下面的数学问题：Loris needs three more books to have the same number as Lamont, who has twice the number of books Darryl has. If Darryl has 20 books, calculate the total number of books the three have.",
   "checkpoint": [
     {
-      "$\\boxed{97}$": 1
+      "\\boxed{97}": 1
     }
   ],
   "matchingmethod": [

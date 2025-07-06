@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：3个人竞选总统。约翰获得了150票。詹姆斯获得了剩余选票的70%。如果有1150人投票，第三个人比约翰多获得了多少票？。",
+  "topic": "回答下面的数学问题：3 people run for president.  John manages to capture 150 votes. James captures 70% of the remaining vote.  If there were 1150 people voting, how many more votes did the third guy get than John?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

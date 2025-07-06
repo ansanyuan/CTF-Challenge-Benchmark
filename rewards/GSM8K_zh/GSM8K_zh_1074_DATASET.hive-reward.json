@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：1800条鱼向西游，3200条向东游，500条向北游。如果渔民捕捞了游向东方的鱼的五分之二和游向西方的鱼的四分之三，海中剩下多少条鱼？。",
+  "topic": "回答下面的数学问题：1,800 fish swim westward, 3,200 swim eastward, and 500 swim north. What is the number of fish left in the sea, if fishers catch 2/5 of the fish that swam eastward and 3/4 of the fish that swam westward?",
   "checkpoint": [
     {
-      "$\\boxed{2870}$": 1
+      "\\boxed{2870}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯投中了13个价值3分的投篮和20个价值2分的投篮。他总共得了多少分？。",
+  "topic": "回答下面的数学问题：James scored 13 field goals worth 3 points and 20 shots worth two points.  How many total points did he score?",
   "checkpoint": [
     {
-      "$\\boxed{79}$": 1
+      "\\boxed{79}": 1
     }
   ],
   "matchingmethod": [

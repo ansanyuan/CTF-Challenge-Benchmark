@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Misha从打七折的架子上挑选了4件女衬衫。每件女衬衫的正常价格是20美元。打折后的女衬衫总共多少钱？。",
+  "topic": "回答下面的数学问题：Misha picks out 4 blouses from the 30% off rack.  The regular price for each blouse is $20.  How much is the total cost of the discounted blouses?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

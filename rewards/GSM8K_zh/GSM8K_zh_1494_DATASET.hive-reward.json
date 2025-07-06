@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾默里的家人决定进行周末旅行。他们在1小时内开了前100英里。他们在麦当劳停下来，然后继续剩下的300英里的旅程。他们总共旅行了多少小时？。",
+  "topic": "回答下面的数学问题：Emery's family decides to travel for a weekend trip. They drive the first 100 miles in 1 hour. They stop at a McDonald's and then continue the rest of the journey for 300 miles. What's the total number of hours they traveled?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

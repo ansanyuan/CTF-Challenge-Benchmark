@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jack今天有65磅的糖。明天他将使用18磅的糖，第二天他将再购买50磅的糖。最后他将有多少磅的糖？。",
+  "topic": "回答下面的数学问题：Jack has 65 pounds of sugar today. Tomorrow he will use 18 pounds of sugar and the following day he will buy 50 more pounds of sugar. How many pounds will he have in the end?",
   "checkpoint": [
     {
-      "$\\boxed{97}$": 1
+      "\\boxed{97}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：南希的前任应支付她子女抚养费。他应该每年支付30%的收入。在过去的3年里，他每年赚3万美元，然后在接下来的四年里获得了20%的加薪。如果他只支付了1200美元，他欠她多少钱？。",
+  "topic": "回答下面的数学问题：Nancy's ex owes her child support. He's supposed to pay 30% of his income each year. For 3 years, he made $30,000/year, then he got a 20% raise for the next four years. If he's only ever paid $1,200, how much does he owe her?",
   "checkpoint": [
     {
-      "$\\boxed{69000}$": 1
+      "\\boxed{69000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：金喝了一个1.5夸脱的水瓶。然后她喝了一个12盎司的水罐。她一共喝了多少盎司的水？。",
+  "topic": "回答下面的数学问题：Kim drinks a 1.5-quart bottle of water.  She then drinks a 12 ounce can of water.  How many ounces of water did she drink?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

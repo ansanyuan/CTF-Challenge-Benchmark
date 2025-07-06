@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乌苏拉去商店买了黄油、面包、一包奶酪和茶。面包的价格是黄油的两倍便宜，而黄油的价格是奶酪的80%。茶是最贵的，价格是一包奶酪的两倍。如果茶的价格是10美元，乌苏拉购买这些商品一共花了多少钱？。",
+  "topic": "回答下面的数学问题：Ursula went to the store and bought butter, bread, a package of cheese, and tea. The bread was 2 times cheaper than the butter, while the price of the butter was 80% of the price of cheese. Tea was the most expensive and cost twice the price of a package of cheese. If the tea cost $10, how much did Ursula pay for her purchases?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

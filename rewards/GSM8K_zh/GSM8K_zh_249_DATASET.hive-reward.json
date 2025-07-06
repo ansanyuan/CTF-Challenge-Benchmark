@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个18个月的杂志订阅正常价格是34美元。该杂志目前正在进行促销活动，当订阅18个月的杂志时，每期可以减少0.25美元。促销订阅比正常订阅便宜多少美元？。",
+  "topic": "回答下面的数学问题：An 18-month magazine subscription is normally $34. The magazine is currently running a promotion for $0.25 off each twice-a-month issue when signing up for the 18-month subscription. How many dollars cheaper is the promotional subscription than the normal one?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

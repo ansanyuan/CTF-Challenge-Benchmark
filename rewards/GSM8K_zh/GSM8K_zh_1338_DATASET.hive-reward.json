@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bonny刚刚买了她的第13双鞋，这比Becky拥有的鞋的双数的两倍少5双。Bobby拥有的鞋的双数是Becky的三倍。Bobby有多少双鞋？。",
+  "topic": "回答下面的数学问题：Bonny just bought her 13th pair of shoes, which is 5 less than twice as many pairs of shoes as Becky owns.  Bobby has 3 times as many pairs of shoes as Becky has.  How many shoes does Bobby have?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

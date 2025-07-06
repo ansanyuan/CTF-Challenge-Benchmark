@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在罗珀先生的30名学生的班级里，20%的学生是足球运动员。在剩下的学生中，25%的学生是啦啦队成员或乐队成员。这三组学生今天需要提早离开去参加一个客场比赛。有多少学生需要提早离开？。",
+  "topic": "回答下面的数学问题：In Mr. Roper's class of 30 students, 20% of the class are football players.  Out of the remaining class, 25% of the students are cheerleaders or part of band.  These 3 groups of students will need to leave early today to travel to an away game.  How many students are leaving early?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

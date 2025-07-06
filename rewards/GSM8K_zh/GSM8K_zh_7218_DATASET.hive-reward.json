@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：市长委托两位艺术家在城市周围绘制50幅壁画。工作完成后，塞利娜的报酬比迭戈得到的金额多1000美元的4倍。如果市长支付了总共50000美元，迭戈得到了多少钱？。",
+  "topic": "回答下面的数学问题：The mayor commissioned two artists to paint 50 murals around the city. Once the work was completed, Celina was paid $1,000 more than 4 times the amount Diego got. If the mayor paid the two a total of $50,000, how much did Diego get?",
   "checkpoint": [
     {
-      "$\\boxed{9800}$": 1
+      "\\boxed{9800}": 1
     }
   ],
   "matchingmethod": [

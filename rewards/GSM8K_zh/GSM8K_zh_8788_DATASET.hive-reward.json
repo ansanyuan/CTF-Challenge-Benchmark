@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰19岁时有了一个儿子詹姆斯。詹姆斯现在是他妹妹多拉年龄的两倍，多拉在3年后将满12岁。约翰最小的儿子在约翰32岁时出生，那么在3年后他将多大岁数？。",
+  "topic": "回答下面的数学问题：John had a son James when he was 19.  James is now twice as old as his sister Dora, who will turn 12 in 3 years.  How old will John's youngest son, who was born when John was 32, be in 3 years?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

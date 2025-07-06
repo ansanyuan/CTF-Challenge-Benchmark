@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：过去五年里，华盛顿特区7月4日的最高气温分别为：2020年90度，2019年90度，2018年90度，2017年79度和2016年71度。过去五年里，华盛顿特区7月4日的平均气温是多少？。",
+  "topic": "回答下面的数学问题：Over the past five years, on July 4th, the high temperature for Washington, DC has been: 90 degrees in 2020, 90 degrees in 2019, 90 degrees in 2018, 79 degrees in 2017 and 71 degrees in 2016. What is the average temperature for July 4th in Washington, DC over the past 5 years?",
   "checkpoint": [
     {
-      "$\\boxed{84}$": 1
+      "\\boxed{84}": 1
     }
   ],
   "matchingmethod": [

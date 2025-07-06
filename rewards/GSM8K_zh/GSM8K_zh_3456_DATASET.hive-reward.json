@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sunny烤了8个蛋糕。然后她送出了2个蛋糕。Sunny想在剩下的蛋糕上放蜡烛。如果她每个蛋糕上放6支蜡烛，她总共会用多少支蜡烛？。",
+  "topic": "回答下面的数学问题：Sunny bakes 8 cakes. Then she gives away 2 cakes. Sunny wants to put candles on the remaining cakes. If she puts 6 candles on each cake, how many candles will she use in total?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

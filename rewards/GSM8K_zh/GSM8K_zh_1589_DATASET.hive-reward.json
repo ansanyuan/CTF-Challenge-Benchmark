@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽正在制作一艘帆船模型。她想要添加三块帆布：一块长5英寸宽8英寸的长方形帆布和两块直角三角形帆布，一块底边长3英寸，高4英寸，另一块底边长4英寸，高6英寸。（请记住，你可以通过将具有相同高度和长度的正方形的面积除以2来找到三角形的面积）。她总共需要多少平方英寸的帆布？。",
+  "topic": "回答下面的数学问题：Mary is making a model sailboat. She wants to add three sails: a rectangular sail that measures 5 inches by 8 inches and two right triangular sails, one that's 3 inches long at the bottom and 4 inches tall and one that's 4 inches long at the bottom and 6 inches tall. (Remember you can find the area of a triangle by dividing the area of a square with the same height and length by 2). How many square inches of canvas does she need total?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

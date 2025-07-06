@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Oli的香蕉船有4球冰淇淋，而Victoria的冰淇淋球数是Oli的两倍。Victoria比Oli多了多少个冰淇淋球？。",
+  "topic": "回答下面的数学问题：Oli's banana split has 4 scoops of ice cream while Victoria has twice more scoops of ice cream than Oli's. How many more scoops of ice cream does Victoria have than Oli?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰森的狗的尾巴长度是身体长度的一半，头部长度是身体长度的1/6。如果狗的整体长度是30英寸，它的尾巴有多长？。",
+  "topic": "回答下面的数学问题：Jason's dog has a tail that's half the length of its body, and a head that's 1/6 the length of its body. If the dog is 30 inches long overall, how long is its tail?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

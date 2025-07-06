@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：威尔弗雷德星期二吃了4根胡萝卜，星期三吃了6根胡萝卜。如果威尔弗雷德想在星期二到星期四吃总共15根胡萝卜，那么威尔弗雷德星期四需要吃多少根胡萝卜？。",
+  "topic": "回答下面的数学问题：Wilfred eats 4 carrots on Tuesday and 6 carrots on Wednesday. If Wilfred wants to eat a total of 15 carrots from Tuesday to Thursday, how many carrots does Wilfred need to eat on Thursday?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

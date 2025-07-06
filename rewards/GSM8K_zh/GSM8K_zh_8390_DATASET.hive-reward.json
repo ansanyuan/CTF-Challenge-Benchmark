@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：朱莉娅和纳丁从她们的母亲那里得到了相同数额的零花钱。这两个女孩决定合并她们的零花钱，给她们的父亲一个生日惊喜。她们买了一个蛋糕，花了11美元。她们还买了一打气球，2个气球售价0.5美元。剩下的钱用来买了两桶冰淇淋，每桶7美元。朱莉娅和纳丁的母亲给了她们每人多少钱？。",
+  "topic": "回答下面的数学问题：Julia and Nadine were given the same amount of allowance by their mother. The two girls decided to combine their allowance to surprise their father on his birthday. They bought a cake which costs $11. They also bought 1 dozen balloons which were sold for $0.5 for 2 balloons. The remaining money was used to buy 2 tubs of ice cream for $7 each. How much did Julia and Nadine's mother give each one of them?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

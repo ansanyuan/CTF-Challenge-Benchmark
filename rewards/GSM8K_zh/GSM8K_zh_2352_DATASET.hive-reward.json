@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lanie生病了，只能工作她通常40小时工作周的4/5。如果她的小时费率是15美元，那么她那周的工资是多少？。",
+  "topic": "回答下面的数学问题：Lanie has been sick and was only able to work 4/5 of her usual 40-hour week. If her hourly rate is $15, how much was her salary for that week?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

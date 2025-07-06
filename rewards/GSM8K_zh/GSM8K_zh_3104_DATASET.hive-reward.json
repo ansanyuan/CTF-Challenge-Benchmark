@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Taegan去了一个嘉年华会，在那里她从5个嘉年华游戏中赢得了门票，还在地板上找到了5张门票。每张门票价值3美元。总共，她拥有的门票总价值为30美元。如果Taegan从每个游戏中赢得了相等数量的门票，她从每个游戏中赢得了多少张门票？。",
+  "topic": "回答下面的数学问题：Taegan goes to a carnival where she wins tickets from each of the 5 carnival games and also finds 5 tickets on the floor. Each ticket is worth $3. In total, she has tickets that total a value of $30. If Taegan won an equal number of tickets from each of the games, how many tickets did she win from each game?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

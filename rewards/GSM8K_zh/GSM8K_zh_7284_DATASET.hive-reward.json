@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个农民在整齐的行中种植蔬菜。他有64株豆苗，每行种植8株。他还有84颗南瓜种子，每行种植7颗。最近，他种植了48株萝卜，每行种植6株。如果农民每个种植床种植两行，他一共有多少个种植床？。",
+  "topic": "回答下面的数学问题：A farmer plants his vegetables in neat rows. He has 64 bean seedlings and plants 8 seedlings in a row. He also has 84 pumpkin seeds and plants 7 seeds in a row. Recently, he planted 48 radishes with 6 radishes in a row. If the farmer plants two rows per plant bed, how many plant beds did he have for all his plants?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

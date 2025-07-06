@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果珍娜的银行账户里的钱是菲尔的两倍，而菲尔的账户里的钱是鲍勃账户里的三分之一，而鲍勃的账户里有60美元，那么珍娜的账户里比鲍勃少多少钱？。",
+  "topic": "回答下面的数学问题：If Jenna has twice as much money in her bank account as Phil does, and Phil has one-third the amount of money that Bob has in his account, and Bob has $60 in his account, how much less money does Jenna have in her account than Bob?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

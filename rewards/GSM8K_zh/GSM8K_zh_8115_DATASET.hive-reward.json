@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂姆得到了一个晋升，为他提供了一个5%的加薪，基于他每月20000美元的薪水。它还给了他相当于半个月薪水的奖金。他一年将赚多少钱？。",
+  "topic": "回答下面的数学问题：Tim gets a promotion that offers him a 5% raise on his $20000 a month salary.  It also gives him a bonus worth half a month's salary. How much money will he make in a year?",
   "checkpoint": [
     {
-      "$\\boxed{262500}$": 1
+      "\\boxed{262500}": 1
     }
   ],
   "matchingmethod": [

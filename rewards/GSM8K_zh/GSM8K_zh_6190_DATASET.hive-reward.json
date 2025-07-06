@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：加拿大北部的Wayupnorth记录了四天的温度。温度分别为：-36华氏度，+13华氏度，-15华氏度和-10华氏度。Wayupnorth，加拿大这四天的平均华氏度数是多少？。",
+  "topic": "回答下面的数学问题：Four days' temperatures were recorded for Wayupnorth, Canada. The temperatures were: -36 degrees Fahrenheit, +13 degrees Fahrenheit, -15 degrees Fahrenheit, and -10 degrees Fahrenheit. What was the average number of degrees (Fahrenheit) in Wayupnorth, Canada on the 4 days recorded?",
   "checkpoint": [
     {
-      "$\\boxed{-12}$": 1
+      "\\boxed{-12}": 1
     }
   ],
   "matchingmethod": [

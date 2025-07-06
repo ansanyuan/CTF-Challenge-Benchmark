@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托马斯希望明年参加一场马拉松比赛，距离为26.3英里。他知道每个月训练，他可以跑的距离是上个月的两倍。如果他在训练的第一个月能跑3英里，那么在马拉松比赛前应该提前多少个月开始训练，以确保他能跑得足够远？。",
+  "topic": "回答下面的数学问题：Tomas is hoping to run a marathon next year, which is 26.3 miles. He knows that each month he trains, he can run twice as far as the month before. If he can run 3 miles during the first month of training, how many total months before the marathon should he start training to ensure he can run far enough?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

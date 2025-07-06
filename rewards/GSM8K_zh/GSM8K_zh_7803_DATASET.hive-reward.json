@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾琳有7个棒棒糖。她妈妈又给了艾琳10个棒棒糖。如果艾琳给了艾拉3个棒棒糖，那么她还剩下多少个棒棒糖？。",
+  "topic": "回答下面的数学问题：Erin has 7 lollipops. Her mother gives Erin another 10 lollipops. If Erin gives 3 of her lollipops to Ella, how many lollipops does she have left?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

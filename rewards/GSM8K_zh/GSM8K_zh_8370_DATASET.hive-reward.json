@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰每个月出租他的车10次，每次3小时。他每小时收费25美元。如果他的车贷是500美元，他的车赚了多少利润？。",
+  "topic": "回答下面的数学问题：John rents his car out 10 times a month for 3 hours each time.  He gets paid $25 an hour.  If his car payment is $500, how much profit does he make on his car?",
   "checkpoint": [
     {
-      "$\\boxed{250}$": 1
+      "\\boxed{250}": 1
     }
   ],
   "matchingmethod": [

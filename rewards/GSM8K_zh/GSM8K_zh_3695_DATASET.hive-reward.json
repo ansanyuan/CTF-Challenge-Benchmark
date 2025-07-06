@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：多年来，鹈鹕湾的鲨鱼数量一直是鲨鱼咬湾鹈鹕数量的两倍。但是今天科学家说，鲨鱼咬湾的鹈鹕中有三分之一搬到了鹈鹕湾。如果鹈鹕湾仍然有60条鲨鱼，那么鲨鱼咬湾还剩下多少只鹈鹕？。",
+  "topic": "回答下面的数学问题：For many years, the number of sharks in Pelican Bay has been twice the number of Pelicans in Shark Bite Cove.   But today scientists say one-third of the Pelicans in Shark Bite Cove have moved to Pelican Bay.  If there are still 60 sharks in Pelican Bay,  how many Pelicans remain in Shark Bite Cove?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

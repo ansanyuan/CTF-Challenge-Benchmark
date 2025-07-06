@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个商场的停车场有四层。在第一层，有90个停车位。第二层的停车位比第一层多8个，第三层比第二层多12个。第四层的停车位比第三层少9个。如果已经有100辆车停放，停车场可以容纳多少辆车？。",
+  "topic": "回答下面的数学问题：A parking garage of a mall is four stories tall. On the first level, there are 90 parking spaces. The second level has 8 more parking spaces than on the first level, and there are 12 more available parking spaces on the third level than on the second level. The fourth level has 9 fewer parking spaces than the third level. If 100 cars are already parked, how many cars can be accommodated by the parking garage?",
   "checkpoint": [
     {
-      "$\\boxed{299}$": 1
+      "\\boxed{299}": 1
     }
   ],
   "matchingmethod": [

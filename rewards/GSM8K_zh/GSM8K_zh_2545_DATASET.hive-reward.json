@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔的最大西瓜重8磅。他的邻居克莱种了一个三倍于这个大小的西瓜。而他们共同的朋友约翰种了一个比克莱的一半大小的西瓜。约翰的西瓜有多大？。",
+  "topic": "回答下面的数学问题：Michael’s largest watermelon weighs 8 pounds.  His neighbor, Clay, grew a watermelon three times that size.  And their mutual friend, John, grew a watermelon that was half the size of Clay’s.  How big was John’s watermelon?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

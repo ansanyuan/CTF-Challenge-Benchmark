@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汉娜带了30美元去参加县集市。她花了一半的钱在游乐设施上，另外花了5美元在甜点上。还剩下多少美元？。",
+  "topic": "回答下面的数学问题：Hannah brought $30 to the county fair. She spent half of it on rides and another $5 on dessert. How much, in dollars, is left?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

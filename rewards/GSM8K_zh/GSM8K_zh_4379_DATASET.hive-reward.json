@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rikki正在写作并出售诗歌。他以每个字0.01美元的价格出售他的诗歌。他可以在5分钟内写25个字的诗歌。如果他有2个小时来写诗，他可以期望赚多少钱？。",
+  "topic": "回答下面的数学问题：Rikki is writing and selling poetry. He sells his poems for $.01 a word. He can write 25 words of poetry in 5 minutes. If he has 2 hours to write poetry, how much can he expect to earn?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯决定通过一周收集500个罐头来建造一个罐头房子。第一天，他收集了50个罐头。第二天，他设法收集了这个数字的3倍。第三天，他比第二天收集的数量少了50个罐头。如果他在本周剩下的日子里每天收集相等数量的罐头，那么他在本周剩下的日子里每天收集的罐头数量是多少？。",
+  "topic": "回答下面的数学问题：James decides to build a tin house by collecting 500 tins in a week. On the first day, he collects 50 tins. On the second day, he manages to collect 3 times that number. On the third day, he collects 50 tins fewer than the number he collected on the second day. If he collects an equal number of tins on the remaining days of the week, what's the number of tins he collected each day for the rest of the week?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

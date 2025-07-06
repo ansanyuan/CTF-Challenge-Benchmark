@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯文的鱼缸正在以每小时1.5盎司的速度慢慢漏水。他计划当天晚些时候去鱼缸商店买一个新的鱼缸，但他可能要等长达12小时才能带着新的鱼缸回家。因此，为了在那段时间内收集漏水的液体，他在鱼缸下面放了一个桶，这个桶可以容纳漏水12小时内的两倍容量。他使用了多大容量的桶（以盎司为单位）？。",
+  "topic": "回答下面的数学问题：Kevin's fish tank was leaking slowly at a rate of 1.5 ounces per hour.  He planned to go to the fish tank store later that day to get a new tank, but it may be as long as 12 hours before he can return home with the new tank.  Therefore, to collect the leaking fluid over that time, he placed a bucket underneath the tank that could hold twice the amount of fluid that would leak over 12 hours.  What size bucket, in ounces, did he use?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

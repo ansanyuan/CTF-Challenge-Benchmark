@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在马戏团表演结束时，舞台上有12只狗。一半的狗站在后腿上，另一半站在四条腿上。有多少只狗脚着地？。",
+  "topic": "回答下面的数学问题：At the end of a circus act, there are 12 dogs on stage.  Half of the dogs are standing on their back legs and the other half are standing on all 4 legs.  How many dog paws are on the ground?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

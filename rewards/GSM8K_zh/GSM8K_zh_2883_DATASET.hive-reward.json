@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迪克斯特和杰伊正在用一加仑的白漆来粉刷墙壁。迪克斯特用了1/4加仑的油漆，而杰伊用了5/8加仑的油漆。如果一加仑等于4升，迪克斯特和杰伊一共剩下多少升的油漆？。",
+  "topic": "回答下面的数学问题：Dexter and Jay are using a gallon of white paint to paint the walls. Dexter used 3/8 of the gallon of paint while Jay used 5/8 of a gallon of paint. If a gallon is equal to 4 liters, how many liters of paint were left from Dexter and Jay combined?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

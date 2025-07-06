@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个会议中心有六个房间。每个房间最多可容纳80人。今天，会议中心只有三分之二的人。会议中心有多少人？。",
+  "topic": "回答下面的数学问题：A conference center has six rooms. Each room can hold up to 80 people. Today, the conference center is only 2/3 full. How many people are in the conference center?",
   "checkpoint": [
     {
-      "$\\boxed{320}$": 1
+      "\\boxed{320}": 1
     }
   ],
   "matchingmethod": [

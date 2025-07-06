@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰最终被选为陪审团成员。陪审团的选拔需要2天。审判本身持续的时间是陪审团选拔的4倍。这是一场复杂的审判。陪审团商议的时间相当于6个整天。他们每天商议16小时。约翰在陪审团工作了多少天？。",
+  "topic": "回答下面的数学问题：John ends up serving on jury duty.  Jury selection takes 2 days.  The trial itself lasts 4 times as long as jury selection  It is a complicated trial.  The number of hours spent in jury deliberation was the equivalent of 6 full days.  They spend 16 hours a day in deliberation.  How many days does John spend on jury duty?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

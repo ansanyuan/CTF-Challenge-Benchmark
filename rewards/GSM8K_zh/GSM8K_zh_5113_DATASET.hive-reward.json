@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alissa用废纸制作记事本给她的朋友。她会将5张信纸折叠3次，然后沿着边缘剪裁形成较小的便条纸。然后她会将这些较小的便条纸叠放在一起，用订书机订在一起。如果有人每天写10张便条，一个记事本可以使用多久？。",
+  "topic": "回答下面的数学问题：Alissa used discarded paper to make notepads for her friends. She would fold 5 pieces of letter-size paper 3 times then cut along the edges to form smaller note papers. She would then stack these smaller note papers and staple them together. How long would 1 notepad last if someone wrote 10 notes per day?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

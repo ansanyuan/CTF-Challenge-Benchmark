@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安德鲁邀请了两个朋友来过夜。对于其中一个朋友布莱恩，他要求他的母亲买3个甜甜圈。他要求另一个朋友塞缪尔也买同样数量的甜甜圈。在过夜前一天，安德鲁又邀请了另外两个朋友，并要求他的母亲给他们买同样数量的甜甜圈。为了以防万一，安德鲁的母亲想为安德鲁的每个朋友多买一个甜甜圈。安德鲁的母亲将会为安德鲁买同样数量的甜甜圈。安德鲁的母亲需要买多少个甜甜圈？。",
+  "topic": "回答下面的数学问题：Andrew is having two of his friends over for a sleepover. For one friend, Brian, he asks his mother to buy 3 donuts. He asks for his other friend, Samuel, to get the same. A day before the sleepover Andrew ends up inviting two more friends and asks his mother to buy them the same amount of donuts. Just in case, Andrew’s mother wants to buy one more donut for each of Andrew’s friends. Andrew’s mother is going to buy the same amount of donuts for Andrew as everybody else. How many donuts will Andrew’s mother need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

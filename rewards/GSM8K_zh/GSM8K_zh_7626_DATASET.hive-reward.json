@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carl买了十包饼干。每包饼干里有六块饼干。每块饼干的成本是0.10美元。如果他用一张10美元的钞票支付，Carl会收到多少零钱？。",
+  "topic": "回答下面的数学问题：Carl buys ten packs of cookies. Each pack of cookies has six cookies inside. Each cookie cost $0.10. How much change does Carl receive if he pay with a $10 bill?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Venny在一辆二手车上花了15000美元，这辆车的价格是原价的40%。这辆车的原价是多少？。",
+  "topic": "回答下面的数学问题：Venny spent $15000 on a used car which cost 40% of the original price. What was the original price of the car?",
   "checkpoint": [
     {
-      "$\\boxed{37500}$": 1
+      "\\boxed{37500}": 1
     }
   ],
   "matchingmethod": [

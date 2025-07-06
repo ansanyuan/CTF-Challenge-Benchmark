@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jake每周投递234份报纸。Miranda每周投递的报纸是Jake的两倍。Miranda每月比Jake多投递多少份报纸？。",
+  "topic": "回答下面的数学问题：Jake delivers 234 newspapers a week. Miranda delivers twice as many newspapers a week. How many more newspapers does Miranda deliver than Jake in a month?",
   "checkpoint": [
     {
-      "$\\boxed{936}$": 1
+      "\\boxed{936}": 1
     }
   ],
   "matchingmethod": [

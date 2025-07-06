@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰非常累。他决定打个盹，但他想先完成作业。如果约翰有20分钟的数学作业，40分钟的阅读作业和20分钟的历史作业，而且在他必须吃晚饭前有3小时，约翰有多少分钟可以打盹？。",
+  "topic": "回答下面的数学问题：John is very tired. He decides to take a nap, but he wants to finish his homework first. If John has 20 minutes of math homework, 40 minutes of reading homework, and 20 minutes of history homework and 3 hours before he has to eat dinner, how many minutes does John have to nap?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

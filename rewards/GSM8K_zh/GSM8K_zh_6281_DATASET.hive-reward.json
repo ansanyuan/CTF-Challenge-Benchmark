@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特买了一盒多口味的奶酪棒。其中15根是切达奶酪，30根是马苏里拉奶酪，45根是胡椒杰克奶酪。如果珍妮特随机挑选一根奶酪棒，它是胡椒杰克奶酪的几率是多少？。",
+  "topic": "回答下面的数学问题：Janet buys a multi-flavor pack of cheese sticks. 15 of the sticks are cheddar, 30 are mozzarella, and 45 are pepperjack. If Janet picks a cheese stick at random, what is the percentage chance it will be pepperjack?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

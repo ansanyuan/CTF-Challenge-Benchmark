@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：湖泊岛上有鳄鱼。一半的鳄鱼是雄性。其余的是雌性。在雌性中，有40%是幼年。有15只成年雌性。那里有多少只雄性鳄鱼？。",
+  "topic": "回答下面的数学问题：Lagoon island is populated by alligators. Half the alligators are male. The rest are female. Among the females, 40% are juveniles. There are 15 adult females. How many male alligators are there?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

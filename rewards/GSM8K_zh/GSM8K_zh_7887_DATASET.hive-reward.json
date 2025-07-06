@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marcy制作的自制蜡烛，她宣称有99%的保证不会爆炸。更危险的蜡烛中有5%存在一个缺陷，会让它们闻起来像湿狗。如果她制作了50000个蜡烛，有多少个既会闻起来像湿狗又会爆炸？。",
+  "topic": "回答下面的数学问题：Marcy makes homemade candles that she markets as 99% guaranteed not to explode. 5% of the more dangerous candles also have a defect that makes them smell like wet dog. If she makes 50000 candles, how many of them will both smell like wet dog and explode?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

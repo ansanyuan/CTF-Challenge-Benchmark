@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉姆决定开一家自行车店。他最常见的修理工作是修理自行车轮胎。他收取20美元，成本是5美元。吉姆一个月做了300次这样的修理。他还做了2次更复杂的修理，每次收费300美元，成本是50美元。他还从零售店销售了价值2000美元的商品。如果店铺的租金和其他固定费用是每月4000美元，店铺赚了多少利润？。",
+  "topic": "回答下面的数学问题：Jim decides to open up a bike shop.  The most common repair he does is fixing bike tires.  He charges $20 for this and it cost him $5 in parts.  In one month Jim does 300 of these repairs.  He also does 2 more complex repairs for $300 each and cost $50 in parts.  He also sells $2000 profit worth of things from his retail shop.  If rent and other fixed expense for the shop is $4000 a month how much profit did the shop make?",
   "checkpoint": [
     {
-      "$\\boxed{3000}$": 1
+      "\\boxed{3000}": 1
     }
   ],
   "matchingmethod": [

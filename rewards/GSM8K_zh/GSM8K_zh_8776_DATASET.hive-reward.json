@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马修有一套12个独特的玩具士兵。他想以公平的价格卖掉它们。他找到了一个买家，愿意为他收藏的一半玩具支付每个5美元，另一半每个7美元。如果马修同意这个提议，他将赚多少钱？。",
+  "topic": "回答下面的数学问题：Matthew has a collection of 12 unique toy soldiers. He wants to sell them for a fair price. He found a buyer who is willing to pay for half his collection $5 per toy, and for the other half $7 per toy. If Matthew would agree to that offer, how much money would he earn?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

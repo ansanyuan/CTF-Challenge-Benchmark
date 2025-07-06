@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在最近的钓鱼比赛中，亚历克斯捕获的鱼是雅各布的7倍。雅各布认为自己没有赢得比赛的机会，但亚历克斯变得过于自信，把他的鱼桶打翻了，23条鱼又回到了湖里。如果雅各布一开始有8条鱼，他还需要再捕获多少条鱼才能仅多捕获1条鱼就赢过亚历克斯？。",
+  "topic": "回答下面的数学问题：At a recent fishing tournament, Alex caught 7 times as many fish as Jacob. Jacob did not think that he had any chance of winning, but Alex became overconfident and knocked over his bucket of fish, losing 23 fish back to the lake. If Jacob had 8 fish at the beginning, how many more fish does he need to catch to beat Alex by just 1 fish?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

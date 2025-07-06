@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：海伦在德国旅行。她预订了酒店住了3晚，并在那次旅行中乘坐了7次公交车。酒店的一晚费用是80美元，每次公交车的费用是酒店一晚费用的10%。海伦在那次旅行中支付了多少钱用于酒店和公交车费？。",
+  "topic": "回答下面的数学问题：Helen went on a trip through Germany. She booked a hotel for 3 nights and rode the bus 7 times during that trip. One night at the hotel was a cost of $80, and every bus trip was 10% of the price of one night at the hotel. How much did Helen pay for the hotel and bus travels during that trip?",
   "checkpoint": [
     {
-      "$\\boxed{296}$": 1
+      "\\boxed{296}": 1
     }
   ],
   "matchingmethod": [

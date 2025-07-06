@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jerome的钱的一半是43美元。他给了Meg8美元，给了Bianca三倍的钱。Jerome还剩多少钱？。",
+  "topic": "回答下面的数学问题：Half of Jerome's money was $43. He gave $8 to Meg and thrice as much to Bianca. How much does Jerome have left?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

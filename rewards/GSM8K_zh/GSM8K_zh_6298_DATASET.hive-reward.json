@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔丹决定在体重为250磅时开始一个锻炼计划。在最初的4周里，他每周减少3磅。之后，他连续8周每周减少2磅。现在乔丹的体重是多少？。",
+  "topic": "回答下面的数学问题：Jordan decides to start an exercise program when he weighs 250 pounds.  For the first 4 weeks, he loses 3 pounds a week.  After that, he loses 2 pounds a week for 8 weeks.  How much does Jordan now weigh?",
   "checkpoint": [
     {
-      "$\\boxed{222}$": 1
+      "\\boxed{222}": 1
     }
   ],
   "matchingmethod": [

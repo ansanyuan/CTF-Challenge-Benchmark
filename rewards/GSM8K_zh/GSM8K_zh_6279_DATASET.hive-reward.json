@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在他的咖啡馆，米尔顿卖苹果派和桃子派的蛋糕片。他把苹果派切成8片。他把桃子派切成6片。周末，有56位顾客订购了苹果派片，48位顾客订购了桃子派片。米尔顿在周末卖了多少个派？。",
+  "topic": "回答下面的数学问题：At his cafe, Milton sells apple pie and peach pie slices.  He cuts the apple pie into 8 slices.  He cuts the peach pie into 6 slices.  On the weekend, 56 customers ordered apple pie slices and 48 customers ordered peach pie slices.  How many pies did Milton sell during the weekend?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

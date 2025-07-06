@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：制作一打饼干需要两杯面粉。Carla今天要做36块饼干，明天要做30块饼干。Carla今天和明天烤饼干需要多少杯面粉？。",
+  "topic": "回答下面的数学问题：Two cups of flour are needed to make a dozen cookies. Carla is making 36 cookies today and 30 cookies tomorrow. How many cups of flour will Carla need to bake the cookies today and tomorrow?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

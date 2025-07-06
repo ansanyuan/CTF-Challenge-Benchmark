@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：栅栏上的鸟的数量是50减去两倍的数量再加上10。栅栏上有多少只鸟？。",
+  "topic": "回答下面的数学问题：Ten more than twice the number of birds on the fence is 50. How many birds are on the fence?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

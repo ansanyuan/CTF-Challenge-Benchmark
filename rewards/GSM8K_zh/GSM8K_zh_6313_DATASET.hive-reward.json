@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：本比菲利普多8个苹果。汤姆拥有本的三分之一的苹果。如果菲利普有40个苹果，汤姆有多少个苹果？。",
+  "topic": "回答下面的数学问题：Ben has 8 apples more than Phillip does. Tom has three eighths as many apples at Ben has. If Phillip has 40 apples, how many apples does Tom have?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

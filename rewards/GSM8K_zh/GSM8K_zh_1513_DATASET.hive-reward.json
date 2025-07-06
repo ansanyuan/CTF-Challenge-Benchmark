@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在某家公司，每为客户提供服务，员工将获得相当于所服务客户数量的20%的奖励积分。星期一，汤姆每小时为10名客户提供服务，一共8小时。那天汤姆赚了多少奖励积分？。",
+  "topic": "回答下面的数学问题：In a certain company, for every customer served, an employee gets as many bonus points, as 20% of the number of customers served. On Monday, Tom served 10 customers per hour for 8 hours. How many bonus points did Tom earn that day?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

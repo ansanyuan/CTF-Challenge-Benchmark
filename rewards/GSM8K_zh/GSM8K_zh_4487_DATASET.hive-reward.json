@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安妮喜欢吃饼干。她周一吃了5块饼干，周二吃的是周一的两倍，周三比周二多吃了40%。安妮在这三天里一共吃了多少块饼干？。",
+  "topic": "回答下面的数学问题：Annie likes to eat cookies. She ate 5 cookies on Monday, two times more on Tuesday, and 40% more on Wednesday than on Tuesday. How many cookies did Annie eat during these three days?",
   "checkpoint": [
     {
-      "$\\boxed{29}$": 1
+      "\\boxed{29}": 1
     }
   ],
   "matchingmethod": [

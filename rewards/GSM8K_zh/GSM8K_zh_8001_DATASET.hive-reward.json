@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果一个人可以在5天内粉刷半栋房子，那么5个人粉刷一整栋房子需要多少小时？。",
+  "topic": "回答下面的数学问题：If one person can paint half a house in 5 days, how many hours would it take for 5 people to paint a whole house?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

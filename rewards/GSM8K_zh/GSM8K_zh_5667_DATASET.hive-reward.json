@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Steve手里拿着镍币和一角硬币。他比镍币多4个一角硬币。他手里总共有70美分。他拿着多少个镍币？。",
+  "topic": "回答下面的数学问题：Steve is holding nickels and dimes in his hand. He has 4 more dimes than nickels. He has a total of 70 cents in his hand. How many nickels is he holding?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

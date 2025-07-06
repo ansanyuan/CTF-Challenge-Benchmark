@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽亚发现一家商店出售手工毛衣30美元和手工围巾20美元。她想为家人每个人买一件。她将购买6件毛衣和6条围巾。如果她已经存了500美元，买完所有这些后她还剩多少钱？。",
+  "topic": "回答下面的数学问题：Maria found a store that sells handmade sweaters for $30 and a handmade scarf for $20. She wants to buy one for everyone in her family. She will buy 6 sweaters and 6 scarves. If she has saved $500, how much will be left in her savings after buying all these?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

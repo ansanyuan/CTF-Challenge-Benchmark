@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家面包店的面包比上周五Sam的少了40个，但却是Sam的七倍。如果上周五Sam有七十个面包，那么面包店有多少个面包？。",
+  "topic": "回答下面的数学问题：A bakery has 40 less than seven times as many loaves of bread as Sam had last Friday. If Sam had seventy loaves of bread last Friday, how many loaves of bread does the bakery have?",
   "checkpoint": [
     {
-      "$\\boxed{450}$": 1
+      "\\boxed{450}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jill要重新铺设她的前院。她房子前面的土地面积为200英尺宽，50英尺长。她的房子有一条长50英尺宽3英尺的人行道。还有四个花坛：两个就在房子前面，尺寸为4英尺深，25英尺长，一个尺寸为10英尺乘12英尺，还有一个尺寸为7英尺乘8英尺。她需要多少平方英尺的草皮来覆盖她的院子，减去人行道和花坛的面积？。",
+  "topic": "回答下面的数学问题：Jill is going to resod her front yard. The plot of land in front of her house is 200 feet wide by 50 feet. Her house has a sidewalk that is 3 feet wide and 50 feet long. There are also four flower beds: two right in front of the house that are 4 feet deep by 25 feet long, one that is 10 feet by 12 feet, and a fourth that is 7 feet by 8 feet. How many square feet of sod will she need to cover her yard, minus the sidewalk and flower beds?",
   "checkpoint": [
     {
-      "$\\boxed{9474}$": 1
+      "\\boxed{9474}": 1
     }
   ],
   "matchingmethod": [

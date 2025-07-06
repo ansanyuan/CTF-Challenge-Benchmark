@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：由于冠状病毒的限制，当地商店老板特伦特先生将他店里的商品价格分别提高了15%，以使他的收入与以前相同。如果购买一个橙子是40美元，购买一个芒果的价格是50美元，请计算现在以新价格购买十个橙子和十个芒果的总成本是多少。。",
+  "topic": "回答下面的数学问题：Due to the restrictions of Coronavirus, Mr. Trent, the local store owner, increased the prices of goods at his store by 15% each to make the same income he was making before. If buying an orange was $40 and the price of purchasing a mango was $50, calculate how much it costs in total now to buy ten oranges and ten mangoes at the new prices.",
   "checkpoint": [
     {
-      "$\\boxed{1035}$": 1
+      "\\boxed{1035}": 1
     }
   ],
   "matchingmethod": [

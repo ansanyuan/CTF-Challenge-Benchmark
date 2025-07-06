@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个水果摊贩以80美元买了50个西瓜。他以25%的利润卖出了所有西瓜。每个西瓜卖了多少钱？。",
+  "topic": "回答下面的数学问题：A fruit vendor bought 50 watermelons for $80. He sold all of them at a profit of 25%. How much was each watermelon sold?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

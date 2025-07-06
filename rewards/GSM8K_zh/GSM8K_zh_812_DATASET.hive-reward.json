@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史蒂夫拥有一家出售鱼类的湖畔商店。他有存货200条鱼。他卖掉50条鱼，因为他的冰箱停止工作，剩下的鱼中有三分之一变质。又来了一批200条鱼的新存货。现在他库存中有多少条鱼？。",
+  "topic": "回答下面的数学问题：Steve owns a lake shop that sells fish. He has a stock of 200 fish. He sells 50 fish and because his refrigerators stop working a third of the remaining fish become spoiled. A new stock of 200 more fish arrives. How many fish does he have in stock now?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍勃、汤姆、莎莉和杰瑞在他们最喜欢的比萨店吃晚餐。他们决定分享2个比萨。鲍勃独自吃了半个比萨。汤姆吃了1/3个比萨。莎莉不太饿，只吃了1/6个比萨，而杰瑞吃了1/4个比萨。如果每个比萨被切成12片，剩下了多少片？。",
+  "topic": "回答下面的数学问题：Bob, Tom, Sally, and Jerry had dinner at their favorite pizzeria. They decide to share 2 pizzas. Bob ate half of a pizza on his own. Tom ate one-third of a pizza. Sally wasn't very hungry and only ate one-sixth of a pizza, and Jerry ate a quarter of a pizza. If each pizza is cut into 12 slices, how many slices were left over?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

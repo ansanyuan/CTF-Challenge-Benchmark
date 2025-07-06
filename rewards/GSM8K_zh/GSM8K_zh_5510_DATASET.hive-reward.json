@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个彩虹糖果盒子里有10颗紫色糖果，比黄色糖果多4颗，比黄色糖果少2颗绿色糖果。盒子里一共有多少颗彩虹糖果？。",
+  "topic": "回答下面的数学问题：A box of rainbow nerds contains 10 purple candies, 4 more yellow candies, and 2 fewer green candies than yellow candies. How many rainbow nerds are there in the box?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

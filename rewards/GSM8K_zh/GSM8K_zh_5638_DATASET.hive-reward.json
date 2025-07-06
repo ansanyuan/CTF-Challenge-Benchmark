@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：彼得森夫人以每个45美元的价格购买了10个玻璃杯。她用了五张100美元的钞票。彼得森夫人会收到多少找零？。",
+  "topic": "回答下面的数学问题：Mrs. Petersons bought 10 tumblers for $45 each. She paid with five $100 bills. How much change will Mrs. Petersons receive?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

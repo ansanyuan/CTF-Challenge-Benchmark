@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jayden通过出售他业余拍摄的照片赚了70美元。他的妹妹Ava给了他一半的90美元零花钱，以帮助他购买一台价值200美元的新相机。Jayden还需要多少钱才能买到相机？。",
+  "topic": "回答下面的数学问题：Jayden had $70 from selling pictures he took as a hobby.  His sister Ava gave him half of her $90 allowance to help him buy a new camera that costs $200. How much more does Jayden need to buy the camera?",
   "checkpoint": [
     {
-      "$\\boxed{85}$": 1
+      "\\boxed{85}": 1
     }
   ],
   "matchingmethod": [

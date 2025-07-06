@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：塔拉的父母给了她90美元作为生日礼物。不想花钱，塔拉把钱存入了一个新的银行账户，该账户每年获得10%的利息。如果她一年内不取钱，她将会有多少钱？。",
+  "topic": "回答下面的数学问题：Tara's parents gave her $90 for her birthday. Not wanting to spend it, Tara put the money in a new bank account that gains 10% interest annually. If she doesn't withdraw the money at all, how much will she have after a year?",
   "checkpoint": [
     {
-      "$\\boxed{99}$": 1
+      "\\boxed{99}": 1
     }
   ],
   "matchingmethod": [

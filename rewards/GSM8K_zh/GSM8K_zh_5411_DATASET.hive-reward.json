@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯试图决定哪条小径更快。一条小径长20英里，大部分是下坡，所以詹姆斯可以以每小时5英里的速度走完。另一条小径长12英里，但大部分是上坡，所以詹姆斯只能以每小时3英里的速度前进，并且需要在中途休息1小时。最快的徒步旅行快了多少小时？。",
+  "topic": "回答下面的数学问题：James is trying to decide which trail is faster to hike. One trail is 20 miles and mostly downhill, so James can cover it at 5 miles per hour. The other trail is 12 miles, but it's mostly uphill, so James will only be able to cover 3 miles per hour and will have to take an hour break halfway through. How many hours faster is the fastest hike?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

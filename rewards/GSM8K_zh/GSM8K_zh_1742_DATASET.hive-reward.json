@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个农民有三辆卡车用来向他的农场运水。每辆卡车使用三个容量为150升的水箱。农民的卡车总共可以运多少升的水？。",
+  "topic": "回答下面的数学问题：A farmer has three trucks to carry water to his farm. Each truck uses three tanks with a capacity of 150 liters of water. How many liters of water in total can the farmer carry in his trucks?",
   "checkpoint": [
     {
-      "$\\boxed{1350}$": 1
+      "\\boxed{1350}": 1
     }
   ],
   "matchingmethod": [

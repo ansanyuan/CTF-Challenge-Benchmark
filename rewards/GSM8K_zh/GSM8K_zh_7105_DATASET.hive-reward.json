@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一辆卡车最多可以携带13,500公斤的物资。昨天，卡车装载了100个每个重100公斤的箱子。然后，它又装载了10个每个重60公斤的板条箱。今天，它又装载了50个每个重50公斤的袋子。我们还可以装载多少个每个重40公斤的袋子？。",
+  "topic": "回答下面的数学问题：A truck can carry a maximum of 13,500 kgs of supplies. Yesterday, the truck was loaded with 100 boxes that weigh 100 kgs each. Then, it was loaded with 10 crates which weigh 60 kgs each. Today, it was loaded again with 50 sacks which weigh 50 kilograms each. How many bags weighing 40 kilograms each can we still load in the truck?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

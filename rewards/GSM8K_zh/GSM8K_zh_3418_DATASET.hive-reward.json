@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Melly的两只猫同时生了一窝小猫。第一只猫有3只蓝眼睛的小猫和7只棕眼睛的小猫。第二只猫有4只蓝眼睛的小猫和6只棕眼睛的小猫。所有小猫中有多少百分比的小猫有蓝眼睛？。",
+  "topic": "回答下面的数学问题：Melly's two cats each have litters of kittens at the same time. The first cat has 3 blue-eyed kittens and 7 brown-eyed kittens. The second cat has 4 blue-eyed kittens and 6 brown-eyed kittens. What percentage of all the kittens have blue eyes?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

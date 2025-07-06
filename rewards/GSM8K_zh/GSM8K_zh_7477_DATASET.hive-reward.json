@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯决定每周跑3次短跑，每次短跑60米。他一周总共跑了多少米？。",
+  "topic": "回答下面的数学问题：James decides to run 3 sprints 3 times a week.  He runs 60 meters each sprint.  How many total meters does he run a week?",
   "checkpoint": [
     {
-      "$\\boxed{540}$": 1
+      "\\boxed{540}": 1
     }
   ],
   "matchingmethod": [

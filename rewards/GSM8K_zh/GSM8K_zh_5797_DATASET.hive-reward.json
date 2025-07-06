@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bob正在建造一个菜园。它长220英尺，宽120英尺。一半的菜园将被耕种，其余的三分之一将用于藤蔓植物的藤架，剩下的将用于种植台地。菜园中的种植台地部分将有多大？。",
+  "topic": "回答下面的数学问题：Bob is building a vegetable garden. It is 220 feet long by 120 feet wide. Half of the garden is going to be tilled land. A third of the rest of it will have trellises for vining plants, and the rest will be devoted to raised beds. How big will the raised bed section of the garden be?",
   "checkpoint": [
     {
-      "$\\boxed{8800}$": 1
+      "\\boxed{8800}": 1
     }
   ],
   "matchingmethod": [

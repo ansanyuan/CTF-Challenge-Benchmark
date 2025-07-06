@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在他的手机相册中，马拉基去年和今年自拍的照片数量比例为10:17。如果他的相册中有2430张照片，那么今年他比去年多拍了多少张照片？。",
+  "topic": "回答下面的数学问题：In his phone gallery, Malachi has the number of selfies he took last year and this year in the ratio of 10:17. If he has 2430 photos in his gallery, how many more photos did he take this year than last year?",
   "checkpoint": [
     {
-      "$\\boxed{630}$": 1
+      "\\boxed{630}": 1
     }
   ],
   "matchingmethod": [

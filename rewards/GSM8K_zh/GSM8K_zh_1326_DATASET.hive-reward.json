@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨莉上个月在工作中赚了1000美元。这个月，她得到了10%的加薪。她两个月总共会赚多少钱？。",
+  "topic": "回答下面的数学问题：Sally earned $1000 at work last month. This month, she received a 10% raise. How much money will she make in total for the two months?",
   "checkpoint": [
     {
-      "$\\boxed{2100}$": 1
+      "\\boxed{2100}": 1
     }
   ],
   "matchingmethod": [

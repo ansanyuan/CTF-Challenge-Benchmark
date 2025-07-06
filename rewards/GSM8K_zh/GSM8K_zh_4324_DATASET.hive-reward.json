@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sandra的狗生了7只小狗。她的兽医给了她105份奶粉，供小狗们使用5天。Sandra每天应该喂小狗多少次？。",
+  "topic": "回答下面的数学问题：Sandra's dog gave birth to 7 puppies. Her vet gave her 105 portions of formula to give to the puppies for 5 days. How many times a day should Sandra feed the puppies?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

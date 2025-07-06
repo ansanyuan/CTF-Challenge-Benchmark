@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Larry和Barry想摘苹果，但两人都不够高以够到苹果。Barry可以够到高度为5英尺的苹果。Larry身高5英尺，但他的肩高比他的全身高少20%。如果Barry站在Larry的肩膀上，他们能够够到多高？。",
+  "topic": "回答下面的数学问题：Larry and Barry want to pick apples out of the tree, but neither is tall enough to reach the apples.  Barry can reach apples that are 5 feet high.  Larry is 5 feet tall, but his shoulder height is 20% less than his full height.  If Barry stands on Larry's shoulders, how high can they reach?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

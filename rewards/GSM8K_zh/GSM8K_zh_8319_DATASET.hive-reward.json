@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Susan老师的班上有20名学生。其中5名学生只擅长数学，8名学生只擅长英语，其余的学生数学和英语都擅长。有多少人擅长数学？。",
+  "topic": "回答下面的数学问题：There are 20 students in Miss Susan's class. 5 of them are good at math only, 8 of them perform well in English only, and the rest are good at both math and English. How many are good at math?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

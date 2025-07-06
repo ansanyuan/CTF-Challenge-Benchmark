@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Toby正在和朋友进行杂耍比赛。赢家是在4分钟内旋转最多物体的人。Toby有5个棒球，每个棒球旋转80次。他的朋友有4个苹果，每个苹果旋转101次。赢家总共旋转了多少个物体？。",
+  "topic": "回答下面的数学问题：Toby is in a juggling contest with a friend. The winner is whoever gets the most objects rotated around in 4 minutes. Toby has 5 baseballs and each one makes 80 rotations. His friend has 4 apples and each one makes 101 rotations. How many total rotations of objects are made by the winner?",
   "checkpoint": [
     {
-      "$\\boxed{404}$": 1
+      "\\boxed{404}": 1
     }
   ],
   "matchingmethod": [

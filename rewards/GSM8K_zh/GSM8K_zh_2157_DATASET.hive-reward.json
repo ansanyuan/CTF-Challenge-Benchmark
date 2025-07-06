@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Billy能吐出一个西瓜籽30英寸。麦迪逊能比比利吐出的西瓜籽远20%。瑞安能比麦迪逊吐出的西瓜籽短50%。瑞安能吐出一个西瓜籽多远？。",
+  "topic": "回答下面的数学问题：Billy can spit a watermelon seed 30 inches.  Madison can spit a watermelon seed 20% farther than Billy.  Ryan can spit a watermelon seed 50% shorter than Madison.  How far can Ryan spit a watermelon seed?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

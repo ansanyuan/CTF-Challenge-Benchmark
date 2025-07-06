@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jack正在用红色、粉色和白色雏菊制作花环。粉色雏菊的数量是白色雏菊的9倍，红色雏菊的数量是粉色雏菊的四倍减3。如果有6朵白色雏菊，总共有多少朵雏菊？。",
+  "topic": "回答下面的数学问题：Jack is making flower crowns out of red, pink and white daisies. There are nine times as many pink daisies as white daisies and three less than four times as many red daisies as pink daisies. If there are 6 white daisies, how many daisies are there total?",
   "checkpoint": [
     {
-      "$\\boxed{273}$": 1
+      "\\boxed{273}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯决定尝试在野外收集稀有文物。他花了6个月进行研究，然后进行了为期2年的首次探险。第二件文物的研究和发现需要的时间是第一件的3倍。他找到这两件文物一共花了多长时间？。",
+  "topic": "回答下面的数学问题：James decides to try and collect rare artifacts in the field.  He spends 6 months researching before going on a 2-year-long expedition for his first find.  The second artifact takes 3 times as long for the research and discovery.  How long did it take him to find both?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：纳鲁托能举起的山比卡基亚米高十倍。但是卡基亚米能举起的山比佐助高四倍。而佐助能举起的山比庞贝高十二倍。如果庞贝能举起一英寸高的山，那么纳鲁托能举起多高的山（单位：英尺）？。",
+  "topic": "回答下面的数学问题：Naruto can lift a mountain ten times higher than Kagiyami can.  But Kagiyami can lift a mountain 4 times higher than Saskay can.  And Saskay can lift a mountain 12 times higher than Pompei can.  If Pompei can lift a mountain 1 inch, how high can Naruto lift a mountain, in feet?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

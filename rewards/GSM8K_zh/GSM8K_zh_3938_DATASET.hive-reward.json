@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个儿童礼品店每个手镯售价为4美元，每个钥匙扣售价为5美元，每本涂色书售价为3美元。宝拉和奥利夫想要为他们的朋友买礼物。宝拉买了两个手镯和一个钥匙扣，而奥利夫买了一本涂色书和一个手镯。宝拉和奥利夫总共花了多少钱？。",
+  "topic": "回答下面的数学问题：A kiddy gift shop sells bracelets at $4 each, keychains at $5 each, and coloring books at $3 each. Paula and Olive want to buy presents for their friends. Paula buys two bracelets and a keychain, while Olive buys a coloring book and a bracelet.  How much do Paula and Olive spend in total?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

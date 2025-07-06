@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个猜谜游戏中，哈贾尔的得分是24分。哈贾尔和法拉在游戏中得分的差值是21。假设法拉的得分高于哈贾尔，他们的得分总和是多少？。",
+  "topic": "回答下面的数学问题：In a guessing game, Hajar's score is 24 points. The difference in the scores between Hajar and Farah's score in the game is 21. What is the sum of their scores, assuming Farah's score is higher than Hajar's?",
   "checkpoint": [
     {
-      "$\\boxed{69}$": 1
+      "\\boxed{69}": 1
     }
   ],
   "matchingmethod": [

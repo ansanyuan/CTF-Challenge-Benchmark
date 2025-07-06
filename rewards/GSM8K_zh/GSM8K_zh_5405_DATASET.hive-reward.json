@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：劳伦周一寄出65封邮件，周二比周一多寄出10封邮件，周三比周二少寄出5封邮件，周四比周三多寄出15封邮件。劳伦一共寄出了多少封邮件？。",
+  "topic": "回答下面的数学问题：Lauren sent 65 pieces of mail on Monday, 10 more pieces of mail on Tuesday than on Monday, 5 fewer on Wednesday than on Tuesday, and 15 more pieces of mail on Thursday than on Wednesday. How many pieces of mail did Lauren send?",
   "checkpoint": [
     {
-      "$\\boxed{295}$": 1
+      "\\boxed{295}": 1
     }
   ],
   "matchingmethod": [

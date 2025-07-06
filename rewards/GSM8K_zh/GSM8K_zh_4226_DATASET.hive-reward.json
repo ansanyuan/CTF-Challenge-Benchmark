@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当杰森玩视频游戏《Duty for Ashes》时，他的任务是消灭龙的宝藏，这要求他平均每15秒开火一次。每次他开火时，他的火力设置允许他喷射火焰5秒。那么杰森平均每分钟向龙的宝藏射出多少秒的火焰？。",
+  "topic": "回答下面的数学问题：When Jason plays the video game, Duty for Ashes, his mission to slay the dragon hoard requires that he fire his weapon on average every 15 seconds.   And each time he fires his weapon, his power-fire setting allows him to shoot a flame for 5 seconds.  On average, how many seconds per minute does Jason shoot flames at the dragon hoard?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

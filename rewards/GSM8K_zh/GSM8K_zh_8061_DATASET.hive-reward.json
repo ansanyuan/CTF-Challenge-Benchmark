@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在Burger Palace餐厅，有一个巨大的罐子装满了红色、蓝色和绿色的果冻豆。罐子外面有一张便条，上面写着：“这个罐子里的红色果冻豆比蓝色果冻豆少1%，绿色果冻豆比蓝色果冻豆多1%。”如果罐子总共包含4500个果冻豆，那么它包含的绿色果冻豆比红色果冻豆多多少个？。",
+  "topic": "回答下面的数学问题：At the Burger Palace restaurant, there is an enormous jar containing red, blue and green jelly beans.  On the outside of the jar is a note that reads, \"This jar contains 1% fewer red jelly beans than blue jelly beans and 1% more green jelly beans than blue jelly beans.\"  If the jar contains a total of 4500 jelly beans, how many more green jelly beans does it contain than red jelly beans?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

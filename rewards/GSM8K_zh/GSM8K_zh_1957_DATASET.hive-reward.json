@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Matt使用计算器做数学作业每题需要2分钟，不使用计算器每题需要5分钟。如果Matt的作业有20题，使用计算器会节省多少时间？。",
+  "topic": "回答下面的数学问题：It takes Matt 2 minutes per problem to do his math homework with a calculator and 5 minutes per problem without a calculator. If Matt's assignment has 20 problems, how much time will using a calculator save?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

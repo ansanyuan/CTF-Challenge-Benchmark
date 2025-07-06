@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只美洲狮在晚上睡了4个小时，斑马睡了2个小时更多。这两种动物一周睡多少时间？。",
+  "topic": "回答下面的数学问题：A cougar is sleeping for 4 hours at night, and a zebra for 2 hours more. How much time do both animals sleep in one week?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

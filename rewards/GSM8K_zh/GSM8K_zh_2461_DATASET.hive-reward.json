@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍娜是一名卡车司机。她每英里得到0.40美元的报酬。如果她单程行驶400英里，往返行驶她能得到多少报酬？。",
+  "topic": "回答下面的数学问题：Jenna works as a truck driver. She gets paid $0.40 cents per mile. If she drives 400 miles one way, how much does she get paid for a round trip?",
   "checkpoint": [
     {
-      "$\\boxed{320}$": 1
+      "\\boxed{320}": 1
     }
   ],
   "matchingmethod": [

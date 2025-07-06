@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：洛克菲勒军事基地的枪支数量比格林纳达军事基地多3000，战争拖拉机数量比格林纳达军事基地的三倍少400，士兵制服数量是格林纳达军事基地的30倍，用于国家保护。如果格林纳达的战争物资均等分配在他们总共拥有的6000个战争物资中，那么洛克菲勒一共有多少战争物资？。",
+  "topic": "回答下面的数学问题：Rockefeller Army Base has 3000 more than twice as many guns as Grenada Army Base, 400 less than thrice as many war tractors as Grenada Army Base, and 30 times as many soldier uniforms as Grenada Army Base reserved for its national protection. How many total war supplies does Rockefeller have if Grenada's war supplies are equally divided among the 6000 war supplies they have in total?",
   "checkpoint": [
     {
-      "$\\boxed{72600}$": 1
+      "\\boxed{72600}": 1
     }
   ],
   "matchingmethod": [

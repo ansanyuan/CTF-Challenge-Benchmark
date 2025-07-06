@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个教室有一块白板，由轮流使用该教室的4位老师共用。每位老师每天有2节课，并且每节课都会使用白板。如果每节课清洁白板3次，那么白板一天被清洁多少次？。",
+  "topic": "回答下面的数学问题：A classroom has a whiteboard which is shared between the 4 teachers who take turns using the classroom. Each teacher has 2 lessons per day and uses the whiteboard in each lesson. If the whiteboard is cleaned 3 times per lesson, how many times is the whiteboard cleaned in a day?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

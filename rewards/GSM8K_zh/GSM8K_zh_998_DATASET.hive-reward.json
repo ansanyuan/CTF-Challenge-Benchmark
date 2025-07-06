@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ittymangnark和Kingnook是生活在阿拉斯加荒野最北部地区的爱斯基摩夫妇。他们和他们的孩子Oomyapeck一起生活。每天Ittymangnark都会捕捉足够的鱼供他们三个人一天的食物，并且他们平均分配这些鱼。但在他们分配完鱼之后，他们会把所有的鱼眼都给Oomyapeck，然后Oomyapeck会把其中两只眼睛给他的狗，剩下的自己吃掉。如果Oomyapeck一天吃了22只眼睛，那么每个人将会得到多少条鱼来吃？。",
+  "topic": "回答下面的数学问题：Ittymangnark and Kingnook are an Eskimo couple living in the most northern region of the Alaskan wilderness.  Together, they live with their child, Oomyapeck.  Every day Ittymangnark catches enough fish for the three of them to eat for the day and they split the fish equally between the three of them.  But after they have split the fish, they give Oomyapeck all of the eyes, who gives two of the eyes to his dog and eats the rest himself.  How many fish will each of them be given to eat if Oomyapeck eats 22 eyes in a day?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

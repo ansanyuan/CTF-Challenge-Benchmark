@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Joanne在她的主要工作中每天工作8小时，每小时赚16.00美元。她还有一份兼职工作，每天额外工作2小时，每小时赚13.50美元。如果她按照这个时间表每周工作5天，她能赚多少钱？。",
+  "topic": "回答下面的数学问题：Joanne makes $16.00 working at her main job for 8 hours a day.  She has a part-time job, working an extra 2 hours a day where she makes $13.50 an hour.  How much money does she make if she works this schedule 5 days a week?",
   "checkpoint": [
     {
-      "$\\boxed{775}$": 1
+      "\\boxed{775}": 1
     }
   ],
   "matchingmethod": [

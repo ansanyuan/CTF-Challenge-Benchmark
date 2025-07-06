@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：尤妮斯有10颗茄子种子和4个花盆。如果一个花盆可以种3颗种子，第四个花盆将种植多少颗种子？。",
+  "topic": "回答下面的数学问题：Eunice has 10 eggplant seeds and 4 pots. How many seeds will be planted in the fourth pot if 3 seeds can be planted in 1 pot?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

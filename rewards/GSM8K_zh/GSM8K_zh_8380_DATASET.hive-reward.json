@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂姆有一个盒子，里面有7个蓝色鞋盒和9个红色鞋盒。如果他用去了3个蓝色鞋盒和1/3的红色鞋盒去钓鱼，蒂姆的盒子里还剩下多少个红色和蓝色鞋盒？。",
+  "topic": "回答下面的数学问题：Tim has a box with 7 blue shoe boxes and 9 red shoe boxes. If he uses 3 blue shoeboxes and 1/3 red of his shoeboxes to go fishing, how many red and blue shoe boxes are left in Tim's box?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

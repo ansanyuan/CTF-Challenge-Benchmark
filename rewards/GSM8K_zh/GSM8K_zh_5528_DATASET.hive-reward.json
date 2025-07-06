@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：沃尔特从一些脚手架的第八个平台上摔下来，下落了4米后超过了大卫。如果他在触地前又下落了三倍深度的距离，而且这些平台的高度是均匀分布的，那么大卫在哪个平台上？。",
+  "topic": "回答下面的数学问题：Walter fell from the eighth platform of some scaffolding and fell past David after falling 4 meters. If he fell for an additional three more times that depth before hitting the ground, and the platforms are evenly spaced out in height, what platform was David on?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

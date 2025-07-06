@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Teddy有7只狗和8只猫。Ben比Teddy多9只狗，Dave比Teddy多13只猫和少5只狗。他们三个人总共有多少宠物？。",
+  "topic": "回答下面的数学问题：Teddy has 7 dogs and 8 cats. Ben has 9 more dogs than Teddy, and Dave has 13 more cats and 5 less dogs than Teddy. How many pets do all of them have combined?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

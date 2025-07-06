@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萝莉塔有54000颗草莓种子。在每个种植区，将使用3123颗种子。如果她将累积7个种植区，剩下多少草莓种子？。",
+  "topic": "回答下面的数学问题：Lolita has 54000 strawberry seeds. In each planting zone, 3123 seeds will be used. If she will accumulate 7 planting zones, how many strawberry seeds will remain?",
   "checkpoint": [
     {
-      "$\\boxed{32139}$": 1
+      "\\boxed{32139}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jimmy有一套5个动作人物玩偶。每个玩偶价值15美元，除了一个价值20美元。他决定出售他的收藏。为了快速出售，他决定每个玩偶的售价比它们的价值低5美元。如果他出售所有的玩偶，Jimmy将赚多少钱？。",
+  "topic": "回答下面的数学问题：Jimmy has a collection of 5 action figures. Each figure is worth $15, except for one which is worth $20. He decided to sell his collection. To do it fast he decided to sell each of them for $5 less than their value. How much will Jimmy earn if he sells all the figures?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

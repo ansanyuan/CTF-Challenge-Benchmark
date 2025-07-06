@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：利亚姆现在16岁。两年前，利亚姆的年龄是文斯年龄的两倍。文斯现在多大了？。",
+  "topic": "回答下面的数学问题：Liam is 16 years old now. Two years ago, Liam’s age was twice the age of Vince. How old is Vince now?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

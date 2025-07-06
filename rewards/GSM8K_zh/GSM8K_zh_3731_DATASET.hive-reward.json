@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：彼得和克里斯汀每周要阅读20本奇幻小说。彼得的阅读速度是克里斯汀的三倍。如果彼得阅读一本书需要18小时，那么克里斯汀阅读一半的书需要多长时间？。",
+  "topic": "回答下面的数学问题：Peter and Kristin are to read 20 fantasy novels each in a week. Peter can read three times as fast as Kristin. If Peter reads one book in 18 hours, how long will Kristin read half of her books?",
   "checkpoint": [
     {
-      "$\\boxed{540}$": 1
+      "\\boxed{540}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两个兄弟，伊曼和弗兰克，同意购买一张新的电脑桌，一把电脑椅和一个操纵杆。电脑桌的价格是140美元，电脑椅的价格是100美元，操纵杆的价格是20美元。伊曼同意支付电脑椅的费用，而弗兰克同意支付电脑桌的费用。然后弗兰克同意支付操纵杆价格的四分之一，其余部分将由伊曼支付。弗兰克将比伊曼多花多少钱？。",
+  "topic": "回答下面的数学问题：Two siblings, Eman and Frank, agreed to buy a new computer table, computer chair, and a joystick. The computer table costs $140, the computer chair costs $100, and the joystick costs $20. Eman agreed to pay for the computer chair while Frank agreed to pay for the computer table. Then Frank agreed to pay 1/4 of the price of the joystick and the rest will be paid by Eman. How much more money will Frank spend than Eman?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

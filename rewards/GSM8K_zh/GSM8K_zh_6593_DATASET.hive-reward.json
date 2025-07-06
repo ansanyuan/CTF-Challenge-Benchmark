@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮和玛莎共享的公寓里两间卧室的面积总共是300平方英尺。如果珍妮的卧室比玛莎的大60平方英尺，那么玛莎的卧室有多大，以平方英尺计算？。",
+  "topic": "回答下面的数学问题：The square footage of the two bedrooms in the apartment that Jenny and Martha share totals 300 square feet. If Jenny's bedroom is 60 square feet larger than Martha's, how large, in square feet, is Martha's bedroom?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

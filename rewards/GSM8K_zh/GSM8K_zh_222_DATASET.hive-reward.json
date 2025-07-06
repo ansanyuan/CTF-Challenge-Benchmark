@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米拉每天早上慢跑。她每小时慢跑5英里。如果她每天早上慢跑2小时，她连续五天能慢跑多少英里？。",
+  "topic": "回答下面的数学问题：Mira jogs every morning. She jogs 5 miles per hour. If she jogs for 2 hours every morning, how many miles can she jog for five days?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

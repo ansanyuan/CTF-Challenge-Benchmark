@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Max喜欢玩电子游戏。他周三玩了2个小时，周四也是同样的时间。周五他的朋友们一起来玩，所以Max玩的时间比周三多了三个小时。在这三天里，Max平均玩了多少小时的电子游戏？。",
+  "topic": "回答下面的数学问题：Max loves to play video games. He played for 2 hours on Wednesday and the same time on Thursday. On Friday his friends came to play together with him, so Max spent over three hours more on playing than on Wednesday. How many hours on average has Max spent playing video games during these three days?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莉迪亚买了一台新平板电脑，她需要为其购买一些应用程序。一个应用程序平均价格为4美元，莉迪亚需要15个应用程序。她有66美元用于此目的。如果她购买所有所需的应用程序，她将剩下多少钱？。",
+  "topic": "回答下面的数学问题：Lidia bought a new tablet, and she needs to buy some apps for it. One app costs $4 on average, and Lidia needs 15 of them. She has $66 for this purpose. How much money will she be left with if she buys all the apps she needs?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

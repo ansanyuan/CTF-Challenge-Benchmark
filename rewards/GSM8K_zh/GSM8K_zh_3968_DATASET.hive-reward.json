@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔丹送给丹妮尔两打玫瑰和一盒巧克力作为生日礼物。当天晚些时候，乔丹离开后，丹妮尔用巧克力盒换了另外一打玫瑰。过夜后，一半的玫瑰凋谢了，丹妮尔决定把凋谢的花扔掉。第二天，剩下的花再有一半凋谢了，她把凋谢的花扔掉了。剩下多少朵没有凋谢的花？。",
+  "topic": "回答下面的数学问题：Jordan gave Danielle two dozen roses and a box of chocolates as a birthday day gift.  Later that day, after Jordan left, Danielle traded the box of chocolates for another dozen roses.  Overnight, half of the roses wilted, and  Danielle decided to throw the wilted flowers away.  On the second day, another half of the remaining flowers wilted, and she threw the wilted ones away.  How many unwilted flowers remained?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

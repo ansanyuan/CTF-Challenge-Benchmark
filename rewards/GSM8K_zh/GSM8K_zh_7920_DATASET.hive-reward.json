@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rozanne为她的家人制作蛋酒。她使用了4打装箱的鸡蛋和另外2个放在橱柜里的散装鸡蛋。她摆出了每个托盘可以放5杯蛋酒。如果每杯蛋酒需要5个鸡蛋，Rozanne可以摆出多少个托盘？。",
+  "topic": "回答下面的数学问题：Rozanne is making eggnog for her family. She uses 4 dozen eggs that were in cases and another 2 eggs that were loose in the cupboard. She puts out trays that each hold 5 glasses of eggnog. If each glass needs 5 eggs, how many trays can Rozanne put out?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

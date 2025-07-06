@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：瑞秋的年龄是罗娜的两倍，而柯莱特的年龄是罗娜年龄的一半。如果罗娜8岁，柯莱特和瑞秋的年龄差是多少？。",
+  "topic": "回答下面的数学问题：Rachel is twice as old as Rona and Collete's age is half the age of Rona's. If Rona is 8 years old, what is the difference between the age of Collete and Rachel?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

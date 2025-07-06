@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Nina想用她的零用钱买一个新的视频游戏。游戏的价格是50美元。Nina还了解到有10%的销售税。她每周收到10美元的零用钱，并认为她可以存一半。Nina需要多少周才能用她的储蓄买到新的视频游戏？。",
+  "topic": "回答下面的数学问题：Nina wants to buy a new video game with her allowance money. The game cost 50 dollars. Nina also has learned that there is a 10 percent sales tax. She receives 10 dollars a week as an allowance, and thinks she can save half of that. How many weeks will it take for Nina to be able to buy the new video game with her savings?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

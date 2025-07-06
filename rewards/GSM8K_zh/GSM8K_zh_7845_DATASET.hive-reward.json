@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家鞋店在周末对一款流行的网球鞋进行促销。周五，商店卖出了14双网球鞋。第二天他们卖出了双倍数量的鞋子。在促销的最后一天，他们卖出了前一天一半的数量，但有六个人因为不合脚退回了他们的鞋子。到促销结束时，共卖出了多少双网球鞋？。",
+  "topic": "回答下面的数学问题：A shoe store was having a weekend sale on a brand of popular tennis shoes. On Friday the store sold 14 pairs of tennis shoes. The next day they sold double that number of shoes. On the last day of the sale they sold one-half the amount that they did the day before, but six people returned their pairs because they didn't fit. How many tennis shoes were sold by the end of the sale?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

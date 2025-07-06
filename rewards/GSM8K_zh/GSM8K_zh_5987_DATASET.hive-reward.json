@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：南希想弄清楚她是否负担得起申请密歇根大学。每学期学费为22000美元。她的父母可以支付一半的费用，每学期南希可以获得3000美元的奖学金和两倍于奖学金金额的学生贷款。如果南希在学期内总共能工作200小时，她每小时需要赚多少美元才能支付剩下的学费？。",
+  "topic": "回答下面的数学问题：Nancy wants to figure out if she can afford to apply to the University of Michigan. The tuition costs $22,000 per semester. Her parents can pay half the cost, and each semester Nancy can get a scholarship for $3,000 and a student loan for twice her scholarship amount. If Nancy can work a total of 200 hours during the semester, how many dollars does she have to make per hour to pay the rest of the tuition?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

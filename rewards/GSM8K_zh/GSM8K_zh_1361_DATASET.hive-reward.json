@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在阳光果园，比月光果园的南瓜数量多12个。如果月光果园有14个南瓜，那么阳光果园有多少个南瓜？。",
+  "topic": "回答下面的数学问题：At Sunshine Orchard, there are 12 more than three times the number of pumpkins at Moonglow Orchard. If Moonglow Orchard has 14 pumpkins how many are there at Sunshine Orchard?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

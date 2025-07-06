@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Milo正在用玻璃片制作马赛克。每平方英寸的马赛克需要12片玻璃片。一袋玻璃片里有72片。Milo希望他的马赛克高三英寸。如果他有两袋玻璃片，他能制作多长的马赛克（单位：英寸）？。",
+  "topic": "回答下面的数学问题：Milo is making a mosaic with chips of glass. It takes twelve glass chips to make every square inch of the mosaic. A bag of glass chips holds 72 chips. Milo wants his mosaic to be three inches tall. If he has two bags of glass chips, how many inches long can he make his mosaic?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

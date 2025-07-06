@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汉娜的城市在七月四日要举行一场盛大的烟花展示。他们将要燃放15箱，每箱20个烟花。汉娜的房子位于一个角度，可以看到城市40%的烟花。汉娜还将在她的后院燃放3箱，每箱5个烟花。汉娜总共将看到多少个烟花？。",
+  "topic": "回答下面的数学问题：Hannah's city is having a big display of fireworks for the 4th of July. They're going to set off 15 boxes of 20 fireworks each. Hannah's house is at the right angle to see 40% of the city's fireworks. Hannah will also set off 3 boxes of 5 fireworks each in her backyard. How many fireworks will Hannah see in total?",
   "checkpoint": [
     {
-      "$\\boxed{135}$": 1
+      "\\boxed{135}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克过去9年一直在开车。他每四个月开37000英里。自从他开始开车以来，杰克一共开了多少英里？。",
+  "topic": "回答下面的数学问题：Jack has been driving for the past 9 years. He drives 37,000 miles every four months. How many miles has Jack driven since he started driving?",
   "checkpoint": [
     {
-      "$\\boxed{999000}$": 1
+      "\\boxed{999000}": 1
     }
   ],
   "matchingmethod": [

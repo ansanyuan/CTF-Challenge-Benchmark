@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥古斯都每小时可以制作3杯奶昔，而露娜每小时可以制作7杯奶昔。如果奥古斯都和露娜现在已经制作奶昔8小时了，他们一共制作了多少杯奶昔？。",
+  "topic": "回答下面的数学问题：Augustus can make 3 milkshakes per hour while Luna can make 7 milkshakes per hour. If Augustus and Luna have been making milkshakes for 8 hours now, how many milkshakes have they made?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

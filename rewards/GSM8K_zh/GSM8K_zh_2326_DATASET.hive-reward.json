@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔治在网上卖掉了一些旧玩具。他成功卖掉了3辆小汽车和一套乐高积木。总共，他赚了45美元。如果一辆小汽车卖了5美元，那么乐高积木套装的价格是多少？。",
+  "topic": "回答下面的数学问题：George was selling some of his old toys on the internet. He managed to sell 3 little cars and a set of Legos. In total, he earned $45. How much did the Legos set cost, if one little car was sold for $5?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

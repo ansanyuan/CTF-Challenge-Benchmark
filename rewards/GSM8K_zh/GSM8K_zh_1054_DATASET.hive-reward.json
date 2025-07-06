@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：简计划阅读她从朋友那里借来的一本小说。她一天阅读两次，早上一次，晚上一次。早上她阅读5页，晚上她阅读10页。如果她以这个速度阅读一周，她将阅读多少页？。",
+  "topic": "回答下面的数学问题：Jane plans on reading a novel she borrows from her friend. She reads twice a day, once in the morning and once in the evening. In the morning she reads 5 pages and in the evening she reads 10 pages. If she reads at this rate for a week, how many pages will she read?",
   "checkpoint": [
     {
-      "$\\boxed{105}$": 1
+      "\\boxed{105}": 1
     }
   ],
   "matchingmethod": [

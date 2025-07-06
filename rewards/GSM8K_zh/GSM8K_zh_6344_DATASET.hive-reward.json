@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个笔记本的价格是一支笔的三倍。如果一支笔的价格是1.50美元，莱尔买4本笔记本要支付多少钱？。",
+  "topic": "回答下面的数学问题：A notebook costs three times as much as a pen. If a pen costs $1.50, how much will Lyle pay for 4 notebooks?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

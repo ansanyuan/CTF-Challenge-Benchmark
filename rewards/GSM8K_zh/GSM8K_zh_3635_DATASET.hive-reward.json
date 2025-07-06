@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Haily想去美容院做指甲、理发和做面部清洁。她不想花太多钱，所以她打电话询问了3家美容院的价格：Gustran Salon、Barbara's Shop和The Fancy Salon。在Gustran Salon，理发价格为45美元，面部清洁价格为22美元，指甲价格为30美元。在Barbara's Shop，指甲价格为40美元，理发价格为30美元，面部清洁价格为28美元。而在The Fancy Salon，面部清洁价格为30美元，理发价格为34美元，指甲价格为20美元。Haily在哪家最便宜的美容院花费会最少？。",
+  "topic": "回答下面的数学问题：Haily wants to go to the salon and do her nails, cut her hair and do a facial cleaning. She doesn't want to spend much, so she called 3 salons to get their prices: Gustran Salon, Barbara's Shop, and The Fancy Salon. At Gustran Salon, the haircut is $45, the facial cleaning is $22 and the nails are $30. At Barbara's shop, the nails are $40, the haircut is $30 and the facial cleaning is $28. And, at the Fancy Salon, the facial cleaning is $30, the haircut is $34 and the nails are $20. How much would Haily spend at the cheapest salon?",
   "checkpoint": [
     {
-      "$\\boxed{84}$": 1
+      "\\boxed{84}": 1
     }
   ],
   "matchingmethod": [

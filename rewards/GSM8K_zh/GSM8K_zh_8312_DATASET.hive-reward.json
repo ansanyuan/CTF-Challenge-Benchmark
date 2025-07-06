@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚当想吃一些切片苹果。一个大苹果可以切成5片，一个小苹果可以切成3片。亚当决定切3个大苹果和5个小苹果，然后吃掉了15片。还剩下多少片苹果？。",
+  "topic": "回答下面的数学问题：Adam wants to eat some sliced apples. A large apple can be sliced into 5 pieces, and a small apple can be sliced into 3 pieces. Adam decides to slice 3 large and 5 small apples and then eats 15 slices. How many apple slices are left?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

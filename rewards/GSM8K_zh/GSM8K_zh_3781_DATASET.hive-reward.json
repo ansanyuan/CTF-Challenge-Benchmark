@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特在电线上数了30只乌鸦，比乌鸦多60%的老鹰。她一共数了多少只鸟？。",
+  "topic": "回答下面的数学问题：Janet counts 30 crows on the powerlines and 60% more hawks than crows. How many birds does she count total?",
   "checkpoint": [
     {
-      "$\\boxed{78}$": 1
+      "\\boxed{78}": 1
     }
   ],
   "matchingmethod": [

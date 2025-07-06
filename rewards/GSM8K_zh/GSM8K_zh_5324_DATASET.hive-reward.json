@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆和伊丽莎白有一个爬山比赛。伊丽莎白花了30分钟爬上山。汤姆花了伊丽莎白爬山时间的四倍。汤姆爬上山需要多少小时？。",
+  "topic": "回答下面的数学问题：Tom and Elizabeth have a competition to climb a hill. Elizabeth takes 30 minutes to climb the hill. Tom takes four times as long as Elizabeth does to climb the hill. How many hours does it take Tom to climb up the hill?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

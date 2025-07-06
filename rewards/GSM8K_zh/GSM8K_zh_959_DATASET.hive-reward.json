@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉卜是17岁。五年前，吉卜的年龄加上他妹妹的年龄，总和是35。吉卜的妹妹今天多少岁了？。",
+  "topic": "回答下面的数学问题：Djibo is 17 years old. Five years ago Djibo added his age with his sister's age and the sum was 35. How many years old is Djibo's sister today?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

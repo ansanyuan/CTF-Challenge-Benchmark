@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ral的年龄是Suri的两倍。3年后，Suri的年龄将是16岁。那么Ral现在多大？。",
+  "topic": "回答下面的数学问题：Ral is twice as old as Suri. In 3 years, Suri's current age will be 16. What is Ral's current age?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

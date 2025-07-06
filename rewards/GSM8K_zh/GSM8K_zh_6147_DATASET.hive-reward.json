@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Erika和她的弟弟Rick想给他们的母亲买一个价值250美元的礼物。他们都存了钱。Erika存了155美元，她的弟弟只存了礼物价格的一半。他们还想给他们的母亲一个价值25美元的生日蛋糕作为惊喜。在给母亲买礼物和蛋糕后，他们还剩多少钱？。",
+  "topic": "回答下面的数学问题：Erika and her brother Rick want to buy a gift for their mother that costs $250. They have both saved money. Erika saved $155 and her brother saved only half of the cost of the gift. They also want to surprise their mother with a birthday cake that costs $25. How much money will they have left after buying their mother a gift and cake?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

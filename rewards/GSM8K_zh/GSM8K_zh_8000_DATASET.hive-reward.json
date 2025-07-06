@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ada的日常电力消耗是每小时12千瓦。她计划增加一个每天会消耗2千瓦的设备。如果每千瓦小时的电费是1.50美元，那么在Ada增加新设备前后，她的每周电费账单相差多少钱？。",
+  "topic": "回答下面的数学问题：Ada's daily electric consumption is 12 kilowatts per hour. She is planning to add a device that will consume 2 kilowatts per hour a day. If a kilowatt per hour is $1.50, how much is the difference between Ada's weekly electric bill before and after she adds the new device?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

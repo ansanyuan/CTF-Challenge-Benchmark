@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：夏洛特去鞋店买一双靴子需要带多少钱？原价是90美元，打八折。。",
+  "topic": "回答下面的数学问题：Charlotte needs to know how much money to have with her when she goes to the shoe store. How much money should Charlotte bring to buy a pair of boots, if the original price is $90 and there is a discount of 20%?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

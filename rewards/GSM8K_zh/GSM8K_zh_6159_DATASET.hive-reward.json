@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约瑟夫家里有一个冰箱、一个热水器和一个电烤箱，它们消耗的能量速率不同。约瑟夫为冰箱使用的能量支付的总金额是他为热水器使用的金额的三倍。如果电烤箱在一个月内使用价值500美元的电力，是约瑟夫为热水器使用的电力费用的两倍，计算他为这些设备使用的电力的总金额。。",
+  "topic": "回答下面的数学问题：Joseph has a refrigerator, a water heater in his house, and an electric oven that consumes power at different rates. The total amount of money that Joseph pays for the energy used by the refrigerator is three times the amount he pays for the power used by the water heater. If the electric oven uses power worth $500 in a month, twice what Joseph pays for the power the water heater uses, calculate the total amount he pays for the power used by these gadgets.",
   "checkpoint": [
     {
-      "$\\boxed{1500}$": 1
+      "\\boxed{1500}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米奇正在烤蛋糕，需要3杯面粉和2杯糖。他没有一杯的勺子，只有1/3杯的勺子。他总共需要多少个勺子？。",
+  "topic": "回答下面的数学问题：Mitch is baking a cake and needs 3 cups of flour and two cups of sugar. He doesn't have a one cup scoop, only a 1/3 cup scoop. How many total scoops will he need?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

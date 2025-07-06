@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cheryl需要4杯罗勒叶做1杯香蒜酱。她可以在她的农场每周收获16杯罗勒叶，持续8周。她将能制作多少杯的香蒜酱？。",
+  "topic": "回答下面的数学问题：Cheryl needs 4 cups of basil to make 1 cup of pesto.  She can harvest 16 cups of basil from her farm every week for 8 weeks.  How many cups of pesto will she be able to make?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

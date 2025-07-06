@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊恩有200枚便士。他意识到他的30枚便士比他还要老。如果他想摆脱这些便士，然后扔掉剩下便士的20%，他会剩下多少？。",
+  "topic": "回答下面的数学问题：Iain has 200 pennies. He realizes that 30 of his pennies are older than he is. If he wishes to get rid of these pennies and then throw out 20% of his remaining pennies, how many will he have left?",
   "checkpoint": [
     {
-      "$\\boxed{136}$": 1
+      "\\boxed{136}": 1
     }
   ],
   "matchingmethod": [

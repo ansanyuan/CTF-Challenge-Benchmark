@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丹正在为一家被COVID-19杀死的家庭挖坟。如果丹挖一个成人坟墓需要3小时，挖一个儿童坟墓需要2小时，那么他挖5个成人坟墓和一个儿童坟墓需要多长时间？。",
+  "topic": "回答下面的数学问题：Dan is digging graves for a family killed by COVID-19. If it takes Dan 3 hours to dig an adult grave and 2 hours to dig a child's grave, how long does it take him to dig 5 adult graves and one child's grave?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

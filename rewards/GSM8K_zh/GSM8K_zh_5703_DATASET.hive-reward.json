@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：唐尼去加油站给他的油箱加油。他知道他的卡车可以装150升的燃料。他的卡车已经装了38升。如果每升燃料的价格是3美元，那么他从350美元中会得到多少找零？。",
+  "topic": "回答下面的数学问题：Donny went to the gas station to gas up his tank. He knows his truck holds 150 liters of fuel. His truck already contained 38 liters. How much change will he get from $350 if each liter of fuel costs $3?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

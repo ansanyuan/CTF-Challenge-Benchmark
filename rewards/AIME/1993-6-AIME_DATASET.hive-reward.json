@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：What is the smallest positive integer than can be expressed as the sum of nine consecutive integers, the sum of ten consecutive integers, and the sum of eleven consecutive integers? ",
   "checkpoint": [
     {
-      "$\\boxed{495}$": 1
+      "\\boxed{495}": 1
     }
   ],
   "matchingmethod": [

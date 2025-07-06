@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carla在清仓特价购买了2袋迷你花生酱杯。每袋原价6.00美元，但打了75%的折扣。她在这2袋糖果上花了多少钱？。",
+  "topic": "回答下面的数学问题：Carla bought 2 bags of mini peanut butter cups on clearance.  Each bag was $6.00 but was 75% off. How much did she spend on 2 bags of candy?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

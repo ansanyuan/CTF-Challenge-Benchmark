@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Wendy早上涂5种面部产品，每种产品之间等待5分钟。她还额外花30分钟化妆。她化妆需要多少时间？。",
+  "topic": "回答下面的数学问题：Wendy has 5 facial products she puts on in the morning and she waits 5 minutes between each product.  She also spends an additional 30 minutes putting on her make-up.  How much time does it take her to put on her \"full face?\"",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

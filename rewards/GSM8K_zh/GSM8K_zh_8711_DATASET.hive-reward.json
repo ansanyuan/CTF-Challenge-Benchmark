@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：上周五，Rydell小学的82名教师中有13名生病了。学校叫来了9名代课教师来帮忙。那天有多少教师在学校？。",
+  "topic": "回答下面的数学问题：Last Friday, 13 of the 82 teachers at Rydell Elementary School were sick. There were 9 substitute teachers called in to help. How many teachers were at school that day?",
   "checkpoint": [
     {
-      "$\\boxed{78}$": 1
+      "\\boxed{78}": 1
     }
   ],
   "matchingmethod": [

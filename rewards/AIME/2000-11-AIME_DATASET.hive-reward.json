@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：The coordinates of the vertices of isosceles trapezoid $ABCD$ are all integers, with $A=(20,100)$ and $D=(21,107)$ . The trapezoid has no horizontal or vertical sides, and $\\overline{AB}$ and $\\overline{CD}$ are the only parallel sides. The sum of the absolute values of all possible slopes for $\\overline{AB}$ is $m/n$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
   "checkpoint": [
     {
-      "$\\boxed{131}$": 1
+      "\\boxed{131}": 1
     }
   ],
   "matchingmethod": [

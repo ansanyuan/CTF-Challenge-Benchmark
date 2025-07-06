@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：肖恩先生有一家兽医诊所，他向客户收取60美元治疗一只狗，40美元照顾一只猫。如果哈利勒带了20只狗和60只猫去诊所治疗，他一共支付了多少钱给肖恩先生？。",
+  "topic": "回答下面的数学问题：Mr. Sean has a veterinary clinic where he charges clients $60 to treat a dog and $40 to care for a cat. If Khalil took 20 dogs and 60 cats to the clinic for treatment, how much money did he pay Mr. Sean?",
   "checkpoint": [
     {
-      "$\\boxed{3600}$": 1
+      "\\boxed{3600}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周二下雨的量是周一的两倍。周一下雨的量比周日多3英寸。周日下了4英寸的雨。这三天的总降雨量是多少？。",
+  "topic": "回答下面的数学问题：It rained twice as much on Tuesday as Monday.  On Monday it rained 3 inches more than Sunday.  It rained 4 inches on Sunday.  How much total rainfall was there over the 3 days?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Dirk在文艺复兴集市上出售护身符。他连续出售了两天，每天卖出25个护身符。每个护身符的售价是40美元，而制作成本是30美元。如果他必须将他的收入的10%交给集市，他赚了多少利润？。",
+  "topic": "回答下面的数学问题：Dirk sells amulets at a Ren Faire.  He sells for 2 days and each day he sells 25 amulets.  Each amulet sells for 40 dollars and they cost him 30 dollars to make.  If he has to give 10% of his revenue to the faire, how much profit did he make?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

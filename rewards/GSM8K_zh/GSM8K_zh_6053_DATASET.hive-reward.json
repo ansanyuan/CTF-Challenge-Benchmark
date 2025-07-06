@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在他的农场上，瓦伦蒂诺先生有200只鸡，比鸡多两倍的鸭子，比鸭子多三倍的火鸡。瓦伦蒂诺先生的农场上总共有多少只鸟？。",
+  "topic": "回答下面的数学问题：On his farm, Mr. Valentino has 200 chickens, twice as many ducks as chickens and three times as many turkeys as ducks. How many birds does Mr. Valentino have on the farm in total?",
   "checkpoint": [
     {
-      "$\\boxed{1800}$": 1
+      "\\boxed{1800}": 1
     }
   ],
   "matchingmethod": [

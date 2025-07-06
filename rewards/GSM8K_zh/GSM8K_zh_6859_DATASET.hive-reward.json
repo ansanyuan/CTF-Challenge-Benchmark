@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一瓶奢侈香水的价格是1200美元。店主决定将其价格提高10%，以便赚取更多利润。几周过去了，但香水仍未售出。因此，店主决定将价格降低15%。最终价格比原价低多少？。",
+  "topic": "回答下面的数学问题：A luxury perfume costs $1200. The store owner decided to increase its price by 10% so that he could earn more profit. Few weeks had past but the perfume was still not sold. So, the owner decided to lower the price by 15%. By how much was the final price lower than the original price?",
   "checkpoint": [
     {
-      "$\\boxed{78}$": 1
+      "\\boxed{78}": 1
     }
   ],
   "matchingmethod": [

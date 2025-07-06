@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周六的足球比赛有80人观看。周一，观看比赛的人数减少了20人。周三，观看比赛的人数比周一增加了50人。周五，观看比赛的人数与周六和周一的人数相同。如果他们预计一周的足球比赛总观众人数为350人，那么比预期多出来的观众人数是多少？。",
+  "topic": "回答下面的数学问题：There were 80 people at a football game on Saturday. On Monday, 20 fewer people were at the football game. On Wednesday, 50 more people were at the game than on Monday. On Friday, there were the same number of people as on Saturday and Monday combined. If their expected total audience at the football game for a week is 350, how many more people attended the games than they had expected?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

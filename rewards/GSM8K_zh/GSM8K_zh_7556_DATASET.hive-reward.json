@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Grace的体重是125磅。Alex的体重比Grace的4倍少2磅。他们的总体重是多少磅？。",
+  "topic": "回答下面的数学问题：Grace weighs 125 pounds. Alex weighs 2 pounds less than 4 times what Grace weighs. What are their combined weights in pounds?",
   "checkpoint": [
     {
-      "$\\boxed{623}$": 1
+      "\\boxed{623}": 1
     }
   ],
   "matchingmethod": [

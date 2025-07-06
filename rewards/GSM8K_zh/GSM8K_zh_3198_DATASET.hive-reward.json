@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安东尼有16只宠物。今天早上他忘记锁门，丢失了6只宠物。之后，他的宠物中有1/5死于老年。他还剩下多少只宠物？。",
+  "topic": "回答下面的数学问题：Anthony has 16 pets. This morning he forgot to lock the door and he lost 6 pets. After that 1/5 of his pets died from old age. How many pets does he have left?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

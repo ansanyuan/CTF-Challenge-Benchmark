@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Vivi买了织物来为她的床做新的枕头。她在格子织物上花了75美元，在普通织物上花了45美元。如果这两种织物每码的价格都是7.50美元，她总共买了多少码的织物？。",
+  "topic": "回答下面的数学问题：Vivi bought fabric to make new pillows for her bed. She spent $75 on checkered fabric and $45 on plain fabric. If both fabrics cost $7.50 per yard, how many total yards of fabric did she buy?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

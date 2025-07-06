@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个WhatsApp群组的成员每天都发送消息，分享他们当天的情况。上周，群成员在周一发送了300条消息，在周二发送了200条消息，在周三比前一天多发送了300条消息，在周四发送的消息数量是周三的两倍。计算四天后WhatsApp群组发送的消息数量。。",
+  "topic": "回答下面的数学问题：A Whatsapp group has members sending messages every day sharing about how each one's day was. Last week, 300 messages were sent by the members on Monday, 200 messages on Tuesday, 300 more messages on Wednesday than the previous day, and two times as many messages on Thursday as there were on Wednesday. Calculate the number of messages sent in the Whatsapp group after the four days.",
   "checkpoint": [
     {
-      "$\\boxed{2000}$": 1
+      "\\boxed{2000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯的键盘缺少了全部辅音字母的1/7和两个元音字母。一共缺少多少个按键？（请记住字母表中有5个元音字母和21个辅音字母。）。",
+  "topic": "回答下面的数学问题：James' keyboard is missing 1/7 of the consonants and two vowels. How many keys are missing in total? (Remember there are 5 vowels and 21 consonants in the alphabet.)",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两支田径队在一场4乘400米的接力赛中相互竞争；这是一场比赛，每支参赛队伍有四名成员，每人跑400米，或者说，在标准跑道上跑一圈。其中一支队伍非常全能，他们的每个成员都将以正好55秒的速度跑完400米。另一支队伍不那么全能；他们的第一名跑者将在60秒内跑完400米，然后每位后续跑者的成绩将比前一位跑者快3秒。根据这些信息，速度较快的队伍将以多少秒的优势获胜？。",
+  "topic": "回答下面的数学问题：Two track teams are competing against each other in a 4 by 400 meter relay; a race where each competing team has four members that each run 400 meters, or one lap, around a standard track.  One of the two teams is very well-rounded and each of their members will run their 400 meter leg in precisely 55 seconds.  The other team is less well-rounded; their first runner will run their 400 meter leg in 60 seconds then each subsequent runner will be 3 seconds faster than the previous runner.  Using this information, how many seconds will the faster team win by?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

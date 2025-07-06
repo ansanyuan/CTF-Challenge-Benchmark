@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Gary purchased a large beverage, but only drank $m/n$ of it, where $m$ and $n$ are relatively prime positive integers. If he had purchased half as much and drunk twice as much, he would have wasted only $2/9$ as much beverage. Find $m+n$ .",
   "checkpoint": [
     {
-      "$\\boxed{37}$": 1
+      "\\boxed{37}": 1
     }
   ],
   "matchingmethod": [

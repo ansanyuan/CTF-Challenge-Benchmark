@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗汉拥有一个20平方米的椰子农场。每平方米有2棵椰子树，每棵树有6个椰子。如果椰子可以每3个月收获一次，每个椰子的成本是0.50美元，那么他在6个月后能赚多少钱？。",
+  "topic": "回答下面的数学问题：Rohan owns a 20-square meter coconut farm. Each square meter has 2 coconut trees and each tree has 6 coconuts. If the coconuts can be harvested every 3 months and each coconut costs $0.50, how much will he earn after 6 months?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

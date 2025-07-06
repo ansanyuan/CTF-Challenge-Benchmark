@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：我有10升橙色饮料，其中三分之二是水，我想把它加到15升的菠萝饮料里，菠萝饮料里有五分之三是水。但当我倒的时候，我溢出了1升橙色饮料。剩下的24升里有多少水？。",
+  "topic": "回答下面的数学问题：I have 10 liters of orange drink that are two-thirds water and I wish to add it to 15 liters of pineapple drink that is three-fifths water. But as I pour it, I spill one liter of the orange drink. How much water is in the remaining 24 liters?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只白犀牛重5100磅，一只黑犀牛重1吨。7只白犀牛和8只黑犀牛总共重多少磅？。",
+  "topic": "回答下面的数学问题：One white rhino weighs 5100 pounds and one black rhino weighs 1 ton. How many pounds would 7 white rhinos and 8 black rhinos weigh in total?",
   "checkpoint": [
     {
-      "$\\boxed{51700}$": 1
+      "\\boxed{51700}": 1
     }
   ],
   "matchingmethod": [

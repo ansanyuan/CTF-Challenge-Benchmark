@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布雷特乘坐9小时的火车去波士顿。他花了2小时读书，1小时吃晚餐，3小时在电脑上看电影。他还剩下多少小时来小睡觉？。",
+  "topic": "回答下面的数学问题：Bret takes a 9 hour train ride to go to Boston.   He spends 2 hours reading a book, 1 hour to eat his dinner, and 3 hours watching movies on his computer.  How many hours does he have left to take a nap?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

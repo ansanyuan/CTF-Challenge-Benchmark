@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Daisy的花店第一天卖出了45朵雏菊。第二天，他们比第一天多卖了20朵花。第三天，他们比第二天卖的花少了10朵。如果花店在4天内总共卖出了350朵雏菊，第四天卖出了多少朵雏菊？。",
+  "topic": "回答下面的数学问题：Daisy's Flower Shop sold 45 daisies on its first day. On their second day, they sold 20 more flowers than they did on their first day. On the third day, they sold 10 less than twice the flowers that were sold than on the second day. If the flower shop sold a total of 350 daisies for 4 days, how many daisies were sold on the 4th day?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史密斯夫人想买价值500美元的衣服。她带着500美元去了一家精品店，但当她挑选完她喜欢的一切时，她意识到她需要比她拥有的钱多两分之五。如果店主给了她15%的折扣，她还需要多少钱？。",
+  "topic": "回答下面的数学问题：Mrs. Smith wanted to buy wears worth $500. She went to a boutique with the $500 but by the time she had picked out everything she liked, she realized that she would need two-fifths more money than she had. If the shop owner gave her a discount of 15%, how much more money will she still need?",
   "checkpoint": [
     {
-      "$\\boxed{95}$": 1
+      "\\boxed{95}": 1
     }
   ],
   "matchingmethod": [

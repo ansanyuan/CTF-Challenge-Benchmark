@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jessie的社区建了一道新的篱笆。每一节篱笆使用了30块混凝土砖，每块售价2美元。这道篱笆有八节。他们在混凝土砖上花了多少钱？。",
+  "topic": "回答下面的数学问题：Jessie's community built a new hedge. Each section of the hedge used 30 pieces of concrete blocks that cost $2 per piece. The hedge has eight sections. How much did they spend on the concrete blocks?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

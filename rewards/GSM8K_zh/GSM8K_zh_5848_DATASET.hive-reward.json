@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乌苏拉在一家餐馆工作，每小时赚8.50美元。她每天工作8小时。如果她一个月工作20天，确定她的年薪。。",
+  "topic": "回答下面的数学问题：Ursula earns $8.50 an hour working in a restaurant. She works 8 hours a day. If she works 20 days a month, determine her annual salary.",
   "checkpoint": [
     {
-      "$\\boxed{16320}$": 1
+      "\\boxed{16320}": 1
     }
   ],
   "matchingmethod": [

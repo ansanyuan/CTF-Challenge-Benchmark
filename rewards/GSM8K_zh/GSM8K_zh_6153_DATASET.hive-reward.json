@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kayla和Kylie总共摘了200个苹果。Kayla摘了Kylie摘的苹果的四分之一。Kayla摘了多少个苹果？。",
+  "topic": "回答下面的数学问题：Kayla and Kylie picked 200 apples total. Kayla picked 1/4 of the apples that Kylie picked. How many apples did Kayla pick?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

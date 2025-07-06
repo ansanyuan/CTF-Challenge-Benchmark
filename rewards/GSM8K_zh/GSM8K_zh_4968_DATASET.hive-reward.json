@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家公司有一个储水量已经达到最大容量35万加仑的水箱。有一天，水箱开始每小时损失3.2万加仑，持续5小时，之后公司修理了水箱，但修理不够，因为水箱仍然每小时损失1万加仑。这种情况持续了10小时。在第二次尝试中，他们设法修理了水箱，并开始以每小时4万加仑的速度填充水箱。3小时后，水箱还缺少多少加仑才能达到最大容量？。",
+  "topic": "回答下面的数学问题：A company has a tank that is already filled at a maximum capacity of 350,000 gallons of water. One day the tank starts losing 32,000 gallons/hour for 5 hours, after that time the company repaired the tank but it wasn't enough because the tank was still losing 10,000 gallons/hour. It stayed like that for 10 hours. In the second attempt, they managed to repair the tank and started filling it with 40,000 gallons/hour. After 3 hours, how many gallons are missing for the tank to be at maximum capacity again?",
   "checkpoint": [
     {
-      "$\\boxed{140000}$": 1
+      "\\boxed{140000}": 1
     }
   ],
   "matchingmethod": [

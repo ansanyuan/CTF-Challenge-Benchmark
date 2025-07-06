@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一场数学比赛中，莱利和奥菲莉亚在同一个团队。团队的最终得分是通过将同一团队的学生的得分相加而获得的。在35个问题中，莱利答错了3个，而奥菲莉亚的得分是莱利得分的一半再加5。他们的团队一共答错了多少题？。",
+  "topic": "回答下面的数学问题：In a math contest, Riley and Ofelia are on one team. The team's final score is obtained by adding the scores of the students of the same team. Out of the 35 questions, Riley got 3 mistakes while Ofelia got 5 more than half the score of Riley. How many incorrect answers did their team get?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰米和奥利弗计划去度假。每人的机票费用为24美元，每人每天的酒店住宿费用为12美元。如果他们住3天，他们将花多少钱度假？。",
+  "topic": "回答下面的数学问题：Jamie and Oliver are planning to go on a vacation. A plane ticket costs $24 for each person and a hotel stay costs $12 for each person per day. How much money will they spend on the vacation if they stay for 3 days?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾米的爷爷给了她100美元作为生日礼物。艾米买了3个娃娃，每个娃娃的价格是1美元。艾米还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Amy's grandfather gave her $100 for her birthday. Amy bought 3 dolls, each of which cost $1. How much money does Amy have left?",
   "checkpoint": [
     {
-      "$\\boxed{97}$": 1
+      "\\boxed{97}": 1
     }
   ],
   "matchingmethod": [

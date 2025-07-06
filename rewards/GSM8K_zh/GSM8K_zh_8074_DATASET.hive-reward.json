@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jamaal在健身房。他一直在使用8磅的重量。他将使用的重量增加了50%。结果太重了，所以他使用了比那轻2磅的重量。他现在使用的重量是多少磅？。",
+  "topic": "回答下面的数学问题：Jamaal is at the gym. He has been using an 8-pound weight. He increases the weight that he uses by 50%. It turns out to be too heavy, so he uses a weight two pounds lighter than that. What is the weight, in pounds, that he now uses?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

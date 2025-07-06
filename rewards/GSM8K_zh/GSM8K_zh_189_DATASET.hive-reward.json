@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：昨天，大卫和威廉被邀请参加一个派对。大卫打破了2个玻璃杯，而他的朋友威廉打破的玻璃杯数量是大卫的4倍。一共打破了多少个玻璃杯？。",
+  "topic": "回答下面的数学问题：Yesterday, David and William were invited to a party. David broke 2 glasses, while his friend William broke 4 times the number of glasses David broke. How many glasses were broken?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

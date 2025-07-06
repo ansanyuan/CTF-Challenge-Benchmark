@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Theo有6000美元，他希望用来支付即将到来的南非商务旅行的费用。他买了6套商务西装，每套100美元，3个行李箱，每个50美元，一个机票的费用比一套商务西装的5倍还要多700美元。他希望为这次旅行节省2000美元，那么他在南非给商业伙伴买礼物要花多少钱？。",
+  "topic": "回答下面的数学问题：Theo has $6000 he wishes to spend on his upcoming business trip to South Africa. He buys 6 business suits at $100 each, 3 suitcases at $50 each, a flight ticket that costs $700 more than 5 times as much as the cost of a business suit. He wishes to save $2000 for this trip, how much does he have to spend on buying gifts for his business partners in South Africa?",
   "checkpoint": [
     {
-      "$\\boxed{2050}$": 1
+      "\\boxed{2050}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carla在一个食品银行工作，她目前储备了2000罐食品。一天，有500人出现并每人拿走1罐食品。为了满足需求，Carla不得不再补充1500罐食品。第二天，有1000人出现并每人拿走2罐食品。这次Carla再次补充了3000罐食品。Carla总共赠送了多少罐食品？。",
+  "topic": "回答下面的数学问题：Carla works at a food bank and she currently has stocked up 2000 cans of food. One day, 500 people showed up and took 1 can of food each. Carla had to then restock 1500 more cans to keep up with demand. The next day, 1000 people showed up and took 2 cans of food each. Carla restocked again with 3000 cans of food this time. How many cans of food did Carla give away?",
   "checkpoint": [
     {
-      "$\\boxed{2500}$": 1
+      "\\boxed{2500}": 1
     }
   ],
   "matchingmethod": [

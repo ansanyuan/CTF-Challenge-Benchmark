@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：停车场里有汽车和摩托车。每辆汽车有5个车轮（包括一个备胎），每辆摩托车有2个车轮。停车场里有19辆汽车。所有车辆一共有117个车轮。停车场里有多少辆摩托车？。",
+  "topic": "回答下面的数学问题：In a parking lot, there are cars and motorcycles.  Each car has 5 wheels (including one spare) and each motorcycle has 2 wheels. There are 19 cars in the parking lot. Altogether all vehicles have 117 wheels. How many motorcycles are at the parking lot?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

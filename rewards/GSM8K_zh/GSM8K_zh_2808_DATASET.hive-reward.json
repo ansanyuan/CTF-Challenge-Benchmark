@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥斯本正在尝试一种新的穿衣方式，以便在学校上学的早晨更快地起床。他追踪了一周的时间，发现周一花了2分钟。周二花了4分钟。周三花了3分钟。周四花了4分钟。在周五到来之前，他看了看自己以前的穿衣方式，发现平均穿衣时间是3分钟。为了使他的周平均时间与以前的方法相同，他周五需要多快穿衣？。",
+  "topic": "回答下面的数学问题：Osborn is testing a new way to get dressed in the morning on school days so he goes faster and can get up later. He tracks his time for the week and on Monday is takes him 2 minutes. On Tuesday it takes him 4 minutes. On Wednesday it takes him 3 minutes. On Thursday it takes him 4 minutes. Before Friday arrives he looks at his old way of getting dressed and sees that it was taking him 3 minutes on average to get dressed. How fast does he have to get dressed on Friday so his weekly average ties his old method?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

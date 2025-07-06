@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯汀和简妮丝正在比赛看谁能把球扔得最高。她们每人有三次投掷机会。在她的第一次投掷中，克里斯汀把球扔得高20英尺。简妮丝的投掷比克里斯汀低4英尺。在她们的第二次投掷中，克里斯汀把球扔得比她的第一次投掷高10英尺，而简妮丝把球扔得比她的第一次投掷高两倍。在最后一次投掷中，克里斯汀把球扔得比她的第二次投掷高4英尺，而简妮丝把球扔得比克里斯汀的第一次投掷高17英尺。最高的投掷高度是多少？。",
+  "topic": "回答下面的数学问题：Christine and Janice are having a contest to see who can throw a ball the highest. They each get three throws. On her first throw, Christine throws it 20 feet high. Janice's throw is 4 feet lower than Christine's. On their second throw, Christine throws it ten feet higher than her first throw and Janice throws it twice as high as her first throw. On the final throw, Christine throws it 4 feet higher than her 2nd throw while Janice throws it 17 feet higher than Christine's first throw. What is the height of the highest throw?",
   "checkpoint": [
     {
-      "$\\boxed{37}$": 1
+      "\\boxed{37}": 1
     }
   ],
   "matchingmethod": [

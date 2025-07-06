@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍勃以250.00美元的价格购买了2只展示犬，作为一项副业进行繁殖。母犬刚刚生了6只小狗。如果他每只小狗卖350.00美元，他的总利润是多少？。",
+  "topic": "回答下面的数学问题：Bob bought 2 show dogs for $250.00 each to breed as a side business.  The female just had a litter of 6 puppies.  If he sells each puppy for $350.00, what is his total profit?",
   "checkpoint": [
     {
-      "$\\boxed{1600}$": 1
+      "\\boxed{1600}": 1
     }
   ],
   "matchingmethod": [

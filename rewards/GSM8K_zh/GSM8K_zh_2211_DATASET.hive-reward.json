@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰决定购买餐具。每个包装里有30个餐具，其中有相等数量的刀、叉和勺。如果他想要50个勺子，他需要购买多少包装？。",
+  "topic": "回答下面的数学问题：John decides to buy utensils.  They come in 30 packs with an equal number of knives, forks, and spoons.  How many packs does he need to buy if he wants 50 spoons?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

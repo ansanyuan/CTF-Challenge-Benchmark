@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Debelyn，Christel和Andrena收集娃娃。 Debelyn在给Andrena 2个娃娃之前有20个娃娃。 Christel在给Andrena 5个娃娃之前有24个娃娃。在所有礼物之后，Andrena现在比Christel多2个娃娃，现在Andrena比Debelyn多多少个娃娃？。",
+  "topic": "回答下面的数学问题：Debelyn, Christel, and Andrena collect dolls. Debelyn had 20 dolls before she gave Andrena 2 dolls. Christel had 24 dolls before giving Andrena 5 dolls. After all the gifts, Andrena now has 2 more dolls  than Christel, how many more dolls does andrena have now than Debelyn?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

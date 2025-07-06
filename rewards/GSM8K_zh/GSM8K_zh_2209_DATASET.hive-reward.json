@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史蒂夫正在为游乐场建造一张长凳，他需要6块长度为4英尺的木头和2块长度为2英尺的木头。史蒂夫需要购买多少英尺的木头？。",
+  "topic": "回答下面的数学问题：Steve is building a bench for the playground and needs 6 lengths of wood that measure 4 feet and 2 lengths of wood that measure 2 feet. How many feet of wood does Steve need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

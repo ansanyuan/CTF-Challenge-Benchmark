@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：洗一辆车需要10分钟，换一次机油需要15分钟，更换一套轮胎需要30分钟。如果迈克洗了9辆车，给6辆车换了机油，换了两套轮胎，他工作了多少小时？。",
+  "topic": "回答下面的数学问题：It takes 10 minutes to wash a car, 15 minutes to change oil, and 30 minutes to change a set of tires.  If mike washes 9 cars, changes the oil on 6 cars, and changes two sets of tires how many hours did he work?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

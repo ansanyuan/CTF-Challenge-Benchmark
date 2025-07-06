@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一名拳击手距离比赛还有4个月时体重为97公斤。他正在进行一项减肥计划，每个月可以减掉3公斤，直到比赛日。比赛当天他的体重将是多少？。",
+  "topic": "回答下面的数学问题：A boxer weighs 97 kg at 4 months from a fight. He is on a diet that allows him to lose 3 kg per month until the day of the fight. How much will he weigh on the day of the fight?",
   "checkpoint": [
     {
-      "$\\boxed{85}$": 1
+      "\\boxed{85}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡塔琳娜的饼干比马克斯少5块。马克斯的饼干比饼干怪兽多12块，而萨默的饼干比马克斯多23块。如果卡塔琳娜有68块饼干，他们总共有多少块饼干？。",
+  "topic": "回答下面的数学问题：Katarina has 5 less cookies than Max has. Max has 12 more cookies than the Cookie Monster, and Summer has 23 more cookies than Max. If Katarina has 68 cookies, how many cookies do they have in total?",
   "checkpoint": [
     {
-      "$\\boxed{298}$": 1
+      "\\boxed{298}": 1
     }
   ],
   "matchingmethod": [

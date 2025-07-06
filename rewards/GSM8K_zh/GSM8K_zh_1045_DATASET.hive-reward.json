@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在电视转播的比赛期间，播放了五个广告，每个广告持续3分钟。一分钟的广告费用为4000美元。在比赛期间播放这些广告的成本是多少？。",
+  "topic": "回答下面的数学问题：During a race transmitted on television, five advertisements were shown, lasting 3 minutes each. One minute of advertising costs $4000. What was the cost of transmitting these advertisements during the race?",
   "checkpoint": [
     {
-      "$\\boxed{60000}$": 1
+      "\\boxed{60000}": 1
     }
   ],
   "matchingmethod": [

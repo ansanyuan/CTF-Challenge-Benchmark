@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：240名六年级学生被问及他们每月阅读小说的数量。六分之一的学生阅读三本或更多的小说，35%的学生阅读两本小说，五分之十二的学生阅读一本小说，其余的学生不阅读任何东西。计算不阅读小说的学生人数。。",
+  "topic": "回答下面的数学问题：240 sixth-grade students were asked about the number of novels they read per month. 1/6 of students read three or more novels, 35% of students read two novels, 5/12 of students read one novel, and the rest of the students do not read anything. Calculate the number of students who do not read novels.",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

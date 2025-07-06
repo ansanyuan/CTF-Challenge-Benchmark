@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉米正在建立一个菜园。他有三块地：一块种绿豆，一块种胡萝卜，一块种玉米。每株玉米植物产生的蔬菜数量是每株胡萝卜的5倍，每株绿豆植物产生的蔬菜数量是每株玉米的一半。如果每株胡萝卜产生4份蔬菜，每块地有9株植物，吉米种植了多少份蔬菜？。",
+  "topic": "回答下面的数学问题：Jimmy is setting up a garden. He has three plots: one plot for green beans, one plot for carrots, and one plot for corn. Each corn plant produces 5 times as many servings of veggies as each carrot, and each green bean plant produces half as many servings as each corn plant. If each carrot produces 4 servings of vegetables, and each plot has 9 plants, how many servings of vegetables is Jimmy growing?",
   "checkpoint": [
     {
-      "$\\boxed{306}$": 1
+      "\\boxed{306}": 1
     }
   ],
   "matchingmethod": [

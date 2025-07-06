@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰决定回学校攻读博士学位。他首先花了1年的时间来适应学校生活，然后开始攻读博士学位。在那之后，他花了2年的时间学习他领域的基础知识。然后开始研究，他在研究上花的时间比学习基础知识的时间多75%。然后他写论文的时间是适应学校生活时间的一半。他总共花了多长时间来完成所有这些？。",
+  "topic": "回答下面的数学问题：John decides to go back to school to get his PhD.  He first takes 1 year of courses to get acclimated back to school life before starting his PhD.  After that, he spends 2 years learning the basics of his field.  He then starts research, and he spends 75% more time on research than he did learning the basics.  He then spends half as long on writing his dissertation as his acclimation period.  How long did it take him to do everything?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

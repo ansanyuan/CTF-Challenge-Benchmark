@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔治是六年级的老师，他为六年级的班级野餐订购了600个墨西哥卷饼。如果野餐有50名学生，每个学生分得十个墨西哥卷饼，乔治先生自己吃了20个，计算野餐剩下的墨西哥卷饼总数是多少？。",
+  "topic": "回答下面的数学问题：George, a grade six teacher, ordered 600 burritos for the sixth-grade class picnic. If there were 50 students at the picnic, and each student was given ten burritos, with Mr. George eating 20 of them, calculate the total number of leftover burritos from the picnic?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

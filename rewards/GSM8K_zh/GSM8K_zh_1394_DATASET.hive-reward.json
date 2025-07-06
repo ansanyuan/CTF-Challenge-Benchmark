@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡西在10个箱子里装了12罐果酱，而在30个箱子里装了10罐果酱。如果她有500罐果酱，当所有箱子都装满时，她会剩下多少罐果酱？。",
+  "topic": "回答下面的数学问题：Cassy packs 12 jars of jam in 10 boxes while she packs 10 jars of jam in 30 boxes. If she has 500 jars of jams, how many jars of jam will she have left when all the boxes are full?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

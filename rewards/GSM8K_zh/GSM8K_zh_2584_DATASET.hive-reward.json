@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：辛迪被聘请教授4门数学课程，这要求她一周总共在教室里待48小时。如果她每节课的小时费率是25美元，那么她一个月教授1门数学课能赚多少钱，每个月正好有4周？。",
+  "topic": "回答下面的数学问题：Cindy was hired to teach 4 math courses which required her to be in the classroom for 48 hours a week altogether. How much did Cindy earn for teaching 1 math course in a month with exactly 4 weeks if her hourly rate per class is $25?",
   "checkpoint": [
     {
-      "$\\boxed{1200}$": 1
+      "\\boxed{1200}": 1
     }
   ],
   "matchingmethod": [

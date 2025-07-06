@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果Sam和Harry之间有100英尺的篱笆，他们同意分割它，Harry比Sam多得到60英尺，那么Sam剩下多少英尺？。",
+  "topic": "回答下面的数学问题：If Sam and Harry have 100 feet of fence between them, and they agree to split it with Harry getting 60 feet more than Sam, how much is left over for Sam?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

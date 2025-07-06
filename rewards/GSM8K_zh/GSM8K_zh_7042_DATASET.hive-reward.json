@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Elida有5个字母，而Adrianna比Elida的字母数量少2个，是Elida字母数量的两倍。两个名字的平均字母数量的10倍是多少？。",
+  "topic": "回答下面的数学问题：Elida has 5 letters while Adrianna has 2 less than twice the number of letters Elida has. What's 10 times the average number of letters in both names?",
   "checkpoint": [
     {
-      "$\\boxed{65}$": 1
+      "\\boxed{65}": 1
     }
   ],
   "matchingmethod": [

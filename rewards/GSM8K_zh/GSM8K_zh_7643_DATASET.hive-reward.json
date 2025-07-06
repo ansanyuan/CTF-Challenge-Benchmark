@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：潘乔每天走20英里。但周末他只走10英里。他一周走了多少英里？。",
+  "topic": "回答下面的数学问题：Pancho walks 20 miles a day. Except on weekends when he walks 10 miles. How many miles does he walk in a week?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

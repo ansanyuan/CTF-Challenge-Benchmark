@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史蒂夫一天中有1/3的时间在睡觉，1/6的时间在学校，1/12的时间在做作业，剩下的时间和家人在一起。史蒂夫一天中和家人在一起多少小时？。",
+  "topic": "回答下面的数学问题：Steve spends 1/3 of the day sleeping, 1/6 of the day in school, 1/12 of the day making assignments, and the rest of the day with his family. How many hours does Steve spend with his family in a day?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿里和厄尼排列箱子做成圆圈。阿里用8个箱子做成他的每个圆圈，而厄尼用10个箱子做成他的。如果他们一开始有80个箱子，阿里做了5个圆圈，那么厄尼能做多少个圆圈？。",
+  "topic": "回答下面的数学问题：Ali and Ernie lined up boxes to make circles. Ali used 8 boxes to make each of his circles and Ernie used 10 for his. If they had 80 boxes to begin with and Ali makes 5 circles, how many circles can Ernie make?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

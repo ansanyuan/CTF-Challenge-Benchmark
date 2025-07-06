@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Stuart要进行一次横穿美国的旅行，并希望找到最快的路线。在一条路线上，总距离为1500英里，平均速度为75英里/小时。在第二次旅行中，总距离为750英里，但平均速度为25英里/小时。如果他选择最快的路线，他的旅行需要多长时间？。",
+  "topic": "回答下面的数学问题：Stuart is going on a cross-country trip and wants to find the fastest route. On one route the total distance is 1500 miles and the average speed is 75 MPH. On the second trip, the total distance is 750 but the average speed is 25 MPH. How long does his trip take if he goes on the fastest route?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

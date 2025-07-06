@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰斐逊雇了一辆马车去教堂。教堂离他家20英里。马每小时可以跑10英里。每小时的费用是30美元，另外还有20美元的固定费用。他为马车支付了多少钱？。",
+  "topic": "回答下面的数学问题：Jefferson hires a carriage to go to the church.  It is 20 miles away.  The horse can go 10 miles per hour.  It cost $30 per hour plus a flat fee of $20.  How much did he pay for the carriage?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每块芝士蛋糕含有350卡路里。如果每个芝士蛋糕总共有2800卡路里，凯莉吃了芝士蛋糕的25%，那么凯莉吃了多少块芝士蛋糕？。",
+  "topic": "回答下面的数学问题：Each slice of cheesecake contains 350 calories.  If there are a total of 2800 calories in every cheesecake, and Kiley ate 25% of the cheesecake, how many slices of cheesecake did Kiley eat?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

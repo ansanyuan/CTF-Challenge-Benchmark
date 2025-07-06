@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安迪年初体重为156磅。然后他长高了3英寸，增加了36磅。安迪对自己的体重不满意，决定锻炼身体。在接下来的3个月里，他每个月减少了体重的八分之一。现在的安迪比年初轻了多少磅？。",
+  "topic": "回答下面的数学问题：Andy started out the year weighing 156 pounds. He then grew 3 inches and gained 36 pounds. Andy wasn't happy with his weight and decided to exercise. Over the next 3 months, he lost an eighth of his weight every month. How much less does Andy weigh now than at the beginning of the year?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

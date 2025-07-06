@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：中央得克萨斯乡村有许多在夜晚出现的蟾蜍。每只绿色蟾蜍对应25只棕色蟾蜍，而四分之一的棕色蟾蜍有斑点。如果每英亩有50只有斑点的棕色蟾蜍，每英亩有多少只绿色蟾蜍？。",
+  "topic": "回答下面的数学问题：The central Texas countryside contains many toads that come out at night.  For every green toad, there are 25 brown toads, and one-quarter of the brown toads are spotted.  If there are 50 spotted brown toads per acre, how many green toads are there per acre?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

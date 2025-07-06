@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：普林斯顿举办了一个性别揭晓派对，并邀请了所有的同事与他一起庆祝。如果总共有60位宾客，其中2/3是男性宾客，有多少女性宾客参加了派对？。",
+  "topic": "回答下面的数学问题：Princeton had a gender reveal party and invited all of his fellow employees to celebrate with him. If the total number of guests were 60, and 2/3 were male guests, how many female guests attended the party?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

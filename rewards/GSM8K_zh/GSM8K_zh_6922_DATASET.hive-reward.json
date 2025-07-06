@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Yanni有85美分。他妈妈另外给了他40美分。在去购物中心的路上，Yanni找到了50美分。他买了一个价值1.6美元的玩具。Yanni还剩下多少钱（以美分为单位）？。",
+  "topic": "回答下面的数学问题：Yanni has $0.85. His mother gave him $0.40 in addition. While going to the mall, Yanni found $0.50. He bought a toy that cost $1.6. How much money in cents did Yanni have left?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

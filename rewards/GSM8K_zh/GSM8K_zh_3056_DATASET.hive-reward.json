@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安东尼在橱柜里保存了一瓶醋两年。每年醋的20%会蒸发。两年后还剩下多少百分比的醋？。",
+  "topic": "回答下面的数学问题：Anthony keeps a bottle of vinegar in his cupboard for 2 years. Each year 20% of the vinegar evaporates. What percent of the vinegar is left after 2 years?",
   "checkpoint": [
     {
-      "$\\boxed{64}$": 1
+      "\\boxed{64}": 1
     }
   ],
   "matchingmethod": [

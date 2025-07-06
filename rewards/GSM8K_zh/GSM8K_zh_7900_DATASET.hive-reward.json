@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚历山德拉去餐厅吃晚餐。她点了一些汤、一个百吉饼和一块蛋糕。百吉饼的价格是4美元，汤的价格比百吉饼贵25%。蛋糕的价格只有百吉饼的一半。亚历山德拉需要为她点的晚餐支付多少钱？。",
+  "topic": "回答下面的数学问题：Aleksandra went to a restaurant for dinner. She ordered some soup, a bagel, and a piece of cake. The bagel cost $4, and the soup 25% more. The cake is only half of the price of the bagel. How much did Aleksandra need to pay for the dinner she ordered?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

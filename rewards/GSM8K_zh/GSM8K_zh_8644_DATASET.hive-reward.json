@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一面墙壁画中有四种不同颜色的油漆：红色、白色、紫色和黄色。壁画中红色、白色和紫色的油漆量是相等的。壁画的一半是黄色的。如果壁画总共使用了12品脱的油漆，那么使用了多少品脱的红色油漆？。",
+  "topic": "回答下面的数学问题：A wall mural has four different colors of paint in it: red, white, purple, and yellow.  There are equal amounts of red, white, and purple paint in the mural. Half the mural is yellow. If the mural used 12 pints of paint in all, how many pints of red paint was used?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

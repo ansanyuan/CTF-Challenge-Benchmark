@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Wild Bill可以在全速骑马的同时开枪射击。他的马每秒跑20英尺，他的枪发射的子弹飞行速度为每秒400英尺。但是，如果他在骑马时开枪，并且枪的瞄准方向与马奔跑的方向相同，子弹的飞行速度比他在与马奔跑方向相反的方向开枪时快多少英尺每秒？。",
+  "topic": "回答下面的数学问题：Wild Bill can shoot a pistol while riding his horse at full speed.  His horse runs at 20 feet per second, and a bullet fired from his gun flies at a speed of 400 feet per second.  But if he fires a gun while riding his horse, and the gun is aimed in the same direction that the horse is running, how much faster, in feet per second, is the bullet flying than if he fires the bullet in the opposite direction of what the horse was running?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

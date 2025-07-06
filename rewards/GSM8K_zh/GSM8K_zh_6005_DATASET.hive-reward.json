@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个大饮用玻璃杯需要50颗大果冻豆来填满。填满一个小饮用玻璃杯需要半个大玻璃杯的量。如果有5个大饮用玻璃杯和3个小饮用玻璃杯，需要多少颗果冻豆来填满它们？。",
+  "topic": "回答下面的数学问题：It takes 50 large jelly beans to fill up a large drinking glass.  It takes half that amount to fill up a small drinking glass.  If there are 5 large drinking glasses and 3 small ones, how many jellybeans will it take to fill them up?",
   "checkpoint": [
     {
-      "$\\boxed{325}$": 1
+      "\\boxed{325}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在为期四天的旅行中，凯莉第一天开了135英里，第二天多开了124英里，第三天开了159英里，第四天开了189英里。如果她每106英里就要给手机充电，她整个旅行中充电了多少次手机？。",
+  "topic": "回答下面的数学问题：On a four-day trip, Carrie drove 135 miles the first day, 124 miles more the second day, 159 miles the third day, and 189 miles the fourth day. If she had to charge her phone every 106 miles, how many times did she charge her phone for the whole trip?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

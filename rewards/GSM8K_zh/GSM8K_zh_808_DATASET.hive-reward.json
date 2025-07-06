@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Yuan比他的弟弟大7岁，是他的两倍年龄。David多大了？。",
+  "topic": "回答下面的数学问题：Yuan is 7 years older than his brother David and twice his age. How old is David?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

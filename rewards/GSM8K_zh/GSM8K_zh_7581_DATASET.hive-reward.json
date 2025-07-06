@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Frankie每晚做完作业后都会看电视。周一和周二，他每晚都看了一小时的最爱节目。周三，他看了几集30分钟的节目。周四，他早早做完作业，看了一小时的节目和一集30分钟的节目。周五，因为是周末他可以熬夜，所以他看了两集一小时的节目。如果他总共看了7小时的电视，那么周三他看了多少集30分钟的节目？。",
+  "topic": "回答下面的数学问题：Frankie watches TV after he finishes his homework every night. On Monday and Tuesday, he watched a 1-hour episode of his favorite show each night. On Wednesday, he watched a few episodes of a 30-minute show. On Thursday, he finished homework early and watched a 1-hour episode and a 30-minute show. On Friday, he got to stay up late for the weekend, so he watched two 1-hour episodes. If he watched 7 hours of TV in all, how many 30-minute episodes did he watch on Wednesday?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

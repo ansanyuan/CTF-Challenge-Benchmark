@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贾斯汀需要为他二年级班上的每位同学收集一朵花。他平均需要花10分钟找到一朵他喜欢的花。他已经花了2个小时在收集花上。假设他最初收集的花中有3朵丢失了，如果他有30位同学，他还需要花多少分钟去寻找？。",
+  "topic": "回答下面的数学问题：Justin needs to collect one flower for each classmate that is in his 2nd-grade class. It takes him on average 10 minutes to find a flower he likes. He has been gathering for 2 hours. Assuming he has lost 3 of the flowers he initially gathered, how many more minutes does he need to look if he has 30 classmates?",
   "checkpoint": [
     {
-      "$\\boxed{210}$": 1
+      "\\boxed{210}": 1
     }
   ],
   "matchingmethod": [

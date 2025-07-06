@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安妮对六年级班级进行了一项调查，看看谁更喜欢椒盐脆饼干而不是金鱼酥。在约翰逊小姐的班上，1/6的学生更喜欢金鱼酥。在费尔德斯坦先生的班上，2/3的学生更喜欢金鱼酥。在亨德森女士的班上，1/5的学生更喜欢金鱼酥。如果每个班有30名学生，总共有多少人更喜欢金鱼酥？。",
+  "topic": "回答下面的数学问题：Annie does a survey of the sixth-grade classes to see who prefers pretzels to goldfish. In Miss Johnson's class, 1/6 of the students preferred goldfish. In Mr. Feldstein's class, 2/3rds of the students preferred goldfish. In Ms. Henderson's class, 1/5 of the students prefer goldfish. If each class has 30 students, how many people total prefer goldfish?",
   "checkpoint": [
     {
-      "$\\boxed{31}$": 1
+      "\\boxed{31}": 1
     }
   ],
   "matchingmethod": [

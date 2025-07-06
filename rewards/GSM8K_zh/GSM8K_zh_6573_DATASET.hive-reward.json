@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔希的妈妈给了他20美元去商场购物。他买了一顶帽子花了10美元，买了一支铅笔花了2美元。然后他买了四块饼干。如果每块饼干的价格是1.25美元，乔希还剩多少钱？。",
+  "topic": "回答下面的数学问题：Josh’s mom gives him $20 to go shopping at the mall. He buys a hat for $10 and a pencil for $2. Then he buys four cookies. If each cookie costs $1.25, how much money does Josh have left?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

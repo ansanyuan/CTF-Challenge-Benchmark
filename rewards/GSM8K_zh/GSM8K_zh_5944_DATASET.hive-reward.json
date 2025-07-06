@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carly有42个棒棒糖要和朋友分享。一半的棒棒糖是樱桃味，其余的是等量的西瓜味、酸苹果味和葡萄味。有多少个棒棒糖是葡萄味？。",
+  "topic": "回答下面的数学问题：Carly had 42 lollipops to share with her friends. Half of the lollipops were cherry, and the rest were equal amounts of watermelon, sour apple, and grape. How many lollipops were grape?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

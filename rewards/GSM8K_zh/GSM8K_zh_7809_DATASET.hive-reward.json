@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mason制作一批棒棒糖需要30盎司的糖，制作一批软糖需要70盎司的糖。他需要多少糖来制作8批棒棒糖和1批软糖？。",
+  "topic": "回答下面的数学问题：Mason needs 30 ounces of sugar to make a batch of suckers and 70 ounces of sugar to make a batch of fudge. How much sugar does he need to make 8 batches of suckers and 1 batch of fudge?",
   "checkpoint": [
     {
-      "$\\boxed{310}$": 1
+      "\\boxed{310}": 1
     }
   ],
   "matchingmethod": [

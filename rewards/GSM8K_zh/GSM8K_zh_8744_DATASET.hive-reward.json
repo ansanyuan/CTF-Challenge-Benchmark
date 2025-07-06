@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：加里以9000美元买了一艘船。第一年它贬值了30%。第二年又贬值了30%。第三年贬值了20%。三年后这艘船值多少钱？。",
+  "topic": "回答下面的数学问题：Gary bought a boat for $9000.  Over the first year it depreciated 30%.  The second year it depreciated another 30%.  The third year it depreciated 20%.  How much is the boat worth after the three years?",
   "checkpoint": [
     {
-      "$\\boxed{3528}$": 1
+      "\\boxed{3528}": 1
     }
   ],
   "matchingmethod": [

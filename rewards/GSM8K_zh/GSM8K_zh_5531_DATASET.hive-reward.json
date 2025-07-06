@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：西蒙正在采摘蓝莓来做蓝莓派。他从自己的灌木丛中采摘了100颗蓝莓，另外从附近生长的蓝莓灌木丛中采摘了200颗蓝莓。如果每个派需要100颗蓝莓，西蒙可以做多少个蓝莓派？。",
+  "topic": "回答下面的数学问题：Simon is picking blueberries to make blueberry pies. He picks 100 blueberries from his own bushes and another 200 blueberries from blueberry bushes growing nearby. If each pie needs 100 blueberries, how many blueberry pies can Simon make?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

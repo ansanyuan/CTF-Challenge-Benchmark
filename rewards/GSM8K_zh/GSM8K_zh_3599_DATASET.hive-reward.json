@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Emma买了3打马卡龙，另外再加上她10块马卡龙用于派对。如果还剩下15块马卡龙，那么一共吃了多少块马卡龙？。",
+  "topic": "回答下面的数学问题：Emma bought 3 dozens of macarons in addition to her 10 pieces of macarons for a party. If 15 pieces of macarons are left over, how many pieces of macarons were eaten?",
   "checkpoint": [
     {
-      "$\\boxed{31}$": 1
+      "\\boxed{31}": 1
     }
   ],
   "matchingmethod": [

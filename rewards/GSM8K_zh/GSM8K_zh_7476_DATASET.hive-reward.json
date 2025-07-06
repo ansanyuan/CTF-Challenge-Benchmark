@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Josh决定尝试翻新一栋房子。他以8万美元的价格买了一栋房子，然后投入了5万美元进行修缮。这使得房子的价值增加了150%。他赚了多少利润？。",
+  "topic": "回答下面的数学问题：Josh decides to try flipping a house.  He buys a house for $80,000 and then puts in $50,000 in repairs.  This increased the value of the house by 150%.  How much profit did he make?",
   "checkpoint": [
     {
-      "$\\boxed{70000}$": 1
+      "\\boxed{70000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个袋子里有七个苹果，八个橙子和十五个芒果。路易莎从袋子里拿出两个苹果，然后拿出了和她从袋子里拿出的苹果数量相同的橙子的两倍。然后她从袋子里拿出了三分之二的芒果。袋子里剩下多少水果？。",
+  "topic": "回答下面的数学问题：A bag has seven apples, eight oranges, and 15 mangoes. Luisa takes out two apples from the bag, and takes out twice as many oranges as apples as she took from the bag. She then takes out 2/3 the number of mangoes from the bag. What is the remaining number of fruits in the bag?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

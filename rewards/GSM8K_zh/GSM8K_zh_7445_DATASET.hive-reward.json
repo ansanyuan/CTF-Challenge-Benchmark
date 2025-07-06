@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克每隔一天进行一次演出，为期两周。每次演出，他演奏3首歌。其中2首歌长5分钟，最后一首歌是前两首歌的两倍长。他一共演奏了多少分钟？。",
+  "topic": "回答下面的数学问题：Mark does a gig every other day for 2 weeks.  For each gig, he plays 3 songs.  2 of the songs are 5 minutes long and the last song is twice that long.  How many minutes did he play?",
   "checkpoint": [
     {
-      "$\\boxed{280}$": 1
+      "\\boxed{280}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：塞西尔有600美元。凯瑟琳比塞西尔的两倍少250美元，而卡梅拉比塞西尔的两倍多50美元。他们总共有多少钱？。",
+  "topic": "回答下面的数学问题：Cecil has $600. Catherine has $250 less than twice as much as Cecil while Carmela has $50 more than twice Cecil's money. How much money do they have altogether?",
   "checkpoint": [
     {
-      "$\\boxed{2800}$": 1
+      "\\boxed{2800}": 1
     }
   ],
   "matchingmethod": [

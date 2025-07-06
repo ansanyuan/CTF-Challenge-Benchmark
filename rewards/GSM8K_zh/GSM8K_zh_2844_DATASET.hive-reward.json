@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格雷格骑自行车穿过城镇，注意到每骑过一个街区，他的车轮会旋转200次。他现在在一条小径上，并希望至少骑过8个街区。他的车轮已经旋转了600次，他还需要旋转多少次才能达到目标？。",
+  "topic": "回答下面的数学问题：Greg is riding his bike around town and notices that each block he rides, his wheels rotate 200 times. He's now on a a trail and wants to make sure he rides at least 8 blocks. His wheels have already rotated 600 times, how many more times do they need to rotate to reach his goal?",
   "checkpoint": [
     {
-      "$\\boxed{1000}$": 1
+      "\\boxed{1000}": 1
     }
   ],
   "matchingmethod": [

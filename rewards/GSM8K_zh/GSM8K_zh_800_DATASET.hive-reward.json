@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有一个非常大的房间，里面有4张桌子，1张沙发和2把每把有4条腿的椅子。还有3张每张有3条腿的桌子，1张只有1条腿的桌子，和1把有2条腿的摇椅。这个房间里一共有多少条腿？。",
+  "topic": "回答下面的数学问题：There is a very large room that has 4 tables, 1 sofa and 2 chairs that have 4 legs each.  There are also 3 tables with 3 legs each, 1 table with 1 leg, and 1 rocking chair with 2 legs.  How many legs are there in the room?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

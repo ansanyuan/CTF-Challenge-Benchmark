@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每年一月份，图书管理员娜塔莉娅整理图书。她有145本小说，271本漫画，419部纪录片和209张专辑需要存放。她想把这些放在可以容纳9个物品的箱子里。娜塔莉娅将会用多少个箱子？。",
+  "topic": "回答下面的数学问题：Every year in January, Natalia, the librarian, tidies up the books. She has 145 novels, 271 comics, 419 documentaries, and 209 albums to store. She wants to put these in crates that can hold 9 items. How many crates will Natalia use?",
   "checkpoint": [
     {
-      "$\\boxed{116}$": 1
+      "\\boxed{116}": 1
     }
   ],
   "matchingmethod": [

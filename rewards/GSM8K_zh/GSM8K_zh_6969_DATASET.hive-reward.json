@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个班级有32名学生，他们都需要展示他们的项目。每个时间段为40分钟。如果每个学生有5分钟展示时间，那么需要多少个时间段才能让每个学生展示他们的项目？。",
+  "topic": "回答下面的数学问题：A class has 32 students and they all need to present their projects. Every period is 40 minutes long. How many periods will it take for every student to present their project if they have 5 minutes to do so?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

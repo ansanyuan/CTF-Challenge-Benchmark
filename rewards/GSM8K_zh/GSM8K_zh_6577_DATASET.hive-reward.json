@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚伦正在收集罐头盖子带到回收中心。他使用了3个大小相同的番茄罐头盒，并将他得到的盖子加到他已经有的14个罐盖上。现在他带着53个罐盖去回收中心。他每个箱子得到了多少个罐盖？。",
+  "topic": "回答下面的数学问题：Aaron is gathering can lids to take to the recycling center. He uses 3 equal-sized boxes of canned tomatoes and adds the lids he gets to the 14 can lids he already has. He is now taking 53 can lids to the recycling center. How many cans lids did he get from each box?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莉莉有5张彩票要出售。她先卖出第一张彩票1美元。然后她每卖出一张彩票，价格比前一张彩票贵1美元。她计划留下4美元的利润，剩下的钱作为奖金。中奖者将获得多少钱？。",
+  "topic": "回答下面的数学问题：Lily has 5 lottery tickets to sell.  She sells the first ticket for $1.  She then sells each successive ticket for a dollar more than the previous ticket. She plans to keep a $4 profit and give the remaining money as the prize. How much money will the winner of the lottery receive?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

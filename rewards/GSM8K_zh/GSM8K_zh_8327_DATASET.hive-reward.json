@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：KozyInn Motel有90个房间。客房服务需要20分钟来打扫每个房间。打扫一半房间需要多少小时？。",
+  "topic": "回答下面的数学问题：There are 90 rooms at the KozyInn Motel. It takes housekeeping 20 minutes to clean each room. How many hours would it take to clean one-half of the rooms?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

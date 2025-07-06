@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯购买了3辆价值每辆150美元的越野摩托车和4辆价值每辆300美元的越野车。每辆车的注册费用是25美元。他总共支付了多少钱？。",
+  "topic": "回答下面的数学问题：James buys 3 dirt bikes for $150 each and 4 off-road vehicles for $300 each.  It also cost him $25 to register each of these.  How much did he pay for everything?",
   "checkpoint": [
     {
-      "$\\boxed{1825}$": 1
+      "\\boxed{1825}": 1
     }
   ],
   "matchingmethod": [

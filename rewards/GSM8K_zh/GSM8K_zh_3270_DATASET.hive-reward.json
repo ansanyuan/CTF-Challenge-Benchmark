@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个水壶装了5升水，一个桶装了4个水壶的水。2个桶里一共有多少升水？。",
+  "topic": "回答下面的数学问题：A jug is filled with 5 liters of water and a bucket is filled with 4 jugs. How many liters of water are contained in 2 buckets?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

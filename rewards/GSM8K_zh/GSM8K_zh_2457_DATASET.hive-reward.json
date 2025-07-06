@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Balki正在数麦片盒中葡萄干的数量。他在5个盒子中一共数出了437颗葡萄干。在一个盒子里他数了72颗葡萄干。在第二个盒子里他数了74颗葡萄干。其他三个盒子里的葡萄干数量相同。其他三个盒子里分别有多少颗葡萄干？。",
+  "topic": "回答下面的数学问题：Balki is counting the number of raisins in boxes of cereal. He counted 437 total raisins in 5 boxes. In one box he counted 72 raisins. In a second box he counted 74 raisins. The other three boxes had the same number each. How many were in each of the other three boxes?",
   "checkpoint": [
     {
-      "$\\boxed{97}$": 1
+      "\\boxed{97}": 1
     }
   ],
   "matchingmethod": [

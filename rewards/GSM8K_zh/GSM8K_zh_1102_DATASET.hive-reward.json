@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Beckett今年12岁，比Olaf小3岁，而Shannen比Olaf小2岁。如果Jack的年龄是Shannen的两倍再加5岁，那么这4个人的年龄总和是多少？。",
+  "topic": "回答下面的数学问题：Beckett is 12 and is three years younger than Olaf, while Shannen is two years younger than Olaf.  If Jack is five more than twice as old as Shannen, what is the sum of the ages of all 4 people?",
   "checkpoint": [
     {
-      "$\\boxed{71}$": 1
+      "\\boxed{71}": 1
     }
   ],
   "matchingmethod": [

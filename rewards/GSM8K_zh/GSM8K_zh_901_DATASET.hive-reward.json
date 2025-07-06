@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅森打开汽车引擎盖，发现松鼠一直在使用他的引擎舱来储存坚果。如果有2只忙碌的松鼠每天储存30个坚果，还有一只懒惰的松鼠每天储存20个坚果，持续40天，梅森的汽车里有多少坚果？。",
+  "topic": "回答下面的数学问题：Mason opens the hood of his car and discovers that squirrels have been using his engine compartment to store nuts. If 2 busy squirrels have been stockpiling 30 nuts/day and one sleepy squirrel has been stockpiling 20 nuts/day, all for 40 days, how many nuts are in Mason's car?",
   "checkpoint": [
     {
-      "$\\boxed{3200}$": 1
+      "\\boxed{3200}": 1
     }
   ],
   "matchingmethod": [

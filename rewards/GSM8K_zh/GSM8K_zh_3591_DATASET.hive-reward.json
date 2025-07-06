@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hallie从图书馆借了一本书。她用了四天时间读完整本书。第一天她读了63页。第二天，她读的页数是第一天的两倍。第三天，她比第二天多读了10页。如果这本书有354页，她第四天读了多少页？。",
+  "topic": "回答下面的数学问题：Hallie borrows a book from the library. She reads the entire book in four days. She read 63 pages the first day. On the second day, she read twice the number of pages that she'd read on day one. On the third day, she read 10 mores pages than she read on day two. If the book is 354 pages long, how many pages did she read on the fourth day?",
   "checkpoint": [
     {
-      "$\\boxed{29}$": 1
+      "\\boxed{29}": 1
     }
   ],
   "matchingmethod": [

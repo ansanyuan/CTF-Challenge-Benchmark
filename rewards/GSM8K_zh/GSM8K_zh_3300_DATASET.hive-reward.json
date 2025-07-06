@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Karen正在为她的五年级班级计划写作业。她知道每个简答题需要3分钟来回答，每个段落需要15分钟来写，每篇文章需要1小时来写。如果Karen分配了2篇文章和5个段落，她应该分配多少个简答题，如果她想总共分配4小时的作业？。",
+  "topic": "回答下面的数学问题：Karen is planning writing assignments for her fifth grade class. She knows each short-answer question takes 3 minutes to answer, each paragraph takes 15 minutes to write, and each essay takes an hour to write. If Karen assigns 2 essays and 5 paragraphs, how many short-answer questions should she assign if she wants to assign 4 hours of homework total?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

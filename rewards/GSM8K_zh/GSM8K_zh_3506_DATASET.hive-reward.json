@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在概率单元中，一位老师对她的班级进行了调查，问她的学生两个问题。第一个问题是他们更喜欢狗还是猫，第二个问题是他们更喜欢电影还是电子游戏。在她的班级中，有30名学生，其中50%的学生选择了狗和电子游戏作为他们的两个答案，而10%的学生选择了狗和电影作为他们的两个答案。在这位老师的班级中，总共有多少名学生更喜欢狗而不是猫？。",
+  "topic": "回答下面的数学问题：During a unit on probability, a teacher surveys her class asking her students two questions.  The first question was whether they prefer dogs or cats, and the second question was whether they movies or video games.  Of the 30 students in her class, 50% chose dogs and video games as their two answers, while 10% chose dogs and movies as their two answers.  In total, how many students in this teacher's class prefer dogs over cats?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

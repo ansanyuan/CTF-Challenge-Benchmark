@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tony、Moses和Esther要分享50美元。Moses将拿走总金额的40%，而Tony和Esther将平分剩下的金额。Moses比Esther多拿了多少？。",
+  "topic": "回答下面的数学问题：Tony, Moses and Esther are to share $50. Moses will take 40% of the total amount while Tony and Esther will split the remainder equally among themselves. How much more than Esther will Moses get?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

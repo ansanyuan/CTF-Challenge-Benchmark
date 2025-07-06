@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰每周去健身房3次。他每天花1小时举重。此外，他还花三分之一的举重时间来热身和做有氧运动。他每周在健身房花了多少小时？。",
+  "topic": "回答下面的数学问题：Johns goes to the gym 3 times a week.  He spends 1 hour each day lifting weight. Additionally, he also spends a third of his weightlifting time warming up and doing cardio each day.  How many hours does he spend at the gym a week?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了筹集他的商店资金，Josue先生向两家银行募集资金。第一家银行给了他4000美元，第二家公司给了他两倍的金额。如果他最初有5000美元的资本，那么他现在有多少资本？。",
+  "topic": "回答下面的数学问题：To fund his store, Mr. Josue solicited money from two banks. The first bank gave him $4000, and the second company gave him twice as much. If he initially had $5000 in capital, how much capital does he have now?",
   "checkpoint": [
     {
-      "$\\boxed{17000}$": 1
+      "\\boxed{17000}": 1
     }
   ],
   "matchingmethod": [

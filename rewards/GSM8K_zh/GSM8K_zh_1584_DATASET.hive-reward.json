@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯可以花600美元买一台新电脑，使用6年，或者花200美元买2台每台使用3年的二手电脑。选择更便宜的选项，他将节省多少钱？。",
+  "topic": "回答下面的数学问题：James can buy a new computer for $600 and have it last 6 years, or buy 2 used computers for $200 each that each last 3 years. How much money will he save by picking the cheaper option?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

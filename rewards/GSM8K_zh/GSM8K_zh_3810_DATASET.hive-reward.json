@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Norma把她的衣服送到洗衣店。她在洗衣机里留下了9件T恤和两倍于T恤数量的毛衣。当她回来时，她发现了3件毛衣和三倍于T恤数量的衣服。缺少多少件衣服？。",
+  "topic": "回答下面的数学问题：Norma takes her clothes to the laundry. She leaves 9 T-shirts and twice as many sweaters as T-shirts in the washer. When she returns she finds 3 sweaters and triple the number of T-shirts. How many items are missing?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

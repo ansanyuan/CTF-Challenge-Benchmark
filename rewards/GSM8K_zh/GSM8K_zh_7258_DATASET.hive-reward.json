@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯购买了20磅的牛肉和一半的猪肉。他在餐厅用1.5磅的肉来制作餐点。每份餐售价为20美元。他赚了多少钱？。",
+  "topic": "回答下面的数学问题：James buys 20 pounds of beef and half that much pork.  He uses 1.5 pounds of meat to make meals at his restaurant.  Each meal sells for $20.  How much money did he make?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：体育场有60,000个座位，但音乐表演只卖出了75%的座位。由于下雨的威胁，有5,000名粉丝选择留在家里。有多少人参加了表演？。",
+  "topic": "回答下面的数学问题：The stadium seats 60,000 fans, but only 75% of the seats were sold for the music show. Because of the threat of rain, 5,000 fans stayed home. How many attended the show?",
   "checkpoint": [
     {
-      "$\\boxed{40000}$": 1
+      "\\boxed{40000}": 1
     }
   ],
   "matchingmethod": [

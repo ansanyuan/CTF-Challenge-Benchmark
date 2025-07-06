@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在美味的德里餐厅，希拉里买了三个沙莫萨，每个2美元，四份帕科拉，每份3美元，还有一个芒果拉西，2美元。她留下了25%的小费。希拉里的餐费，包括税，一共多少美元？。",
+  "topic": "回答下面的数学问题：At the Delicious Delhi restaurant, Hilary bought three samosas at $2 each and four orders of pakoras, at $3 each, and a mango lassi, for $2. She left a 25% tip. How much did the meal cost Hilary, with tax, in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

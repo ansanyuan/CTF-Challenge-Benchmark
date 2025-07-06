@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Heather的剃须刀每包4个，每包4美元。它们目前正在进行买一送一的促销活动。她还有一张2美元的优惠券。如果她买两包剃须刀，折扣后每个剃须刀的成本是多少（单位：美分）？。",
+  "topic": "回答下面的数学问题：Heather's razors come 4 to a pack and cost $4.00 a pack.  They are currently on sale for buy one get one free.  She also has a $2.00 coupon.  How much will each individual razor cost, in cents, after the discount if she buys 2 packs of razors?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

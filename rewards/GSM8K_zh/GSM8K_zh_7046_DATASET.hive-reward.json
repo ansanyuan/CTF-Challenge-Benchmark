@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克逊想要疯狂购物，所以他妈妈说如果他做额外的家务活，她会给他一些零花钱。她承诺每小时做家务活给他5美元。杰克逊用了2个小时来吸尘，然后决定再做一次。他还用了0.5个小时来洗碗，以及清洁浴室的时间是洗碗的三倍。杰克逊赚了多少零花钱？。",
+  "topic": "回答下面的数学问题：Jackson wants to go on a shopping spree, so his mom says she will give him some spending money if he does extra chores. She promises $5 per hour spent on chores.  Jackson spends 2 hours vacuuming, and decides to do this twice. He also spends 0.5 hours washing dishes, and three times as long cleaning the bathroom.  How much spending money has Jackson earned?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Joe在市场上买了3个橙子，7瓶果汁，3罐蜂蜜和4盆植物。水果每个4.50美元，果汁每瓶50美分，蜂蜜每罐5美元，植物2盆18美元。Joe在市场上花了多少钱？。",
+  "topic": "回答下面的数学问题：Joe buys 3 oranges, 7 juices, 3 jars of honey, and 4 plants at the market. The fruit costs $4.50 each, the juice was 50 cents each, the jars of honey were $5, and the plants were 2 for $18. How much does Joe spend at the market?",
   "checkpoint": [
     {
-      "$\\boxed{68}$": 1
+      "\\boxed{68}": 1
     }
   ],
   "matchingmethod": [

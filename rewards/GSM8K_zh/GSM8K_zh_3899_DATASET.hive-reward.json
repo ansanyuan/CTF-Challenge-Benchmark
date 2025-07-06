@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：苏茜开了一家披萨店。她每片披萨收费3美元，整个披萨收费15美元。如果她卖出了24片披萨和3整个披萨，她赚了多少钱？。",
+  "topic": "回答下面的数学问题：Susie opens a pizza store. She charges $3 per slice and $15 for a whole pizza. If she was able to sell 24 slices of pizza and 3 whole pizzas, how much money did she earn?",
   "checkpoint": [
     {
-      "$\\boxed{117}$": 1
+      "\\boxed{117}": 1
     }
   ],
   "matchingmethod": [

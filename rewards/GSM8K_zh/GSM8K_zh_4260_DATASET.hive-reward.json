@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个母亲买了一盒糖果。她留下了1/3的糖果，把剩下的糖果分给了她的3个孩子。大的孩子得到了8块糖果，而小的孩子得到的糖果是大的孩子的一半。如果盒子里有27块糖果，第二个孩子得到了多少块糖果？。",
+  "topic": "回答下面的数学问题：A mother buys a box of sweets. She kept 1/3 of the sweets and divided the rest between her 3 children. The eldest got 8 sweets while the youngest got half as many. If there are 27 pieces of sweets in the box, how many sweets did the second child gets?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

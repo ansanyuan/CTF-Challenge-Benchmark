@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jessica有一个小时的时间来参加考试。她已经回答了80道题中的16道。她已经用了12分钟的时间。如果她保持这个速度，她完成考试时还剩下多少分钟？。",
+  "topic": "回答下面的数学问题：Jessica has one hour to take an exam. She has answered 16 out of 80 questions. She has used 12 minutes of her time. If she keeps up this same pace, how many minutes will be left when she finishes the exam?",
   "checkpoint": [
     {
-      "$\\boxed{0}$": 1
+      "\\boxed{0}": 1
     }
   ],
   "matchingmethod": [

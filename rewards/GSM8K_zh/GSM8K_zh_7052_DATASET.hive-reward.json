@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：简正在分配小鱼作为嘉年华奖品。她买了600条小鱼，每个奖品是一个装有3条小鱼的碗。如果有800人参加游戏，15%赢得奖品，剩下多少条小鱼？。",
+  "topic": "回答下面的数学问题：Jane is dividing up minnows to be carnival prizes. She bought 600 minnows, and each prize is a bowl with 3 minnows. If 800 people are going to play the game and 15% win a prize, how many minnows will be left over?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

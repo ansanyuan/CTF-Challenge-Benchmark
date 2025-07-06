@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三个朋友的平均年龄总和为40岁。贾里德比哈基米大十岁，而莫莉的年龄是30岁。哈基米多大？。",
+  "topic": "回答下面的数学问题：The total average age of three friends is 40. Jared is ten years older than Hakimi, and Molly's age is 30. How old is Hakimi?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

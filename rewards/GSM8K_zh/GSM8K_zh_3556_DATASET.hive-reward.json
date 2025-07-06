@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚历克斯在一个月的第一周有4支钢笔。每周她的钢笔收藏翻倍。如果简在一个月后有16支钢笔，亚历克斯将比简多多少支钢笔？。",
+  "topic": "回答下面的数学问题：Alex has 4 pens in the first week of a month. Every week her pen collection doubles. How many more pens will Alex have than Jane if Jane will have 16 pens after a month?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

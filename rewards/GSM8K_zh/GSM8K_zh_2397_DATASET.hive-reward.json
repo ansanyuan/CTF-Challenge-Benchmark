@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carrie正在制作果汁。她加入了6罐12盎司的山露汽水，28盎司的冰和一瓶40盎司的果汁。Carrie有多少份10盎司的果汁？。",
+  "topic": "回答下面的数学问题：Carrie is making punch. She adds 6 12-oz cans of Mountain Dew, 28 oz of ice, and a 40 oz bottle of fruit juice. How many 10 oz servings of punch does Carrie have?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

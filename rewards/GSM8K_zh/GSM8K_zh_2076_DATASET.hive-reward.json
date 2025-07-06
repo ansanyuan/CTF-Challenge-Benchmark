@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个父亲和一个儿子同时从长为16米的走廊的两端开始向对方走去。如果父亲的步行速度是儿子的三倍，他们将在走廊的父亲一端多远的地方相遇？。",
+  "topic": "回答下面的数学问题：A father and a son start approaching each other at the same time from opposite ends of a hallway that is 16m long. If the father is walking three times as fast as the son, at what distance from the father's end of the hallway will they meet?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

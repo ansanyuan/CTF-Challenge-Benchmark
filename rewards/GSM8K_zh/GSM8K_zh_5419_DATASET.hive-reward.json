@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：商场里有480只僵尸。如果僵尸数量每天翻倍，多少天前商场里的僵尸数量少于50只？。",
+  "topic": "回答下面的数学问题：There are 480 zombies in the shopping mall. If the number of zombies doubled every day, how many days ago were there less than 50 zombies in the mall?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

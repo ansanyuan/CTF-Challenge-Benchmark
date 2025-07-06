@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Keegan和他的朋友Tashay举办了一次洗车活动，为棒球训练营筹款。他们两个人需要筹集200美元。到下午3点，Keegan赚了83美元，Tashay赚了91美元。他们还需要赚多少钱才能达到他们的目标？。",
+  "topic": "回答下面的数学问题：Keegan was running a car wash with his friend Tashay to raise money for a baseball camp. They needed to raise $200 for the two of them. By 3 pm, Keegan had earned $83 and Tasha had earned $91. How much more did they need to earn to reach their goal?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

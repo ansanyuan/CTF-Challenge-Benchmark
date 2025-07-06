@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只青蛙在连续的4天里产卵。第一天她产下50枚蛋。第二天，她的产蛋量翻倍。第三天，她的产蛋量比第二天多20枚，最后一天她将前三天的总数翻倍。这只青蛙在这4天内产下了多少枚蛋？。",
+  "topic": "回答下面的数学问题：A frog lays her eggs over a series of 4 days.  The first day she lays 50 eggs.  The second day, she doubles her production of eggs.  The third day she lays 20 more than the second day, and the last day she doubles the first three days total.  How many eggs did the frog lay over the span of the 4 days?",
   "checkpoint": [
     {
-      "$\\boxed{810}$": 1
+      "\\boxed{810}": 1
     }
   ],
   "matchingmethod": [

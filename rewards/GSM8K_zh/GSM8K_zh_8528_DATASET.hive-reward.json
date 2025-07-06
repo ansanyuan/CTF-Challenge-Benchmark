@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：我的厨房地板总面积为200平方英尺。我想安装每块售价12美元的新方形地砖，每块地砖的边长为1英尺。翻新我的厨房地板需要花费多少钱？。",
+  "topic": "回答下面的数学问题：My kitchen floor has a total area of 200 SqFt. I want to install new square floor tiles that cost $12 each, and each tile side is 1ft in length. How much will it cost me to renovate my kitchen floor?",
   "checkpoint": [
     {
-      "$\\boxed{2400}$": 1
+      "\\boxed{2400}": 1
     }
   ],
   "matchingmethod": [

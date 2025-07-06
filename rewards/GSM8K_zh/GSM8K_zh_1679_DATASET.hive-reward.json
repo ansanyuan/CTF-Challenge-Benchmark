@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jackie最喜欢的化妆品公司在消费满50.00美元时提供免费送货。Jackie订购了她最喜欢的每瓶10.00美元的洗发水和护发素，以及每瓶6.00美元的3瓶乳液。Jackie还需要再花多少钱才能符合免费送货的条件？。",
+  "topic": "回答下面的数学问题：Jackie's favorite cosmetic company was offering free shipping when you spent $50.00.  Jackie ordered her favorite shampoo and conditioner that each cost $10.00 a bottle and 3 bottles of lotion that cost $6.00 each.  How much more money does Jackie need to spend to be eligible for free shipping?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

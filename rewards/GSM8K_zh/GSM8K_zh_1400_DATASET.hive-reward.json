@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥斯汀是一个冲浪者。在冲浪季节，他去海滩冲浪，他接住的最高的浪比他的身高的四倍还要高两英尺。他接住的最短的浪比他的身高高四英尺。最短的浪比他7英尺长的冲浪板还要高三英尺。奥斯汀接住的最高的浪有多高？。",
+  "topic": "回答下面的数学问题：Austin is a surfer. He took a trip to the beach during surfing season and the highest wave he caught was two feet higher than four times his height. The shortest wave he caught was four feet higher than his height. The shortest wave was three feet higher than his 7-foot surfboard is long. How tall was the highest wave Austin caught?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

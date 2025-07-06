@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Grace开始了自己的园艺景观设计业务。她为修剪草坪收费每小时6美元，拔除杂草11美元，铺设覆盖物9美元。在九月份，她修剪草坪63小时，拔除杂草9小时，铺设覆盖物10小时。她在九月份赚了多少钱？。",
+  "topic": "回答下面的数学问题：Grace started her own landscaping business. She charges $6 an hour for mowing lawns, $11 for pulling weeds and $9 for putting down mulch. In September she mowed lawns for 63 hours, pulled weeds for 9 hours and put down mulch for 10 hours. How much money did she earn in September?",
   "checkpoint": [
     {
-      "$\\boxed{567}$": 1
+      "\\boxed{567}": 1
     }
   ],
   "matchingmethod": [

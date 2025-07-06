@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉米的父亲每天收到20封电子邮件。四月中旬，他订阅了一个新闻频道，每天向他的电子邮件发送5封额外的邮件。到月底，吉米的父亲一共收到多少封电子邮件？。",
+  "topic": "回答下面的数学问题：Jimmy's father receives 20 emails a day. Halfway through April, he subscribed to a news channel that sent 5 more emails per day to his email. What's the total number of emails Jimmy's father had at the end of the month?",
   "checkpoint": [
     {
-      "$\\boxed{675}$": 1
+      "\\boxed{675}": 1
     }
   ],
   "matchingmethod": [

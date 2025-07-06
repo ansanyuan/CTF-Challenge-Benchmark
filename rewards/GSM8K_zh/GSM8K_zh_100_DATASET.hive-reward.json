@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：盖尔有两个鱼缸。第一个鱼缸的大小是第二个鱼缸的两倍。第一个鱼缸里有48加仑的水。她遵循每英寸鱼需要一加仑水的规则。如果她在第二个鱼缸里养两英寸长的鱼，在第一个鱼缸里养三英寸长的鱼，如果第一个鱼缸的一条鱼吃掉了另一条鱼，那么盖尔在第一个鱼缸里比第二个鱼缸多养了多少条鱼？。",
+  "topic": "回答下面的数学问题：Gail has two fish tanks. The first tank is twice the size of the second tank. There are 48 gallons of water in the first tank. She follows the rule of one gallon of water per inch of fish. If she keeps two-inch fish in the second tank and three-inch fish in the first tank, how many more fish would Gail have in the first tank than the second tank if one of the first tank fish eats another?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

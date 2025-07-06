@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽和迈克在分享一罐油漆。玛丽用3平方英尺的油漆画了一条龙。迈克用的油漆比玛丽画龙的油漆多2平方英尺，画了一座城堡。然后他们一起画最大的太阳。如果最初罐子里有足够的油漆可以覆盖13平方英尺，那么可以用多少平方英尺的油漆来画太阳？。",
+  "topic": "回答下面的数学问题：Mary and Mike are sharing a jar of paint. Mary paints a dragon using 3 square feet worth of paint. Mike paints a castle using 2 square feet more paint than Mary used on her dragon. They both then work together to paint the biggest sun possible. If there was originally enough paint in the jar to cover 13 square feet, how many square feet of paint can be used to paint the sun?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

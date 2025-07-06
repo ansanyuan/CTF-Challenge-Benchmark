@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伟大的龙Perg高高地坐在Farbo山上，对任何在1000英尺范围内的东西喷火。Polly能扔金标枪，这是唯一已知能击败龙的武器，她能扔出400英尺远，远在龙的火焰范围之内。但是当Polly拿着蓝宝石宝石时，她能把标枪扔得比不拿宝石时远三倍。如果拿着宝石，Polly能站在龙的火焰范围之外多远的地方，仍然能用金标枪击中龙？。",
+  "topic": "回答下面的数学问题：The great dragon, Perg, sat high atop mount Farbo, breathing fire upon anything within a distance of 1000 feet.  Polly could throw the gold javelin, the only known weapon that could sleigh the dragon, for a distance of 400 feet, well within the reach of the dragon's flames.  But when Polly held the sapphire gemstone, she could throw the javelin three times farther than when not holding the gemstone. If holding the gemstone, how far outside of the reach of the dragon's flames could Polly stand and still hit the dragon with the gold javelin?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Amoli和Anayet必须一起旅行369英里。Amoli以每小时42英里的速度开了3小时，Anayet以每小时61英里的速度开了2小时。他们还需要旅行多少英里？。",
+  "topic": "回答下面的数学问题：Amoli and Anayet must travel 369 miles together. Amoli drove 42 miles an hour for 3 hours and Anayet drove at 61 miles an hour for 2 hours. How many miles do they still need to travel?",
   "checkpoint": [
     {
-      "$\\boxed{121}$": 1
+      "\\boxed{121}": 1
     }
   ],
   "matchingmethod": [

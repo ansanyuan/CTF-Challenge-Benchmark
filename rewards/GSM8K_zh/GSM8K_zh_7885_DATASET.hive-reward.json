@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂姆决定在七月四日放一些烟花。他买了一个价值400美元的烟花包和另一个价值是那个的两倍。他在这些烟花上得到了20%的折扣。他还买了一个价值150美元的压轴烟花。他总共花了多少钱？。",
+  "topic": "回答下面的数学问题：Tim decides to light off some fireworks for the fourth of July.  He buys a package of fireworks worth $400 and another pack worth twice that much.  He gets a 20% discount on them.  He also buys a finale firework that costs $150.  How much did he spend in total?",
   "checkpoint": [
     {
-      "$\\boxed{1110}$": 1
+      "\\boxed{1110}": 1
     }
   ],
   "matchingmethod": [

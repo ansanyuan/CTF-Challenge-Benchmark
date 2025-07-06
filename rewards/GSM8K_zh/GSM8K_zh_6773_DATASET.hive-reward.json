@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一群朋友走进Juju的果汁吧，每人点了一杯果汁。他们一共花了94美元。其中一些人点了芒果汁，每杯售价5美元，而其他人要了菠萝汁，每杯售价6美元。如果菠萝汁花费了54美元，这群朋友有多少人？。",
+  "topic": "回答下面的数学问题：A group of friends walked into Juju’s Juice Bar ordered a glass of fruit juice each. They spent a total of $94. Some of them ordered mango juice, which sells for $5 a glass, while others asked for pineapple juice, at $6 a glass. If $54 was spent on pineapple juice, how many people were in the group?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Yolanda整个赛季得了345分。整个赛季有15场比赛。她平均每场比赛罚球4次（价值1分），并且每场比赛投篮5个两分球。她平均每场比赛投篮了多少个三分球？。",
+  "topic": "回答下面的数学问题：Yolanda scored 345 points over the entire season. There were 15 games over the season. She averaged 4 free throws (worth one point), and 5 two-point baskets per game. How many three-point baskets did she average a game?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

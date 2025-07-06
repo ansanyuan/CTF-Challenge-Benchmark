@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔有50美元用来为他的新郊游买一套衣服。服装店正在进行7折优惠。他挑选的衬衫价格是25美元。他还挑了一条35美元的短裤。假设价格已包含销售税，乔购买后还剩多少钱？。",
+  "topic": "回答下面的数学问题：Joe has $50 to buy an outfit for his new field trip. There is a 30% off sale at the clothing store. The shirt he picks out has a price of $25. He also picks out a pair of shorts for $35. Assuming that sales tax is included, how much money will Joe have left after the purchase?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特去商场，花了3.50美元买冰淇淋，为自己和妹妹各买了7.50美元的电影票，又花了8.50美元买了一条手链。如果她的父母给了她40美元，她还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Janet goes to the mall and spends $3.50 on ice cream, $7.50 each for movie tickets for herself and her younger sister, and $8.50 on a bracelet. If her parents gave her $40, how many dollars does she have left?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

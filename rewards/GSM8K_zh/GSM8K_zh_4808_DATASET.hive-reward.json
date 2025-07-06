@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布雷登和加文在对阵科尔和弗雷迪的触摸橄榄球比赛中。触摸橄榄球得分为7分。布雷登和加文得了7次触摸下，科尔和弗雷迪的队得了9次触摸下。科尔和弗雷迪比布雷登和加文多得了多少分？。",
+  "topic": "回答下面的数学问题：Brayden and Gavin were playing touch football against Cole and Freddy. Touchdowns were worth 7 points. Brayden and Gavin scored 7 touchdowns. Cole and Freddy's team scored 9 touchdowns. How many more points did Cole and Freddy have than Brayden and Gavin?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

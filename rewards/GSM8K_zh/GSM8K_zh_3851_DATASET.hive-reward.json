@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mark想要建一个四层高的苏打水箱金字塔。金字塔的每一层都有一个正方形底座，每一边都比上面的一层长一个箱子。顶层只有一个箱子。Mark需要多少箱苏打水？。",
+  "topic": "回答下面的数学问题：Mark wants to build a pyramid of soda cases that's four levels tall. Each level of the pyramid has a square base where each side is one case longer than the level above it. The top level is just one case. How many cases of soda does Mark need?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

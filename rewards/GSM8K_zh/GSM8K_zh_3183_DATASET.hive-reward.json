@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Brynlee夫人在当地政府给予该县小企业补贴后，将她商店里的物品价格降低了20%。如果商店里一件衬衫的价格是60美元，皮夹克的价格是90美元，请计算Teagan以降价购买5件衬衫和10件皮夹克的金额。。",
+  "topic": "回答下面的数学问题：Mrs. Brynlee reduced the prices of items in her store by 20% after the local government gave small businesses in her county a subsidy. If the price of a shirt in the store was $60 and that of the leather jacket was $90, calculate the amount of money Teagan will pay for buying 5 shirts and 10 leather jackets at the reduced prices.",
   "checkpoint": [
     {
-      "$\\boxed{960}$": 1
+      "\\boxed{960}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：柑橘园为种植季节制定了他们16个果园的计划。柠檬是他们最受欢迎的柑橘水果，将占据八个果园。橙子是他们第二受欢迎的水果，将占据柠檬果园数量的一半。青柠和葡萄柚将分割剩余的果园。将有多少柑橘果园种植葡萄柚？。",
+  "topic": "回答下面的数学问题：A citrus grove has laid out their plans for their sixteen orchards for the growing season. Lemons, their most popular citrus fruit, will take up eight orchards. Oranges are their second most popular fruit and will occupy half as many orchards as the lemons. Limes and grapefruits will split the remaining orchards. How many citrus orchards will be growing grapefruits?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

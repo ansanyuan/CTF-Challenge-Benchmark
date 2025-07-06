@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马修、帕特里克和阿尔文一起吃晚餐。马修吃的鸡蛋卷是帕特里克吃的三倍。帕特里克吃的鸡蛋卷是阿尔文吃的一半。如果阿尔文吃了4个鸡蛋卷，那马修吃了多少个？。",
+  "topic": "回答下面的数学问题：Matthew, Patrick and Alvin are eating dinner together. Matthew eats three times as many egg rolls as Patrick eats. Patrick eats half as many egg rolls as Alvin eats. If Alvin ate 4 egg rolls, how many did Matthew eat?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

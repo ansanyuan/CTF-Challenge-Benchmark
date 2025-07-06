@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个三角形的三个角的和为180度。其中一个角是最小角的两倍，另一个角是最小角的三倍。这个三角形中最大角的度数是多少？。",
+  "topic": "回答下面的数学问题：The three angles in a triangle add up to 180 degrees. One angle is twice the smallest angle, and one angle is three times the smallest angle. What is the measure of the largest angle in the triangle, in degrees?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

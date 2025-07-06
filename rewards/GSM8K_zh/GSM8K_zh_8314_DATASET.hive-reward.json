@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Patrick有三根部分使用过的胶棒。第一根剩下1/6，第二根剩下2/3，第三根剩下1/2。如果一根胶棒原本长12毫米，那么未使用的胶棒总长度是多少毫米？。",
+  "topic": "回答下面的数学问题：Patrick has three glue sticks that are partially used. One has 1/6 left, the second has 2/3 left and the third one has 1/2 left. If a glue stick is 12 millimeters long originally, what is the total length of the glue sticks that are not used?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

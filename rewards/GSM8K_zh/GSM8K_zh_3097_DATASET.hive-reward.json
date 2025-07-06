@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两天前，早上的温度每2小时上升1.5度。如果在凌晨3点温度为50度，那么上午11点的温度是多少？。",
+  "topic": "回答下面的数学问题：Two days ago, the temperature in the morning went up 1.5 degrees every 2 hours. If the temperature was 50 degrees at 3 A.M., what was the temperature at 11 A.M.?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

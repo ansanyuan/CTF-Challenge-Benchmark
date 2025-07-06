@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在保龄球比赛的第一轮中，帕特里克击倒了总共70个瓶，而理查德比帕特里克多击倒了15个瓶。在第二轮中，帕特里克击倒了比第一轮中的理查德多两倍的瓶，而理查德比帕特里克少3个瓶。理查德总共比帕特里克多击倒了多少个瓶？。",
+  "topic": "回答下面的数学问题：In the first round of bowling, Patrick knocked down a total of 70 pins and Richard knocked down 15 more pins than Patrick. In the second round, Patrick knocked down twice as many pins as Richard in the first round and Richard knocked down 3 less than Patrick. How many more pins in total did Richard knock down than Patrick?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

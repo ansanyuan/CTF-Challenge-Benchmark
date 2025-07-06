@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米开朗基罗有28个天花板需要粉刷。这个星期，他粉刷了其中的12个。下个星期，他将粉刷本周的四分之一的天花板。下个星期之后还剩下多少个天花板需要粉刷？。",
+  "topic": "回答下面的数学问题：Michelangelo has 28 ceilings to paint. This week, he paints 12 of them. Next week, he will paint 1/4 the number of ceilings he did this week. How many ceilings will be left to paint after next week?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

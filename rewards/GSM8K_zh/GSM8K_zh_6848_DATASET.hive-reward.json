@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：战争双方的士兵每天都需要10磅食物才能继续有效地作战。然而，第二方的士兵每人得到的食物比第一方少2磅。如果第一方有4000名士兵，而第二方比第一方少500名士兵，那么两方每天总共需要多少磅食物？。",
+  "topic": "回答下面的数学问题：The number of soldiers on opposite sides of a war each needs 10 pounds of food every day to continue fighting effectively. However, soldiers in the second are each given 2 pounds less food than the first side.  If the first side has 4000 soldiers and the other side 500 soldiers fewer than the first side, what's the total amount of pounds of food both sides are eating altogether every day?",
   "checkpoint": [
     {
-      "$\\boxed{68000}$": 1
+      "\\boxed{68000}": 1
     }
   ],
   "matchingmethod": [

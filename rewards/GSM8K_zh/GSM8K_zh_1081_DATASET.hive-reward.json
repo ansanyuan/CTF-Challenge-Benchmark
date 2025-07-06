@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在工程系，70%的学生是男性，有180名女性。有多少名男性？。",
+  "topic": "回答下面的数学问题：In the engineering department, 70% of the students are men and 180 are women. How many men are there?",
   "checkpoint": [
     {
-      "$\\boxed{420}$": 1
+      "\\boxed{420}": 1
     }
   ],
   "matchingmethod": [

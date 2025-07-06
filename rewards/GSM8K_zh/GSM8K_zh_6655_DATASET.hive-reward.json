@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰为他所有的学生买了2包索引卡。他有6个班，每个班有30名学生。他买了多少包？。",
+  "topic": "回答下面的数学问题：John buys 2 packs of index cards for all his students.  He has 6 classes and 30 students in each class.  How many packs did he buy?",
   "checkpoint": [
     {
-      "$\\boxed{360}$": 1
+      "\\boxed{360}": 1
     }
   ],
   "matchingmethod": [

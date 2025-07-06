@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：拉尔夫有一家唱片店，人们可以用自己的旧唱片交换新唱片。人们可以用2张旧唱片换取1张新唱片。有5个人带着旧唱片进来，他们一共换走了7张新唱片。这5个人一共带来了多少张旧唱片？。",
+  "topic": "回答下面的数学问题：Ralph has a record store where people can trade their own records for new ones. People can trade 2 old records for 1 new one. 5 people come in with old records and leave with 7 new records between them. How many old records did the 5 people bring in?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

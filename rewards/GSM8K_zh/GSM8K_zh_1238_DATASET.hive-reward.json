@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Laura正在举办一个洗车活动。她将对一辆汽车收取5美元，对一辆卡车收取6美元，对一辆SUV收取7美元。他们总共筹集了100美元。如果他们洗了5辆SUV和5辆卡车，他们洗了多少辆汽车？。",
+  "topic": "回答下面的数学问题：Laura is hosting a carwash. She will charge $5 for a car, $6 for a truck, and $7 for an SUV. They raised $100 in total. If they washed 5 SUVs and 5 trucks, how many cars did they wash?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚历克斯、斯坦和阿德沃尔夫正在尝试抓住所有的宝可梦。他们三个人一共抓到了339只宝可梦。亚历克斯比斯坦多抓了5只，而斯坦抓的数量比阿德沃尔夫的4倍少13只。斯坦抓了多少只宝可梦？。",
+  "topic": "回答下面的数学问题：Alex, Stan, and Adelwolfe are trying to catch them all, Pokemon that is.  Together they have caught 339 Pokemon.  Alex has caught 5 more than Stan, and Stan has caught 13 less than 4 times as many as Adelwolfe has caught. How many Pokemon has Stan caught?",
   "checkpoint": [
     {
-      "$\\boxed{147}$": 1
+      "\\boxed{147}": 1
     }
   ],
   "matchingmethod": [

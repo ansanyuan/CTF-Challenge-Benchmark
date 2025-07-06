@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Krystiana拥有一栋公寓楼。一楼的房间每月15美元，二楼的房间每月20美元。三楼的房间的价格是一楼的两倍，但只有两个房间被占用。如果每层有3个房间，Krystiana每个月能赚多少钱？。",
+  "topic": "回答下面的数学问题：Krystiana owns an apartment building. The rooms on the first floor cost $15 per month and the rooms on the 2nd floor cost $20 per month. The rooms on the third floor cost twice as much as the rooms on the first floor, but only two rooms are occupied. If each floor has 3 rooms, how much does Krystiana earn every month?",
   "checkpoint": [
     {
-      "$\\boxed{165}$": 1
+      "\\boxed{165}": 1
     }
   ],
   "matchingmethod": [

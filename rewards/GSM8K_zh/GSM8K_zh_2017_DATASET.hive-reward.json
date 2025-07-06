@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Vikki一周工作了42小时。她的小时工资是10美元。从她的周收入中，20%被扣除为税款，5%被扣除为保险费，而5美元被扣除为工会会费。在扣除后，Vikki带回家的钱数是多少美元？。",
+  "topic": "回答下面的数学问题：Vikki worked 42 hours in one week. Her hourly pay rate is $10. From her weekly earnings, 20% is deducted as tax, 5% is deducted as insurance cover, and $5 is deducted for union dues. How much money, in dollars, does Vikki take home after deductions?",
   "checkpoint": [
     {
-      "$\\boxed{310}$": 1
+      "\\boxed{310}": 1
     }
   ],
   "matchingmethod": [

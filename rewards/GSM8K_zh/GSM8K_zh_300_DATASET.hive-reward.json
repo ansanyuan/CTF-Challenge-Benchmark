@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Basil早上和睡前各得到1/2块狗饼干。她白天得到2整块饼干。Basil的饼干每盒有45块。她需要多少盒才能够持续30天？。",
+  "topic": "回答下面的数学问题：Basil gets 1/2 of a  dog cookie in the morning and before bed.  She gets 2 whole cookies during the day.  Basil’s cookies are packaged with 45 cookies per box.  How many boxes will she need to last her for 30 days?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

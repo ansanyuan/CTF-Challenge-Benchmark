@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Josh有一个设备，可以每5秒自动记录他实验室的温度。为了进行环境条件分析，Josh让设备记录了一个小时的数据。设备将记录多少次数据？。",
+  "topic": "回答下面的数学问题：Josh has a device that automatically records the temperature in his lab every 5 seconds. To perform an analysis of environmental conditions, Josh lets the device record data for one hour. How many instances of data will the device record?",
   "checkpoint": [
     {
-      "$\\boxed{720}$": 1
+      "\\boxed{720}": 1
     }
   ],
   "matchingmethod": [

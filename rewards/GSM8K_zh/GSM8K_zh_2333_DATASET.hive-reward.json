@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个火山爆发并向天空喷射灰烬。灰云在直径上扩散的距离是它喷射到天空的距离的十八倍。如果灰烬喷发到天空三百英尺，那么灰云的半径是多少英尺？。",
+  "topic": "回答下面的数学问题：A volcano erupts and spews ash into the sky. The ash cloud spreads out in a diameter eighteen times as far as the distance it shot up into the sky. If the ashes erupted three hundred feet into the sky, what was the radius of the ash cloud in feet?",
   "checkpoint": [
     {
-      "$\\boxed{2700}$": 1
+      "\\boxed{2700}": 1
     }
   ],
   "matchingmethod": [

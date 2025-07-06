@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：五年前，图书馆里有500本旧书。两年前，图书管理员买了300本书。去年，图书管理员比前一年多买了100本书。今年，图书管理员捐赠了图书馆的200本旧书。现在图书馆里有多少本书？。",
+  "topic": "回答下面的数学问题：Five years ago, there were 500 old books in the library. Two years ago, the librarian bought 300 books. Last year, the librarian bought 100 more books than she had bought the previous year. This year, the librarian donated 200 of the library's old books. How many books are in the library now?",
   "checkpoint": [
     {
-      "$\\boxed{1000}$": 1
+      "\\boxed{1000}": 1
     }
   ],
   "matchingmethod": [

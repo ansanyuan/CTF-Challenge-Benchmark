@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jeanette正在练习杂耍。每周她可以比上周多抛2个物体。如果她开始时可以抛3个物体，并且练习了5周，她可以抛多少个物体？。",
+  "topic": "回答下面的数学问题：Jeanette is practicing her juggling. Each week she can juggle 2 more objects than the week before. If she starts out juggling 3 objects and practices for 5 weeks, how many objects can she juggle?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

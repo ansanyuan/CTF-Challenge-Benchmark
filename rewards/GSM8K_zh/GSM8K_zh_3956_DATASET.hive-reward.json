@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sandra有2个不同的糖果袋。她的每个袋子里还剩6块糖果。她的弟弟罗杰也有2袋糖果。他的一袋糖果还剩11块，另一袋还剩3块。罗杰比桑德拉多了多少糖果？。",
+  "topic": "回答下面的数学问题：Sandra had 2 different bags of candy.  Each of her bags had 6 pieces of candy left.  Her brother, Roger, also had 2 bags of candy.  One of his bags of candy had 11 pieces left and the other had 3 pieces left.  How much more candy did Roger have?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

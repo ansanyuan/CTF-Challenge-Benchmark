@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Fran负责计算书籍俱乐部下一本书的选票，但她总是作弊，以便她喜欢的书被选中。最初，《权力的游戏》有10票，《暮光之城》有12票，《交易的艺术》有20票。Fran丢掉了《交易的艺术》80%的选票和《暮光之城》一半的选票。经过修改的选票中，百分之多少是给了《权力的游戏》？。",
+  "topic": "回答下面的数学问题：Fran is in charge of counting votes for the book club's next book, but she always cheats so her favorite gets picked. Originally, there were 10 votes for Game of Thrones, 12 votes for Twilight, and 20 votes for The Art of the Deal. Fran throws away 80% of the votes for The Art of the Deal and half the votes for Twilight. What percentage of the altered votes were for Game of Thrones?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

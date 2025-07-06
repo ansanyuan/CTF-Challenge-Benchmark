@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果一个猜测者抛硬币211次，其中65次出现正面，他得到了比正面多多少次的反面？。",
+  "topic": "回答下面的数学问题：If a solver flips a coin 211 times and gets a head on 65 of the flips, how many more tails than heads did he get?",
   "checkpoint": [
     {
-      "$\\boxed{81}$": 1
+      "\\boxed{81}": 1
     }
   ],
   "matchingmethod": [

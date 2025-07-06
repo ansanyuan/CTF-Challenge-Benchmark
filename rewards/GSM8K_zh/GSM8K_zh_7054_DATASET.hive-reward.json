@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个魔术师有一个装有20颗红色弹珠的高帽和一个装有30颗蓝色弹珠的高帽。如果他拿走了3颗红色弹珠和4倍于红色弹珠数量的蓝色弹珠（不看的情况下），他总共剩下多少颗弹珠？。",
+  "topic": "回答下面的数学问题：A magician has a top hat with 20 red marbles and a top hat with 30 blue marbles. If he takes away 3 red marbles and four times as many blue marbles as red marbles (without looking), how many marbles in total does he have left?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安迪需要从盐湖城开车到洛杉矶。从盐湖城到拉斯维加斯的路程是420英里。从拉斯维加斯到洛杉矶的路程是273英里。他希望在11小时内完成这段行程。安迪需要以多少的平均最低速度才能在11小时内到达洛杉矶？。",
+  "topic": "回答下面的数学问题：Andy needs to drive from Salt Lake City to Los Angeles. The drive from Salt Lake City to Las Vegas is 420 miles. The drive from Las Vegas to Los Angeles is 273 miles. He wants to make the drive in 11 hours. What's the average minimum speed that Andy needs to drive to reach Los Angeles in 11 hours?",
   "checkpoint": [
     {
-      "$\\boxed{63}$": 1
+      "\\boxed{63}": 1
     }
   ],
   "matchingmethod": [

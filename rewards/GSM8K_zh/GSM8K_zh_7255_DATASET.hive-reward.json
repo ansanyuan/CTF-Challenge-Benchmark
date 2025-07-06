@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亨利的音乐CD收藏中，乡村音乐CD比摇滚音乐CD多3张，但摇滚音乐CD的数量是古典音乐CD的两倍。如果他有23张乡村音乐CD，他的收藏中有多少张古典音乐CD？。",
+  "topic": "回答下面的数学问题：In Henry's collection of music CDs, he has 3 more country CDs than rock CDs but twice as many rock CDs as classical CDs. If he has 23 country CDs, how many classical CDs make up his collection?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

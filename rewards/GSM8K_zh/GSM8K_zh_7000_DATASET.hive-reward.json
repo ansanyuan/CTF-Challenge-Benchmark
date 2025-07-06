@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯决定他需要开始多吃蔬菜。他开始每天吃1/4磅的芦笋和1/4磅的西兰花。两周后，他将这个数量加倍，并每周再增加3磅的羽衣甘蓝。在添加羽衣甘蓝后，他每周吃多少磅的蔬菜？。",
+  "topic": "回答下面的数学问题：James decides he needs to start eating more vegetables.  He starts by eating a quarter pound of asparagus and a quarter pound of broccoli per day.  After 2 weeks, he doubles that amount and adds 3 pounds of kale per week.  How many pounds of vegetables does he eat a week after adding the kale?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cody去商店买了价值40美元的东西。税率是5%。税后，他得到了8美元的折扣。Cody和他的朋友平分了最终价格。Cody支付了多少钱？。",
+  "topic": "回答下面的数学问题：Cody goes to the store and buys $40 worth of stuff.  The taxes were 5%.  After taxes, he got an $8 discount.  Cody and his friend split the final price equally. How much did Cody pay?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

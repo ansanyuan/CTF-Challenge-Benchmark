@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安娜用了四个烤盘来烤纸杯蛋糕。每个烤盘有20个纸杯蛋糕，每个纸杯蛋糕售价为2美元。如果只有5分之3的纸杯蛋糕被卖出，剩下的被保留了，安娜从中赚了多少钱？。",
+  "topic": "回答下面的数学问题：Anna used four baking trays to bake cupcakes. Each tray has 20 cupcakes and each cupcake was then sold for $2. If only 3/5 of the cupcakes were sold and the rest were kept, how much did Anna earn from it?",
   "checkpoint": [
     {
-      "$\\boxed{96}$": 1
+      "\\boxed{96}": 1
     }
   ],
   "matchingmethod": [

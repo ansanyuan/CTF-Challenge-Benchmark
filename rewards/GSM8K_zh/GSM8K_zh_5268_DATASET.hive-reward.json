@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯买了一加仑牛奶花了3美元，一串香蕉花了2美元，并支付了20%的销售税。詹姆斯一共花了多少钱？。",
+  "topic": "回答下面的数学问题：James bought a gallon of milk for $3, a bunch of bananas for $2, and paid 20% sales tax. How much money did James spend?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

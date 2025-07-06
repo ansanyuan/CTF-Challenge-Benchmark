@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：考虑到他的汽车折旧成本，约翰通过Uber赚了30000美元。当他最终以18000美元购买的汽车换车时，他得到了6000美元。他从开Uber中获得的利润是多少？。",
+  "topic": "回答下面的数学问题：Without factoring in the cost of depreciation for his car John made $30,000 doing Uber.  When he finally traded in the car he bought for $18,000 he got $6000 back.  What was his profit from driving Uber?",
   "checkpoint": [
     {
-      "$\\boxed{18000}$": 1
+      "\\boxed{18000}": 1
     }
   ],
   "matchingmethod": [

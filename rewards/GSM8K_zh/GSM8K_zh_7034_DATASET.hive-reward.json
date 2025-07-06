@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一组保安被雇佣在工厂的夜班。四名保安同意轮班安排来覆盖夜班的九个小时。第一名保安将负责三个小时，因为他们还清醒着，最后一名保安将早早醒来并负责两个小时，而中间的两名保安将分担剩下的时间。每名中间的保安将负责多少小时？。",
+  "topic": "回答下面的数学问题：A group of security guards were hired for the night shift at a factory. The four guards agreed to a rotating schedule to cover the nine hours of the night shift. The first guard would take three hours since they were still awake, the last guard would wake up early and take two hours, and the middle two guards would split the remaining hours. How many hours will each middle guard take?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

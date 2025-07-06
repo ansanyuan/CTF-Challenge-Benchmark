@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比利正在数两棵树的年轮。这个地区的气候波动意味着每棵树的年轮分为两个粗年轮和四个细年轮一组。如果比利在第一棵树中数了70组年轮，第二棵树中数了40组年轮，第一棵树比第二棵树老多少岁？（树每年长一环。）。",
+  "topic": "回答下面的数学问题：Billy is counting the rings in two trees. Weather fluctuations in this area mean that each tree's rings are in groups of two fat rings and four thin rings. If Billy counts 70 ring groups in the first tree and 40 ring groups in the second tree, how much older is the first tree? (Trees grow 1 ring per year.)",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

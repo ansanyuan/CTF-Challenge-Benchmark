@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ruby打算晚餐点披萨。她的儿子只吃意大利辣香肠披萨。她的女儿只吃香肠披萨。Ruby和她丈夫想要黑橄榄和蘑菇披萨。为了简化生活，Ruby决定为她的每个孩子点一整个披萨，她和丈夫分享一整个。披萨店每个披萨收费10.00美元，每种配料1.00美元。她还需要加5.00美元的小费。包括小费，披萨订单总共要花费多少钱？。",
+  "topic": "回答下面的数学问题：Ruby was going to order pizza for dinner.  Her son would only eat pepperoni pizza.  Her daughter would only eat sausage.  Ruby and her husband wanted black olive and mushroom pizza.  To make life easy, Ruby decided to order an entire pizza for each of her children and she would split one with her husband.  The pizza restaurant charged $10.00 per pizza and $1.00 per topping.  She also needed to add a $5.00 tip.  Including tip, how much would the pizza order cost?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

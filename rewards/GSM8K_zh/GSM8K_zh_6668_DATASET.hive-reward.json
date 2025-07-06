@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：瑞秋正在写一篇文章。她每30分钟写一页。她花了45分钟研究这个主题。她一共写了6页。然后她花了75分钟编辑她的文章。她一共花了多少小时完成这篇文章？。",
+  "topic": "回答下面的数学问题：Rachel is writing an essay.  She writes 1 page every 30 minutes.  She spends 45 minutes researching the topic.  She writes a total of 6 pages.  Then she spends 75 minutes editing her essay.  Altogether, how many hours did she spend completing the essay?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

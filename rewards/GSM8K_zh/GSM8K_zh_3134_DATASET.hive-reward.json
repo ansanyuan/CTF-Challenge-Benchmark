@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三姐妹莫拉莱斯每人都拥有一个有110棵树的橙园。每棵橙树都能生产中等大小的橙子。在收获季节，加布里埃拉的果园每棵树产出600个橙子，而阿尔巴每棵树产出400个橙子。玛丽塞拉的每棵树产出500个橙子。有了如此丰富的收成，三姐妹打算制作橙汁出售。如果需要3个中等大小的橙子制作1杯橙汁，然后他们每杯售价4美元，他们将赚多少钱？。",
+  "topic": "回答下面的数学问题：Each of the three Morales sisters owns an orange grove that has 110 trees. Each orange tree produces medium-sized oranges. At harvest time, Gabriela's grove produced 600 oranges per tree, while Alba harvested 400 per tree. Each of Maricela's trees produced 500 oranges. With such a huge harvest, the sisters are thinking of making orange juice for sale. If it takes three medium-sized oranges to make 1 cup of juice, and then they sell each cup for $4, how much money will they make?",
   "checkpoint": [
     {
-      "$\\boxed{220000}$": 1
+      "\\boxed{220000}": 1
     }
   ],
   "matchingmethod": [

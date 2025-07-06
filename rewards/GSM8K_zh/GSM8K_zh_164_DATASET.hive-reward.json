@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯加入了一支橄榄球队并成为了明星。他每场比赛能得4次触地得分，每次触地得分6分。赛季中有15场比赛。他还在赛季中成功得到了6次2分转换。之前的记录是赛季中得到300分。詹姆斯超过了之前的记录多少分？。",
+  "topic": "回答下面的数学问题：James joins a football team and becomes the star.  He scores 4 touchdowns per game and each touchdown is worth 6 points.  There are 15 games in the season.  He also manages to score 2 point conversions 6 times during the season.  The old record was 300 points during the season.  How many points did James beat the old record by?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

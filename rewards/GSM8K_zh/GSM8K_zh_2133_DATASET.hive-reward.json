@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：篮球队卖了50个每个2美元的杯糕和40个每个0.5美元的饼干。然后他们销售的钱用来买两个每个40美元的篮球。剩下的钱用来买20瓶能量饮料。一瓶能量饮料多少钱？。",
+  "topic": "回答下面的数学问题：The basketball team sold 50 cupcakes for $2 each and 40 cookies for $0.5 each. Then the money from their sales was used to buy two basketballs that cost $40 each. The rest of the money was used to buy 20 bottles of energy drinks. How much does a bottle of energy drink cost?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：切斯特必须向布朗农场主交付十捆干草。布朗农场主希望切斯特提供更好质量的干草，并将干草的交付数量加倍。如果之前的干草每捆的成本是15美元，而更好质量的干草每捆的成本是18美元，布朗农场主需要多少钱来满足他自己的新要求？。",
+  "topic": "回答下面的数学问题：Chester must deliver ten bales of hay to Farmer Brown. Farmer Brown wants Chester to supply better quality hay and double the delivery of bales of hay. If the previous hay cost $15 per bale, and the better quality one cost $18 per bale, how much more money will Farmer Brown need to meet his own new requirements?",
   "checkpoint": [
     {
-      "$\\boxed{210}$": 1
+      "\\boxed{210}": 1
     }
   ],
   "matchingmethod": [

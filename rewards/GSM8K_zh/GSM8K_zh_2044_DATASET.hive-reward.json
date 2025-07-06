@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：威廉上个月读了6本书，布拉德读的书是威廉的三倍。这个月，为了赶上，威廉读的书是布拉德的两倍，而布拉德读了8本书。在过去两个月中，谁读的书更多，多了多少？。",
+  "topic": "回答下面的数学问题：William read 6 books last month and Brad read thrice as many books as William did. This month, in an effort to catch up, Williams read twice as much as Brad, who read 8 books. Who has read more across the two months, and by how much?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

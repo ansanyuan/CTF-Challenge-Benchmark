@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰计划卖掉他所有的玩具，用这些钱来买视频游戏。他有13套乐高，每套卖15美元。他最终买了8个视频游戏，每个20美元，并且还剩下5美元。他还剩下多少套乐高？。",
+  "topic": "回答下面的数学问题：John plans to sell all his toys and use the money to buy video games. He has 13 lego sets and he sells them for $15 each. He ends up buying 8 video games for $20 each and has $5 left. How many lego sets does he still have?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

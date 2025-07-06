@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈维开始有25块牛排。然后他卖了一些，只剩下12块牛排。他又卖了4块牛排，每块10美元。他总共卖了多少块牛排？。",
+  "topic": "回答下面的数学问题：Harvey's started out with 25 steaks. Then he sold some, and only had 12 steaks left. He sold 4 more steaks, at 10 dollars. How many steaks did he sell in all?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

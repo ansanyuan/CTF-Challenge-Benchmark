@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克需要拖洗浴室和厨房。如果浴室地板面积为24平方英尺，厨房地板面积为80平方英尺，杰克每分钟可以拖洗8平方英尺，他需要花多少分钟来拖洗？。",
+  "topic": "回答下面的数学问题：Jack needs to mop the bathroom and the kitchen. If the bathroom floor is 24 square feet and the kitchen floor is 80 square feet, and Jack can mop 8 square feet per minute, how many minutes does he spend mopping?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

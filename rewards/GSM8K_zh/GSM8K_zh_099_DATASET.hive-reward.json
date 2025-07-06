@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hector购买了一罐口香糖。他给了托德4颗，然后给了阿丽莎的数量是他给托德的两倍，然后给了鲍比的数量比他给阿丽莎的数量少5颗，是他给阿丽莎的数量的四倍。如果赫克托剩下6颗口香糖，那么赫克托购买的口香糖总数是多少？。",
+  "topic": "回答下面的数学问题：Hector purchased a container of gumballs.  He gave 4 to Todd, then he gave twice as many as he had given Todd to Alisha, and then he gave 5 less than four times as many to Bobby as he had given to Alisha.  If Hector had 6 gumballs remaining, what is the total number of gumballs that Hector purchased?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

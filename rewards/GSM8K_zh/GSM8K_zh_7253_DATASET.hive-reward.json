@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在北卡罗来纳州，吉姆以每加仑2.00美元的价格购买了10加仑的汽油。在弗吉尼亚州，他每加仑多支付了1.00美元，他又购买了10加仑的汽油。他一共花了多少钱买汽油？。",
+  "topic": "回答下面的数学问题：In North Carolina, Jim bought 10 gallons of gas at $2.00/gallon.  He paid $1.00 more per gallon in Virginia where he bought another 10 gallons of gas.  How much has he spent on gas?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

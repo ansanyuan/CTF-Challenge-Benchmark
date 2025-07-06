@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽想要体验世界上最高的过山车Kingda Ka。乘坐过山车的最低身高要求是140厘米。玛丽的哥哥身高是180厘米，而玛丽的身高是她哥哥的2/3。玛丽还需要再长多少厘米才能乘坐Kingda Ka？。",
+  "topic": "回答下面的数学问题：Mary wants to ride the world's tallest roller coaster, Kingda Ka. The minimum height to ride the roller coaster is 140 cm. Mary's brother is 180 cm, Mary is 2/3 the height of her brother. How many more centimeters does Mary need to grow to ride Kingda Ka?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

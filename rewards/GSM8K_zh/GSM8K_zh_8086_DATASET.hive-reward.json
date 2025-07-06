@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：篮球队去牛排馆吃晚餐。第一位球员吃了一块6盎司的牛排。第二位球员吃了含有8个牛肉尖的牛肉，每个牛肉尖都是一盎司重。第三位球员吃了一磅重的牛排。第四位和第五位球员点了素食餐。球队总共消耗了多少盎司的肉？。",
+  "topic": "回答下面的数学问题：The basketball team went to the steakhouse to eat dinner.  The first player ate a 6-ounce steak.  The second player ate beef tips, containing 8 beef tips, each an ounce in size.  The third player ate a one-pound steak.  And the fourth and fifth players ordered vegetarian meals.  In total, how many ounces of meat were consumed by the team?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安娜可以在1分钟内读1页。卡罗尔可以和安娜一样快地阅读，但是速度是布里安娜的一半。布里安娜读完一本100页的书需要多长时间？。",
+  "topic": "回答下面的数学问题：Anna can read 1 page in 1 minute. Carole can read as fast as Anna but at half the speed of Brianna. How long does it take Brianna to read a 100-page book?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

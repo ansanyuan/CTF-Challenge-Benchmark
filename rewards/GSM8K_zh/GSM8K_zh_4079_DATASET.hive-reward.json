@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个学年开始时，一个班级里有15个男孩，女孩的数量比男孩多20%。后来，转学生被录取，女孩的数量翻了一番，但男孩的数量保持不变。现在班级里有多少学生？。",
+  "topic": "回答下面的数学问题：At the beginning of an academic year, there were 15 boys in a class and the number of girls was 20% greater. Later in the year, transfer students were admitted such that the number of girls doubled but the number of boys remained the same. How many students are in the class now?",
   "checkpoint": [
     {
-      "$\\boxed{51}$": 1
+      "\\boxed{51}": 1
     }
   ],
   "matchingmethod": [

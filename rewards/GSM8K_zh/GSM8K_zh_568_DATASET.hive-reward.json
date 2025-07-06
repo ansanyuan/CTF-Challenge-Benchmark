@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莉莉丝原本有五打水瓶，她需要以每瓶2美元的价格出售才能正好凑够买她朋友的生日礼物所需的钱。然而，在商店里，莉莉丝意识到她不能以2美元的价格出售，因为她所在城镇的水瓶的正常价格是每瓶1.85美元，她也必须将价格降至1.85美元才能出售她的水瓶。在以降价出售她的水瓶后，计算莉莉丝需要找到多少钱来买她朋友的生日礼物。。",
+  "topic": "回答下面的数学问题：Lilith originally had five dozen water bottles that she needed to sell at $2 each to get exactly enough money to buy her friend a birthday gift. However, at the store, Lilith realized she could not sell at $2 because the regular price was $1.85 per water bottle in her town, and she had to reduce her price to $1.85 as well to sell her water bottles. Calculate the total amount of money Lilith will have to find to buy her friend the birthday gift after selling her water bottles at the reduced cost.",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Frankie和Binkie一起去打保龄球。Frankie的得分是Binkie的两倍还多15分。如果Binkie的得分是90分，那么Frankie的得分是多少？。",
+  "topic": "回答下面的数学问题：Frankie and Binkie went bowling together.  Frankie's score was 15 better more than twice as high as Binkie's. If Binkie bowled a score of 90, what was Frankie's score?",
   "checkpoint": [
     {
-      "$\\boxed{195}$": 1
+      "\\boxed{195}": 1
     }
   ],
   "matchingmethod": [

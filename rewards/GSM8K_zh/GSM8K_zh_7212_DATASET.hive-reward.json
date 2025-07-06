@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cary试图剥离她院子里树上的常春藤。她每天剥离6英尺的常春藤，但每天晚上常春藤又长出2英尺。如果树上覆盖了40英尺的常春藤，Cary需要多少天才能剥离所有的常春藤？。",
+  "topic": "回答下面的数学问题：Cary is trying to strip the ivy off a tree in her yard. She strips 6 feet of ivy every day, but the ivy grows another 2 feet every night. If the tree is covered by 40 feet of ivy, how many days will it take Cary to strip all the ivy off?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

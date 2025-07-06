@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tanesha需要购买绳子，以便切成10段，每段长6英寸。她看到一根长6英尺的绳子售价5美元，还看到一英尺长的绳子，每根售价1.25美元。她至少需要花多少钱才能买到她需要的绳子？。",
+  "topic": "回答下面的数学问题：Tanesha needs to buy rope so cut into 10 pieces that are each six inches long. She sees a 6-foot length of rope that cost $5 and also sees 1-foot lengths of rope that cost $1.25 each. What is the least she has to spend to get the rope she needs?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

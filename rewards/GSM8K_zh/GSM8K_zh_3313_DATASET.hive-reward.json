@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯主持一档电视节目，有5个主要角色和4个配角。他每集支付配角15000美元。他支付主要角色的金额是配角的三倍。他每集支付多少钱？。",
+  "topic": "回答下面的数学问题：James runs a TV show and there are 5 main characters and 4 minor characters.  He pays the minor characters $15,000 each episode.  He paid the major characters three times as much.  How much does he pay per episode?",
   "checkpoint": [
     {
-      "$\\boxed{285000}$": 1
+      "\\boxed{285000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Shelly在学校为她的朋友们编织了穿线钥匙扣。每个钥匙扣需要12英寸的线来编织。今年，她在课堂上交了六个朋友，课后俱乐部的朋友数量是课堂上的一半。她想给每个人都做一个钥匙扣。Shelly需要多少英寸的线？。",
+  "topic": "回答下面的数学问题：Shelly makes braided keychains for her friends at school. Each keychain takes 12 inches of thread to braid. This year, she made six friends in classes and half that number from after-school clubs. She wants to make each of them a keychain. How many inches of thread does Shelly need?",
   "checkpoint": [
     {
-      "$\\boxed{108}$": 1
+      "\\boxed{108}": 1
     }
   ],
   "matchingmethod": [

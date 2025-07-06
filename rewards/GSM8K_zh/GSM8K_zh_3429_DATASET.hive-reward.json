@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔治购买了24张票，每张票7美元。由于购买了这么多，他获得了50%的折扣。他购买票花了多少美元？。",
+  "topic": "回答下面的数学问题：Jorge bought 24 tickets for $7 each. For purchasing so many, he is given a discount of 50%. How much, in dollars, did he spend on tickets?",
   "checkpoint": [
     {
-      "$\\boxed{84}$": 1
+      "\\boxed{84}": 1
     }
   ],
   "matchingmethod": [

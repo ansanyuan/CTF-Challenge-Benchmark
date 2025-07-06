@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克与5个人是笔友。他停止与其中2个人做笔友。他们每人每周发送2封信，每封信有5页。他也做出了相应的回复。他每6分钟可以写一页。他每周花多少小时写信？。",
+  "topic": "回答下面的数学问题：Mike was a pen pal with 5 people.  He stopped being penpals with 2 of them.  They each send 2 letters a week that are 5 pages long.  He responds in kind.  He can write a page every 6 minutes.  How many hours does he spend writing a week?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

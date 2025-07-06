@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Clara正在出售饼干礼盒，以筹集学校旅行的资金。有3种不同类型的饼干出售。第一种类型每盒有12块饼干。第二种类型每盒有20块饼干，第三种类型每盒有16块饼干。如果Clara卖出了50盒第一种类型的饼干，80盒第二种类型的饼干和70盒第三种类型的饼干，她一共卖出了多少块饼干？。",
+  "topic": "回答下面的数学问题：Clara is selling boxes of cookies to raise money for a school trip. There are 3 different types for sale. The first type has 12 cookies per box. The second type has 20 cookies per box, and the third type has 16 cookies per box. If Clara sells 50 boxes of the first type, 80 boxes of the second type, and 70 boxes of the third type, how many cookies does she sell?",
   "checkpoint": [
     {
-      "$\\boxed{3320}$": 1
+      "\\boxed{3320}": 1
     }
   ],
   "matchingmethod": [

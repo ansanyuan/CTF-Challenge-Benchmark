@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍勃和凯特去餐馆吃晚餐。吃完后，女服务员给了鲍勃30美元的账单，给了凯特25美元的账单，但告诉他们他们有资格获得特别折扣；鲍勃5%，凯特2%。考虑到折扣，他们总共需要支付多少钱？。",
+  "topic": "回答下面的数学问题：Bob and Kate went to a restaurant for dinner. After they were done eating the waitress gave a $30 bill to Bob and a $25 bill to Kate, but told them they were eligible for special discounts; 5% for Bob, 2% for Kate. Considering the discounts, how much do they have to pay in total?",
   "checkpoint": [
     {
-      "$\\boxed{53}$": 1
+      "\\boxed{53}": 1
     }
   ],
   "matchingmethod": [

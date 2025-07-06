@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一场比赛中，有人骑自行车和三轮车竞争，以赢得4000美元的大奖。如果比赛中有40人，其中3/5的人骑自行车，那么比赛中自行车和三轮车共有多少个轮子？。",
+  "topic": "回答下面的数学问题：A competition has racers competing on bicycles and tricycles to win a grand prize of $4000. If there are 40 people in the race, and 3/5 of them are riding on bicycles, how many wheels do the bicycles and tricycles in the race have combined?",
   "checkpoint": [
     {
-      "$\\boxed{96}$": 1
+      "\\boxed{96}": 1
     }
   ],
   "matchingmethod": [

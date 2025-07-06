@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安娜穿2号尺寸。她的朋友贝基穿的尺寸是安娜的三倍。吉尔穿的尺寸是贝基的两倍减4。吉尔穿多大号的尺寸？。",
+  "topic": "回答下面的数学问题：Anna wears a size 2. Her friend Becky wears a size three times larger than Anna's. Ginger wears a size twice Becky's size minus 4. What size does Ginger wear?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

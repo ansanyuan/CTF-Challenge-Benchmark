@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡琳娜1970年出生，目前她的年龄是她弟弟的两倍。如果她目前的年龄是40岁，那么她弟弟是在哪一年出生的？。",
+  "topic": "回答下面的数学问题：Karina was born in 1970 and she is currently twice as old as her brother. If her current age is 40, in what year was her brother born?",
   "checkpoint": [
     {
-      "$\\boxed{1990}$": 1
+      "\\boxed{1990}": 1
     }
   ],
   "matchingmethod": [

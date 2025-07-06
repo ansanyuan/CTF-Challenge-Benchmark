@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了制作1升果汁，Sam需要5公斤橙子。每公斤橙子的成本是3美元。Sam要制作4升果汁需要花费多少钱？。",
+  "topic": "回答下面的数学问题：To make 1 liter of juice, Sam needs 5 kilograms of oranges. Each kilogram of oranges costs $3. How much money would Sam have to spend to make 4 liters of juice?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

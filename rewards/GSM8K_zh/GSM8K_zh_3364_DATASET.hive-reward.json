@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约瑟夫有许多不同颜色的袜子。他的抽屉里塞满了红色、蓝色、黑色和白色的袜子。不确定每种颜色的袜子有多少双，他开始整理袜子。他发现他有比黑色袜子多3双蓝色袜子。他比白色袜子少一双红色袜子。他的蓝色袜子是红色袜子的两倍。他数了一共6双红色袜子。约瑟夫一共有多少双袜子？。",
+  "topic": "回答下面的数学问题：Joseph had socks of many different colors. His dresser drawer was filled to overflowing with red, blue, black, and white socks. Uncertain of how many pairs he had of each color, he began to sort his socks. He discovered that he had three more pairs of blue socks than he had pairs of black socks.  He had one less pair of red socks than he had pairs of white socks. He had twice as many blue socks as he had of red socks. And he counted a total of 6 red socks.  What is the total number of Joseph's socks?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

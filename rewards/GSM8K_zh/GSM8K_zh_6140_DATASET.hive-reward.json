@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗斯是一位有抱负的艺术家。她想要一支价值2.40美元的画笔，一套价值9.20美元的颜料和一幅价值6.50美元的画架，这样她就可以做一些绘画了。罗斯已经有7.10美元了。她还需要多少钱？。",
+  "topic": "回答下面的数学问题：Rose is an aspiring artist. She wants a paintbrush that costs $2.40, a set of paints that costs $9.20, and an easel that costs $6.50 so she can do some paintings. Rose already has $7.10. How much more money does Rose need?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

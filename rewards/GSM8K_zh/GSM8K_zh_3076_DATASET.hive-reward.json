@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯正在进行一项募捐活动，出售糖果棒。每盒里有10根糖果棒。他卖了5盒。他每根糖果棒卖1.50美元，每根糖果棒的成本是1美元。他从这些销售中赚了多少利润？。",
+  "topic": "回答下面的数学问题：James is running a fundraiser selling candy bars.  Each box has 10 candy bars in it.  He sells 5 boxes.  He sells each candy bar for $1.50 and buys each bar for $1. How much profit does he make from these sales?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

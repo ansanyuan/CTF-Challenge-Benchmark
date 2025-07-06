@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：碗里有285颗糖果。如果有49颗糖果是红色的，59颗糖果是绿色的，那么有多少颗糖果既不是红色也不是绿色的？。",
+  "topic": "回答下面的数学问题：There are 285 sweets in the bowl. If 49 of the sweets are red and 59 of the sweets are green, how many of the sweets are neither red nor green?",
   "checkpoint": [
     {
-      "$\\boxed{177}$": 1
+      "\\boxed{177}": 1
     }
   ],
   "matchingmethod": [

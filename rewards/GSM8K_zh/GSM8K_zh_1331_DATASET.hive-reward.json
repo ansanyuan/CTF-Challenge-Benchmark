@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨拉比她的弟弟乔高6英寸。乔比他的朋友罗伊高3英寸。如果罗伊身高36英寸，那么萨拉有多高？。",
+  "topic": "回答下面的数学问题：Sara is 6 inches taller than her brother Joe. Joe is 3 inches taller than his friend Roy. If Roy is 36 inches tall, how tall is Sara?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

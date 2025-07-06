@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个水果篮包括4根香蕉，3个苹果，24个草莓，2个鳄梨和一串葡萄。一根香蕉的价格是1美元。一个苹果的价格是2美元。12个草莓的价格是4美元。一个鳄梨的价格是3美元，半串葡萄的价格是2美元。水果篮的总成本是多少？。",
+  "topic": "回答下面的数学问题：A fruit basket consists of 4 bananas, 3 apples, 24 strawberries, 2 avocados, and a bunch of grapes. One banana costs $1. An apple costs $2. 12 strawberries cost $4. An avocado costs $3, and half a bunch of grapes costs $2. What is the total cost of the fruit basket?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

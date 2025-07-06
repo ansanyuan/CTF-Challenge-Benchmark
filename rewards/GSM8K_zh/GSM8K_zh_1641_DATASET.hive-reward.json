@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在万圣节，塔昆、麦克和贾法里把他们的糖果放在一起，他们一共有418块糖果。如果塔昆和麦克各有171块糖果，贾法里最初有多少块糖果？。",
+  "topic": "回答下面的数学问题：For Halloween, Taquon, Mack and Jafari put their candy together and they had 418 pieces of candy. If Taquon and Mack each had 171 pieces of candy, how many pieces of candy did Jafari start with?",
   "checkpoint": [
     {
-      "$\\boxed{76}$": 1
+      "\\boxed{76}": 1
     }
   ],
   "matchingmethod": [

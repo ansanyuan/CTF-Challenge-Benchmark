@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉尔正在给她的20个脚趾甲和指甲涂指甲油。她涂了6个紫色的指甲，8个蓝色的指甲，其余的是条纹的。涂蓝色指甲和涂条纹指甲的百分比之间的百分点差是多少？。",
+  "topic": "回答下面的数学问题：Jill is painting her 20 toenails and fingernails. She paints 6 of her nails purple, 8 of them blue, and the rest striped. What is the difference in percentage points between the percentage of nails painted blue and the percentage painted striped?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

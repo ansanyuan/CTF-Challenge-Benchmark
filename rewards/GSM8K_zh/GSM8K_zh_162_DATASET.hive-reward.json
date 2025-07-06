@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：该镇的年度预算总额为3200万美元。如果预算的一半用于警务，1200万美元用于教育。剩下多少钱用于管理公共空间？。",
+  "topic": "回答下面的数学问题：The town’s annual budget totals $32 million. If half of the budget goes towards policing and $12 million goes towards education. How much money is left for managing public spaces?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

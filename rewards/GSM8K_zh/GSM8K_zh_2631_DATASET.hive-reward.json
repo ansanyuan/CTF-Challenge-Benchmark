@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡特有一次14小时的路程。他想每2小时停下来伸展一下腿。他还想额外停2次吃饭和额外停3次加油。如果每次停车需要20分钟，他的路程将变成多少小时？。",
+  "topic": "回答下面的数学问题：Carter has a 14-hour road trip.  He wants to stop every 2 hours to stretch his legs.  He also wants to make 2 additional stops for food and 3 additional stops for gas.  If each pit stop takes 20 minutes, how many hours will his road trip become?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

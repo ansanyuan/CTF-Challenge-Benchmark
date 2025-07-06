@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两个女孩每人得到了24升水的1/6。然后一个男孩得到了6升水。剩下多少升水？。",
+  "topic": "回答下面的数学问题：Two girls each got 1/6 of the 24 liters of water. Then a boy got 6 liters of water. How many liters of water were left?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿尔贝托花了2457美元买了一台新引擎给他的车。萨玛拉花了25美元买了机油，467美元买了轮胎，79美元做了车辆清洁。阿尔贝托比萨玛拉多花了多少美元在他的车上？。",
+  "topic": "回答下面的数学问题：Alberto spent $2457 on a new engine for his car. Samara spent $25 on oil, $467 on tires and $79 on detailing for her car. How many more dollars did Alberto spend on his car?",
   "checkpoint": [
     {
-      "$\\boxed{1886}$": 1
+      "\\boxed{1886}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kylie收藏了34张邮票。她的朋友Nelly比Kylie多44张邮票。Kylie和Nelly一共有多少张邮票？。",
+  "topic": "回答下面的数学问题：Kylie has 34 stamps in her collection. Her friend, Nelly, has 44 more stamps than Kylie. How many stamps do Kylie and Nelly have together?",
   "checkpoint": [
     {
-      "$\\boxed{112}$": 1
+      "\\boxed{112}": 1
     }
   ],
   "matchingmethod": [

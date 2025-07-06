@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hank正在为当地的无家可归者收容所筹集资金。Hank在洗车活动中赚了100美元，并将90%的收入捐赠给当地的无家可归者收容所。Hank在烘焙售卖中赚了80美元，并将75%的收入捐赠给当地的无家可归者收容所。然后他在割草中赚了50美元，并将100%的收入捐赠给当地的无家可归者收容所。Hank总共捐赠了多少钱？。",
+  "topic": "回答下面的数学问题：Hank is raising money for the local homeless shelter. Hank makes $100 in a carwash and donates 90% of the proceeds to the local homeless shelter. Hank makes $80 in a bake sale and donates 75% of the proceeds to the local homeless shelter. Then he makes $50 mowing lawns and donates 100% of the proceeds to the local homeless shelter. How much money does Hank donate in total?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

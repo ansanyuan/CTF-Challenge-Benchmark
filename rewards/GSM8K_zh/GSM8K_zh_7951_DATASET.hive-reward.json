@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gina班上有9个孩子对乳制品过敏，6个孩子对花生过敏，3个孩子对两者都过敏。如果她班上有32个孩子，那么有多少孩子对任何东西都不过敏？。",
+  "topic": "回答下面的数学问题：Nine of the kids in Gina's class are allergic to dairy, 6 are allergic to peanuts and 3 are allergic to both. If there are 32 kids in her class, how many aren't allergic to anything?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

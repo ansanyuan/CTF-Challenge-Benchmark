@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克开始每天训练打篮球，为了参加一个比赛。一天他最多训练2小时。训练一周后，他将最大时间增加到3小时。迈克在前两周一共训练了多少小时？。",
+  "topic": "回答下面的数学问题：Mike began to train to play basketball every day for a tournament. One day he plays a maximum of 2 hours. After a week of training, he increased the maximum time to 3 hours. How many hours did Mike train during the first two weeks?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

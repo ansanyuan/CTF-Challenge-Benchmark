@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Josiah每天存25美分到他的存钱罐里，一共存了24天。Leah每天在一个空的泡菜罐里存50美分，一共存了20天。Megan每天存的钱是Leah的两倍，一共存了12天。这三个孩子一共存了多少钱？。",
+  "topic": "回答下面的数学问题：Josiah puts a quarter in his piggy bank every day for 24 days.  Leah saves 50 cents in an empty pickle jar every day for 20 days. Megan saves twice as much as Leah for 12 days.   How much do the three children save together?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

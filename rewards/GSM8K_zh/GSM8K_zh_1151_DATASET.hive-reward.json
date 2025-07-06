@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一名司机每天从周一到周六以每小时30英里的速度行驶3小时，以每小时25英里的速度行驶4小时，每天向一个镇运送货物。这名司机一周行驶多少英里？。",
+  "topic": "回答下面的数学问题：A driver travels 30 miles per hour for 3 hours and 25 miles per hour for 4 hours to deliver goods to a town every day from Monday to Saturday. How many miles does the driver travel in a week?",
   "checkpoint": [
     {
-      "$\\boxed{1140}$": 1
+      "\\boxed{1140}": 1
     }
   ],
   "matchingmethod": [

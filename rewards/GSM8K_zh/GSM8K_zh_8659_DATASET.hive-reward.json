@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奶酪披萨被切成12块，而意大利辣香肠披萨被切成8块。如果Kate的6个朋友每人吃6块奶酪披萨片和4块意大利辣香肠披萨片，她需要买多少个披萨饼？。",
+  "topic": "回答下面的数学问题：The cheese pizza is cut into 12 slices and the pepperoni pizza is cut into 8 slices.  If Kate’s 6 friends each eat 6 cheese pizza slices and 4 pepperoni pizza slices, how many pizza pies does she need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

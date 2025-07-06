@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍娜正在进行一次公路旅行。她以60英里/小时的速度开了2个小时。她休息上了洗手间，然后以50英里/小时的速度继续开了3个小时。她可以开30英里的汽油。如果一加仑汽油的价格是2美元，她的旅行汽油费用是多少？。",
+  "topic": "回答下面的数学问题：Jenna is on a road trip. She drives for 2 hours at 60mph. She takes a bathroom break, and then she continues driving for 3 hours at 50 mph. She can drive for 30 miles on one gallon of gas. If one gallon of gas costs $2, how much money does she spend on gas for her trip?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

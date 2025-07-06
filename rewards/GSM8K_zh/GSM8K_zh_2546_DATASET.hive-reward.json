@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格斯早餐吃了2个鸡蛋煎蛋卷。午餐时他吃了一个三个鸡蛋做的鸡蛋沙拉三明治。然后晚餐时他吃了一个鸡蛋做的蛋花汤。格斯总共吃了多少个鸡蛋？。",
+  "topic": "回答下面的数学问题：Gus eats 2 eggs-omelet for breakfast.  He has an egg salad sandwich made with 3 eggs for lunch.  He then has an egg drop soup made with 1 egg for dinner.  How many eggs did Gus eat altogether?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

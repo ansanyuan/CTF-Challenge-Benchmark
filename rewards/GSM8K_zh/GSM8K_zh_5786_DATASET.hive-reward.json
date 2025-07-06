@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：购物车上有35本书。有五本小说，比小说多4本非小说，比小说多两倍的传记，其余是绘本。有多少本是绘本？。",
+  "topic": "回答下面的数学问题：There are 35 books on the cart. There are five fiction books, 4 more non-fiction books than fiction books, 2 times as many autobiographies as fiction books, and the rest picture books. How many books were picture books?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯利、布兰妮和巴菲在盐石湖游泳，并举行比赛，看看谁能在水下憋气的时间最长。 凯利在水下憋气了3分钟。 布兰妮在水下憋气的时间比凯利少20秒，而巴菲在水下憋气的时间比布兰妮少40秒。 巴菲在水下憋气了多长时间（以秒为单位）？。",
+  "topic": "回答下面的数学问题：Kelly, Brittany, and Buffy went swimming at Salt Rock Lake and held a contest to see who could hold their breath underwater for the longest amount of time.  Kelly held her breath underwater for 3 minutes.  Brittany held her breath underwater for 20 seconds less time than than Kelly did, and Buffy held her breath underwater for 40 seconds less time than Brittany did.  How long, in seconds, did Buffy hold her breath underwater?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

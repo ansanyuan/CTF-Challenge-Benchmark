@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：教练带了一个装满篮球的袋子来练习，并在练习开始前把它们全部倒在体育馆的地板上。练习结束后，他让乔丹、杰森和杰弗里把球捡起来并搬到袋子里。三个男孩一次性捡起并搬走了所有的球。乔丹搬的球是杰森的两倍，杰森搬的球是杰弗里的两倍。如果杰森捡起并搬运了2个球，教练带来练习的球总数是多少？。",
+  "topic": "回答下面的数学问题：Coach brought one bag filled with basketballs to practice and dumped them all out onto the gym floor before practice began.  After the practice time was over, he asked Jordan, Jason, and Jeffrey to pick up the balls and carry them over to the bag.  The three boys picked up and carried all of the balls in one trip.  Jordan carried twice as many balls as Jason, and Jason carried twice as many balls as Jeffrey. If Jason had picked up and carried 2 balls, what is the total number of balls that the coach brought to practice?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

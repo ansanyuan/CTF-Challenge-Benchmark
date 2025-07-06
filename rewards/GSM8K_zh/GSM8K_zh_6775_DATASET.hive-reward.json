@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在某个汽车经销商那里，15%的汽车价格低于15000美元，40%的汽车价格高于20000美元。如果经销商有3000辆汽车，其中有多少辆汽车价格在15000美元和20000美元之间？。",
+  "topic": "回答下面的数学问题：At a certain car dealership, 15% of the cars cost less than $15000 and 40% of the cars cost more than $20000. If there are 3000 cars at the dealership, how many of them cost between $15000 and $20000?",
   "checkpoint": [
     {
-      "$\\boxed{1350}$": 1
+      "\\boxed{1350}": 1
     }
   ],
   "matchingmethod": [

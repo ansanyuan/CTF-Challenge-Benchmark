@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：苏珊度假两周。她一周工作五天，有六天带薪假期。其余的工作日将是无薪假期。她每小时获得15美元的工资，一天工作8小时。她的假期将损失多少工资？。",
+  "topic": "回答下面的数学问题：Susan is taking a two week vacation. She works five days a week and has six days of paid vacation. The rest of her workdays will be unpaid vacation time. She gets paid $15 per hour and works 8 hours a day. How much pay will she miss on her vacation?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

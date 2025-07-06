@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马蒂森身高60英寸。他的两层房子是他身高的7倍。一楼的地面到天花板是他身高的三倍。从二楼的地面到屋顶有多高（单位：英寸）？。",
+  "topic": "回答下面的数学问题：Mattison is 60 inches tall. His two-story house is 7 times as high as he is. The floor to the ceiling on the first floor is thrice as high as he is. How high is the roof from the second floor's floor in inches?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

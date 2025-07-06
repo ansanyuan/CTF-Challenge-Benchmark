@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿贝在人行道上发现了4只蚂蚁。贝丝看到的蚂蚁比阿贝多50%。西西观察到的蚂蚁是阿贝的两倍。杜克发现的蚂蚁是阿贝的一半。这四个孩子一共发现了多少只蚂蚁？。",
+  "topic": "回答下面的数学问题：Abe finds 4 ants on the sidewalk.  Beth sees 50% more ants than Abe.  CeCe watches twice as many ants as Abe.  Duke discovers half as many ants as Abe.  How many ants do the four children find together?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：南希和杰森第一次学跳舞。南希踩到她的舞伴脚的次数是杰森的3倍。如果他们一起踩到对方的脚32次，那么杰森踩到他的舞伴脚的次数是多少？。",
+  "topic": "回答下面的数学问题：Nancy and Jason are learning to dance for the first time. Nancy steps on her partner's feet 3 times as often as Jason. If together they step on each other's feet 32 times, how many times does Jason step on his partner's feet?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

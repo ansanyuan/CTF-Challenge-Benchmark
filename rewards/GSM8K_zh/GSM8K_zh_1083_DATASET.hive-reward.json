@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿尔弗雷德每个月存储一吨玉米，持续两年。如果有5吨被偷走，8吨被捐赠给他，那么在两年结束时他有多少吨玉米？。",
+  "topic": "回答下面的数学问题：Alfred is storing a tonne of maize each month for the next 2 years.  If 5 tonnes are stolen and 8 tonnes are given to him as a donation, how many tonnes of maize does he have at the end of the 2 years.",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

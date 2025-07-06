@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jezebel需要买两打红玫瑰和3朵向日葵来制作一个花束。每朵红玫瑰的价格是1.50美元，每朵向日葵的价格是3美元。Jezebel一共要为这些花支付多少钱？。",
+  "topic": "回答下面的数学问题：Jezebel needs to buy two dozens of red roses and 3 pieces of sunflowers for a bouquet that she is going to arrange. Each red rose costs $1.50 and each sunflower costs $3. How much will Jezebel pay for all those flowers?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

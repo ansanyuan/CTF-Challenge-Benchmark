@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Erica正在告诉她的孙子她最近在肯尼亚马赛马拉的野生动物园看到的动物。周六，她看到3只狮子和2只大象。周日，她发现了2只水牛和5只豹子，周一，她看到了5只犀牛和3只疣猪。Erica一共看到了多少只动物？。",
+  "topic": "回答下面的数学问题：Erica is telling her grandson about the animals she saw during her recent safari in Kenya's Maasai Mara. On Saturday, she saw 3 lions and 2 elephants. She spotted 2 buffaloes and 5 leopards on Sunday, and 5 rhinos and 3 warthogs on Monday. What is the total number of animals that Erica saw?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

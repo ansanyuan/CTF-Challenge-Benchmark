@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Patricia正在留长发，以便捐赠给一个为癌症幸存者制作假发的慈善机构。她的头发长14英寸。她需要捐赠23英寸的头发来制作假发。她希望在捐赠后她的头发长12英寸。她还需要再留多长时间的头发？。",
+  "topic": "回答下面的数学问题：Patricia is growing her long very long to donate it to a charity that makes wigs for cancer survivors. Her hair is 14 inches long. She needs to donate 23 inches to make a wig. She wants her hair to be 12 inches long after the donation. How much longer does she have to grow her hair?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

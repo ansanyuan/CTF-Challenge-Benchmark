@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Laura需要为她房子里的3扇窗户购买窗帘。她需要为每扇窗户购买一套纱帘和一套窗帘。纱帘一对的价格是40.00美元，窗帘一对的价格是60.00美元。窗帘的总成本是多少？。",
+  "topic": "回答下面的数学问题：Laura needs to buy window treatments for 3 windows in her house.  She will need to buy a set of sheers and a set of drapes for each window.  The sheers cost $40.00 a pair and the drapes cost $60.00 a pair.  How much will the window treatments cost?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

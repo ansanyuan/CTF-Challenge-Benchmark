@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Simon、Gerry和Micky想要用手工制作的小型筏进行比赛。Simon的筏需要36根棍子，Gerry的筏需要Simon所需数量的三分之二，而Micky的筏需要比Simon和Gerry的筏加起来多9根棍子。这三个男孩总共需要收集多少根棍子？。",
+  "topic": "回答下面的数学问题：Simon, Gerry, and Micky want to have a race with handmade miniature rafts. Simon's raft needs 36 sticks, Gerry's raft needs two-thirds of the number of sticks that Simon needs, and Micky's raft needs 9 sticks more than Simon and Gerry's rafts combined. How many sticks do the three boys need to collect in total?",
   "checkpoint": [
     {
-      "$\\boxed{129}$": 1
+      "\\boxed{129}": 1
     }
   ],
   "matchingmethod": [

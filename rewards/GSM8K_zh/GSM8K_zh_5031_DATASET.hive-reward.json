@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一张地铁票的价格是3美元。在一分钟内，地铁平均卖出5张这样的票。在6分钟内，这些票的收入将是多少？。",
+  "topic": "回答下面的数学问题：One ticket to the underground costs $3. In one minute, the metro sells an average of 5 such tickets. What will be the earnings from the tickets in 6 minutes?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

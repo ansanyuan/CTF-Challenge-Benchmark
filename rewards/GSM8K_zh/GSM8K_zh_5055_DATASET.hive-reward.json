@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jaymee比Shara的年龄大两岁。如果Shara今年10岁，那么Jaymee多大了？。",
+  "topic": "回答下面的数学问题：Jaymee is 2 years older than twice the age of Shara. If Shara is 10 years old, how old is Jaymee?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

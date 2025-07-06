@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Collin有25朵花。Ingrid给了Collin她33朵花的三分之一。如果每朵花有4片花瓣，Collin总共有多少片花瓣？。",
+  "topic": "回答下面的数学问题：Collin has 25 flowers. Ingrid gives Collin a third of her 33 flowers. If each flower has 4 petals, how many petals does Collin have in total?",
   "checkpoint": [
     {
-      "$\\boxed{144}$": 1
+      "\\boxed{144}": 1
     }
   ],
   "matchingmethod": [

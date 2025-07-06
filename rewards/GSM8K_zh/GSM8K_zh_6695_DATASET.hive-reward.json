@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰在一份工作上开始工作了10天。到目前为止，他赚了250美元。假设他每天赚相同的金额，那么约翰还需要工作多少天才能使他的收入翻倍？。",
+  "topic": "回答下面的数学问题：John has started at a job he works every day 10 days ago.  So far, he's made $250.  How many more days must John work before he makes twice this amount, assuming he makes the same amount every day?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

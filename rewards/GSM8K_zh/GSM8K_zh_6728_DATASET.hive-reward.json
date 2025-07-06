@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Martha的猫捉到3只老鼠和7只鸟。Cara的猫捉到的动物数量是Martha的猫的动物数量的五倍减3。Cara的猫捉到了多少只动物？。",
+  "topic": "回答下面的数学问题：Martha's cat catches 3 rats and 7 birds. Cara's cat catches 3 less than five times as many animals as Martha's cat. How many animals does Cara's cat catch?",
   "checkpoint": [
     {
-      "$\\boxed{47}$": 1
+      "\\boxed{47}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Helen每4周手洗一次她的丝绸枕套。她手洗所有枕套需要30分钟。一年内，Helen手洗枕套花费了多少时间？。",
+  "topic": "回答下面的数学问题：Every 4 weeks, Helen hand washes her silk pillowcases.  It takes 30 minutes to hand wash all of them.  In 1 year, how much time does Helen spend hand washing her pillowcases?",
   "checkpoint": [
     {
-      "$\\boxed{390}$": 1
+      "\\boxed{390}": 1
     }
   ],
   "matchingmethod": [

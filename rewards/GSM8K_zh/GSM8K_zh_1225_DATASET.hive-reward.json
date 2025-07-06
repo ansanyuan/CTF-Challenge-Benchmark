@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉姆开始时投资组合有80美元。1年后，它增长了15%。然后他再向投资组合中增加了28美元。再过1年，合并投资组合增长了10%。从他开始投资的时候算起，2年后他的最终投资组合价值是多少？。",
+  "topic": "回答下面的数学问题：Jim starts with $80 in his investment portfolio. After 1 year it grows by 15%. He then adds another $28 to his portfolio. After 1 more year the combined portfolio grows by 10%. What is his final portfolio worth after 2 years from when he started?",
   "checkpoint": [
     {
-      "$\\boxed{132}$": 1
+      "\\boxed{132}": 1
     }
   ],
   "matchingmethod": [

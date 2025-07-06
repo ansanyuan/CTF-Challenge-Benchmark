@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽在她的食品储藏室有6罐糖霜。每罐糖霜可以装饰8个纸杯蛋糕。玛丽想要烘焙足够多的纸杯蛋糕来用完她所有的糖霜。如果每个烤盘可以放12个纸杯蛋糕，她应该烘焙多少个烤盘的纸杯蛋糕？。",
+  "topic": "回答下面的数学问题：Mary has 6 jars of sprinkles in her pantry. Each jar of sprinkles can decorate 8 cupcakes. Mary wants to bake enough cupcakes to use up all of her sprinkles. If each pan holds 12 cupcakes, how many pans worth of cupcakes should she bake?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

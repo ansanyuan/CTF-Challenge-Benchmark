@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：自从第40任总统今天启动了连任竞选活动以来，他已经筹集了10000美元的竞选资金。他的朋友筹集了这笔金额的40%，他的家人筹集了剩下金额的30%。其余的资金来自他自己的竞选储蓄。他为总统竞选存了多少钱？。",
+  "topic": "回答下面的数学问题：Since the 40th president launched his reelection campaign today, he has raised $10,000 in campaign funds. His friends raised 40% of this amount and his family raised 30% of the remaining amount.  The rest of the funds are from his own savings for the election. How much did he save for the presidency?",
   "checkpoint": [
     {
-      "$\\boxed{4200}$": 1
+      "\\boxed{4200}": 1
     }
   ],
   "matchingmethod": [

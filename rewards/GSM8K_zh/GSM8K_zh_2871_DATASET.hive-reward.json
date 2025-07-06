@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈娜有300美元。她想以每只2美元的价格购买玫瑰，并把一些玫瑰送给她的朋友珍娜和伊玛。珍娜将收到玫瑰的1/3，伊玛将收到玫瑰的1/2。哈娜给她的朋友多少玫瑰？。",
+  "topic": "回答下面的数学问题：Hanna has $300. She wants to buy roses at $2 each and give some of the roses to her friends, Jenna and Imma. Jenna will receive  1/3 of the roses, and  Imma will receive 1/2 of the roses. How many roses does Hanna give to her friends?",
   "checkpoint": [
     {
-      "$\\boxed{125}$": 1
+      "\\boxed{125}": 1
     }
   ],
   "matchingmethod": [

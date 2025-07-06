@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：西奥每天可以吃13块饼干，一天3次，每个月20天。他在3个月内可以吃多少块饼干？。",
+  "topic": "回答下面的数学问题：Theo can eat 13 cookies, 3 times a day, 20 days each month. How many cookies can he eat in 3 months?",
   "checkpoint": [
     {
-      "$\\boxed{2340}$": 1
+      "\\boxed{2340}": 1
     }
   ],
   "matchingmethod": [

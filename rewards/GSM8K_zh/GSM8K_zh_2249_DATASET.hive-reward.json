@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一支篮球队在上一次比赛中赢了40场比赛。在下一次比赛中，他们赢得了第一次比赛的5/8场比赛。在第三次比赛中，他们赢得的比赛数量与前两次比赛的总和相同。计算他们在三次比赛中赢得的总比赛数量。。",
+  "topic": "回答下面的数学问题：A basketball team won 40 games in their last competition. In the next competition, they won 5/8 times as many games as they won in their first competition. In the third competition, they won the same number of games as the sum of the first and second competition winnings. Calculate the total number of wins they had in the three competitions.",
   "checkpoint": [
     {
-      "$\\boxed{130}$": 1
+      "\\boxed{130}": 1
     }
   ],
   "matchingmethod": [

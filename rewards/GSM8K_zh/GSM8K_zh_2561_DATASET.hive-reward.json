@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史密斯先生因为未能按时支付150美元的余额而产生了2%的财务费用。如果他计划今天结清余额，史密斯先生将支付多少钱？。",
+  "topic": "回答下面的数学问题：Mr. Smith has incurred a 2% finance charge because he was not able to pay on time for his balance worth $150. If he plans to settle his balance today, how much will Mr. Smith pay?",
   "checkpoint": [
     {
-      "$\\boxed{153}$": 1
+      "\\boxed{153}": 1
     }
   ],
   "matchingmethod": [

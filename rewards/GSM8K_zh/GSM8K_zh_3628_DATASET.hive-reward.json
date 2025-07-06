@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jeffrey走路时，每走三步向前，他就后退两步。因此，如果房子和邮箱之间的距离是66步，那么Jeffrey从房子到邮箱总共走了多少步？。",
+  "topic": "回答下面的数学问题：When Jeffrey walks, for every three steps forward, he takes two steps backwards.  Therefore, if the distance between the house and the mailbox is 66 steps, what is the total number of steps Jeffrey takes when he goes from the house to the mailbox?",
   "checkpoint": [
     {
-      "$\\boxed{330}$": 1
+      "\\boxed{330}": 1
     }
   ],
   "matchingmethod": [

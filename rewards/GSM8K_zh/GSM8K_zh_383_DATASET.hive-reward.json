@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：大卫洗4扇窗户需要10分钟。大卫的房子有64扇窗户。大卫洗完所有窗户需要多少分钟？。",
+  "topic": "回答下面的数学问题：It takes David 10 minutes to wash 4 windows.  David's house has 64 windows.  How many minutes will it take David to wash all of the windows?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

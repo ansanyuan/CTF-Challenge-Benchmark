@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：300名高中生中有5%获得了全额奖学金，10%获得了半额奖学金。没有获得任何奖学金的高中生有多少人？。",
+  "topic": "回答下面的数学问题：Five percent of the 300 senior students got a full merit college scholarship and ten percent of them got a half merit scholarship. How many senior students did not get any scholarships?",
   "checkpoint": [
     {
-      "$\\boxed{255}$": 1
+      "\\boxed{255}": 1
     }
   ],
   "matchingmethod": [

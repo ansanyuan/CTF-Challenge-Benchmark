@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Caleb，Andy和Billy和他们的父亲一起去野餐。Billy带了6颗糖果，Caleb带了11颗，Andy带了9颗。在路上，他们的父亲买了一包36颗的糖果。他给了Billy8颗糖果，给了Caleb11颗，剩下的给了Andy。现在Andy比Caleb多了多少颗糖果？。",
+  "topic": "回答下面的数学问题：Caleb, Andy and Billy went on a picnic with their father. Billy took 6 candies with him, Caleb took 11 and Andy left with 9. On the way, their father bought a packet of 36 candies. He gave 8 candies to Billy, 11 to Caleb and the rest to Andy. How many more candies does Andy now have than Caleb?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

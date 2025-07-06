@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：秋季学期持续15周。平日里，帕里斯每天为她的课程学习3小时。周末，她在星期六学习4小时，在星期天学习5小时。帕里斯在学期里学习了多少时间？。",
+  "topic": "回答下面的数学问题：The fall semester lasts 15 weeks.  During the weekdays, Paris studies 3 hours a day for her classes.  On the weekends, she spends 4 hours studying on Saturday and 5 hours studying on Sunday.  How much time does Paris study during the semester?",
   "checkpoint": [
     {
-      "$\\boxed{360}$": 1
+      "\\boxed{360}": 1
     }
   ],
   "matchingmethod": [

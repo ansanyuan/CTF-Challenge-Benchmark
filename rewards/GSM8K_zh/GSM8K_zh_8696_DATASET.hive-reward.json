@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卢克要买布料做新窗帘。有五扇窗户。每扇窗户宽35英寸，卢克需要购买相当于窗户总宽度2倍的布料。他应该买多少布料？。",
+  "topic": "回答下面的数学问题：Luke is buying fabric for new curtains. There are five windows. Each window is 35 inches wide and Luke needs to buy fabric equal to 2 times the total width of the windows. How much fabric should he buy?",
   "checkpoint": [
     {
-      "$\\boxed{350}$": 1
+      "\\boxed{350}": 1
     }
   ],
   "matchingmethod": [

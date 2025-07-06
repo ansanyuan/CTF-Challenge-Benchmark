@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：建议男性每天摄入的添加糖不应超过150卡路里。马克在下午喝了一罐含有2500卡路里的汽水，其中5%来自添加糖。然后他买了一些棒状糖果，每块糖果含有25卡路里的添加糖。如果他最终超过了建议的添加糖摄入量100%，他吃了多少块糖果？。",
+  "topic": "回答下面的数学问题：It is recommended that men should consume no more than 150 calories of added sugar per day. Mark took a soft drink in the afternoon that contained 2500 calories, 5% of which was from added sugar. Then he bought some bars of candy which had 25 calories of added sugar each. If he eventually exceeded the recommended intake of added sugar by 100%, how many bars of candy did he take?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

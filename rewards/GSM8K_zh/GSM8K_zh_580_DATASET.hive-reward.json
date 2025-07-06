@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rylee感到无聊，决定数她后院树上掉落的叶子数量。第一个小时掉落了7片叶子。第二个小时和第三个小时，叶子以每小时4片的速度掉落。每小时平均掉落的叶子数量是多少？。",
+  "topic": "回答下面的数学问题：Rylee is bored and decides to count the number of leaves falling off the tree in her backyard. 7 leaves fall in the first hour. For the second and third hour, the leaves fall at a rate of 4 per hour. What is the average number of leaves which fell per hour?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

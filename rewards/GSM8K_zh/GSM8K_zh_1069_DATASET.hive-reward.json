@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马特在打篮球。在第一节比赛中，他投篮得分4次2分和2次3分。他在那节比赛中得了多少分？。",
+  "topic": "回答下面的数学问题：Matt is playing basketball. In the first quarter, he made 2-point shots four times and 3-point shots twice. How many points did he score for that quarter?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

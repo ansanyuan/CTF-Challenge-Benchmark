@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一袋开心果里有80颗开心果。95%有壳，其中75%的开心果壳是开着的。这袋开心果中有多少颗有壳且壳是开着的？。",
+  "topic": "回答下面的数学问题：A bag of pistachios has 80 pistachios in it.  95 percent have shells, and 75 percent of those have shells that are opened.  How many pistachios in the bag have shells and have an opened shell?",
   "checkpoint": [
     {
-      "$\\boxed{57}$": 1
+      "\\boxed{57}": 1
     }
   ],
   "matchingmethod": [

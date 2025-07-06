@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：上周，电影票的价格是100美元。今年价格下降了20%。电影票的新价格是多少？。",
+  "topic": "回答下面的数学问题：Last week, the price of a movie ticket was $100. This year the price is down by 20%. What's the new price of the movie ticket?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

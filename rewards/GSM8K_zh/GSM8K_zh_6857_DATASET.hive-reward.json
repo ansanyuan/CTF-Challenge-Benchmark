@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在River Falls高中的600名学生中，有3/4的学生打网球。打网球的学生中，60%的学生也打曲棍球。有多少学生既打曲棍球又打网球？。",
+  "topic": "回答下面的数学问题：Of the 600 students at River Falls High School, 3/4 of them play tennis. Of those that play tennis, 60% of them also play hockey. How many students play both hockey and tennis?",
   "checkpoint": [
     {
-      "$\\boxed{270}$": 1
+      "\\boxed{270}": 1
     }
   ],
   "matchingmethod": [

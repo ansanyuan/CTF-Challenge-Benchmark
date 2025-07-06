@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个服装店卖出20件衬衫和10条牛仔裤。一件衬衫每件10美元，一条牛仔裤的价格是衬衫的两倍。如果所有衬衫和牛仔裤都卖出，服装店将赚多少钱？。",
+  "topic": "回答下面的数学问题：A clothing store sells 20 shirts and 10 pairs of jeans. A shirt costs $10 each and a pair of jeans costs twice as much. How much will the clothing store earn if all shirts and jeans are sold?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

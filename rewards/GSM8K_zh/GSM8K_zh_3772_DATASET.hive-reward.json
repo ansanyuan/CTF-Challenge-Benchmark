@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮正在体育场的两个区域的座位下刮擦口香糖。A区有1个子区，每个子区有60个座位，还有3个子区，每个子区有80个座位。B区的座位数比A区的总座位数多20个。B区有多少个座位？。",
+  "topic": "回答下面的数学问题：Jenny is scraping gum off the bottom of the seats in a stadium with two sections. Section A has 1 subsection with 60 seats and 3 subsections with 80 seats each. Section B has 20 more seats than 3 times as many seats as Section A has total. How many seats does Section B have?",
   "checkpoint": [
     {
-      "$\\boxed{920}$": 1
+      "\\boxed{920}": 1
     }
   ],
   "matchingmethod": [

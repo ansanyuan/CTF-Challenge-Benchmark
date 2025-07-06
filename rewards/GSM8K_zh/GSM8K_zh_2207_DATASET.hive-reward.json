@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Shanna在她的夏季花园里种了6株番茄植物，2株茄子植物和4株辣椒植物。她的番茄植物的一半和一株辣椒植物死了。剩下的植物每株给了她7个蔬菜。她总共有多少蔬菜可以收获？。",
+  "topic": "回答下面的数学问题：Shanna planted 6 tomato plants, 2 eggplant plants, and 4 pepper plants in her summer garden. Half of her tomato plants and one pepper plant died. The remaining plants each gave her 7 vegetables. How many vegetables did she have in all to harvest?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

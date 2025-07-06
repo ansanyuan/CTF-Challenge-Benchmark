@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个有15名学生的班级在周五上午交了论文。前5名学生每人交了2页的论文。接下来的5名学生每人交了3页的论文。最后5名学生每人交了1页的论文。15名学生的平均论文页数是多少？。",
+  "topic": "回答下面的数学问题：A classroom of 15 students turned in essays on Friday morning. The first 5 students each turned in essays with 2 pages. The next 5 students each turned in essays with 3 pages. The last 5 students each turned in essays with 1 page. What is the average page count per essay for the 15 students?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

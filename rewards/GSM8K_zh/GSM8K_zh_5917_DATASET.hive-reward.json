@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个班级里有13名女学生。这个班级里的男学生是女学生的三倍。这个班级有多少学生？。",
+  "topic": "回答下面的数学问题：In a class, there were 13 female students. There were three times as many male students in this class. How many students were in the class?",
   "checkpoint": [
     {
-      "$\\boxed{52}$": 1
+      "\\boxed{52}": 1
     }
   ],
   "matchingmethod": [

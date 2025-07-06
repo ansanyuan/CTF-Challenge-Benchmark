@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Patty的管道维修服务收取40美元的上门费用，外加每小时或其部分35美元的人工费，再加上零件费用。一项工作耗时2.25小时，使用了60美元的零件。Patty收费多少？。",
+  "topic": "回答下面的数学问题：Patty's Plumbing charges $40 to visit a house to make a repair, plus $35 per hour, or part thereof, for labor, plus parts. One job took 2.25 hours and used $60 in parts. How much did Patty charge?",
   "checkpoint": [
     {
-      "$\\boxed{205}$": 1
+      "\\boxed{205}": 1
     }
   ],
   "matchingmethod": [

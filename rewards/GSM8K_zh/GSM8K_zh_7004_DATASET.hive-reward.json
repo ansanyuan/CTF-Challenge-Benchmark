@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：朱莉娅买了3包红色球，10包黄色球和8包绿色球。每包里有19个球。朱莉娅总共买了多少个球？。",
+  "topic": "回答下面的数学问题：Julia bought 3 packs of red balls, 10 packs of yellow balls, and 8 packs of green balls. There were 19 balls in each package. How many balls did Julie buy in all?",
   "checkpoint": [
     {
-      "$\\boxed{399}$": 1
+      "\\boxed{399}": 1
     }
   ],
   "matchingmethod": [

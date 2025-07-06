@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：James想在他的生日派对上从后院的围栏上挂彩纸流苏。他的后院围栏是一个长边20英尺、短边15英尺的矩形。James需要买多少英尺的彩纸？。",
+  "topic": "回答下面的数学问题：James wants to hang crepe-paper streamers from his backyard fence for his birthday party. His backyard fence is a rectangle that measures 20 feet on the long side and 15 feet on the short side. How many feet of crepe paper does James need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

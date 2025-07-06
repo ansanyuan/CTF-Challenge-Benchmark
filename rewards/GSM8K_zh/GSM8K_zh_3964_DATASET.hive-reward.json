@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：9年后，约翰的年龄将是11年前的3倍。他现在多大了？。",
+  "topic": "回答下面的数学问题：9 years from now, John will be 3 times as old as he was 11 years ago. How old is he now?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

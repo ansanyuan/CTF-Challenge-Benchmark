@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：碗里有12个比红苹果多的绿苹果。有16个红苹果。碗里一共有多少个苹果？。",
+  "topic": "回答下面的数学问题：There are 12 more green apples than red apples in a bowl. There are 16 red apples. How many apples are there in the bowl?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

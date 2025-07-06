@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：碗里有349块糖果。塔利萨拿了108块，所罗门拿了153块。碗里还剩下多少块糖果？。",
+  "topic": "回答下面的数学问题：There were 349 pieces of candy in a bowl. Talitha took 108 pieces and Solomon took 153 pieces. How many pieces of candy remain in the bowl?",
   "checkpoint": [
     {
-      "$\\boxed{88}$": 1
+      "\\boxed{88}": 1
     }
   ],
   "matchingmethod": [

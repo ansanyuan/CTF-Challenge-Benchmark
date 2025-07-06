@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：对于晚宴午餐筹委会，玛格丽特想要提供迷你羊角面包做鸡肉沙拉三明治。她希望有足够的食物，以便委员会的每个人都可以吃到2份三明治。她的面包店提供12个迷你羊角面包售价8.00美元。委员会有24人。她将在羊角面包上花费多少钱？。",
+  "topic": "回答下面的数学问题：For the gala luncheon planning committee, Margaret wants to serve chicken salad sandwiches using mini croissants.  She wants there to be enough food that each person on the committee can have 2 sandwiches each.  Her bakery offers 12 minis croissants for $8.00.  There are 24 people on the committee. How much will she spend on croissants?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

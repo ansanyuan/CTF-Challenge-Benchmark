@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安格斯，帕特里克和奥利去彩虹湖捕鳟鱼。 安格斯比帕特里克多捕了4条鱼，但奥利比安格斯少捕了7条鱼。 如果奥利捕了5条鱼，帕特里克捕了多少条鱼？。",
+  "topic": "回答下面的数学问题：Angus, Patrick, and Ollie went fishing for trout on Rainbow Lake.  Angus caught 4 more fish than Patrick did, but Ollie caught 7 fewer fish than Angus.  If Ollie caught 5 fish, how many fish did Patrick catch?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

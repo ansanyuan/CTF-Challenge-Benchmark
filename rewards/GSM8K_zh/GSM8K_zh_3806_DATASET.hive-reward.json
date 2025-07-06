@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特是一名灭虫工作者，她还在互联网上销售火蚁巢的熔融金属铸件。珍妮特的灭虫工作报酬是每小时70美元，她的蚂蚁巢雕塑的售价是每磅20美元。如果她做了20小时的灭虫工作，并卖出了一件5磅的雕塑和一件7磅的雕塑，她一共赚了多少钱？。",
+  "topic": "回答下面的数学问题：Janet works as an exterminator and she also sells molten metal casts of fire ant nests on the Internet. Janet gets paid $70 an hour for exterminator work and makes $20/pound on her ant nest sculptures. If she does 20 hours of exterminator work and sells a 5-pound sculpture and a 7-pound sculpture, how much money does she make?",
   "checkpoint": [
     {
-      "$\\boxed{1640}$": 1
+      "\\boxed{1640}": 1
     }
   ],
   "matchingmethod": [

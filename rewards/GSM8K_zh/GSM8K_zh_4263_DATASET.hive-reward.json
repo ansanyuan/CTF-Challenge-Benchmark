@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：巴里和他的朋友吉姆去了德克萨斯州中部骑马。他们以每小时5英里的速度行驶了7小时，然后停下来休息。第二天，他们以每小时6英里的速度行驶了6小时，然后以一半的速度行驶了另外三个小时，然后停下来休息。在第三天，他们以每小时7英里的速度行驶了5小时。在整个骑马旅行中，他们总共行驶了多少英里？。",
+  "topic": "回答下面的数学问题：Barry and his friend, Jim, went horseback riding across central Texas. They traveled at 5 miles per hour for 7 hours, and then stopped for the evening.  The next day, they traveled at 6 miles per hour for 6 hours, and then at half that speed for another three hours, before stopping to rest for the night.  On the third and final day, they traveled for 5 hours at 7 miles per hour.  In total, how far did they travel, in miles, during their horseback riding trip?",
   "checkpoint": [
     {
-      "$\\boxed{115}$": 1
+      "\\boxed{115}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮肚子疼。她的哥哥迈克说这是因为珍妮吃了比他多5块巧克力方块的三倍。如果迈克吃了20块巧克力方块，那么珍妮吃了多少块？。",
+  "topic": "回答下面的数学问题：Jenny has a tummy ache. Her brother Mike says that it is because Jenny ate 5 more than thrice the number of chocolate squares that he ate.  If Mike ate 20 chocolate squares, how many did Jenny eat?",
   "checkpoint": [
     {
-      "$\\boxed{65}$": 1
+      "\\boxed{65}": 1
     }
   ],
   "matchingmethod": [

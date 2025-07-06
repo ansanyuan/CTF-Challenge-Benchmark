@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carolyn正在用蕾丝修剪一条裙子的袖口、腰部、下摆和领口。每个袖口长50厘米，下摆长300厘米，腰部是下摆长度的三分之一，领口将有5个褶边，每个褶边使用20厘米的蕾丝。如果蕾丝的价格是每米6美元，Carolyn在蕾丝上花了多少钱？。",
+  "topic": "回答下面的数学问题：Carolyn is trimming a dress with lace around the cuffs, waist, hem, and neckline. Each cuff is 50 cm long, the hem is 300 cm long, the waist is a third of the length of the hem, and the neck will have 5 ruffles that each use 20 cm of lace. If lace costs $6/m, how much does Carolyn spend on lace?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

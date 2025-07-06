@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果贝丝多了35美元，她就有105美元。如果简少了10美元，他就会有和贝丝一样的钱。贝丝和简一共有多少钱？。",
+  "topic": "回答下面的数学问题：If Beth had $35 more, she would have $105. If Jan had $10 less, he would have the same money as Beth has. How much money do Beth and Jan have altogether?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

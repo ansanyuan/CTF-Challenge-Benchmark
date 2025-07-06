@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：摩根去了汽车外卖点点餐。他点了一个汉堡包，价格为4美元，洋葱圈价格为2美元，还有一个冰沙价格为3美元。如果他用一张20美元的钞票付款，他会收到多少零钱？。",
+  "topic": "回答下面的数学问题：Morgan goes to the drive-thru and orders his lunch.  He gets a hamburger for $4, onion rings for $2 and a smoothie for $3. If he pays with a $20 bill, how much change does he receive?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

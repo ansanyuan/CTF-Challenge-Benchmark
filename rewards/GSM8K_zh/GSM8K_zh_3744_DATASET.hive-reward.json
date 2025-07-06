@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡勒姆经营一个夜总会，决定举办迪斯科之夜，以吸引不同的顾客。他正在计划这个活动，并正在计算他可以在每样物品上花费多少，而不会超出他的预算。他只需要购买4个迪斯科灯和10箱食物。每箱食物的成本是25美元。卡勒姆用于迪斯科灯和食物的预算是330美元。卡勒姆能够在每个迪斯科灯上花费多少美元？。",
+  "topic": "回答下面的数学问题：Calum runs a nightclub and decides to run a disco night to attract different customers. He is planning the event and is calculating how much he can spend on each item without spending more than he has budgeted. He only needs to buy 4 disco balls and 10 boxes of food. Each box of food costs $25. Calum’s budget for the disco balls and food is $330. How much, in dollars, can Calum afford to spend on each disco ball?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

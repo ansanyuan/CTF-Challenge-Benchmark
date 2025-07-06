@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安、比尔、凯特和戴尔每人买了个人披萨，每个披萨切成4块。如果比尔和戴尔吃掉了他们披萨的50%，安和凯特吃掉了披萨的75%，那么剩下多少块披萨没有被吃掉？。",
+  "topic": "回答下面的数学问题：Ann, Bill, Cate, and Dale each buy personal pan pizzas cut into 4 pieces. If Bill and Dale eat 50% of their pizzas and Ann and Cate eat 75% of the pizzas, how many pizza pieces are left uneaten?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

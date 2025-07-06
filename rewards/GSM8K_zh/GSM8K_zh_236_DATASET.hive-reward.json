@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Max喜欢收集模型火车。他每年生日都要求一个，每个圣诞节都要求两个。Max总是得到他要求的礼物，并且连续5年每年都要求这些礼物。在5年结束时，他的父母给了他现有火车数量的两倍。现在Max有多少辆火车？。",
+  "topic": "回答下面的数学问题：Max likes to collect model trains.  He asks for one for every birthday of his, and asks for two each Christmas.  Max always gets the gifts he asks for, and asks for these same gifts every year for 5 years.  At the end of the 5 years, his parents give him double the number of trains he already has.  How many trains does Max have now?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

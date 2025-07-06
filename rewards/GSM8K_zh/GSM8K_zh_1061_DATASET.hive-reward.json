@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：芭比喜欢购买珠宝。一天，她买了12对耳环，并把一半给了阿丽莎，使得阿丽莎的总收藏数量是她得到的耳环数量的三倍。现在阿丽莎有多少对耳环？。",
+  "topic": "回答下面的数学问题：Barbie enjoys buying jewelry. One day, she bought 12 pairs of earrings, and gave half of them to Alissa, making Alissa's total number of collections to be triple the number of earrings she was given. How many earrings does Alissa have now?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

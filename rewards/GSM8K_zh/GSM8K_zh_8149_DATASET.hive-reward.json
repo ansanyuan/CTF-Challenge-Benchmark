@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：James需要为他的狗狗收容所获取更多的玩具。每只狗需要一件玩具。James目前手头有4件玩具给4只狗，但是现在收容所里又多了8只狗。买完玩具后，他回去发现比他离开时多了两倍的狗，所以他不得不再买一些玩具。当James再次回来时，有3只狗不见了，所以他不再需要那些玩具。James总共需要多少件玩具？。",
+  "topic": "回答下面的数学问题：James needs to get more toys for his doggie shelter. Each dog needs one toy. James currently has 4 toys on hand for 4 dogs, but there are 8 more dogs in the shelter now. After buying the toys, he went back to see that there are twice as many more dogs than when he left so he had to buy some more toys. When James came back yet again, 3 dogs were gone so he no longer needed those toys. How many toys in total does James need?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

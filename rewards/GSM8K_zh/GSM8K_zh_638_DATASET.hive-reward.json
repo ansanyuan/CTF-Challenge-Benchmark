@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：雅各布现在24岁。他的弟弟托尼是雅各布年龄的一半。6年后托尼多大？。",
+  "topic": "回答下面的数学问题：Jacob is 24 years now. His brother Tony is half Jacob's age. In 6 years how old will tony be?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

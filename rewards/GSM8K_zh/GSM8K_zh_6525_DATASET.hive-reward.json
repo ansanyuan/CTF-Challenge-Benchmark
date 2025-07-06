@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：林恩买了7本关于猫的书和2本关于太阳系的书。她还买了3本杂志。每本书的价格是7美元，每本杂志的价格是4美元。林恩总共花了多少钱？。",
+  "topic": "回答下面的数学问题：Lynne bought 7 books about cats and 2 books about the solar system. She also bought 3 magazines. Each book cost 7$ and each magazine cost $4. How much did Lynne spend in all?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

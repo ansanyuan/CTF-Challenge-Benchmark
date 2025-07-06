@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：所有名为Barry的人都很友善，而只有一半名为Kevin的人是友善的。三分之四名为Julie的人是友善的，而名为Joe的人中只有10%是友善的。如果一群人中有24个名为Barry的人，20个名为Kevin的人，80个名为Julie的人和50个名为Joe的人，这群人中有多少友善的人？。",
+  "topic": "回答下面的数学问题：All people named Barry are nice, while only half of the people named Kevin are nice.  Three-fourths of people named Julie are nice, while 10% of people named Joe are nice.  If a crowd contains 24 people named Barry, 20 people named Kevin, 80 people named Julie, and 50 people named Joe, how many nice people are in the crowd?",
   "checkpoint": [
     {
-      "$\\boxed{99}$": 1
+      "\\boxed{99}": 1
     }
   ],
   "matchingmethod": [

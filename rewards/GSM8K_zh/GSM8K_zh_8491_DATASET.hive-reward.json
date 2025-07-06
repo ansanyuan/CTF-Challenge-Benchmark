@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥利维亚在Facebook上上传了72张照片。她将相同数量的照片分成8个相册。其中3个相册只有自拍照，2个相册是肖像照。她有多少张自拍照和肖像照？。",
+  "topic": "回答下面的数学问题：Olivia uploaded 72 pictures to Facebook.  She put the same number of the pics into 8 albums.  3 of the albums were selfies only and 2 of the albums were portraits.  How many portraits and selfies did she have?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

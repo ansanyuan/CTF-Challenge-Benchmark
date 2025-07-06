@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位家庭主妇去市场。她花了她150美元的3/3中的2/3。她还剩多少钱？。",
+  "topic": "回答下面的数学问题：A housewife goes to the market. She spent 2/3 of her $150. How much does she have left?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

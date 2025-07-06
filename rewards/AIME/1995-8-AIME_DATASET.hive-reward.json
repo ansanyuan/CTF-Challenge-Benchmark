@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：For how many ordered pairs of positive integers $(x,y),$ with $y<x\\le 100,$ are both $\\frac xy$ and $\\frac{x+1}{y+1}$ integers?",
   "checkpoint": [
     {
-      "$\\boxed{85}$": 1
+      "\\boxed{85}": 1
     }
   ],
   "matchingmethod": [

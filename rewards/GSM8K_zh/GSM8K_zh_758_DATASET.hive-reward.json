@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Luna，这只贵宾犬，每天应该吃2杯干粮。但Luna的主人玛丽和她的丈夫弗兰克有时会给Luna喂太多的干粮。有一天，从一个新的12杯装的干粮袋开始，玛丽早上给Luna喂了1杯干粮，晚上又给了1杯干粮，但在同一天，弗兰克也在下午给Luna喂了1杯干粮，晚上比下午给Luna的干粮多了两倍。第二天早上，玛丽会在袋子里找到多少杯干粮？。",
+  "topic": "回答下面的数学问题：Luna, the poodle, is supposed to eat 2 cups of kibble every day.  But Luna's master, Mary, and her husband, Frank, sometimes feed Luna too much kibble.  One day, starting with a new, 12-cup bag of kibble, Mary gave Luna 1 cup of kibble in the morning and 1 cup of kibble in the evening, But on the same day, Frank also gave Luna 1 cup of kibble in the afternoon and twice as much in the late evening as he had given Luna in the afternoon.  The next morning, how many cups of kibble will Mary find remaining in the bag?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

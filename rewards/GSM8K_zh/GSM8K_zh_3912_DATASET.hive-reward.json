@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比尔在尝试加入拳击队之前进行举重训练。他拿了两个2加仑的水壶，将它们填充到70%的容量。如果沙子的密度为5磅/加仑，比尔的临时哑铃重量是多少磅？。",
+  "topic": "回答下面的数学问题：Bill is doing weight training before trying out for the boxing team. He gets two 2-gallon jugs and fills them 70% full with sand. If sand has a density of 5 pounds/gallon, how many pounds do Bill's improvised weights weigh?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

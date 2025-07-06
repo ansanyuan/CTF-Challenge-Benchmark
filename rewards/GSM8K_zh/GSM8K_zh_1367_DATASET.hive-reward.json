@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾薇早上烤了20个纸杯蛋糕，下午比早上多烤了15个纸杯蛋糕。她一共烤了多少个纸杯蛋糕？。",
+  "topic": "回答下面的数学问题：Ivy baked 20 cupcakes in the morning and fifteen more cupcakes in the afternoon than in the morning. How many cupcakes did she bake?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

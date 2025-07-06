@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：巨型洗发水瓶的价格是24.00美元。说明书上说使用2次泵压就可以洗120次。如果Jackie每次洗只用1次泵压，那么每次泵压的成本是多少美分？。",
+  "topic": "回答下面的数学问题：The jumbo bottle of shampoo costs $24.00.  The directions say to use 2 pumps of shampoo and this will give you 120 washings.  If Jackie only uses 1 pump per wash, how much will each pump cost, in cents?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

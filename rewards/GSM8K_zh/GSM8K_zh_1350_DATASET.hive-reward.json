@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾默生和他的朋友们喜欢划船，并且周末不会错过这项运动。一个周末的早上，艾默生划船离开起点6英里。他以恒定的速度继续划船15英里，只在剩下的18英里前停下来休息一会。艾默生这次旅行总共划了多少英里？。",
+  "topic": "回答下面的数学问题：Emerson and his friends love rowing and don't miss the sport on weekends. Starting in the morning, Emerson rowed and was 6 miles away from his starting point on a particular weekend. He continued for another 15 miles at a constant speed, only stopping for a while for rest before covering the remaining 18 miles. What's the total distance covered by Emerson on his trip?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

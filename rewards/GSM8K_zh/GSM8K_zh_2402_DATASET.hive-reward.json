@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只野生老虎逃出了动物园。它在凌晨1点逃跑，动物园管理员直到凌晨4点才注意到它失踪。它的奔跑速度为25英里/小时。找到它花了额外2个小时，但是在奔跑了4个小时后，老虎将速度减慢到10英里/小时。然后它被追赶了半个小时，速度为50英里/小时。它被抓时离动物园有多远？。",
+  "topic": "回答下面的数学问题：A wild tiger escapes the zoo.  He escapes at 1 AM and zookeepers do not notice he is missing until 4 AM.  He runs at a speed of 25 mph.  It takes 2 more hours to find him but after 4 hours of running, the tiger slows his speed to 10 mph.  He then gets chased for half an hour going 50 mph.  How far away from the zoo was he caught?",
   "checkpoint": [
     {
-      "$\\boxed{135}$": 1
+      "\\boxed{135}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：西奥和蒂娅正在为野餐篮购买食物。他们邀请了两位朋友。他们购买了单独的三明治和单独的水果沙拉。他们每人购买了两罐汽水，并购买了3袋零食供朋友和自己分享。三明治每个5美元。水果沙拉每个3美元。汽水每罐2美元。零食袋每个4美元。他们在整个野餐篮的内容上花了多少钱？。",
+  "topic": "回答下面的数学问题：Theo and Tia are buying food for their picnic basket.  They invited two of their friends. They buy individual sandwiches and individual fruit salads. They buy two sodas per person and 3 bags of snacks to share for their friends and themselves. Sandwiches are $5 each.  Fruit salad is $3 each.  Sodas are $2 each.  The snack bags are $4 each.  How much did they spend on the entire contents of their picnic basket?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

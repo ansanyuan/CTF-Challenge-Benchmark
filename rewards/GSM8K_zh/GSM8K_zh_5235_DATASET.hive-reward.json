@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米莉娜7岁，她的祖母比她大9倍。米莉娜的祖父比她的祖母大两岁。米莉娜和她的祖父之间的年龄差是多少？。",
+  "topic": "回答下面的数学问题：Milena is 7 years old, and her grandmother is 9 times older than her. Milena's grandfather is two years older than her grandmother. What is the age difference between Milena and her grandfather?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

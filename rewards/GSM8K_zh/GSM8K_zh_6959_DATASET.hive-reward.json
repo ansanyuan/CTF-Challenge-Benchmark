@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alan和Marcy一起发了150张停车罚单。如果Marcy比Alan的5倍少6张罚单，那么Alan发了多少张罚单？。",
+  "topic": "回答下面的数学问题：Together, Alan and Marcy handed out 150 parking tickets. If Marcy handed out 6 fewer than 5 times as many tickets as Alan, how many tickets did Alan hand out?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

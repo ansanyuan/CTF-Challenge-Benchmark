@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克逊和布兰登都在股市投资了500美元。杰克逊的投资增值了四倍，而布兰登的投资减少到了初始价值的20%。现在杰克逊比布兰登多有多少钱？。",
+  "topic": "回答下面的数学问题：Jackson and Brandon both invest $500 in the stock market. Jackson's investment quadruples in value, while Brandon's is reduced to 20% of the initial value. How much more money does Jackson have than Brandon now?",
   "checkpoint": [
     {
-      "$\\boxed{1900}$": 1
+      "\\boxed{1900}": 1
     }
   ],
   "matchingmethod": [

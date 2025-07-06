@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：兽医诊所的等候室里，四只狗排成一行坐着。第一只狗是猴脸梗，它只有10磅重。在它旁边坐着一只腊肠狗，它的重量是猴脸梗的两倍。在腊肠狗旁边坐着一只巴比龙犬，它的重量是腊肠狗的四分之一。在队伍的最后坐着一只马士提夫犬，它的重量是巴比龙犬的44倍。马士提夫犬的重量是多少磅？。",
+  "topic": "回答下面的数学问题：Four dogs sat in a line within the veterinarian's waiting room.  The first dog was the Affenpinscher, who weighed only 10 pounds.  Next to him sat a Dachshund, who weighed twice as much as the Affenpinscher.  Next to the Dachshund sat a Papillon, who weighed one-fourth as much as the Dachshund.  And at the end of the line sat a Mastiff, who weighed 44 times the weight of the Papillon.  How much did the Mastiff weigh, in pounds?",
   "checkpoint": [
     {
-      "$\\boxed{220}$": 1
+      "\\boxed{220}": 1
     }
   ],
   "matchingmethod": [

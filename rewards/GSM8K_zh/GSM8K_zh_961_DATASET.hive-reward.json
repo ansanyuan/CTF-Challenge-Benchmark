@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：辛迪5岁。她的姐姐简比辛迪大2岁。她们的大姐玛西亚比简大两倍。格雷格比玛西亚大两岁。格雷格多大了？。",
+  "topic": "回答下面的数学问题：Cindy was 5 years old.  Her sister Jan was 2 years older than Cindy.  Their oldest sister Marcia was twice as old as Jan.  Greg was two years older than Marcia.  How old was Greg?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

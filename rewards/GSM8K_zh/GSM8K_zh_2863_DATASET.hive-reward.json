@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Emily刚刚购买了2对价格为30.00美元的窗帘和9幅价格为15.00美元的墙画。商店还提供安装服务。以50.00美元的价格，他们将前来您的家并专业地挂上您的窗帘和画。如果Emily同意这项服务，她的整个订单将花费多少钱？。",
+  "topic": "回答下面的数学问题：Emily just purchased 2 pairs of curtains for $30.00 each and 9 wall prints at $15.00 each.  The store also offers an installation service.  For $50.00 they will come to your house and professionally hang your curtains and prints.  If Emily agrees to this service, how much will her entire order cost?",
   "checkpoint": [
     {
-      "$\\boxed{245}$": 1
+      "\\boxed{245}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Reese加入了一个Pinterest小组，其中成员平均每天贡献10个图钉。小组所有者以每人每周删除5个图钉的速度删除旧图钉。如果该小组有20人，总图钉数为1000，Reese加入一个月后会有多少图钉？。",
+  "topic": "回答下面的数学问题：Reese joined a Pinterest group where members contributed an average of 10 pins per day. The group owner deleted older pins at the rate of 5 pins per week per person. If the group has 20 people and the total number of pins is 1000, how many pins would be there after Reese had been a member for a month?",
   "checkpoint": [
     {
-      "$\\boxed{6600}$": 1
+      "\\boxed{6600}": 1
     }
   ],
   "matchingmethod": [

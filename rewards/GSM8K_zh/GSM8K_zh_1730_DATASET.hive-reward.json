@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡尔文是一个昆虫收藏家。在他的收藏中，他有12只巨型蟑螂，3只蝎子，蟋蟀的数量是蟑螂的一半，毛毛虫的数量是蝎子的两倍。卡尔文收藏中有多少昆虫？。",
+  "topic": "回答下面的数学问题：Calvin is a bug collector.  In his collection, he has 12 giant roaches, 3 scorpions, half as many crickets as roaches, and twice as many caterpillars as scorpions.  How many insects does Calvin have in his collection?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

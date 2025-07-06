@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：尼克的糖果是乔治的两倍。然后乔治吃了5颗糖果。现在乔治剩下3颗糖果。尼克有多少颗糖果？。",
+  "topic": "回答下面的数学问题：Nick had twice as many candies as George. Then George ate 5 candies. Now George has 3 candies left. How many candies does Nick have?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三个篮子A、B和C包含不同数量的不同颜色的弹現。篮子A包含4个红色弹現和2个黄色弹現。篮子B包含6个绿色弹現和1个黄色弹現。篮子C包含3个白色弹現和9个黄色弹現。在拥有最大差异的篮子中，每种颜色弹現的数量之间的差异是多少？。",
+  "topic": "回答下面的数学问题：Three baskets A, B and C contain different numbers of differently colored marbles. Basket A contains 4 red marbles and 2 yellow marbles. Basket B contains 6 green marbles and 1 yellow marble. Basket C contains 3 white marbles and 9 yellow marbles. What is the difference between the number of each color of marble in the basket that has the greatest difference?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

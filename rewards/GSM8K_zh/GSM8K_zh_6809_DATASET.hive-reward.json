@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：要满足他对牡蛎的需求，蟹老板必须至少吃掉乌贼吃的牡蛎的两倍。如果乌贼吃了200个牡蛎，他们总共吃了多少个牡蛎？。",
+  "topic": "回答下面的数学问题：To get his fill of oysters, Crabby has to eat at least twice as many oysters as Squido does. If Squido eats 200 oysters, how many oysters do they eat altogether?",
   "checkpoint": [
     {
-      "$\\boxed{600}$": 1
+      "\\boxed{600}": 1
     }
   ],
   "matchingmethod": [

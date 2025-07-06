@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家园林公司正在向客户的院子里运送石板。每块石板重75磅。如果运货卡车的总载重量为2000磅，那么一次运输80块石板需要多少辆卡车？。",
+  "topic": "回答下面的数学问题：A landscaping company is delivering flagstones to a customer’s yard. Each flagstone weighs 75 pounds. If the delivery trucks can carry a total weight of 2000 pounds, how many trucks will be needed to transport 80 flagstones in one trip?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

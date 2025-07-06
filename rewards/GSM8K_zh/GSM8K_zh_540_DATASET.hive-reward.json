@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家纸张公司决定更加可持续地经营他们的业务。他们决定每砍伐一棵树，他们就要种植三棵树。如果公司在上半年砍伐了200棵树，并在下半年砍伐了300棵树，公司还需要种植多少棵树？。",
+  "topic": "回答下面的数学问题：A paper company decides to operate their business more sustainably. They decide that for every tree they chop down, they want to plant three more. If the company chops down 200 trees in the first half of the year and 300 more trees in the second half of the year, how many more trees does the company need to plant?",
   "checkpoint": [
     {
-      "$\\boxed{1500}$": 1
+      "\\boxed{1500}": 1
     }
   ],
   "matchingmethod": [

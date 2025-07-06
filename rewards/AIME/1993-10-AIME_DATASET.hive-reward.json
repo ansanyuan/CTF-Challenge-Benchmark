@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Euler's formula states that for a convex polyhedron with $V\\,$ vertices, $E\\,$ edges, and $F\\,$ faces, $V-E+F=2\\,$ . A particular convex polyhedron has 32 faces, each of which is either a triangle or a pentagon. At each of its $V\\,$ vertices, $T\\,$ triangular faces and $P^{}_{}$ pentagonal faces meet. What is the value of $100P+10T+V\\,$ ?",
   "checkpoint": [
     {
-      "$\\boxed{250}$": 1
+      "\\boxed{250}": 1
     }
   ],
   "matchingmethod": [

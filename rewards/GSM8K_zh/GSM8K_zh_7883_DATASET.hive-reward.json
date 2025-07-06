@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡罗琳为一家按合同雇佣员工的快递服务公司工作。五月份，他们雇佣了40名员工，每名员工每小时支付15美元，每周工作40小时。六月份，1/4的员工合同到期。计算该公司在两个月内支付给员工的总金额。。",
+  "topic": "回答下面的数学问题：Carolyn works for a delivery service company that hires on a contract basis. In May, they hired 40 employees, paying each employee $15 per hour for a 40-hour workweek. In June, 1/4 of the employees' contracts expired. Calculate the total amount of money the company paid to the employees in the two months.",
   "checkpoint": [
     {
-      "$\\boxed{168000}$": 1
+      "\\boxed{168000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在周末的公路旅行中，詹森一家在高速公路上行驶了210英里，他们的汽车每加仑汽油可以行驶35英里，在城市街道上行驶了54英里，他们的汽车每加仑汽油可以行驶18英里。他们使用了多少加仑的汽油？。",
+  "topic": "回答下面的数学问题：On a weekend road trip, the Jensen family drove 210 miles on highways, where their car gets 35 miles for each gallon of gas and 54 miles on city streets where their car gets 18 miles for each gallon. How many gallons of gas did they use?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

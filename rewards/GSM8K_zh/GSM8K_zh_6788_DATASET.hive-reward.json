@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Koby和Cherie想点烟花。Koby买了2盒烟花，而Cherie只有1盒烟花。Koby的每盒烟花里有3个旋转火花和5个啸叫者。Cherie的盒子里有8个旋转火花和9个啸叫者。Koby和Cherie总共有多少个烟花？。",
+  "topic": "回答下面的数学问题：Koby and Cherie want to light fireworks. Koby has bought 2 boxes of fireworks while Cherie has just 1 box of fireworks. Koby’s boxes each contain 3 sparklers and 5 whistlers. Cherie’s box has 8 sparklers and 9 whistlers. In total, how many fireworks do Koby and Cherie have?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

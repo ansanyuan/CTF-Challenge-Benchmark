@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布莱斯要给他的班级带甜甜圈。他的班级有25名学生，10个孩子想要巧克力甜甜圈，15个想要糖霜甜甜圈。巧克力甜甜圈每个2美元，糖霜甜甜圈每个1美元。甜甜圈的总费用是多少？。",
+  "topic": "回答下面的数学问题：Bryce is bringing in doughnuts for his class. There are 25 students in his class, 10 kids want chocolate doughnuts and 15 want glazed doughnuts. The chocolate doughnuts cost $2 each and the glazed doughnuts cost $1 each. How much is the total cost for doughnuts?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

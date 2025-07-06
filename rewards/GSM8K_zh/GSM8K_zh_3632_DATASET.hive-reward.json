@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Codger是一只三只脚的树懒。他在购买鞋子时遇到了困难，因为商店只出售成双的鞋子。如果他已经拥有了他穿的3双鞋，他需要购买多少双鞋子才能拥有5套完整的3双鞋？。",
+  "topic": "回答下面的数学问题：Codger is a three-footed sloth.  He has a challenging time buying shoes because the stores only sell the shoes in pairs. If he already owns the 3-piece set of shoes he is wearing, how many pairs of shoes does he need to buy to have 5 complete 3-piece sets of shoes?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

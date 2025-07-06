@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔纳斯是一个藏书家。他有很多书，他正在把他的第三间卧室改成图书馆。这个房间有400平方英尺的空间。他计划在房间里放几个书架，每个书架占据80平方英尺的空间。如果他预留160平方英尺的空间用于书桌和一些行走空间，他可以在房间里放多少个书架？。",
+  "topic": "回答下面的数学问题：Jonas is a book collector.  He has so many books he is converting his third bedroom into a library.  This room has 400 square feet of space.  He plans to put several bookshelves in the room and each bookshelf takes up 80 square feet of space.  If he reserves 160 square feet of space to use for a desk and some walking space, how many shelves can he put in the room?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

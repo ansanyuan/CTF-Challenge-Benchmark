@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Club Truncator is in a soccer league with six other teams, each of which it plays once. In any of its 6 matches, the probabilities that Club Truncator will win, lose, or tie are each $\\frac {1}{3}$ . The probability that Club Truncator will finish the season with more wins than losses is $\\frac {m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
   "checkpoint": [
     {
-      "$\\boxed{341}$": 1
+      "\\boxed{341}": 1
     }
   ],
   "matchingmethod": [

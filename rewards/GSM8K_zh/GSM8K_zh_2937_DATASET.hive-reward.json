@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：停车场里有516辆车。三分之一是蓝色的，一半是红色的，其余的是黑色的。停车场里有多少辆黑色的车？。",
+  "topic": "回答下面的数学问题：There are 516 cars in a parking lot. One-third are blue, one-half are red, and the rest are black. How many black cars are on the lot?",
   "checkpoint": [
     {
-      "$\\boxed{86}$": 1
+      "\\boxed{86}": 1
     }
   ],
   "matchingmethod": [

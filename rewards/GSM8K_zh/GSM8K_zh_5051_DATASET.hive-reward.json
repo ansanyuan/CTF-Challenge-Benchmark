@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Loisa想要购买一台价值450美元的平板电脑。由于她没有足够的钱，商店向她提供了一种为期12个月的分期付款计划。她将支付100美元作为首付款，并在接下来的4个月内支付40美元；然后在接下来的四个月内支付35美元；最后在接下来的四个月内支付30美元。如果Loisa选择现金购买平板电脑而不是分期付款，她将节省多少钱？。",
+  "topic": "回答下面的数学问题：Loisa wants to buy a tablet that costs $450 cash. Since she does not have enough money, the store offered her an installment plan for 12 months. She will pay $100 as a down payment and pay $40 for the first 4 months; then $35 for the next four months; then $30 for the last four months. How much will Loisa save if she will buy the tablet in cash instead of on installment?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：多丽丝做保姆每小时赚20美元。她每月的开销至少需要赚1200美元。她平时每个工作日可以做3个小时，周六可以做5个小时。多丽丝需要多少周才能赚够支付她的月开销？。",
+  "topic": "回答下面的数学问题：Doris earns $20 per hour by babysitting. She needs to earn at least $1200 for her monthly expenses. She can babysit for 3 hours every weekday and 5 hours on a Saturday.  How many weeks does it take for Doris to earn enough to cover her monthly expenses?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

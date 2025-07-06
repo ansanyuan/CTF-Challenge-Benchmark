@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯登的企业将加工的400箱牛奶以相等的数量交付给了四个不同城镇的客户。然而，这四个客户中的每一个在交付过程中都退回了60箱破损的牛奶。被客户接受的总箱数是多少？。",
+  "topic": "回答下面的数学问题：Kayden's business delivered an equal number of the 400 cartons of milk it had processed to four of its customers in different towns. However, each of the four customers returned 60 cartons damaged during delivery. What's the total number of cartons that were accepted by the customers?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

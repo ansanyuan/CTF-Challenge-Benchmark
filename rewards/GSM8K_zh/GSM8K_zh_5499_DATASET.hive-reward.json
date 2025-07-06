@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sasha把48张卡片放进一个盒子里。她的妹妹Karen随后拿走了Sasha添加的卡片的1/6。如果盒子里现在有83张卡片，最初盒子里有多少张卡片？。",
+  "topic": "回答下面的数学问题：Sasha added 48 cards into a box. Her sister, Karen, then took out 1/6 of the cards Sasha added. If there are now 83 cards in the box, how many cards were originally in the box?",
   "checkpoint": [
     {
-      "$\\boxed{43}$": 1
+      "\\boxed{43}": 1
     }
   ],
   "matchingmethod": [

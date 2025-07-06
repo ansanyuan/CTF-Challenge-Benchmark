@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克鲁斯先生去看医生，寻求增重的最佳方法。医生告诉他在餐食中包括更多的蛋白质，并过上健康的生活方式。在遵循医生建议的一个月后，克鲁斯先生增重了20磅。在养成更健康的饮食习惯后的第二个月，他又增重了30磅。如果他最初的体重是70磅，那么两个月后他的体重是多少？。",
+  "topic": "回答下面的数学问题：Mr Cruz went to his doctor to seek advice on the best way to gain weight. His doctor told him to include more proteins in his meals and live a generally healthy lifestyle. After a month of following his doctor's advice, Mr Cruz had a weight gain of 20 pounds. He gained 30 more pounds in the second month after more healthy eating habits. If he originally weighed 70 pounds, what's his weight after the two months?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：苏拉亚比凯勒多摘了12个苹果，而凯勒比凯拉少摘了5个苹果。如果凯拉摘了20个苹果，苏拉亚比凯拉多摘了多少个苹果？。",
+  "topic": "回答下面的数学问题：Suraya picked 12 apples more than Caleb, and Caleb picked 5 apples less than Kayla. If Kayla picked 20 apples, how many more apples did Suraya pick than Kayla?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：TJ上周六参加了一场10公里的比赛。他在前半程用了20分钟。他在后半程用了30分钟。他的平均每公里用时是多少？。",
+  "topic": "回答下面的数学问题：TJ ran a 10K race last Saturday. He ran the first half in 20 minutes. He completed the second half in 30 minutes. What was his average time per kilometer?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：由于鲑鱼的迁徙，特劳特河中的鲑鱼总数增加了最初河中数量的十倍。如果最初有500条鲑鱼，请计算现在河中的鱼的总数。。",
+  "topic": "回答下面的数学问题：Because of the migration of salmon, the total number of salmon in river Trout has increased by ten times the number initially in the river. If there were 500 salmons initially, calculate the total number of fish in the river now.",
   "checkpoint": [
     {
-      "$\\boxed{5500}$": 1
+      "\\boxed{5500}": 1
     }
   ],
   "matchingmethod": [

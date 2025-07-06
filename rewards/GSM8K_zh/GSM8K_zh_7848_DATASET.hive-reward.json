@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽有30只羊。她每天从其中一半的羊那里得到1公斤的牛奶，从另一半得到2公斤的牛奶。她每天收集多少公斤的牛奶？。",
+  "topic": "回答下面的数学问题：Mary has 30 sheep. She gets 1 kg of milk from half of them and 2 kg of milk from the other half every day. How much milk does she collect every day?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

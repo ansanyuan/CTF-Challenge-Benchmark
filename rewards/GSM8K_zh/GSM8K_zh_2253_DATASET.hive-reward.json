@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽和吉米从同一地点开始跑步，但是朝相反的方向跑。玛丽的速度是每小时5英里，吉米的速度是每小时4英里。1小时后他们之间的距离是多少？。",
+  "topic": "回答下面的数学问题：Mary and Jimmy start running from the same spot, but in opposite directions. Mary runs at 5 miles per hour and Jimmy runs at 4 miles per hour. What is the distance between them after 1 hour?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

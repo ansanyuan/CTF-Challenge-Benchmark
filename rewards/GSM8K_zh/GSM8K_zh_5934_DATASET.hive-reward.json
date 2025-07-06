@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marly有十张20美元的钞票，八张10美元的钞票和四张5美元的钞票。如果她想把她的钞票换成100美元的钞票，她会有多少张100美元的钞票？。",
+  "topic": "回答下面的数学问题：Marly has ten $20 bills, eight $10 bills, and four $5 bills. If she wants to change her bills to $100 bills, how many pieces of $100 bills will she have?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

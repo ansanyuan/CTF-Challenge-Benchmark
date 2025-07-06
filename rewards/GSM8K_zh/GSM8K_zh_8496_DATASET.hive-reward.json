@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：特蕾莎的大号毛绒玩具售价是小号毛绒玩具的三倍。今天，她卖出的小号毛绒玩具是大号的两倍，并且从销售中赚了120美元。每个小号毛绒玩具的成本是4美元。她卖出了多少个小号毛绒玩具？。",
+  "topic": "回答下面的数学问题：Teresa sells large stuffed animals for three times the price of small stuffed animals. Today, she sold twice as many small stuffed animals as large ones and earned $120 from the sales. Each small stuffed animal costs $4. How many small stuffed animals did she sell?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

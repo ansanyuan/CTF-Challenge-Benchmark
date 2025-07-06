@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：冈瑟每3分钟可以打160个字，他每天工作480分钟。他一天可以打多少字？。",
+  "topic": "回答下面的数学问题：Gunther can type 160 words every 3 minutes and he works 480 minutes per day. How many words can Gunther type in a working day?",
   "checkpoint": [
     {
-      "$\\boxed{25600}$": 1
+      "\\boxed{25600}": 1
     }
   ],
   "matchingmethod": [

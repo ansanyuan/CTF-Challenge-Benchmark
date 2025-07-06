@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果10个人花10天铲掉10000磅的煤，那么半数的这10个人需要多少天才能铲掉40000磅的煤？。",
+  "topic": "回答下面的数学问题：If it takes 10 people 10 days to shovel 10,000 pounds of coal, how many days will it take half of these ten people to shovel 40,000 pounds of coal?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

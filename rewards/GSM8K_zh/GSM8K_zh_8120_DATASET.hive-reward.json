@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alisa每小时骑行12英里，骑行了4.5小时。Stanley每小时骑行10英里，骑行了2.5小时。Alisa和Stanley总共骑行了多少英里？。",
+  "topic": "回答下面的数学问题：Alisa biked 12 miles per hour for 4.5 hours. Stanley biked at 10 miles per hour for 2.5 hours. How many miles did Alisa and Stanley bike in total?",
   "checkpoint": [
     {
-      "$\\boxed{79}$": 1
+      "\\boxed{79}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安雅有安德烈亚的4倍多的橡皮。如果安德烈亚有4个橡皮，安雅比安德烈亚多多少个橡皮？。",
+  "topic": "回答下面的数学问题：Anya has 4 times as many erasers as Andrea. If Andrea has 4 erasers, how many more erasers does Anya have than Andrea?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

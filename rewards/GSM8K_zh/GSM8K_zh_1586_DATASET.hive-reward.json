@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Olly想要给他的宠物买鞋来保护它们的爪子。他有3只狗，2只猫和一只雪貂。他需要多少双鞋？。",
+  "topic": "回答下面的数学问题：Olly wants to get shoes to protect his pets’ paws. He owns 3 dogs, 2 cats, and a ferret. How many shoes does he need?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

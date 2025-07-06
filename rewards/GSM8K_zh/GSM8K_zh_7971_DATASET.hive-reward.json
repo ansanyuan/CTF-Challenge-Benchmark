@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：保罗每天开车两次：早上和下午。他这样做了14天。每次早上的车费大约是6美元，每次下午的车费大约是2美元。在这两周内，他在开车上花了多少钱？。",
+  "topic": "回答下面的数学问题：Paul is driving a car twice a day: in the morning, and in the afternoon. He did that for 14 days. Each morning ride cost him about $6, and each afternoon ride, about $2. How much money did he spend on driving his car during these two weeks?",
   "checkpoint": [
     {
-      "$\\boxed{112}$": 1
+      "\\boxed{112}": 1
     }
   ],
   "matchingmethod": [

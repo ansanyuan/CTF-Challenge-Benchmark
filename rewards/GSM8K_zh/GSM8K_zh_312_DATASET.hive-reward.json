@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个公共汽车的座位排成23排，每排4个座位。一开始上车的有16人。在第一个站，有15人上车，3人下车。在第二个站，有17人上车，10人下车。在第二个站后，还有多少空座位？。",
+  "topic": "回答下面的数学问题：The seats of a bus are arranged in 23 rows of 4 seats. At the start, 16 people climb. At the first stop, 15 people board the bus and 3 get off. At the second stop, 17 people get on the bus and 10 get off. How many empty seats are there after the second stop?",
   "checkpoint": [
     {
-      "$\\boxed{57}$": 1
+      "\\boxed{57}": 1
     }
   ],
   "matchingmethod": [

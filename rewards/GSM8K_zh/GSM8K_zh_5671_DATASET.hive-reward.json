@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史密斯老师正在教二年级英语课，对班级的规模感到震惊。教室里有6张桌子，每张桌子上目前坐着3名学生。莎莉说有3个女孩去了洗手间，还有三倍的学生去了食堂。埃利奥特说最近有2组学生加入了他们的班级，每组有4名学生。这些学生现在都不在教室里。卢卡斯指出有一些外国交换学生加入了班级；3名来自德国，3名来自法国，3名来自挪威。这些学生也不在。班级应该有多少学生？。",
+  "topic": "回答下面的数学问题：Miss Smith is teaching second period English and is shocked at how small the class seems. There are 6 tables in the classroom with 3 students currently sitting at each table. Sally said 3 girls went to the bathroom, and three times more students went to the canteen. Elliott said that 2 groups of students have recently been added to their class, and each group has 4 students in it. None of these students are in the class right now. Lucas pointed out that a few foreign exchange students have joined the class; 3 from Germany, 3 from France, and 3 from Norway. These students are also missing. How many students are supposed to be in the class?",
   "checkpoint": [
     {
-      "$\\boxed{47}$": 1
+      "\\boxed{47}": 1
     }
   ],
   "matchingmethod": [

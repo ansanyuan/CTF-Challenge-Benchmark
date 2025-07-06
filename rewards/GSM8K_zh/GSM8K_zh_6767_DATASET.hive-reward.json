@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米里亚姆的专辑数量是卡特琳娜的五倍。卡特琳娜的专辑数量是布里奇特的六倍。布里奇特的专辑数量比阿黛尔少15张。如果阿黛尔有30张专辑，那么她们一共有多少张专辑？。",
+  "topic": "回答下面的数学问题：Miriam has five times as many albums as Katrina. Katrina has six times the number of albums as Bridget. Bridget has 15 fewer albums than Adele. How many albums do they have together if Adele has 30 albums?",
   "checkpoint": [
     {
-      "$\\boxed{585}$": 1
+      "\\boxed{585}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kylie班级的学生人数是50。在一次特定的测试中，有十名学生得了90分，15名学生得了比前十名学生少十分，其余的学生每人得了60分。整个班级的平均分是多少？。",
+  "topic": "回答下面的数学问题：The number of students in Kylie's class is 50. In a particular test, ten students scored 90 marks, 15 scored ten marks fewer than the first ten students, and the rest scored 60 marks each. What are the average marks for the whole class?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

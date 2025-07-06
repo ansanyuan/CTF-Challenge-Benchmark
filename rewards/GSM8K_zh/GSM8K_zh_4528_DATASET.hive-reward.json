@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊丽莎白，艾玛和艾尔莎周三去购物。艾玛总共花了58美元。如果艾尔莎花的钱是艾玛的两倍，而伊丽莎白花的钱是艾尔莎的四倍，她们总共花了多少钱？。",
+  "topic": "回答下面的数学问题：Elizabeth, Emma, and Elsa went shopping on Wednesday. In total Emma spent $58 If Elsa spent twice as much as Emma, and Elizabeth spent four times as much as Elsa, how much money did they spend in total?",
   "checkpoint": [
     {
-      "$\\boxed{638}$": 1
+      "\\boxed{638}": 1
     }
   ],
   "matchingmethod": [

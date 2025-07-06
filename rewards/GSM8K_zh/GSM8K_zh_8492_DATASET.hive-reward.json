@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯睡觉前需要10分钟阅读他书本的3页。他读了18页书后决定去睡觉。詹姆斯花了多少时间阅读（单位：分钟）？。",
+  "topic": "回答下面的数学问题：It takes James 10 minutes to read 3 pages of his book before he goes to bed. He reads 18 pages of his book and then decides to go to sleep. How long does James spend reading, in minutes?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

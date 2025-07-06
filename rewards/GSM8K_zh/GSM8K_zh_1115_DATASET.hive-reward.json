@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jeff每天做10个甜甜圈，连续做了12天。Jeff每天吃一个甜甜圈。然后Chris过来吃了8个甜甜圈。如果每个盒子可以装10个甜甜圈，Jeff可以用他的甜甜圈装满多少个盒子？。",
+  "topic": "回答下面的数学问题：Jeff makes 10 donuts each day for 12 days. Jeff eats one of the donuts each day. Chris then comes over and eats 8 donuts. If 10 donuts fit in each box, how many boxes can Jeff fill with his donuts?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰买了3件每件20美元的T恤。他还买了50美元的裤子。他一共花了多少钱？。",
+  "topic": "回答下面的数学问题：John buys 3 t-shirts that cost $20 each.  He also buys $50 in pants.  How much does he spend?",
   "checkpoint": [
     {
-      "$\\boxed{110}$": 1
+      "\\boxed{110}": 1
     }
   ],
   "matchingmethod": [

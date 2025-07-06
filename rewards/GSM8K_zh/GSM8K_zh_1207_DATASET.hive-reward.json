@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当斯宾塞跳绳时，他每分钟跳4次。他每次跳绳10分钟，每天跳2次。在5天内，斯宾塞会跳多少次？。",
+  "topic": "回答下面的数学问题：When Spencer jumps rope, he jumps 4 times per minute. He jumps for 10 minutes each session and does 2 sessions each day. How many jumps will Spencer do in 5 days?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

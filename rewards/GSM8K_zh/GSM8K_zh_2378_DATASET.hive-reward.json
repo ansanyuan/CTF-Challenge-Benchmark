@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校戏剧的门票价格是学生6美元，成人8美元。如果有20名学生和12名成人购买了门票，总共卖出了多少美元的门票？。",
+  "topic": "回答下面的数学问题：Tickets to the school play cost $6 for students and $8 for adults. If 20 students and 12 adults bought tickets, how many dollars' worth of tickets were sold?",
   "checkpoint": [
     {
-      "$\\boxed{216}$": 1
+      "\\boxed{216}": 1
     }
   ],
   "matchingmethod": [

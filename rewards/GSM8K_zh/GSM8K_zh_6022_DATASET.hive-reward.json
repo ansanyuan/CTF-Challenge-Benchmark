@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈利正在乘公交车回家。他已经坐在公交车上15分钟了，他知道剩下的旅程还需要25分钟。从公交车站到他家的步行需要的时间是公交车旅程时间的一半。哈利总共会花费多少时间在旅行上？。",
+  "topic": "回答下面的数学问题：Harry is traveling home on the bus. He has already been sat on the bus for 15 minutes, and he knows the rest of the journey will take another 25 minutes. The walk from the bus stop to his house will take half the amount of time the bus journey took. In total, how many minutes will Harry have spent traveling?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

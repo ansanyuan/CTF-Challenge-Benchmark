@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰每天读圣经。他每天读2小时，每小时读50页。如果圣经有2800页，他需要多少周才能读完？。",
+  "topic": "回答下面的数学问题：John reads his bible every day.  He reads for 2 hours a day and reads at a rate of 50 pages an hour.  If the bible is 2800 pages long how many weeks will it take him to read it all?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

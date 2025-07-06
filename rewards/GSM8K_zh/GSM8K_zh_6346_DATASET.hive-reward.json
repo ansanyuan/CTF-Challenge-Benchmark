@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Karen在她的房子周围挂了6盆蕨类植物。每盆蕨类植物有7片叶片，每片叶片有30片叶子。所有蕨类植物一共有多少片叶子？。",
+  "topic": "回答下面的数学问题：Karen hangs 6 ferns around her house. Each fern has 7 fronds, and each frond has 30 leaves. How many leaves do all the ferns have?",
   "checkpoint": [
     {
-      "$\\boxed{1260}$": 1
+      "\\boxed{1260}": 1
     }
   ],
   "matchingmethod": [

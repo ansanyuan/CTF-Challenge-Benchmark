@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Aryan欠Fernanda 1200美元，这是Kyro欠Fernanda的两倍。Aryan决定支付她欠Fernanda的60%，而Kyro支付Fernanda她的80%。如果Fernanda的储蓄账户里有300美元，并将她从债务人那里得到的钱加入储蓄账户，现在计算她储蓄账户中的总金额。。",
+  "topic": "回答下面的数学问题：Aryan owes Fernanda $1200, which is twice what Kyro owes Fernanda. Aryan decides to pay 60% of her debt to Fernanda, and Kyro pays Fernanda 80% of her dept. If Fernanda had $300 in her savings account and adds the money she's been paid by her debtors to the savings account, calculate the total amount of money in her savings account now.",
   "checkpoint": [
     {
-      "$\\boxed{1500}$": 1
+      "\\boxed{1500}": 1
     }
   ],
   "matchingmethod": [

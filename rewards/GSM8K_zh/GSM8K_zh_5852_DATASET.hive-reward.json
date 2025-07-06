@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gilbert是一只有胡须的蜥蜴，当温度平均每天为华氏90度时，他每周吃4只蟋蟀，但当温度平均每天为华氏100度时，他每周吃的蟋蟀数量是前者的两倍。如果在15周内，温度平均80%的时间为华氏90度，其余时间为华氏100度，那么在这15周内，他将吃多少只蟋蟀？。",
+  "topic": "回答下面的数学问题：Gilbert, the bearded dragon, eats 4 crickets per week when the temperature averages 90 degrees F per day, but he eats twice as many crickets per week when the temperature averages 100 degrees F.  How many crickets will he eat over 15 weeks if the temperature averages 90 degrees F for 80% of the time, and 100 degrees F for the remainder of the time?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：彼得计划这周去看电影。他总是买7美元的票和7美元的爆米花。如果他这周有42美元，他能去看几次电影？。",
+  "topic": "回答下面的数学问题：Peter plans to go to the movies this week. He always gets a ticket for $7 and popcorn for $7. If he has 42 dollars for the week, how many times can he go to the movies?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

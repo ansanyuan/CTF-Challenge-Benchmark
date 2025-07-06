@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Omi的年龄是Kimiko的两倍。Arlette的年龄是Kimiko的3/4。如果Kimiko今年28岁，计算三人的平均年龄？。",
+  "topic": "回答下面的数学问题：Omi is twice as old as Kimiko. Arlette is 3/4 times as old as Kimiko. If Kimiko is 28 years old, calculate the average age of the three?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

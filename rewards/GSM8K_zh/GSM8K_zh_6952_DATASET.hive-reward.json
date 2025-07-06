@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bubba买了一个新的两层仓库。当空的时候，建筑的第一层的存储空间是第二层的两倍。他搬进空房子的第一批物品是几千个箱子；他把它们都放在第二层，填满了第二层存储空间的四分之一。如果这些箱子占用了5000平方英尺的存储空间，那么建筑物中还有多少平方英尺的存储空间可用？。",
+  "topic": "回答下面的数学问题：Bubba bought a new two-story warehouse.  When empty, the first floor of the building contains twice as much floor space for storage as the second floor.  The first items he brought into his empty building were several thousand boxes; and he put them all on the second floor, which filled one-quarter of the second floor storage space.  If the boxes used up 5,000 square feet of storage space, how many square feet of storage space is still available in the building?",
   "checkpoint": [
     {
-      "$\\boxed{55000}$": 1
+      "\\boxed{55000}": 1
     }
   ],
   "matchingmethod": [

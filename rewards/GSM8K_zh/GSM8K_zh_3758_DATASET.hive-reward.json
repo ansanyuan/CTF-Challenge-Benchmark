@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：5年后，希斯将是裘德的3倍年龄。如果希斯今天16岁，那么裘德今天多大？。",
+  "topic": "回答下面的数学问题：In 5 years, Heath will be 3 times as old as Jude.  If Heath is 16 years old today, how old is Jude today?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

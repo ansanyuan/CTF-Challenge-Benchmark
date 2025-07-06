@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：维罗尼卡是学校橄榄球队的队长，她为球队的比赛日练习带了27个黄色球和33个棕色球到场上。她携带的球中有多少百分比是黄色的？。",
+  "topic": "回答下面的数学问题：Veronica, who is the team captain of their school football team, carried 27 yellow balls and 33 brown balls to the field for the team's matchday practice. What percentage of the balls that she carried were yellow?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

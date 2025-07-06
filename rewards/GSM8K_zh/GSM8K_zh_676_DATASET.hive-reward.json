@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安迪是一名律师，他正在处理两起诉讼。第一起诉讼赢得的概率为30%，如果他赢了可以得到500万美元，如果输了则得不到任何赔偿。第二起诉讼赢得的概率为50%，如果安迪输了可以得到100万美元，如果赢了则可以得到200万美元。以百分比表示，安迪输掉两起诉讼的可能性比赢得两起诉讼的可能性大多少？。",
+  "topic": "回答下面的数学问题：Andy is a lawyer who's working on two lawsuits. The first lawsuit has a 30% chance of paying out $5,000,000 upon a win and $0 if he loses it. The second lawsuit has a 50% chance of paying out $1,000,000 if Andy loses and a 50% chance of paying out $2,000,000 if he wins.  Expressed as a percentage, how much more likely is it that Andy loses both lawsuits compared to winning both of them?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

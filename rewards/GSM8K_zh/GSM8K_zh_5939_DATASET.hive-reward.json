@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个男人在俱乐部商店购买一双运动鞋，他可以获得任何购买的会员折扣10%。除了会员折扣外，这个男人还有一张可以减10美元的优惠券。如果这个男人想购买一双120美元的运动鞋，并且会员折扣必须在使用优惠券后应用，那么在使用优惠券和会员折扣后，他将支付多少钱购买这双运动鞋？。",
+  "topic": "回答下面的数学问题：A man is purchasing a pair of sneakers at a club store where he receives a membership discount of 10% off any purchase.  In addition to the membership discount, the man also has a coupon for $10 off any pair of sneakers.  If the man wants to purchase a $120 pair of sneakers and the membership discount must be applied after the coupon, how much will he pay for the sneakers after using both the coupon and membership discount?",
   "checkpoint": [
     {
-      "$\\boxed{99}$": 1
+      "\\boxed{99}": 1
     }
   ],
   "matchingmethod": [

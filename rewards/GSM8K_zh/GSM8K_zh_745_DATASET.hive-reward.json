@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Yolanda早上7点离家去上班，骑自行车以每小时20英里的速度。她离开后15分钟，她的丈夫意识到她忘记了午餐，便跳进车里送午餐给她。如果他以每小时40英里的速度开车，并且沿着Yolanda完全相同的路线，他需要多少分钟才能赶上她？。",
+  "topic": "回答下面的数学问题：Yolanda leaves home for work at 7:00 AM, riding her bike at 20 miles per hour. 15 minutes after she leaves, her husband realizes that she forgot her lunch, and jumps in the car to bring it to her. If he drives at 40 miles per hour and follows the exact same route as Yolanda, how many minutes will it take him to catch her?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每个路口的电线杆上有4盏路灯。如果每个交叉口有6根电线杆，而这条路有4个交叉口，计算出总共有多少盏路灯在正常工作，如果从总数中有20盏路灯不工作。。",
+  "topic": "回答下面的数学问题：Each pole on a road intersection has 4 street lights. If the number of poles at each intersection is 6, and the road has 4 intersections, calculate the total number of functioning street lights if 20 streetlights from the total number are not working.",
   "checkpoint": [
     {
-      "$\\boxed{76}$": 1
+      "\\boxed{76}": 1
     }
   ],
   "matchingmethod": [

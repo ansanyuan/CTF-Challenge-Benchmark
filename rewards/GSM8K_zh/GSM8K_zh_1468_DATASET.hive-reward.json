@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨米比珍妮多2个瓶盖。珍妮有比比莉多3倍的瓶盖。如果比莉有2个瓶盖，那么萨米有多少个瓶盖？。",
+  "topic": "回答下面的数学问题：Sammy has 2 more bottle caps than Janine. Janine has 3 times as many bottle caps as Billie. If Billie has 2 bottle caps, how many does Sammy have?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

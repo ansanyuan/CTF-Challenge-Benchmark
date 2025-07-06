@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jimmy在糖果店买了2块每块0.75美元的糖果。然后他买了4个每个0.25美元的棒棒糖。他花了他从铲雪挣的钱的六分之一。如果他每条车道收费1.5美元，他铲了多少条车道？。",
+  "topic": "回答下面的数学问题：Jimmy is at the candy store and buys 2 candy bars for $.75 each. He then buys 4 lollipops that cost $.25 each. He spent 1/6 of the money he earned from shoveling snow. If he charges $1.5 per driveway, how many driveways did he shovel?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

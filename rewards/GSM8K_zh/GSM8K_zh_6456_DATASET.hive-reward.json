@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚当刚买了一些新书，所以他决定整理一下书架。在他把新书放到书架上后，他意识到他买了足够的书来完全填满书架，并多出2本书。在购物之前，亚当的书架上有56本书。如果他的书架有4层，每层平均20本书，亚当在购物时买了多少本书？。",
+  "topic": "回答下面的数学问题：Adam has just bought some new books so he has decided to clean up his bookcase. After he adds his new books to his bookshelf he realizes that he has bought enough books to finish completely filling his bookcase with 2 books left over. Before his shopping trip, Adam had 56 books in his bookcase. If his bookcase has 4 shelves and averages 20 books per shelf, how many books did Adam buy on his shopping trip?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

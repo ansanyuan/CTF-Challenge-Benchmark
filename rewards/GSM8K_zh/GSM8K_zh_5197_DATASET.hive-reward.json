@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克每天读书2小时。他决定每周增加4小时的读书时间。马克想在一周内花多少时间读书？。",
+  "topic": "回答下面的数学问题：Mark is reading books, for 2 hours each day. He decided to increase his time spent on reading books weekly, by 4 hours. How much time does Mark want to spend during one week on reading books?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

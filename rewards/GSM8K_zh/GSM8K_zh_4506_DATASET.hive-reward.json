@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：动荡导致21个不同城市连续抗议30天。在每个城市，每天有10人被逮捕。每个人在审判前在监狱里度过4天，然后度过半个2周的刑期。总共有多少周的监禁时间？。",
+  "topic": "回答下面的数学问题：Unrest leads to 30 days of protest in 21 different cities.  In each city, there are 10 arrests per day.  The average person spends 4 days in jail before trial and then spends half of a 2-week sentence.  How many combined weeks of jail time are there?",
   "checkpoint": [
     {
-      "$\\boxed{9900}$": 1
+      "\\boxed{9900}": 1
     }
   ],
   "matchingmethod": [

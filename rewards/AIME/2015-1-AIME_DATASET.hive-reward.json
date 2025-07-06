@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $N$ be the least positive integer that is both $22$ percent less than one integer and $16$ percent greater than another integer. Find the remainder when $N$ is divided by $1000$ .",
   "checkpoint": [
     {
-      "$\\boxed{131}$": 1
+      "\\boxed{131}": 1
     }
   ],
   "matchingmethod": [

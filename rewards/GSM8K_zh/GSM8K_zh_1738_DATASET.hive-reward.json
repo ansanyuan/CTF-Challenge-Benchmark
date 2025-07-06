@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在北极熊俱乐部，杰瑞和他的三个朋友，伊莲，乔治和克莱默轮流跳进装满冰冷水的游泳池。杰瑞在冷水中待了3分钟后变得太冷无法继续待在冰冷的水中。伊莲在游泳池里待的时间是杰瑞的两倍。乔治只能在游泳池里待的时间是伊莲的三分之一。而克莱默不小心把自己锁在浴室里，找不到游泳池。杰瑞和他的朋友们在冰冷的水中总共待了多少分钟？。",
+  "topic": "回答下面的数学问题：At the polar bear club, Jerry and his three friends, Elaine, George, and Kramer, took turns jumping into a swimming pool filled with freezing-cold water.  Jerry was in the pool for 3 minutes before becoming too cold to remain in the cold water.  Elaine stayed in the pool for twice as long as Jerry.  George could only stay in the pool for one-third as long as Elaine.  And Kramer, who accidentally locked himself in the bathroom, could not find the pool.  What is the combined total of minutes that Jerry and his friends were in the cold water?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

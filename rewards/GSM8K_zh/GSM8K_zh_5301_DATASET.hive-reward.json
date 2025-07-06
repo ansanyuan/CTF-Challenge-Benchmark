@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈维尔每周打2场棒球比赛。在他的前20场比赛中，他平均每场比赛打2支安打。如果他还剩10场比赛，他需要平均每场比赛打多少支安打才能将他本赛季的平均安打数提高到3支？。",
+  "topic": "回答下面的数学问题：Javier plays 2 baseball games a week. In each of his first 20 games, he averaged 2 hits. If he has 10 games left, how many hits a game does he have to average to bring his average for the season up to 3 hits a game?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

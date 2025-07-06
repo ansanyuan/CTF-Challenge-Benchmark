@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Trevor需要去市中心约会。乘坐Uber去市中心的费用比Lyft多3美元。Lyft的费用比出租车的费用多4美元。Uber的费用是22美元。如果Trevor乘坐出租车去市中心并给出租车司机原始费用的20%小费，那么乘车去市中心的总费用是多少？。",
+  "topic": "回答下面的数学问题：Trevor needs to go downtown for a restaurant date. An Uber ride downtown costs $3 more than a Lyft ride. A Lyft ride costs $4 more than a taxi ride. The Uber ride costs $22. If Trevor takes a taxi downtown and tips the taxi driver 20% of the original cost of the ride, what is the total cost of the ride downtown?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

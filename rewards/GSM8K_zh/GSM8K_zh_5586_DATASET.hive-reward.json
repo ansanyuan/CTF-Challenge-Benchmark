@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一月份，参观国家公园的家庭看到动物26次。二月份，参观国家公园的家庭看到的动物数量是一月份的三倍。然后在三月份，动物变得更害羞，参观国家公园的家庭看到的动物数量是二月份的一半。在一年的前三个月里，家庭总共看到了多少次动物？。",
+  "topic": "回答下面的数学问题：In January the families visiting a national park see animals 26 times. In February the families that visit the national park see animals three times as many as were seen there in January. Then in March the animals are shyer and the families who visit the national park see animals half as many times as they were seen in February. How many times total did families see an animal in the first three months of the year?",
   "checkpoint": [
     {
-      "$\\boxed{143}$": 1
+      "\\boxed{143}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：博的儿子是三胞胎。他们今天16岁。三年前，他的3个儿子的年龄总和等于博的年龄。博今天多大了？。",
+  "topic": "回答下面的数学问题：Beau’s sons are triplets.  They are 16 years old today.  Three years ago, the sum of his 3 sons’ ages equaled Beau’s age.  How old is Beau today?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

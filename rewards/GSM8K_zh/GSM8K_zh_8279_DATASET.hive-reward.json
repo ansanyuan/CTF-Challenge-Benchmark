@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯为他的未婚妻买了一枚戒指。钻石花了600美元，黄金花了300美元。他为制作支付了30%的额外费用。他一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：James buys a ring for his bride-to-be.  The diamond cost $600 and the gold cost $300.  He pays a 30% premium for it to be made.  How much did he pay?",
   "checkpoint": [
     {
-      "$\\boxed{1170}$": 1
+      "\\boxed{1170}": 1
     }
   ],
   "matchingmethod": [

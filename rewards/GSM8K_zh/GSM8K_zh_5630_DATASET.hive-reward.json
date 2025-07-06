@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：镇上三分之一的居民已经接种了完整的COVID疫苗。三分之一的人因为已经从COVID中康复，所以具有免疫力。如果镇上六分之一的居民既接种了疫苗又已经感染过COVID，那么镇上有多少百分比的人以某种方式具有免疫力？。",
+  "topic": "回答下面的数学问题：1/3 of the townspeople have received the full COVID vaccine. 1/3 are immune because they already recovered from COVID. If 1/6 of the townspeople are both vaccinated and already had COVID, what percent of the town is immune in some way?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

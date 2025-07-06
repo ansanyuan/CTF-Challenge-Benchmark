@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有141个金色气球和两倍多的银色气球。如果金色和银色气球加起来是150个黑色气球，总共有多少个气球？。",
+  "topic": "回答下面的数学问题：There are 141 gold balloons and twice as many silver balloons. If the gold and silver balloons were added to 150 black balloons, how many balloons are there in total?",
   "checkpoint": [
     {
-      "$\\boxed{573}$": 1
+      "\\boxed{573}": 1
     }
   ],
   "matchingmethod": [

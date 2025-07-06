@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：2017年底某棵树的高度为100米。它每年的增长率是前一年的高度的10%。从2017年底到2019年底，这棵树一共长高了多少米？。",
+  "topic": "回答下面的数学问题：A certain tree was 100 meters tall at the end of 2017. It will grow 10% more than its previous height each year. How long has the tree grown from 2017 until the end of 2019?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

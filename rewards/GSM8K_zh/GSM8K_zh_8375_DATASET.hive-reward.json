@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Calvin为他的家人做晚餐汤。他有一个锅，里面的汤足够装满四个成人的碗或八个孩子的碗。他是成人，将和他的成人妻子以及他们的两个孩子一起吃饭。如果每个人一餐吃一碗，那么每个孩子能从剩下的汤中吃几次午餐？。",
+  "topic": "回答下面的数学问题：Calvin is making soup for his family for dinner. He has a pot with enough soup to fill four adult's bowls or eight child's bowls. He is an adult and will be eating with his adult wife and their two children. If everyone eats one bowl at a meal, how many times will each child be able to have a bowl of soup for lunch from the leftover soup?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一对狗在街对面互相吠叫。贵宾犬每次吠叫两次，而梗犬每次吠叫时主人都会让它安静。在狗停止吠叫之前，主人必须说6次“安静”。贵宾犬吠叫了多少次？。",
+  "topic": "回答下面的数学问题：A pair of dogs are barking back and forth at each other from across the street. The poodle barks twice for every one time the terrier barks. The terrier’s owner hushes it every second time it barks. She has to say “hush” six times before the dogs stopped barking. How many times did the poodle bark?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

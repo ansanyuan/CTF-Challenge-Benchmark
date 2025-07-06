@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有一辆手推车司机在第一站接载了10个人。在下一站，有3个人下车，第一站的人数的两倍上了车。在第三站，有18个人下车，上了2个人。目前手推车上有多少人？。",
+  "topic": "回答下面的数学问题：A trolley driver picked up 10 people on his 1st stop.  On the next stop, 3 people got off and twice as many people from the 1st stop got on.  On the third stop, 18 people got off and 2 got on.  How many people are currently on the trolley?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

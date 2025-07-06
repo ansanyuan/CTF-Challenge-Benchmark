@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Josh想为他的儿子建一个长3英尺，宽3英尺的正方形沙箱。他可以以每袋4.00美元的价格购买3平方英尺的沙子。填满沙箱需要多少钱？。",
+  "topic": "回答下面的数学问题：Josh wants to build a square sandbox that is 3 ft long, 3 ft wide for his son.  He can buy sand in 3 sq ft bags for $4.00 a bag.  How much will it cost him to fill up the sandbox?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

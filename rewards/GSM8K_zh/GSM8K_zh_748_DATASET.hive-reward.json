@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰制造了一枚可以飞行500英尺的模型火箭。他制造了第二枚可以飞行两倍高度的火箭。这两枚火箭的总高度是多少？。",
+  "topic": "回答下面的数学问题：John builds a model rocket that can travel 500 ft in the air.  He builds a second rocket that can travel twice as high.  What is the combined height of the two rockets?",
   "checkpoint": [
     {
-      "$\\boxed{1500}$": 1
+      "\\boxed{1500}": 1
     }
   ],
   "matchingmethod": [

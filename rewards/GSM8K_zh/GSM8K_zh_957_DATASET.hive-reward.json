@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Joel的花园面积为64平方英尺。他想用一半的花园种植水果，另一半用于种植蔬菜。他想用水果区的四分之一来种植草莓。花园中将用多少平方英尺来种植草莓？。",
+  "topic": "回答下面的数学问题：Joel’s garden is 64 square feet large. He wants to use half of the garden for fruits and half of the garden for vegetables. He wants to use a quarter of the fruit section for strawberries. How many square feet of the garden will be used for strawberries?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个小而古老的木桥一次最多能承受100千克。迈克、梅根和凯利是三个决定同时过桥的孩子。凯利重34千克，比梅根轻15%。迈克比梅根重5千克。这三个孩子一起过桥超重多少千克？。",
+  "topic": "回答下面的数学问题：A small, old, wooden bridge can hold up to 100 kilograms at once. Mike, Megan, and Kelly are three children who decided to cross the bridge at the same time. Kelly weighs 34 kilograms, which is 15% less than Megan. Mike weighs 5 kilograms more than Megan. How much too much do the three children weigh together to cross the bridge?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

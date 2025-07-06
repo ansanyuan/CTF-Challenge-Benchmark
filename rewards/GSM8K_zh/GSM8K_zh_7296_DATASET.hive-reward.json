@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：A平原以东的地区比B平原以东的地区少50平方英里。如果B平原有200平方英里，那么这两个平原总共有多少平方英里？。",
+  "topic": "回答下面的数学问题：The region east of plain A is 50 square miles less than the region east of plain B. If plain B has 200 square miles, how many square miles do the plains have in total?",
   "checkpoint": [
     {
-      "$\\boxed{350}$": 1
+      "\\boxed{350}": 1
     }
   ],
   "matchingmethod": [

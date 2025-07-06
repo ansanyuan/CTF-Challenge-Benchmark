@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个冰箱的现金价格是8000美元。萨曼莎想买这个冰箱，但是要分期付款。如果她支付了3000美元的定金，并且每月支付30个相等的300美元分期付款，计算她通过现金支付可以省下多少钱。。",
+  "topic": "回答下面的数学问题：The cash price of a refrigerator was $8000. Samantha wanted to buy the refrigerator but pay in installments. If she paid a deposit of $3000 and paid 30 equal monthly installments of $300 each, calculate how much money she would have saved by paying cash.",
   "checkpoint": [
     {
-      "$\\boxed{4000}$": 1
+      "\\boxed{4000}": 1
     }
   ],
   "matchingmethod": [

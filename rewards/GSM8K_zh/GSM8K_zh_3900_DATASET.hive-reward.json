@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：盒子里有56个水果。盒子的四分之一是橙子。桃子的数量是橙子的一半，苹果的数量是桃子的五倍。盒子里有多少个苹果？。",
+  "topic": "回答下面的数学问题：There are 56 pieces of fruit in a box. One-fourth of the box contains oranges. There are half as many peaches as oranges and five times as many apples as peaches. How many apples are in the box?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

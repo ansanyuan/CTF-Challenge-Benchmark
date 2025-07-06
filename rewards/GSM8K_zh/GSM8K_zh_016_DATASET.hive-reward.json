@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯创建了一个媒体帝国。他花了2000美元制作一部电影。每张DVD的制作成本是6美元。他以这个价格的2.5倍出售。他每天以每周5天的速度销售500部电影。在20周内，他赚了多少利润？。",
+  "topic": "回答下面的数学问题：James creates a media empire.  He creates a movie for $2000.  Each DVD cost $6 to make.  He sells it for 2.5 times that much.  He sells 500 movies a day for 5 days a week.  How much profit does he make in 20 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{448000}$": 1
+      "\\boxed{448000}": 1
     }
   ],
   "matchingmethod": [

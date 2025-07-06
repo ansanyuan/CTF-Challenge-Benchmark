@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家超市在一天开始时有2355条面包。到下午，已售出629条面包，并在晚上由供应商再送来489条面包。一天结束时有多少条面包？。",
+  "topic": "回答下面的数学问题：A supermarket has 2355 loaves of bread at the start of the day. By afternoon, 629 loaves are sold, and a further 489 loaves are delivered to the supermarket by their supplier in the evening. How many loaves of bread are there at the end of the day?",
   "checkpoint": [
     {
-      "$\\boxed{2215}$": 1
+      "\\boxed{2215}": 1
     }
   ],
   "matchingmethod": [

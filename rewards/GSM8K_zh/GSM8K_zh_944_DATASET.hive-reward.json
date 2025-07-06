@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Javier正在卖甜甜圈筹集新游戏的资金。他想筹集96美元。他每打买2.40美元的甜甜圈，然后每个甜甜圈卖1美元。他需要买卖多少打甜甜圈才能达到目标？。",
+  "topic": "回答下面的数学问题：Javier is selling donuts to raise money for a new game. He wants to raise $96. He buys each dozen donuts for $2.40 and then sells each donut for $1. How many dozen donuts does he need to buy and sell to reach his goal?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

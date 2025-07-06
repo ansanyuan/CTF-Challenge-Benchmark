@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在得了14分之后，Erin现在的分数是得了8分的Sara的三倍多。Erin之前有多少分？。",
+  "topic": "回答下面的数学问题：After scoring 14 points, Erin now has three times more points than Sara, who scored 8. How many points did Erin have before?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

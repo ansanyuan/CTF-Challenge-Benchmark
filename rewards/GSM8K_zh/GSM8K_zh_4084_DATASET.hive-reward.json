@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：夏威夷通常每天平均降雨量为2英寸。在一年剩下的100天里，他们已经降雨430英寸。他们需要平均每天多少英寸的降雨量才能完成年度正常平均值？。",
+  "topic": "回答下面的数学问题：In Hawaii, they normally get an average of 2 inches of rain a day. With 100 days left in the year, they've gotten 430 inches of rain. How many inches on average do they need to finish the year with the normal average?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

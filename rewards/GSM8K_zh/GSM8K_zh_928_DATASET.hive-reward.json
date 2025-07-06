@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ashley举办了一个生日派对，并邀请了20位朋友，告诉他们每人再邀请一个人参加派对。如果被邀请的客人数量的一半每人都带了一个人，那么参加派对的总人数，包括Ashley在内，是多少？。",
+  "topic": "回答下面的数学问题：Ashley had a birthday party and invited 20 of her friends, telling them to each invite one more person to attend the party. If half the number of the invited guests each came with one more person, what's the total number of people at the party, including Ashley?",
   "checkpoint": [
     {
-      "$\\boxed{31}$": 1
+      "\\boxed{31}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一本新书在周三在书店卖出了15本。周四这本书卖出了三倍于周三的数量。周五这本书卖出了周四数量的五分之一。到周五为止，书店卖出了多少本这本书？。",
+  "topic": "回答下面的数学问题：A new book sold 15 copies at the bookstore on Wednesday. On Thursday the book sold three times that many copies. On Friday the book sold one-fifth the number of copies it did on Thursday. How many copies of the book did the bookstore sell by Friday?",
   "checkpoint": [
     {
-      "$\\boxed{69}$": 1
+      "\\boxed{69}": 1
     }
   ],
   "matchingmethod": [

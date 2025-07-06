@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：要做炸青番茄，萨尔玛在烹饪之前将每个青番茄切成8片。如果20片炸青番茄可以做一顿饭给一个人吃，那么萨尔玛需要多少个番茄才能做足够的炸青番茄来喂养一个有8口人的家庭一顿饭？。",
+  "topic": "回答下面的数学问题：To make fried green tomatoes, Thelma cuts each green tomato into 8 slices before cooking them up.  If 20 slices of fried green tomato make a meal for a single person, how many tomatoes will Thelma need to make enough fried green tomatoes to feed a family of 8 for a single meal?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

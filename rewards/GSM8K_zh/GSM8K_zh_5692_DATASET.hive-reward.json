@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了庆祝最近的晋升，亚瑟决定在一家高档餐厅用餐。他点了一份价值8美元的开胃菜，一份美味的肋眼牛排作为主菜，价格为20美元，晚餐时喝了两杯美味的红葡萄酒，每杯3美元，还点了一块焦糖芝士蛋糕，价格为6美元。他使用了一张可以减半主菜价格的优惠券，但他非常体贴地给了服务员他的餐费原价的20%的小费。亚瑟晚餐一共花了多少钱，包括小费？。",
+  "topic": "回答下面的数学问题：To celebrate a recent promotion, Arthur decided to treat himself to dinner at a nice restaurant. He ordered a nice appetizer for $8, a delicious ribeye steak for his entrée at $20, had two glasses of nice red wine with dinner for $3 each, and a slice of caramel cheesecake for dessert for $6. He used a voucher for half off the price of his entrée, but he very thoughtfully tipped his waitress a full 20% of what the full cost of his meal would have been without the discount. How much, including the tip, did Arthur spend on dinner?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

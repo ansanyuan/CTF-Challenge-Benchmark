@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗密欧乘坐一列火车，车上有120人。在第一站，又有20人上了火车。在第二站，有50人下了火车，而两倍于此数的人上了火车。如果在第三站有80人下车，请计算最后一站火车上的总人数。。",
+  "topic": "回答下面的数学问题：Romeo boards a train with 120 people. At the first stop, 20 more people board the train. At the second stop, 50 people descended from the train while twice that number boarded the train. If 80 more people descended at the third station, calculate the total number of people on the train at the final stop.",
   "checkpoint": [
     {
-      "$\\boxed{110}$": 1
+      "\\boxed{110}": 1
     }
   ],
   "matchingmethod": [

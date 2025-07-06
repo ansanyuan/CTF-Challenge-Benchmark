@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jana的小狗中有三分之二是博美犬。博美犬中有三分之一是女孩。如果有6只博美犬女孩，那么Jana有多少只小狗？。",
+  "topic": "回答下面的数学问题：Two thirds of Jana's puppies are Pomeranians. One third of the Pomeranians are girls. If there are 6 Pomeranian girls, how many puppies does Jana have?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

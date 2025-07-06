@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾琳在头发里放了16个卷发器。四分之一的卷发器是小粉色的。中等蓝色的卷发器是粉色的两倍。其余的是大绿色的卷发器。艾琳头发里有多少个大绿色的卷发器？。",
+  "topic": "回答下面的数学问题：Erin put 16 curlers in her hair. One-fourth of the curlers are small pink ones. There are twice as many medium blue curlers as there are pink ones. The rest are large green curlers. How many large green curlers does Erin have in her hair?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

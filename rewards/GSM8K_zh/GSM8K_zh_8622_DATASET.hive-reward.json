@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Chatty为她四个孩子的复活节活动准备了三打鸡蛋。假设每个孩子得到相同数量的鸡蛋，每个孩子会收到多少鸡蛋？。",
+  "topic": "回答下面的数学问题：Chatty prepared three dozen eggs for her four children's Easter activity. Assuming each child gets the same number of eggs, how many eggs does each child receive?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

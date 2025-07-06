@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每个班每天使用200张纸。学校每周总共使用9000张纸。如果学校有5天上课，那么学校有多少个班？。",
+  "topic": "回答下面的数学问题：Each class uses 200 sheets of paper per day. The school uses a total of 9000 sheets of paper every week. If there are 5 days of school days, how many classes are there in the school?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

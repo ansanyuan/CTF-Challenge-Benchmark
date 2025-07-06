@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰有两栋房子，每栋都有3个卧室。每个卧室都有2扇窗户。每栋房子还有额外的4扇窗户不与卧室相连。这两栋房子总共有多少扇窗户？。",
+  "topic": "回答下面的数学问题：John has 2 houses with 3 bedrooms each.  Each bedroom has 2 windows each.  There are an additional 4 windows in each house not connected to bedrooms.  How many total windows are there between the houses?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：西红柿植株有100个西红柿。简采摘了这个数量的四分之一用于家里。一周后，她回去再摘了20个西红柿，接下来一周摘了前一周的两倍。西红柿植株上剩下的水果总数是多少？。",
+  "topic": "回答下面的数学问题：A tomato plant has 100 tomatoes. Jane picks 1/4 of that number for use in their house. After a week, she goes back and picks 20 more tomatoes, and the following week picks twice that number. What's the total number of fruits remaining on the tomato plant?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

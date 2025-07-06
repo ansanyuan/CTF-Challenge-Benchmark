@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每周，卢卡斯在星期一为他的每个学生制作4块巧克力糖。上个星期一，他制作了40块巧克力糖。下个星期一，卢卡斯的3个学生将不会来上课。卢卡斯星期一会为他的班级制作多少块巧克力糖？。",
+  "topic": "回答下面的数学问题：Every week, Lucas makes 4 pieces of chocolate candy for each of his students on Monday. He made 40 pieces of chocolate candy last Monday. This upcoming Monday, 3 of Lucas' students will not be coming to class. How many pieces of chocolate candy will Lucas make for his class on Monday?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

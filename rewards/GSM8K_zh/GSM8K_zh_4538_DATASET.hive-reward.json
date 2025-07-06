@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米兰达想在网上买一双高跟鞋。她存了3个月的钱。她的妹妹听说她很难过，给了她50美元让她买鞋。如果她总共花了260美元买鞋，她每个月存了多少钱？。",
+  "topic": "回答下面的数学问题：Miranda wants to buy a pair of heels she saw online. She saved money for 3 months. Her sister heard that she was sad and gave her $50 for her to buy the heels. If she paid $260 in total for the heels, how much money did she save per month?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

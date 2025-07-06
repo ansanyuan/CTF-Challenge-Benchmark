@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果两个男人和三个女人在某家商店买了多少个苹果，如果两个男人每人买了30个苹果，比每个女人买的苹果数量少20个？。",
+  "topic": "回答下面的数学问题：How many apples did two men and three women buy at a certain store if the two men each bought 30 apples, 20 less than the number of apples bought by each woman?",
   "checkpoint": [
     {
-      "$\\boxed{210}$": 1
+      "\\boxed{210}": 1
     }
   ],
   "matchingmethod": [

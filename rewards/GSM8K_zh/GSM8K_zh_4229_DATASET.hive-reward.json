@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Martha每天获得12美元的零用钱。她决定每天存一半的这个金额。在第一周，除了一天她只存了这个金额的四分之一外，她每天都遵守了她的承诺。这周结束时她存了多少钱？。",
+  "topic": "回答下面的数学问题：Martha receives a daily allowance of $12. She decides to save half of this amount every day. In the first week she kept her commitment with the exception of one day when she saved only a quarter of this amount. How much has she saved at the end of this week?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

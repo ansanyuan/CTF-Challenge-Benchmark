@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：多萝西花了53美元买甜甜圈的原料。如果她做了25个甜甜圈，每个售价3美元，她的利润是多少？。",
+  "topic": "回答下面的数学问题：Dorothy spent $53 to buy doughnut ingredients. If she made 25 doughnuts and sells each for $3, how much was her profit?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

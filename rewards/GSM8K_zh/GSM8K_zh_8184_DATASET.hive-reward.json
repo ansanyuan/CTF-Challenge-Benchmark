@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marcus点了5个3美元一个的羊角面包，4个每个2.5美元的肉桂卷，3个每个4美元的迷你蛋挞和13个每个1美元的蓝莓松饼。结账时，Marcus出示了他的会员卡，可以享受购物总额10%的折扣。Marcus的总账单是多少？。",
+  "topic": "回答下面的数学问题：Marcus ordered 5 croissants at $3.00 apiece, 4 cinnamon rolls at $2.50 each, 3 mini quiches for $4.00 apiece and 13 blueberry muffins that were $1.00 apiece.  At check out, Marcus shows his loyalty card that gives him 10% off of his purchase.  What is Marcus' total bill?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

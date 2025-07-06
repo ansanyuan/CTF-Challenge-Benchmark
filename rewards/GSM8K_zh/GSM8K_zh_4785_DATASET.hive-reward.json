@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：公园里的狮子总数是同一公园里豹子数量的两倍。大象的数量是狮子和豹子的总和的一半。如果公园里的狮子数量为200，那么公园里这三种动物的总数量是多少？。",
+  "topic": "回答下面的数学问题：The total number of lions in a park is twice the number of leopards in the same park. The number of elephants is half the combined number of lions and leopards. Calculate the total population of the three animals in the park if the number of lions is 200.",
   "checkpoint": [
     {
-      "$\\boxed{450}$": 1
+      "\\boxed{450}": 1
     }
   ],
   "matchingmethod": [

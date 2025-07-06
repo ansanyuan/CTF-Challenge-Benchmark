@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：利兹以她最初支付的80%出售了她的汽车。她使用了这笔销售收入，只需要4000美元就能买一辆新的价值30000美元的汽车。她的新车比她最初购买的旧车便宜多少？。",
+  "topic": "回答下面的数学问题：Liz sold her car at 80% of what she originally paid. She uses the proceeds of that sale and needs only $4,000 to buy herself a new $30,000 car. How much cheaper is her new car versus what she originally paid for her old one?",
   "checkpoint": [
     {
-      "$\\boxed{2500}$": 1
+      "\\boxed{2500}": 1
     }
   ],
   "matchingmethod": [

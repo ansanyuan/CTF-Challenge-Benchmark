@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个动物收容所正在举办宠物领养活动，领养者只需支付兽医费用。狗的兽医费用为15美元，猫的兽医费用为13美元。有8个家庭领养了狗，3个家庭领养了猫。兽医将领养检查费的三分之一捐赠给了收容所。兽医捐赠了多少美元？。",
+  "topic": "回答下面的数学问题：An animal shelter is having a pet adoption event where owners can adopt an animal for just the cost of the vet fees. Vet fees for dogs are $15, and vet fees for cats are $13. Eight families adopt dogs and three adopt cats. The vet donates a third of the fees they were paid for the adoption checkups back to the shelter. How many dollars did the vet donate?",
   "checkpoint": [
     {
-      "$\\boxed{53}$": 1
+      "\\boxed{53}": 1
     }
   ],
   "matchingmethod": [

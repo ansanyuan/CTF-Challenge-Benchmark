@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Malcolm的摩天大楼上有6只游隼和40只鸽子筑巢。每只鸽子有6只小鸽子。如果游隼吃掉了30%的鸽子，剩下多少只鸽子？。",
+  "topic": "回答下面的数学问题：There are six peregrine falcons and 40 pigeons nesting in Malcolm's skyscraper. Each pigeon has 6 chicks. If the peregrines eat 30% of the pigeons, how many pigeons are left?",
   "checkpoint": [
     {
-      "$\\boxed{196}$": 1
+      "\\boxed{196}": 1
     }
   ],
   "matchingmethod": [

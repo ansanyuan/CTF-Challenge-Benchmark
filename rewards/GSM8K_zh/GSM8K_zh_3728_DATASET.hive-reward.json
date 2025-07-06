@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：斯蒂芬需要为孩子们的派对炸鸡。她买了24块鸡腿和比鸡胸部少4块。斯蒂芬可以做多少块炸鸡？。",
+  "topic": "回答下面的数学问题：Steph needs to cook fried chicken for the kid's party. She bought 24 pieces of drumstick and 4 fewer breast parts. How many fried chickens can Steph make?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

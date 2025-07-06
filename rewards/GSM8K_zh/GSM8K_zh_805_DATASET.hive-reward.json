@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个动物园有16只熊猫，它们成对（在同一个动物园）。只有25%的熊猫夫妇交配后怀孕。如果它们每对只生一只宝宝，那么会出生多少只熊猫宝宝？。",
+  "topic": "回答下面的数学问题：A zoo has 16 pandas, paired into mates (in the same zoo). Only 25% of the panda couples get pregnant after mating. If they each have one baby, how many panda babies are born?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

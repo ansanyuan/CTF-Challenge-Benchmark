@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Toby有两块布料。第一块宽4英寸，高5英寸。第二块宽3英寸，高6英寸。第一块与第二块相比，面积多多少平方英寸？。",
+  "topic": "回答下面的数学问题：Toby has two rectangles of cloth. The first is 4 inches wide and 5 inches tall. The second is 3 inches wide and 6 inches tall. How many more square inches is the area of the first compared to the second?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

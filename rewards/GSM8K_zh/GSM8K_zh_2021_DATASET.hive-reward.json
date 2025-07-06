@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bob可以在5分钟内剥10个牡蛎。他可以在2小时内剥多少个牡蛎？。",
+  "topic": "回答下面的数学问题：Bob can shuck 10 oysters in 5 minutes.  How many oysters can he shuck in 2 hours?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

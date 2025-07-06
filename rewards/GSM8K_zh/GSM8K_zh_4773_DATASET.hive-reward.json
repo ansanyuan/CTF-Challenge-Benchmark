@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Vann是一名兽医。今天他将只进行牙齿清洁工作。狗有42颗牙齿，猫有30颗牙齿，猪有28颗牙齿。如果他要给5只狗、10只猫和7只猪做清洁，那么Vann今天将清洁多少颗牙齿？。",
+  "topic": "回答下面的数学问题：Vann is a veterinarian. Today he is going to be doing dental cleanings only. Dogs have 42 teeth, cats have 30 teeth and pigs have 28 teeth. If he is to do 5 dogs, 10 cats and 7 pigs, how many total teeth will Vann clean today?",
   "checkpoint": [
     {
-      "$\\boxed{706}$": 1
+      "\\boxed{706}": 1
     }
   ],
   "matchingmethod": [

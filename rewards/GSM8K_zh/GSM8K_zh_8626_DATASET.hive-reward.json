@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克买了一张彩票，中奖概率是20%，另一张彩票的中奖概率是第一张的三倍。两张彩票都中奖的概率是多少（以百分比表示）？。",
+  "topic": "回答下面的数学问题：Mark buys one lottery ticket with a 20% chance of winning and a second lottery ticket that's three times more likely to win. What is the probability, expressed as a percentage, that both tickets are winners?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

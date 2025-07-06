@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莱拉和她的朋友想租一辆车进行150公里的单程旅行。第一种租车选择每天租金为50美元，不包括汽油费。第二种选择每天租金为90美元，包括汽油费。一升汽油可以行驶15公里，每升汽油的费用为0.90美元。他们的租车需要往返于目的地。如果他们选择第一种选择而不是第二种选择，他们将节省多少钱？。",
+  "topic": "回答下面的数学问题：Leila and her friends want to rent a car for their one-day trip that is 150 kilometers long each way. The first option for a car rental costs $50 a day, excluding gasoline. The second option costs $90 a day including gasoline. A liter of gasoline can cover 15 kilometers and costs $0.90 per liter. Their car rental will need to carry them to and from their destination. How much will they save if they will choose the first option rather than the second one?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

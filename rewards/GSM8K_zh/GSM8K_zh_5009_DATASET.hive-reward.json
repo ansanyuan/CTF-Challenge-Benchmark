@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个口香糖机有红色、绿色和蓝色的口香糖。这台机器的蓝色口香糖数量是红色口香糖数量的一半。对于每颗蓝色口香糖，机器有4倍于绿色口香糖的数量。如果机器有16颗红色口香糖，那么机器里有多少颗口香糖？。",
+  "topic": "回答下面的数学问题：A gumball machine has red, green, and blue gumballs. The machine has half as many blue gumballs as red gumballs. For each blue gumball, the machine has 4 times as many green gumballs. If the machine has 16 red gumballs how many gumballs are in the machine?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

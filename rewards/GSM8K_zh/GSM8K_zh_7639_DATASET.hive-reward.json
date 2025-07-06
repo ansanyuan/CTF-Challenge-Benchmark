@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在她30岁生日时，Elvira选择了一台带有许多配件的新电脑作为礼物。她有一个由全家人捐赠的1500欧元的预算，并且认为她将能够留下一些钱来买一件衣服。她去了一家电脑店，选择了一台配有屏幕、键盘和鼠标的电脑，价格为1090欧元。她还买了一个价值157欧元的扫描仪，一个价值74欧元的CD刻录机和一个价值102欧元的打印机。她还能剩下多少钱来买衣服？。",
+  "topic": "回答下面的数学问题：For his 30th birthday, Elvira chose a new computer with many accessories as a gift. She has a budget of €1500 donated by her whole family and thinks that she will be able to keep a little money to afford a garment. She goes to a computer store and chooses a machine that costs €1090 with a screen, keyboard and mouse. She also takes a scanner for €157, a CD burner worth €74 and a printer for €102. How much money will she have left for her clothing?",
   "checkpoint": [
     {
-      "$\\boxed{77}$": 1
+      "\\boxed{77}": 1
     }
   ],
   "matchingmethod": [

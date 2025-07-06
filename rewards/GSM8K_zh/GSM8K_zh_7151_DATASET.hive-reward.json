@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：林赛比凯西多拥有4辆车。苏珊比卡罗尔少拥有2辆车。卡罗尔拥有的车是凯西的两倍。如果凯西拥有5辆车，他们所有人总共拥有多少辆车？。",
+  "topic": "回答下面的数学问题：Lindsey owns 4 more cars than Cathy. Susan owns 2 fewer cars than Carol. Carol owns twice as many cars as Cathy. If Cathy owns 5 cars, how many total cars do they all own put together?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

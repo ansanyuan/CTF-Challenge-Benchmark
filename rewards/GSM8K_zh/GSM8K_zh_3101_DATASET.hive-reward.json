@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：后院有三只狗。它们喜欢苹果、蓝莓和甜菜。第一只喜欢苹果的狗吃的苹果数量是第二只喜欢蓝莓的狗吃的蓝莓数量的3倍。喜欢蓝莓的狗吃的蓝莓数量是第三只喜欢甜菜的狗吃的甜菜数量的3/4。如果喜欢甜菜的狗吃了60个，计算三只狗总共吃了多少水果？。",
+  "topic": "回答下面的数学问题：There are three dogs in the backyard. They like apples, blueberries, and bonnies. The first dog, which likes apples, eats 3 times as many apples as the number of blueberries eaten by the second dog that likes blueberries. The dog that likes blueberries eats 3/4 times as many blueberries as the number of bonnies eaten by the third dog. If the dog that likes bonnies ate 60 of them, calculate the total number of fruits eaten by the three dogs?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

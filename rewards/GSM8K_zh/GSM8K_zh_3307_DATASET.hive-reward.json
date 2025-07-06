@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：拉里每天慢跑30分钟。在第一周，他慢跑了3天，而在第二周，他慢跑了5天。在两周内，他总共慢跑了多少小时？。",
+  "topic": "回答下面的数学问题：Larry jogs for 30 minutes each day. In the first week, he jogs for 3 days while he jogs for 5 days in the second week. How many hours does he jog in total for two weeks?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

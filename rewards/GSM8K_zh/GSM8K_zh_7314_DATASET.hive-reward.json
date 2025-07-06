@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯可以用一码天鹅绒制作4顶帽子。他需要三码天鹅绒来制作一件斗篷。他要制作6件斗篷和12顶帽子，他需要多少天鹅绒？。",
+  "topic": "回答下面的数学问题：James can make 4 hats out of one yard of velvet. He needs three yards of velvet to make a cloak. How much velvet does he need to make 6 cloaks and 12 hats?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

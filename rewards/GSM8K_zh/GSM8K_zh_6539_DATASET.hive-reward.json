@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家公司正在用篱笆围一条900英尺长的小路。每隔6英尺放一个篱笆柱。整条小路都用篱笆围起来，除了一座42英尺长的桥。整条小路两侧将会放多少个篱笆柱？。",
+  "topic": "回答下面的数学问题：A company is lining a 900-foot path with a fence. Every 6 feet, a fence pole is placed. The entire path is lined with a fence except for a 42-foot bridge. How many fence poles will be placed along the whole path on both sides?",
   "checkpoint": [
     {
-      "$\\boxed{286}$": 1
+      "\\boxed{286}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Erin正在整理图书馆的书籍，决定哪些需要更换。她发现废旧书籍的数量比损坏书籍的6倍少8本。如果她总共移除了69本书，那么损坏的书籍有多少本？。",
+  "topic": "回答下面的数学问题：Erin is sorting through the library books to decide which ones to replace. She finds 8 less than 6 times as many obsolete books as damaged books. If she removes 69 books total, how many books were damaged?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

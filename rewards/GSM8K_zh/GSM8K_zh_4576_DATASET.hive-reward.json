@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Laran开始了一家海报生意。她在学校每天卖出5张海报。每天有两张是她的大海报，售价为10美元。大海报的成本是5美元。剩下的海报是小海报，售价为6美元。它们的生产成本是3美元。Laran在一个5天的学校周里赚了多少美元的利润？。",
+  "topic": "回答下面的数学问题：Laran has started a poster business. She is selling 5 posters per day at school. Two posters per day are her large posters that sell for $10. The large posters cost her $5 to make. The remaining posters are small posters that sell for $6. They cost $3 to produce. How much profit, in dollars, does Laran make per 5-day school week?",
   "checkpoint": [
     {
-      "$\\boxed{95}$": 1
+      "\\boxed{95}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔希给他的弟弟建了一个长方形沙箱。沙箱的周长是30英尺，长度是宽度的两倍。沙箱的宽度是多少？。",
+  "topic": "回答下面的数学问题：Josh built his little brother a rectangular sandbox.  The perimeter of the sandbox is 30 feet and the length is twice the width. What is the width of the sandbox?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

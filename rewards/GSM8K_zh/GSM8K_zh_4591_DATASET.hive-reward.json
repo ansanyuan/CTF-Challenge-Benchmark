@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：上周，一个农民运送了10箱柚子，总共有240个柚子。这周，农民运送了20箱。农民总共运送了多少打柚子？。",
+  "topic": "回答下面的数学问题：Last week, a farmer shipped 10 boxes of pomelos which had 240 pomelos in all. This week, the farmer shipped 20 boxes. How many dozens of pomelos did the farmer ship in all?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

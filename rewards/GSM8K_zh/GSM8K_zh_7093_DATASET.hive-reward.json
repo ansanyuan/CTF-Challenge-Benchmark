@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔恩的教科书的重量是布兰登的教科书的三倍。乔恩有四本教科书，分别重2、8、5和9磅。布兰登的教科书总共重多少磅？。",
+  "topic": "回答下面的数学问题：Jon’s textbooks weigh three times as much as Brandon’s textbooks. Jon has four textbooks that weigh two, eight, five and nine pounds respectively. How much do Brandon’s textbooks weigh?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jade买了一部带有令人难以置信的相机的新手机，所以她花了整整一周的时间拍摄她的日常生活照片。到了周末，她拍了210张照片。她想把所有照片上传到她的Instagram。如果她一次上传7张照片，每天上传6批，她需要多少天才能上传完所有照片？。",
+  "topic": "回答下面的数学问题：Jade bought a new cell phone with an incredible camera, so she spent all week taking pictures of her daily life. At the end of the week, she had taken 210 photos. She wants to upload all her photos on her Instagram. If she uploads 7 photos in one batch and she uploads 6 batches each day, how many days will she need to upload all of her photos?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰购买感谢卡。他决定为给他圣诞节和生日礼物的人购买卡片。他为圣诞礼物送出了20张卡片，为生日礼物送出了15张。如果每张卡片的成本是2美元，他一共花了多少钱买卡片？。",
+  "topic": "回答下面的数学问题：John buys thank you cards.  He decides to buy them for people who got him Christmas and birthday presents.  He sent 20 for Christmas gifts and 15 for birthday gifts.  If each card cost $2 how much did he spend on cards?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tanya去杂货店买水果。她买了6个梨，4个青苹果，2个菠萝和一小篮李子，所有水果都放在一个纸袋里。不幸的是，装水果的袋子破了一个洞。因此，当Tanya走回家时，一半的水果掉出了袋子。后来她数了一下袋子里剩下的水果，只剩下9个。她买了多少个李子？。",
+  "topic": "回答下面的数学问题：Tanya went to the grocery store to buy some fruit.  She bought 6 pears, 4 Granny Smith apples, 2 pineapples, and a small basket of plums, which were all placed in a single paper bag.  Unfortunately, the bag that the fruit had been placed in had developed a hole.  Therefore, as Tanya walked home, half of the fruit fell out of the bag.  When she later counted the fruit left in the bag, there were only 9 pieces remaining.  How many plums did she buy?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

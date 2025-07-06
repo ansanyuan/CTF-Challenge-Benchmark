@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mrs. McAvoy家里最大的房间宽45英尺，长30英尺。同一所房子里最小的房间宽15英尺，长8英尺。最大房间和最小房间的面积差是多少？。",
+  "topic": "回答下面的数学问题：The largest room in Mrs. McAvoy's house is 45 feet wide and 30 feet long. The smallest room in that same house is 15 feet wide and 8 feet long. What is the difference in area between the largest room and the smallest room?",
   "checkpoint": [
     {
-      "$\\boxed{1230}$": 1
+      "\\boxed{1230}": 1
     }
   ],
   "matchingmethod": [

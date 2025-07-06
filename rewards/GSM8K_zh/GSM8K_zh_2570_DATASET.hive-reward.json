@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克洛伊和马克斯一起玩马里奥卡丁车。克洛伊赢的次数与马克斯赢的次数的比例是8:3。克洛伊赢了24次。马克斯赢了多少次？。",
+  "topic": "回答下面的数学问题：Chloe and Max played Mario Kart together. The ratio of Chloe’s wins to Max’s wins is 8:3. Chloe won 24 times. How many times did Max win?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

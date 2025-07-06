@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：黎明、莉迪亚和唐娜总共有200根香蕉。黎明比莉迪亚多40根香蕉。如果莉迪亚有60根香蕉，那么唐娜有多少根香蕉？。",
+  "topic": "回答下面的数学问题：Dawn, Lydia, and Donna have a total of 200 bananas. Dawn has 40 more bananas than Lydia. If  Lydia has 60 bananas, how many bananas does Donna have?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

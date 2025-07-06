@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托尼试图喝更多的水，所以他一直在追踪自己喝了多少水。昨天，他喝了48盎司的水，比前天少了4%。托尼前天喝了多少水？。",
+  "topic": "回答下面的数学问题：Tony tries to drink more water, so he has been tracking how much water he drinks. Yesterday, he drank 48 ounces of water, which is 4% less than what he drank two days ago. How much water did Tony drink two days ago?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

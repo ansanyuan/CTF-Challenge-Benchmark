@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jasmine的老师给贴纸作为奖励。她因为参与课堂活动被给了15张贴纸，但是在游戏时间她丢失了7张贴纸。然而，她的老师又给了她5张贴纸作为帮助同学的奖励。最后她有多少张贴纸？。",
+  "topic": "回答下面的数学问题：Jasmine's teacher gives stickers for reward. She was given 15 stickers for participating in class, but she lost 7 stickers during playtime. However, her teacher gave her another 5 stickers for helping her classmates. How many stickers does she have at the end?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

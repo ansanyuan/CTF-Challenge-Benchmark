@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨姆卖面包。他的目标是一周内卖出120箱面包。有一周他在周一和周五休息。周末他卖出了20箱。周二他卖出了15箱，周三12箱，周四18箱。萨姆这周距离他的销售目标少了多少箱？。",
+  "topic": "回答下面的数学问题：Sam sells bread. He has a target of selling 120 crates of bread in a week. One week he was closed on Monday and Friday. Over the weekend he sold 20 crates. On Tuesday he sold 15 crates, on Wednesday 12 crates, and Thursday 18 crates. By how many crates was Sam off from his target for the week?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

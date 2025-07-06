@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位厨师需要制作薯条。他可以从1个土豆中得到25根薯条。他有15个土豆，他需要200根薯条。他会剩下多少个土豆？。",
+  "topic": "回答下面的数学问题：A chef needs to make french fries.  He can get 25 fries out of 1 potato.  He has 15 potatoes and he needs 200 fries.  How many potatoes will he have leftover?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

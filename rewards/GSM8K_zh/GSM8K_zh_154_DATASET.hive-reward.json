@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂姆的猫咬了他。他决定让自己和猫都接受检查。他的医生费用是300美元，保险报销了75%。他的猫的就诊费用是120美元，他的宠物保险报销了60美元。他一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：Tim's cat bit him.  He decided to get himself and the cat checked out.  His doctor's visits $300 and insurance covered 75%.  His cat's visit cost $120 and his pet insurance covered $60.  How much did he pay?",
   "checkpoint": [
     {
-      "$\\boxed{135}$": 1
+      "\\boxed{135}": 1
     }
   ],
   "matchingmethod": [

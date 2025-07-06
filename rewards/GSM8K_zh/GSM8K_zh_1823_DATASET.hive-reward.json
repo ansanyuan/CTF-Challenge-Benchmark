@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位船长在航行的第一天将他的船向北航行了100英里。第二天，他向东航行的距离是第一天的三倍。第三天，船向东航行的距离比第二天多110英里。船在这三天内总共航行了多少英里？。",
+  "topic": "回答下面的数学问题：A captain steers his ship 100 miles north on the first day of their journey. On the second day, he sails to the east three times as far as the distance as he covered on the first day. On the third day, the ship travels further east for 110 more miles than the distance it covered on the second day. What is the total distance the ship has traveled in the three days?",
   "checkpoint": [
     {
-      "$\\boxed{810}$": 1
+      "\\boxed{810}": 1
     }
   ],
   "matchingmethod": [

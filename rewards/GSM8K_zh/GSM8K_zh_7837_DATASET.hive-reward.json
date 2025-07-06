@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰开车去他朋友200英里外的家。他以每小时70英里的速度行驶。他不得不绕道行驶，这使得他的旅程增加了10英里。到达目的地后，他选择了一条240英里的回家路线，但他以每小时80英里的速度行驶。整个旅程花了多长时间？。",
+  "topic": "回答下面的数学问题：John drives to his friend's house 200 miles away.  He drives at a speed of 70 mph.  He had to take a detour that added 10 miles to his trip.  After he gets there he takes a route home that is 240 miles but he goes 80 mph.  How long did the trip take?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

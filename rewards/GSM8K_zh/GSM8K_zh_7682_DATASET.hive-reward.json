@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rose周一去了商店买了4个蛋糕。周二她去了另一家商店，买了三倍于周一的蛋糕数量。周三她又去了另一家商店，买了周二蛋糕数量的五倍。三天下来，她总共买了多少个蛋糕？。",
+  "topic": "回答下面的数学问题：Rose went to the store on Monday and bought 4 cakes. Tuesday she went to a different store and bought three times that number of cakes. On Wednesday she went to another store and bought 5 times the number of cakes she did on Tuesday. How many cakes did she buy after all three days?",
   "checkpoint": [
     {
-      "$\\boxed{76}$": 1
+      "\\boxed{76}": 1
     }
   ],
   "matchingmethod": [

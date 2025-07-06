@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安迪正在按1：2：5的比例混合蓝色、绿色和白色油漆。如果他使用了6加仑的绿色油漆，他总共使用了多少加仑的油漆？。",
+  "topic": "回答下面的数学问题：Andy is mixing blue, green and white paint in a 1 : 2 : 5 ratio. If he uses 6 gallons of green paint, how many gallons of paint does he use total?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

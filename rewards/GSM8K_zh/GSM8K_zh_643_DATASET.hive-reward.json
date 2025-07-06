@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托尼一天内需要跑几个杂事。他需要开车10英里去买菜，15英里去理发，5英里去看医生。当他开车跑完一半的杂事时，他将开了多少英里？。",
+  "topic": "回答下面的数学问题：Tony has to run several errands in a day.  He needs to drive 10 miles to get groceries, 15 miles to get a haircut and 5 miles to go to a doctor's appointment.  How many miles will Tony have driven when he is halfway through driving around for his errands?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

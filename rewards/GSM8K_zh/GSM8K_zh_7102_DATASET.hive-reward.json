@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周日，爱丽丝买了4品脱草莓冰淇淋。第二天，她回去买了三倍于前一天的数量的品脱。周二，她买了前一天数量的三分之一的品脱。周三，她因为过期而退回了前一天买的一半品脱。周三她有多少品脱的冰淇淋？。",
+  "topic": "回答下面的数学问题：On Sunday Alice bought 4 pints of strawberry ice cream. The next day she went back and bought three times that number of pints. On Tuesday she bought one-third of the number of pints she bought the day before. On Wednesday she returned half of the pints she bought the day before because they were expired. How many pints of ice cream did she have on Wednesday?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

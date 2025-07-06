@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾米莉乘坐从纽约到夏威夷的飞行时间为10小时。为了打发时间，她观看了3集每集25分钟的电视剧。然后她睡了4个半小时。接着她观看了2部每部1小时45分钟的电影。在完成所有这些活动后，假设活动之间没有休息时间，艾米莉到达夏威夷前还剩下多少分钟的飞行时间。。",
+  "topic": "回答下面的数学问题：Emily is on a flight from New York to Hawaii that is 10 hours long. To kill time, she watches 3 TV episodes that are each 25 minutes long. Then she sleeps for 4 and a half hours. Then she watches 2 movies that are each an hour and 45 minutes long. After doing all these things, assuming there is no break time between activities, how many more minutes are left in the flight before Emily reaches Hawaii.",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

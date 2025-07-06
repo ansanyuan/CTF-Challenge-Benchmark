@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一辆食品卡车只卖烤奶酪三明治。他们以3.00美元的价格购买一条面包，每条面包可以做10个三明治。他们每10个三明治在不同的奶酪和调味品上花费30.00美元。如果他们每个三明治卖7.00美元，他们的净利润是多少？。",
+  "topic": "回答下面的数学问题：A food truck only sells grilled cheeses.  They source their bread for $3.00 a loaf and each loaf makes 10 sandwiches.  They spend $30.00 on different cheeses and condiments per 10 sandwiches.  If they sell 10 sandwiches for $7.00 each, what is their net profit?",
   "checkpoint": [
     {
-      "$\\boxed{37}$": 1
+      "\\boxed{37}": 1
     }
   ],
   "matchingmethod": [

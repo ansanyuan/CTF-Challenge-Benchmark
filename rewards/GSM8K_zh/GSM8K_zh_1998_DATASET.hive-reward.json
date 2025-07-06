@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：佩内洛普猪每天吃20磅的食物，这是格里塔鹅每天吃的食物的10倍。米尔顿老鼠每天吃格里塔鹅吃的食物的1/100，但埃尔默大象每天吃的食物是米尔顿老鼠的4000倍。埃尔默大象每天比佩内洛普猪多吃多少磅的食物？。",
+  "topic": "回答下面的数学问题：Penelope the pig eats 20 pounds of food per day, which is 10 times more than Greta the goose eats per day.  Milton the mouse eats 1/100 as much as Greta the goose eats per day, but Elmer the elephant eats 4000 times more than Milton the mouse does per day.  How much more, in pounds, does Elmer the elephant eat per day than Penelope the pig?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

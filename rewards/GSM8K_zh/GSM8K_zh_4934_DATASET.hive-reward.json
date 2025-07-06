@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格洛丽娅的毕业礼金中的一角硬币数量是她的一刻硬币数量的五倍。她决定将四分之二的一刻硬币存放起来以备将来使用。如果她有350个一角硬币，计算她在存放四分之二的一刻硬币后，一刻硬币和一刻硬币的总数？。",
+  "topic": "回答下面的数学问题：Gloria has five times as many dimes as quarters in her graduation money. She decides to put 2/5 of the quarters aside for future use. If she has 350 dimes, calculate the combined number of quarters and dimes she has after putting aside 2/5 of the quarters?",
   "checkpoint": [
     {
-      "$\\boxed{392}$": 1
+      "\\boxed{392}": 1
     }
   ],
   "matchingmethod": [

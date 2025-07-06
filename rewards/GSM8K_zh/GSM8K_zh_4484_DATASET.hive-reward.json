@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Peggy正在搬家，想要处理掉她的唱片收藏。山米说他愿意以每张4美元的价格购买所有唱片。布莱恩只对一半的唱片感兴趣，但他愿意以每张6美元的价格购买他感兴趣的那一半，并以每张1美元的价格购买他不感兴趣的那一半，希望以后能批量转售。如果佩吉有200张唱片，山米与布莱恩的交易利润之间的差额是多少？。",
+  "topic": "回答下面的数学问题：Peggy is moving and is looking to get rid of her record collection. Sammy says that he will buy all of them for 4 dollars each. Bryan is only interested in half of the records but will offer 6 dollars each for the half that he is interested in and 1 dollar each for the remaining half that he is not interested in with the hopes that he can resell them in bulk later. If Peggy has 200 records, what is the difference in profit between Sammy versus Bryan's deal?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

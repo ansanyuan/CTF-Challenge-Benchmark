@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果比利骑自行车17次，约翰骑自行车的次数是比利的两倍，他们的母亲骑自行车的次数比约翰多10次，他们总共骑自行车的次数是多少？。",
+  "topic": "回答下面的数学问题：If Billy rode his bike 17 times, John rode his bike twice as many times, and their mother rode her bike 10 times more than John, how many times did they ride their bikes in total?",
   "checkpoint": [
     {
-      "$\\boxed{95}$": 1
+      "\\boxed{95}": 1
     }
   ],
   "matchingmethod": [

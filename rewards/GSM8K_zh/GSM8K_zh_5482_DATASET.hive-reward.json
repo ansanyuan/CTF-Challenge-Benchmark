@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡尔文和菲比比弗兰克多8个糕点，但比格雷斯少5个。如果格雷斯有30个糕点，计算四个人总共有多少个糕点？。",
+  "topic": "回答下面的数学问题：Calvin and Phoebe each have 8 more pastries than Frank but only five less than Grace. If Grace has 30 pastries, calculate the total number of pastries that the four have?",
   "checkpoint": [
     {
-      "$\\boxed{97}$": 1
+      "\\boxed{97}": 1
     }
   ],
   "matchingmethod": [

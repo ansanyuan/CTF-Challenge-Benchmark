@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有一个被一条边长为27码的正方形栅栏所环绕的操场。还有一个周围有篱笆的12码乘9码的花园。操场和花园一共有多少码的篱笆？。",
+  "topic": "回答下面的数学问题：There is a playground that is surrounded by a square fence that has a side length of 27 yards. There is a 12 yard by 9 yard garden that has fencing around it. How many yards of fencing do the playground and garden have together?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

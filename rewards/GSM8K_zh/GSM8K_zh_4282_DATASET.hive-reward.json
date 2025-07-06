@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰瑞正在干旱期间在后院的鸭子池塘里灌水。池塘可以容纳200加仑的水。杰瑞的软管通常可以每分钟泵出6加仑的水，但由于干旱限制，它现在只能以原来的2/3的速度泵水。杰瑞需要多少分钟才能把池塘灌满？。",
+  "topic": "回答下面的数学问题：Jerry is refilling the duck pond in his backyard during a drought. The pond can hold 200 gallons of water. Jerry's hose can normally pump 6 gallons/minute, but due to drought restrictions, it can only pump 2/3rds as fast right now. How many minutes will it take Jerry to fill his pond?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

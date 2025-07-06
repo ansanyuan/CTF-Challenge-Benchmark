@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰刚刚满39岁。3年前，他的年龄是詹姆斯6年后年龄的两倍。如果詹姆斯的哥哥比詹姆斯大4岁，那么詹姆斯的哥哥多大？。",
+  "topic": "回答下面的数学问题：John has just turned 39.  3 years ago, he was twice as old as James will be in 6 years.  If James' older brother is 4 years older than James, how old is James' older brother?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

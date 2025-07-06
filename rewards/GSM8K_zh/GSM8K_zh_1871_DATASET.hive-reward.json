@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个三角形ABC中，角A为60度，角B是角C的两倍。计算角B的大小。。",
+  "topic": "回答下面的数学问题：In a triangle with angles A, B, and C, A is 60 degrees, and B is two times as big as C. Calculate the angle of B.",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

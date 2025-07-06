@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每只青蛙每天需要吃30只苍蝇才能生存。每条鱼每天需要吃8只青蛙才能生存。每只扁吻鳄每天需要吃15条鱼才能生存。如果这个沼泽有9只扁吻鳄，那么每天会有多少只苍蝇被吃掉？。",
+  "topic": "回答下面的数学问题：Each frog needs to eat 30 flies per day to live. Each fish needs to eat 8 frogs per day to live. Each gharial needs to eat 15 fish a day to live. How many flies get eaten every day in this swamp if it has 9 gharials?",
   "checkpoint": [
     {
-      "$\\boxed{32400}$": 1
+      "\\boxed{32400}": 1
     }
   ],
   "matchingmethod": [

@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Alex divides a disk into four quadrants with two perpendicular diameters intersecting at the center of the disk. He draws $25$ more lines segments through the disk, drawing each segment by selecting two points at random on the perimeter of the disk in different quadrants and connecting these two points. Find the expected number of regions into which these $27$ line segments divide the disk.",
   "checkpoint": [
     {
-      "$\\boxed{204}$": 1
+      "\\boxed{204}": 1
     }
   ],
   "matchingmethod": [

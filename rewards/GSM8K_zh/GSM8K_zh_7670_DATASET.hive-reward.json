@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：某城市有200磅胡萝卜要分发给40家餐厅。每家餐厅将收到2磅胡萝卜。有多少磅胡萝卜将不会被使用？。",
+  "topic": "回答下面的数学问题：200 pounds of carrots are to be distributed to 40 restaurants in a certain city. Each restaurant is to receive 2 pounds of carrots. How many pounds of carrots will not be used?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

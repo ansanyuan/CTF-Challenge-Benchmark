@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gerald想买一个价值2个芬宁的肉馅饼。Gerald有54个法林，每个芬宁有6个法林。买了馅饼后，Gerald还剩下多少个芬宁？。",
+  "topic": "回答下面的数学问题：Gerald wants to buy a meat pie that costs 2 pfennigs. Gerald has 54 farthings, and there are 6 farthings to a pfennig. How many pfennigs will Gerald have left after buying the pie?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

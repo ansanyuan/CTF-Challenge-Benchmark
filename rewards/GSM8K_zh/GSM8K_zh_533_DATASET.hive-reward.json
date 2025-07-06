@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：击球笼按打包销售高尔夫球。他们以3打包30美元。丹买了5打包，古斯买了2打包，克里斯买了48个高尔夫球。假设12个高尔夫球为1打包，他们总共购买了多少个高尔夫球？。",
+  "topic": "回答下面的数学问题：The batting cage sells golf balls by the dozen. They charge $30 for 3 dozen. Dan buys 5 dozen, Gus buys 2 dozen, and Chris buys 48 golf balls. How many golf balls do they purchase in total, assuming 12 golf balls are 1 dozen?",
   "checkpoint": [
     {
-      "$\\boxed{132}$": 1
+      "\\boxed{132}": 1
     }
   ],
   "matchingmethod": [

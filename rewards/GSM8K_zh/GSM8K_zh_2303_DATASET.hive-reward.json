@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每年，一家商店将某一型号的电视机的价格降低35美元。如果2001年的价格是1950美元，那么2009年的价格是多少？。",
+  "topic": "回答下面的数学问题：Each year a store decreased the price of a certain model of TV by $35. If the price in 2001 was $1950, what was the price in 2009?",
   "checkpoint": [
     {
-      "$\\boxed{1670}$": 1
+      "\\boxed{1670}": 1
     }
   ],
   "matchingmethod": [

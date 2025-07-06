@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Joe喜欢玩电子游戏，他通常每个月在电子游戏上花费50美元。Joe玩完游戏后，每个游戏以30美元的价格出售。如果他从240美元开始，他在花费50美元购买游戏并以30美元出售游戏之前能坚持多少个月？。",
+  "topic": "回答下面的数学问题：Joe likes to play video games and he normally spends $50 a month on video games.  Joe also sells his games for $30 each once he is done playing them. If he starts with $240, how many months can he buy games at $50 and sell them at $30 before he is out of money?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

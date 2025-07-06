@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Wyatt的妈妈给了他74美元去商店。Wyatt买了5条面包和4盒橙汁。每条面包的价格是5美元，每盒橙汁的价格是2美元。Wyatt剩下多少钱？。",
+  "topic": "回答下面的数学问题：Wyatt's mother gave him $74 to go to the store. Wyatt bought 5 loaves of bread and 4 cartons of orange juice. Each loaf of bread cost $5 and each carton of orange juice cost $2. How much money does Wyatt have left?",
   "checkpoint": [
     {
-      "$\\boxed{41}$": 1
+      "\\boxed{41}": 1
     }
   ],
   "matchingmethod": [

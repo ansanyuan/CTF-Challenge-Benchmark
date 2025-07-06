@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗斯福高中与格林代尔高中进行篮球比赛。罗斯福高中在第一场比赛中得到30分，在第二场比赛中得到的分数是第一场的一半，在第三场比赛中得到的分数是第二场的三倍。在比赛结束时，罗斯福高中获得了50分的奖励分，而格林代尔高中的分数比罗斯福高中少10分。格林代尔高中得了多少分？。",
+  "topic": "回答下面的数学问题：Roosevelt High school plays a basketball tournament with Greendale High school. Roosevelt high school scores 30 points in the first game, half as much in the second game, and triple as much as the second game in the third game. At the end of the tournament, Roosevelt high school receives 50 bonus points and Greendale high school has 10 points less than Roosevelt high school. How many points does Greendale high school have?",
   "checkpoint": [
     {
-      "$\\boxed{130}$": 1
+      "\\boxed{130}": 1
     }
   ],
   "matchingmethod": [

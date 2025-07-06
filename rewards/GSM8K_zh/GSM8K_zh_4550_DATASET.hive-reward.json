@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Amanda的汽车完成同样的海滩旅行所需的时间比公交车少了5分钟。如果公交车需要40分钟才能开80英里到达海滩，那么汽车需要多少分钟来完成往返旅行？。",
+  "topic": "回答下面的数学问题：Amanda's car takes five fewer minutes to complete the same trip to the beach than the bus. If the bus takes 40 minutes to drive 80 miles to the beach, how many minutes will it take the car to make a round trip?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

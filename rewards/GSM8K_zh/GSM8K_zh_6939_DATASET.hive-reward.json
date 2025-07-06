@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：火车离开出发站时有6节煤车、12节铁车和2节木车。每个站之间有6英里，需要25分钟才能到达下一个站。在每个站，火车可以卸下最多2节煤车、3节铁车和1节木车。需要多少分钟才能交付所有的车厢？。",
+  "topic": "回答下面的数学问题：A train leaves its departure station with 6 coal cars, 12 iron cars, and 2 wood cars. Between each station, there are 6 miles, and it takes 25 minutes to travel between them. At each station, the train can deposit up to 2 coal cars, 3 iron cars, and 1 wood car. How many minutes will it take to deliver all the cars?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

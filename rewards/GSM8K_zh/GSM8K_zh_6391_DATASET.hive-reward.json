@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊瓦尔拥有一间马厩。他最近有3匹马，每匹马每天需要5升水喝和2升水洗澡。如果他再加入5匹马，伊瓦尔需要多少升水来满足所有马匹28天的需求？。",
+  "topic": "回答下面的数学问题：Ivar owns a stable. He recently has 3 horses and each horse consumes 5 liters of water for drinking and 2 liters for bathing per day. If he added 5 horses, how many liters of water does Ivar need for all the horses for 28 days?",
   "checkpoint": [
     {
-      "$\\boxed{1568}$": 1
+      "\\boxed{1568}": 1
     }
   ],
   "matchingmethod": [

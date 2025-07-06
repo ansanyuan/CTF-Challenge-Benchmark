@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Nate开始露营之旅时带了70根火柴。他在小溪里掉了10根，他的狗吃掉了两倍多的火柴。他还剩下多少根火柴？。",
+  "topic": "回答下面的数学问题：Nate starts his camping trip with 70 matches. He drops 10 in a creek and his dog eats twice as many. How many matches does he have left?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

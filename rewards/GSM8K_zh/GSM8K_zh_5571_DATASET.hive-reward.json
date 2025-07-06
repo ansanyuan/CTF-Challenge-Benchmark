@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lowry卖盆景。一个小盆景的价格是30美元，一个大盆景的价格是20美元。如果他卖了3个小盆景和5个大盆景，他赚了多少钱？。",
+  "topic": "回答下面的数学问题：Lowry sells bonsai. A small bonsai costs $30 and a big bonsai costs $20. If he sold 3 small bonsai and 5 big bonsai, how much did he earn?",
   "checkpoint": [
     {
-      "$\\boxed{190}$": 1
+      "\\boxed{190}": 1
     }
   ],
   "matchingmethod": [

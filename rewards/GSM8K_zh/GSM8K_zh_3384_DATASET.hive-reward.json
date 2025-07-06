@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汉娜的广告拦截器屏蔽了除了20%的广告之外的所有广告，而其中20%的广告实际上是有趣的。有多少百分比的广告既不感兴趣又不被拦截？。",
+  "topic": "回答下面的数学问题：Hannah's AdBlock blocks all but 20% of ads, and 20% of the ads it doesn't block are actually interesting. What percentage of ads aren't interested and don't get blocked?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

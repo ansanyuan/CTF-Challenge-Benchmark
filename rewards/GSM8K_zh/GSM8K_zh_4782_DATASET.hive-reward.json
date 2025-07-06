@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Joseph以每小时50英里的速度开车行驶了2.5小时。凯尔以每小时62英里的速度开车行驶了2小时。Joseph比Kyle多开了多少英里？。",
+  "topic": "回答下面的数学问题：Joseph drives his car at 50 mph for 2.5 hours. Kyle drives his car at 62 mph for 2 hours. How many more miles does Joseph drive than Kyle?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

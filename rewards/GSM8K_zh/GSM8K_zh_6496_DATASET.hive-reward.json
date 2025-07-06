@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bart每砍倒一棵树都会给他75块木柴。如果他从11月1日到2月28日每天烧5块木头，他需要砍倒多少棵树？。",
+  "topic": "回答下面的数学问题：Every tree that Bart cuts down gives him 75 pieces of firewood.  If he burns 5 logs a day from November 1 through February 28, how many trees will he need to cut down?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

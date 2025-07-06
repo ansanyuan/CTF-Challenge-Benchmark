@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：雅各布正在做棉花糖。每个棉花糖需要两块全麦饼干和一个棉花糖。如果雅各布有48块全麦饼干和6个棉花糖，他还需要买多少个棉花糖？。",
+  "topic": "回答下面的数学问题：Jacob is making s'mores. Each s'more takes two graham crackers and one marshmallow. If Jacob has 48 graham crackers and 6 marshmallows, how many more marshmallows does he need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

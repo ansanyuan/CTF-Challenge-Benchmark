@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carla正在制作冰沙。如果她使用了500毫升的西瓜泥和100毫升的奶油，她可以制作多少份150毫升的冰沙？。",
+  "topic": "回答下面的数学问题：Carla is making smoothies. If she uses 500 ml of watermelon puree and 100 ml of cream, how many 150 ml servings can she make?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

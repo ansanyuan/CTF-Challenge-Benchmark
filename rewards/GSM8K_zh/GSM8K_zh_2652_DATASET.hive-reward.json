@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：费利克斯在后院砍树。每砍倒13棵树，他就需要给斧头重新磨一次。给斧头磨一次要花费5美元。如果他在磨斧头上花了35美元，他至少砍了多少棵树？。",
+  "topic": "回答下面的数学问题：Felix is chopping down trees in his backyard. For every 13 trees he chops down he needs to get his axe resharpened. It cost him $5 to sharpen his axe. If he spends $35 on axe sharpening, at least how many trees has he chopped down?",
   "checkpoint": [
     {
-      "$\\boxed{91}$": 1
+      "\\boxed{91}": 1
     }
   ],
   "matchingmethod": [

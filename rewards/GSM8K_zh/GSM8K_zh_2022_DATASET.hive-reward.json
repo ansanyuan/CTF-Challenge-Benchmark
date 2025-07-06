@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安吉尔有一家美味的水果沙拉餐厅，制作的水果沙拉数量是她朋友阿拉亚美味水果沙拉餐厅制作的两倍。阿拉亚的餐厅有200份水果沙拉。两家餐厅总共有多少份水果沙拉？。",
+  "topic": "回答下面的数学问题：Angel has a tasty fruit salad restaurant making twice the number of fruit salads made by her friend Alaya's tasty fruit salad restaurant. Alaya's restaurant has 200 fruit salads. How many fruit salads are there in total in the two restaurants?",
   "checkpoint": [
     {
-      "$\\boxed{600}$": 1
+      "\\boxed{600}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍勃从Costco订购了80包希腊酸奶用于这个月。然而，当送货到达时，他意识到40%的包装已经过期。他决定退回这些包装。如果每包售价为12美元，那么鲍勃因过期产品获得了多少退款？。",
+  "topic": "回答下面的数学问题：Bob ordered 80 packs of Greek yogurt from Costco to use for the month. However, when the delivery arrived, he realized 40% of the packs were expired. He decided to return those packs. If each pack was $12, how much was Bob refunded for the expired product?",
   "checkpoint": [
     {
-      "$\\boxed{384}$": 1
+      "\\boxed{384}": 1
     }
   ],
   "matchingmethod": [

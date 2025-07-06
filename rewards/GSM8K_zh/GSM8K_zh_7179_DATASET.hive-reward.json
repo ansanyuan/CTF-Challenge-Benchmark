@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当马克买第一台电视时，它的宽度是24英寸，高度是16英寸。价格是672美元。他的新电视宽度是48英寸，高度是32英寸，价格是1152美元。以每平方英寸的价格来衡量，他的第一台电视比他的最新电视贵多少？。",
+  "topic": "回答下面的数学问题：When Mark bought his first tv it was was 24 inches wide and 16 inches tall. It cost $672. His new tv is 48 inches wide and 32 inches tall and costs $1152. How much more expensive as measure by cost per square inch, was his first TV compared to his newest TV?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

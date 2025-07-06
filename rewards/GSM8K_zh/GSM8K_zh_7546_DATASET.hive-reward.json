@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤米通过每片3美元的价格卖布朗尼和每片4美元的价格卖芝士蛋糕为他的慈善机构筹款。如果汤米卖了43片布朗尼和23片芝士蛋糕，汤米总共筹集了多少钱？。",
+  "topic": "回答下面的数学问题：Tommy is fundraising for his charity by selling brownies for $3 a slice and cheesecakes for $4 a slice. If Tommy sells 43 brownies and 23 slices of cheesecake, how much money does Tommy raise?",
   "checkpoint": [
     {
-      "$\\boxed{221}$": 1
+      "\\boxed{221}": 1
     }
   ],
   "matchingmethod": [

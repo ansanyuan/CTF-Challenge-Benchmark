@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sasha注意到，在她购买一些木材后的最近几个月里，木材价格上涨了50%。由于她还有剩余的木材，她决定将它们出售。她有剩余的十块2 x 4 x 10的木板，每块成本是10美元。她还有五块4 x 4 x 10的木板，每块购买时是16美元。如果她全部卖出，她将获得多少利润？。",
+  "topic": "回答下面的数学问题：Sasha notices that prices for lumber have gone up 50% in the last few months after she bought some lumber. Since she has leftovers, she decides to sell them. She has leftover ten 2 x 4 x 10 boards that cost her $10 each. She also has five 4 x 4 x 10 boards she bought for $16 each. If she sells them all, how much profit does she make?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

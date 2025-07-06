@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：朱莉正在为家庭野餐做凯撒沙拉。在市场上，她花了8美元买绿色生菜和6美元买红色生菜。如果每种生菜的价格是每磅2美元，她总共买了多少磅的生菜？。",
+  "topic": "回答下面的数学问题：Julie is making caesar salad for a family picnic. At the market, she spends $8 on green lettuce and $6 on red lettuce. If each type of lettuce costs $2 per pound, how many total pounds of lettuce did she buy?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

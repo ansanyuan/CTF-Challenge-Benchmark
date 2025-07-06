@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Haley比Jason多5条项链。Josh的项链数量是Jason的一半。如果Haley有25条项链，那么Haley比Josh多多少条项链？。",
+  "topic": "回答下面的数学问题：Haley has 5 more necklaces than Jason. Josh has half the number of necklaces as Jason. If Haley has 25 necklaces, how many more necklaces does Haley have than Josh?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

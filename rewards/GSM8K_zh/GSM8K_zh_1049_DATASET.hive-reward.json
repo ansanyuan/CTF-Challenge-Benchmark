@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为四个周围社区提供服务的水塔每周容纳1200桶水，并且每周都装满。如果一个社区每周使用150桶水，第二个社区每周使用的水桶数是第一个社区的两倍，第三个社区每周使用的水桶数比第二个社区多100桶，那么剩下多少桶水供第四个社区使用？。",
+  "topic": "回答下面的数学问题：A water tower that serves four neighborhoods around it holds 1200 barrels of water and is filled to the top each week. If one neighborhood uses 150 barrels of water in a week, the second neighborhood uses twice as many barrels of water as the first neighborhood in a week, and the third neighborhood uses one hundred more barrels of water than the second neighborhood in a week, how many barrels are left for the fourth neighborhood?",
   "checkpoint": [
     {
-      "$\\boxed{350}$": 1
+      "\\boxed{350}": 1
     }
   ],
   "matchingmethod": [

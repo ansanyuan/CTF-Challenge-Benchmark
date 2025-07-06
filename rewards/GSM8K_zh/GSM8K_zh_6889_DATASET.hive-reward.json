@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个超市正在出售一品脱草莓。他们卖出了54品脱，赚了216美元，比不打折卖出相同数量的品脱少赚了108美元。不打折时，一品脱草莓比打折时贵多少美元？。",
+  "topic": "回答下面的数学问题：A supermarket has pints of strawberries on sale. They sold 54 pints and made $216, which was $108 less than they would have made selling the same number of pints without the sale. How many more dollars does a pint of strawberries cost when not on sale?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

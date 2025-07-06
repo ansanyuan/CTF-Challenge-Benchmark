@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Janina每天花费30美元租金，每天使用价值12美元的材料经营她的煎饼摊。如果她每个煎饼卖2美元，Janina每天必须卖多少个煎饼才能支付她的开销？。",
+  "topic": "回答下面的数学问题：Janina spends $30 each day for rent and uses $12 worth of supplies daily to run her pancake stand. If she sells each pancake for $2, how many pancakes must Janina sell each day to cover her expenses?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

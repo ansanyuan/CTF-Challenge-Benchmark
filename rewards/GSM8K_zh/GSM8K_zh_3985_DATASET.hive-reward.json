@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Judson, Camilo, and Kenny决定共同出钱为他们的房子涂漆。Judson出了500美元，Kenny出的钱比Judson多20%，Camilo比Kenny多出了200美元。涂房子的费用是多少？。",
+  "topic": "回答下面的数学问题：Judson, Camilo, and Kenny decided to contribute money to paint their house. Judson contributed $500, Kenny contributed 20% more money than Judson, and Camilo contributed $200 more than Kenny. How much was the cost of painting the house?",
   "checkpoint": [
     {
-      "$\\boxed{1900}$": 1
+      "\\boxed{1900}": 1
     }
   ],
   "matchingmethod": [

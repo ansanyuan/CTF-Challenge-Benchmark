@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bobby有三块面料，他将把它们做成一面旗帜。第一块面料是8英尺乘5英尺。第二块是10英尺乘7英尺。第三块是5英尺乘5英尺。如果他希望他的旗帜长度为15英尺，那么它的高度将是多少？。",
+  "topic": "回答下面的数学问题：Bobby has three squares of fabric that he will turn into a flag. The first square is 8 feet by 5 feet. The second one is 10 feet by 7 feet. The third one is 5 feet by 5 feet. If he wants his flag to be 15 feet long, how tall will it be?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

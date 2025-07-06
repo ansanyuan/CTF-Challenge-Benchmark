@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个糕点师正在制作布朗尼，但黄油快用完了。他正在遵循的食谱规定每1杯烘焙混合物需要2盎司黄油；然而，如果必要的话，可以用2盎司椰子油替代2盎司黄油。糕点师希望在转而使用椰子油之前尽可能多地使用黄油。如果糕点师剩下4盎司黄油，并且他计划使用6杯烘焙混合物，他最终会使用多少盎司椰子油？。",
+  "topic": "回答下面的数学问题：A pastry chef is making brownies but is running out of butter.  The recipe he is following calls for 2 ounces of butter for every 1 cup of baking mix; however, it allows 2 ounces of coconut oil to be substituted for the 2 ounces of butter if necessary.  The chef would like to use as much butter as possible before switching over and substituting coconut oil.  If the chef had 4 ounces of butter remaining, and he plans on using 6 cups of baking mix, how many ounces of coconut oil will he end up using?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

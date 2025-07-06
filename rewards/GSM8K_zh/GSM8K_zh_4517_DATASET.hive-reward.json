@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ian使用了一款杂货送货应用来送货。他原始订单在送货和小费之前是25美元。他注意到他的订单有3样东西发生了变化。一罐0.99美元的番茄被一罐2.20美元的番茄替换，他的1.00美元的生菜被1.75美元的生菜替换，他的1.96美元的芹菜被2.00美元的芹菜替换。送货和小费总共是8.00美元。现在他的新账单是多少，包括食品替代品和送货/小费？。",
+  "topic": "回答下面的数学问题：Ian used a grocery delivery app to have his groceries delivered.  His original order was $25 before delivery and tip.  He noticed that 3 items changed on his order.  A $0.99 can of tomatoes was replaced by a $2.20 can of tomatoes, his $1.00 lettuce was replaced with $1.75 head of lettuce and his $1.96 celery was replaced with celery that cost $2.00.  Delivery and tip came to a total of $8.00.  How much is his new bill now, with the food substitutes and delivery/tip?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

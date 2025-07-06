@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Elias每个月用一块肥皂。如果每块肥皂的价格是4美元，他两年内在肥皂上花了多少钱？。",
+  "topic": "回答下面的数学问题：Elias uses a bar of soap every month. If each bar of soap costs $4, how much does he spend on bars of soap in two years?",
   "checkpoint": [
     {
-      "$\\boxed{96}$": 1
+      "\\boxed{96}": 1
     }
   ],
   "matchingmethod": [

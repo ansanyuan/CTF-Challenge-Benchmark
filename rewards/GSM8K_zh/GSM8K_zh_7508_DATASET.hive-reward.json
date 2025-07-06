@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：西奥班的珠宝比亚伦少2颗。亚伦的珠宝比雷蒙德的一半多5颗。如果雷蒙德有40颗珠宝，那么西奥班有多少颗珠宝？。",
+  "topic": "回答下面的数学问题：Siobhan has 2 fewer jewels than Aaron. Aaron has 5 more jewels than half of Raymond's jewels. If Raymond has 40 jewels, how many jewels does Siobhan have?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

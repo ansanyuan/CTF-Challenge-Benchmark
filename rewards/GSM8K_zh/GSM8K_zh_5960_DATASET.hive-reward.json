@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lola烤了13个迷你纸杯蛋糕，10个波普塔特，和8个蓝莓派。与此同时，露露做了16个迷你纸杯蛋糕，12个波普塔特，和14个蓝莓派。Lola和Lulu总共做了多少糕点？。",
+  "topic": "回答下面的数学问题：Lola baked 13 mini cupcakes, 10 pop tarts, and 8 blueberry pies. Meanwhile, Lulu made 16 mini cupcakes, 12 pop tarts, and 14 blueberry pies. How many pastries have Lola and Lulu made altogether?",
   "checkpoint": [
     {
-      "$\\boxed{73}$": 1
+      "\\boxed{73}": 1
     }
   ],
   "matchingmethod": [

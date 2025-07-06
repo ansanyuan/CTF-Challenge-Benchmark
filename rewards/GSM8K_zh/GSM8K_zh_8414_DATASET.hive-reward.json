@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了庆祝儿童节，孩子们将在国家总统面前进行集体操表演。他们每排站8个，每所学校有7排，共有5所不同的学校。集体操中可以有多少孩子？。",
+  "topic": "回答下面的数学问题：For the children's day celebration, children are to perform mass drills in the presence of the President of the country. They stand 8 in a row and there are 7 rows each for 5 different Schools. How many children can there be in the drill?",
   "checkpoint": [
     {
-      "$\\boxed{280}$": 1
+      "\\boxed{280}": 1
     }
   ],
   "matchingmethod": [

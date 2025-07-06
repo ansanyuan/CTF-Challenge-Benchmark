@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：苏珊有21只猫，鲍勃有3只猫。如果苏珊把她的4只猫给了鲍勃，那么苏珊比鲍勃多多少只猫？。",
+  "topic": "回答下面的数学问题：Susan has 21 cats and Bob has 3 cats. If Susan gives Robert 4 of her cats, how many more cats does Susan have than Bob?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marisa每天从她父母那里得到5美元的零花钱。她每天买4个每个价值25美分的棒棒糖，并将零钱存入她的存钱罐。如果她存了5天，她会把多少钱放入她的存钱罐？。",
+  "topic": "回答下面的数学问题：Marisa gets $5 as pocket money every day from her parents. She buys 4 lollipops worth 25 cents each every day and saves the change in her piggy bank. How much money does she put in her piggy bank if she saves for 5 days?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

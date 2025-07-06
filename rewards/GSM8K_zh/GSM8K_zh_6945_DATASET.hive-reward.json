@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家当地企业出售25张彩票筹集慈善基金。每张票的售价为2.00美元。他们卖掉了所有的票，还收到了2笔15美元的捐款和一笔20美元的捐款。他们筹集了多少钱？。",
+  "topic": "回答下面的数学问题：A local business was selling 25 raffle tickets to raise money for charity.  Each ticket cost $2.00 apiece.  They sold all the tickets and also received 2 $15 donations and a $20 donation.  How much money did they raise?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

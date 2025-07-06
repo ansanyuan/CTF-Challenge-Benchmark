@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊莎贝尔在帮助她妈妈从前院的树上摘苹果。她们一起摘了34个苹果。她们想要做苹果派。每个苹果派需要4个苹果，但苹果必须成熟。她们摘的苹果中有6个不成熟。她们可以做多少个苹果派？。",
+  "topic": "回答下面的数学问题：Isabel was helping her mom pick apples from their tree in the front yard.  Together they picked 34 apples.  They want to make apple pies.  Each apple pie needs 4 apples, but the apples have to be ripe.  6 of the apples they picked are not ripe.  How many pies can they make?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

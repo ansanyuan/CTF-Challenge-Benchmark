@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：公园里有350棵树，其中70%是松树。不是松树的树有多少棵？。",
+  "topic": "回答下面的数学问题：There are 350 trees in the park, 70% of which are pine trees. How many are not pine trees?",
   "checkpoint": [
     {
-      "$\\boxed{105}$": 1
+      "\\boxed{105}": 1
     }
   ],
   "matchingmethod": [

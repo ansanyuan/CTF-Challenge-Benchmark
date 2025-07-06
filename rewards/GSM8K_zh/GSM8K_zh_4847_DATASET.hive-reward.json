@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：标准生长条件下，大肠杆菌菌株的倍增时间为20分钟。如果用1个单个细菌细胞开始在标准生长条件下培养，那么在培养4小时后会有多少细菌细胞？。",
+  "topic": "回答下面的数学问题：Under standard growth conditions, the bacterial strain, E.coli, has a doubling time of 20 minutes.   If 1 single bacterial cell is used to start a culture grown under standard growth conditions, how many bacterial cells will there be after the culture is grown for 4 hours?",
   "checkpoint": [
     {
-      "$\\boxed{4096}$": 1
+      "\\boxed{4096}": 1
     }
   ],
   "matchingmethod": [

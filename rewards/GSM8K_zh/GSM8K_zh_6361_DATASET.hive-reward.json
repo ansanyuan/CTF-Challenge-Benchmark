@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Elisa和她的两个朋友出去吃饭。他们每个人都点了价值10美元的餐。之后，他们每个人都吃了一勺相同种类的冰淇淋。如果Elisa手头的45美元足够支付一切，一勺冰淇淋的成本是多少？。",
+  "topic": "回答下面的数学问题：Elisa and her two friends went out to dinner. Each of them ordered a meal worth $10. Afterwards, they each had a scoop of the same kind of ice cream. If the $45 Elisa had was enough to pay for everything, what was the cost of a scoop of ice cream?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家珠宝店的利润的三分之一是在星期一赚取的，四分之一的利润是在星期二赚取的，剩下的利润是在星期三赚取的。这家店总共赚取了1200美元的利润。星期三赚取了多少利润（以美元计）？。",
+  "topic": "回答下面的数学问题：A beadshop earns a third of its profit on Monday, a quarter of its profit on Tuesday and the rest of its profit on Wednesday. The shop makes a total profit of $1,200. How much profit, in dollars, was made on Wednesday?",
   "checkpoint": [
     {
-      "$\\boxed{500}$": 1
+      "\\boxed{500}": 1
     }
   ],
   "matchingmethod": [

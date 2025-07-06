@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：西奥多每个月可以制作10个石像和20个木像。一个石像的成本是20美元，一个木像的成本是5美元。他还要支付总收入的10%作为税金。他每个月的总收入是多少？。",
+  "topic": "回答下面的数学问题：Theodore can craft 10 stone statues and 20 wooden statues every month. A stone statue costs $20 and a wooden statue costs $5. He also pays 10 percent of his total earnings in taxes. How much is his total earning every month?",
   "checkpoint": [
     {
-      "$\\boxed{270}$": 1
+      "\\boxed{270}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：幻影的妈妈给了他50美元去买打印机墨水。在商店里，他买了两瓶黑色打印机墨水，每瓶11美元，三瓶红色打印机墨水，每瓶15美元，和两瓶黄色打印机墨水，每瓶13美元。幻影发现他的钱不够买所有的打印机墨水。他应该向他的妈妈要多少钱才能买到打印机墨水？。",
+  "topic": "回答下面的数学问题：Phantom's mom gave him $50 to buy printer-inks. At the store, he bought two black printer inks which cost $11 each, three red printer inks which cost $15 each, and two yellow printer inks which cost $13 each. Phantom found out that his money is not enough to buy all the printer inks. How much more money should he ask his mom to be able to buy the printer inks?",
   "checkpoint": [
     {
-      "$\\boxed{43}$": 1
+      "\\boxed{43}": 1
     }
   ],
   "matchingmethod": [

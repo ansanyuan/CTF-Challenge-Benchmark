@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一块巧克力由60块组成。如果迈克尔拿走一半，佩奇拿走剩下的一半，曼迪剩下巧克力的多少块？。",
+  "topic": "回答下面的数学问题：A bar of chocolate is made up of 60 pieces. If Michael takes half of the bar, Paige takes half of the remainder, and Mandy is left with what’s left of the chocolate bar, how many pieces of chocolate will Mandy get?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

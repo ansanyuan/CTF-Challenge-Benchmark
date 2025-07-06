@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔恩经营一个网站，他每有一个访问者就会得到报酬。他每个访问者得到0.10美元的报酬。每小时他有50个访问者。他的网站每天24小时运营。一个30天的月份他能赚多少美元？。",
+  "topic": "回答下面的数学问题：Jon runs a website where he gets paid for every person who visits.  He gets paid $0.10 for every person who visits.  Each hour he gets 50 visits.  His website operates 24 hours a day.  How many dollars does he make in a 30 day month?",
   "checkpoint": [
     {
-      "$\\boxed{3600}$": 1
+      "\\boxed{3600}": 1
     }
   ],
   "matchingmethod": [

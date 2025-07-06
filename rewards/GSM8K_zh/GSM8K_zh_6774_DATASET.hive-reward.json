@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jerry每周工作五天作为一名服务员，每晚的小费金额不定。过去四天晚上，他分别赚了20美元，60美元，15美元和40美元。如果他想每晚平均赚50美元的小费，那么他今晚需要赚多少钱？。",
+  "topic": "回答下面的数学问题：Jerry works five days a week as a waiter and earns a variable amount of tips every night. The past four nights, he earned $20, $60, $15, and $40. How much does he need to earn tonight if he wants to make an average of $50 in tips per night?",
   "checkpoint": [
     {
-      "$\\boxed{115}$": 1
+      "\\boxed{115}": 1
     }
   ],
   "matchingmethod": [

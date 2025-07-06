@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：咖啡馆有16名厨师和16名服务员。如果有6名厨师和3名服务员退出，还剩下多少名厨师和服务员？。",
+  "topic": "回答下面的数学问题：The cafe has 16 chefs and 16 waiters. If 6 chefs and 3 waiters drop out, how many chefs and waiters are left?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

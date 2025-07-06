@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Evelyn学校的学生正在写日记。他们每周有3次写日记的机会。每个学生每次写4页。每个学生在6周内会写多少页日记？。",
+  "topic": "回答下面的数学问题：The students at Evelyn's school are keeping journals. They have 3 journal-writing sessions per week. Each student writes 4 pages in each session. How many journal pages will each student write in 6 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

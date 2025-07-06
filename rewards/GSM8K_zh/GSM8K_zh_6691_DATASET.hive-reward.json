@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：实验室需要烧瓶、试管和安全设备来进行实验。他们本月的预算是325美元。他们购买了价值150美元的烧瓶，用了这个金额的三分之二来购买试管，并用试管成本的一半购买了安全设备。他们的预算剩下多少美元？。",
+  "topic": "回答下面的数学问题：A laboratory needs flasks, test tubes, and safety gear to carry out its experiments. They were given a $325 budget for the month. They bought $150 worth of flasks, spent two-thirds of that amount on test tubes, and used half of the test tube cost on safety gear. How many dollars of their budget remained?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

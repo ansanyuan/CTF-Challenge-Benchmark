@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯买了一架飞机。飞机的成本是15万美元。他每个月支付5000美元租用机库来存放它。他每个月在燃料上的花费是机库租金的两倍。第一年他买飞机和维护的总成本是多少？。",
+  "topic": "回答下面的数学问题：James buys a plane.  The plane cost $150,000.  He pays $5000 a month to rent a hanger to keep it in.  He also spends twice as much as that on fuel per month.  How much did it cost him to get and maintain the plane for the first year?",
   "checkpoint": [
     {
-      "$\\boxed{330000}$": 1
+      "\\boxed{330000}": 1
     }
   ],
   "matchingmethod": [

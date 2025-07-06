@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：斯泰森与亚历克打赌，他每吃一个橙子就放弃10美元。在农场时，斯泰森吃掉了他们摘的橙子的2/5。如果他们摘了60个橙子，计算斯泰森放弃的总金额是多少？。",
+  "topic": "回答下面的数学问题：Stetson made a bet with Alec that he would give up $10 for each orange he eats. While at the farm, Stetson ate 2/5 of the oranges they picked. If they picked 60 oranges, calculate the total amount of money Stetson gave up?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

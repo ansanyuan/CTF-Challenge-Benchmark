@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂姆买了一个柜子，原价1200美元，打了85折。他实际支付了多少钱？。",
+  "topic": "回答下面的数学问题：Tim buys a cabinet for $1200 and gets a 15% discount.  How much did he pay?",
   "checkpoint": [
     {
-      "$\\boxed{1020}$": 1
+      "\\boxed{1020}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡尔的目标是在2天内卖出96个纸杯蛋糕。卡尔需要给邦妮24个纸杯蛋糕作为使用她的店面的费用。卡尔每天必须卖出多少个纸杯蛋糕才能达到他的目标？。",
+  "topic": "回答下面的数学问题：Carl has a goal of selling 96 cupcakes in 2 days. Carl needs to give 24 cupcakes to Bonnie as payment for using her storefront. How many cupcakes must Carl sell per day to reach his goal?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

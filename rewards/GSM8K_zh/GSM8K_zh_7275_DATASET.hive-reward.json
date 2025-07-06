@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：临时代理公司的求职者中有20%具有Excel经验。70%的求职者只愿意工作白天。如果经理随机挑选一个求职者，他们会知道Excel并愿意工作夜班的几率是多少？。",
+  "topic": "回答下面的数学问题：20% of the job candidates at a temp agency have experience with Excel. 70% of the candidates are only willing to work day shifts. If a manager picks a candidate at random, what are the odds they know Excel and are willing to work nights?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

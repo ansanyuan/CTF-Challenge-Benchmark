@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：For $n\\ge1$ call a finite sequence $(a_1,a_2,\\ldots,a_n)$ of positive integers progressive if $a_i<a_{i+1}$ and $a_i$ divides $a_{i+1}$ for $1\\le i\\le n-1$ . Find the number of progressive sequences such that the sum of the terms in the sequence is equal to $360.$",
   "checkpoint": [
     {
-      "$\\boxed{47}$": 1
+      "\\boxed{47}": 1
     }
   ],
   "matchingmethod": [

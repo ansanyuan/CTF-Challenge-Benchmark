@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ryan想带5个花生酱三明治去海滩。如果每个三明治由3片面包组成，那么Ryan需要多少片面包来做5个三明治？。",
+  "topic": "回答下面的数学问题：Ryan wants to take 5 peanut butter sandwiches to the beach.  If each sandwich consists of 3 slices of bread how many slices does Ryan need to make 5 sandwiches?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

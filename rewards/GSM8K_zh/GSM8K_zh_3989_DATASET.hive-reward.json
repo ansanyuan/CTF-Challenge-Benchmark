@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：DJ Snake的朋友们决定给他一些礼物来庆祝他的订婚。Moksi带他和他的未婚妻去了一家豪华酒店住了两晚，每晚4000美元。Lil Jon给他们买了一辆价值30000美元的车，而Wynter送给他们一栋价值Lil Jon买的车价值的四倍的房子。DJ Snake在订婚当天收到的所有礼物的总价值是多少？。",
+  "topic": "回答下面的数学问题：DJ Snake's friends decided to give him treats to celebrate his engagement. Moksi took him and his fiancee to a luxurious hotel for two nights at $4000 per night. Lil Jon bought them a car worth $30000, and Wynter presented them with a house worth four times the value of the car Lil Jon bought them. What was the total value of all the treats DJ Snake received on his engagement day?",
   "checkpoint": [
     {
-      "$\\boxed{158000}$": 1
+      "\\boxed{158000}": 1
     }
   ],
   "matchingmethod": [

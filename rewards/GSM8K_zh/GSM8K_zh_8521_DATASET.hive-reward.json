@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗里在网球比赛后从球场上捡网球。在三组中的第一组，他比第二组多捡了四个球。在第三组中，他捡的球是第二组的一半。他总共捡了19个网球。他在比赛的第一组中捡了多少个网球？。",
+  "topic": "回答下面的数学问题：Rory is retrieving tennis balls from the court after a tennis match. In the first of three sets, he had to retrieve four more balls than in the second set. In the third set, he retrieved half as many balls as in the second. He retrieved 19 tennis balls in all. How many tennis balls did he retrieve in the first set of the match?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

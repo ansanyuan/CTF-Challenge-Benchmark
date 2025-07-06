@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：开学的第一天，Ava看到她的朋友Cole和Xavier在暑假期间都长高了很多。Xavier原来有4英尺高，长了3英寸。Cole原来有50英寸高，在暑假期间又长了2英寸。现在Cole和Xavier的身高差是多少？。",
+  "topic": "回答下面的数学问题：On the first day of school, Ava sees that her friends Cole and Xavier have both grown a lot over the summer. Xavier was 4 feet tall and grew 3 inches. Cole was 50 inches tall and grew 2 inches over the summer. What is the difference between Cole and Xavier’s height now?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

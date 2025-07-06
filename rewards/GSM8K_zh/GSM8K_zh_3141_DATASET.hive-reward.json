@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有10排15把椅子为颁奖典礼设置。第一排为获奖者保留，第二和第三排为行政人员和教师保留。最后两排为家长保留，其余排为学生保留。如果只有学生保留的座位的4/5被占用，那么可以给家长多少空座位？。",
+  "topic": "回答下面的数学问题：There are 10 rows of 15 chairs set up for the award ceremony. The first row is reserved for the awardees while the second and third rows are for the administrators and teachers. The last two rows are then reserved for the parents and the rest of the rows are for the students. If only 4/5 of the seats reserved for the students are occupied, how many vacant seats from the students can be given to the parents?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

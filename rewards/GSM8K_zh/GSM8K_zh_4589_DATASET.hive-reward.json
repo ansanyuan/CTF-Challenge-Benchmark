@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位商业高管要去度假四天，期间无法回复电子邮件。他离开的第一天，他收到了16封新邮件。在接下来的每一天，他收到的新邮件数量都是前一天的一半。在他四天的假期结束时，他总共收到了多少封新邮件？。",
+  "topic": "回答下面的数学问题：A business executive is going on a four day vacation where he will be unable to answer emails.  The first day he is gone, he receives 16 new emails.  On each of the following days, he receives half as many new emails as he received on the prior day.  At the end of his four day vacation, how many new emails will he have received in total?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

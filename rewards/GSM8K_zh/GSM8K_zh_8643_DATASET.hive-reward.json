@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗尼被给了5美元，而丽莎被给了三倍的金额。在他们每个人都给了他们的小妹妹相同数量的钱之后，丽莎剩下了她钱的4/5。罗尼的钱剩下了多少？。",
+  "topic": "回答下面的数学问题：Ronnie was given $5 while Rissa was given thrice as much. After each of them had given an equal amount of money to their little sister, Rissa is left with 4/5 of her money. How much is left in Ronnie's money?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

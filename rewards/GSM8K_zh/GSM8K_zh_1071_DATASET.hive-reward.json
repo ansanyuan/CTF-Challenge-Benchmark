@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每天早上，杰森吃一个用三个鸡蛋做的煎蛋。在两周内，杰森会消耗多少个鸡蛋？。",
+  "topic": "回答下面的数学问题：Every morning, Jason eats an omelet made using three eggs.  How many eggs will Jason consume in two weeks?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

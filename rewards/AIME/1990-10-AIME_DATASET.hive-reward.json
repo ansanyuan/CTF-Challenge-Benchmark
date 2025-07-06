@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：The sets $A = \\{z : z^{18} = 1\\}$ and $B = \\{w : w^{48} = 1\\}$ are both sets of complex roots of unity.  The set $C = \\{zw : z \\in A ~ \\mbox{and} ~ w \\in B\\}$ is also a set of complex roots of unity.  How many distinct elements are in $C^{}_{}$ ?",
   "checkpoint": [
     {
-      "$\\boxed{144}$": 1
+      "\\boxed{144}": 1
     }
   ],
   "matchingmethod": [

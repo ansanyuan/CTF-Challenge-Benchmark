@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个美发沙龙每天的顾客数量是相同的。每位顾客在造型过程中需要1罐发胶，并且还会拿走1罐发胶。美发沙龙每天还额外购买5罐发胶以确保不会短缺。如果美发沙龙每天购买33罐发胶，那么他们每天有多少位顾客？。",
+  "topic": "回答下面的数学问题：A salon has the same amount of customers every day. Each customer needs 1 can of hairspray during the styling and is also given 1 can of hairspray to take home. The salon also buys an extra 5 cans of hairspray each day to ensure there is never a shortage. If the salon buys 33 cans of hairspray every day, how many customers do they have each day?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

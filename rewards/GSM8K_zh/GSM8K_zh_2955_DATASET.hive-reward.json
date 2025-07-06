@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个有1000个车位的停车场被分成3个区域。第1区有320个车位，第2区比第3区多200个。停车场第2区有多少个车位？。",
+  "topic": "回答下面的数学问题：A 1000 car parking lot is divided into 3 sections. There are 320 spaces in section 1, and 200 more in section 2 than in section 3. How many spaces are made available in section 2 of the parking lot?",
   "checkpoint": [
     {
-      "$\\boxed{440}$": 1
+      "\\boxed{440}": 1
     }
   ],
   "matchingmethod": [

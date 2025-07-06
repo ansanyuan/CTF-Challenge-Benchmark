@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：摩根的爸爸说她的生日派对预算有90美元。她想确保她和她的朋友们都能玩一轮迷你高尔夫，有5美元的街机代币，并且能够玩两次卡丁车。一轮迷你高尔夫的费用是5美元。卡丁车每次骑行费用是10美元。她能邀请多少个朋友？。",
+  "topic": "回答下面的数学问题：Morgan's dad said that she had $90 budgeted for her birthday party. She wants to make sure she and her friends all get to play one round of mini-golf, have $5 in arcade tokens, and get to ride the go-karts twice. A round of mini-golf is $5. The Go-karts cost $10 a ride. How many friends can she invite?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

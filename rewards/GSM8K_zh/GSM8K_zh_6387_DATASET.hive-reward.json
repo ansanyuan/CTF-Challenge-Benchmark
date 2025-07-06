@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Nathan去了游戏厅。他玩了空气曲棍球游戏2次和篮球游戏4次。如果每个游戏花费3个代币，他使用了多少代币？。",
+  "topic": "回答下面的数学问题：Nathan went to the arcade. He played the air hockey game 2 times and the basketball game 4 times. If each game cost 3 tokens, how many tokens did he use?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

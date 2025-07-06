@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个男孩有12个橙子。他把这个数量的三分之一给了他的兄弟，剩下的四分之一给了他的朋友，自己留下了剩下的。他的朋友得到了多少个橙子？。",
+  "topic": "回答下面的数学问题：A boy has 12 oranges. He gives one-third of this number to his brother, one-fourth of the remainder to his friend and keeps the rest for himself. How many does his friend get?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

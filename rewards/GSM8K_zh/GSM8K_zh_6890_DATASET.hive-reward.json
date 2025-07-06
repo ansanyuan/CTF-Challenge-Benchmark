@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：本有2000美元用于他的业务运营成本。他向供应商订购商品，并给他们写了一张价值600美元的支票。他的债务人从他们以信用购买的商品中支付给他800美元。本先生随后决定进行设备维护，并在整个操作上花费了1200美元。本先生剩下多少钱？。",
+  "topic": "回答下面的数学问题：Ben has $2000 for his business operations costs. He orders goods from his supplier and writes them a cheque for $600. His debtor pays him $800 from the purchases they had made on credit. Mr. Ben then decides to do equipment maintenance and spends $1200 on the whole operation. How much money is Mr. Ben remaining with?",
   "checkpoint": [
     {
-      "$\\boxed{1000}$": 1
+      "\\boxed{1000}": 1
     }
   ],
   "matchingmethod": [

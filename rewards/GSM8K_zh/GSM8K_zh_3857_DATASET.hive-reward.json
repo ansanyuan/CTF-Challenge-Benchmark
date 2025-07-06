@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lilith试图打破最大帽子收藏的世界纪录。她在第一年每个月收集3顶帽子，第一年之后每个月收集5顶帽子。每个圣诞节，她还会收到来自朋友和家人的40顶帽子。她估计每年会丢失她收集的帽子中的15顶。如果Lilith已经收集了5年，到目前为止她收集了多少顶帽子？。",
+  "topic": "回答下面的数学问题：Lilith is trying to break the world record for largest cap collection. She collects 3 caps per month in the first year, and 5 caps per month after the first year. Each Christmas, she also receives 40 caps from friends and family. She estimates that each year, she loses 15 of the caps she has collected. If Lilith has been collecting for 5 years, how many caps has she collected so far?",
   "checkpoint": [
     {
-      "$\\boxed{401}$": 1
+      "\\boxed{401}": 1
     }
   ],
   "matchingmethod": [

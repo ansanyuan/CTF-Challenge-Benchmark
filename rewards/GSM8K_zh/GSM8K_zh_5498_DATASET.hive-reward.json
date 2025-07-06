@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jimmy想在后院的充气游泳池里玩。游泳池是空的，车库被锁住，所以他无法使用软管来灌满游泳池。他找到了一个2加仑的桶，并计算出从水龙头灌满桶并将其搬到游泳池倒入水需要20秒。如果游泳池可以容纳84加仑的水，Jimmy需要多少时间来灌满游泳池？。",
+  "topic": "回答下面的数学问题：Jimmy wants to play in the inflatable swimming pool in his backyard. The swimming pool is empty and the garage is locked, so he cannot use the hose to fill the pool. He finds a 2 gallon bucket and calculates that it takes 20 seconds to fill the bucket from the tap and carry it to the pool where he pours in the water. If the pool holds 84 gallons of water, how many minutes will it take Jimmy to fill the pool?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史蒂文有安德鲁的4倍多的衬衫。安德鲁有布莱恩的6倍多的衬衫。如果布莱恩有3件衬衫，史蒂文有多少件？。",
+  "topic": "回答下面的数学问题：Steven has 4 times as many shirts as Andrew. Andrew has 6 times as many shirts as Brian. If Brian has 3 shirts, how many does Steven have?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

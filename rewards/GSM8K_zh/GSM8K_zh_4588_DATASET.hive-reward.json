@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在5天内，香黛尔每天制作2条友谊手链。她在学校送出3条手链给她的朋友。然后在接下来的四天，她每天制作3条友谊手链。然后她在足球练习中送出6条手链给她的朋友。香黛尔最后有多少条手链？。",
+  "topic": "回答下面的数学问题：For 5 days, Chantel makes 2 friendship bracelets every day. She gives away 3 bracelets to her friends at school. Then for four days, she makes 3 friendship bracelets every day. Then she gives away 6 bracelets to her friends at soccer practice. How many bracelets does Chantel have in the end?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

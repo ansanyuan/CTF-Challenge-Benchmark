@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一袋面粉被分成了8份，每份2公斤。在被分成份额之前，三袋面粉总共有多少公斤？。",
+  "topic": "回答下面的数学问题：A bag of flour is divided into 8 portions of 2 kilograms each. How much flour (in kilograms) was in three bags in total, before it was divided into portions?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

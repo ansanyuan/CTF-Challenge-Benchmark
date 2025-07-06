@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alec正在竞选班长。他认为如果他能让四分之三的同学投票给他，那么没有人能击败他。一半的同学已经表示会投票给他，但在剩下的学生中，只有5个表示正在考虑投票给他。他调查了那些打算投票给其他人的学生，并修改了他的传单以反映这些学生关心的问题。结果是其中五分之一的学生表示他们会投票给他。如果Alec的班上有60名学生，并且每个表示会投票给他的人都这样做，Alec还需要多少票才能达到他的目标票数？。",
+  "topic": "回答下面的数学问题：Alec is running for Class President. He thinks that if he can get three-quarters of the class to vote for him then there is no chance anyone else can beat him. Half of the class have already said they will vote for him but out of the remaining students, only 5 have said they are thinking about voting for him. He surveys the students who are thinking about voting for someone else, and changes his flyers to reflect the issues these students are concerned about. This results in a fifth of these students saying they'll vote for him. If Alec's class has 60 students and everyone who said they will vote for him does so, how many more votes does Alec need to reach his goal number of votes?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杜克在一个旧货出售时发现了DVD的特价。它们按价格分成了2个不同的盒子。在第一个盒子里，他找到了10部他想要的电影。这些是每部2.00美元。第二个盒子标价每部5美元，他找到了5部他想要的电影。他买的每张DVD的平均价格是多少？。",
+  "topic": "回答下面的数学问题：Duke was at a garage sale when he spotted DVDs on sale.  They were separated by price into 2 different boxes.  In the first box, he found 10 movies that he wanted.  These were $2.00 apiece.  The second box was marked $5 each and he found 5 movies he wanted.  What was the average price of each of the DVDs he bought?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

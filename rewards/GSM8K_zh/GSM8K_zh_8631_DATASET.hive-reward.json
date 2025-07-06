@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡尔有一根手杖，其长度是他身高的一半。卡尔比他的弟弟内德高一英尺。而内德比他的表亲伊莎贝尔矮两英尺。如果伊莎贝尔身高7英尺，那么卡尔的手杖有多长（单位：英尺）？。",
+  "topic": "回答下面的数学问题：Carl has a cane that is half as long as he is tall.  Carl is one foot taller than his brother, Ned.  And Ned is two feet shorter than his cousin, Isabel.  If Isabel is 7 feet tall, how long is Carl's cane, in feet?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

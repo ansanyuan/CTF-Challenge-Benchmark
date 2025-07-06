@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔发现了一部新的系列剧，最终季将在10天后首映。该系列已经播出了4个完整季节，每个季节有15集。为了赶上季首映，乔必须观看所有的剧集。乔每天需要观看多少集？。",
+  "topic": "回答下面的数学问题：Joe found a new series to watch with a final season that will premiere in 10 days. The series has 4 full seasons already aired; each season has 15 episodes. To catch up with the season premiere he has to watch all episodes. How many episodes per day does Joe have to watch?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

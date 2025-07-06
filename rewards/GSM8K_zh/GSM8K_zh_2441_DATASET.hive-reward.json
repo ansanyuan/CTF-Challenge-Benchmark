@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Wally把他400张票的3/4给了他的两个朋友Jensen和Finley，他们按4:11的比例分享这些票。Finley得到了多少张票？。",
+  "topic": "回答下面的数学问题：Wally gives 3/4 of his 400 tickets to his two friends Jensen and Finley, who share the tickets in a ratio of 4:11. How many tickets does Finley get?",
   "checkpoint": [
     {
-      "$\\boxed{220}$": 1
+      "\\boxed{220}": 1
     }
   ],
   "matchingmethod": [

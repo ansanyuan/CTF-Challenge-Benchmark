@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：唐尼只有在水至少达到40度时才能喝。他有两个水杯。一个水杯是33度。另一个是未知温度。如果他从33度的水杯里倒出4盎司水到他的水瓶里，再从另一个瓶子里倒出1盎司，他现在就能喝这水了。第二个瓶子里的水至少有多少度？。",
+  "topic": "回答下面的数学问题：Donny can only drink water if it's at least 40 degrees. He has two mugs of water. One mug is 33 degrees. The other is an unknown temperature. If he pours 4 ounces of water from the 33-degree mug into his water bottle and one ounce from the other bottle, he is now able to drink the water.  At least how many degrees is the second bottle?",
   "checkpoint": [
     {
-      "$\\boxed{68}$": 1
+      "\\boxed{68}": 1
     }
   ],
   "matchingmethod": [

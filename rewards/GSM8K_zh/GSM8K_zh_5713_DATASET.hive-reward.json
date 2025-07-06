@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家航空公司拥有5架飞机。他们拥有的每架飞机都有20排，每排7个座位。每架飞机每天都会飞行2次。这家航空公司每天可以容纳多少乘客？。",
+  "topic": "回答下面的数学问题：An airline company owns 5 airplanes. Every airplane they own has 20 rows with 7 seats in each row. Each airplane makes 2 flights a day. How many passengers can the airline company accommodate each day?",
   "checkpoint": [
     {
-      "$\\boxed{1400}$": 1
+      "\\boxed{1400}": 1
     }
   ],
   "matchingmethod": [

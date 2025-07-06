@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jacoby想为去Brickville的旅行存钱。他需要总共5000美元才能去旅行。他做了一份每小时赚20美元的工作，工作了10个小时。然后他发现他可以卖每个饼干4美元，他卖了24块饼干。到目前为止，他有多少钱，他用10美元买了一张彩票，赢得了500美元。最后，他从他的两个姐妹那里得到了500美元作为礼物。Jacob还需要多少美元才能去Brickville？。",
+  "topic": "回答下面的数学问题：Jacoby wants to save money for a trip to Brickville. He needs to have $5000 total to go on his trip. He works a job earning $20 per hour and works 10 hours. He then finds he can sell cookies for $4 each, and he sells 24 pieces of cookies. With the money he has so far, he buys a lottery ticket for $10 and wins $500. Finally, he gets $500 from both of his sisters as a gift. How much more, in dollars, does Jacob need to go to Brickville?",
   "checkpoint": [
     {
-      "$\\boxed{3214}$": 1
+      "\\boxed{3214}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：四只猫住在路尽头的那座老灰房子里。它们的名字分别是Puffy，Scruffy，Buffy和Juniper。Puffy的胡须数量是Juniper的三倍，但是是Scruffy的一半。Buffy的胡须数量与其他三只猫的平均胡须数量相同。如果Juniper有12根胡须，那么Buffy有多少根胡须？。",
+  "topic": "回答下面的数学问题：Four cats live in the old grey house at the end of the road.  Their names are Puffy, Scruffy, Buffy, and Juniper.  Puffy has three times more whiskers than Juniper, but half as many as Scruffy.  Buffy has the same number of whiskers as the average number of whiskers on the three other cats.  If Juniper has 12 whiskers. how many whiskers does Buffy have?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

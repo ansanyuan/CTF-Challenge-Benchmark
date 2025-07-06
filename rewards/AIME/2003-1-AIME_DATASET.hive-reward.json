@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：The product $N$ of three positive integers is 6 times their sum, and one of the integers is the sum of the other two. Find the sum of all possible values of $N$ .",
   "checkpoint": [
     {
-      "$\\boxed{336}$": 1
+      "\\boxed{336}": 1
     }
   ],
   "matchingmethod": [

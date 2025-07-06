@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡桑德拉买了四打青苹果，用它们做了四个苹果派。她把每个派切成6大块。每块派里有多少个苹果？。",
+  "topic": "回答下面的数学问题：Cassandra bought four dozen Granny Smith apples and used them to make four apple pies.  She cut each pie into 6 large pieces.  How many apples are in each slice of pie?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

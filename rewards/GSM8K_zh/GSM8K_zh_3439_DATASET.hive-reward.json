@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Penn经营了一个冰淇淋摊一个星期。第一天，她赚了10美元。之后的每一天，她比前一天多赚4美元。Penn在5天后赚了多少钱？。",
+  "topic": "回答下面的数学问题：Penn operates an ice cream stall for a week. On the first day, she made $10. Every day after that, she made $4 more than the previous day. How much money did Penn make after 5 days?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

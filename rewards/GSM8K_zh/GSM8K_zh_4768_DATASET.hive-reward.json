@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯特琳在家居用品商店购买了3个锅和4个平底锅。每个锅的价格是20美元。凯特琳的物品总共花费了100美元。如果每个平底锅的价格相同，那么2个平底锅的价格是多少？。",
+  "topic": "回答下面的数学问题：Katerina purchases 3 pots and 4 pans at the home goods store. Each pot costs $20. The total cost of Katerina's items is $100. If each pan is the same price, what is the cost of 2 pans?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

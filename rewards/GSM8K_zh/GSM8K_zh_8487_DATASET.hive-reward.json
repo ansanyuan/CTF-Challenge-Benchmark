@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特找到了一份女服务员的工作。她的工资每小时赚10美元，另外小费每小时赚15美元。她想为一辆10000美元的汽车存下20%的首付。如果她每周工作40小时，她需要工作多少周才能存下首付？。",
+  "topic": "回答下面的数学问题：Janet gets a job as a waitress.  She makes $10 an hour from wages and another $15 an hour from tips.  She wants to save up 20% of the cost of a $10000 car for a downpayment.  If she works 40 hours a week how many weeks will she need to work to save the down payment?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Emma在银行账户中存了230美元。她取出60美元买了一双新鞋。下周，她存入的钱是取出的两倍。现在她的银行账户里有多少钱？。",
+  "topic": "回答下面的数学问题：Emma has saved $230 in her bank account. She withdrew $60 to buy a new pair of shoes. The next week, she deposited twice as much money as she withdrew. How much is in her bank account now?",
   "checkpoint": [
     {
-      "$\\boxed{290}$": 1
+      "\\boxed{290}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯花了10分钟下载一个游戏，安装时间是下载时间的一半，然后花了三倍于下载和安装时间的总时间来完成教程。在他能玩主游戏之前需要多长时间？。",
+  "topic": "回答下面的数学问题：James spends 10 minutes downloading a game, half as long installing it, and triple that combined amount of time going through the tutorial. How long does it take before he can play the main game?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

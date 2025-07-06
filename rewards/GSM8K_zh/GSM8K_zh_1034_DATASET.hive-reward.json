@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯开始跳舞来保持健康。他每小时消耗的卡路里是他散步时的两倍。他每天跳舞两次，每次0.5小时，每周这样做4次。他散步时每小时消耗300卡路里。他每周跳舞消耗多少卡路里？。",
+  "topic": "回答下面的数学问题：James takes up dancing for fitness.  He loses twice as many calories per hour as he did when he was walking.  He dances twice a day for .5 hours each time and he does this 4 times a week.  He burned 300 calories an hour walking.  How many calories does he lose a week from dancing?",
   "checkpoint": [
     {
-      "$\\boxed{2400}$": 1
+      "\\boxed{2400}": 1
     }
   ],
   "matchingmethod": [

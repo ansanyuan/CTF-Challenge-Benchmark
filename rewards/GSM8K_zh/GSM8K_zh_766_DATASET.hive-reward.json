@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布伦达采摘了250个桃子。当她整理它们时，只有60%是新鲜的，布伦达不得不扔掉15个因为太小。布伦达剩下多少个桃子？。",
+  "topic": "回答下面的数学问题：Brenda picks 250 peaches. When she sorts through them, only 60% are fresh, and Brenda has to throw 15 away for being too small. How many peaches does Brenda have left?",
   "checkpoint": [
     {
-      "$\\boxed{135}$": 1
+      "\\boxed{135}": 1
     }
   ],
   "matchingmethod": [

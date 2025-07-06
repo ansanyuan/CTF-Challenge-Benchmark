@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：埃德加一天吃18个椒盐卷饼。如果他的弟弟吃的是一半数量，那么他的弟弟一周吃多少个椒盐卷饼？。",
+  "topic": "回答下面的数学问题：Edgar eats 18 pretzels a day. If his brother eats 1/2 as many, how many does his brother eat in a week?",
   "checkpoint": [
     {
-      "$\\boxed{63}$": 1
+      "\\boxed{63}": 1
     }
   ],
   "matchingmethod": [

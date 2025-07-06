@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：公司有100名员工。60%的员工开车上班。不开车上班的员工中，一半乘坐公共交通工具。有多少名员工乘坐公共交通工具上班？。",
+  "topic": "回答下面的数学问题：A company has 100 employees. 60% of the employees drive to work. Of the employees who don't drive to work, half take public transportation.  How many employees use public transportation to get to work?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

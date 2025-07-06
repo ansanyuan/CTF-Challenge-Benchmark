@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个矮人每天可以徒手挖掘12磅矿石。他用铁镐可以挖掘两倍的矿石，用钢镐比用铁镐多挖掘50%的矿石。40个矮人用钢镐在一个有30天的月份里可以挖掘多少磅矿石？。",
+  "topic": "回答下面的数学问题：One dwarf can mine 12 pounds of ore per day with his bare hands. He can mine twice as much with an iron pickaxe and 50% more with a steel pickaxe than with an iron pickaxe. How many pounds of ore can 40 dwarves with steel pickaxes mine in a month with 30 days?",
   "checkpoint": [
     {
-      "$\\boxed{43200}$": 1
+      "\\boxed{43200}": 1
     }
   ],
   "matchingmethod": [

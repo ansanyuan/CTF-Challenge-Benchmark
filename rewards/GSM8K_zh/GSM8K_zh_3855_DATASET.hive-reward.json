@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莎拉的妹妹衣橱里有4本小笔记本。去年夏天她订购了6本笔记本，然后丢失了2本。莎拉的妹妹现在有多少本笔记本？。",
+  "topic": "回答下面的数学问题：Sara's sister has 4 small notebooks in her closet. Last summer she ordered 6 more notebooks and then lost 2. How many notebooks does Sara's sister have now?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

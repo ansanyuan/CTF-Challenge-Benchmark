@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个菜园生产了237个土豆，比黄瓜少60个，辣椒的数量是黄瓜的两倍。这个菜园一共生产了多少蔬菜？。",
+  "topic": "回答下面的数学问题：A garden produced 237 potatoes, 60 fewer cucumbers and twice as many peppers than the cucumbers. How many vegetables did the garden produce?",
   "checkpoint": [
     {
-      "$\\boxed{768}$": 1
+      "\\boxed{768}": 1
     }
   ],
   "matchingmethod": [

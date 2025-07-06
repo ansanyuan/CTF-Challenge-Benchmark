@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Wynter去当地的自行车店给她妹妹买了一辆自行车作为生日礼物。在店里，Wynter数了50辆自行车和20辆三轮车。她看到的车辆总共有多少个轮子？。",
+  "topic": "回答下面的数学问题：Wynter went to her local town bike shop to buy her sister a bicycle as her birthday gift. While at the shop, Wynter counted 50 bicycles and 20 tricycles. How many wheels in total did the vehicles she saw have?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔正在更换他卧室的地毯。他选择的新地毯每平方英尺12美元，加上每平方英尺2美元的垫底。他的承包商收取每平方英尺4美元的费用来移除旧地毯，以及每平方英尺34美元的费用来安装新地毯。他的卧室尺寸是18英尺乘以12英尺。迈克尔更换地毯需要花费多少钱？。",
+  "topic": "回答下面的数学问题：Michael is replacing the carpet in his bedroom.  The new carpet he's chosen costs $12 per square foot, plus $2 per square foot for padding underneath.  His contractor charges $4 per square foot to remove the old carpet, and $34 per square foot to install the new carpet.  His bedroom measures 18 feet by 12 feet.  How much will it cost Michael to replace the carpet?",
   "checkpoint": [
     {
-      "$\\boxed{11232}$": 1
+      "\\boxed{11232}": 1
     }
   ],
   "matchingmethod": [

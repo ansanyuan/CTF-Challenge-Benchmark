@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉莉安、萨凡纳和克莱顿在海滩上捡贝壳。吉莉安捡了29个，萨凡纳捡了17个，克莱顿捡了8个。他们决定把贝壳给刚到的两个朋友。他们把贝壳放在一起，平均分给每个朋友。每个朋友得到了多少贝壳？。",
+  "topic": "回答下面的数学问题：Jillian, Savannah, and Clayton were collecting shells on the beach. Jillian collected 29, Savannah collected 17, and Clayton collected 8. They decided that they wanted to give the shells to two of their friends who had just arrived. They put their shells together and distributed them evenly to each friend. How many shells did each friend get?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

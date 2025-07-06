@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：索菲、安妮和范恩一共有85本书。如果索菲比安妮多有25本书，而安妮比范恩少有12本书，那么范恩有多少本书？。",
+  "topic": "回答下面的数学问题：Together, Sofie, Anne, and Fawn have 85 books. If Sofie has 25 more books than Anne, and Anne has 12 fewer books than Fawn does, how many books does Fawn have?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

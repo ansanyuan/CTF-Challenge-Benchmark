@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉姆收集模型汽车，他总共有301辆模型。吉姆拥有的别克汽车是福特汽车的4倍，比雪佛兰汽车的数量多3辆。吉姆有多少辆别克汽车？。",
+  "topic": "回答下面的数学问题：Jim collects model cars, and he has 301 models total.  Jim has 4 times as many Buicks as Fords, and 3 more than twice the number of Fords than Chevys.  How many Buicks does Jim have?",
   "checkpoint": [
     {
-      "$\\boxed{220}$": 1
+      "\\boxed{220}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：达内尔有1000平方英尺的织物，他用来制作迷你旗帜。他制作了边长为4英尺的正方形旗帜，宽为5英尺，高为3英尺的长方形旗帜，以及高为5英尺，宽为3英尺的长方形旗帜。他已经制作了16个正方形旗帜，20个宽旗帜和10个高旗帜。他还剩下多少平方英尺的织物？。",
+  "topic": "回答下面的数学问题：Darnell has 1000 square feet of fabric that he's using to make mini flags. He makes square flags that are 4 feet by 4 feet, wide rectangular flags that are 5 feet by 3 feet, and tall rectangular flags that are 3 feet by 5 feet. He has already made 16 square flags, 20 wide flags, and 10 tall flags. How many square feet of fabric does he have left?",
   "checkpoint": [
     {
-      "$\\boxed{294}$": 1
+      "\\boxed{294}": 1
     }
   ],
   "matchingmethod": [

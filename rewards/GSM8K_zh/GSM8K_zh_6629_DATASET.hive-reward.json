@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：特蕾西在艺术展上设立了一个摊位。有20个人来看她的艺术品。其中有4位顾客每人购买了两幅画。接下来的12位顾客每人购买了一幅画。最后的4位顾客每人购买了四幅画。特蕾西在艺术展上共卖出了多少幅画？。",
+  "topic": "回答下面的数学问题：Tracy set up a booth at an art fair. 20 people came to look at her art. Four of those customers bought two paintings each. The next 12 of those customers bought one painting each. The last 4 customers bought four paintings each.  How many paintings did Tracy sell at the art fair?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

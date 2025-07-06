@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：爷爷在度假前数了36个小番茄。当他从度假回来时，他数了100倍多的番茄。他的缺席期间长了多少个番茄？。",
+  "topic": "回答下面的数学问题：In his garden, Grandpa had counted 36 small tomatoes before going on vacation. When he came back from vacation, he counted 100 times more tomatoes. How many tomatoes grew in his absence?",
   "checkpoint": [
     {
-      "$\\boxed{3564}$": 1
+      "\\boxed{3564}": 1
     }
   ],
   "matchingmethod": [

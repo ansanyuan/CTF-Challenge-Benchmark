@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：市政厅举行了一次大型聚会，有200人参加。100人决定吃点心，然后有20个新的外来者加入进来吃点心。这些吃点心的人中有一半吃饱了离开。又有10个新的外来者来吃点心。另外30个吃点心的人吃饱了离开。然后剩下的吃点心的人中有一半后来也离开了。还剩下多少吃点心的人？。",
+  "topic": "回答下面的数学问题：A large gathering occurred at the town hall with 200 people participating. 100 people decided to have a snack, and then 20 new outsiders joined in to have a snack. Half of these snack eaters got full and left. 10 new outsiders came to have snacks, too. 30 more snack eaters got their fill and left. Then half of the remaining snack eaters left later on. How many snack eaters are left?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

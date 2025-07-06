@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：上个星期天，洛根去了教堂，发现在场的孩子人数是80。如果有60名男成年人，而教堂里的总人数是200，那么有多少名女成年人在场？。",
+  "topic": "回答下面的数学问题：Last Sunday, Logan went to church and realized that the number of children present was 80. If there were 60 male adults, and the total number of people in the church was 200, how many female adults were present?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

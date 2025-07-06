@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Calvin注册了一个健身训练服务来减肥。如果他开始时体重为250磅，并且在训练课程期间每个月减少8磅，一年后他的体重是多少？。",
+  "topic": "回答下面的数学问题：Calvin signed up for a gym training service to lose some pounds. If he weighed 250 pounds to start with and lost 8 pounds every month during the training sessions, what's his weight after one year?",
   "checkpoint": [
     {
-      "$\\boxed{154}$": 1
+      "\\boxed{154}": 1
     }
   ],
   "matchingmethod": [

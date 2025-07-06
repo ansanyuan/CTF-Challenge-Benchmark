@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍勃因为低收入而获得了租金补助。如果他的时薪提高了0.50美元，并且每周工作40小时，如果他的住房补助减少了60美元/月，他实际每周会多赚多少钱？。",
+  "topic": "回答下面的数学问题：Bob gets rent assistance because he's low-income. If he gets a raise of $0.50/hour and works 40 hours a week, how much more will he actually earn a week if his housing benefit is reduced by $60/month?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

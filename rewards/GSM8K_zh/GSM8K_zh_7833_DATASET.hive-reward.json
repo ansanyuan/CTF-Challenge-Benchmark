@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比利用他父亲给他的10美元买糖果。糖果每磅1.5美元。买了糖果后，他拿剩下的零钱的一半去买泡泡糖，每个泡泡糖0.05美元。如果他买了40个泡泡糖，他买了多少磅的糖果？。",
+  "topic": "回答下面的数学问题：Billy is buying some candy with $10 his father gave him. The candy costs $1.5 a pound. After buying candy, he takes half his change and spends it on gumballs, which cost $.05 each. If he bought 40 gumballs, how many pounds of candy did he buy?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

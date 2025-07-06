@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一张路线图上，1/4英寸代表实际道路距离的8英里。彭斯镇和希尔克里斯特镇在地图上相距3 3/8英寸。这两个镇之间的实际距离是多少英里？。",
+  "topic": "回答下面的数学问题：On a road map, 1/4 inch represents 8 miles of actual road distance. The towns of Pence and Hillcrest are represented by points 3 3/8 inches apart on the map. What is the actual distance, in miles, between the towns?",
   "checkpoint": [
     {
-      "$\\boxed{108}$": 1
+      "\\boxed{108}": 1
     }
   ],
   "matchingmethod": [

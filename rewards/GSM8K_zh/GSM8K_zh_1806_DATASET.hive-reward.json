@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉赛尔在一个鸟舍里有20只母鸽。一个月后，这些鸽子每只产下3个蛋。如果3/4的蛋孵化了，计算吉赛尔现在总共有多少只鸽子。。",
+  "topic": "回答下面的数学问题：Giselle had 20 female doves in a birdhouse. After a month, the doves laid 3 eggs each. If 3/4 of the eggs hatched, calculate the total number of doves Giselle has now.",
   "checkpoint": [
     {
-      "$\\boxed{65}$": 1
+      "\\boxed{65}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰和安娜买了一些电子书阅读器。约翰比安娜少买了15台电子书阅读器。不幸的是，约翰丢失了3台电子书阅读器。如果安娜买了50台电子书阅读器，他们总共有多少台电子书阅读器？。",
+  "topic": "回答下面的数学问题：John and Anna bought some eBook readers. John bought 15 eBook readers less than Anna did. Unfortunately, John lost 3 eBook readers. If Anna bought 50 eBook readers, how many eBook readers do they have altogether?",
   "checkpoint": [
     {
-      "$\\boxed{82}$": 1
+      "\\boxed{82}": 1
     }
   ],
   "matchingmethod": [

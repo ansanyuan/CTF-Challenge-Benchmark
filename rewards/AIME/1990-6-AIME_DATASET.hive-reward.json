@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：A biologist wants to calculate the number of fish in a lake. On May 1 she catches a random sample of 60 fish, tags them, and releases them. On September 1 she catches a random sample of 70 fish and finds that 3 of them are tagged. To calculate the number of fish in the lake on May 1, she assumes that 25% of these fish are no longer in the lake on September 1 (because of death and emigrations), that 40% of the fish were not in the lake May 1 (because of births and immigrations), and that the number of untagged fish and tagged fish in the September 1 sample are representative of the total population. What does the biologist calculate for the number of fish in the lake on May 1?",
   "checkpoint": [
     {
-      "$\\boxed{840}$": 1
+      "\\boxed{840}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：菲尔有10本书，每本书都有100页。他搬到了新家，在搬家过程中，有2本书丢失了。菲尔还剩下多少页的书？。",
+  "topic": "回答下面的数学问题：Phil has 10 books that are all 100 pages each.  He moves to a new home and during the move, 2 books are lost.  How many pages worth of books does Phil have left?",
   "checkpoint": [
     {
-      "$\\boxed{800}$": 1
+      "\\boxed{800}": 1
     }
   ],
   "matchingmethod": [

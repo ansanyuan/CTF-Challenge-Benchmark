@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Fern正在检查身份证以进入一部R级电影。她拒绝了来自Riverside High的120个孩子中的20%，来自West Side High的90个孩子中的70%，以及来自Mountaintop High的50个孩子中的一半。有多少孩子进入了电影院？。",
+  "topic": "回答下面的数学问题：Fern is checking IDs to get into an R-rated movie. She denied 20% of the 120 kids from Riverside High, 70% of the 90 kids from West Side High, and half the 50 kids from Mountaintop High. How many kids got into the movie?",
   "checkpoint": [
     {
-      "$\\boxed{148}$": 1
+      "\\boxed{148}": 1
     }
   ],
   "matchingmethod": [

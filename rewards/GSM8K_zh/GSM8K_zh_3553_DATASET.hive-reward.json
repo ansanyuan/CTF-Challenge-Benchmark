@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一张黑胶唱片上有60个凹槽。杰瑞有4个盒子，每个盒子有3个能容纳20张唱片的架子。如果他的架子有60%的空间被填满，他所有的唱片上有多少个凹槽？。",
+  "topic": "回答下面的数学问题：There are 60 ridges on a vinyl record. Jerry has 4 cases, each with 3 shelves that can hold 20 records each. If his shelves are 60% full, how many ridges are there on all his records?",
   "checkpoint": [
     {
-      "$\\boxed{8640}$": 1
+      "\\boxed{8640}": 1
     }
   ],
   "matchingmethod": [

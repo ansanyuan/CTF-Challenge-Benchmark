@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：20只鸟类在季节性基础上从一个湖飞往另一个湖寻找食物。如果它们在一个季节从吉姆湖飞往迪斯尼湖，这两个湖相距50英里，然后下一个季节它们从迪斯尼湖飞往伦敦湖，相距60英里，请计算这些鸟在这两个季节中共飞行的距离。。",
+  "topic": "回答下面的数学问题：20 birds migrate on a seasonal basis from one lake to another, searching for food. If they fly from lake Jim to lake Disney in one season, which is 50 miles apart, then the next season they fly from lake Disney to lake London, 60 miles apart, calculate the combined distance all of the birds have traveled in the two seasons.",
   "checkpoint": [
     {
-      "$\\boxed{2200}$": 1
+      "\\boxed{2200}": 1
     }
   ],
   "matchingmethod": [

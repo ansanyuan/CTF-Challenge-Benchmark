@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果一个圆的半径是14英尺，那么直径上可以摆放多少支长度为6英寸的铅笔？。",
+  "topic": "回答下面的数学问题：If a circle has a radius of 14 feet, how many 6-inch pencils can be placed end-to-end across the diameter of the circle?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

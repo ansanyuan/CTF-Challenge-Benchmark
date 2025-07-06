@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤米比达伦多抓了3条鱼，而达伦比娜奥米少抓了6条。如果娜奥米抓了17条鱼，汤米抓了多少条鱼？。",
+  "topic": "回答下面的数学问题：Tommy caught 3 more fish than Darren and Darren caught 6 less than Naomi. If Naomi caught 17 fish, how many fish did Tommy catch?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

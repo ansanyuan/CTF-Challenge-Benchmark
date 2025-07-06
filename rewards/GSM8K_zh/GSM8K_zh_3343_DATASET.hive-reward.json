@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：达利亚消耗的披萨数量是唐的2.5倍。如果唐吃了80个披萨，他们两个总共吃了多少个披萨？。",
+  "topic": "回答下面的数学问题：Daria consumes 2.5 times the amount of pizza that Don does. If Don eats 80 pizzas, how many pizzas do they both eat altogether?",
   "checkpoint": [
     {
-      "$\\boxed{280}$": 1
+      "\\boxed{280}": 1
     }
   ],
   "matchingmethod": [

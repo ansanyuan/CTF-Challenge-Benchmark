@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈利博士想知道苏珊在一周内吃了多少块糖果。苏珊告诉他她周二买了3块，周四买了5块，周五买了2块。如果她现在只剩下4块，她吃了多少块？。",
+  "topic": "回答下面的数学问题：Dr. Harry wants to know how many candies Susan consumed during the week. Susan tells him she bought 3 on Tuesday, 5 on Thursday, 2 on Friday. If she has only 4 of them left, how many did she eat?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

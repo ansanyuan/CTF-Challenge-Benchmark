@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每天早晨，哈里买咖啡和百吉饼需要15分钟，然后阅读报纸和吃早餐需要这段时间的两倍。哈里的早晨例行公事需要多长时间？。",
+  "topic": "回答下面的数学问题：Every morning Harry takes 15 minutes to buy coffee and a bagel and twice that long to read the paper and eat before going in to work. How long does Harry's morning routine take?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

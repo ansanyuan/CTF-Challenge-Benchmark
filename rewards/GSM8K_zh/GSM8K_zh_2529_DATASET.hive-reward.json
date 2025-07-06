@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个长方形的长度为3英寸，宽度为6英寸。一个正方形的宽度为5英寸。这两种形状之间的面积差是多少？。",
+  "topic": "回答下面的数学问题：A rectangle has a length of 3 inches and a width of 6 inches. A square has a width of 5 inches. What is the difference in area between the two shapes?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

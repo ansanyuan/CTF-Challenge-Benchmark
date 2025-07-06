@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Morisette和Kael被要求带水果。Morisette带了5个苹果和8个橙子，而Kael带的苹果是Morisette的两倍，橙子是Morisette的一半。他们总共有多少水果？。",
+  "topic": "回答下面的数学问题：Morisette and Kael were asked to bring fruits. Morisette brought 5 apples and 8 oranges, while Kael brought twice the amount of apples and half the number of oranges than Morisette. How many fruits do they have in total?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

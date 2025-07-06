@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hazel和Razel是一对分享一切的双胞胎。如果Hazel收到了6件衬衫，而Razel收到的衬衫数量是Hazel的两倍。他们总共有多少件衬衫？。",
+  "topic": "回答下面的数学问题：Hazel and Razel are twins who share everything they receive. If Hazel received 6 shirts, while Razel received twice the number of shirts as Hazel. How many shirts do they have in total?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

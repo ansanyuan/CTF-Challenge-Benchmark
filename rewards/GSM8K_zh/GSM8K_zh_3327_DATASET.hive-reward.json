@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：地球上有史以来最大的动物是蓝鲸。一只成年蓝鲸的舌头重6000磅。如果一吨等于2000磅，一只成年蓝鲸的舌头可以重多少吨？。",
+  "topic": "回答下面的数学问题：The largest animal to have ever lived on earth is the blue whale.  The tongue of an adult blue whale can weigh 6000 pounds.  If one ton is 2000 pounds, how many tons can the tongue of an adult blue whale weigh?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布雷特现在14岁。四年后，他的妹妹安吉拉将是他现在年龄的三倍。安吉拉现在多大了？。",
+  "topic": "回答下面的数学问题：Brett is 14 years old. In four years his sister Angela will be three times as old as he is now. How old is Angela right now?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

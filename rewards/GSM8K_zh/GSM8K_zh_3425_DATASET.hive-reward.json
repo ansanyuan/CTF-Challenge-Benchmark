@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Larry午餐花了5美元，并给了他的兄弟2美元。如果他现在有15美元，那么Larry一开始有多少钱？。",
+  "topic": "回答下面的数学问题：Larry spent $5 for lunch and gave his brother $2. How much did Larry have at the beginning if he has $15 now?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

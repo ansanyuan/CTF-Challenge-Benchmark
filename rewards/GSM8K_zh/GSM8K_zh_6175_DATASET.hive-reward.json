@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gigi正在烘烤饼干。1批饼干的配方需要2杯面粉。她烤了3批饼干。如果她的面粉袋里有20杯面粉，她以后还能用剩下的面粉烤多少批饼干？。",
+  "topic": "回答下面的数学问题：Gigi is baking cookies. The recipe for 1 batch of cookies calls for 2 cups of flour. She bakes 3 batches of cookies. If her bag of flour contains 20 cups of flour, how many more batches of cookies could Gigi make in the future with the remaining amount of flour?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：June的班上有25名学生。60%是女生，其余是男生。40%的男生喜欢打篮球，其余的不喜欢。喜欢打篮球的女生人数是不喜欢打篮球的男生人数的两倍。班上女生中喜欢打篮球的百分比是多少？。",
+  "topic": "回答下面的数学问题：June’s class has 25 students. 60% are girls and the rest are boys. 40% of the boys like playing basketball and the rest don't. The number of girls who like playing basketball is double the number of boys who don't like to. What percentage of the girls in the class like playing basketball?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

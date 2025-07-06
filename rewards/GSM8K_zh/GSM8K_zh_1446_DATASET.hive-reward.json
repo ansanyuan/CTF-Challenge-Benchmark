@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮想在接下来的10天内读3本书。她每小时可以读100个单词。如果第一本书有200个单词，第二本书有400个单词，第三本书有300个单词，她每天平均应该花多少分钟阅读？。",
+  "topic": "回答下面的数学问题：Jenny wants to read 3 books in the next 10 days. She can read 100 words per hour. If the first book has 200 words, the second book has 400 words, and the third book has 300 words, how many minutes per day, on average, should she spend reading?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在糕点店，一个单层蛋糕片售价为4美元，一个双层蛋糕片售价为7美元。达斯蒂买了7个单层蛋糕片和5个双层蛋糕片。如果他用100美元的钞票付款，他会收到多少找零？。",
+  "topic": "回答下面的数学问题：At the patisserie, a single layer cake slice is $4 and a double layer cake slice is $7.  Dusty buys 7 single layer cake slices and 5 double layer cake slices.  If he pays with a $100 bill, how much change does he receive?",
   "checkpoint": [
     {
-      "$\\boxed{37}$": 1
+      "\\boxed{37}": 1
     }
   ],
   "matchingmethod": [

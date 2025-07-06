@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个学校礼堂里有1000名学生。礼堂有三个入口A、B和C，这些入口也是出口。如果一次会议后，30%的学生从A出口离开了建筑物，剩下的3/5从B出口离开，其余的从C出口离开，请计算有多少学生从C出口离开。。",
+  "topic": "回答下面的数学问题：The number of students in a school hall was 1000. The hall had 3 entrances A, B, and C which also served as the exits. If after a meeting 30% of the students went out of the building through exit A, 3/5 of the remaining went out through exit B, and the rest went out through exit C, calculate the number of students who went out through exit C.",
   "checkpoint": [
     {
-      "$\\boxed{280}$": 1
+      "\\boxed{280}": 1
     }
   ],
   "matchingmethod": [

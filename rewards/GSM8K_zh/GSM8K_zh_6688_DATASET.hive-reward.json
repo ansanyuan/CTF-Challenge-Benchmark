@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰去商店买东西，用一张20美元的钞票付款。他买了3瓶苏打水，找回14美元。每瓶苏打水多少钱？。",
+  "topic": "回答下面的数学问题：John goes to the store and pays with a 20 dollar bill.  He buys 3 sodas and gets $14 in change.  How much did each soda cost?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

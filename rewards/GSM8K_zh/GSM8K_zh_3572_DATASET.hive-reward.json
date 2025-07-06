@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Vins骑自行车去学校6英里。他沿着另一条长7英里的路回家。本周，Vins骑车去学校和回家5次。Vins本周骑了多少英里？。",
+  "topic": "回答下面的数学问题：Vins rides his bike 6 miles to school. He rides home a different route that is 7 miles long. This week, Vins rode to school and back 5 times. How many miles did Vins ride his bike this week?",
   "checkpoint": [
     {
-      "$\\boxed{65}$": 1
+      "\\boxed{65}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Barbara想存钱买一块价值100美元的新手表。她的父母每周给她5美元的零花钱，她可以选择全部存起来买手表，也可以随心所欲地花。10周过去了，由于在冰淇淋上花了一些钱，Barbara目前只剩下20美元。如果她现在停止在其他东西上的花费，她还需要多少周才能存够买手表的钱？。",
+  "topic": "回答下面的数学问题：Barbara wants to save up for a new wristwatch that costs $100. Her parents give her an allowance of $5 a week and she can either save it all up for the watch or spend it as she wishes. 10 weeks pass and due to spending some of her money on ice cream, Barbara currently only has $20. How many more weeks does she need to save for a watch if she stops spending on other things right now?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kendra和Laurel有售卖不同品牌鞋子系列的商店。2014年，Kendra的销售额比Laurel少8000美元。然而，2015年，Kendra的销售额比Laurel在2014年多20%。如果Laurel在2014年赚了30000美元，计算Kendra在这两年的总收入。。",
+  "topic": "回答下面的数学问题：Kendra and Laurel have shops that sell different brands of shoe collections. In 2014, Kendra made $8000 less than Laurel made in sales. However, in 2015, Kendra made 20% more money than Laurel made in 2014. If Laurel earned $30000 in 2014, calculate Kendra's total earnings in the two years.",
   "checkpoint": [
     {
-      "$\\boxed{58000}$": 1
+      "\\boxed{58000}": 1
     }
   ],
   "matchingmethod": [

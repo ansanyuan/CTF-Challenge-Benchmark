@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：理查德和赫利之间的年龄差为20岁。如果赫利今年14岁，他们两个40年后的总年龄是多少？。",
+  "topic": "回答下面的数学问题：The difference in ages between Richard and Hurley is 20. If Hurley is 14 years old, what are their combined ages 40 years from now?",
   "checkpoint": [
     {
-      "$\\boxed{128}$": 1
+      "\\boxed{128}": 1
     }
   ],
   "matchingmethod": [

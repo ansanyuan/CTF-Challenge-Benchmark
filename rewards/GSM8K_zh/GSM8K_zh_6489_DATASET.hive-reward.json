@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个慈善组织的目标是向最近被洪水摧毁的社区分发400箱食物。每个箱子包含价值80美元的食物和价值165美元的额外用品，如洗漱用品和新鲜床单。然后，一位匿名捐赠者给了该组织他们已经花费的四倍金额，使他们能够打包更多的箱子。他们总共打包了多少箱子？。",
+  "topic": "回答下面的数学问题：A charity organization's goal is to distribute 400 boxes of food to a community that was recently destroyed by a flood. Each box contains $80 worth of food and $165 worth of additional supplies such as toiletries and fresh linens. Then, an anonymous donor gives the organization 4 times the amount of money they had already spent, allowing them to pack many more boxes. How many boxes do they pack in total?",
   "checkpoint": [
     {
-      "$\\boxed{2000}$": 1
+      "\\boxed{2000}": 1
     }
   ],
   "matchingmethod": [

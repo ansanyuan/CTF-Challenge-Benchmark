@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：复活节彩蛋寻找队隐藏了100个蛋。史密斯双胞胎每人找到了30个蛋。除了10个蛋之外，其余的蛋都被他们的朋友找到了。朋友们找到了多少个蛋？。",
+  "topic": "回答下面的数学问题：The Easter egg hunt team hid 100 eggs. The Smith twins each found 30 eggs. All the other eggs except 10 were found by their friends. How many eggs did the friends find?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

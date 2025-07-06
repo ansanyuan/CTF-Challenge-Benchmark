@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：代托纳海滩一年有26次鲨鱼目击事件。代托纳海滩的鲨鱼目击事件数量是开普梅的数量的三倍再加5。开普梅有多少次鲨鱼目击事件？。",
+  "topic": "回答下面的数学问题：Daytona Beach has 26 shark sightings a year. Daytona Beach has 5 more than triple the number of shark sightings as Cape May. How many shark sightings are there in Cape May?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

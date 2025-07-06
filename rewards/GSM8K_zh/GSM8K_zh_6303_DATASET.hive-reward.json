@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：保琳有125辆火柴盒车。它们要么是敞篷车，要么是卡车，要么是普通轿车。其中64%是普通轿车，8%是卡车。她拥有多少辆敞篷车？。",
+  "topic": "回答下面的数学问题：Pauline has 125 matchbox cars. They are all either convertibles, trucks, regular cars. 64% of them are regular cars. 8% are trucks. How many convertibles does she own?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

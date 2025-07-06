@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：世界上还剩下27只独角兽。其中三分之一在苏格兰高地。苏格兰独角兽中有三分之二是雌性的。有多少只雌性苏格兰独角兽？。",
+  "topic": "回答下面的数学问题：There are 27 unicorns left in the world.  One third of them are in the Scottish Highlands.  Two thirds of the Scottish unicorns are female.  How many female Scottish unicorns are there?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

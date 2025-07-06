@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：简正在给她的飞人表演服装缝珠片。她缝了6排，每排8颗蓝色的珠片，5排，每排12颗紫色的珠片，以及9排，每排6颗绿色的珠片。她一共添加了多少颗珠片？。",
+  "topic": "回答下面的数学问题：Jane is sewing sequins onto her trapeze artist costume. She sews 6 rows of 8 blue sequins each, 5 rows of 12 purple sequins each, and 9 rows of 6 green sequins each. How many sequins does she add total?",
   "checkpoint": [
     {
-      "$\\boxed{162}$": 1
+      "\\boxed{162}": 1
     }
   ],
   "matchingmethod": [

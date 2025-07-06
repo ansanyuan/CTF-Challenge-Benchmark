@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅森比悉尼小三倍，而悉尼比梅森的父亲小六岁。如果梅森20岁，他的父亲多大？。",
+  "topic": "回答下面的数学问题：Mason is three times younger than Sydney and Sydney is six years younger than Mason's father. If Mason is 20 years old, how old is his father?",
   "checkpoint": [
     {
-      "$\\boxed{66}$": 1
+      "\\boxed{66}": 1
     }
   ],
   "matchingmethod": [

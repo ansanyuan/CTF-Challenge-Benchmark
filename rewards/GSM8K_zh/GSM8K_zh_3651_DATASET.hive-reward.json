@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Martin去商店买了一台新电视机。他决定不超过1000美元，售货员给了他100美元的折扣，另外还有额外的20%折扣。电视机的价格比Martin决定花费的金额低多少？。",
+  "topic": "回答下面的数学问题：Martin went to a store to buy a new television set. He decided to spend no more than $1,000 and the sales clerk offered him the TV for $100 less and an additional 20% off. How much lower was the price of the television than the amount Martin decided to spend?",
   "checkpoint": [
     {
-      "$\\boxed{280}$": 1
+      "\\boxed{280}": 1
     }
   ],
   "matchingmethod": [

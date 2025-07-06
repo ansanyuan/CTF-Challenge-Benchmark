@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗里订了两个价值7.50美元的三明治，两包每包1.50美元的薯片和两个每个1.00美元的饼干送货。结账时会增加20%的送货费，并且她想额外给5.00美元的小费。她的送货订单总共要花多少钱？。",
+  "topic": "回答下面的数学问题：Rory orders 2 subs for $7.50 each, 2 bags of chips for $1.50 each and 2 cookies for $1.00 each for delivery.  There’s a 20% delivery fee added at check out and she wants to add a $5.00 tip.  What will her delivery order cost?",
   "checkpoint": [
     {
-      "$\\boxed{29}$": 1
+      "\\boxed{29}": 1
     }
   ],
   "matchingmethod": [

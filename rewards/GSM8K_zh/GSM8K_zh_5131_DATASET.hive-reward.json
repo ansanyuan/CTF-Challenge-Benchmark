@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：保罗有五只狗。每10磅体重需要1磅狗粮。其中一只狗重20磅，一只重40磅，另一只重10磅，一只重30磅，最后一只重50磅。他每天需要多少狗粮？。",
+  "topic": "回答下面的数学问题：Paul has five dogs. For every 10 pounds they weigh, they need 1 pound of dog food per day. One weighs 20 pounds. One weighs 40. Another weighs 10. One weighs 30 and the final one weighs 50 pounds. How much dog food does he need each day?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

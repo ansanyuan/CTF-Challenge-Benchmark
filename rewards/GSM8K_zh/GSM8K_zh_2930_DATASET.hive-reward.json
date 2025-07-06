@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：赫敏，卢娜和塞莉斯蒂亚一共有83个拼写徽章。如果赫敏有14个，卢娜有17个，塞莉斯蒂亚有多少个拼写徽章？。",
+  "topic": "回答下面的数学问题：Hermione, Luna, and Celestia combined have 83 spelling badges. If Hermione has 14 and Luna has 17, how many spelling badges does Celestia have?",
   "checkpoint": [
     {
-      "$\\boxed{52}$": 1
+      "\\boxed{52}": 1
     }
   ],
   "matchingmethod": [

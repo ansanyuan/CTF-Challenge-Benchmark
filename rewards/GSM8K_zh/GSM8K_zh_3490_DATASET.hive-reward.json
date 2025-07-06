@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：恩里克有2132份合同需要销毁。他的碎纸机一次只能销毁6页纸。他需要销毁6页纸多少次才能销毁所有合同？。",
+  "topic": "回答下面的数学问题：Enrique has 2 132 contracts that he needs to shred.  His paper shredder will only allow him to shred 6 pages at a time.  How many times will he shred 6 units of paper until all of the contracts are shredded?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

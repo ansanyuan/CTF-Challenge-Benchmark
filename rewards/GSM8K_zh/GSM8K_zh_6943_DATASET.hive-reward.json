@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克养袋鼠和山羊。袋鼠有两条腿，山羊有四条腿。如果他有23只袋鼠和比袋鼠多三倍的山羊，那么他所有动物的腿的总数是多少？。",
+  "topic": "回答下面的数学问题：Mark has kangaroos and goats.  Kangaroos have two legs and goats have four legs.  If he has 23 kangaroos and three times as many goats as kangaroos what is the total number of legs of all his animals?",
   "checkpoint": [
     {
-      "$\\boxed{322}$": 1
+      "\\boxed{322}": 1
     }
   ],
   "matchingmethod": [

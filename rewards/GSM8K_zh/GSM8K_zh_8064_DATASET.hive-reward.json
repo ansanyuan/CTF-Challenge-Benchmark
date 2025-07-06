@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚历克斯正准备参加她主办的一个活动，并希望确保为每个人准备了足够的座位。她通过电子邮件邀请了100人，每个被邀请的人说他们还会邀请他们的2个朋友。然后她打电话给她的10个朋友也邀请他们，其中8个人说他们会带上他们的配偶。亚历克斯需要准备多少个座位？。",
+  "topic": "回答下面的数学问题：Alex is getting ready to attend an event that she has hosted and wants to make sure that she has enough seats for everyone. She invites 100 people via email and each invited person says that they will also invite 2 of their friends. She then calls 10 of her friends to invite them too and 8 of them say they will be bringing their spouses. How many seats will Alex need?",
   "checkpoint": [
     {
-      "$\\boxed{319}$": 1
+      "\\boxed{319}": 1
     }
   ],
   "matchingmethod": [

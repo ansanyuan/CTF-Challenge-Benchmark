@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Natalie为她正在组织的派对购买了一些食物。她买了两个乳酪蛋糕，一个苹果派和一个六个装的松饼。六个装的松饼比乳酪蛋糕贵两倍，而一个乳酪蛋糕只比苹果派便宜25%。如果苹果派的价格是12美元，Natalie一共为她的购物支付了多少钱？。",
+  "topic": "回答下面的数学问题：Natalie bought some food for a party she is organizing. She bought two cheesecakes, an apple pie, and a six-pack of muffins. The six-pack of muffins was two times more expensive than the cheesecake, and one cheesecake was only 25% cheaper than the apple pie. If the apple pie cost $12, how much did Natalie pay for all her shopping?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

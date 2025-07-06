@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有一个由18个人组成的团体要订披萨。如果每个人吃3片，每个披萨有9片，他们应该订购多少个披萨？。",
+  "topic": "回答下面的数学问题：There is a group of 18 people who are ordering pizza. If each person gets 3 slices and each pizza has 9 slices, how many pizzas should they order?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

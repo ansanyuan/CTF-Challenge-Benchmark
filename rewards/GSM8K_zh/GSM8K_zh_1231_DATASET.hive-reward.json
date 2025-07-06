@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Casey想要装饰她的脚趾甲和手指甲。首先，她想在每个指甲上涂一层底漆，然后涂一层油漆，最后在每个指甲上涂一层闪粉。每层涂抹需要20分钟，每层干燥需要20分钟，然后才能涂下一层。假设当所有层都被涂抹和干燥后，Casey的指甲就完成了，她需要多少分钟来完成装饰她的手指甲和脚趾甲？。",
+  "topic": "回答下面的数学问题：Casey wants to decorate  her toenails and fingernails. First, she wants to do a base coat on each nail, then a coat of paint and finally a coat of glitter on every nail. It takes 20 minutes to apply each coat and 20 minutes for each coat to dry before applying the next one. Assuming Casey's nails will be done when all coats have been applied and dried,  how many minutes will it take her to finish decorating her fingernails and toenails?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

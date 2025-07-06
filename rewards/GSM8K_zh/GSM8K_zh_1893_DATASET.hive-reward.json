@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tamika以平均时速45英里的速度驾驶了8小时。Logan以时速55英里的速度驾驶了5小时。Tamika驾驶了多少英里更远？。",
+  "topic": "回答下面的数学问题：Tamika drove for 8 hours at an average speed of 45 miles per hour. Logan drove for 5 hours at 55 miles an hour. How many miles farther did Tamika drive?",
   "checkpoint": [
     {
-      "$\\boxed{85}$": 1
+      "\\boxed{85}": 1
     }
   ],
   "matchingmethod": [

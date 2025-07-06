@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个护士站批量订购了50包绷带。第一天，护士们使用了38个绷带，并订购了一包批量绷带。第二天，他们使用的绷带少了十个。第三天，他们订购了两包批量绷带，只使用了半包。第三天结束时，他们还剩下78个绷带。他们第一天开始时有多少绷带？。",
+  "topic": "回答下面的数学问题：A nurses’ station orders bandages in bulk packs of 50. On the first day, the nurses used 38 bandages and ordered one bulk pack of bandages. On the second day, they used ten fewer bandages. On the third day, they ordered two bulk packs of bandages and only used half a pack. They had 78 bandages left at the end of the third day. How many bandages did they start with on the first day?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

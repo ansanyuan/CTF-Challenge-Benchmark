@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝蒂在她的菜园里种胡萝卜。当胡萝卜长大后，它们被收割并捆绑成每个箱子最多可以装20个胡萝卜。每次收获，四分之三的箱子都是满的，剩下的箱子是半满的。她每次平均收获20个箱子。贝蒂每次平均收获多少个胡萝卜？。",
+  "topic": "回答下面的数学问题：Betty is growing parsnips in her vegetable garden. When the parsnips are grown, they are harvested and bundled into boxes that can hold up to 20 parsnips each. Each harvest, three-quarters of the boxes are full, and the remaining boxes are half-full. She gets an average of 20 boxes each harvest. How many parsnips does Betty grow in an average harvest?",
   "checkpoint": [
     {
-      "$\\boxed{350}$": 1
+      "\\boxed{350}": 1
     }
   ],
   "matchingmethod": [

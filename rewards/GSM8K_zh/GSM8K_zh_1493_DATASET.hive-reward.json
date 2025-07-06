@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾莉有8双鞋。莱利少3双。他们总共有多少双鞋？。",
+  "topic": "回答下面的数学问题：Ellie has 8 pairs of shoes. Riley has 3 fewer. How many pairs of shoes do they have in all?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

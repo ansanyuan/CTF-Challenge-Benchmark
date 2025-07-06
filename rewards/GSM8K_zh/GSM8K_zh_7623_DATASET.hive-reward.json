@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：查理的Facebook朋友是多萝西的三倍。詹姆斯在Facebook上的朋友是多萝西的四倍。如果查理在Facebook上有12个朋友，那么詹姆斯有多少个Facebook朋友？。",
+  "topic": "回答下面的数学问题：Charlie has three times as many Facebook friends as Dorothy. James has four times as many friends on Facebook as Dorothy. If Charlie has 12 friends on Facebook, how many Facebook friends does James have?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

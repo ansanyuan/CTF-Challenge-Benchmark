@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Digimon迎来了它的20周年纪念。当它刚出来的时候，约翰的年龄是吉姆的两倍。如果现在约翰28岁，那么吉姆多大了？。",
+  "topic": "回答下面的数学问题：Digimon had its 20th anniversary.  When it came out John was twice as old as Jim.  If John is 28 now how old is Jim?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

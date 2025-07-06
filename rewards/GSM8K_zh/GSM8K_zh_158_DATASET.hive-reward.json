@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个小女孩把23颗蓝色珠子和16颗黄色珠子倒入一个碗里。她把总数分成3等份，从每份中取出一些珠子，然后把剩下的珠子翻倍，现在每份有6颗珠子。每份中分别取出了多少颗珠子？。",
+  "topic": "回答下面的数学问题：A young girl pours 23 blue beads and 16 yellow beads into a bowl. She divides the total into 3 equal parts, removes some beads from each part, and doubles the rest to have 6 beads in each part now. How many beads were removed from each part?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

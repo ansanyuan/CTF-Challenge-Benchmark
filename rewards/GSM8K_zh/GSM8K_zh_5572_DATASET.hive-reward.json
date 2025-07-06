@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅森、诺亚和雅各布想要进行一场吃比赛，但无法就要吃的食物达成一致。梅森想要吃热狗，诺亚坚持要吃汉堡，雅各布认为他们应该吃馅饼。最终他们达成一致，每个人可以吃他们想要的食物，并且他们将使用食物的重量来决定谁是赢家。一个热狗重2盎司，一个汉堡重5盎司，一个馅饼重10盎司。雅各布吃的馅饼比诺亚吃的汉堡少3个。梅森吃的热狗数量是雅各布吃的馅饼数量的3倍。如果诺亚吃了8个汉堡，梅森吃的热狗的总重量是多少？。",
+  "topic": "回答下面的数学问题：Mason, Noah and Jacob want to have an eating contest but can't agree on what food to eat. Mason wants hot dogs, Noah insists on burgers, and Jacob thinks they should eat pies. They finally agree that everyone can eat whatever they want and they'll use the weight of the food to determine who wins. A hot dog weighs 2 ounces, a burger weighs 5 ounces, and a pie weighs 10 ounces. Jacob eats three fewer pies than Noah eats burgers. Mason eats 3 times as many hotdogs as the number of pies consumed by Jacob. If Noah ate 8 burgers, what is the total weight of the hotdogs that Mason ate?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

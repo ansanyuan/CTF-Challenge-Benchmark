@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克是一名文案编辑。他每周为两家不同的出版商编辑相同数量的句子，每家出版商按句子支付给他不同的费率。出版商B支付给马克的费用是出版商A的两倍。马克每周总共编辑1000个句子，出版商A按每个句子支付给他5美分。马克一周总共赚多少钱（单位：美分）？。",
+  "topic": "回答下面的数学问题：Mark is a copy-editor. He edits an equal number of sentences each week for two different publishers, who each pay him a different rate per sentence. Publisher B pays Mark twice what Publisher A pays. Mark edits a total number of 1000 sentences each week, and Publisher A pays him 5 cents per sentence. How much does Mark make in a week, in cents?",
   "checkpoint": [
     {
-      "$\\boxed{7500}$": 1
+      "\\boxed{7500}": 1
     }
   ],
   "matchingmethod": [

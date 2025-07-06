@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家服装店有40件白衬衫和50件花衬衫。白衬衫中有一半有领子，花衬衫中有20件有纽扣。没有纽扣的花衬衫比没有领子的白衬衫多多少件？。",
+  "topic": "回答下面的数学问题：A clothing store has 40 white shirts and 50 floral shirts. Half of the white shirts have collars, and 20 of the floral shirts have buttons. How many more floral shirts with no buttons are there than white shirts with no collars?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

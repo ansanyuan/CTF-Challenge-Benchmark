@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉萨金字塔是地球上最高的人造建筑，几乎有4000年的历史。它比500英尺高出20英尺，比高度宽234英尺。吉萨金字塔的高度和宽度之和是多少英尺？。",
+  "topic": "回答下面的数学问题：The Great Pyramid of Giza was the tallest man-made structure on earth for almost 4000 years.  It is 20 feet taller than 500 feet, and 234 feet wider than it is tall.  What is the sum of the height and width of the Great Pyramid of Giza in feet?",
   "checkpoint": [
     {
-      "$\\boxed{1274}$": 1
+      "\\boxed{1274}": 1
     }
   ],
   "matchingmethod": [

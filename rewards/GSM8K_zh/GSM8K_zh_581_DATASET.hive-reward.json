@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：利比正在她的后院用雪砖建造一个冰屋。她按行数建造她的冰屋，总共用了10行雪砖。冰屋的下半部分每行有12块雪砖，而冰屋的上半部分每行有8块雪砖。利比用了多少块雪砖建造她的冰屋？。",
+  "topic": "回答下面的数学问题：Libby is building an igloo in her backyard using bricks of snow. She builds her igloo in rows, using a total of 10 rows of bricks of snow. The bottom half of the igloo has 12 bricks of snow in each row while the top half of the igloo has 8 bricks of snow in each row. How many bricks of snow did Libby use for her igloo?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

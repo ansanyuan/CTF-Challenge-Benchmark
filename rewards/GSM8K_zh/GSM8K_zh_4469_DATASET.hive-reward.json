@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：欧文购买了12盒售价9美元/盒的口罩。每盒有50片口罩。他重新包装了其中的6盒，并以每25片5美元的价格出售。他以每10片3美元的价格将剩下的300片口罩装在袋子里出售。他赚了多少钱？。",
+  "topic": "回答下面的数学问题：Owen bought 12 boxes of face masks that cost $9 per box. Each box has 50 pieces of masks. He repacked 6 of these boxes and sold them for $5 per 25 pieces. He sold the remaining 300 face masks in baggies at the rate of 10 pieces of mask for $3. How much profit did he make?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

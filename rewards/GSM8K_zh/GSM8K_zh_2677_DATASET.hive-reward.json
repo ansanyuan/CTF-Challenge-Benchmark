@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮弗决定在她和她的3个朋友之间分享她的糖果。她有212颗绿色糖果，310颗蓝色糖果和502颗黄色糖果。珍妮弗和她的朋友们每人会得到多少颗糖果？。",
+  "topic": "回答下面的数学问题：Jennifer decides to share her sweets between herself and her 3 friends. She has 212 green sweets, 310 blue sweets and 502 yellow sweets. How many sweets will Jennifer and her friends get each?",
   "checkpoint": [
     {
-      "$\\boxed{256}$": 1
+      "\\boxed{256}": 1
     }
   ],
   "matchingmethod": [

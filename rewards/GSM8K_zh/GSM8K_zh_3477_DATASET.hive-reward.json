@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汉娜有三个兄弟。她的兄弟们都是8岁。如果她的年龄是她兄弟们年龄总和的两倍，那么汉娜多大了？。",
+  "topic": "回答下面的数学问题：Hannah has three brothers. Her brothers are all 8 years old. How old is Hannah if she is twice as old as the sum of her brother's ages?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

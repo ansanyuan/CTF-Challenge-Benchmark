@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安、贝基和朱莉娅每天工作8小时。她们每人每小时为7名顾客提供服务。有一天，朱莉娅不得不提前完成工作，所以她只工作了6小时。那天，这三位女士总共为多少顾客提供了服务？。",
+  "topic": "回答下面的数学问题：Ann, Becky, and Julia are working at a pharmacy, every day for 8 hours. Each of them is providing service to 7 customers per hour. One day Julia had to finish her work earlier, so she was working only for 6 hours. How many customers did all three of these women serve that day in total?",
   "checkpoint": [
     {
-      "$\\boxed{154}$": 1
+      "\\boxed{154}": 1
     }
   ],
   "matchingmethod": [

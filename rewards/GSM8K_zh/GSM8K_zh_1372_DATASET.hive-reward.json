@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Natalie的父亲存了10000美元要分给他的孩子们。由于Natalie是最大的，她会得到一半。Rick会得到剩下的60%，而Lucy会得到Natalie和Rick得到报酬后剩下的钱。Lucy会得到多少钱？。",
+  "topic": "回答下面的数学问题：Natalie's father has saved up $10,000 to split up between his kids.  Natalie will get half, as she is the oldest.  Rick will get 60 percent of the remaining money, and Lucy will get whatever is left after Natilie and Rick get paid.  How much money does Lucy get?",
   "checkpoint": [
     {
-      "$\\boxed{2000}$": 1
+      "\\boxed{2000}": 1
     }
   ],
   "matchingmethod": [

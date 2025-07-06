@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莎拉正在考察两家不同的商店购买电脑。第一家商店以950美元的价格提供设备，享受6%的折扣。第二家以920欧元的价格出售相同的电脑，享受5%的折扣。这两家商店之间的价格差异是多少？。",
+  "topic": "回答下面的数学问题：Sara is checking out two different stores to buy a computer. The first store offers a device for $950 with a 6% discount. The second sells the same computer for €920 with a 5% discount. What is the difference in price between the two stores?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

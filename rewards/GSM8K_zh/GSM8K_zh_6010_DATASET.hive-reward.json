@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在公园里，第一株玫瑰有12朵红色花。第二株玫瑰有18朵粉色花。第三株玫瑰有20朵黄色花。第四株玫瑰有8朵橙色花。洛雷莱为她的花瓶摘了红玫瑰的50%，粉玫瑰的50%，黄玫瑰的25%，和橙玫瑰的25%。她的花瓶里有多少朵玫瑰花？。",
+  "topic": "回答下面的数学问题：In the park, the first rose bush has 12 red flowers.  The second rose bush has 18 pink flowers.  The third rose bush has 20 yellow flowers.  The fourth rose bush has 8 orange flowers.  For her vase, Lorelei picks 50% of the red roses, 50% pink roses, 25% of the yellow roses, and 25% orange roses. How many roses are in her vase?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

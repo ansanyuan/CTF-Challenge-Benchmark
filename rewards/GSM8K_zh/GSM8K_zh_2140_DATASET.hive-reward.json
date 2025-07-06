@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果海洋中有六十五只海豚，而这个数字的三倍从一条在海洋入口的河流中加入，计算海洋中海豚的总数。。",
+  "topic": "回答下面的数学问题：If there are sixty-five dolphins in the ocean, and three times that number joins in from a river which has its mouth at the ocean, calculate the total number of dolphins in the ocean.",
   "checkpoint": [
     {
-      "$\\boxed{260}$": 1
+      "\\boxed{260}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马特想吃饼干当零食，但他爸爸希望他吃得健康。他告诉马特，他可以吃的饼干数量是他吃的胡萝卜棒数量的一半，再加上两个额外的作为打扫房间的奖励。如果马特总共想吃五块饼干，他需要吃多少根胡萝卜棒？。",
+  "topic": "回答下面的数学问题：Matt wants cookies for a snack, but his dad wants him to eat healthily. He tells Matt he can have half as many cookies as the number of carrot sticks he eats, plus two extra for cleaning his room. If Matt wants to eat five cookies in total, how many carrot sticks does he have to eat?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

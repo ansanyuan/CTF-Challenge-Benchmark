@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一开始Londolozi有100只狮子。如果狮子的幼崽每个月出生5只，而狮子每个月死亡1只，1年后Londolozi会有多少只狮子？。",
+  "topic": "回答下面的数学问题：There are 100 lions in Londolozi at first. If lion cubs are born at the rate of 5 per month and lions die at the rate of 1 per month, how many lions will there be in Londolozi after 1 year?",
   "checkpoint": [
     {
-      "$\\boxed{148}$": 1
+      "\\boxed{148}": 1
     }
   ],
   "matchingmethod": [

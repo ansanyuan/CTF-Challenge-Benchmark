@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Greg和他的家人露营了一周，下了3天雨。当他查看天气记录时，他发现这三天的降雨量分别为3毫米、6毫米和5毫米。在同一周，他家附近下了26毫米的雨。Greg在露营期间经历了多少较少的降雨量？。",
+  "topic": "回答下面的数学问题：While Greg was camping with his family for a week, it rained for 3 days. When he looked at the weather records, he saw that the amount of rain was 3 mm, 6 mm, and 5 mm on the three days. During the same week, it rained 26 mm at his house. How much less rain did Greg experience while camping?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

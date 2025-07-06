@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：特拉维斯被聘请将638个碗从工厂送到家居用品商店。家居用品商店将支付搬运公司100美元的费用，以及每个安全送达的碗3美元。特拉维斯必须为任何丢失或损坏的碗支付4美元。如果有12个碗丢失，15个碗损坏，其余的安全送达，特拉维斯应该得到多少报酬？。",
+  "topic": "回答下面的数学问题：Travis is hired to take 638 bowls from the factory to the home goods store. The home goods store will pay the moving company a $100 fee, plus $3 for every bowl that is delivered safely. Travis must pay the home goods store $4 each for any bowls that are lost or broken. If 12 bowls are lost, 15 bowls are broken, and the rest are delivered safely, how much should Travis be paid?",
   "checkpoint": [
     {
-      "$\\boxed{1825}$": 1
+      "\\boxed{1825}": 1
     }
   ],
   "matchingmethod": [

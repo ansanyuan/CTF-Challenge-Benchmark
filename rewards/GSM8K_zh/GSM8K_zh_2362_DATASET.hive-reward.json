@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛莎在杂货店独自遇见了艾伦，并询问了她的年龄。玛莎意识到她的年龄是艾伦六年后的两倍。如果艾伦现在10岁，计算玛莎现在的年龄。。",
+  "topic": "回答下面的数学问题：Martha met Ellen in the grocery store alone and asked her age. Martha realized she was twice as old as Ellen will be in six years. If Ellen is 10 years old now, calculate Martha's age now.",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

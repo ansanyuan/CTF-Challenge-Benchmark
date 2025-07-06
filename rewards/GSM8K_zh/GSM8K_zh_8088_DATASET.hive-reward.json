@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：加里每周洗两次衣服。每次洗衣服使用20加仑的水，一加仑水的费用是0.15美元。加里一年在洗衣服的水费上花了多少钱？。",
+  "topic": "回答下面的数学问题：Gary does laundry twice a week. Each load of laundry uses 20 gallons of water, and a gallon of water costs $0.15. How much does Gary spend on water for laundry in a year?",
   "checkpoint": [
     {
-      "$\\boxed{312}$": 1
+      "\\boxed{312}": 1
     }
   ],
   "matchingmethod": [

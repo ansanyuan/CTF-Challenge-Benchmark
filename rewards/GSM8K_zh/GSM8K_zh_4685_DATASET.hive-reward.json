@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在风暴的第二个小时，下雨的量比第一个小时多了7英寸。前两个小时的总降雨量为22英寸。第一个小时下了多少雨？。",
+  "topic": "回答下面的数学问题：In the second hour of a storm it rains 7 inches more than twice the amount it rained the first hour. The total amount of rain in the first two hours is 22 inches. How much did it rain in the first hour?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

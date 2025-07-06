@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个正方形的纸张的周长比计算机屏幕的高度短20厘米。如果正方形纸张的边长是20厘米，那么屏幕的高度是多少厘米？。",
+  "topic": "回答下面的数学问题：The perimeter of a square-shaped piece of paper is 20 cm shorter than the height of a computer screen. How many cm is the height of the screen if the side of the square paper is 20 cm?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Find the sum of all positive integers $n$ for which $n^2-19n+99$ is a perfect square.",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

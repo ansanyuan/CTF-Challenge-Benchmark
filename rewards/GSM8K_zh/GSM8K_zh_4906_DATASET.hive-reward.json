@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hilary正在收集她的脚趾甲放在罐子里，以恶心她的妹妹。她可以把100个脚趾甲放在罐子里，除非它们来自她的两个大脚趾，它们的大小是其他脚趾的两倍。她已经用20个大脚趾甲和40个普通脚趾甲填满了罐子。她还能在罐子的剩余空间放入多少个普通脚趾甲？。",
+  "topic": "回答下面的数学问题：Hilary is collecting her toenails in a jar to gross out her sister. She can fit 100 toenails in the jar, unless they are from her two big toes, which are twice as big as the rest. She has already filled it with 20 big toenails and 40 regular toenails. How many regular toenails can she fit into the remainder of the jar?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

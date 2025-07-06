@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个工厂生产5门车。工厂原计划生产200辆车，但由于金属短缺，他们将生产减少了50辆。由于大流行病，他们还必须再次削减50%的产量。工厂将生产多少个车门？。",
+  "topic": "回答下面的数学问题：A factory manufactures cars with 5 doors. The factory was planning to produce 200 cars but due to metal shortages, they decreased the production by 50 cars. Due to a pandemic, they also had to cut production by another 50%. How many doors will the factory produce?",
   "checkpoint": [
     {
-      "$\\boxed{375}$": 1
+      "\\boxed{375}": 1
     }
   ],
   "matchingmethod": [

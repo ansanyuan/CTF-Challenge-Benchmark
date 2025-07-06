@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：考试季节到了，特里斯坦有几门考试要准备。周一，他学习了4个小时，然后在周二学习的时间是周一的两倍。周三、周四和周五，他每天学习3个小时。他希望一周总共学习25个小时，并将剩下的学习时间均匀分配在周六和周日。特里斯坦周六学习了多少个小时？。",
+  "topic": "回答下面的数学问题：It’s exam season and Tristan has several exams to prepare for. On Monday, he studies for 4 hours then studies for twice this long on Tuesday. On Wednesday, Thursday, and Friday he studies for 3 hours each day. He wants to study for a total of 25 hours over the week and divides the remaining amount of study time evenly between Saturday and Sunday. How many hours does Tristan spend studying on Saturday?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

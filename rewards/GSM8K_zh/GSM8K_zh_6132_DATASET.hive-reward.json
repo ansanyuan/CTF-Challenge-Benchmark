@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯坐在外面，数着经过他的车辆。他今天迄今为止已经数了52辆车。他看到了12辆卡车，几辆公共汽车，两倍于出租车的数量，一些摩托车和30辆小汽车。如果卡车每辆装2个人，公共汽车每辆装15个人，出租车每辆装2个人，摩托车每辆装1个人，小汽车每辆装3个人，詹姆斯今天看到了多少乘客？。",
+  "topic": "回答下面的数学问题：James is sitting outside, counting how many people go past him in vehicles. He has counted 52 vehicles so far today. He saw 12 trucks, a couple of buses, twice as many taxis, some motorbikes, and 30 cars. If the trucks held 2 people each, the buses held 15 people each, the taxis held 2 people each, the motorbikes held 1 person each, and the cars held 3 people each, how many passengers has James seen today?",
   "checkpoint": [
     {
-      "$\\boxed{156}$": 1
+      "\\boxed{156}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：25%的牡蛎里有珍珠。杰米每次潜水可以收集16个牡蛎。他需要潜水多少次才能收集到56颗珍珠？。",
+  "topic": "回答下面的数学问题：25% of oysters have pearls in them. Jamie can collect 16 oysters during each dive. How many dives does he have to make to collect 56 pearls?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

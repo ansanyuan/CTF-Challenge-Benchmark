@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ryan每周骑自行车上班一天，乘公交车上班三天，每周有一天朋友接送他上班。他骑自行车上班需要30分钟。公交车需要更长的时间，因为它会在每个公交站停下来等其他乘客，所以需要40分钟。他的朋友接送他是最快的，可以缩短他骑自行车时间的三分之二。他每周通勤上班花费多少时间？。",
+  "topic": "回答下面的数学问题：To get to work, Ryan bikes one day a week takes the bus three times a week and gets a ride from a friend once a week. It takes him thirty minutes to bike to work. The bus takes ten minutes longer since it stops at every bus stop for other passengers. His friend driving him is the fastest and cuts two-thirds off his biking time. How many minutes does he spend every week commuting to work?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

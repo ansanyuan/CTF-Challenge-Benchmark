@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Karen正在为一次长途徒步旅行整理她的背包。她准备了20磅的水，10磅的食物和20磅的装备。在徒步旅行期间，她每小时喝2磅的水，每小时吃的食物重量是每小时水重量的1/3。六个小时后她背负的重量是多少？。",
+  "topic": "回答下面的数学问题：Karen is packing her backpack for a long-distance hike. She packs 20 pounds of water, 10 pounds of food, and 20 pounds of gear. During her hike, she drinks 2 pounds of water per hour and eats 1/3rd the weight of food per hour as water per hour. How much weight is she carrying after six hours?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

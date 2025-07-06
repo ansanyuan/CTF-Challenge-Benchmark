@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Nellie需要卖出45卷礼品包装纸。到目前为止，她已经向她的祖母卖出了1卷，向她的叔叔卖出了10卷，向邻居卖出了6卷。Nellie还需要再卖出多少卷礼品包装纸？。",
+  "topic": "回答下面的数学问题：For a fundraiser, Nellie needs to sell 45 rolls of gift wrap. So far, she has sold 1 roll to her grandmother, 10 rolls to her uncle, and 6 rolls to a neighbor. How many more rolls of gift wrap does Nellie need to sell?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

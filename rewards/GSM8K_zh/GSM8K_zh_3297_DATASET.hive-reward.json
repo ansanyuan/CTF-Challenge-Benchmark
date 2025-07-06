@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯尔每天骑车上班需要2小时。他往返上班的时间的十倍等于购买一包零食的成本（以美元计算）。瑞安购买50包零食需要支付多少美元？。",
+  "topic": "回答下面的数学问题：Kyle bikes for 2 hours to work every day. Ten times the time he takes to travel to work and back is the same as the cost of buying a pack of snacks (in dollars). How much will Ryan pay, in dollars, to buy 50 packs of snacks?",
   "checkpoint": [
     {
-      "$\\boxed{2000}$": 1
+      "\\boxed{2000}": 1
     }
   ],
   "matchingmethod": [

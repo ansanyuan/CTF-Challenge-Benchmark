@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kira的猫每4小时吃一磅饲料。Kira在上班前给猫的碗里装了3磅饲料。当她回来时，Kira称了称碗，还剩下1磅。Kira离家多少小时了？。",
+  "topic": "回答下面的数学问题：Kira's cat eats a pound of kibble every 4 hours. Kira fills her cat's bowl with 3 pounds of kibble before going to work. When she returns, Kira weighs the bowl and there is still 1 pound left. How many hours was Kira away from home?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

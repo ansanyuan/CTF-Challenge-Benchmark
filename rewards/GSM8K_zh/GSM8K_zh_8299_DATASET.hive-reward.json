@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝卡、斯门德里克和PJ收集了魔法卡片，总共有341张。贝卡比斯门德里克多12张，而斯门德里克的卡片数量是PJ的3倍。贝卡有多少张卡片？。",
+  "topic": "回答下面的数学问题：Becca, Smendrick, and PJ have collections of Magic Cards.  There is a total of 341 cards.  Becca has 12 more than Smendrick, and Smendrick has 3 times the amount of cards that PJ has.  How many cards does Becca have?",
   "checkpoint": [
     {
-      "$\\boxed{153}$": 1
+      "\\boxed{153}": 1
     }
   ],
   "matchingmethod": [

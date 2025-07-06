@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格雷琴的当地冰淇淋店提供100种不同口味。两年前她尝试了1/4的口味，去年的数量是前一年的两倍。她今年还需要尝试多少种口味才能尝遍所有100种口味？。",
+  "topic": "回答下面的数学问题：Gretchen's local ice cream shop offers 100 different flavors.  She was able to try a 1/4 of the flavors 2 years ago and double that amount last year.  How many more flavors will she need to try this year to have tried all 100 flavors?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

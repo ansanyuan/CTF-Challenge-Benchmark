@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：泰德拉正在收获他的番茄。他在星期三收获了400公斤，星期四收获了一半的量。他在星期三、星期四和星期五一共收获了2000公斤。如果他把其中700公斤送给朋友，星期五他收获的番茄中还剩下多少？。",
+  "topic": "回答下面的数学问题：Tedra is harvesting his tomatoes. He harvests 400 kg on Wednesday, and half as much on Thursday. He harvests a total of 2000 kg on Wednesday, Thursday, and Friday. How many tomatoes of the number he harvested on Friday are remaining if he gives away 700kg of them to his friends?",
   "checkpoint": [
     {
-      "$\\boxed{700}$": 1
+      "\\boxed{700}": 1
     }
   ],
   "matchingmethod": [

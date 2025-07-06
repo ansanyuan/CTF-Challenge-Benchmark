@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：保罗每天制作100支铅笔，一周工作5天。他一周开始时库存有80支铅笔，一周内卖出350支铅笔。一周结束时他的库存有多少支铅笔？。",
+  "topic": "回答下面的数学问题：Paul makes pencils, making 100 pencils a day five days a week. He started the week with 80 pencils in his stock, and during the week he sold 350 pencils. How many pencils did he have in his stock at the end of the week?",
   "checkpoint": [
     {
-      "$\\boxed{230}$": 1
+      "\\boxed{230}": 1
     }
   ],
   "matchingmethod": [

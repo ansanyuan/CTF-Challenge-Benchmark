@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莫莉在她十三岁生日时得到了一辆自行车。她每天骑自行车3英里，一直持续到她十六岁。莫莉骑了多少英里？。",
+  "topic": "回答下面的数学问题：Molly got a bike for her thirteenth birthday. She rode her bike 3 miles a day, every day, until she turned 16. How many miles did Molly ride on her bike?",
   "checkpoint": [
     {
-      "$\\boxed{3285}$": 1
+      "\\boxed{3285}": 1
     }
   ],
   "matchingmethod": [

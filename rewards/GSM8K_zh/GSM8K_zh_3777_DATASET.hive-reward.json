@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Julia养了一只鹦鹉和一只兔子。她每周为这两只动物买食物总共花费30美元。Julia养了兔子5周，鹦鹉3周。如果兔子食物的每周费用是12美元，那么Julia已经为她的动物花了多少钱？。",
+  "topic": "回答下面的数学问题：Julia has a parrot and a rabbit. She buys food for both of the animals for $30 in total a week. Julia has the rabbit for 5 weeks, and the parrot for 3 weeks. How much money did Julia already spend on food for her animals, if the weekly cost of the rabbit food is $12?",
   "checkpoint": [
     {
-      "$\\boxed{114}$": 1
+      "\\boxed{114}": 1
     }
   ],
   "matchingmethod": [

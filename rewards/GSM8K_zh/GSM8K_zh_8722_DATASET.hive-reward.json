@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jason在一家汽车经销店担任销售员。这个月他需要卖出15辆车才能获得丰厚的奖金。根据历史平均数据，他知道每打25个电话给潜在客户，就会有一个人来汽车经销店看新车。而每有两个顾客来到汽车经销店，就会有一个人买车。根据这些平均数字，Jason需要打多少电话才能卖出15辆车并获得他的奖金？。",
+  "topic": "回答下面的数学问题：Jason works as a salesperson at a car dealership.  He needs to sell 15 cars this month to earn a big bonus.  He knows based on historical averages, that for every 25 telephone calls he makes to potential customers, he gets one person to come into the car dealership to look at new cars.  And for every two customers that come into the car dealership, one will buy a car.  Based on these average numbers, how many telephone calls would Jason need to make to sell 15 cars and earn his bonus?",
   "checkpoint": [
     {
-      "$\\boxed{750}$": 1
+      "\\boxed{750}": 1
     }
   ],
   "matchingmethod": [

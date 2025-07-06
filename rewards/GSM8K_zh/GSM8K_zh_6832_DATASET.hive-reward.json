@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：班上要猜猜老师带来的玻璃罐里有多少颗软糖豆。老师让4名学生猜测。第一个认为里面有100颗软糖豆。第二个说有8倍多。第三个猜比第三个少200。第四个取前三个猜测的平均值，然后加上25。第四个学生猜测了多少颗软糖豆？。",
+  "topic": "回答下面的数学问题：The class has to guess how many jellybeans are in a jar the teacher brought in. He lets 4 students make their guesses. The first thinks it contains 100 jellybeans. The second says there are 8 times as many. The third guesses 200 less than the third. The fourth takes the average of the first three guesses, and then adds 25 to it. How many jellybeans did the fourth student guess?",
   "checkpoint": [
     {
-      "$\\boxed{525}$": 1
+      "\\boxed{525}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Candice在学校的图书比赛中读的书是Amanda的3倍。Kara读的书是Amanda读书数量的一半，Patricia读的书是Kara读书数量的7倍。如果Candice读了18本书，Patricia读了多少本书？。",
+  "topic": "回答下面的数学问题：Candice read 3 times as many books as Amanda in their school's Book Tournament. Kara read half the number of books that Amanda read, and Patricia read 7 times the number of books that Kara read. If Candice read 18 books, how many books did Patricia read?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

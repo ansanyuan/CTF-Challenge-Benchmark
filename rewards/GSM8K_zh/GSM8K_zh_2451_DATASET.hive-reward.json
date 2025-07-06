@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰米是一名消防员。一天，来自老太太汤普森夫人的紧急呼叫说她的猫爬不下一棵20英尺高的树。上一次杰米救下一只猫，是从一棵6英尺高的树上，他不得不爬12个梯级。这一次他需要爬多少个梯级才能把猫从树上救下来？。",
+  "topic": "回答下面的数学问题：Jamie is a firefighter. One day an emergency call comes in from Mrs. Thompson, an elderly woman whose cat can't get down a 20-foot tree. The last time Jamie rescued a cat, he got it down from a 6-foot tree and had to climb 12 rungs of his ladder. How many rungs does he have to climb this time to get the cat down from the tree?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

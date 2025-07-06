@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克正在存钱买房。他每年的15万美元工资中存下了10%。他需要为一栋价值45万美元的房子的首付存下20%。他需要存多久？。",
+  "topic": "回答下面的数学问题：Mike is saving up to buy a house.  He puts away 10% of his $150,000 a year salary.  He needs to save up 20% of the cost of a $450,000 house for a downpayment.  How long will it take?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

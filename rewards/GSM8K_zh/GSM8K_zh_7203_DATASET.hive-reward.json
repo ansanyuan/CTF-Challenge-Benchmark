@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯有十二颗弹珠，瑞恩有二十八颗弹珠。如果他们把弹珠放在一起，然后每个人从堆中拿走四分之一的弹珠，计算堆中剩下的弹珠数量。。",
+  "topic": "回答下面的数学问题：Chris has twelve marbles, and Ryan has twenty-eight marbles. If they put marbles together in a pile and then each takes away 1/4 of marbles from the pile, calculate the number of marbles remaining in the pile.",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

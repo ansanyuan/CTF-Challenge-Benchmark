@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特有24条裙子。其中一半有口袋。其中，三分之一有2个口袋，其余有3个口袋。她的裙子总共有多少个口袋？。",
+  "topic": "回答下面的数学问题：Janet has 24 dresses.  Half of them have pockets.  Of those, a third have 2 pockets and the rest have 3 pockets.  How many total pockets do her dresses have?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

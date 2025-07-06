@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两只鸟各自制作一个巢，每只鸟都进行了10次往返来收集建筑材料。如果建筑材料位于它们筑巢的地点距离200英里，那么鸟在这些往返中总共飞行了多少英里？。",
+  "topic": "回答下面的数学问题：Two birds making a nest each made 10 round trips collecting building materials. If the building materials were located 200 miles from where they were building the nest, what is the total distance the birds covered in the trips?",
   "checkpoint": [
     {
-      "$\\boxed{8000}$": 1
+      "\\boxed{8000}": 1
     }
   ],
   "matchingmethod": [

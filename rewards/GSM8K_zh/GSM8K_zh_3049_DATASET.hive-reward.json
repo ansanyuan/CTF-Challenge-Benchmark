@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：50%的代课老师在教学1小时后离开。剩下的人中有30%在午餐前辞职。如果早上7点有60名代课老师到达，午餐后还剩下多少人？。",
+  "topic": "回答下面的数学问题：50% of substitute teachers walk out after 1 hour of teaching. 30% of the remainder quit before lunch. If 60 substitute teachers show up at 7 AM, how many will be left after lunch?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

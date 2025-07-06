@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Martine比Benjy多6个桃子。Benjy的桃子数量是Gabrielle的三分之一。如果Martine有16个桃子，Gabrielle有多少个桃子？。",
+  "topic": "回答下面的数学问题：Martine has 6 more than twice as many peaches as Benjy. Benjy has one-third as many peaches as Gabrielle. If Martine has 16 peaches, how many does Gabrielle have?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

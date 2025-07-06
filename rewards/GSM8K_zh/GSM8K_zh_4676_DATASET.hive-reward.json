@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carolyn买了一套银餐具，里面有6把刀，12个叉子，以及比刀的数量多三倍的勺子。然后她的朋友用10把刀交换了她的6个勺子。Carolyn的银餐具中刀的比例是多少？。",
+  "topic": "回答下面的数学问题：Carolyn buys a silverware set with 6 knives, 12 forks, and three times as many spoons as knives. Then her friend trades her 10 knives for 6 spoons. What percentage of Carolyn's silverware is knives?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

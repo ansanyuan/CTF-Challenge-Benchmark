@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克拉拉正在攀登一个有石头楼梯的历史塔。每层楼梯有八个巨大的台阶。每个台阶由三块巨大的石头组成。当她到达塔顶时，她已经攀爬了96块石头。这座塔有多少层？。",
+  "topic": "回答下面的数学问题：Clara is climbing to the top of a historical tower with stone stairs. Each level has eight huge steps in the stairs. Every step is made up of three massive blocks of stone. By the time she reaches the top, she has climbed past 96 blocks of stone. How many levels are there in the tower?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

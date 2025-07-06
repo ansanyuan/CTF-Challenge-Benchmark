@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果你今天在Subway为一条足长的鱼肉三明治支付40美元，而为一个六英寸的冷切组合三明治支付三倍的价格，那么午餐的费用是多少？。",
+  "topic": "回答下面的数学问题：How much does it cost you for lunch today at Subway if you pay $40 for a foot-long fish sub and thrice as much for a six-inch cold-cut combo sub?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Zoe家的车库里有3辆自行车，4辆三轮车和7辆独轮车。每辆自行车有2个轮子，每辆三轮车有3个轮子，每辆独轮车有1个轮子。总共有多少个轮子？。",
+  "topic": "回答下面的数学问题：There are 3 bicycles, 4 tricycles and 7 unicycles in the garage at Zoe's house. Each bicycle has 2 wheels, each tricycle has 3 wheels and each unicycle has 1 wheel. How many wheels are there in all?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

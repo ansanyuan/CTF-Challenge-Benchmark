@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾丽采摘了44朵野花。其中13朵是黄色和白色的，17朵是红色和黄色的，14朵是红色和白色的。含有红色的花比含有白色的花多多少朵？。",
+  "topic": "回答下面的数学问题：Allie picked 44 wildflowers.  Thirteen of the flowers were yellow and white, seventeen of the flowers were red and yellow, and 14 of the flowers were red and white.  How many more flowers contained the color red than contained the color white?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

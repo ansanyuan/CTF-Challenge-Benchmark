@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有一场持续4天的大雨。有一个区域用来收集水以防止该地区发生洪水。结果在第4天发生了溢出。这个区域可以容纳相当于6英尺的雨水。它还可以每天排出相当于3英寸的雨水到附近的河流，而不会造成问题。第一天下了10英寸的雨。第二天下了两倍于此的雨。第三天下的雨比第二天多了50%。在进行任何排水之前，第四天就发生了洪水。第四天至少下了多少雨？。",
+  "topic": "回答下面的数学问题：There is a massive rainstorm lasting 4 days.  There is an area that collects water to prevent flooding in the area.  It ends up overflowing on the 4th day.  The area can hold the equivalent of 6 feet of rain.  It can also drain out the equivalent of 3 inches of rain per day to the nearby river without causing problems.  The first day it rained 10 inches.  The second day it rained twice that much.  On the third day, it rained 50% more than the second day.  It flooded the fourth day before getting a chance to do any of the draining.  What is the minimum amount it rained on the fourth day?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

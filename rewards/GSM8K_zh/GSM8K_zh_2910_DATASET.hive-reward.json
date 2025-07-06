@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alan去市场买了20个鸡蛋，每个鸡蛋2美元。他买了6只鸡，每只鸡8美元。Alan在市场上花了多少钱？。",
+  "topic": "回答下面的数学问题：Alan went to the market and bought 20 eggs at the price of $2 per egg. He bought 6 chickens for the price of $8 per chicken. How much money did Alan spend at the market?",
   "checkpoint": [
     {
-      "$\\boxed{88}$": 1
+      "\\boxed{88}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：宠物店给狗狗做美容。给一只贵宾犬做美容需要30分钟。给一只梗犬做美容所需时间是给一只贵宾犬的一半。他们不给猫做美容。如果宠物店给3只贵宾犬和8只梗犬做美容，总共需要多长时间，以分钟计？。",
+  "topic": "回答下面的数学问题：The pet shop grooms dogs.  It takes 30 minutes to groom a poodle.  It takes half as much time to groom a terrier as it takes to groom a poodle.  They do not groom cats.  If the pet shop grooms 3 poodles and 8 terriers, what is the total length of time it will take, in minutes?",
   "checkpoint": [
     {
-      "$\\boxed{210}$": 1
+      "\\boxed{210}": 1
     }
   ],
   "matchingmethod": [

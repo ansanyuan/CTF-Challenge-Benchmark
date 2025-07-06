@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：去年，彼得为他的社区项目组织了一次趣味跑活动，有200人报名参加。有40人没有出现跑步。今年，参与者将是去年的两倍。今年将有多少人参加跑步？。",
+  "topic": "回答下面的数学问题：Last year, Peter organized a Fun Run for his community project and 200 people signed up. Forty people did not show up to run. This year, there will be twice as many runners as last year. How many people will run this year?",
   "checkpoint": [
     {
-      "$\\boxed{320}$": 1
+      "\\boxed{320}": 1
     }
   ],
   "matchingmethod": [

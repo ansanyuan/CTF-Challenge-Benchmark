@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布伦达养老鼠，她的成年老鼠最近生了三窝，每窝8只。她把六分之一的幼鼠送给她的朋友罗比作为宠物。她向宠物店卖了她送给罗比的幼鼠的三倍数量。剩下的老鼠中有一半被卖给蛇主人作为食用老鼠。布伦达还剩下多少只幼鼠？。",
+  "topic": "回答下面的数学问题：Brenda raises mice, and her adult mice recently had three litters of 8 each. She gave a sixth of the baby mice to her friend Robbie to keep as pets. She sold three times the number of babies she gave Robbie to a pet store. Half of the remaining mice were sold to snake owners as feeder mice. How many baby mice did Brenda have left?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

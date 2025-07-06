@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托尼的爸爸对洗衣机非常严格，家人一次只能洗50盎司的衣物。托尼不想违反规定，所以他称了称他的衣服，发现一双袜子重2盎司，内裤重4盎司，一件衬衫重5盎司，短裤重8盎司，裤子重10盎司。托尼要洗一条裤子，2件衬衫，一条短裤和3双袜子。他还可以再加多少条内裤而不违反规定？。",
+  "topic": "回答下面的数学问题：Tony's dad is very strict about the washing machine and family members are only allowed to wash 50 total ounces of clothing at a time. Tony doesn't want to break the rules, so he weighs his clothes and finds that a pair of socks weighs 2 ounces, underwear weighs 4 ounces, a shirt weighs 5 ounces, shorts weigh 8 ounces, and pants weigh 10 ounces. Tony is washing a pair of pants, 2 shirts, a pair of shorts, and 3 pairs of socks. How many more pairs of underwear can he add to the wash and not break the rule?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

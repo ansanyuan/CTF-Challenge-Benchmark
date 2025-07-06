@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克斯需要65个纸盘举办烧烤派对。他已经有22个绿色纸盘和24个蓝色纸盘。他还需要多少个纸盘？。",
+  "topic": "回答下面的数学问题：Max needs 65 paper plates for the barbecue party.  He already has 22 green paper plates and 24 blue paper plates. How many more paper plates does he need?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

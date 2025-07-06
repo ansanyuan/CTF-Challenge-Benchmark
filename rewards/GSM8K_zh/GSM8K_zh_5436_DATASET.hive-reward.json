@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马特的蛋白粉含有80%的蛋白质。他体重80公斤，想每天摄入每公斤体重2克的蛋白质。他每周需要摄入多少蛋白粉？。",
+  "topic": "回答下面的数学问题：Matt's protein powder is 80% protein.  He weighs 80 kg and wants to eat 2 grams of protein per kilogram of body weight each day.  How much protein powder does he need to eat per week?",
   "checkpoint": [
     {
-      "$\\boxed{1400}$": 1
+      "\\boxed{1400}": 1
     }
   ],
   "matchingmethod": [

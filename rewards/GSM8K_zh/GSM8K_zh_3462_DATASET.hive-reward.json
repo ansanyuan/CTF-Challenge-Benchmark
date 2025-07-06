@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在圣地亚哥动物园，狮子每天消耗25公斤的肉，老虎每天消耗20公斤的肉。如果它们有90公斤的肉，这些肉可以维持多少天？。",
+  "topic": "回答下面的数学问题：In San Diego Zoo, the lion consumes 25 kilograms of meat, and the tiger consumes 20 kilograms of meat per day. If they have 90 kilograms of meat, how many days will the meats last?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

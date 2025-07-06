@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克逊维尔沃尔玛通常每天会收到120个顾客投诉。当他们人手不足时，这个数字会增加1/3，而当自助结账出现故障时，这个数字会再增加20%。如果商店在连续3天内人手不足并且自助结账出现故障，那么商店会收到多少投诉？。",
+  "topic": "回答下面的数学问题：The Jacksonville Walmart normally gets 120 customer complaints per day. That number increases by 1/3rd when they're short-staffed and this increases by another 20% when the self-checkout is broken. If the store was short-staffed and the self-checkout was broken for 3 days, how many complaints does the store get?",
   "checkpoint": [
     {
-      "$\\boxed{576}$": 1
+      "\\boxed{576}": 1
     }
   ],
   "matchingmethod": [

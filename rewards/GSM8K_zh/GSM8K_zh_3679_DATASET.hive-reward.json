@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆种了一棵1岁、5英尺高的树。它每年长高3英尺。当它长到23英尺高时，它多大了？。",
+  "topic": "回答下面的数学问题：Tom plants a tree that is 1 year old and 5 feet tall.  It gains 3 feet per year.  How old is it when it is 23 feet tall?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

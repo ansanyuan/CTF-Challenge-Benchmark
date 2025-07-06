@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Taylor的一半客人喜欢淡咖啡，另一半喜欢浓咖啡。早上，Taylor每杯水用1汤匙咖啡冲泡淡咖啡，然后将这个量加倍用于冲泡浓咖啡。如果他要冲泡12杯淡咖啡和12杯浓咖啡，他需要多少汤匙的咖啡？。",
+  "topic": "回答下面的数学问题：Half of Taylor's house guests like weak coffee and the other half like strong coffee in the morning.  Taylor uses 1 tablespoon of coffee per cup of water to make it weak and he doubles that amount to make it strong.  If he makes 12 cups of both weak and strong coffee, how many tablespoons of coffee will he need?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每个篮子里有25个桃子。有5个篮子的桃子被送到市场。农民吃了5个桃子。剩下的桃子被装进每个装15个的小箱子。有多少个桃子的小箱子？。",
+  "topic": "回答下面的数学问题：There were 25 peaches in each basket. Five baskets of peaches were delivered to a market. The farmers have eaten 5 peaches. The remaining peaches are packed into smaller boxes of 15 each. How many boxes of peaches are there?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯汀通过佣金率赚钱。她在所有销售的物品上获得12%的佣金。这个月，她卖出了价值24000美元的物品。她所有收入的60%将用于个人需求，其余的将被储蓄。这个月她储蓄了多少钱？。",
+  "topic": "回答下面的数学问题：Christine makes money by commission rate. She gets a 12% commission on all items she sells. This month, she sold $24000 worth of items. Sixty percent of all her earning will be allocated to her personal needs and the rest will be saved.  How much did she save this month?",
   "checkpoint": [
     {
-      "$\\boxed{1152}$": 1
+      "\\boxed{1152}": 1
     }
   ],
   "matchingmethod": [

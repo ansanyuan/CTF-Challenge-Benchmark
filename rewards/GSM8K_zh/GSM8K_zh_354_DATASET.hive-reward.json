@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周五，雷米向莎莉的木工有限责任公司支付了总共20700美元购买150件家具。当天晚些时候，公司的会计发现销售部门的一名新实习生向雷米多收了钱。如果一件家具的成本是134美元，莎莉的木工有限责任公司将向雷米返还多少钱？。",
+  "topic": "回答下面的数学问题：On Friday, Remy paid Sally’s Woodworking LLC a total of $20,700 for 150 pieces of furniture. Later that evening, the company’s accountant discovered that a new intern in the sales department had overcharged Remy. If the cost of a piece of furniture is $134, how much money will Sally’s Woodworking LLC reimburse Remy?",
   "checkpoint": [
     {
-      "$\\boxed{600}$": 1
+      "\\boxed{600}": 1
     }
   ],
   "matchingmethod": [

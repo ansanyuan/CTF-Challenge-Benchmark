@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托尼买了3张彩票，并在每张彩票上选择了相同的号码。他发现每张彩票上有5个中奖号码。如果每个中奖号码价值20美元，那么托尼总共赢得了多少美元？。",
+  "topic": "回答下面的数学问题：Tony bought 3 lottery tickets and chose identical numbers on each ticket. He finds out that 5 of the numbers on each lottery ticket are winning numbers. If each winning number is worth $20 then how much money, in dollars, has Tony won in total?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

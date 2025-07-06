@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布朗夫人用3张50美元的钞票和2张10美元的钞票支付了她的水电费。她的水电费是多少？。",
+  "topic": "回答下面的数学问题：Mrs. Brown paid her utility bills with 3 $50 bills and 2 $10 bills. How much are her utility bills?",
   "checkpoint": [
     {
-      "$\\boxed{170}$": 1
+      "\\boxed{170}": 1
     }
   ],
   "matchingmethod": [

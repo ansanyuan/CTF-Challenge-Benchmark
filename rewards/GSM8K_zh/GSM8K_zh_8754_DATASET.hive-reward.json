@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史蒂夫拼了一个难题，花了10个小时的辛苦工作才完成。安娜用了比史蒂夫时间的一半多2个小时来拼同样的难题。安娜完成这个困难的拼图花了多长时间？。",
+  "topic": "回答下面的数学问题：Steve put together a puzzle that took 10 hours of hard work to complete. Anna put together the same puzzle in 2 hours more than half Steve's time. How long did it take Anna to finish the difficult puzzle?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

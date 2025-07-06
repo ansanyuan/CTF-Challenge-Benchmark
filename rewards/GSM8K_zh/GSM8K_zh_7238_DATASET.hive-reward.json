@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克的存钱罐里有43美元。他每周还会得到10美元的零用钱。如果杰克每周将他的零用钱的一半存入存钱罐，那么8周后，杰克的存钱罐里会有多少钱？。",
+  "topic": "回答下面的数学问题：Jack has $43 in his piggy bank. He also gets an allowance of $10 a week. If Jack puts half of his allowance into his piggy bank every week, after 8 weeks how much will Jack have in his piggy bank?",
   "checkpoint": [
     {
-      "$\\boxed{83}$": 1
+      "\\boxed{83}": 1
     }
   ],
   "matchingmethod": [

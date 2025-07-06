@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：弗雷迪和他的团队连续三天收集毯子，捐赠给儿童收容机构。团队中有15人。第一天，每个人捐赠了2条毯子。第二天，他们通过逐户敲门的方式将第一天收集的数量增加了三倍。最后一天，他们在学校设立了捐赠箱，共收集了22条毯子。他们三天共收集了多少条毯子用于捐赠？。",
+  "topic": "回答下面的数学问题：Freddie and his team are collecting blankets for three days to be donated to the Children Shelter Organization. There are 15 people on the team. On the first day, each of them gave 2 blankets. On the second day, they tripled the number they collected on the first day by asking door-to-door. On the last day, they set up boxes at schools and got a total of 22 blankets. How many blankets did they collect for the three days for donation?",
   "checkpoint": [
     {
-      "$\\boxed{142}$": 1
+      "\\boxed{142}": 1
     }
   ],
   "matchingmethod": [

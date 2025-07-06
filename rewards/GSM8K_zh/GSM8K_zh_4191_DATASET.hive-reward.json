@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marlon有一张价值200美元的礼品卡。他在周一花了一半的钱，周二花了剩下的四分之一。他的礼品卡上还剩多少钱？。",
+  "topic": "回答下面的数学问题：Marlon has a gift card for $200. He spent half of it on Monday and one-fourth of the remainder on Tuesday. How much was left on his gift card?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

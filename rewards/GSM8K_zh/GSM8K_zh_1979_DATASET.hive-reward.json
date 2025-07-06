@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每周一到周五早上，爱丽丝步行穿过一片大草地去学校，路程为10英里。为了避开炎热的下午阳光回家，她穿过一片森林走12英里。当她周五回家时，这周她一共走了多少英里？。",
+  "topic": "回答下面的数学问题：Every Monday to Friday morning, Alice walks 10 miles through a large grass field to get to school. To avoid the hot afternoon sun on her way home, she walks 12 miles through a forest. When she gets home on Friday, how many miles will she have walked that week?",
   "checkpoint": [
     {
-      "$\\boxed{110}$": 1
+      "\\boxed{110}": 1
     }
   ],
   "matchingmethod": [

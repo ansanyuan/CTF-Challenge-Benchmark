@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克逊想提高自己的耐力跑步。他的目标是从第一周开始每天跑3英里，然后在接下来的四周里每周再多跑一英里。在这个锻炼计划结束时，杰克逊每天跑多少英里？。",
+  "topic": "回答下面的数学问题：Jackson wants to improve his endurance running. His goal is to start by running 3 miles a day the first week, then spend the next four weeks running one additional mile/day each week. How many miles is Jackson running each day at the end of this exercise program?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

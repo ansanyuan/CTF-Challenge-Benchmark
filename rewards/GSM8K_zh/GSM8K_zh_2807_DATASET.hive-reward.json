@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰买了4磅牛肉。他除了1磅牛肉外，全部用在了汤里。他用的蔬菜的磅数是多少？。",
+  "topic": "回答下面的数学问题：John buys 4 pounds of beef.  He uses all but 1 pound in soup.  He uses twice as many pounds of vegetables as beef.  How many pounds of vegetables did he use?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

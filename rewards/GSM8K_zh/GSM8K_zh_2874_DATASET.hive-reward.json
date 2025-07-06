@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：黛安娜想为当地儿童之家的40名儿童购买冬季衣服。该儿童之家有幼儿和青少年的数量是幼儿的5倍。还有一些新生儿。如果有6名幼儿，那么黛安娜将为多少名新生儿购物？。",
+  "topic": "回答下面的数学问题：Diana wants to buy winter clothes for all the 40 children at her local children's home. The home has five times as many teenagers as toddlers. There are also some newborns. If there are 6 toddlers, for how many newborns will Diana be shopping?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

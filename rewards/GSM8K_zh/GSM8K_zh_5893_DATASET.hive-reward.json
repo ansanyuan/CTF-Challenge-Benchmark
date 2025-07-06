@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：某个城镇的社区领袖组织了一个清洁日活动，社区成员参与在城镇内收集垃圾。在参与清洁过程的2000名社区成员中，30%是成年男性。如果成年女性的人数是成年男性的两倍，并且其余的是儿童，计算参与清洁活动的儿童总数。。",
+  "topic": "回答下面的数学问题：The community leader of a certain town organized a cleaning day event where community members were to be involved in collecting trash inside the town. Out of 2000 community members involved in the cleaning process, 30% were adult men. If there were twice as many adult women as adult men in the event, and the rest were children, calculate the total number of children involved in the cleaning event.",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克逊玩视频游戏花了9小时，学习的时间是玩游戏时间的三分之一。如果杰克逊的成绩从0分开始，每学习1小时成绩增加15分，那他的成绩是多少？。",
+  "topic": "回答下面的数学问题：Jackson spends 9 hours playing video games and 1/3 that much time studying. If Jackson's grade starts at 0 points and increases by 15 points for every hour he spends studying, what is his grade?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

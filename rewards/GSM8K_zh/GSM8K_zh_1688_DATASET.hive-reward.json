@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个农民雇用小型卡车将柠檬运到市场。卡车的负载不能超过900千克。一个袋子柠檬的质量为8千克。如果有100袋柠檬，还可以装多少千克到卡车上？。",
+  "topic": "回答下面的数学问题：A farmer hires small trucks to transport his lemons to the markets. The load on a truck may not be more than 900 kilograms. One bag of lemons has a mass of 8 kilograms. If there are 100 bags of lemons, how many more kilograms can still be loaded into the truck?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

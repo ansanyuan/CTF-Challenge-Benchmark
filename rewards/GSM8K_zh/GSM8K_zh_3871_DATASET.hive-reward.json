@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚历山大比泰森多买了22条运动裤。克里斯托弗买的运动裤是泰森的20倍。如果克里斯托弗买了80条运动裤，那么克里斯托弗比亚历山大多买了多少条运动裤？。",
+  "topic": "回答下面的数学问题：Alexander Bought 22 more joggers than Tyson. Christopher bought twenty times as many joggers as Tyson. If Christopher bought 80 joggers, how many more joggers does Christopher buy than Alexander?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

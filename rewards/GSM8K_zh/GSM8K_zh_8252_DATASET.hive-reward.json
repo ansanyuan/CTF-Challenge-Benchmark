@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在当地的自选水果果园，你可以自己摘桃子，每磅2美元，李子每磅1美元，杏子每磅3美元。如果温斯顿摘了6磅桃子、8磅李子和6磅杏子，他在水果上花了多少钱？。",
+  "topic": "回答下面的数学问题：At the local Pick Your Own fruit orchard, you could pick your own peaches for $2.00 per pound, plums were $1.00 per pound and apricots were $3.00 per pound.  If Winston picked 6 pounds of peaches, 8 pounds of plums and 6 pounds of apricots, how much did he spend on fruit?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

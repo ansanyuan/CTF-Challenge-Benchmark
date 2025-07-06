@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡罗琳的托儿所有6个孩子喜欢豌豆，9个孩子喜欢胡萝卜，5个孩子喜欢玉米。喜欢玉米的孩子占总孩子数的百分之多少？。",
+  "topic": "回答下面的数学问题：6 kids in Carolyn's daycare prefer peas, 9 prefer carrots, and 5 prefer corn. What percentage of the children prefer corn?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

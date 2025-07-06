@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：从小起，希拉一直梦想着环游世界。为了帮助实现她的梦想，她在去年12月买了一个大猪储钱罐并开始存钱。到上周，她已经存了3000美元。对她的进展感到满意后，她决定继续每个月存276美元，存4年。今天，希拉的家人秘密地往猪储钱罐里加了7000美元。在4年结束时，希拉的猪储钱罐里会有多少钱？。",
+  "topic": "回答下面的数学问题：Ever since she was a little girl, Sheila has dreamed of traveling the world. To help fund her dream, she bought a large piggy bank in December and started saving. By last week, she had saved $3,000. Pleased with her progress, she has decided to continue saving $276 per month, for 4 years. Today, Sheila’s family secretly added $7,000 into the piggy bank. At the end of 4 years, how much money will be in Sheila’s piggy bank?",
   "checkpoint": [
     {
-      "$\\boxed{23248}$": 1
+      "\\boxed{23248}": 1
     }
   ],
   "matchingmethod": [

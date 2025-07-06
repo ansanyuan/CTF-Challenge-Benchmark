@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lena正在制作一个拼贴画，上面有她所有最亲密的朋友的照片和关于他们兴趣爱好的报纸剪报。她为每个朋友的照片找到了三个剪报。她每张剪报需要六滴胶水。Lena已经粘好了她七个最亲密朋友的照片。她制作拼贴画的报纸剪报需要多少滴胶水？。",
+  "topic": "回答下面的数学问题：Lena is making a collage with pictures of all her closest friends and newspaper clippings that are about their interests. She has found three clippings for each friend’s pictures. It takes her six drops of glue to stick down each clipping. Lena has already glued her seven closest friends’ pictures. How many drops of glue will she need for the newspaper clippings for her collage?",
   "checkpoint": [
     {
-      "$\\boxed{126}$": 1
+      "\\boxed{126}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米尔顿有一些关于动物学的书和四倍于此数量的植物学书。如果他总共有80本书，他有多少本动物学书？。",
+  "topic": "回答下面的数学问题：Milton has some books about zoology and 4 times as many books about botany. If he has 80 books total, how many zoology books does he have?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个开发商正在购买土地。他以每英亩1863美元的价格购买了4英亩的土地。然后他将购买的土地分割成9个地块。为了只是收回成本，他应该每个地块卖多少钱？。",
+  "topic": "回答下面的数学问题：A developer was buying land. He bought 4 acres at $1,863 per acre. He then split the land he purchased into 9 lots. How much should he sell each lot for just to break even?",
   "checkpoint": [
     {
-      "$\\boxed{828}$": 1
+      "\\boxed{828}": 1
     }
   ],
   "matchingmethod": [

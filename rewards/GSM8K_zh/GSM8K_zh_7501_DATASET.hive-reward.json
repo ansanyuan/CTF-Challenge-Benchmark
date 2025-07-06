@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cynthia每晚吃一份冰淇淋。她购买的冰淇淋纸盒每盒有15份冰淇淋，每盒成本是4.00美元。60天后，她将花费多少钱在冰淇淋上？。",
+  "topic": "回答下面的数学问题：Cynthia eats one serving of ice cream every night.  She buys cartons of ice cream with 15 servings of ice cream per carton at a cost of $4.00 per carton.  After 60 days, how much will she spend on ice cream?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $\\mathcal{R}$ be the region consisting of the set of points in the coordinate plane that satisfy both $|8 - x| + y \\le 10$ and $3y - x \\ge 15$ . When $\\mathcal{R}$ is revolved around the line whose equation is $3y - x = 15$ , the volume of the resulting solid is $\\frac {m\\pi}{n\\sqrt {p}}$ , where $m$ , $n$ , and $p$ are positive integers, $m$ and $n$ are relatively prime, and $p$ is not divisible by the square of any prime. Find $m + n + p$ .",
   "checkpoint": [
     {
-      "$\\boxed{365}$": 1
+      "\\boxed{365}": 1
     }
   ],
   "matchingmethod": [

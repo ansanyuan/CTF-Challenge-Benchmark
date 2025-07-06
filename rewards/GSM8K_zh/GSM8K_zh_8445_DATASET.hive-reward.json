@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗伯特正在他的花园周围建造一道15英尺长、10英尺宽的矩形木栅栏。他每建造一英尺的栅栏就需要2块木板。他总共需要多少块木板？。",
+  "topic": "回答下面的数学问题：Robert is building a 15 foot long, 10 foot wide, rectangular wooden fence around his garden.  He needs 2 wood slats for every foot of fencing he builds.  How many wooden slats will he need?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

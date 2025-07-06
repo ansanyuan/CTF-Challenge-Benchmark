@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨布丽娜正在收集草药为她的祖母制作药膏。她需要的罗勒叶数量是鼠尾草叶数量的两倍，比马鞭草叶数量少5片。如果她需要12片罗勒叶，她总共需要多少片叶子？。",
+  "topic": "回答下面的数学问题：Sabrina is collecting herbs to make a poultice for her grandmother. She needs twice as many basil leaves as sage leaves and 5 fewer sage leaves than verbena leaves. If she needs 12 basil leaves, how many leaves total does she need?",
   "checkpoint": [
     {
-      "$\\boxed{29}$": 1
+      "\\boxed{29}": 1
     }
   ],
   "matchingmethod": [

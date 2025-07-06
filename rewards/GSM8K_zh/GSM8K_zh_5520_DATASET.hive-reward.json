@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了班级筹款，要求30名学生每人带来12块布朗尼。要求20名学生每人带来24块饼干，15名学生每人带来12个甜甜圈。如果他们每样东西卖2.00美元，他们能筹集多少钱？。",
+  "topic": "回答下面的数学问题：For a class fundraiser, 30 students were asked to bring in 12 brownies each.  20 students were asked to bring in 24 cookies each and 15 students were asked to bring in 12 donuts each.  If they sell everything for $2.00 each, how much money will they raise?",
   "checkpoint": [
     {
-      "$\\boxed{2040}$": 1
+      "\\boxed{2040}": 1
     }
   ],
   "matchingmethod": [

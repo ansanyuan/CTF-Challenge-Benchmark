@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个摩天轮可以在20分钟内容纳70人。如果摩天轮从下午1:00开放到下午7:00，将有多少人可以乘坐？。",
+  "topic": "回答下面的数学问题：A Ferris wheel can accommodate 70 people in 20 minutes.  If the Ferris wheel is open from 1:00 pm until 7:00 pm, how many people will get to ride?",
   "checkpoint": [
     {
-      "$\\boxed{1260}$": 1
+      "\\boxed{1260}": 1
     }
   ],
   "matchingmethod": [

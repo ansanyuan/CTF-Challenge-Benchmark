@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Haley，Michael和Brandon正在尝试一个棉花糖挑战，看看谁能在嘴里装更多的棉花糖。Haley能在嘴里装8个棉花糖。Michael能装的棉花糖数量是Haley的3倍。Brandon能装的棉花糖数量是Michael的一半。这三个孩子总共在嘴里装了多少个棉花糖？。",
+  "topic": "回答下面的数学问题：Haley, Michael and Brandon were trying a marshmallow challenge to see who could hold more marshmallows in their mouths. Haley could hold 8 marshmallows in her mouth. Michael could hold 3 times as many marshmallows as Haley. Brandon could hold half as many as Michael. How many total marshmallows did all three kids hold in their mouths?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

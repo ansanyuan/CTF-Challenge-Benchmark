@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Robyn每天发送16封电子邮件。其中7封是工作邮件，剩余的三分之二是发送给家人的。其他邮件中有三分之一是发送给她的男朋友的。她每天发送给男朋友的邮件有多少封？。",
+  "topic": "回答下面的数学问题：Robyn sends sixteen emails a day. Seven are work emails, and two-thirds of the remainder are to family. One-third of the other emails are to her boyfriend. How many emails a day does she send to her boyfriend?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

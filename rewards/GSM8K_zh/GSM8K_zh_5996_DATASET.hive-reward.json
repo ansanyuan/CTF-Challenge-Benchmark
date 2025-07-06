@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽有300只羊，鲍勃的羊的数量是玛丽的两倍再加35只。玛丽必须购买多少只羊才能比鲍勃少69只羊？。",
+  "topic": "回答下面的数学问题：Mary has 300 sheep and Bob has double the number of sheep as Mary plus another 35. How many sheep must Mary buy to have 69 fewer sheep than Bob?",
   "checkpoint": [
     {
-      "$\\boxed{266}$": 1
+      "\\boxed{266}": 1
     }
   ],
   "matchingmethod": [

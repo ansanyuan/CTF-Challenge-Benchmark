@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一场比赛中，萨曼塔比马克多8分，而马克比埃里克多50%的分数。埃里克有6分。萨曼塔、马克和埃里克总共有多少分？。",
+  "topic": "回答下面的数学问题：In a game, Samanta has 8 more points than Mark, and Mark has 50% more points than Eric. Eric has 6 points. How many points do Samanta, Mark, and Eric have in total?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

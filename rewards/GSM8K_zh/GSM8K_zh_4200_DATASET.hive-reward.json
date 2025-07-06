@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍正在存钱买自行车。她有5个装满25美分的罐子。每个罐子可以装160个25美分的硬币。如果自行车的价格是180美元，买完自行车后她还剩多少钱？。",
+  "topic": "回答下面的数学问题：Jenn is saving up money to buy a bike. She has 5 jars full of quarters. Each jar can hold 160 quarters. If the bike costs 180 dollars, how much money will she have left over after buying it?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

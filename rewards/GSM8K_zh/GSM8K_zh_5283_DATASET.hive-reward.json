@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：威利从欧洲回来带了70欧元。通常5欧元等于1美元，但是机场的货币兑换只会给威利官方汇率的5/7。威利得到了多少美元？。",
+  "topic": "回答下面的数学问题：Willie came back from Europe with 70 euros. Normally 5 euros is worth 1 dollar, but the money exchange at the airport will only give Willie 5/7ths of the official exchange rate. How many dollars does Willie get?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一半磅芒果的价格是0.60美元。凯利用12美元可以买多少磅的芒果？。",
+  "topic": "回答下面的数学问题：One-half of a pound of mangoes costs $0.60. How many pounds can Kelly buy with $12?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

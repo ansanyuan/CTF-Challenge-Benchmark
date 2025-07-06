@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Laurel的朋友给了她24套她孩子不再需要的婴儿服装。在她的婴儿洗礼上，Laurel收到了两倍数量的新婴儿服装。然后，Laurel的妈妈又送给她15套婴儿服装。她总共有多少套婴儿服装？。",
+  "topic": "回答下面的数学问题：Laurel's friend gave her 24 baby outfits that her child no longer needed.  At her baby shower, Laurel received twice the amount of new baby outfits.  Then, Laurel's mom gifted her with another 15 baby outfits.  How many outfits does she have for her baby?",
   "checkpoint": [
     {
-      "$\\boxed{87}$": 1
+      "\\boxed{87}": 1
     }
   ],
   "matchingmethod": [

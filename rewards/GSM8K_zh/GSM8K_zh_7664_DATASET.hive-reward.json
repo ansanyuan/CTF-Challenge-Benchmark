@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰收集桃子3小时。他每分钟可以收集2个桃子。他收集了多少个桃子？。",
+  "topic": "回答下面的数学问题：John collects peaches for 3 hours.  He can collect 2 peaches a minute.  How many peaches does he collect?",
   "checkpoint": [
     {
-      "$\\boxed{360}$": 1
+      "\\boxed{360}": 1
     }
   ],
   "matchingmethod": [

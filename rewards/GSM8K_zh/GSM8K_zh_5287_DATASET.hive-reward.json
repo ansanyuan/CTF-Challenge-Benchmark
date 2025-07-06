@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位花店老板出售了75朵水仙花和90朵菊花。使用所有的花，他可以制作多少束，每束包含5朵花？。",
+  "topic": "回答下面的数学问题：A florist offers for sale 75 narcissus flowers and 90 chrysanthemums. Using all the flowers, how many bouquets containing 5 flowers each can he make?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

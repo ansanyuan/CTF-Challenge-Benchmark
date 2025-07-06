@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格雷塔和塞琳达正在烤饼干。格雷塔烤了30块饼干，塞琳达烤的是格雷塔的两倍。如果这对搭档在饼干冷却时吃掉了10块，并把剩下的放进了一个盒子里，盒子里有多少块饼干？。",
+  "topic": "回答下面的数学问题：Greta and Celinda are baking cookies. Greta bakes 30 cookies and Celinda bakes twice as many. If the pair eat 10 of the cookies while they are cooling and put the rest in a box, how many cookies are there in the box?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

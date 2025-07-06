@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：转学到新学校后，Amy比Lily多交了20个朋友。如果Lily交了50个朋友，那么Lily和Amy一共有多少个朋友？。",
+  "topic": "回答下面的数学问题：After transferring to a new school, Amy made 20 more friends than Lily. If Lily made 50 friends, how many friends do Lily and Amy have together?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

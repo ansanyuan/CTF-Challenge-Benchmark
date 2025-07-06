@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：今天是我的生日，我现在的年龄是六年前的三倍。我的年龄是多少？。",
+  "topic": "回答下面的数学问题：Today is my birthday and I'm three times older than I was six years ago. What is my age?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

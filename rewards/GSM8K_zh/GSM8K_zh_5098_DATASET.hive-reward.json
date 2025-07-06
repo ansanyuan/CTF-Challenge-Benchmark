@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：琼收集石头。在她的石头样本收藏中，昨天她的宝石数量是矿物数量的一半。今天，她去了一次石头收集之旅，并找到了6个矿物样本。如果她现在有48个矿物，她有多少宝石样本？。",
+  "topic": "回答下面的数学问题：Joan collects rocks. In her collection of rock samples, she had half as many gemstones as minerals yesterday. Today, she went on a rock collecting trip and found 6 more mineral samples. If she has 48 minerals now, how many gemstone samples does she have?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

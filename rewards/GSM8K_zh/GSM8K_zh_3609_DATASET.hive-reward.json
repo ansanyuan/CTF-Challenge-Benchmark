@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个咖啡馆有一些订单需要烹饪，还需要为一群到达的顾客制作三明治。3个当地办公室各自订购了10份培根三明治，而到达的一半顾客每人要求4份培根三明治。如果咖啡馆总共制作了54份培根三明治，到达的顾客群中有多少人？。",
+  "topic": "回答下面的数学问题：A café has a few orders to cook and also needs to makes sandwiches for a group of customers that arrived. 3 local offices have each ordered 10 bacon sandwiches and half of the group that has arrived have asked for 4 bacon sandwiches each. If the café makes a total of 54 bacon sandwiches, how many customers are in the group of customers that arrived?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

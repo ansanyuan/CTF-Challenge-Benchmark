@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：本有4管蓝色颜料和3管黄色颜料。贾斯珀的蓝色颜料管数是本的一半，黄色颜料管数是本的三倍。贾斯珀总共有多少管颜料？。",
+  "topic": "回答下面的数学问题：Ben has 4 tubes of blue paint and 3 tubes of yellow paint. Jasper has half as many tubes of blue paint as Ben, and three times as many tubes of yellow paint as Ben. How many tubes of paint does Jasper have?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cheryl生气了，决定离家出走。她每小时走2英里，走了3个小时。然后她想家了，又走回家。Cheryl总共走了多少英里？。",
+  "topic": "回答下面的数学问题：Cheryl got angry with her sister and decided to run away from home. She walked 2 miles every hour for 3 hours. Then she got homesick and walked back home. How many miles did Cheryl walk in total?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

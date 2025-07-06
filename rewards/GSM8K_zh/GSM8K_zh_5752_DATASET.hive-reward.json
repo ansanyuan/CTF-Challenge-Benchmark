@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡罗尔每周固定津贴是20美元。如果她做额外的家务，她每周还能赚1.5美元。在10周结束时，她有425美元。她平均每周做了多少额外的家务？。",
+  "topic": "回答下面的数学问题：Carol gets a fixed $20 allowance each week. She can also earn $1.5 more dollars each week if she does extra chores. At the end of 10 weeks, she has 425 dollars. How many extra chores did she average each week?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

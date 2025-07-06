@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个糖果店在各种糖果中使用食用色素。每个棒棒糖需要5毫升的食用色素，每颗硬糖也需要食用色素。一天，糖果店制作了100个棒棒糖和5颗硬糖。他们在其他任何东西上都没有使用食用色素。到了一天结束，糖果店使用了600毫升的食用色素。每颗硬糖需要多少毫升的食用色素？。",
+  "topic": "回答下面的数学问题：A candy store uses food colouring in various candies. Each lollipop uses 5ml of food colouring, and each hard candy also needs food colouring. In one day, the candy store makes 100 lollipops and 5 hard candies. They do not use food colouring in anything else. The store has used 600ml of food colouring by the end of the day. How much food colouring, in millilitres, does each hard candy need?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

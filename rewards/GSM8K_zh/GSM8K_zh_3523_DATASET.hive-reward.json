@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：维多利亚和山姆为度假花销存了钱。维多利亚比山姆少存了100美元。如果山姆存了1000美元，那么度假花销的总存款是多少？。",
+  "topic": "回答下面的数学问题：Victory and Sam have saved money for their holiday spending. Victory saves $100 less than Sam. If Sam saves $1000, how much is the total money saved for holiday spending?",
   "checkpoint": [
     {
-      "$\\boxed{1900}$": 1
+      "\\boxed{1900}": 1
     }
   ],
   "matchingmethod": [

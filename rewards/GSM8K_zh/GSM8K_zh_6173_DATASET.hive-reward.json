@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉米有18张卡片。吉米给了鲍勃3张卡片。如果吉米给了玛丽的卡片是他给鲍勃的两倍，吉米剩下多少张卡片？。",
+  "topic": "回答下面的数学问题：Jimmy has 18 cards. Jimmy gives three cards to Bob. If Jimmy gives Mary twice as many cards as he gave to Bob, how many cards does Jimmy have left?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

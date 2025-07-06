@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hortex公司生产瓶装胡萝卜汁。它每天可以生产4200瓶这种汁。每瓶汁可以满足一个人每日能量需求的20%。Hortex需要生产多少瓶汁才能满足2300人每日100%的能量需求？。",
+  "topic": "回答下面的数学问题：The Hortex company produces bottled carrot juices. Every day it can produce 4200 bottles of these juices. Each juice can cover 20% of 1 person'ts daily energy demand. How many more bottles of juices would Hortex have to produce to be able to satisfy 100% of the daily energy needs of 2300 people?",
   "checkpoint": [
     {
-      "$\\boxed{7300}$": 1
+      "\\boxed{7300}": 1
     }
   ],
   "matchingmethod": [

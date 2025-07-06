@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特做了50个雪球，她的弟弟做了150个雪球。珍妮特做了多少百分比的雪球？。",
+  "topic": "回答下面的数学问题：Janet makes 50 snowballs and her brother makes 150 snowballs. What percentage of the snowballs did Janet make?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

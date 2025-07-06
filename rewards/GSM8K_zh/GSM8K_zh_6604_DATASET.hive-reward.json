@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有8个人可以在飞机上一排坐下，共有12排。每排只允许坐3/4的座位。这架飞机上将有多少个座位不被占用？。",
+  "topic": "回答下面的数学问题：Eight people fit in a row on an airplane, and there are 12 rows. Only 3/4 of the seats in each row are allowed to be seated. How many seats will not be occupied on that plane?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

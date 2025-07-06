@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sarah正在玩井字棋。她赢得每场比赛1美元，打平则不赢不输，而每场输掉2美元。如果她玩了100场比赛，打平了40场，输了30美元，她赢了多少场比赛？。",
+  "topic": "回答下面的数学问题：Sarah is playing tic-tac-toe. She wins $1 for every game she wins, $0 for every game she ties, and she loses $2 for every game she loses. If she played 100 games where she tied 40 of them, and she lost $30, how many games did she win?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

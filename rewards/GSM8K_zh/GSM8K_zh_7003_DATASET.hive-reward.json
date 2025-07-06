@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每年感恩节，丽兹烤两只16磅的火鸡。由于她的烤箱很小，她一次只能烤一只火鸡。她每磅火鸡烤15分钟。如果晚餐在下午6点供应，她最迟可以什么时候开始烤火鸡？。",
+  "topic": "回答下面的数学问题：Liz roasts 2 16 pounds turkeys every Thanksgiving.  She can only roast them 1 at a time because she has a small oven.  She roasts each turkey for 15 minutes per pound.  If dinner is served at 6:00 pm what is the latest time she can start roasting the turkeys?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

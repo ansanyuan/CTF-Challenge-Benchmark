@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布拉德的邮政编码由五个数字组成，这些数字相加等于10。第一个和第二个数字相同。第三个数字是零。第四个数字是第一个数字的两倍。第四个和第五个数字相加等于8。布拉德的邮政编码是多少？。",
+  "topic": "回答下面的数学问题：Brad’s zip code consists of five numbers that add up to 10. The first and second numbers are the same. The third number is zero. The fourth number is double the first number. The fourth and fifth numbers add up to 8. What is Brad’s zip code?",
   "checkpoint": [
     {
-      "$\\boxed{11026}$": 1
+      "\\boxed{11026}": 1
     }
   ],
   "matchingmethod": [

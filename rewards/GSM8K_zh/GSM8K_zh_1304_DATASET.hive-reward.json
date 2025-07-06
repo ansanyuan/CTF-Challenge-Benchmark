@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Terry在星期一花了6美元吃早餐，星期二花了两倍的钱，星期三花了前两天花费的两倍。Terry总共花了多少钱？。",
+  "topic": "回答下面的数学问题：Terry spent 6$ for breakfast on Monday, twice as much on Tuesday, and on Wednesday Terry spent double what he did the previous two days combined.  How much did Terry spend total?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

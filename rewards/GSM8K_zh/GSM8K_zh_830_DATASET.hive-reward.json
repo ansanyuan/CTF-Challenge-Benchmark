@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮想要玩摩天轮、过山车和碰碰车。摩天轮需要5张票，过山车需要4张票，碰碰车需要4张票。珍妮有5张票。她还需要买多少张票？。",
+  "topic": "回答下面的数学问题：Jeanne wants to ride the Ferris wheel, the roller coaster, and the bumper cars. The Ferris wheel costs 5 tickets, the roller coaster costs 4 tickets and the bumper cars cost 4 tickets. Jeanne has 5 tickets. How many more tickets should Jeanne buy?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

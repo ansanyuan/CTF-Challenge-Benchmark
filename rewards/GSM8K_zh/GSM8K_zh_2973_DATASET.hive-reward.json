@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰买了一把椅子。然后他买了一张价格是椅子价格的3倍的桌子。然后，他买了一张价格是桌子价格的5倍的沙发。如果约翰为所有这些物品支付了380美元，沙发的价格是多少？。",
+  "topic": "回答下面的数学问题：John buys a chair. He then buys a table that is 3 times the price of the chair. Then, he buys a couch that is 5 times the price of the table. If John paid $380 for all these items, what is the price of the couch?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

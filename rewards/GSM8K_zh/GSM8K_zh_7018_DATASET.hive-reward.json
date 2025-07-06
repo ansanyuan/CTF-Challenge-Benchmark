@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥克林夫人以每件40美元的价格购买手工制作的地毯，然后以每件60美元的价格出售。如果她购买了20条地毯，请计算她从出售地毯中将获得的利润。。",
+  "topic": "回答下面的数学问题：Mrs. Oaklyn buys handmade rugs at $40 each and sells them at $60 each. If she bought 20 rugs, calculate the profit she will make from selling the rugs.",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

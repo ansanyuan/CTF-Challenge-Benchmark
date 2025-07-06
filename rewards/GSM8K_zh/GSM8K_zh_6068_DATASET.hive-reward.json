@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔有36只宠物。25%是狗，50%是猫，其余是兔子。他有多少只兔子？。",
+  "topic": "回答下面的数学问题：Michael has 36 pets. 25% of them are dogs, 50% are cats, and the rest are bunnies. How many bunnies does he have?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

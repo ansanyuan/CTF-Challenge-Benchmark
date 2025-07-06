@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：辛迪有500颗弹珠，她给了她的四个朋友每人80颗弹珠。她剩下的弹珠数量的四倍是多少？。",
+  "topic": "回答下面的数学问题：Out of the 500 marbles that Cindy had, she gave her four friends 80 marbles each. What's four times the number of marbles she has remaining?",
   "checkpoint": [
     {
-      "$\\boxed{720}$": 1
+      "\\boxed{720}": 1
     }
   ],
   "matchingmethod": [

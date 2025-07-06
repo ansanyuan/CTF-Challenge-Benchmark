@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰本来要执行一个需要5天的任务。实际上，花费的时间比预期的长60%。然后他又进行了第二个任务，花了3天。他一共执行任务花了多长时间？。",
+  "topic": "回答下面的数学问题：John went on a mission that was supposed to take 5 days.  Instead it took 60% longer.  He then had to go on a second mission which took 3 days.  How long was he on missions?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

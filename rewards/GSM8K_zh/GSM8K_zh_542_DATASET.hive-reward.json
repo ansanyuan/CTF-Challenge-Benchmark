@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tonya正在为她的姐妹们买圣诞礼物。她有2个姐妹，并希望每个人花费的金额完全相同。她给她的妹妹买了4个每个15美元的娃娃。她计划给她的姐姐买乐高套装。每个套装的价格是20美元。她买了多少个乐高套装？。",
+  "topic": "回答下面的数学问题：Tonya is buying Christmas gifts for her sisters. She has 2 sisters and wants to spend the exact same amount on each. She buys her younger sister 4 dolls that cost $15 each. She plans to buy lego sets for her older sister. They cost $20 each. How many lego sets does she buy?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

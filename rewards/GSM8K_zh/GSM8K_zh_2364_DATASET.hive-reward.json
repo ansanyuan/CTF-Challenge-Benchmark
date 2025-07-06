@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在某个岛上，蜈蚣的数量是人类的两倍，羊的数量是人类的一半。如果蜈蚣的数量是100，那么岛上一共有多少只羊和人类？。",
+  "topic": "回答下面的数学问题：There are twice as many centipedes as humans on a certain island and half as many sheep as humans. How many sheep and humans in total are on the island if the number of centipedes is 100?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

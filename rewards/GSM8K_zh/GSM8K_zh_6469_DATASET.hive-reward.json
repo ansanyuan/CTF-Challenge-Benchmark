@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alan在网上买了一部2000美元的手机。约翰在当地商店买的价格比他贵2%。约翰在手机上花了多少钱？。",
+  "topic": "回答下面的数学问题：Alan bought a $2000 phone online. John bought it 2% more expensive in a local store. How much did John spend on his phone?",
   "checkpoint": [
     {
-      "$\\boxed{2040}$": 1
+      "\\boxed{2040}": 1
     }
   ],
   "matchingmethod": [

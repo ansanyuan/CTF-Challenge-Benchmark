@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在西奥的咖啡馆，他做了3个鸡蛋和4个鸡蛋煎蛋卷。他的咖啡馆从早上7点到上午11点营业。在第一个小时，有5位顾客点了3个鸡蛋煎蛋卷。在第二个小时，有7位顾客点了4个鸡蛋煎蛋卷。在第三个小时，有3位顾客点了3个鸡蛋煎蛋卷。在最后一个小时，有8位顾客点了4个鸡蛋煎蛋卷。西奥需要多少鸡蛋来制作所有的煎蛋卷？。",
+  "topic": "回答下面的数学问题：At Theo’s cafe, he makes 3 egg and 4 egg omelettes.  His cafe is open from 7:00 a.m. to 11:00 a.m.  In the first hour, 5 customers order the 3 egg omelettes.  In the second hour, 7 customers order the 4 egg omelettes.  In the third hour, 3 customers order the 3 egg omelettes. In the last hour, 8 customers order the 4 egg omelettes.  How many eggs does Theo need to make all the omelettes?",
   "checkpoint": [
     {
-      "$\\boxed{84}$": 1
+      "\\boxed{84}": 1
     }
   ],
   "matchingmethod": [

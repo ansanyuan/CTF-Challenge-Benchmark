@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Zain比Emerie多10个硬币。如果Emerie有六个25美分的硬币，七个10美分的硬币和五个5美分的硬币，Zain有多少个硬币？。",
+  "topic": "回答下面的数学问题：Zain has 10 more of each coin than Emerie. If Emerie has six quarters, seven dimes, and five nickels, how many coins does Zain have?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克逊正在为他的三年级班级购买学习用品，班上有30名学生。每个学生需要5支钢笔，3本笔记本，1个活页夹和2个荧光笔。钢笔的价格是0.50美元，笔记本的价格是1.25美元，活页夹的价格是4.25美元，荧光笔的价格是0.75美元。如果杰克逊获得了100美元的教师折扣，他一共花了多少钱买学习用品？。",
+  "topic": "回答下面的数学问题：Jackson is buying school supplies for his third grade class, which has 30 students. Each student needs 5 pens, 3 notebooks, 1 binder and 2 highlighters. Pens cost $0.50, notebooks cost $1.25, binders cost $4.25, and highlighters cost $0.75. If Jackson gets a $100 teacher discount, how much does he spend on school supplies?",
   "checkpoint": [
     {
-      "$\\boxed{260}$": 1
+      "\\boxed{260}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰里米昨天比今天少听了五首歌。昨天他听了九首歌。杰里米两天一共听了多少首歌？。",
+  "topic": "回答下面的数学问题：Jeremy listened to five fewer songs yesterday than today. Yesterday, he listened to nine songs. How many songs did Jeremy listen to in two days?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

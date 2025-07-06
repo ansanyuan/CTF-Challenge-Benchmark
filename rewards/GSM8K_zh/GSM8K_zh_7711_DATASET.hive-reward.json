@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Johnny拿了他20美元的零花钱，并额外增加了10美元。然后他投资了这笔钱，一年后增长了三倍。一年后他有多少钱？。",
+  "topic": "回答下面的数学问题：Johnny took his allowance of $20 and added an extra $10 to it.  He then invested this sum of money, which tripled in a year.  How much money did he have after a year?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

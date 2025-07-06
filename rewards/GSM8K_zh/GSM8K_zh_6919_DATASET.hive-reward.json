@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jennifer的男朋友留了5条有关杂货购物的短信，5倍的短信询问为什么她没有回复，以及等于他之前发送的所有短信数量的10%的短信说他要报警。他总共发送了多少条短信？。",
+  "topic": "回答下面的数学问题：Jennifer's boyfriend left 5 texts about the grocery shopping, 5 times more texts asking why she wasn't responding, and a number of texts equal to 10% of all the texts he sent previously saying he was calling the police. How many texts did he send total?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

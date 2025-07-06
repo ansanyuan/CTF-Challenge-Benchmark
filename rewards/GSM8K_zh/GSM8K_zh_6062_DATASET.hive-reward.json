@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔希有85颗弹珠。蓝色弹珠的数量是红色弹珠数量的三倍，其余的是黄色弹珠。如果有14颗红色弹珠，那么有多少颗黄色弹珠？。",
+  "topic": "回答下面的数学问题：Josh has 85 marbles. There are three times as many blue marbles as red while the rest are yellow. If there are 14 red marbles, how many yellow marbles are there?",
   "checkpoint": [
     {
-      "$\\boxed{29}$": 1
+      "\\boxed{29}": 1
     }
   ],
   "matchingmethod": [

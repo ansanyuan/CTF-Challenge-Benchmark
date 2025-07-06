@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一架小型飞机的头等舱可以容纳10人，商务舱可以容纳30人，经济舱可以容纳50人。如果经济舱的座位有一半是空的，而商务舱和头等舱的人数加起来与经济舱相同，如果飞机上只有三个人坐头等舱，商务舱有多少个座位是空着的？。",
+  "topic": "回答下面的数学问题：A small airplane can seat 10 people in first class, 30 in business class, and 50 in economy class seating. If economy class is half full, and business class and first class have the same number of people together as economy class, how many seats are unoccupied in business class if only three people on the flight have first class seats?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

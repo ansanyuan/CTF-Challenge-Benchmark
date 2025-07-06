@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个俱乐部开放并收取20美元入场费。詹姆斯为他的5个朋友买了2轮饮料。他还为自己买了6杯饮料。饮料每杯6美元。他决定吃点食物，所以点了一些炸鸡，价格为14美元。他对他所点的一切都留下了30%的小费。他这一晚花了多少钱？。",
+  "topic": "回答下面的数学问题：A club opens up and charges $20 to enter.  James buys 2 rounds for his 5 friends.  He also buys 6 drinks for himself. Drinks cost $6 each.  He decides to eat some food so he orders some fried chicken which costs $14.  He leaves a 30% tip on everything he orders.  How much did he spend for the night?",
   "checkpoint": [
     {
-      "$\\boxed{163}$": 1
+      "\\boxed{163}": 1
     }
   ],
   "matchingmethod": [

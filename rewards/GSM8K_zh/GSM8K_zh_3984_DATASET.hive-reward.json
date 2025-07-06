@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗伯塔想要举办以舒芙蕾为中心的晚宴。每个咸口味的舒芙蕾需要8个鸡蛋，而甜点口味的舒芙蕾需要6个鸡蛋。她想要为晚宴做3个咸口味的舒芙蕾和5个甜点口味的舒芙蕾。她将需要多少个鸡蛋？。",
+  "topic": "回答下面的数学问题：Roberta wants to have a dinner party centered around soufflés.  Each savory souffle calls for 8 eggs each and the dessert ones call for 6 eggs each.  She wants to make 3 savory soufflés and 5 dessert soufflés for the party.  How many eggs will she need?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

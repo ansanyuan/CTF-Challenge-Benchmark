@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛乔丽是一名面包师。每天，她做的蛋糕数量是前一天的两倍。到了第六天，她做了320个蛋糕。玛乔丽第一天做了多少个蛋糕？。",
+  "topic": "回答下面的数学问题：Marjorie works as a baker. Every day, she makes twice as many cakes as she did the day before. On the sixth day, she makes 320 cakes. How many cakes did Marjorie make on the first day?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

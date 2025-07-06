@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个百货商店为顾客的总费用超过100美元的部分提供10%的折扣。雅各购买了一双价值74美元的鞋子；两双每双2美元的袜子；一只价值42美元的包。雅各将为这些物品支付多少钱？。",
+  "topic": "回答下面的数学问题：A department store offers a 10% discount for the amount exceeding $100 of the customer's total charge. Jaco bought a pair of shoes for $74; 2 pairs of socks that cost $2 per pair; a bag that costs $42. How much will Jaco pay for those items?",
   "checkpoint": [
     {
-      "$\\boxed{118}$": 1
+      "\\boxed{118}": 1
     }
   ],
   "matchingmethod": [

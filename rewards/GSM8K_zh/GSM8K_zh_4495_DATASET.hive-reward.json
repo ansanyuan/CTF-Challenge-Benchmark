@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Thomas在将近两年前开始为一辆车存钱。在第一年，他的每周零用钱是50美元。在第二年，他在一家咖啡店找到了一份每小时支付9美元的工作，每周工作30小时，所以他的父母停止了给他零用钱。如果他想买的车价值15000美元，他每周花费35美元，那么Thomas在两年结束时还需要多少钱才能买到这辆车？。",
+  "topic": "回答下面的数学问题：Thomas started saving for a car almost 2 years ago. For the first year, his weekly allowance was $50. In the second year, he got a job that pays $9 an hour at a coffee shop and worked 30 hours a week, so his parents discontinued his allowance. If the car he wants to buy is $15,000 and he spends $35 a week on himself, how much more money does Thomas need to buy the car by the end of the 2 years?",
   "checkpoint": [
     {
-      "$\\boxed{2000}$": 1
+      "\\boxed{2000}": 1
     }
   ],
   "matchingmethod": [

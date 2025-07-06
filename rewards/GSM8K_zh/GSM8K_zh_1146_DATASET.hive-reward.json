@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：达利亚想去看她最喜欢的乐队的演唱会。她想为自己和她的三个朋友买票。一张票的价格是90美元。如果她目前只有189美元，那么达利亚需要赚多少钱？。",
+  "topic": "回答下面的数学问题：Daria wants to go to a concert by her favorite band. She wants to buy tickets for her and for three of her friends. One ticket cost is $90. How much money does Daria need to earn if she currently has only $189?",
   "checkpoint": [
     {
-      "$\\boxed{171}$": 1
+      "\\boxed{171}": 1
     }
   ],
   "matchingmethod": [

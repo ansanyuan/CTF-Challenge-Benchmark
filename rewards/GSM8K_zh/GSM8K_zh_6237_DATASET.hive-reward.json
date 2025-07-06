@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿比盖尔明天要交一份1000字的报告。阿比盖尔可以在半小时内打300字。如果她已经写了200字，她还需要多少分钟才能完成报告？。",
+  "topic": "回答下面的数学问题：Abigail has a report due tomorrow which needs to be 1000 words in length. Abigail can type 300 words in half an hour. If she has already written 200 words, how many more minutes will it take her to finish the report?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gunner有一盒手套，比一盒插头少20对。他决定往插头盒里再加30对插头。如果手套盒里有150对手套，那么插头有多少对？。",
+  "topic": "回答下面的数学问题：Gunner has a box of mittens with 20 fewer pairs than a box of plugs. He decides to put 30 more pairs of plugs into the box of plugs. If the box of mittens has 150 pairs of mittens, how many plugs are there?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

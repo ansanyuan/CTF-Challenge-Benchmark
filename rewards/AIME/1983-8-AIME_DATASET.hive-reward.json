@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：What is the largest $2$ -digit prime factor of the integer $n = {200\\choose 100}$ ?",
   "checkpoint": [
     {
-      "$\\boxed{61}$": 1
+      "\\boxed{61}": 1
     }
   ],
   "matchingmethod": [

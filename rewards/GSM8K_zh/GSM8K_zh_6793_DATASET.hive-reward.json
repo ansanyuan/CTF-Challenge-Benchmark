@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一月份，比尔的拉布拉多犬幼犬体重40磅，他的达克斯猎犬幼犬体重12磅。每只狗在一年内体重增加了它们初始体重的25%。一年后它们的体重差是多少？。",
+  "topic": "回答下面的数学问题：In January, Bill's labrador puppy weighs 40 pounds and his dachshund puppy weighs 12 pounds. Each dog gains 25% of their starting weight over the year. What's the difference in their weight at the end of the year?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：雨果的山的海拔高度为海平面以上10,000英尺。鲍里斯的山的海拔高度比雨果的山低2,500英尺。如果雨果爬了他的山3次，鲍里斯需要爬他的山多少次才能爬了与雨果相同的英尺数？。",
+  "topic": "回答下面的数学问题：Hugo's mountain has an elevation of 10,000 feet above sea level.  Boris' mountain has an elevation that is 2,500 feet shorter than  Hugo's mountain.  If Hugo climbed his mountain 3 times, how many times would Boris need to climb his mountain to have climbed the same number of feet as Hugo?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：黛西和罗斯在后院的游泳池里和她们的狗一起玩。如果游泳池里有24条腿/爪子，那么黛西和罗斯有多少只狗？。",
+  "topic": "回答下面的数学问题：Daisy and Rose were enjoying their backyard pool with their dogs.  If there are 24 legs/paws in the pool, how many dogs do Daisy and Rose have?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

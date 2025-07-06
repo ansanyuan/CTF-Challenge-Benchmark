@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：上一次鲍勃剪头发时，他把头发剪成了6英寸。他的头发现在长到了36英寸。如果头发的生长速度为每个月0.5英寸，他需要多少年才能让头发长出来？。",
+  "topic": "回答下面的数学问题：The last time Bob cut his hair he cut it to 6 inches.  His hair is now 36 inches long.  If hair grows at a rate of .5 inches per month how many years did it take him to grow out his hair?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

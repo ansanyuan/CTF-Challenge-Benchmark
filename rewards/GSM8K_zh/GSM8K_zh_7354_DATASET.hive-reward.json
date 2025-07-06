@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jay去看一个1小时20分钟的音乐会。如果有一个10分钟的中场休息，所有的歌曲都是5分钟，只有一首歌持续了10分钟，那么她唱了多少首歌？。",
+  "topic": "回答下面的数学问题：Jay went to watch a singer in a one hour 20 minutes concert.  If there was a 10-minute intermission, and all the songs were 5 minutes except for one song that lasted 10 minutes, how many songs did she sing?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

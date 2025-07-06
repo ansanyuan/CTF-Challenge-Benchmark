@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Brittany每隔一天用1/4盎司的洗发水洗头。她购买的洗发水是14盎司一瓶。她需要多少瓶洗发水才能度过一个闰年？。",
+  "topic": "回答下面的数学问题：Brittany uses 1/4 ounce of shampoo to wash her hair every other day. She buys shampoo in 14-ounce bottles. How many bottles does she need to get her through a leap year?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

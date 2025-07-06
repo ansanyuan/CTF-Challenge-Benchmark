@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个建筑工地上，一名泥瓦匠需要建造6层墙，每层墙有10块砖。他需要建造4堵这样的墙，但意识到最后一堵墙的两层墙他无法完成，因为没有足够的砖。他一共使用了多少块砖？。",
+  "topic": "回答下面的数学问题：On a construction site, a mason has to build 6 courses of a wall, each having 10 bricks per course. He has to build 4 such walls and realized he won't be able to finish two courses of the last wall because there were not enough bricks. What's the total number of bricks that he has used?",
   "checkpoint": [
     {
-      "$\\boxed{220}$": 1
+      "\\boxed{220}": 1
     }
   ],
   "matchingmethod": [

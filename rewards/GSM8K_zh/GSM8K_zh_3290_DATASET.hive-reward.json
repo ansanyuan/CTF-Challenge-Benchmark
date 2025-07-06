@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：琳达正在建造一个有两个翼的新酒店。第一翼有9层，每层有6个走廊，每个走廊有32间客房。第二翼有7层，每层有9个走廊，每个走廊有40间客房。酒店总共有多少间客房？。",
+  "topic": "回答下面的数学问题：Linda is building a new hotel with two wings. The first wing has 9 floors and each floor has 6 halls each with 32 rooms. The second wing has 7 floors each with 9 halls with 40 rooms each. How many rooms are in the hotel total?",
   "checkpoint": [
     {
-      "$\\boxed{4248}$": 1
+      "\\boxed{4248}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：多萝西从工作中赚取每年60000美元。她需要支付这个金额的18%作为税金。她支付税金后还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Dorothy earns $60000 a year from her work. She needs to pay 18% of this amount in taxes. How much money will she have left after she pays the taxes?",
   "checkpoint": [
     {
-      "$\\boxed{49200}$": 1
+      "\\boxed{49200}": 1
     }
   ],
   "matchingmethod": [

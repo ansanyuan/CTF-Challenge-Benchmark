@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：李想向西耶拉求婚。他想遵循“你应该花两个月的工资买戒指”的格言。他的年薪为60000美元，每月可以存1000美元。在他向西耶拉求婚之前需要多长时间？。",
+  "topic": "回答下面的数学问题：Lee wants to propose marriage to Sierra. He wants to follow the adage that you should spend two months' salary on the ring. He earns $60,000 per year in salary and can save $1000 per month. How long will it take before he can propose to Sierra?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

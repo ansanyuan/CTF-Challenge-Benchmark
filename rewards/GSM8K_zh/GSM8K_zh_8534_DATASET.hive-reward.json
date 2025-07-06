@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝基、杰克和西尔维亚共享了4个披萨。每个披萨有8片。贝基吃的比杰克多3片。西尔维亚吃的是杰克的两倍。如果贝基吃了10片，他们总共吃了多少片？。",
+  "topic": "回答下面的数学问题：Becky, Jake, and Silvia shared 4 pizzas. Each pizza had 8 slices. Becky ate 3 more slices than Jake did. Silvia ate twice as many slices than Jake did. If Becky ate 10 slices, how many total slices did they eat?",
   "checkpoint": [
     {
-      "$\\boxed{31}$": 1
+      "\\boxed{31}": 1
     }
   ],
   "matchingmethod": [

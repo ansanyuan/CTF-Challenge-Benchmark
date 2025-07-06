@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂凡尼参加了嘉年华，她的母亲给了她3美元玩一个投环游戏。每个红色的水桶她投中一个环就得到2分。每个绿色的水桶她得到三分。她没有投中就得不到分数。每次游戏花费她1美元，她每次可以投5个环。她已经玩了两次游戏，已经得到了4个红桶和5个绿桶。如果她玩到钱用完为止，她三次游戏的最多总分是多少？。",
+  "topic": "回答下面的数学问题：Tiffany attends the carnival and her mother gives her $3 to play on a ring toss game. For every red bucket she tosses a ring into she gets 2 points. For every green bucket she gets three points. She gets zero points for a miss. Every play costs her $1 and she gets 5 rings per play. She's played two games and already gotten 4 red buckets and 5 green buckets. If she plays until her money runs out, what is the most total points she can get for all three games?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

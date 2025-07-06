@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗杰今天早上骑自行车骑了2英里，然后晚上骑了这个数量的5倍。罗杰一共骑了多少英里？。",
+  "topic": "回答下面的数学问题：Roger rode his bike for 2 miles this morning, and then 5 times that amount in the evening.  How many miles did Roger ride his bike for?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆每年种植10棵树。他每年还砍伐2棵树。他开始时有50棵树。10年后，30%的树木死亡。他还剩下多少棵树？。",
+  "topic": "回答下面的数学问题：Tom plants 10 trees a year.  Every year he also chops down 2 trees a year.  He starts with 50 trees.  After 10 years 30% of the trees die.  How many trees does he have left?",
   "checkpoint": [
     {
-      "$\\boxed{91}$": 1
+      "\\boxed{91}": 1
     }
   ],
   "matchingmethod": [

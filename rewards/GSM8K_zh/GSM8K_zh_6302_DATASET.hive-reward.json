@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：兰多夫比悉尼大5岁。悉尼的年龄是雪莉的两倍。如果雪莉是25岁，那兰多夫多大了？。",
+  "topic": "回答下面的数学问题：Randolph is 5 years older than Sydney. Sydney is twice as old as Sherry. If Sherry is 25, how old is Randolph?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一名管理员需要清洁一所有80个教室的学校。他们有5天时间完成这项工作。他们每个教室需要15分钟。如果他们每天工作8小时，那么他们平均每天有多少百分比的时间用于清洁教室？。",
+  "topic": "回答下面的数学问题：A custodian has to clean a school with 80 classrooms. They have 5 days to get it done. It takes them 15 minutes per classroom. If they work an 8 hour day, what percentage of their day, on average, is spent cleaning classrooms?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰是一名IT专家。他修理坏了的电脑。有一天，他不得不修理20台电脑。其中20%是无法修复的，40%需要等几天等备件到货。约翰能立即修理多少台电脑？。",
+  "topic": "回答下面的数学问题：John is working as an IT specialist. He repairs broken computers. One day he had to fix 20 computers. 20% of them were unfixable, and 40% of them needed to wait a few days for spare parts to come. The rest John was able to fix right away. How many computers John was able to fix right away?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

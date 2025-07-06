@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Big Lots正在举行特价促销。所有椅子都打75折。如果您购买超过5把椅子，您将额外获得3分之1的折扣，该折扣是超过5把椅子的折扣价格。如果您购买了8把原价20美元的椅子，这些椅子总共花费多少钱？。",
+  "topic": "回答下面的数学问题：Big Lots is having a sale. All chairs are 25% off. If you buy more than 5 chairs, you get an additional 1/3 off the discounted price of the number of chairs over 5. If you bought 8 chairs that were normally priced at $20, how much do the chairs cost in total?",
   "checkpoint": [
     {
-      "$\\boxed{105}$": 1
+      "\\boxed{105}": 1
     }
   ],
   "matchingmethod": [

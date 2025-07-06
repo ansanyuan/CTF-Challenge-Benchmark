@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tony有一块长6英尺，宽24英尺的被子。如果他想把它做成一个正方形并利用所有的布料，那么正方形的每边有多长？。",
+  "topic": "回答下面的数学问题：Tony has a piece of quilt that is 6 feet by 24 feet. If he wants to turn it into a square and use all the fabric, how long is each side of the square?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

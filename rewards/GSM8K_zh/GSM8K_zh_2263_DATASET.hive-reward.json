@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学年有180天。阿丽娅一半时间带午餐。贝基带午餐的次数是阿丽娅的一半。贝基一年带午餐多少天？。",
+  "topic": "回答下面的数学问题：There are 180 school days in the academic year. Aliyah packs a lunch half the time. Becky packs her lunch half as much as Aliyah. How many days a year does Becky pack her lunch?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

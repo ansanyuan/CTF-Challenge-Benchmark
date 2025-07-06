@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安吉洛和梅兰妮想计划下周他们应该一起学习多少小时，以备下周的考试。他们有2章教科书需要学习和4份要记忆的作业。他们计划每章教科书需要3小时，每份作业需要1.5小时。如果他们计划每天最多学习4小时，那么他们下周应该计划学习多少天，如果他们每小时休息10分钟，每天包括3次10分钟的零食休息和每天30分钟的午餐时间？。",
+  "topic": "回答下面的数学问题：Angelo and Melanie want to plan how many hours over the next week they should study together for their test next week. They have 2 chapters of their textbook to study and 4 worksheets to memorize. They figure out that they should dedicate 3 hours to each chapter of their textbook and 1.5 hours for each worksheet. If they plan to study no more than 4 hours each day, how many days should they plan to study total over the next week if they take a 10-minute break every hour, include 3 10-minute snack breaks each day, and 30 minutes for lunch each day?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

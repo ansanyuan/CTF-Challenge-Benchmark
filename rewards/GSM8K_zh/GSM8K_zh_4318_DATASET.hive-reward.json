@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：这个月，莉莉想要完成的书籍数量是上个月的两倍。如果她上个月读完了4本书，那么她接下来两个月总共要读完多少本书？。",
+  "topic": "回答下面的数学问题：For this month, Lily wants to finish reading twice as many books as she finished last month. If she finished reading 4 books last month, what will be the total number of books that she will finish for two months?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

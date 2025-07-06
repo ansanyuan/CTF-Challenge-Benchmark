@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Candy经营着一家椅子租赁业务。在工作日，每天租出60把椅子；但在周末，每天租出100把椅子。如果这种情况持续下去，Candy在两个4周的月份里总共能租出多少把椅子？。",
+  "topic": "回答下面的数学问题：Candy has a chair rental business. During the weekdays, 60 chairs are rented each day; but during weekends, 100 chairs are rented each day. If this continues, how many chairs in total will Candy be able to rent out in two 4-week months?",
   "checkpoint": [
     {
-      "$\\boxed{4000}$": 1
+      "\\boxed{4000}": 1
     }
   ],
   "matchingmethod": [

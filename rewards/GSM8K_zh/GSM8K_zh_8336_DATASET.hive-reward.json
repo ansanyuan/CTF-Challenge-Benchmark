@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Paige每小时可以在烤箱里烤2条香蕉面包。每条香蕉面包被切成8片，并单独包装出售。每片面包的售价是50美分，用于筹款。如果她从下午1点烤到下午6点，而且卖出了所有的面包片，她共筹集了多少美元？。",
+  "topic": "回答下面的数学问题：Every hour, Paige can bake 2 banana bread loaves in the oven.  Each banana bread loaf is cut into 8 slices and wrapped individually for sale.  Each slice is sold for 50 cents for a fundraiser.  If she baked from 1:00 PM - 6:00 PM straight, and sold all the slices, how much did she raise in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

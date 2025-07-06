@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Danielle购买了一栋价值28万美元的新房。她支付了4万美元的房屋定金，并使用了一笔分布在10年内的抵押贷款支付了剩下的部分。Danielle每个月支付相等的金额，到10年结束时，整个余额将被还清。Danielle每个月支付多少千美元？。",
+  "topic": "回答下面的数学问题：Danielle bought a new house for $280k. She paid a $40k deposit on the house, and pays the rest using a mortgage that is spread out over 10 years. Danielle makes equal payments every month and at the end of the 10 years, the entire balance will be paid off. How much, in thousands of dollars, does Danielle pay each month?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

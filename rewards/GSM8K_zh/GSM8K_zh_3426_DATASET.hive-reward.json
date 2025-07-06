@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mojave的人口在十年前是4000。如果该镇的人口增加了三倍，并且人口分析公司预测五年后将增加40%，那么五年后Mojave将有多少人？。",
+  "topic": "回答下面的数学问题：The population of Mojave was 4000 a decade ago. If the town's population has increased three times, and the population analysis firm predicts that it will increase by 40% after five years, how many people will be in Mojave in five years?",
   "checkpoint": [
     {
-      "$\\boxed{16800}$": 1
+      "\\boxed{16800}": 1
     }
   ],
   "matchingmethod": [

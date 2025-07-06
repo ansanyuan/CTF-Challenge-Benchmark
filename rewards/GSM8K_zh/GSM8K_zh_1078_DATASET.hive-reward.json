@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Louie在一次数学测验中得了80%。他犯了5个错误。数学测验上有多少道题？。",
+  "topic": "回答下面的数学问题：Louie obtained 80% on a math quiz. He had 5 mistakes. How many items were there on the math quiz?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果你买2包500毫升的牛奶，价格为2.50美元。如果你单独购买，每包的价格为1.30美元。购买十组2包500毫升的牛奶，你的总节省金额是多少？。",
+  "topic": "回答下面的数学问题：If you buy 2 packs of 500 mL milk, it will cost $2.50. If you buy them individually, they will cost $1.30 each. How much is your total savings from buying ten sets of 2 packs of 500 mL milk?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

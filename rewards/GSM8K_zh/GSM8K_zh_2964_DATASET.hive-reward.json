@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三年后，塔利将是凯特的两倍年龄。如果凯特现在29岁，那么一年前塔利多大？。",
+  "topic": "回答下面的数学问题：Three years from now, Tully will be twice as old as Kate. How old was Tully a year ago if Kate is now 29 years old?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

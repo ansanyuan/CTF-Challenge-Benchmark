@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：For a real number $a$ , let $\\lfloor a \\rfloor$ denote the greatest integer less than or equal to $a$ . Let $\\mathcal{R}$ denote the region in the coordinate plane consisting of points $(x,y)$ such that $\\lfloor x \\rfloor ^2 + \\lfloor y \\rfloor ^2 = 25$ . The region $\\mathcal{R}$ is completely contained in a disk of radius $r$ (a disk is the union of a circle and its interior). The minimum value of $r$ can be written as $\\frac {\\sqrt {m}}{n}$ , where $m$ and $n$ are integers and $m$ is not divisible by the square of any prime. Find $m + n$ .",
   "checkpoint": [
     {
-      "$\\boxed{132}$": 1
+      "\\boxed{132}": 1
     }
   ],
   "matchingmethod": [

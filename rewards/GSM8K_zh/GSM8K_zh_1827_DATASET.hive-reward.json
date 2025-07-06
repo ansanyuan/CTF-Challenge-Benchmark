@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米里亚姆试图多锻炼身体，她觉得如果她计算她的锻炼次数，看到数字增加会很鼓舞人心。星期一她做了5个俯卧撑。星期二她做了7个俯卧撑。星期三她做的俯卧撑是前一天的两倍。星期四她做的俯卧撑数量是她这周已经做过的总数的一半。最后，星期五她做的俯卧撑数量与前四天的总数相同。星期五米里亚姆做了多少个俯卧撑？。",
+  "topic": "回答下面的数学问题：Miriam is trying to exercise more and figures if she counts her exercises it will be encouraging to see her numbers go up. On Monday she does 5 push-ups. On Tuesday she does 7 push-ups. On Wednesday she does twice as many push-ups as the day before. On Thursday she does half the number of total pushups she already did that week. Finally, on Friday she does as many pushups as the total number she did over the previous four days. How many pushups does Miriam do on Friday?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

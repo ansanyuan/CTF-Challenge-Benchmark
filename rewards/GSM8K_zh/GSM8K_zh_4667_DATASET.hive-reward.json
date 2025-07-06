@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Dana比Jayden多15支铅笔，而Jayden比Marcus多两倍。如果Jayden有20支铅笔，Dana比Marcus多多少支铅笔？。",
+  "topic": "回答下面的数学问题：Dana has 15 more pencils than Jayden, who has twice as much as Marcus. How many more pencils does Dana have than Marcus, if Jayden has 20 pencils?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

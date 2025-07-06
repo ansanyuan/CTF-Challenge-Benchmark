@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一块巧克力重125克。一个店主刚刚收到了一箱2千克的巧克力。这代表多少块巧克力？。",
+  "topic": "回答下面的数学问题：A chocolate bar weighs 125 g. A shopkeeper has just received a 2 kilogram box of chocolate. How many bars does this represent?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

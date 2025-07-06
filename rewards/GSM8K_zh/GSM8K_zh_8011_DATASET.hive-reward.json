@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：书架上摆放着四本书。第一本书厚31毫米，第二本书厚50毫米。第三本书的厚度比第二本书少5毫米，第四本书的厚度是第一本书的两倍。这四本书的总厚度是多少？。",
+  "topic": "回答下面的数学问题：Four books are arranged on a shelf. The first book is 31 mm thick while the second book is 50 mm thick. The third book is 5 mm less thick than the second book, and the fourth book is twice as thick as the first book. What is the total thickness of the four books?",
   "checkpoint": [
     {
-      "$\\boxed{188}$": 1
+      "\\boxed{188}": 1
     }
   ],
   "matchingmethod": [

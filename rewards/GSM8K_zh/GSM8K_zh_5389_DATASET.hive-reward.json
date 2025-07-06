@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个小商店制作了50张海报来宣传他们的产品。其中五分之二是小海报，而其中一半是中等海报。其余的是大海报。有多少张大海报？。",
+  "topic": "回答下面的数学问题：A small store made 50 posters to advertise their products. Two-fifths of them are small posters while half of them are medium posters. The rest are large posters. How many large posters are there?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

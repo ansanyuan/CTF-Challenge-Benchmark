@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡尔正在上一门课，整个成绩是基于四次测试，每次测试的满分为100分。他在前三次测试中得到了80分、75分和90分。如果他想要这门课的平均分为85分，他在最后一次测试中需要得到的最低分是多少？。",
+  "topic": "回答下面的数学问题：Carl is taking a class where the whole grade is based on four tests that are graded out of 100. He got an 80, a 75 and a 90 on his first three tests. If he wants an 85 average for the class, what is the minimum grade he needs to get on his last test?",
   "checkpoint": [
     {
-      "$\\boxed{95}$": 1
+      "\\boxed{95}": 1
     }
   ],
   "matchingmethod": [

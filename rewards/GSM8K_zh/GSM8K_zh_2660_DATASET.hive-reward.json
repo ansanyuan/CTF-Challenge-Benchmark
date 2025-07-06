@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：已知三角形的底边和高度，三角形的面积由1/2*底边*高度给出。如果三角形的高度为8，面积为24平方单位，那么三角形的底边长度是多少？。",
+  "topic": "回答下面的数学问题：The area of a triangle with a given base and height is given by 1/2*base*height. What is the base length of a triangle with height 8 and area 24 square units?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

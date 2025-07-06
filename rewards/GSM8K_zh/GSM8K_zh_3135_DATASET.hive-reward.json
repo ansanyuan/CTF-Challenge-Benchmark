@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Toby想在接下来的一周内平均每天走9000步。周日他走了9400步。周一他走了9100步。周二他走了8300步。周三他走了9200步。周四他走了8900步。为了达到目标，他周五和周六需要平均走多少步？。",
+  "topic": "回答下面的数学问题：Toby wants to walk an average of 9,000 steps per day over the next week. On Sunday he walked 9,400 steps. On Monday he walked 9,100 steps. On Tuesday he walked 8,300 steps. On Wednesday he walked 9,200 steps. On Thursday he walked 8,900 steps. How many steps does he need to average on Friday and Saturday to meet his goal?",
   "checkpoint": [
     {
-      "$\\boxed{9050}$": 1
+      "\\boxed{9050}": 1
     }
   ],
   "matchingmethod": [

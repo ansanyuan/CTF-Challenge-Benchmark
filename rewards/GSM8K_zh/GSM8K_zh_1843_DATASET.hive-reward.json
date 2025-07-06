@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carmen正在数经过她窗户的汽车。所有的汽车要么是白色，要么是黑色，要么是红色。她看到50辆卡车和40辆轿车。一半的卡车是红色，另外20%是黑色。如果她随机挑选一辆车，它是白色卡车的百分比几率是多少（四舍五入到最接近的整数）？。",
+  "topic": "回答下面的数学问题：Carmen is counting the cars that pass by her window. All the cars are either white, black, or red. She sees 50 trucks and 40 cars. Half the trucks are red, and another 20% are black. If she picks one car at random, what is the percentage chance it's a white truck, rounded to the nearest integer?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

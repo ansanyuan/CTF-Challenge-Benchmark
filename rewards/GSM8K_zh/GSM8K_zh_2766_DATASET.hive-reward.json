@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周六在冰淇淋店，点了香草冰淇淋的人数是点了巧克力冰淇淋的人数的两倍。如果周六有220人点了冰淇淋，其中20%的人点了香草冰淇淋，那么点了巧克力冰淇淋的人数是多少？。",
+  "topic": "回答下面的数学问题：Saturday at the ice cream shop, there were twice as many people who ordered vanilla ice cream as ordered chocolate ice cream.  If 220 people ordered ice cream on Saturday, and 20% of those ordered vanilla ice cream, how many people ordered chocolate ice cream?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

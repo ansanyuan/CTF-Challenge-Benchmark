@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：军乐队正在订购新的制服。每套制服都包括一顶帽子，价值25美元，一件夹克，价值是帽子的三倍，以及一条裤子，其价值是帽子和夹克成本的平均值。每套制服的总成本是多少？。",
+  "topic": "回答下面的数学问题：The marching band is ordering new uniforms. Each uniform comes with a hat that costs $25, a jacket that costs three times as much as the hat, and pants that cost the average of the costs of the hat and jacket. How much does each uniform cost total?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆、蒂姆和保罗正在收集汽车照片。保罗比蒂姆多10张照片。蒂姆比总照片数152少100张。汤姆有多少张照片？。",
+  "topic": "回答下面的数学问题：Tom, Tim, and Paul are collecting photos of cars. Paul has 10 photos more than Tim. Tim has one hundred photos less than the total amount of photos which is 152. How many photos does Tom have?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

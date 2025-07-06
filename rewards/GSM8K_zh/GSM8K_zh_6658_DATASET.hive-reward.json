@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克和詹姆斯需要总共14个12面骰子来玩他们的游戏。马克有一个装有10个骰子的袋子，其中60%是12面骰。詹姆斯有一个装有8个骰子的袋子，其中75%是12面骰。男孩们需要购买多少个骰子来玩他们的游戏？。",
+  "topic": "回答下面的数学问题：Mark and James need a total of 14 dice that are 12 sided to play their game.  Mark has a bag of 10 dice and 60% of them are 12 sided.  James has a bag of 8 dice and 75% of them are 12 sided.  How many dice will the boys need to buy to play their game?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

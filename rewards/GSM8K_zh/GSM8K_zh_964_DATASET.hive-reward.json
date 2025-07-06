@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Oleg是一名活动组织者。他正在组织一个有80位客人参加的活动，其中40位是男性，男性人数的一半是女性，其余是儿童。如果他在客人名单上增加了10个儿童，那么活动上会有多少儿童？。",
+  "topic": "回答下面的数学问题：Oleg is an event organizer. He is organizing an event with 80 guests where 40 of them are men, half the number of men are women, and the rest are children. If he added 10 children to the guest list, how many children will there be at the event?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

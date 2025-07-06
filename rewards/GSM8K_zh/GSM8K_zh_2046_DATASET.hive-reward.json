@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：从曼哈顿到布朗克斯，安德鲁乘坐地铁花了10个小时，乘火车花了比地铁多两倍的时间，然后骑自行车骑了剩下的距离花了8个小时。他从曼哈顿到布朗克斯总共花了多少时间？。",
+  "topic": "回答下面的数学问题：Traveling from Manhattan to the Bronx, Andrew rides the subway for 10 hours, takes the train and rides for twice as much time as the subway ride, and then bikes the remaining distance for 8 hours. What's the total time he takes to reach the Bronx from Manhattan?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

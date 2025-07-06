@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：唐纳森一家支付每小时15美元的保姆费用。默克家庭支付每小时18美元，希尔家庭支付每小时20美元的保姆费用。莱拉为唐纳森家庭做了7个小时的保姆，为默克家庭做了6个小时的保姆，为希尔家庭做了3个小时的保姆。莱拉做保姆赚了多少美元？。",
+  "topic": "回答下面的数学问题：The Donaldsons pay $15 per hour for babysitting. The Merck family pays $18 per hour and the Hille family pays $20 per hour for babysitting. Layla babysat for the Donaldsons for 7 hours, the Merck family for 6 hours and the Hille family for 3 hours. How many dollars did Layla earn babysitting?",
   "checkpoint": [
     {
-      "$\\boxed{273}$": 1
+      "\\boxed{273}": 1
     }
   ],
   "matchingmethod": [

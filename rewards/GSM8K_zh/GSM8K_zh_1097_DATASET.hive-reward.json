@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗里比她妹妹吉吉多30颗软糖豆，吉吉有15颗软糖豆。洛雷莱已经吃了两个女孩总共拥有的软糖豆的三倍。洛雷莱吃了多少颗软糖豆？。",
+  "topic": "回答下面的数学问题：Rory has 30 more jellybeans than her sister Gigi who has 15 jellybeans.  Lorelai has already eaten three times the number of jellybeans that both girls have.  How many jellybeans has Lorelai eaten?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

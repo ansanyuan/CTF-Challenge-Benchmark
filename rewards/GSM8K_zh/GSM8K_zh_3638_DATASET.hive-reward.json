@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格雷琴是一名水肺潜水员。她喜欢在海底寻找宝藏，但当她找到值得收藏的东西时，她必须将其携带到水面上交给船上的船员。她在水下游泳时一次只能携带3个物品。如果她在水下找到17个物品，她必须至少进行多少次上浮才能将所有17个物品搬到船上？。",
+  "topic": "回答下面的数学问题：Gretchen is a scuba diver.  She likes to hunt for treasure on the ocean's floor, but when she finds something to keep, she must carry it back to the surface of the water to give it to her shipmate on the boat.  She can only carry 3 objects at a time while she swims underwater.  If she finds 17 objects underwater, what is the fewest number of trips to the surface of the water she must take to carry all 17 objects to the boat?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

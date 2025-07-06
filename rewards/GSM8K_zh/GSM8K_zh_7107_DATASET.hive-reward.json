@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alex有4件新衬衫。乔比亚历克斯多3件新衬衫。如果本比乔多8件新衬衫，本有多少件新衬衫？。",
+  "topic": "回答下面的数学问题：Alex has 4 new shirts. Joe has 3 more new shirts than Alex. If Ben has eight more new shirts than Joe, how many new shirts does Ben have?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

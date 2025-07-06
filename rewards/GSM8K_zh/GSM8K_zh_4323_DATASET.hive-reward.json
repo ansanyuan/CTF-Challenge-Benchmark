@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅琳达和她的家人要开车1200英里去拜访他们的表兄弟姐妹。如果他们以每小时60英里的速度行驶，他们会节省多少时间，而不是以每小时50英里的速度行驶？。",
+  "topic": "回答下面的数学问题：Melinda is taking a 1200-mile trip with her family to visit their cousins. How much time will they save if they drive 60 miles an hour instead of 50 miles an hour?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍购买了1000英尺的电缆。她将它分成25英尺一段。她把其中的四分之一给了一个朋友。然后她把剩下的一半放在了储藏室。她手头上留了多少？。",
+  "topic": "回答下面的数学问题：Jan buys 1000 feet of cable.  She splits it up into 25-foot sections.  She gives 1/4 of that to a friend.  She then puts half of the rest in storage. How much does she keep on hand?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰比他父亲年轻一半，他的父亲比约翰的母亲大4岁。如果约翰的父亲今年40岁，约翰和他的母亲之间的年龄差是多少？。",
+  "topic": "回答下面的数学问题：John is half times younger than his father, who is 4 years older than John's mother. If John's father is 40 years old, what's the age difference between John and his mother?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

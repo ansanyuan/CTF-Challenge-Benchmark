@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：琳达正在粉刷她的卧室。她的卧室有4面墙，房间的宽度为20英尺，长度为20英尺，高度为8英尺。一面墙上有一个3英尺*7英尺的门。第二面墙上有一个6英尺*4英尺的窗户。第三面墙上有一个5英尺*7英尺通往步入式衣柜的门。第四面墙完全是实心的。琳达需要粉刷的墙面总面积是多少？。",
+  "topic": "回答下面的数学问题：Linda is painting her bedroom. Her bedroom has 4 walls, with the room being 20 feet wide by 20 feet long by 8 feet tall. One wall has a 3-foot by 7-foot doorway. A second wall has a 6-foot by 4-foot window. A third wall has a 5-foot by 7-foot doorway to a walk-in-closet. And the fourth wall is completely solid. What is the total area of wall space that Linda will have to paint?",
   "checkpoint": [
     {
-      "$\\boxed{560}$": 1
+      "\\boxed{560}": 1
     }
   ],
   "matchingmethod": [

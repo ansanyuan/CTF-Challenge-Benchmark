@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周一，沃尔特走了4英里。周二，他走的英里数是周一的6倍。他从周一到周三的总里程是41英里。周三他走了多少英里？。",
+  "topic": "回答下面的数学问题：On Monday, Walt walked 4 miles. Tuesday, he walked 6 times as many miles as he walked on Monday. His total mileage Monday through Wednesday was 41 miles. How many miles did he walk on Wednesday?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

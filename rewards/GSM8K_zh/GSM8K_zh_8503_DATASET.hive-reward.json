@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sally走路去学校的时候，她手里拿着25个红色气球，7个绿色气球和12个黄色气球的绳子。突然，一阵风导致40%的红色气球爆炸了。那惊人的响声吓到了Sally，她不小心放飞了一半的黄色气球。但当她接近学校场地时，她发现有8个蓝色气球卡在树上，她将其中75%的气球加入到她剩下的气球中，然后带进了学校。她最终带进学校的气球数量是多少？。",
+  "topic": "回答下面的数学问题：As Sally walked to school, she was holding the strings to 25 red balloons, 7 green balloons, and 12 yellow balloons. Suddenly, a gust of wind caused 40% of the red balloons to burst.  The shockingly loud sound startled Sally, and she accidentally released half of the yellow balloons.  But as she neared the school grounds, she found 8 blue balloons caught in a tree, and she added 75% of them to her remaining clutch of balloons, which she carried into the school.  What number of balloons did she finally carry into the school?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

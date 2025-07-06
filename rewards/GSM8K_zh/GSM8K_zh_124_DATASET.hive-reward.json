@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个批发仓库以12.00美元一箱的价格提供48罐气泡水。当地的杂货店以6.00美元的价格提供相同的气泡水，但只有12罐。每罐在杂货店的价格比批发仓库贵多少，以美分计算？。",
+  "topic": "回答下面的数学问题：A bulk warehouse is offering 48 cans of sparkling water for $12.00 a case.  The local grocery store is offering the same sparkling water for $6.00 and it only has 12 cans.  How much more expensive, per can, in cents, is this deal at the grocery store?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

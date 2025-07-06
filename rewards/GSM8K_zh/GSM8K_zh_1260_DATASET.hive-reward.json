@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ryanne比Hezekiah大7岁。Ryanne和Hezekiah的年龄加起来等于15岁。Hezekiah多少岁？。",
+  "topic": "回答下面的数学问题：Ryanne is 7 years older than Hezekiah. Together Ryanne's and Hezekiah's ages equal 15 years. How many years old is Hezekiah?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

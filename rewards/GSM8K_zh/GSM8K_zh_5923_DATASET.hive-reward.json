@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alice女士可以在8小时内批改296份试卷。她在11小时内可以批改多少份试卷？。",
+  "topic": "回答下面的数学问题：Ms. Alice can grade 296 papers in 8 hours. How many papers can she grade in 11 hours?",
   "checkpoint": [
     {
-      "$\\boxed{407}$": 1
+      "\\boxed{407}": 1
     }
   ],
   "matchingmethod": [

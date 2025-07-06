@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝丝在她的十年级班级中有150名学生。第二年有30名学生加入。在她的最后一年，有15名学生离开。贝丝在最后一年的班级中有多少学生？。",
+  "topic": "回答下面的数学问题：Beth had 150 students in her 10th-grade class.  The following year 30 more students join.  In her final year, 15 students left.  How many students did Beth have in her class at the end of her final year?",
   "checkpoint": [
     {
-      "$\\boxed{165}$": 1
+      "\\boxed{165}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gemma阿姨有四只狗。她每天给它们喂两次狗粮。每只狗每餐可以消耗250克的食物。如果Gemma阿姨买了两袋狗粮，每袋重50千克，这些食物可以持续多少天？。",
+  "topic": "回答下面的数学问题：Aunt Gemma has four dogs. She feeds them with dog food twice a day. Each dog can consume 250 grams of food per meal. If aunt Gemma bought 2 sacks of dog food, each weighing 50 kilograms, how many days will those food last?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

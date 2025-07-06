@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Billy正在将覆盆子汁减少制作糖浆。他将6夸脱的果汁减少到原来的1/12，然后加入1杯糖。糖浆的最终容量是多少杯？（1夸脱中有4杯）。",
+  "topic": "回答下面的数学问题：Billy is reducing raspberry juice down to make syrup. He reduces 6 quarts of juice to 1/12 of its original volume, then adds 1 cup of sugar. What is the final volume of the syrup in cups? (There are 4 cups in a quart)",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

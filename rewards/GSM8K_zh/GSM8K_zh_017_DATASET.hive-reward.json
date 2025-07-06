@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一项商业交易的利润按比例2:5分配给两位商业伙伴迈克和约翰逊。如果约翰逊得到2500美元，那么迈克在花费部分份额购买一件价格为200美元的衬衫后，将会有多少钱？。",
+  "topic": "回答下面的数学问题：The profit from a business transaction is shared among 2 business partners, Mike and Johnson in the ratio 2:5 respectively. If Johnson got $2500, how much will Mike have after spending some of his share on a shirt that costs $200?",
   "checkpoint": [
     {
-      "$\\boxed{800}$": 1
+      "\\boxed{800}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊芙想给她的3个侄女买适合儿童的烹饪用具。手套的价格是14.00美元，围裙是16.00美元。一套3件烹饪用具是10.00美元，而一把小刀的价格是烹饪用具的两倍。商店正在所有烹饪用具打25%的折扣。伊芙将在礼物上花费多少钱？。",
+  "topic": "回答下面的数学问题：Eve wants to buy her 3 nieces cooking gear that's made for kids.  The hand mitts cost $14.00 and the apron is $16.00.  A set of 3 cooking utensils is $10.00 and a small knife is twice the amount of the utensils.  The store is offering a 25% off sale on all cooking gear.  How much will Eve spend on the gifts?",
   "checkpoint": [
     {
-      "$\\boxed{135}$": 1
+      "\\boxed{135}": 1
     }
   ],
   "matchingmethod": [

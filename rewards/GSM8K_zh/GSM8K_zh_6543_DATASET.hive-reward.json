@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bill是一名被雇佣为客户的房子刷油漆的画家。这所房子有三间卧室，其他房间的数量是卧室数量的两倍。客户希望每间卧室都刷成不同的颜色，其他房间刷成白色。每个房间需要2加仑的油漆。彩色油漆使用1加仑的油漆罐，白色油漆使用3加仑的油漆罐。Bill需要多少桶油漆来完成整个房子的工作？。",
+  "topic": "回答下面的数学问题：Bill is a painter who is hired to paint a client’s house. The house has three bedrooms, and twice as many other rooms as bedrooms. The client wants each bedroom painted a different color, and the other rooms painted white. Each room takes 2 gallons of paint. Color paint comes in 1-gallon paint cans, and white paint comes in 3-gallon cans. How many cans of paint will Bill need for the whole house?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

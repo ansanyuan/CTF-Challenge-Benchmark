@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了晋升到下一个学年，Jane需要参加3次测试，总分至少要达到42分。在第一次测试中，Jane得了15分，在第二次测试中得了18分。她在第三次测试中至少需要得多少分才能通过？。",
+  "topic": "回答下面的数学问题：To be promoted to the next school year, Jane takes 3 tests that together must total at least 42 points. On her first test, Jane scored 15 points, on the second test she scored 18 points. What is the minimum number of points she must score on the third test to pass?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

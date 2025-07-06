@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰决定为自己买10个别针。它们原价每个20美元，但打折15%。他在别针上花了多少钱？。",
+  "topic": "回答下面的数学问题：John decided to buy 10 pins for himself.  They are normally $20 each but they were on sale for 15% off.  How much did he spend on pins?",
   "checkpoint": [
     {
-      "$\\boxed{170}$": 1
+      "\\boxed{170}": 1
     }
   ],
   "matchingmethod": [

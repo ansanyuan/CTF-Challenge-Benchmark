@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：我妈妈去了一家园艺店。她买了一套价值19美元的盆子和一袋价值26美元的园土。结账时，她使用了一张7美元的优惠券。我妈妈在园艺店花了多少钱？。",
+  "topic": "回答下面的数学问题：My mom went to a gardening shop. She bought a set of pots for $19 and a sack of garden soil for $26. At checkout, she used a coupon for $7 off. How much money did my mom spend at the gardening shop?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

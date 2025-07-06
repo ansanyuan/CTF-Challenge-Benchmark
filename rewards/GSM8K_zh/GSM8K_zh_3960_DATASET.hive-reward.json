@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在超市里，购买的橙子的价格与购买的质量成比例。安妮购买了2公斤的橙子花了6美元。安妮购买12公斤的橙子将花多少钱？。",
+  "topic": "回答下面的数学问题：At the supermarket, the price paid for oranges is proportional to the mass purchased. Annie paid $6 for 2 kg of oranges. How much will Annie pay for 12 kg of oranges?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

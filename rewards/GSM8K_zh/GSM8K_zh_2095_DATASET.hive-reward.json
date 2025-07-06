@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个家庭要去游乐园。成人门票价格为22美元，儿童门票价格为7美元。这个家庭由2名成人和2名儿童组成。这个家庭总共要支付多少钱的门票费用？。",
+  "topic": "回答下面的数学问题：A family is going to the amusement park. The adult tickets cost $22 for admission, and the tickets for children cost $7. The family consists of 2 adults and 2 children. What is the total price the family will pay for admission?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

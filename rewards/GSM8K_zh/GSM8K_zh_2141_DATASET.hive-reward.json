@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯每6小时服用2片泰诺，每片375毫克。他每天服用多少毫克？。",
+  "topic": "回答下面的数学问题：James takes 2 Tylenol tablets that are 375 mg each, every 6 hours.  How many mg does he take a day?",
   "checkpoint": [
     {
-      "$\\boxed{3000}$": 1
+      "\\boxed{3000}": 1
     }
   ],
   "matchingmethod": [

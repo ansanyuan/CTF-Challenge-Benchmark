@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丽莎花了1000美元买了一部新的iPhone。她购买了一个每月花费200美元的手机合同，一个价格为手机价格的20%的手机壳，以及价格是手机壳价格一半的耳机。丽莎在第一年会花多少钱在她的手机上？。",
+  "topic": "回答下面的数学问题：Lisa bought a new iPhone for $1000. She bought a phone contract that costs $200/month, a case that costs 20% of the cost of the phone, and headphones that cost half as much as the case. How much will Lisa spend on her phone in the first year?",
   "checkpoint": [
     {
-      "$\\boxed{3700}$": 1
+      "\\boxed{3700}": 1
     }
   ],
   "matchingmethod": [

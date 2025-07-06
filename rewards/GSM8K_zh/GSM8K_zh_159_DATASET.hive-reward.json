@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jerome正在进行一次150英里的自行车旅行。他想在12天内每天骑行12英里。为了完成他的目标，他在第13天需要骑多久？。",
+  "topic": "回答下面的数学问题：Jerome is taking a 150-mile bicycle trip. He wants to ride 12 miles for 12 days. How long will he ride on the 13th day to finish his goal?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

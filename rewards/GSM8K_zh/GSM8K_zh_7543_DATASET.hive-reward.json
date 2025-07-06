@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bailey起初有一定数量的钱。然后她连续8周每周获得5美元的零用钱。8周结束时，如果她总共有100美元，那么Bailey最初有多少钱？。",
+  "topic": "回答下面的数学问题：Bailey starts with a certain amount of money. Then she receives a weekly allowance of $5 for 8 weeks. At the end of the 8 weeks, if she has a total of $100, how much money did Bailey start with?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

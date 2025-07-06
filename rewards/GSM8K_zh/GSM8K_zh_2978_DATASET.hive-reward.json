@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：辛迪可以跳绳12分钟后被绳子绊倒。贝琪在被绳子绊倒之前可以跳绳的时间是辛迪的一半，而蒂娜可以比贝琪多跳三倍的时间。蒂娜比辛迪可以跳绳多少分钟？。",
+  "topic": "回答下面的数学问题：Cindy can jump rope for 12 minutes before tripping up on the ropes.  Betsy can jump rope half as long as Cindy before tripping up, while Tina can jump three times as long as Betsy.  How many more minutes can Tina jump rope than Cindy?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格兰特在数学考试中比约翰高了10分。约翰得分是亨特得分的两倍，而亨特在数学考试中得了45分。格兰特的考试成绩是多少？。",
+  "topic": "回答下面的数学问题：Grant scored 10 points higher on his math test than John.  John received twice as many points as Hunter who scored a 45 on his math test.  What was Grant's test score?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

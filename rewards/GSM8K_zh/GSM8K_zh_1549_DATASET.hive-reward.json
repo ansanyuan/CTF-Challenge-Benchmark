@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比尔正在尝试控制他花园里的害虫。他引入的每只蜘蛛吃7只虫子，每次他喷洒花园，他将总虫口减少到之前的80%。如果花园一开始有400只虫子，比尔喷洒一次并引入12只蜘蛛后，剩下多少只虫子？。",
+  "topic": "回答下面的数学问题：Bill is trying to control the pests in his garden. Each spider he introduces eats 7 bugs, and each time he sprays the garden he reduces the total bug population to 80% of what it was previously. If the garden has 400 bugs to start, and Bill sprays once and introduces 12 spiders, how many bugs are left?",
   "checkpoint": [
     {
-      "$\\boxed{236}$": 1
+      "\\boxed{236}": 1
     }
   ],
   "matchingmethod": [

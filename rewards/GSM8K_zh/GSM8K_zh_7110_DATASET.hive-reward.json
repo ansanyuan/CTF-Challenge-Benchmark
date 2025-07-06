@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米歇尔从她的生日派对上剩下了一些傻瓜线的罐头。她把它们分给了罗杰和他的3个朋友。然后罗杰决定把他的2罐给了他的兄弟，所以他现在自己有4罐。米歇尔一开始有多少罐傻瓜线？。",
+  "topic": "回答下面的数学问题：Michelle had some leftover cans of silly string from her birthday party. She split them among Roger and 3 of his friends. Then Roger decided to give 2 of his cans to his brothers so that he now has 4 for himself. How many cans of silly string did Michelle have to start with?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

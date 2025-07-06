@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lana和Mike带着他们的狗在山上租了一间小屋住两周。每日费用是125.00美元。还有100.00美元的宠物费。此外，租金还有20%的服务/清洁费。他们需要支付整个账单的50%作为押金。他们的押金是多少？。",
+  "topic": "回答下面的数学问题：Lana and Mike are taking their dog and renting a cabin in the mountains for 2 weeks.  The daily rate is $125.00  There is a $100.00 pet fee.  There is also a 20% service/cleaning fee for the rental.  They need to pay 50% of the entire bill as a security deposit.  How much is their security deposit?",
   "checkpoint": [
     {
-      "$\\boxed{1110}$": 1
+      "\\boxed{1110}": 1
     }
   ],
   "matchingmethod": [

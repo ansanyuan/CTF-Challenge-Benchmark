@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家公司有500名员工，每小时支付12美元，每天工作10小时，一周工作5天，一个月工作4周。在8月份，工作量增加，公司雇佣了200名新员工。在新员工加入后，公司每月总共支付多少钱？。",
+  "topic": "回答下面的数学问题：A company has 500 employees, each paid $12 per hour, working 10 hours a day, five days a week, 4 weeks a month. In August, the amount of work increased, and the company hired 200 more people. How much money does the company pay in total per month after the new hires?",
   "checkpoint": [
     {
-      "$\\boxed{1680000}$": 1
+      "\\boxed{1680000}": 1
     }
   ],
   "matchingmethod": [

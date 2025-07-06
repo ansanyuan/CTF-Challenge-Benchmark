@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯决定做一浴缸的果冻。每磅水需要1.5汤匙果冻混合物。浴缸可以容纳6立方英尺的水。每立方英尺的水为7.5加仑。一加仑水重8磅。一汤匙果冻混合物的成本是0.50美元。他填满浴缸花了多少钱？。",
+  "topic": "回答下面的数学问题：James decides to make a bathtub full of jello.  For every pound of water, you need 1.5 tablespoons of jello mix.  The bathtub can hold 6 cubic feet of water.  Each cubic foot of water is 7.5 gallons.  A gallon of water weighs 8 pounds.  A tablespoon of jello mix costs $0.50.  How much did he spend to fill his tub?",
   "checkpoint": [
     {
-      "$\\boxed{270}$": 1
+      "\\boxed{270}": 1
     }
   ],
   "matchingmethod": [

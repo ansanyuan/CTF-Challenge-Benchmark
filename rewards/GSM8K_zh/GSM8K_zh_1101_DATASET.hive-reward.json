@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽有89张贴纸。她在她的日记本的封面上用了3张大贴纸，其他6页的日记本上每页用了7张贴纸。玛丽剩下多少张贴纸？。",
+  "topic": "回答下面的数学问题：Mary had 89 stickers.  She used 3 large stickers on the front page of her journal and 7 stickers each to 6 other pages of her journal. How many stickers does Mary have remaining?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

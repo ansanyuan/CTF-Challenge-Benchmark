@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：橙子的价格和梨子的价格之间的差等于香蕉的价格。如果一个橙子和一个梨子的总成本是120美元，一个梨子的价格是90美元，计算购买200根香蕉和两倍于香蕉数量的橙子的总价格。。",
+  "topic": "回答下面的数学问题：The difference between the price of an orange and the price of a pear equals the price of a banana. If the total cost of an orange and a pear is $120 and a pear costs $90, calculate the total price of buying 200 bananas and twice as many oranges as bananas.",
   "checkpoint": [
     {
-      "$\\boxed{24000}$": 1
+      "\\boxed{24000}": 1
     }
   ],
   "matchingmethod": [

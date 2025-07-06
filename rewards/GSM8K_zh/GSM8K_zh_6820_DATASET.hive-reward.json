@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Vicky的网络连接非常好。她可以以每秒50MB的速度下载。她必须下载一个新程序来完成大学作业。该程序的大小为360GB。如果互联网连接以最大速度运行，她需要等待多长时间才能完全下载该程序？（每GB有1000MB。）。",
+  "topic": "回答下面的数学问题：Vicky has an excellent internet connection. She can download up to 50 MB/second. She has to download a new program to finish a college assignment. The program’s size is 360GB. If the internet connection is at maximum speed, how many hours does she have to wait until the program is fully downloaded? (There are 1000 MB per GB.)",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

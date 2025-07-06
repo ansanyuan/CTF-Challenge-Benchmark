@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亨利在他60英里的自行车旅行中停了两次。他第一次停在20英里后。他的第二次停靠是在旅程结束前15英里。他在第一次和第二次停靠之间行驶了多少英里？。",
+  "topic": "回答下面的数学问题：Henry made two stops during his 60-mile bike trip. He first stopped after 20 miles. His second stop was 15 miles before the end of the trip. How many miles did he travel between his first and second stops?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

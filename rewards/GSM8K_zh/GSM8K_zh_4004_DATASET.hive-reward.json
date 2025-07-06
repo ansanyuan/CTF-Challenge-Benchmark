@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约安娜有8美元。与她的钱相比，她的兄弟有三倍多，而她的妹妹只有她的一半。他们三个人总共有多少钱？。",
+  "topic": "回答下面的数学问题：Joanna has $8. Compared to her money, her brother has thrice as much while her sister has only half as much. How much money do the three of them have altogether?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

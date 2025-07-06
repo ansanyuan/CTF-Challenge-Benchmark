@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alexa和Emily在前院开了一个柠檬水摊。她们花了10美元买柠檬，5美元买糖，3美元买杯子。柠檬水每杯售价4美元。她们总共卖出21杯。在支付费用后，Alexa和Emily赚了多少利润？。",
+  "topic": "回答下面的数学问题：Alexa and Emily open up a lemonade stand in the front yard. They spent $10 for lemons, $5 for sugar and $3 for cups.  The lemonade is $4 a cup.  They sell a total of 21 cups.  How much profit did Alexa and Emily make after paying off expenses?",
   "checkpoint": [
     {
-      "$\\boxed{66}$": 1
+      "\\boxed{66}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克逊正在为他的餐厅购买椅子。他有6张有4个座位的桌子和12张有6个座位的桌子。杰克逊总共需要购买多少把椅子？。",
+  "topic": "回答下面的数学问题：Jackson is buying chairs for his restaurant. He has 6 tables with 4 seats and 12 tables with 6 seats. How many chairs total does Jackson need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{96}$": 1
+      "\\boxed{96}": 1
     }
   ],
   "matchingmethod": [

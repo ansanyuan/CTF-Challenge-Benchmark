@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安东尼奥正在为他的家人准备意大利面和肉丸的一餐。他的肉丸食谱要求每个肉丸用1/8磅的汉堡肉。安东尼奥有8个家庭成员，包括他自己。如果他用4磅的汉堡肉来做肉丸，而每个家庭成员吃相同数量的肉丸，安东尼奥将吃多少个肉丸？。",
+  "topic": "回答下面的数学问题：Antonio is preparing a meal of spaghetti and meatballs for his family.  His recipe for meatballs calls for 1/8 of a pound of hamburger per meatball.  Antonio has 8 family members, including himself.  If he uses 4 pounds of hamburger to make meatballs, and each member of the family eats an equal number of meatballs, how many meatballs will Antonio eat?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

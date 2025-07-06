@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊莎贝尔找了一份工作，这样她就可以存够钱和她的两个兄弟一起去听音乐会。她的门票价值20美元。她的兄弟都享受儿童折扣，每张门票价值10美元。她的兄弟们一共存了5美元，伊莎贝尔自己存了5美元。如果她的工资是每周3美元，她需要工作多少周才能负担得起门票？。",
+  "topic": "回答下面的数学问题：Isabelle gets a job so she can save enough money to go to a concert with her two brothers. Her ticket costs $20. Her brothers both get the children’s discount, and each of their tickets cost $10. Her brothers have saved $5 between the two of them and Isabelle has saved $5. If her job pays $3 per week, how many weeks must she work to afford the tickets?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

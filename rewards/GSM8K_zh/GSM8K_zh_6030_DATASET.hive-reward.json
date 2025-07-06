@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰尼是一名设计桥梁的工程师。桥梁顶部的道路桥面需要1600吨混凝土来建造。两个桥墩需要相等数量的混凝土，但目前只建造了一个，使用了700吨混凝土。约翰尼不得不计算桥梁下方支撑柱需要多少吨混凝土，并且他发现整座桥梁所需的混凝土总量为4800吨。约翰尼发现支撑柱需要多少吨混凝土？。",
+  "topic": "回答下面的数学问题：Johnny is an engineer designing a bridge. The roadway deck for the top of the bridge needs 1600 tons of concrete to construct. The two bridge anchors need equal amounts of concrete, but only one has been built so far, using 700 tons of concrete. Johnny had to calculate how many tons of concrete the supporting pillars underneath the bridge would need, and he found that the total amount of concrete in the entire bridge will be 4800 tons. How much concrete did Johnny find he needs for the supporting pillars?",
   "checkpoint": [
     {
-      "$\\boxed{1800}$": 1
+      "\\boxed{1800}": 1
     }
   ],
   "matchingmethod": [

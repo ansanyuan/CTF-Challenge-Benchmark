@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔治计划为他的班级做饼干。班上有40名学生，他计划每名学生做2块饼干。如果他的同学中有10%想要燕麦葡萄干饼干，那么乔治会做多少块燕麦葡萄干饼干？。",
+  "topic": "回答下面的数学问题：Giorgio plans to make cookies for his class. There are 40 students and he plans to make 2 cookies per student. If 10% of his classmates want oatmeal raisin, then how many oatmeal raisin cookies will Giorgio make?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

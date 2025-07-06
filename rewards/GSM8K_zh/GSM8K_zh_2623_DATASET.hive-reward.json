@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：拿破仑有17颗软糖豆，塞德里克比拿破仑多4颗软糖豆。如果拿破仑和塞德里克的软糖豆的总和的两倍等于米奇拥有的软糖豆数量的4倍，那么米奇有多少颗软糖豆？。",
+  "topic": "回答下面的数学问题：Napoleon has 17 jelly beans and Sedrich has 4 more jelly beans than Napoleon. If twice the sum of Napoleon and Sedrich's jelly beans is 4 times the number of jelly beans that Mikey has, how many jelly beans does Mikey have?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

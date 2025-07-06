@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：索菲亚和她的母亲去杂货店买了10公斤橙子，用于他们家一周的食物。在商店时，索菲亚的父亲打电话说他们要再加5公斤，因为他们的邻居也想要一些食品。当他们到家时，他们估计接下来的两周他们每周都要买两倍的橙子才够用。三周后他们一共买了多少橙子？。",
+  "topic": "回答下面的数学问题：Sofia and her mother go to the grocery store and buys 10kgs of oranges to be used in their home for the week. While at the store, Sofia's father calls and says they're to add 5 more kgs since their neighbor also wanted some supplies. When they reach home, they estimated that for the next coming two weeks they'll have to buy twice as many oranges each week for the supplies to be enough. What the total quantity of oranges they would have bought after the three weeks.",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

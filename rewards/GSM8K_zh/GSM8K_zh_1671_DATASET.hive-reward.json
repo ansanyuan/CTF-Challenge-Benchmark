@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果一个篮子总共能装40个水果，而苹果的数量是橙子的3倍，那么橙子的数量是多少？。",
+  "topic": "回答下面的数学问题：If a basket is capable of holding 40 fruit altogether, and there are 3 times as many apples as oranges, how many oranges are there?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

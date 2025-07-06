@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布鲁斯最近过生日。他的姑姑给了他一张卡片，里面有75美元，他的爷爷给了他一张卡片，里面有150美元。他想很快去欧洲旅行，所以他决定把他生日收到的钱的五分之一存入银行。他存入了多少钱？。",
+  "topic": "回答下面的数学问题：Bruce recently had a birthday. His aunt sent him a card with $75 and his grandfather sent him a card that had $150 in it. He wants to go on a trip to Europe soon, so he decides to put one-fifth of the money he got for his birthday in the bank. How much money did he put in the bank?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

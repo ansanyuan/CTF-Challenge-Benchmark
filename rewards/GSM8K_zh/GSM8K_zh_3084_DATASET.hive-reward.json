@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alvin正在出售他的弹珠套装。他有100颗弹珠。20%是白色的，30%是黑色的，其余是不同的颜色。他把白色的每颗卖五分钱，黑色的每颗卖一角，其他颜色的每颗卖20美分。他赚了多少钱？。",
+  "topic": "回答下面的数学问题：Alvin is selling his marble set. He has 100 marbles. 20% are white, 30% are black, and the rest are different colors. He sells the white ones for a nickel each, the black ones for a dime each, and the colors for $0.20 each. How much does he earn?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马丁进行了一次为期八小时的商务旅行。在旅程的前半段，他以时速70公里行驶，而在后半段以时速85公里行驶。他在整个旅程中行驶了多少公里？。",
+  "topic": "回答下面的数学问题：Martin went on an eight-hour business trip. During the first half of the trip, he traveled at a speed of 70 kilometers per hour and during the second half at a speed of 85 kilometers per hour. How many kilometers did he travel during the journey?",
   "checkpoint": [
     {
-      "$\\boxed{620}$": 1
+      "\\boxed{620}": 1
     }
   ],
   "matchingmethod": [

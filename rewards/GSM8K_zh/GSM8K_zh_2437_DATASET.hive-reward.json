@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个印刷店需要向一家广告公司运送5000份宣传册。每个箱子只能装五分之一的宣传册。需要多少个箱子才能运送这些宣传册？。",
+  "topic": "回答下面的数学问题：A Printing shop needs to ship 5000 brochures to an advertising company. Each box can only contain one-fifth of the brochures. How many boxes are needed to ship those brochures?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

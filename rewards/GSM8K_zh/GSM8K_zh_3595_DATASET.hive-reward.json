@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：所罗门以9折的价格购买了一张餐桌，支付了售价450美元。这张餐桌的原价是多少？。",
+  "topic": "回答下面的数学问题：Solomon bought a dining table at a 10% discount and paid the sale price of $450. What was the original price of the dining table?",
   "checkpoint": [
     {
-      "$\\boxed{500}$": 1
+      "\\boxed{500}": 1
     }
   ],
   "matchingmethod": [

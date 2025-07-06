@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：夏洛特正在做一个馅饼。她无法决定是做樱桃馅饼还是蓝莓馅饼。所以她决定做最便宜的馅饼。两种馅饼都需要2美元的面粉，1美元的糖和1.5美元的鸡蛋和黄油来制作馅饼皮。蓝莓馅饼需要3磅蓝莓。蓝莓以8盎司的容器售价为2.25美元。对于樱桃馅饼，她需要4磅樱桃，它们以一袋四磅装售价14美元。做最便宜的馅饼的总价格是多少？。",
+  "topic": "回答下面的数学问题：Charlotte is making a pie. She can't decide if she will make cherry or blueberry. So she decides to make whichever pie is cheapest. Both pies will need $2 for flour, $1 for sugar and $1.5 for eggs and butter to make the crust. The blueberry pie needs 3 pounds of blueberries. The blueberries come in 8 oz containers for $2.25. For the cherry pie, she needs 4 pounds and they come in a four-pound bag for $14. What is the total price to make the cheapest pie?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

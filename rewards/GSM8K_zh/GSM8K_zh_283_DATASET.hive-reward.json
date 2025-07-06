@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Riku比Kristoff多25倍的贴纸。如果Kristoff有85张贴纸，Riku有多少张贴纸？。",
+  "topic": "回答下面的数学问题：Riku has 25 times more stickers than Kristoff. If Kristoff has 85 stickers, how many stickers does Riku have?",
   "checkpoint": [
     {
-      "$\\boxed{2210}$": 1
+      "\\boxed{2210}": 1
     }
   ],
   "matchingmethod": [

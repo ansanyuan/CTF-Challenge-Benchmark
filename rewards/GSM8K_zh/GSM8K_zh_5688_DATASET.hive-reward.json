@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Maddie为她的篮球队买了2包白色T恤和4包蓝色T恤。白色T恤是5件一包，蓝色T恤是3件一包。每件T恤的价格是3美元。Maddie总共花了多少钱？。",
+  "topic": "回答下面的数学问题：Maddie bought 2 packs of white T-shirts and 4 packs of blue T-shirts for her basketball team. The white T-shirts come in packs of 5, and the blue T-shirts come in packs of 3. Each T-shirt cost $3. How much did Maddie spend in all?",
   "checkpoint": [
     {
-      "$\\boxed{66}$": 1
+      "\\boxed{66}": 1
     }
   ],
   "matchingmethod": [

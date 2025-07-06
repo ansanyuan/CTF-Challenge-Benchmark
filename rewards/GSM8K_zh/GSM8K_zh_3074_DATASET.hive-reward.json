@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝利买了8个狗零食和额外的2个咀嚼玩具。她还得到了10根生皮骨头。不幸的是，她忘记了带钱，不得不将费用平均分摊到4张信用卡上。每张账单包括多少个物品？。",
+  "topic": "回答下面的数学问题：Bailey bought 8 dog treats and an additional 2 chew toys. She also got 10 more rawhide bones. Sadly, she forgot her money and had to split the charges equally across 4 credit cards. How many items were included in each charge?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

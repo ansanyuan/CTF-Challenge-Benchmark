@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：本尼买了一个新的存钱罐，想要开始存钱。一月份他存了19美元，然后二月份也存了同样的金额。到三月底，他一共有46美元。他三月份存了多少美元？。",
+  "topic": "回答下面的数学问题：Benny has bought a new piggy bank and wants to start saving money. In January he adds $19, then adds the same amount in February. By the end of March, he has $46. How many dollars did he add to the piggy bank in March?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

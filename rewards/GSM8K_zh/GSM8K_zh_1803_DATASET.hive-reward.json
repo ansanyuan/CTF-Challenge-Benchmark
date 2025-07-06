@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jason的水族箱里有六条鱼。他意识到每天鱼的数量都会翻倍。第三天，他拿走了三分之一的鱼。第五天，他拿走了四分之一的鱼。第七天，他又加了15条鱼。他一共有多少条鱼？。",
+  "topic": "回答下面的数学问题：Jason has six fish in his aquarium. He realizes that every day the number of fish doubles. On the third day he takes out one-third of the fish. On the fifth day he takes out one-fourth of the fish. On the seventh day he adds 15 more fish. How many fish in total does he have?",
   "checkpoint": [
     {
-      "$\\boxed{207}$": 1
+      "\\boxed{207}": 1
     }
   ],
   "matchingmethod": [

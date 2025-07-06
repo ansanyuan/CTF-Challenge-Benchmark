@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jason去图书馆的次数是William去的次数的4倍。如果William每周去图书馆2次，那么Jason在4周内去图书馆多少次？。",
+  "topic": "回答下面的数学问题：Jason goes to the library 4 times more often than William goes. If William goes 2 times per week to the library, how many times does Jason go to the library in 4 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

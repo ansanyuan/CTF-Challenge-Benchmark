@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗兰需要一段线来完成练习。他有一根长12厘米的线，但他的老师说他需要额外的三分之一。总共需要多长？。",
+  "topic": "回答下面的数学问题：Roland needs a length of thread to complete an exercise. He has a 12cm long thread but his teacher says he needs an additional three-quarters of what he has. What is the total length required?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：朱利安有400块乐高积木，想要制作两架相同的飞机模型。如果每架飞机模型需要240块积木，朱利安还需要多少块积木？。",
+  "topic": "回答下面的数学问题：Julian has 400 legos and wants to make lego models of two identical airplanes. If each airplane model requires 240 legos, how many more legos does Julian need?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯从亚马逊购买了价值3000美元的物品。他不得不退还一台价值700美元的电视和一辆价值500美元的自行车。他还以80%的价格出售了一辆比他退还的自行车贵20%的自行车。然后他用100美元买了一个烤面包机。他总共花了多少钱？。",
+  "topic": "回答下面的数学问题：James buys $3000 worth of stuff from Amazon.  He has to return a TV that cost $700 and a bike that cost $500.  He also sells another bike that cost 20% more than the bike he returned for 80% of what he bought it for.  He then buys a toaster for $100.  How much is he out of pocket for everything?",
   "checkpoint": [
     {
-      "$\\boxed{2020}$": 1
+      "\\boxed{2020}": 1
     }
   ],
   "matchingmethod": [

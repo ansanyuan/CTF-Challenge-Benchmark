@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：四个孩子在一起玩耍——阿克巴尔、亚历山德罗、海伦和威尔弗雷德。海伦的年龄是小组平均年龄的两倍，孩子们的总年龄是20岁。如果阿克巴尔3岁，亚历山德罗4岁，请计算威尔弗雷德的年龄。。",
+  "topic": "回答下面的数学问题：Four children are playing together—Akbar, Alessandro, Helene, and Wilfred. Helene is twice as old as the average age of the group, and the total age of the children is 20. If Akbar is 3 years old and Alessandro is 4 years old, calculate the age of Wilfred.",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

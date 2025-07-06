@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆的猫需要一项昂贵的手术。他已经有了24个月的宠物保险，每月20美元。这个手术费用是5000美元，但保险只覆盖其中的20%。他因为有保险而节省了多少钱？。",
+  "topic": "回答下面的数学问题：Tom's cat needs an expensive surgery.  He has had pet insurance for 24 months that cost $20 per month.  The procedure cost $5000 but the insurance covers all but 20% of this.  How much money did he save by having insurance?",
   "checkpoint": [
     {
-      "$\\boxed{3520}$": 1
+      "\\boxed{3520}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Seth买了一些盒橙子。他给了他妈妈一盒。然后他送出了剩下盒数的一半。如果Seth还剩下4盒橙子，他一开始买了多少盒？。",
+  "topic": "回答下面的数学问题：Seth bought some boxes of oranges. He gave a box to his mother. He then gave away half of the remaining boxes. If Seth has 4 boxes of oranges left, how many boxes did he buy in the first place?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

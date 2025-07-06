@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰点了一些披萨和他的朋友们分享。总共有20个朋友，约翰想确保每个人都能吃到4片。披萨只卖切成8份的。约翰需要点多少个披萨？。",
+  "topic": "回答下面的数学问题：John orders some pizzas to share with his friends.  There are 20 friends in total, and John wants to make sure each can have 4 slices.  Pizzas are only sold sliced into 8 portions.  How many Pizzas does John need to order?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

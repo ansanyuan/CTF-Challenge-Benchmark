@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了获得2000美元的利润，以赛亚斯必须以每只50美元的价格卖掉他计划带到市场的农场里的鸡。如果以赛亚斯的农场有300只鸡，并计划卖掉其中的3/5，那么以赛亚斯买来拿到市场上卖的鸡花了多少钱？。",
+  "topic": "回答下面的数学问题：To make a profit of $2000, Isaias has to sell the chickens he planned to take to the market from his farm at $50 per chicken. If Isaias has 300 chickens on his farm and plans to sell 3/5 of them, for how much money did Isaias buy the chicken he took to the market for sale?",
   "checkpoint": [
     {
-      "$\\boxed{7000}$": 1
+      "\\boxed{7000}": 1
     }
   ],
   "matchingmethod": [

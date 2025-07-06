@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：戴维斯老师给了她班上的10个小组每组15根冰棍棒。如果她原本有170根冰棍棒，她还剩下多少根？。",
+  "topic": "回答下面的数学问题：Miss Davis gave 15 popsicle sticks to each of the 10 groups in her class. How many sticks does she have left if she had 170 popsicle sticks?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

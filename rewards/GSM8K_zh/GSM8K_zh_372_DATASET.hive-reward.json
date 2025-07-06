@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗纳德可以在他的新烧烤架上每次烤15个汉堡。他今晚的派对总共需要烤115个汉堡。他已经烤了40个汉堡。罗纳德还需要多少次烧烤才能完成所有115个汉堡的烹饪？。",
+  "topic": "回答下面的数学问题：Ronald can grill 15 hamburgers per session on his new grill.  He needs to cook 115 hamburgers in total for tonight's party.  He has already cooked 40 hamburgers.  How many more sessions will it take Ronald to finish cooking all 115 hamburgers?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

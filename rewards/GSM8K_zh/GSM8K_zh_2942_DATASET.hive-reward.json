@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：弗朗辛每天开车上班距离为140公里。如果她每周有3天不上班，求她连续4周上班的总行驶距离（以公里计算）。。",
+  "topic": "回答下面的数学问题：Francine drives 140km to work each day. If she does not go to work 3 days every week, find the total distance she drives to work for 4 weeks in kilometers.",
   "checkpoint": [
     {
-      "$\\boxed{2240}$": 1
+      "\\boxed{2240}": 1
     }
   ],
   "matchingmethod": [

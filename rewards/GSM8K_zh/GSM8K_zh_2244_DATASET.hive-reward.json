@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ginger拥有一家花店，在那里她出售玫瑰、丁香和栀子花。周二，她卖出的玫瑰比丁香多三倍，比丁香少一半的栀子花。如果她卖出了10朵丁香，那么周二总共卖出的花的数量是多少？。",
+  "topic": "回答下面的数学问题：Ginger owns a flower shop, where she sells roses, lilacs, and gardenias. On Tuesday, she sold three times more roses than lilacs, and half as many gardenias as lilacs.  If she sold 10 lilacs, what is the total number of flowers sold on Tuesday?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

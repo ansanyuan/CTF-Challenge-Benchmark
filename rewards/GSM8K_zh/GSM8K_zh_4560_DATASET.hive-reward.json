@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marina有4.5磅的太妃糖。Lazlo比4磅的太妃糖少6盎司。Marina比Lazlo多多少盎司的太妃糖？。",
+  "topic": "回答下面的数学问题：Marina had 4.5 pounds of fudge. Lazlo had 6 ounces less than 4 pounds of fudge. How many more ounces of fudge did Marina have than Lazlo?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

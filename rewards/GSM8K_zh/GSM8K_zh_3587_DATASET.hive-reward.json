@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：欧内斯特买了50米的电线并将其切成5等份。然后他用了3份电线。有多少米的电线没有被使用？。",
+  "topic": "回答下面的数学问题：Ernest bought 50 meters of wire and cut it into 5 equal parts. He then used 3 parts of the wire. How many meters of wire is not used?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

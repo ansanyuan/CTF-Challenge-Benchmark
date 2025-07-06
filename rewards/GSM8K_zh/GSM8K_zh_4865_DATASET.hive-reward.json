@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Martha正在为她的三个孙子孙女（同卵三胞胎）编织冬季衣服。每套衣服包括一顶羊毛帽、一条围巾、一件毛衣、一双连指手套和一双羊毛袜。她可以在2小时内编织一顶帽子。一条围巾需要3小时。每只手套需要她大约1小时的时间。一只袜子需要1个半小时。每件毛衣需要她6小时。她需要多长时间才能编织所有的衣服？。",
+  "topic": "回答下面的数学问题：Martha is knitting winter clothes for her 3 grandchildren, who are all the same size (identical triplets.) Each set of clothes consists of a woolen hat, a scarf, a sweater, a pair of mittens, and a pair of wooly socks. She can knit a hat in 2 hours. A scarf takes her 3 hours. Each mitten takes her about an hour to knit. A sock takes an hour and a half. Each sweater takes her 6 hours. How long will it take her to knit all the outfits?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

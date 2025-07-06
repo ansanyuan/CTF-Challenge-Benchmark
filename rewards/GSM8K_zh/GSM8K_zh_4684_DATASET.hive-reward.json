@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：第1节体育课的学生人数比第2节体育课的学生人数少5人。第1节体育课有11名学生。第2节体育课有多少名学生？。",
+  "topic": "回答下面的数学问题：The Period 1 gym class has 5 fewer than twice as many students as in the Period 2 gym class. There are 11 students in the Period 1 gym class. How many are in the Period 2 gym class?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

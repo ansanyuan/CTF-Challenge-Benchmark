@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮访问伊朗时，她访问的康复中心比汉多6个，是朱德访问的两倍多。汉访问的康复中心比朱德少2个，是丽莎访问的两倍少。如果丽莎访问了6个康复中心，假设它们都是不同的，他们一共访问了多少个康复中心？。",
+  "topic": "回答下面的数学问题：When Jane visited Iran, she visited 6 more than twice as many rehabilitation centers as Han. Han visited 2 less than twice as many rehabilitation centers as Jude did. Jude visited half fewer rehabilitation centers as Lisa did. If Lisa visited 6 rehabilitation centers, how many rehabilitation centers did they all visit assuming they are all different?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

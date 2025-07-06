@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：温度是2摄氏度。它在一夜之间下降了8摄氏度，然后在早晨上升了3摄氏度。早晨的温度是多少摄氏度？。",
+  "topic": "回答下面的数学问题：The temperature was 2 degrees Celsius. It dropped 8 degrees Celsius overnight and then increased 3 degrees Celsius in the morning. What was the temperature, in degrees Celsius, in the morning?",
   "checkpoint": [
     {
-      "$\\boxed{-3}$": 1
+      "\\boxed{-3}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：沃尔特为慈善事业筹集资金。首先，他从邻居那里收集了500美元。然后，他从他在线设立的基金中收集了1500美元。他的律师提出捐赠的金额是其他所有人捐赠金额的三倍。沃尔特打算告诉他的律师关于邻居和在线基金的事情，直到他的朋友也给他200美元。沃尔特的律师将要贡献多少钱？。",
+  "topic": "回答下面的数学问题：Walter is collecting money for charity. First he collects $500 from his neighbors. Then he collects $1500 from a fund he set up online. His lawyer offers to donate three times as much as everyone else donates. Walter is going to tell him about his neighbors and the online fund until his friend gives him $200 as well. How much is Walter's lawyer going to contribute?",
   "checkpoint": [
     {
-      "$\\boxed{6600}$": 1
+      "\\boxed{6600}": 1
     }
   ],
   "matchingmethod": [

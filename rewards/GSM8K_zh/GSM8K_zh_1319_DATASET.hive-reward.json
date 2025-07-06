@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果Ruby比Pablo矮2厘米。Pablo比Charlene高70厘米。Janet身高62厘米，Charlene的身高是Janet的两倍。Ruby的身高是多少？。",
+  "topic": "回答下面的数学问题：If Ruby is 2 centimeters shorter than Pablo.  Pablo is 70 centimeters taller than Charlene.  Janet is 62 centimeters tall and Charlene is twice that tall.  How tall is Ruby?",
   "checkpoint": [
     {
-      "$\\boxed{192}$": 1
+      "\\boxed{192}": 1
     }
   ],
   "matchingmethod": [

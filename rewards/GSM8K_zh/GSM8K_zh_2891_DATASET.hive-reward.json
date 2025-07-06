@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯尔比戴夫少12美元，是戴夫的3倍。凯尔花了其中的三分之一去滑雪。如果戴夫有46美元，凯尔有多少钱？。",
+  "topic": "回答下面的数学问题：Kyle has $12 less than 3 times what Dave has. Kyle then spends a third of it going snowboarding. If Dave has $46, how much money does Kyle have?",
   "checkpoint": [
     {
-      "$\\boxed{84}$": 1
+      "\\boxed{84}": 1
     }
   ],
   "matchingmethod": [

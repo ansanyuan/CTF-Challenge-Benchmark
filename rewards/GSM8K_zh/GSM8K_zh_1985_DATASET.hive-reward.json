@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：雅各布试图每天摄入少于1800卡路里。如果他早餐吃了400卡路里，午餐吃了900卡路里，晚餐吃了1100卡路里，他比计划摄入多了多少卡路里？。",
+  "topic": "回答下面的数学问题：Jacob is trying to eat less than 1800 calories a day. If he eats 400 calories for breakfast, 900 calories for lunch, and 1100 calories for dinner, how many more calories did he eat than he planned?",
   "checkpoint": [
     {
-      "$\\boxed{600}$": 1
+      "\\boxed{600}": 1
     }
   ],
   "matchingmethod": [

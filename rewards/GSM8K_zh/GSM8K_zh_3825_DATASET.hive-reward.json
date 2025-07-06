@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽亚把她的三分之一的钱给了她的朋友伊莎，给了弗洛伦斯的钱的一半。如果弗洛伦斯收到的钱是玛丽亚表弟雷内收到的三倍，雷内收到了300美元，那么玛丽亚给了她三个朋友多少钱？。",
+  "topic": "回答下面的数学问题：Maria gave a third of her money to her friend Isha, half of what she gave to Florence. If Florence received three times as much money as Maria's cousin Rene, and Rene received $300, how much money did Maria give her three friends?",
   "checkpoint": [
     {
-      "$\\boxed{1650}$": 1
+      "\\boxed{1650}": 1
     }
   ],
   "matchingmethod": [

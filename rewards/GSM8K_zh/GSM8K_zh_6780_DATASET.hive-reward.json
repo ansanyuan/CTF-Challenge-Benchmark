@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：曼迪有三张20美元的钞票，而曼尼有两张50美元的钞票。如果他们决定用10美元的钞票交换他们的钞票，曼尼将比曼迪多多少张10美元的钞票？。",
+  "topic": "回答下面的数学问题：Mandy has three $20 bills while Manny has two $50 bills. If both of them decide to exchange their bills for $10 bills, how many more $10 bills than Mandy will Manny have?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

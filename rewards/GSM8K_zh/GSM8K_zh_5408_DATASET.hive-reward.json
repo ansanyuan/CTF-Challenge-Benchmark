@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jill有一场难的考试要复习。她决定第一天学习2小时。第二天她把这个时间加倍，第三天她比前一天少学习1小时。Jill在这3天内学习了多少分钟？。",
+  "topic": "回答下面的数学问题：Jill has a difficult test to study for.  She decides to study one day for 2 hours.  The next day she doubles this amount, and the day after that she studies one hour less than the previous day.  How many minutes does Jill study over the 3 days?",
   "checkpoint": [
     {
-      "$\\boxed{540}$": 1
+      "\\boxed{540}": 1
     }
   ],
   "matchingmethod": [

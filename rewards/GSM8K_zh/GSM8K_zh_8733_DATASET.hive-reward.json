@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：德里克有一个面包店，每天制作10打甜甜圈，每个甜甜圈售价2美元。如果他卖掉所有的甜甜圈，德里克在六月份能赚多少钱？。",
+  "topic": "回答下面的数学问题：Derrick has a bakery that makes 10 dozen doughnuts every day, selling at $2 per doughnut. How much money does Derrick make in June if he sells all the doughnuts?",
   "checkpoint": [
     {
-      "$\\boxed{7200}$": 1
+      "\\boxed{7200}": 1
     }
   ],
   "matchingmethod": [

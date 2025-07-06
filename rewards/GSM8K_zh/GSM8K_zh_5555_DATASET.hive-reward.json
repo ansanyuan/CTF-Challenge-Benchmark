@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丹特烘烤巧克力蛋糕所需的面粉杯数是他所需鸡蛋数的一半。如果他的食谱中使用了60个鸡蛋，请计算他总共使用的面粉杯数和鸡蛋数。。",
+  "topic": "回答下面的数学问题：Dante needs half as many cups of flour to bake his chocolate cake as he needs eggs. If he uses 60 eggs in his recipe, calculate the total number of cups of flour and eggs that he uses altogether.",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

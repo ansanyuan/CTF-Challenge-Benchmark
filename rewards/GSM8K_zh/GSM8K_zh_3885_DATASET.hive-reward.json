@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在复活节彩蛋寻找活动中，凯文找到了5个彩蛋，邦妮找到了13个彩蛋，乔治找到了9个彩蛋，谢丽尔找到了56个彩蛋。谢丽尔比其他三个孩子多找到了多少个彩蛋？。",
+  "topic": "回答下面的数学问题：During the Easter egg hunt, Kevin found 5 eggs, Bonnie found 13 eggs, George found 9 and Cheryl found 56.  How many more eggs did Cheryl find than the other three children found?",
   "checkpoint": [
     {
-      "$\\boxed{29}$": 1
+      "\\boxed{29}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Roe从一月到七月每月存10美元，从八月到十一月每月存15美元。她应该在十二月存多少钱，这样她一年的总存款为150美元？。",
+  "topic": "回答下面的数学问题：Roe saved $10 per month from January to July and saved $15 per month from August to November. How much should she save in December so she will have a total savings of $150 in the year?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

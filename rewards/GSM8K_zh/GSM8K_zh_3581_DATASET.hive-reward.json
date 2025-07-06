@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：雷米准备了一个番茄苗圃并种植了番茄幼苗。20天后，幼苗已经准备好移栽。第一天，他在农场种植了200株幼苗。第二天，他在与父亲一起工作时，种植的幼苗数量是第一天的两倍。如果这两天转移到农场的幼苗总数是1200，他的父亲种植了多少株幼苗？。",
+  "topic": "回答下面的数学问题：Remi prepared a tomato nursery and planted tomato seedlings. After 20 days, the seedlings were ready to be transferred. On the first day, he planted 200 seedlings on the farm. On the second day, while working alongside his father, he planted twice the number of seedlings he planted on the first day. If the total number of seedlings transferred to the farm on these two days was 1200, how many seedlings did his father plant?",
   "checkpoint": [
     {
-      "$\\boxed{600}$": 1
+      "\\boxed{600}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：这个城镇正在举办一场比赛，看看谁能以最快的速度跑完城镇广场的7圈。城镇广场长3/4英里。获胜者在42分钟内完成比赛。去年的获胜者在47.25分钟内完成比赛。今年的获胜者平均比去年的获胜者快了多少分钟每英里？。",
+  "topic": "回答下面的数学问题：The town is having a race to see who can run around the town square 7 times the fastest. The town square is 3/4 of a mile long. The winner finishes the race in 42 minutes. Last year's winner finished in 47.25 minutes. How many minutes on average faster did this year's winner run one mile of the race compared to last year?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：这家爱好店通常每个月销售21122张交换卡。在六月，这家爱好店比平时多卖了3922张交换卡。如果这家爱好店在七月卖出了正常数量的交换卡，那么这家爱好店在六月和七月总共卖出了多少张交换卡？。",
+  "topic": "回答下面的数学问题：The hobby store normally sells 21,122 trading cards per month. In June, the hobby store sold 3,922 more trading cards than normal. If the hobby store sold the regular number of trading cards in July, how many trading cards did the hobby store sell in June and July combined?",
   "checkpoint": [
     {
-      "$\\boxed{46166}$": 1
+      "\\boxed{46166}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jason等待一个顾客，账单金额为15.00美元。Jason所在的州对餐厅销售额征收20%的税。如果顾客给了Jason一张20美元的钞票，并告诉他留下找零，Jason的小费是多少？。",
+  "topic": "回答下面的数学问题：Jason waits on a customer whose check comes to $15.00. Jason's state applies a 20% tax to restaurant sales. If the customer gives Jason a $20 bill and tells him to keep the change, how much is Jason's tip?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

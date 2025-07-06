@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Zion用纸牌做了一个底边长度为40厘米，高度为20厘米的三角形房子。如果他的两个朋友也建造了类似形状的房子，Zion和他的朋友们做的三角形房子的总面积是多少（三角形的面积为1/2 * 底 * 高）？。",
+  "topic": "回答下面的数学问题：Zion made a triangular-shaped house of cards with the base having a measurement of 40 centimeters and a height of 20 centimeters. If two of his friends also built similar shaped houses, what's the total area of the triangular houses that Zion and his friends made (the area of a triangle is 1/2 * width * height)?",
   "checkpoint": [
     {
-      "$\\boxed{1200}$": 1
+      "\\boxed{1200}": 1
     }
   ],
   "matchingmethod": [

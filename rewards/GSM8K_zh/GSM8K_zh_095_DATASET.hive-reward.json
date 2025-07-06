@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰每天写20页。他要写3本每本400页的书需要多长时间？。",
+  "topic": "回答下面的数学问题：John writes 20 pages a day.  How long will it take him to write 3 books that are 400 pages each?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

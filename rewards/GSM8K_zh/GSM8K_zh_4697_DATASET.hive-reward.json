@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两辆公交车从一个接送点站出发，分别以60%和70%的容量出发。如果公交车上的人都是一家公司的员工，而公交车的容量为150，计算两辆公交车总共有多少员工？。",
+  "topic": "回答下面的数学问题：Two buses leave a pick-up point station with 60% and 70% of capacity full, respectively. If the people in the buses are all employees of a company, and the buses have a capacity of 150, calculate the total number of the employees in the two buses combined?",
   "checkpoint": [
     {
-      "$\\boxed{195}$": 1
+      "\\boxed{195}": 1
     }
   ],
   "matchingmethod": [

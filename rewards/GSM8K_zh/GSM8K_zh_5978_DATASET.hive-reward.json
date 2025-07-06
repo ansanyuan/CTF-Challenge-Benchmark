@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一群家长聚在一起决定雇佣一名私立学校老师辞去工作来教他们的孩子。他以前的工资是每年45000美元，他们给了他20%的加薪。如果有9个孩子，每位家长需要支付多少钱？。",
+  "topic": "回答下面的数学问题：A group of parents get together and decide to hire a private school teacher to quit his job and teach their children.  His former job paid 45,000 per year and they offered him a 20% raise.  If there are 9 kids how much does each parent have to pay?",
   "checkpoint": [
     {
-      "$\\boxed{6000}$": 1
+      "\\boxed{6000}": 1
     }
   ],
   "matchingmethod": [

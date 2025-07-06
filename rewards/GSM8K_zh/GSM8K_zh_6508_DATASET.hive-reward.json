@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有2450张纸均匀地分成5个文件夹。贾斯汀拿了一个文件夹，然后在一半的纸上涂色。贾斯汀用了多少张纸？。",
+  "topic": "回答下面的数学问题：There were 2450 sheets of paper that were evenly split into 5 binders. Justine took a binder and colored on one-half of the sheets of paper. How many sheets of paper did Justine use?",
   "checkpoint": [
     {
-      "$\\boxed{245}$": 1
+      "\\boxed{245}": 1
     }
   ],
   "matchingmethod": [

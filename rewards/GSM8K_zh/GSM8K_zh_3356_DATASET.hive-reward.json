@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个容量为8000加仑的储水罐装了3/4的水。达克斯顿用储水罐中总水量的40%来浇灌他的菜园。然后他用储水罐中剩余水量的30%来填满储水罐。计算储水罐中的最终水量。。",
+  "topic": "回答下面的数学问题：A tank with a capacity of 8000 gallons is 3/4 full. Daxton empty's the tank by 40% of the total volume of water in the tank to water his vegetable farm. He then fills the tank with 30% of the volume of water remaining in the tank. Calculate the final volume of water in the tank.",
   "checkpoint": [
     {
-      "$\\boxed{4680}$": 1
+      "\\boxed{4680}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Martha收藏了11只蝴蝶。她有两倍于黄色蝴蝶数量的蓝色蝴蝶。她剩下的蝴蝶是黑色的。如果Martha有5只黑色蝴蝶，她有多少只蓝色蝴蝶？。",
+  "topic": "回答下面的数学问题：Martha has 11 butterflies in her collection. She has twice as many blue butterflies as yellow butterflies. The rest of her butterflies are black. If Martha has 5 black butterflies, how many blue butterflies does she have?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

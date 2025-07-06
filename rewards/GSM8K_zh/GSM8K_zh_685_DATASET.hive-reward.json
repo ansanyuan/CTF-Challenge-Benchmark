@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Grace可以在20小时内读完一本200页的书。以这个恒定的速度，她需要多长时间才能读完一本250页的书？。",
+  "topic": "回答下面的数学问题：Grace can read a 200-page book in 20 hours. How long would it take her to finish reading a 250-page book at this constant rate?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一场比赛中，共有50人观看了一支棒球队的比赛。百分之四十和百分之三十四的观众分别是第一支和第二支球队的支持者。有多少人观看比赛却不支持任何一支球队？。",
+  "topic": "回答下面的数学问题：During one game, a total of 50 people attended a baseball team’s games. Forty percent and thirty-four percent of the audiences are supporters of the first and second teams, respectively. How many people attended the game did not support either of the teams?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

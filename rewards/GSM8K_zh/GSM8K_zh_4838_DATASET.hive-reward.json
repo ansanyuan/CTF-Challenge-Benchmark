@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：芬恩买了一双高跟鞋，价格为60美元，以及五双芭蕾舞鞋，价格为高跟鞋价格的2/3。她一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：Fern buys one pair of high heels for $60 and five pairs of ballet slippers for 2/3rds of the price of the high heels. How much does she pay total?",
   "checkpoint": [
     {
-      "$\\boxed{260}$": 1
+      "\\boxed{260}": 1
     }
   ],
   "matchingmethod": [

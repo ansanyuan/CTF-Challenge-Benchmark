@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：农场里有鸡在自由地漫步。公鸡的数量是母鸡的两倍。如果农场上有9000只鸡，那么有多少只公鸡？。",
+  "topic": "回答下面的数学问题：There are chickens roaming the chicken farm. The roosters outnumber the hens 2 to 1. If there are 9,000 chickens on the chicken farm, how many roosters are there?",
   "checkpoint": [
     {
-      "$\\boxed{6000}$": 1
+      "\\boxed{6000}": 1
     }
   ],
   "matchingmethod": [

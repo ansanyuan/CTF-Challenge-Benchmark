@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：露西一直在尝试新的食谱，并希望确保她的橱柜里有足够的食材。她在这周初橱柜里有一袋500克的面粉。周二烤饼干时，她用了240克，然后在收拾面粉时不小心洒掉了剩下的一半。如果露西想要橱柜里有一整袋面粉，她需要购买多少克的面粉？。",
+  "topic": "回答下面的数学问题：Lucy has been trying new recipes and wants to make sure she keeps the cupboard stocked with ingredients. She had a 500g bag of flour in the cupboard at the start of the week. She used 240g when she baked cookies on Tuesday, and accidentally spilled half of what was left when she was putting the flour away. If Lucy wants a full bag of flour in the cupboard, how much flour does she need to buy, in grams?",
   "checkpoint": [
     {
-      "$\\boxed{370}$": 1
+      "\\boxed{370}": 1
     }
   ],
   "matchingmethod": [

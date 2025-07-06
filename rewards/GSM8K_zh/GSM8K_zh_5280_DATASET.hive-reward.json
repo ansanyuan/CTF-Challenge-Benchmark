@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个手机工厂的产量是去年的两倍。去年的产量是5000部手机。如果今年的产量的四分之一被卖掉了，工厂里还剩下多少部手机？。",
+  "topic": "回答下面的数学问题：A phone factory makes twice as many phones as last year. Last year’s production was 5000 phones. If a quarter of this year’s production is sold, how many phones are left in the factory?",
   "checkpoint": [
     {
-      "$\\boxed{7500}$": 1
+      "\\boxed{7500}": 1
     }
   ],
   "matchingmethod": [

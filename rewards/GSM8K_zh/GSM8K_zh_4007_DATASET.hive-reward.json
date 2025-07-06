@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Fabian买了一套全新的电脑鼠标和键盘，以便能够在家工作。键盘的成本是鼠标的三倍。如果鼠标的成本是16美元，Fabian在他的新配件上花了多少钱？。",
+  "topic": "回答下面的数学问题：Fabian bought a brand new computer mouse and keyboard to be able to work from home. The cost of the keyboard was three times greater than the cost of the mouse. If the mouse cost $16, how much did Fabian spent on his new accessories?",
   "checkpoint": [
     {
-      "$\\boxed{64}$": 1
+      "\\boxed{64}": 1
     }
   ],
   "matchingmethod": [

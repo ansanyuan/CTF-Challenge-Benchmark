@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽看到了三个繁殖球，每个球里有8条蛇，还有额外的6对蛇。她总共看到了多少条蛇？。",
+  "topic": "回答下面的数学问题：Mary sees three breeding balls with 8 snakes each and 6 additional pairs of snakes. How many snakes did she see total?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

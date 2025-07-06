@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kiaan在他的社区200户家庭中进行报纸的送货上门服务。工作了一个小时后，他已经向5分之2的家庭派发了报纸。再工作了2个小时后，他意识到已经向剩下的家庭派发了60%的报纸。他还需要向多少户家庭派发报纸？。",
+  "topic": "回答下面的数学问题：Kiaan is doing home delivery of newspapers in his neighborhood of 200 homes. After an hour of work, he has distributed newspapers to 2/5 of the homes. After another 2 hours of working, he realizes he has distributed newspapers to 60 percent of the remaining homes. How many homes does he still need to distribute the newspapers to?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Betsy正在缝制一条被子。被子由一边缝合的16个正方形和另一边缝合的16个正方形组成。Betsy已经缝合了被子的25%。她还需要缝合多少个正方形？。",
+  "topic": "回答下面的数学问题：Betsy is sewing a quilt.  The quilt is made up of 16 squares sewn together on one side and 16 squares sewn together on the other side.  Betsy has already sewn 25% of the quilt together.  How many more squares does she need to sew together?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

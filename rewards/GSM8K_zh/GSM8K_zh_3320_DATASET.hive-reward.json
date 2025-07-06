@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一根10米长的毛线被切成5等份。如果用了3份来编织，那么用来编织的长度是多少？。",
+  "topic": "回答下面的数学问题：A 10 meters yarn was cut into 5 equal parts. If 3 parts were used for crocheting, how long was used for crocheting?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

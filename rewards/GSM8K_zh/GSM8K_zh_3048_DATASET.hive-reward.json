@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个剧院举办了一场戏剧，门票价格为10美元。一个剧院有20排，每排有10个座位。如果只卖出了3/4的座位，这场戏剧赚了多少钱？。",
+  "topic": "回答下面的数学问题：A play was held in an auditorium and its ticket costs $10. An auditorium has 20 rows and each row has 10 seats. If only 3/4 of the seats were sold, how much was earned from the play?",
   "checkpoint": [
     {
-      "$\\boxed{1500}$": 1
+      "\\boxed{1500}": 1
     }
   ],
   "matchingmethod": [

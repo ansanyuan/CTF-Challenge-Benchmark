@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Samuel正在开车去旧金山的Comic-Con，他需要前往预订的酒店，距离为600英里。一开始，他以每小时50英里的速度连续开了3小时，然后他加速到每小时80英里的速度开了4小时。他离酒店还有多远？。",
+  "topic": "回答下面的数学问题：Samuel is driving to San Francisco’s Comic-Con in his car and he needs to travel 600 miles to the hotel where he made a reservation. At first, he drives at 50 miles/hour for 3 hours straight, then he speeds up to 80 miles/hour for 4 hours. How far is he from the hotel?",
   "checkpoint": [
     {
-      "$\\boxed{130}$": 1
+      "\\boxed{130}": 1
     }
   ],
   "matchingmethod": [

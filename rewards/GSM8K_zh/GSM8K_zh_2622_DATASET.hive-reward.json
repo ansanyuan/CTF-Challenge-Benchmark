@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：菲菲的衣柜里，她把所有的衣服都挂在彩色塑料衣架上。她有7个粉色衣架上挂着衣服，4个绿色衣架上挂着衣服，比绿色衣架少一个蓝色衣架，比蓝色衣架少一个黄色衣架。菲菲的衣柜里彩色衣架的总数是多少？。",
+  "topic": "回答下面的数学问题：In Fifi's closet, she hangs all of her clothes on colored plastic hangers.  She has clothes hanging on 7 pink hangers, 4 green hangers, one less blue hanger than there are green hangers, and one less yellow hanger than there are blue hangers.  What is the total number of colored hangers in Fifi's closet?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

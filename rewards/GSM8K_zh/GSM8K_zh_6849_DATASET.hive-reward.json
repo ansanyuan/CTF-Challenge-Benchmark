@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Olivia用4个25美分的硬币买了薯片，用12个25美分的硬币买了苏打。她总共支付了多少美元？。",
+  "topic": "回答下面的数学问题：Olivia pays 4 quarters for chips and 12 quarters for soda. How many dollars does she pay in total?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

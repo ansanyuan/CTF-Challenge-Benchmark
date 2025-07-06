@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果一只蜘蛛的腿数是人类腿数的两倍加倍数，那么一只蜘蛛有多少条腿？。",
+  "topic": "回答下面的数学问题：How many legs does a spider have if it has two times more than double the number of legs a human has?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

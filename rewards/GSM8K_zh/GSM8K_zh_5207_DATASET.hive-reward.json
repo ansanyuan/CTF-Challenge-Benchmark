@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮想知道骨粉和牛粪哪种肥料更好。没有施肥的对照植物长到36英寸高，骨粉植物长到对照植物高度的125%，牛粪植物长到骨粉植物高度的200%。牛粪植物有多高（单位：英寸）？。",
+  "topic": "回答下面的数学问题：Jenny wants to know whether bone meal or cow manure makes better fertilizer. The control plant with no fertilizer grows 36 inches high, the plant with bone meal grows to 125% of the height of the control plant, and the cow manure plant grows to 200% of the height of the bone meal plant. How tall is the cow manure plant in inches?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

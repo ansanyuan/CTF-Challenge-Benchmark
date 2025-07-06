@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Eliza每周前40小时的时薪是10美元。她的加班工资是平时每小时工资的1.2倍。如果Eliza这周工作了45小时，那么她这周的收入是多少？。",
+  "topic": "回答下面的数学问题：Eliza's rate per hour for the first 40 hours she works each week is $10. She also receives an overtime pay of 1.2 times her regular hourly rate. If Eliza worked for 45 hours this week, how much are her earnings for this week?",
   "checkpoint": [
     {
-      "$\\boxed{460}$": 1
+      "\\boxed{460}": 1
     }
   ],
   "matchingmethod": [

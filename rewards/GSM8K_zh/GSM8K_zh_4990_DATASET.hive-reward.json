@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：埃德蒙拥有一个礼品包装店，他每个礼品盒需要18英寸的礼品包装纸。如果埃德蒙每天有90英寸的礼品包装纸，他每3天能包装多少个礼品盒？。",
+  "topic": "回答下面的数学问题：Edmund owns a gift wrapping shop, he uses 18 inches of gift wrapper per gift box. If Edmund has 90 inches of gift wrapper per day, how many gift boxes will he be able to wrap every 3 days?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

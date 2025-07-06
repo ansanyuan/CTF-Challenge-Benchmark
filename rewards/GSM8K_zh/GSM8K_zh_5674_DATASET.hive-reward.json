@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰和山姆饿了，所以他们订购了一个预先切成12块的特大披萨。 约翰吃了3块，而山姆吃了约翰吃的两倍。还剩下多少块披萨？。",
+  "topic": "回答下面的数学问题：John and Sam were hungry so they ordered an extra-large pizza that was pre-sliced into 12 pieces.  John ate 3 slices while Sam ate twice the amount that John ate.  How many slices of pizza were left?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

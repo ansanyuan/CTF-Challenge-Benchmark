@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hopps警官必须在五月份发放200张罚单。前15天，他平均每天发放8张罚单。为了达到他的目标，他在本月剩下的时间里每天平均要发放多少张罚单？。",
+  "topic": "回答下面的数学问题：Officer Hopps has to give out 200 tickets in May. The first 15 days he averages 8 tickets a day. How many does he have to average each day for the rest of the month to reach his required goal?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

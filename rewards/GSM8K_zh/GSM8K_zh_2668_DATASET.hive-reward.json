@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当三个朋友卖掉他们的电子游戏时，三个朋友中的第一个朋友Ryan从销售中获得的钱比Jason多50美元。Jason从卖掉他的电子游戏中获得的钱比Zachary多30%。如果Zachary以每个5美元的价格卖出40个游戏，计算三个朋友一起从销售电子游戏中获得的总金额。。",
+  "topic": "回答下面的数学问题：When three friends sold their video games, Ryan, the first of the three friends, received $50 more than Jason from his sales. Jason received 30% more money than Zachary from selling his video games. If Zachary sold 40 games at $5 each, calculate the total amount of money the three friends received together from the sale of the video games.",
   "checkpoint": [
     {
-      "$\\boxed{770}$": 1
+      "\\boxed{770}": 1
     }
   ],
   "matchingmethod": [

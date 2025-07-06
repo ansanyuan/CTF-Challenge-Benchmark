@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯订购了一个有线电视节目。前100个频道花费100美元，接下来的100个频道花费一半。他和室友平分费用。他一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：James gets a cable program.  The first 100 channels cost $100 and the next 100 channels cost half that much.  He splits it evenly with his roommate.  How much did he pay?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

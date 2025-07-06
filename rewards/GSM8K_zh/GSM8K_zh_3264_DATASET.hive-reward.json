@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Andy每吃4根糖果杖就会得一颗蛀牙。他从父母那里得到2根糖果杖，从4位老师那里每人得到3根糖果杖。然后他用零花钱买了他得到的糖果杖的1/7。他吃掉所有的糖果杖后会得多少颗蛀牙？。",
+  "topic": "回答下面的数学问题：Andy gets a cavity for every 4 candy canes he eats. He gets 2 candy canes from his parents and 3 candy canes each from 4 teachers. Then he uses his allowance to buy 1/7 as many candy canes as he was given. How many cavities does he get from eating all his candy canes?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

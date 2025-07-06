@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：弗朗辛想知道当地的化工厂是否释放了使青蛙发生变异的有毒废物。在一个当地的池塘中，她捕捉到5只多腿的青蛙，2只有2个头的青蛙，两只是鲜红色的青蛙，还有18只正常的青蛙。有多少百分比的青蛙发生了变异，四舍五入到最接近的整数？。",
+  "topic": "回答下面的数学问题：Francine wants to know if a local chemical plant is releasing toxic waste that makes the frogs mutate. In one local pond, she catches 5 frogs with extra legs, 2 frogs with 2 heads, two frogs that are bright red, and 18 normal frogs. What percentage of the frogs have mutated, rounded to the nearest integer?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

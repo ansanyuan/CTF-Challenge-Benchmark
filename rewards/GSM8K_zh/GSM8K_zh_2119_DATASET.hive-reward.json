@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布兰登已经被镇上一半的企业解雇，并且从三分之一的企业辞职。如果镇上有72家企业，他还能申请多少家企业？。",
+  "topic": "回答下面的数学问题：Brandon has been fired from half the businesses in town and has quit from a third of them. If there are 72 business in town, how many businesses can he still apply to?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

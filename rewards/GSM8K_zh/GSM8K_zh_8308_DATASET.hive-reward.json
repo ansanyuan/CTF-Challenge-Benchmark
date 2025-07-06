@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mason骑自行车的速度是每小时8英里。他骑了4个小时，休息了一会儿，然后又继续骑了6个小时。他总共骑了多少英里？。",
+  "topic": "回答下面的数学问题：Mason is on his bike journey at a rate of 8 miles per hour. He travels for 4 hours, takes some rest, and then goes on for another 6 hours. How many miles has he traveled in total?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

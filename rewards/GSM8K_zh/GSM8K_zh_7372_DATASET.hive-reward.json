@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Karen的学生即将参加一场标准化考试。如果他们的平均分超过75，Karen将获得500美元的奖金，以及每增加1分的额外奖金10美元。到目前为止，Karen已经批改了8份试卷，平均分为70。假设每个学生的最高分为150，最后两份试卷需要获得多少总分，Karen才能获得600美元的奖金？。",
+  "topic": "回答下面的数学问题：Karen's students are about to take a standardized test. Karen gets a $500 bonus if their average score is above 75, plus an extra $10 bonus for every additional point the average score increases above 75. So far, Karen has graded 8 tests, and the average is 70. Given that each student can have a maximum score of 150, what combined score do the last two tests need to have for Karen to earn a $600 bonus?",
   "checkpoint": [
     {
-      "$\\boxed{290}$": 1
+      "\\boxed{290}": 1
     }
   ],
   "matchingmethod": [

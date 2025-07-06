@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约书亚、何塞和阿尔伯特在收集石头。约书亚收集了80块石头，而何塞收集的石头比他少14块。阿尔伯特比何塞多收集了20块石头。阿尔伯特比约书亚多收集了多少块石头？。",
+  "topic": "回答下面的数学问题：Joshua, Jose, and Albert are collecting rocks. Joshua collected 80 rocks while Jose collected 14 fewer rocks. Albert has collected 20 more rocks than Jose. How many more rocks did Albert collect than Joshua?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

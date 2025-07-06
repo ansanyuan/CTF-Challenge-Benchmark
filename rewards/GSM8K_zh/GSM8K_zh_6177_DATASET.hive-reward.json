@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有34个孩子报名参加才艺表演。报名参加比男孩多22个女孩。有多少个女孩报名参加才艺表演？。",
+  "topic": "回答下面的数学问题：There are 34 kids signed up to compete in the talent show. There are 22 more girls than boys signed up to compete. How many girls are signed up to compete in the talent show?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

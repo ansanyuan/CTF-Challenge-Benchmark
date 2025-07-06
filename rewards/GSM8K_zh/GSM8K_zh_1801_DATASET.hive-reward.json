@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一次几何考试中，玛德琳犯了2个错误，这是利奥犯错误数量的一半。布伦特得了25分，比利奥多了1个错误。玛德琳的分数是多少？。",
+  "topic": "回答下面的数学问题：In a Geometry exam, Madeline got 2 mistakes which are half as many mistakes as Leo. Brent scored 25 and has 1 more mistake than Leo. What is Madeline's score?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mari比Kendra制作了多出5倍的装饰按钮再加上4个。Sue制作的数量是Kendra的一半。Sue制作了6个按钮。Mari制作了多少个？。",
+  "topic": "回答下面的数学问题：Mari made 4 more than five times as many decorated buttons as Kendra. Sue made half as many as Kendra. Sue made 6 buttons. How many did Mari make?",
   "checkpoint": [
     {
-      "$\\boxed{64}$": 1
+      "\\boxed{64}": 1
     }
   ],
   "matchingmethod": [

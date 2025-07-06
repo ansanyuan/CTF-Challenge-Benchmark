@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Elliott在他的书上画了一个直角三角形。它的底边长4英寸，高3英寸，斜边的长度是多少？他画的三角形的周长是多少？。",
+  "topic": "回答下面的数学问题：Elliott drew a right-angle triangle on his book. It had a base of 4 inches, a height of 3 inches and a certain length of the hypotenuse. What was the length of the perimeter of the triangle that he drew?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

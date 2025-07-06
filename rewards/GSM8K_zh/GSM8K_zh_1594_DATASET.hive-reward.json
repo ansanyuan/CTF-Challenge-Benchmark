@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Yun最初有20个订书钉，但后来丢了12个。Marion比Yun当前拥有的数量多1/4，再加上7。Marion有多少个订书钉？。",
+  "topic": "回答下面的数学问题：Yun had 20 paperclips initially, but then lost 12. Marion has 1/4 more than what Yun currently has, plus 7. How many paperclips does Marion have?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

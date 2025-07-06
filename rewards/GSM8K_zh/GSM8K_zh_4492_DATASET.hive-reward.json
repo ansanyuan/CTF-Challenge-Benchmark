@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克为他的3个孩子每人缝制3件衬衫。每件衬衫上有7个纽扣。杰克必须为所有衬衫使用多少个纽扣？。",
+  "topic": "回答下面的数学问题：Jack sews 3 shirts for each of his 3 kids. He sews 7 buttons in each shirt. How many buttons must Jack use for all the shirts?",
   "checkpoint": [
     {
-      "$\\boxed{63}$": 1
+      "\\boxed{63}": 1
     }
   ],
   "matchingmethod": [

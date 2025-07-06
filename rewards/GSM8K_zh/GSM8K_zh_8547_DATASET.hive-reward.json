@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗布莱斯先生买了315根香蕉，足够他的三只猴子吃一个星期。一只猴子每天吃10根香蕉。第二只猴子比第一只多吃4根香蕉，第三只猴子吃掉了当天剩下的香蕉。第三只猴子每天吃多少根香蕉？。",
+  "topic": "回答下面的数学问题：Mr. Robles buys 315 bananas, which is enough to feed his three monkeys for a week. One monkey eats 10 bananas each day. The second monkey eats 4 more bananas than the first monkey and the third monkey eats the rest of the bananas for the day.  How many bananas does the third monkey eat each day?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

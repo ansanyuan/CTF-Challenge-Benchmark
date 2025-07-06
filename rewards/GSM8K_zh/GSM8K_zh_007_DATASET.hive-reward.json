@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿尔伯特想知道他一天能吃多少块披萨。他买了2个大披萨和2个小披萨。一个大披萨有16块，一个小披萨有8块。如果他全部吃完，那天他吃了多少块披萨？。",
+  "topic": "回答下面的数学问题：Albert is wondering how much pizza he can eat in one day. He buys 2 large pizzas and 2 small pizzas. A large pizza has 16 slices and a small pizza has 8 slices. If he eats it all, how many pieces does he eat that day?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

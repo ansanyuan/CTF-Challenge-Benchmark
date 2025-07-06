@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾琳每周工作40小时，如果加班，每小时额外获得20美元。上周她工作了50小时，计算她的总收入。。",
+  "topic": "回答下面的数学问题：Irene earns $500 if she works for 40 hours a week and gets an extra $20 for every hour of overtime. If she worked 50 hours last week, calculate her total income.",
   "checkpoint": [
     {
-      "$\\boxed{700}$": 1
+      "\\boxed{700}": 1
     }
   ],
   "matchingmethod": [

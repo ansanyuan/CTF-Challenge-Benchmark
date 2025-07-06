@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯以每张2美元的价格购买了200张彩票。这些彩票中有20%是中奖的。中奖者中80%的奖金为5美元。1张彩票是5000美元的头奖。其他彩票平均中奖10美元。他的利润是多少？。",
+  "topic": "回答下面的数学问题：James buys 200 lotto tickets for 2 dollars each.  Of those tickets 20% are winners.  80% of the winners are for 5 dollars. 1 ticket is the grand prize of $5,000.  The other tickets win an average of $10.  How much did he profit?",
   "checkpoint": [
     {
-      "$\\boxed{4830}$": 1
+      "\\boxed{4830}": 1
     }
   ],
   "matchingmethod": [

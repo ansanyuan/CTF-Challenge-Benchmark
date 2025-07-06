@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：聚会开始时，有25名男士和15名女士。一个小时后，总人数的1/4离开了。如果有22名男士留在聚会上，那么还剩下多少名女士？。",
+  "topic": "回答下面的数学问题：At the beginning of the party, there were 25 men and 15 women. After an hour, 1/4 of the total number of people left. How many women are left if 22 men stayed at the party?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

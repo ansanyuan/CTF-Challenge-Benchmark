@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔在课堂上为了让自己保持忙碌，制作橡皮筋球。他制作了两种尺寸，大号和小号。一个小号球需要50根橡皮筋。一个大号球需要300根橡皮筋。迈克尔带了一个5000包装的橡皮筋到课堂上，并已经制作了22个小号球。用剩下的橡皮筋他可以制作多少个大号球？。",
+  "topic": "回答下面的数学问题：To keep himself busy in class, Michael makes rubber-band balls. He makes two sizes, large and small. A small ball uses 50 rubber bands. A large ball requires 300 rubber bands. Michael brought a 5,000 pack to class and already made 22 small balls. How many large balls can he make with the remaining rubber bands?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

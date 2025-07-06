@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三个朋友：Mike、Jim和Tony决定玩一个游戏。经过3轮比赛后，Mike有21分，Jim比Mike少3分，Tony是Mike的2倍。在第四轮中，如果玩家超过20分，每个玩家可以额外得到1分。在额外的分数分配后，三个玩家总共有多少分？。",
+  "topic": "回答下面的数学问题：Three friends: Mike, Jim, and Tony decided to play a game. After 3 rounds Mike has 21 points, Jim 3 points less than Mike, and Tony 2 times more than Mike. In the fourth round, every player gets an extra point if they have over 20 points. How many points do all three players have in total after the extra points had been distributed?",
   "checkpoint": [
     {
-      "$\\boxed{83}$": 1
+      "\\boxed{83}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布兰登在1小时内可以捕捉6只松鼠或两只兔子。每只松鼠有300卡路里，每只兔子有800卡路里。如果他捕捉松鼠而不是兔子，他每小时会多消耗多少卡路里？。",
+  "topic": "回答下面的数学问题：Brandon can catch 6 squirrels or two rabbits in 1 hour. Each squirrel has 300 calories and each rabbit has 800 calories. How many more calories will he get per hour if he catches squirrels instead of rabbits?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

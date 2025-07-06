@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Milly需要退回一本她觉得非常无聊的书。这本书重4磅，售价32美元，需要退回到20英里外的配送中心。如果运输公司按每磅0.35美元加上每英里0.08美元收费，而亚马逊只会退还书籍购买价格的75%，Milly会损失多少钱？。",
+  "topic": "回答下面的数学问题：Milly needs to return a book she decided was really boring. The book weighs 4 pounds, cost $32, and needs to be returned to a distribution center 20 miles away. If the shipping company charges $0.35 per pound plus $0.08 per mile, and Amazon will only refund 75% of the book's purchase price, how much money will Milly lose?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

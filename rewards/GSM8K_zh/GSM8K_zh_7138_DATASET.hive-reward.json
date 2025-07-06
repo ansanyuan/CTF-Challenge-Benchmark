@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰烤了12个椰子椰子干，每个重5盎司。然后他将相等数量的椰子椰子干装在4个不同的棕色袋子里，准备交付。当他短暂离开厨房接电话时，他的弟弟史蒂夫吃掉了一个棕色袋子里的所有内容。剩下的椰子椰子干的总重量是多少盎司？。",
+  "topic": "回答下面的数学问题：John bakes 12 coconut macaroons, each weighing 5 ounces. He then packs an equal number of the macaroons in 4 different brown bags, ready for delivery. When he briefly leaves the kitchen to pick the phone, his little brother Steve eats the entire contents of one of the brown bags.  What is the total weight, in ounces, of the remaining coconut macaroons?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

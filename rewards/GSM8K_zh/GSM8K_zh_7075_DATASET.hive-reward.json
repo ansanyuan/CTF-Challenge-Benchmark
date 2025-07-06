@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一辆汽车在4小时30分钟内行驶了360英里。它的时速是多少英里？。",
+  "topic": "回答下面的数学问题：A car traveled 360 miles in 4 hours and 30 minutes. What was its speed in miles per hour?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

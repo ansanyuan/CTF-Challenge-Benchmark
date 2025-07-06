@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：利奥和阿格雷去钓鱼了。阿格雷比利奥多捉了20条鱼。如果利奥捉了40条鱼，他们一共捉了多少条鱼？。",
+  "topic": "回答下面的数学问题：Leo and Agrey went fishing. Agrey caught 20 more fish than Leo. If Leo caught 40 fish, what's the total number of fish they caught together?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

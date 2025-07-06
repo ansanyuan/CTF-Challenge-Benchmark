@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯观看了2集《危险边缘》和2集《幸运轮》。《危险边缘》每集20分钟，《幸运轮》的时间是《危险边缘》的两倍。他一共看了多少小时的电视？。",
+  "topic": "回答下面的数学问题：James watched 2 episodes of Jeopardy and 2 episodes of Wheel of Fortune.  Jeopardy is 20 minutes and Wheel of Fortune is twice as long.  How many hours did he watch TV?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

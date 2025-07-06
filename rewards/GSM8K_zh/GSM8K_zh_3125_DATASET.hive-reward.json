@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Nicole有三个姐姐。每个姐姐穿不下衣服后都会把它们给Nicole。她们都已经穿不下自己的衣服，并把它们都给了Nicole。Nicole一开始有10件衣服。她的第一个姐姐的衣服数量是Nicole的一半。接下来的姐姐比Nicole多2件衣服。最大的姐姐的衣服数量是她三个妹妹的平均值。Nicole最后有多少件衣服？。",
+  "topic": "回答下面的数学问题：Nicole has three older sisters. After each one outgrows their clothes, they give them to Nicole. They have all outgrown their clothes and have given them all to Nicole. Nicole started with 10 pieces of clothing. Her first older sister had half as many clothes as Nicole. The next oldest sister had 2 more pieces of clothing than Nicole. The oldest had the average of what her three younger sisters had. How many pieces of clothing does Nicole end up with?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

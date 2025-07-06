@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Barbi每个月减少1.5公斤，持续一年。Luca每年减少9公斤，持续11年。Luca比Barbi减少了多少公斤？。",
+  "topic": "回答下面的数学问题：Barbi lost 1.5 kilograms each month for a year. Luca lost 9 kilograms every year for 11 years. How many more kilograms did Luca lose than Barbi?",
   "checkpoint": [
     {
-      "$\\boxed{81}$": 1
+      "\\boxed{81}": 1
     }
   ],
   "matchingmethod": [

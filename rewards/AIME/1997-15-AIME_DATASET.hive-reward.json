@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：The sides of rectangle $ABCD$ have lengths $10$ and $11$ . An equilateral triangle is drawn so that no point of the triangle lies outside $ABCD$ . The maximum possible area of such a triangle can be written in the form $p\\sqrt{q}-r$ , where $p$ , $q$ , and $r$ are positive integers, and $q$ is not divisible by the square of any prime number. Find $p+q+r$ .",
   "checkpoint": [
     {
-      "$\\boxed{554}$": 1
+      "\\boxed{554}": 1
     }
   ],
   "matchingmethod": [

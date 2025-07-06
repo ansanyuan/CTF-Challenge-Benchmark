@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：自1989年以来，莉莉每年都会给自己买1盆绣球花。每盆花的价格是20.00美元。到2021年，莉莉在绣球花上花了多少钱？。",
+  "topic": "回答下面的数学问题：Since 1989, Lily has treated herself to 1 hydrangea plant, each year.  Each plant costs $20.00.  By 2021, how much money has Lily spent on hydrangeas?",
   "checkpoint": [
     {
-      "$\\boxed{640}$": 1
+      "\\boxed{640}": 1
     }
   ],
   "matchingmethod": [

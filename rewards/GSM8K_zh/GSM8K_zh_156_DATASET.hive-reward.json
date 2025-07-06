@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Colby收获了他的芒果树，他收获的芒果总重量为60公斤。他向市场卖了20公斤，将剩下的一半卖给了他的社区。如果每公斤包含8个芒果，他还剩下多少个芒果？。",
+  "topic": "回答下面的数学问题：Colby harvested his mango trees, the total mangoes he harvested is 60 kilograms. He sold 20 kilograms to the market and sold the remaining half to his community. If each kilogram contains 8 mangoes, how many mangoes does he still have?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

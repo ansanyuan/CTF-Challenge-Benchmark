@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：食堂里有50个苹果和40个橙子。如果现在只剩下10个苹果和6个橙子，一个苹果的价格是0.80美元，一个橙子的价格是0.50美元，那么食堂卖掉的苹果和橙子总共赚了多少钱？。",
+  "topic": "回答下面的数学问题：There are 50 apples and 40 oranges in the cafeteria. If an apple costs $0.80 and an orange costs $0.50, how much does the cafeteria earn for apples and oranges if there are only 10 apples and 6 oranges left?",
   "checkpoint": [
     {
-      "$\\boxed{49}$": 1
+      "\\boxed{49}": 1
     }
   ],
   "matchingmethod": [

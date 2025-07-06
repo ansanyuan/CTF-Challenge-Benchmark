@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡莉和丹尼洗了他们的衣服。卡莉有10件白色衬衫，5件彩色衬衫，7条短裤和6条裤子，而丹尼有6件白色衬衫，8件彩色衬衫，10条短裤和6条裤子。他们一共洗了多少件衣服？。",
+  "topic": "回答下面的数学问题：Cally and Danny washed their clothes. Cally has 10 white shirts, 5 colored shirts, 7 pairs of shorts, and 6 pairs of pants, while Danny has 6 white shirts, 8 colored shirts, 10 shorts, and 6 pairs of pants. How many clothes did they wash?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

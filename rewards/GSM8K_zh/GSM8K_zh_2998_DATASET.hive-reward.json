@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个YouTube视频有100小时长。莉拉决定以两倍于平均速度观看。她的朋友罗杰以平均速度观看相同的视频。如果他们两人都观看了六个相同的视频，他们总共观看了多少小时？。",
+  "topic": "回答下面的数学问题：A YouTube video is 100 hours long. Lila decides to watch it at two times the average speed. Roger, her friend, also watch the same video at the average speed. If they both watched six of the same videos, what's the total number of hours they watched?",
   "checkpoint": [
     {
-      "$\\boxed{900}$": 1
+      "\\boxed{900}": 1
     }
   ],
   "matchingmethod": [

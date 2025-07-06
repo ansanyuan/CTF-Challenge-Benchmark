@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有200名学生在操场上踢足球。突然一架军用飞机飞过，3/4的学生抬头看。有多少只眼睛看到了飞机？。",
+  "topic": "回答下面的数学问题：There were 200 students on a field playing football. Suddenly a military plane flew by, and 3/4 of the students looked up. How many eyes saw the airplane?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

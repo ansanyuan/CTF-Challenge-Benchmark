@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗斯每分钟呼吸17次，每次吸入5/9升的空气到他的肺部。24小时内吸入的空气体积是多少？。",
+  "topic": "回答下面的数学问题：Ross takes 17 breaths per minute by inhaling 5/9 liter of air to his lungs. What is the volume of air inhaled in 24 hours?",
   "checkpoint": [
     {
-      "$\\boxed{13600}$": 1
+      "\\boxed{13600}": 1
     }
   ],
   "matchingmethod": [

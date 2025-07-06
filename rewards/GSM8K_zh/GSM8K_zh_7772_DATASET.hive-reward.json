@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡门去拍卖会上竞拍一张古董桌。她接受了200美元的起拍价，并继续竞标直到她赢得拍卖。这张桌子的出价每次上涨50美元，另外3个人每人出价一次。卡门在其他3个人每次出价后都跟着出价，并最终赢得了拍卖。这张桌子最终花了她多少钱（单位：美元）？。",
+  "topic": "回答下面的数学问题：Carmen goes to an auction to win an antique desk. She accepts the opening bid of $200 and continues bidding until she wins. The bids on the desk rise by $50 each time and 3 other people each bid once. Carmen bids after each of the 3 other people and eventually wins. How much money, in dollars, does the desk cost her?",
   "checkpoint": [
     {
-      "$\\boxed{500}$": 1
+      "\\boxed{500}": 1
     }
   ],
   "matchingmethod": [

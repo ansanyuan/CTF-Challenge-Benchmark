@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布拉德想要摆一个柠檬水摊来赚点钱。每加仑柠檬水可以产出16杯。他估计每加仑柠檬水的成本是3.50美元。他制作了2加仑来出售，并决定每杯售价为1.00美元。他在摊位上坐着时喝了5杯。他售出了除了6杯柠檬水之外的所有柠檬水。布拉德赚了多少净利润？。",
+  "topic": "回答下面的数学问题：Brad wanted to set up a lemonade stand to earn some money.  Every gallon of lemonade would yield 16 glasses.  He figured it would cost him $3.50 to make every gallon of lemonade.  He made 2 gallons to sell and decided he would sell each glass for $1.00  He drank 5 glasses while sitting in his stand.  He sold all but 6 glasses of lemonade.  How much net profit did Brad earn?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

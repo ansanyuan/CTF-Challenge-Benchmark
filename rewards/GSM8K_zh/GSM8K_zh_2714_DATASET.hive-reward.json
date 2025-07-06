@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Quinton想在后院种植4棵果树。他想种植2棵苹果树，每棵树将有10英尺宽，并且它们之间需要12英尺的间距。桃树将靠近房子种植，将长到12英尺宽，并且每棵树之间需要15英尺的间距。总共，这些树将占据他的院子多少空间？。",
+  "topic": "回答下面的数学问题：Quinton is looking to add 4 fruit trees to his backyard.  He wants to plant 2 apple trees that will be 10 feet wide each and need 12 feet between them.  The peach trees will be closer to the house and will grow to be 12 feet wide and will need 15 feet between each tree.  All told, how much space will these trees take up in his yard?",
   "checkpoint": [
     {
-      "$\\boxed{71}$": 1
+      "\\boxed{71}": 1
     }
   ],
   "matchingmethod": [

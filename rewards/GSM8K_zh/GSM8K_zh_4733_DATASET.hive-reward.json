@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Biff和Kenneth决定参加一场500码的划船比赛。如果Biff的划船速度为每分钟50码，而Kenneth的划船速度为每分钟51码，那么当Biff越过终点线时，Kenneth会超过终点线多少码？。",
+  "topic": "回答下面的数学问题：Biff and Kenneth decide to compete in a 500-yard rowboat race.  If Biff rows at a speed of 50 yards per minute and Kenneth rows at a speed of 51 yards per minute, how many yards past the finish line will Kenneth be when Biff crosses the finish line?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

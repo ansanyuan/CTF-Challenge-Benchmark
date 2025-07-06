@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个聚会上，有50个人。其中30%是男孩。这个聚会上有多少女孩？。",
+  "topic": "回答下面的数学问题：At a party, there are 50 people. 30% of them are boys. How many girls are at this party?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

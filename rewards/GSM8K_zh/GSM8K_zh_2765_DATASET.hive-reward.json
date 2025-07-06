@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在弗雷德农场的谷仓里，有100匹马，29只羊和9只鸡。布莱恩买下了一半的动物并在市场上卖掉了。杰里米随后送给弗雷德额外的37只山羊。如果谷仓里的动物正好有一半是雄性动物，那么谷仓里有多少只雄性动物？。",
+  "topic": "回答下面的数学问题：In Fred the Farmer's barn, there were 100 horses, 29 sheep, and 9 chickens. Brian bought half of the animals and sold them at the market. Jeremy then gifted Fred an additional 37 goats. If exactly half of the animals in the barn are male animals, how many male animals are there in the barn?",
   "checkpoint": [
     {
-      "$\\boxed{53}$": 1
+      "\\boxed{53}": 1
     }
   ],
   "matchingmethod": [

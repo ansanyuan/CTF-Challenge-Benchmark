@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：文森特可以以3束花2.50美元的价格或者2束花1美元的价格购买花。他通过以更优惠的价格购买18束花可以节省多少钱？。",
+  "topic": "回答下面的数学问题：Vincent can buy flowers in packages of 3 for $2.50 or in packages of 2 for $1. How much money does he save by buying 18 flowers at the better price?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

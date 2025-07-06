@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：码头管理员需要购买一些新的绳索。他想要每一英尺的码头对应三英尺的绳索。现在有200英尺的码头，他有6英尺的新绳索。他总共需要购买多少英尺的绳索？。",
+  "topic": "回答下面的数学问题：The caretaker of the docks needs to buy some new line. He wants 3 feet of line for every foot of dock. Right now, there is 200 feet of dock, and he has 6 feet of new line. How many feet of line does he need to buy in total?",
   "checkpoint": [
     {
-      "$\\boxed{594}$": 1
+      "\\boxed{594}": 1
     }
   ],
   "matchingmethod": [

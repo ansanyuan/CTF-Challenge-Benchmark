@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一天晚上，Brianna家的电力中断了，所以她和家人收集了所有的蜡烛和手电筒。房子里有8个房间，包括Brianna在内有4个人居住。每个人都有一个手电筒可以携带，每个房间有两个手电筒。他们有各种各样的蜡烛可供使用；一半的房间每个有4个小蜡烛，另一半房间每个有5个中等大小的蜡烛。把所有的东西加起来，当灯灭时，Brianna家族使用了多少蜡烛和手电筒？。",
+  "topic": "回答下面的数学问题：The power goes out in Brianna's house one night so she and her family gather all their candles and flashlights. There are 8 rooms in the house and 4 people living there, including Brianna. There is a flashlight for every person to carry and two for each room. They have a variety of candles available; 4 small candles each for half the rooms and 5 medium candles each for the other half of the rooms. With everything combined, how many candles and flashlights are Brianna's family using when the lights go out?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

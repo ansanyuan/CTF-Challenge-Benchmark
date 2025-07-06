@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝丝是一名水肺潜水员。她正在加勒比海一个小岛屿的海岸附近挖掘一艘沉船，她必须在水下长时间停留。她最初进入水中时穿戴的主要氧气罐足够让她在水下停留2小时。她还有几个1小时的辅助氧气罐，她会带着它们一起潜水，并将其存放在海底，这样她可以在水下更换氧气罐，而不必上升到水面。她需要在水下待8小时。她需要多少个辅助氧气罐？。",
+  "topic": "回答下面的数学问题：Beth is a scuba diver.  She is excavating a sunken ship off the coast of a small Caribbean island and she must remain underwater for long periods.  Her primary tank, which she wears when she first enters the water, has enough oxygen to allow her to stay underwater for 2 hours.  She also has several 1-hour supplemental tanks that she takes with her as well as stores on the ocean floor so she can change tanks underwater without having to come up to the surface.  She will need to be underwater for 8 hours.  How many supplemental tanks will she need?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

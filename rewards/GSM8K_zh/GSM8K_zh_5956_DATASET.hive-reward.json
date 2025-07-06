@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰每6小时服用一颗药丸。他一周服用多少颗药丸？。",
+  "topic": "回答下面的数学问题：John takes a pill every 6 hours.  How many pills does he take a week?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

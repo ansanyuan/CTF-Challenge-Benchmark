@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安妮的年龄是艾米尔的两倍时，艾米尔的年龄将是莫德的六倍。如果莫德将是8岁，安妮将是多少岁？。",
+  "topic": "回答下面的数学问题：By the time Anne is two times as old as Emile, Emile will be six times as old as Maude. If Maude will be 8 years old, how old will Anne be?",
   "checkpoint": [
     {
-      "$\\boxed{96}$": 1
+      "\\boxed{96}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：林赛在九月存了50美元，十月存了37美元，十一月存了11美元。林赛的妈妈说，因为林赛存了超过75美元，她会给林赛25美元。然后林赛花了87美元买了一个电子游戏。林赛还剩多少钱？。",
+  "topic": "回答下面的数学问题：Lindsey saved $50 in September, she saved $37 in October, and $11 in November. Lindsey's mom said that since Lindsey had saved more than $75,  she would give Lindsey $25.  Then Lindsey spent $87 on a video game. How much money did Lindsey have left?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

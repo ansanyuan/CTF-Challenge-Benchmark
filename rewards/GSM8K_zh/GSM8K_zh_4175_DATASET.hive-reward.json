@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ronnie是一名火车工程师。他的火车拉着3节红色货车，4节蓝色货车和7节黑色货车。如果黑色货车每辆可以装4000磅的煤，这是蓝色货车可以装的一半，而红色货车可以装的是蓝色货车的3倍，那么所有火车的货车总共可以装多少磅的煤？。",
+  "topic": "回答下面的数学问题：Ronnie is a train engineer.  His train pulls 3 red boxcars, 4 blue boxcars, and 7 black boxcars.  If the black boxcars can each hold 4000 pounds of coal, which is half as much as what the blue boxcars can hold, and the red boxcars can hold 3 times as much as the blue boxcars, how many pounds of coal can all of the train's boxcars combined hold?",
   "checkpoint": [
     {
-      "$\\boxed{132000}$": 1
+      "\\boxed{132000}": 1
     }
   ],
   "matchingmethod": [

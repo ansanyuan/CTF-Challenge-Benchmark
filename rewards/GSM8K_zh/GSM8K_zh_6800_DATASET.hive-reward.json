@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：大卫有一家手机店。当他在一天结束时进行库存盘点时，他注意到他有10部三星手机，但他一天开始时有14部三星手机。然后他注意到他有5部iPhone，在最初的库存中，但一天开始时有8部。然后他的员工告诉他，下午他们意识到有2部三星手机损坏，1部iPhone的屏幕有制造缺陷，所以他们在白天把这些手机扔掉了。今天卖出的手机总数是多少？。",
+  "topic": "回答下面的数学问题：David has a store where he sells cell phones. When he takes inventory at the end of the day, he notices that he has 10 Samsung cell phones but he started the day with 14 Samsung cell phones. Then he notices that he has 5 iPhones and in the initial inventory, but started with 8. His staff then told him that in the afternoon they realized that 2 Samsung cell phones were damaged and 1 iPhone had a manufacturing defect in the screen, so they threw these out during the day. What was the total number of cell phones that were sold today?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

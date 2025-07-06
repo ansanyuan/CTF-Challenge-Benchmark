@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮的房产税率为2%。她的房子目前价值40万美元。城市即将在附近建设一条新的高铁项目，这将使她的房子价值增加25%。珍妮每年只能负担1.5万美元的房产税。在她的房产税账单变得太高之前，她可以对她的房子进行多少美元的改进？。",
+  "topic": "回答下面的数学问题：Jenny's property tax rate is 2%. Her house is currently worth $400,000. The city is about to build a new high-speed rail project nearby, which will increase her house's value by 25%. Jenny can only afford to spend $15,000/year on property tax. How many dollars worth of improvements can she make to her house before her property tax bill gets too high?",
   "checkpoint": [
     {
-      "$\\boxed{250000}$": 1
+      "\\boxed{250000}": 1
     }
   ],
   "matchingmethod": [

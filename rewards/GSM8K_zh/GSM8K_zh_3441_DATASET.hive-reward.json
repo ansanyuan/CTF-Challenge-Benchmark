@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mica去杂货店买了2公斤的意大利面，每公斤1.5美元；1/4公斤的碎牛肉每公斤8美元；两罐意大利面酱每罐2美元。Mica还想买一份6美元的玛莎拉饼作为零食。她应该携带多少钱才能买到所有这些东西？。",
+  "topic": "回答下面的数学问题：Mica went to the grocery store and bought 2 kilograms of pasta that costs $1.5; 1/4 kilogram of ground beef costs $8 for 1 kilogram; two jars of pasta sauce costs $2 per jar. Mica also wants to buy a $6 Quesadilla for snacks.  How much money should she have with her to buy all those?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

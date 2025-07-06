@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿奇需要在他的后院铺设草坪，后院的尺寸是20码乘以13码。他的后院上有一个3码乘以5码的小屋。阿奇需要多少平方码的草坪？。",
+  "topic": "回答下面的数学问题：Archie needs to lay sod in his backyard that measures 20 yards by 13 yards. He has a shed on it that measures 3 yards by 5 yards. How many square yards of sod will Archie need for his backyard?",
   "checkpoint": [
     {
-      "$\\boxed{245}$": 1
+      "\\boxed{245}": 1
     }
   ],
   "matchingmethod": [

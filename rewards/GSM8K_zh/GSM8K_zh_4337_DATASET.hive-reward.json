@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约纳在跑步时，每小时燃烧30卡路里。如果他跑步5小时，他将燃烧多少卡路里？。",
+  "topic": "回答下面的数学问题：Running for 2 hours, Jonah burnt 30 calories every hour. How many more calories would he have lost if he would have run for five hours?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

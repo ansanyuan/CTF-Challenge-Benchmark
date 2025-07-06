@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：特拉维斯有10000个苹果，他计划把这些苹果装在箱子里出售。每个箱子可以装50个苹果。如果他每个苹果箱卖35美元，他将能带走多少钱？。",
+  "topic": "回答下面的数学问题：Travis has 10000 apples, and he is planning to sell these apples in boxes. Fifty apples can fit in each box. If he sells each box of apples for $35, how much will he be able to take home?",
   "checkpoint": [
     {
-      "$\\boxed{7000}$": 1
+      "\\boxed{7000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯文有一个装满蟾蜍的鞋盒。每天，凯文给每只蟾蜍喂3条虫子。凯文每找到一条虫子需要15分钟。如果凯文花了6个小时找到足够的虫子来喂养他所有的蟾蜍，那么凯文的鞋盒里有多少只蟾蜍？。",
+  "topic": "回答下面的数学问题：Kevin has a shoebox filled with toads.  Every day, Kevin feeds each toad 3 worms.  It takes Kevin 15 minutes to find each worm.  If it takes Kevin 6 hours to find enough worms to feed all of his toads, how many toads does Kevin have in his shoebox?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

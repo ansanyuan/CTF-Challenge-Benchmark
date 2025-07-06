@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂姆参加了一个比赛，他要尝试猜测罐子里有多少颗红色的果冻豆。这个罐子有一个正方形的底部，长宽各为6英寸，高15英寸。他知道一个果冻豆的体积是0.15立方英寸。他还知道他们的装填效率大约是80%。他估计30%的果冻豆是红色的。容器中真正的红色果冻豆数量是900颗。他的猜测偏差了多少？。",
+  "topic": "回答下面的数学问题：Tim enters a competition and has to try and guess the number of red jelly beans in a jar.  The jar has a square base and is 6 inches by 6 inches and 15 inches tall.  He knows that a jelly bean is .15 cubic inches.  He also knows that they get about 80% efficiency in packing.  He estimates 30% of the jelly beans are red.  The true number of red jelly beans in the container is 900.  How far off was his guess?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

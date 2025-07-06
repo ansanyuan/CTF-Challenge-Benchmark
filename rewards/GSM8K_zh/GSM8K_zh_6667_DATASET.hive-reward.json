@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：大卫正在上为期24周的数据分析课程。该课程每周包括2节为期3小时的课程和1节为期4小时的课程。此外，大卫每周还必须花费4小时完成小组作业。他将在这门课程上花费多少小时？。",
+  "topic": "回答下面的数学问题：David is taking a data analytics course that lasts for 24 weeks. The course consists of 2 three-hour classes and 1 four-hour class each week. In addition, David must spend 4 hours each week working on small group homework assignments. How many hours will he spend on this course?",
   "checkpoint": [
     {
-      "$\\boxed{336}$": 1
+      "\\boxed{336}": 1
     }
   ],
   "matchingmethod": [

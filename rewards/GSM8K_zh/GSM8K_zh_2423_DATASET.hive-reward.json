@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hershel的碗里有10条斗鱼和15条金鱼。他的朋友Bexley给了他斗鱼的2/5和金鱼的1/3。如果Hershel把一半的鱼送给了他的妹妹，请计算他碗里剩下的鱼的总数。。",
+  "topic": "回答下面的数学问题：Hershel has 10 betta fish and 15 goldfish in a bowl. His friend Bexley brings him 2/5 times as many betta fish and 1/3 times as many goldfish. If Hershel gifts his sister 1/2 of the fish, calculate the total number of fish he has remaining in the bowl.",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

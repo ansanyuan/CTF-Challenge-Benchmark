@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿克塞尔有50个银比索和80个金比索。他拜访了他的朋友安娜，安娜的银比索是他的两倍，金比索多40个。他们俩一共有多少个比索？。",
+  "topic": "回答下面的数学问题：Axel has 50 silver pesos and 80 gold pesos. He visits her friend Anna who has twice as many silver pesos as he has and 40 more gold pesos. What's the total number of pesos they have together?",
   "checkpoint": [
     {
-      "$\\boxed{350}$": 1
+      "\\boxed{350}": 1
     }
   ],
   "matchingmethod": [

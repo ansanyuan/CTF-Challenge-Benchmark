@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：唐尼的存钱罐里有78美元。如果唐尼买了一只价值8美元的风筝和一只价值9美元的飞盘。唐尼还剩多少钱？。",
+  "topic": "回答下面的数学问题：Donny has $78 in his piggy bank. If Donny buys a kite for $8 and a frisbee for $9. How much money does Donny have left?",
   "checkpoint": [
     {
-      "$\\boxed{61}$": 1
+      "\\boxed{61}": 1
     }
   ],
   "matchingmethod": [

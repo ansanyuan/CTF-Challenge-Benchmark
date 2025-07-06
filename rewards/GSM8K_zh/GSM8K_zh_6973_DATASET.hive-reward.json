@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一袋焦糖饼干里有20块饼干，一个饼干盒里总共有4袋。如果每块饼干有20卡路里，那么盒子里总共有多少卡路里？。",
+  "topic": "回答下面的数学问题：A bag of caramel cookies has 20 cookies inside and a box of cookies has 4 bags in total. How many calories are inside the box if each cookie is 20 calories?",
   "checkpoint": [
     {
-      "$\\boxed{1600}$": 1
+      "\\boxed{1600}": 1
     }
   ],
   "matchingmethod": [

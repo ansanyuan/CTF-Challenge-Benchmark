@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carly有80张卡片，2/5的卡片上印有字母A，剩余的1/2印有字母B，剩下的5/8印有字母C，其余的印有字母D。有多少张卡片上印有字母D？。",
+  "topic": "回答下面的数学问题：Carly had 80 cards, 2/5 of the cards had the letter A on them, 1/2 of the remaining had the letter B, 5/8 of the rest had the letter C on them, and the others had the letter D. How many of the cards had the letter D on them?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

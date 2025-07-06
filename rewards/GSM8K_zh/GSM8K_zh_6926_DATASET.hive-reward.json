@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个病人正在接受盐水滴注治疗，每分钟滴20滴。如果治疗持续2小时，每100滴等于5毫升液体，那么在2小时过去后，病人将接受多少毫升的治疗？。",
+  "topic": "回答下面的数学问题：A patient is receiving treatment through a saline drip which makes 20 drops per minute. If the treatment lasts 2 hours, and every 100 drops equal 5 ml of liquid, how many milliliters of treatment will the patient receive after the 2 hours have passed?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

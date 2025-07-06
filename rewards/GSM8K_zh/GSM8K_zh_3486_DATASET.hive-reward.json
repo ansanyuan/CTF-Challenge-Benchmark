@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽亚去比利时旅行。她花了300美元买机票，一半的价格住酒店。当她一开始有760美元时，她还剩多少钱？。",
+  "topic": "回答下面的数学问题：Maria went on a trip to Belgium. She paid $300 for the ticket and half of that for the hotel. How much money does she have left, when she had $760 at the beginning?",
   "checkpoint": [
     {
-      "$\\boxed{310}$": 1
+      "\\boxed{310}": 1
     }
   ],
   "matchingmethod": [

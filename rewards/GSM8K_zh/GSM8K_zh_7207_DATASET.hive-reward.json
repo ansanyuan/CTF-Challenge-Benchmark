@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Yvonne带了一盒巧克力到学校。一半有坚果，一半没有。学生们吃掉了有坚果的80%，没有坚果的一半。如果剩下28块巧克力，盒子里有多少块巧克力？。",
+  "topic": "回答下面的数学问题：Yvonne brings a box of chocolates to school. Half have nuts and half do not. The students eat 80% of the ones with nuts and eat half of the ones without nuts. If there are 28 chocolates left, how many chocolates were in the box?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

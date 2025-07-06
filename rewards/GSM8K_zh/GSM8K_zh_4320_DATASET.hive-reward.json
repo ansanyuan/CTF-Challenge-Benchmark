@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tammy有10棵橙树，每天可以摘12个橙子。Tammy以每份2美元的价格出售6份装的橙子。如果她把所有的橙子都卖了，3周后Tammy将赚多少钱？。",
+  "topic": "回答下面的数学问题：Tammy has 10 orange trees from which she can pick 12 oranges each day. Tammy sells 6-packs of oranges for $2. How much money will Tammy have earned after 3 weeks if she sells all her oranges?",
   "checkpoint": [
     {
-      "$\\boxed{840}$": 1
+      "\\boxed{840}": 1
     }
   ],
   "matchingmethod": [

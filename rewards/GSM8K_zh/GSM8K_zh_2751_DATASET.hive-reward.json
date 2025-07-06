@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Zoe打扫游泳池和做保姆总共赚了8000美元。她照顾朱莉的次数是照顾扎克里的三倍。她照顾扎克里的次数是照顾克洛伊的五分之一。如果Zoe照顾扎克里赚了600美元，她打扫游泳池赚了多少钱？。",
+  "topic": "回答下面的数学问题：Zoe made a total of $8,000 cleaning pools and babysitting. She babysat Julie three times as often as she babysat Zachary. The number of times she babysat Zachary was 1/5 the number of times she babysat Chloe. If Zoe made $600 babysitting Zachary, how much did she earn from pool cleaning?",
   "checkpoint": [
     {
-      "$\\boxed{2600}$": 1
+      "\\boxed{2600}": 1
     }
   ],
   "matchingmethod": [

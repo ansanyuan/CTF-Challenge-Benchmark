@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个由三种珠子组成的项链有40颗珠子。有七颗紫水晶珠子和两倍于紫水晶珠子数量的琥珀珠子。第三种珠子是绿松石。项链中有多少颗绿松石珠子？。",
+  "topic": "回答下面的数学问题：A 40-bead necklace is made up of three kinds of beads. There are seven amethyst beads and twice as many amber beads as amethysts. The third beads are turquoise. How many turquoise beads are in the necklace?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家杂货店有4种果冻。他们销售葡萄果冻的数量是草莓果冻的两倍，覆盆子果冻的数量是李子果冻的两倍。覆盆子果冻的销量是葡萄果冻的三分之一。如果他们今天卖出了6罐李子果冻，他们卖出了多少罐草莓果冻？。",
+  "topic": "回答下面的数学问题：A grocery store has 4 kinds of jelly. They sell grape jelly twice as much as strawberry jelly, and raspberry jelly twice as much as plum jelly. The raspberry jelly sells a third as much as the grape jelly. If they sold 6 jars of plum jelly today, how many jars of strawberry jelly did they sell?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

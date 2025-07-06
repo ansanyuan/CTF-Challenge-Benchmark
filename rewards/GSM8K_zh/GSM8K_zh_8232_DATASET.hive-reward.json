@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个包包打5%的折扣。如果标价是140美元，折扣后你需要支付多少钱？。",
+  "topic": "回答下面的数学问题：A bag has a 5% discount. If it is marked $140, how much will you pay after the discount?",
   "checkpoint": [
     {
-      "$\\boxed{133}$": 1
+      "\\boxed{133}": 1
     }
   ],
   "matchingmethod": [

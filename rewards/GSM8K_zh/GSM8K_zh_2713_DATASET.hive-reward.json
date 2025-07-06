@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Caprice正在上钢琴课。她的妈妈每半小时给老师支付10美元来教她女儿。如果Caprice每周上一节课，每节课持续1小时，老师在5周内会赚多少钱？。",
+  "topic": "回答下面的数学问题：Caprice is taking piano lessons. Her mother pays the teacher $10 for every half-hour of teaching her daughter. If Caprice is taking one lesson per week, and the lesson lasts 1 hour, how much money would the teacher earn in 5 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

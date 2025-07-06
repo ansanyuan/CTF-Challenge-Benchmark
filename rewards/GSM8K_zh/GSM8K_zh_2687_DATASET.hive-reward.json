@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿里、彼得和乔伊在钓鱼。阿里捉到的鱼的重量总共是彼得捉到的鱼的两倍。乔伊捉到的鱼比彼得多1公斤。三个人一共捉到25公斤的鱼。阿里捉到了多少公斤的鱼？。",
+  "topic": "回答下面的数学问题：Ali, Peter, and Joey were fishing. The fish Ali caught weighed, in sum, twice as much as the fish that Peter caught. Joey caught 1 kg more fish than Peter. Together the three of them caught 25 kg of fish. How many kilograms did Ali catch?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

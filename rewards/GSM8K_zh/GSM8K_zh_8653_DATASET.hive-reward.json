@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯有30颗牙齿。他的牙医钻了4颗牙齿，并且比钻的牙齿多镶了7颗牙。牙医修复了詹姆斯牙齿的百分比是多少？。",
+  "topic": "回答下面的数学问题：James has 30 teeth. His dentist drills 4 of them and caps 7 more teeth than he drills. What percentage of James' teeth does the dentist fix?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

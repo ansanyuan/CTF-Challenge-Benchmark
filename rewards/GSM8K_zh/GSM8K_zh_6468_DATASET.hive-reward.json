@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：纽约在2020年6月的温度为80度。如果迈阿密当天的温度比纽约高10度，并且比圣地亚哥低25度，那么三个城市的平均温度是多少？。",
+  "topic": "回答下面的数学问题：The temperature in New York in June 2020 was 80 degrees. If the temperature in Miami on this day was 10 degrees hotter than the temperature in New York, and 25 degrees cooler than the temperature in San Diego, what was the average temperature for the three cities?",
   "checkpoint": [
     {
-      "$\\boxed{95}$": 1
+      "\\boxed{95}": 1
     }
   ],
   "matchingmethod": [

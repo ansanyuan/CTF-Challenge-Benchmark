@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Shaefer先生在一个纸箱里收获了500个荔枝，然后把它们带到市场。他卖掉了其中一半，剩下的荔枝带回家，他们吃掉了其中的3/5。请计算剩下的荔枝数量。。",
+  "topic": "回答下面的数学问题：Mr. Shaefer harvested 500 lychees in a carton and took them to the market. He sold half of them and took home the remaining number of lychees where they ate 3/5 of them. Calculate the number of lychees remaining.",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

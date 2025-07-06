@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆想要制作世界上最大的面团球。他需要500磅面粉，他可以用20美元买一个50磅的面粉袋。他还需要10磅盐，盐的价格是每磅0.2美元。他还花了1000美元来宣传一切。然后他卖每张票20美元，卖了500张票。他赚了多少钱？。",
+  "topic": "回答下面的数学问题：Tom wants to make the world's largest dough ball.  He needs 500 pounds of flour and he can buy 50-pound bags of flour for $20.  He also needs 10 pounds of salt and salt cost $.2 a pound.  He also spends $1000 promoting everything.  He then sells tickets for $20 each and sells 500 tickets.  How much money did he make?",
   "checkpoint": [
     {
-      "$\\boxed{8798}$": 1
+      "\\boxed{8798}": 1
     }
   ],
   "matchingmethod": [

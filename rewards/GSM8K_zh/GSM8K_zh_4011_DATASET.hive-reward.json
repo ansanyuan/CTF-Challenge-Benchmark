@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝丝一周烤了4个2打一组的饼干。如果这些饼干平均分给16个人，每个人吃多少饼干？。",
+  "topic": "回答下面的数学问题：Beth bakes 4, 2 dozen batches of cookies in a week.  If these cookies are shared amongst 16 people equally, how many cookies does each person consume?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

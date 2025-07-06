@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：零食机只接受25美分的硬币。糖果棒的价格为25美分，每块巧克力的价格为75美分，一包果汁的价格为50美分。购买三根糖果棒，两块巧克力和一包果汁需要多少个25美分的硬币？。",
+  "topic": "回答下面的数学问题：A snack machine accepts only quarters. Candy bars cost ¢25, each piece of chocolate costs ¢75, and a pack of juice costs ¢50. How many quarters are needed to buy three candy bars, two pieces of chocolate, and one pack of juice?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

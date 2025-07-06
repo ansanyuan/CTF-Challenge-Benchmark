@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆在玩游戏，杀死一个敌人得10分。如果他至少杀死100个敌人，他的得分会增加50%。如果他杀死了150个敌人，他的总得分是多少？。",
+  "topic": "回答下面的数学问题：Tom is playing a game and gets 10 points for killing an enemy.  If he kills at least 100 enemies he gets a 50% bonus to his score.  What was his total score if he killed 150 enemies?",
   "checkpoint": [
     {
-      "$\\boxed{2250}$": 1
+      "\\boxed{2250}": 1
     }
   ],
   "matchingmethod": [

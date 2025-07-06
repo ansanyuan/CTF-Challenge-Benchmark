@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：苏珊在暑假做保姆工作赚了600美元。她去购物，花了一半的钱在衣服上。然后她花了剩下的一半在书上。她还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Susan earned $600 from babysitting over the summer. She went shopping and spent half of it on clothes. Then she spent half of what was left on books. How much money did she have left?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

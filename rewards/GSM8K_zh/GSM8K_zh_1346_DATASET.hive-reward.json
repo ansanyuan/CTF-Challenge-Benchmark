@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mimi决定重新开始去健身房。周末她在运动鞋和衣服上花了8000美元。她在Nike运动鞋上的花费是Adidas的三倍。她在Adidas上的花费是Skechers的五分之一。如果Mimi的Adidas运动鞋购买价格是600美元，她在衣服上花了多少钱？。",
+  "topic": "回答下面的数学问题：Mimi has decided to start going to the gym again. Over the weekend, she spent $8,000 on athletic sneakers and clothes. She spent thrice as much on Nike sneakers as she did on Adidas. What she spent on Adidas was 1/5 the cost of Skechers. If Mimi's Adidas sneakers purchase was $600, what amount did she spend on clothes?",
   "checkpoint": [
     {
-      "$\\boxed{2600}$": 1
+      "\\boxed{2600}": 1
     }
   ],
   "matchingmethod": [

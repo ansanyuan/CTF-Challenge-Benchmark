@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡西正在修剪她宠物的指甲。她有四只狗和八只鹦鹉。每只狗每只脚有四个指甲，每只鹦鹉每条腿有三个爪子，除了一只鹦鹉有额外的脚趾。卡西需要修剪多少个指甲？。",
+  "topic": "回答下面的数学问题：Cassie is trimming her pet's nails. She has four dogs and eight parrots. Each dog has four nails on each foot, and each parrot has three claws on each leg, except for one parrot who has an extra toe. How many nails does Cassie need to cut?",
   "checkpoint": [
     {
-      "$\\boxed{113}$": 1
+      "\\boxed{113}": 1
     }
   ],
   "matchingmethod": [

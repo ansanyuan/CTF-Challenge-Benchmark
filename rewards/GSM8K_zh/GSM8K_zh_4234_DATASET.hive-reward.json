@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯为一群人做土豆。每个人吃1.5磅的土豆。他为40个人做土豆。一袋20磅的土豆售价5美元。总共花费多少钱？。",
+  "topic": "回答下面的数学问题：James makes potatoes for a group.  Each person eats 1.5 pounds of potatoes.  He makes potatoes for 40 people.  A 20-pound bag of potatoes costs $5.  How much does it cost?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

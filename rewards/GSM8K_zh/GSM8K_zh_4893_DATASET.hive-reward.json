@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：利亚姆想去巴黎，但首先他必须支付他的账单。他的旅行费用为7000美元，他的账单费用为3500美元。已知利亚姆每个月存500美元，存了2年，支付完账单后他还剩多少钱？。",
+  "topic": "回答下面的数学问题：Liam wants to go to Paris, but first, he has to pay his bills. His trip costs $7,000, and his bills cost $3,500. Knowing that Liam has saved $500/month for 2 years, how much money will he have left after paying his bills?",
   "checkpoint": [
     {
-      "$\\boxed{8500}$": 1
+      "\\boxed{8500}": 1
     }
   ],
   "matchingmethod": [

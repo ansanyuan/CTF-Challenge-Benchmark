@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：泰森在湖中以每小时3英里的速度游泳，在海洋中以每小时2.5英里的速度游泳。这个赛季，他一半的比赛发生在湖中，另一半发生在海洋中。他总共参加了十场比赛，每场比赛的长度都是3英里。他在比赛中花了多少时间？。",
+  "topic": "回答下面的数学问题：Tyson can swim at a speed of 3 miles per hour in a lake and 2.5 mph in an ocean. This season, half his races happened in lakes and half his races happened in the ocean. He had ten total races, each of which was 3 miles long. How much time did he spend in his races?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果切斯特每天吃3个鸡蛋，连续吃30天，然后增加到每天吃5个鸡蛋，再连续吃30天，切斯特60天内需要多少打鸡蛋？。",
+  "topic": "回答下面的数学问题：If Chester eats 3 eggs a day for 30 days and then increases it to 5 eggs a day for 30 days, how many dozens of eggs will Chester need for 60 days?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

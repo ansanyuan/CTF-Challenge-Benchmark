@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安迪从家走到学校有50米。放学后，他回到家然后去市场。如果他总共走了140米，那么家和市场之间的距离是多少米？。",
+  "topic": "回答下面的数学问题：Andy walks 50 meters from his house to school. After school, he comes back to the house and goes to the market. If he walks 140 meters in total, how many meters is the distance between the house and the market?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Max可以用3个椰子交换一只螃蟹，用6只螃蟹交换一只山羊。如果他有342个椰子，并且他想把它们全部换成山羊，他将会有多少只山羊？。",
+  "topic": "回答下面的数学问题：Max can trade 3 coconuts for a crab and 6 crabs for a goat. If he has 342 coconuts and he wants to convert all of them into goats, how many goats will he have?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Leo有400颗弹珠在一个罐子里。他用每个包装装了十颗弹珠，然后把一些弹珠给了他的两个朋友Manny和Neil。他给了Manny弹珠包装数量的四分之一，Neil收到了弹珠包装数量的八分之一，剩下的他自己留着。Leo留下了多少包装的弹珠？。",
+  "topic": "回答下面的数学问题：Leo had 400 marbles in a jar. He packed the marbles with ten marbles in each pack, and he gave some of them to his two friends,  Manny and Neil.   He gave Manny 1/4 of the number of packs of marbles, Neil received 1/8 of the number of packs of marbles, and he kept the rest. How many packs of marbles did Leo keep?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Dylan在派对上需要鸡肉香肠和鱼肉香肠来制作香肠包。他买了38根鸡肉香肠，比鸡肉香肠多买了6根鱼肉香肠。Dylan总共买了多少根香肠？。",
+  "topic": "回答下面的数学问题：Dylan needed chicken sausages and fish sausages to make sausage buns at a party. He bought 38 chicken sausages and 6 more fish sausages than chicken sausages. How many sausages did Dylan buy in all?",
   "checkpoint": [
     {
-      "$\\boxed{82}$": 1
+      "\\boxed{82}": 1
     }
   ],
   "matchingmethod": [

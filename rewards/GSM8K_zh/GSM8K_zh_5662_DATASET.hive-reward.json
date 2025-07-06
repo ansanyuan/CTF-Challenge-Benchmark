@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：公民联盟举办了一场煎饼早餐募捐活动。一叠煎饼售价为4.00美元，你可以加2.00美元买培根。他们卖出了60叠煎饼和90片培根。他们筹集了多少钱？。",
+  "topic": "回答下面的数学问题：The civic league was hosting a pancake breakfast fundraiser.  A stack of pancakes was $4.00 and you could add bacon for $2.00.  They sold 60 stacks of pancakes and 90 slices of bacon.  How much did they raise?",
   "checkpoint": [
     {
-      "$\\boxed{420}$": 1
+      "\\boxed{420}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个派店每块卡士达派收费3美元。他们把每个整个派切成10块。如果他们做了6个整个的卡士达派，派店会赚多少钱？。",
+  "topic": "回答下面的数学问题：A pie shop charges $3 per slice of custard pie. They cut each whole pie into 10 slices. If they make 6 whole custard pies, how much money will the pie shop earn?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

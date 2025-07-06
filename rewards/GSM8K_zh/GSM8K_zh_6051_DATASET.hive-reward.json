@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Haleigh需要为她的宠物买紧身裤。她有4只狗和3只猫。她需要多少条紧身裤？。",
+  "topic": "回答下面的数学问题：Haleigh needs to buy leggings for her pet animals. She has 4 dogs and 3 cats. How many pairs of leggings does she need?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

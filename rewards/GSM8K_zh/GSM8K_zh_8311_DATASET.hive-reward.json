@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Erika正在为一台新笔记本电脑存钱。她想要的笔记本电脑售价600美元。销售助理告诉她，如果她以旧换新，新电脑的价格可以减少200美元。她认为这是一个好交易，于是同意了。她钱包里已经有一些积蓄，这周她的兼职工作还赚了150美元。她妈妈同意给她80美元帮助她。如果Erika现在只需要额外50美元就能买到笔记本电脑，那么她钱包里有多少钱？。",
+  "topic": "回答下面的数学问题：Erika is saving for a new laptop. The laptop she wants costs $600. The sales assistant told her that if she traded in her old laptop, the price of the new one would be reduced by $200. She thinks this is a good deal and agrees to do it. She already has some savings in her purse, and has also been paid $150 this week for her part-time job. Her mom agrees to give her $80 to help her. If Erika now only needs an extra $50 to buy the laptop, how much money does she have in her purse?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

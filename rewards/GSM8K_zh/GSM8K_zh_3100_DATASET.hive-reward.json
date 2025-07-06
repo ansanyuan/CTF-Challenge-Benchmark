@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：娜塔莎每天锻炼30分钟，连续一个星期。埃斯特万每天锻炼9天，每天锻炼10分钟。娜塔莎和埃斯特万总共锻炼了多少小时？。",
+  "topic": "回答下面的数学问题：Natasha exercised for 30 minutes every day for one week. Esteban exercised for 10 minutes on each of nine days. How many hours did Natasha and Esteban exercise in total?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

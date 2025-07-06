@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Collin得知他每带一罐铝罐到回收中心可以赚0.25美元。他在家找到了12罐，他在祖父母家找到了三倍于此的数量。他的邻居给了他46罐。他爸爸从办公室带回了250罐。他爸爸告诉他，如果他答应把他带回家的所有罐子的一半存起来，他就可以留下来自办公室带回家的罐子的钱。Collin需要存多少钱？。",
+  "topic": "回答下面的数学问题：Collin learned that he could earn $0.25 per aluminum can that he brought into the recycling center.  He found 12 cans at home and three times as many at his grandparents' house.   His neighbor gave him 46.  His dad brought home 250 cans from the office.  His dad told him he could keep the money from the cans he brought home from the office if he promised to put half of his entire amount collected into savings.  How much money would Collin have to put into savings?",
   "checkpoint": [
     {
-      "$\\boxed{43}$": 1
+      "\\boxed{43}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gillian的电话账单通常是每月50美元。如果每月的账单增加了10%，那么她整个下一年的电话账单将是多少？。",
+  "topic": "回答下面的数学问题：Gillian’s phone bill is usually $50 a month. If the monthly bill increases by 10%, what will be her phone bill for the entire next year?",
   "checkpoint": [
     {
-      "$\\boxed{660}$": 1
+      "\\boxed{660}": 1
     }
   ],
   "matchingmethod": [

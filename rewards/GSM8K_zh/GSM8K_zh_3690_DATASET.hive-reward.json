@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Johnny是一名吉他手，他有三种颜色的吉他拨片：红色、蓝色和黄色。他一半的拨片是红色，三分之一的拨片是蓝色，其余的是黄色。如果他有12个蓝色的拨片，他的收藏中黄色拨片的总数是多少？。",
+  "topic": "回答下面的数学问题：Johnny is a guitar player and he has three colors of guitar picks: red, blue, and yellow. Half of his picks are red, one-third of the picks are blue, and the rest are yellow.  If he has 12 blue picks, what is the total number of yellow picks in his collection?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

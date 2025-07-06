@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：田径比赛有55个人。其中30个是男孩，其余是女孩。五分之三的女孩留长发，其余的留短发。有多少女孩留短发？。",
+  "topic": "回答下面的数学问题：There are 55 people at the track meet. 30 of them are boys, and the rest are girls. Three fifths of the girls have long hair, and the rest have short hair. How many girls have short hair?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

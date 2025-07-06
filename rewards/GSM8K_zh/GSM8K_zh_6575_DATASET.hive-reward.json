@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克和吉尔是经常互相借钱的朋友。上周杰克向吉尔借了1200美元，他答应还款时要支付10%的利息。杰克将支付多少钱？。",
+  "topic": "回答下面的数学问题：Jack and Jill are friends who borrow from each other often. Last week Jack borrowed  $1200 from Jill, which he promised to pay back with an interest of 10%. How much will Jack pay back?",
   "checkpoint": [
     {
-      "$\\boxed{1320}$": 1
+      "\\boxed{1320}": 1
     }
   ],
   "matchingmethod": [

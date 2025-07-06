@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格雷森的考试有100道题。他花了2个小时回答了一些问题，每个问题花了两分钟，然后意识到他不知道剩下的问题。当他提交试卷时，他留下了多少个问题没有回答？。",
+  "topic": "回答下面的数学问题：Grayson has 100 questions on a test. He answers some of the questions for 2 hours, taking two minutes for each answer, then realizes he doesn't know the rest of the questions. How many questions does Grayson leave unanswered when he submits his test?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

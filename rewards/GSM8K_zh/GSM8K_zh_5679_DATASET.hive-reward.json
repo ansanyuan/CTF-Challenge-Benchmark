@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一列特定火车有一些客车和与客车数量相等的货车加上三。如果总车数为71，包括机车和尾车在内，火车上有多少客车？。",
+  "topic": "回答下面的数学问题：A particular train has some passenger cars and a number of cargo cars equal to half the number of passenger cars plus three. If the total number of cars is 71, counting the engine and caboose, how many passenger cars are in the train?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

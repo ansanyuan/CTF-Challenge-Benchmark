@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安东内拉的钱包里有十枚加拿大硬币，要么是一元硬币，要么是两元硬币。一元硬币等于1美元，两元硬币等于2美元。如果她买了一杯3美元的星冰乐，还剩下11美元，她最初有多少枚两元硬币？。",
+  "topic": "回答下面的数学问题：Antonella has ten Canadian coins in her purse that are either loonies or toonies. A loonie equals $1 and a toonie equals $2. If she bought a $3 Frappuccino and still has $11, how many toonies did she initially have?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

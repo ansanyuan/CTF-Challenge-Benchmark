@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Doubtfire姐妹从当地动物收容所领养了7只小猫回家时，她们的母亲打电话告诉她们，她们家的两只猫刚刚生了小猫。她说，第一只猫Patchy生的小猫是领养小猫数量的三倍，而另一只猫Trixie生了12只。现在Doubtfire家族共有多少只小猫？。",
+  "topic": "回答下面的数学问题：The Doubtfire sisters are driving home with 7 kittens adopted from the local animal shelter when their mother calls to inform them that their two house cats have just had kittens. She says that Patchy, the first cat, has had thrice the number of adopted kittens, while Trixie, the other cat, has had 12. How many kittens does the Doubtfire family now have?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

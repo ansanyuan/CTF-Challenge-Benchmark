@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Biff准备进行一次长途公交旅行。他花了11美元买票，3美元买饮料和零食，以及16美元买了一副新耳机来听音乐。Biff计划在旅途中使用公交车的WiFi进行在线任务。如果Biff在网上工作每小时赚12美元，并且需要支付每小时2美元来使用公交车的WiFi，公交车的行程需要多长时间才能让他收支平衡？。",
+  "topic": "回答下面的数学问题：Biff is getting ready for a long bus trip. He spends $11 on the ticket, $3 on drinks and snacks, and $16 on a new pair of headphones to listen to music. Biff plans to do online tasks using the bus's WiFi during his trip. If Biff makes $12/hour working online and has to pay $2/hour to access the bus's WiFi, how many hours long will the bus ride need to be for him to break even?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛吉摘了40个苹果。凯尔西摘了28个苹果。莱拉也摘了一些苹果。三人平均摘了30个苹果。莱拉摘了多少个？。",
+  "topic": "回答下面的数学问题：Maggie picked 40 apples. Kelsey picked 28 apples. Layla picked some apples, too. The three averaged 30 apples picked. How many did Layla pick?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

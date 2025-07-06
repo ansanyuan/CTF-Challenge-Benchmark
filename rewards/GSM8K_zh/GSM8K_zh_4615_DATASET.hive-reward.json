@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Yasmin把她祖母的50美元生日支票存入她的银行账户。这张支票价值她存入支票后的新余额的四分之一。在她存入支票之前，她的账户里有多少美元？。",
+  "topic": "回答下面的数学问题：Yasmin deposited a $50 birthday check from her grandmother in her bank account. The check was worth a quarter of her new balance after the check money is added. How many dollars were in her account before she deposited the check?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

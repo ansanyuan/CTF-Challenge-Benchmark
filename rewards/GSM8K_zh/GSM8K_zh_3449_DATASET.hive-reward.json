@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：巴尼每周洗一次厨房毛巾。他拥有十八条毛巾，每次使用两条，每天更换一次干净的毛巾。他错过了一周的洗涤。接下来的一周，巴尼将有多少天没有干净的毛巾？。",
+  "topic": "回答下面的数学问题：Barney washes his kitchen towels once a week. He owns eighteen towels and uses two at a time that he changes to clean towels daily. He missed one week of laundry. How many days the following week will Barney not have clean towels?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

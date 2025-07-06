@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alicia需要为新学年购买一些书。她买了2本数学书，3本艺术书和6本科学书，总共花了30美元。如果数学书和科学书都是每本3美元，那么每本艺术书的价格是多少？。",
+  "topic": "回答下面的数学问题：Alicia has to buy some books for the new school year. She buys 2 math books, 3 art books, and 6 science books, for a total of $30. If both the math and science books cost $3 each, what was the cost of each art book?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

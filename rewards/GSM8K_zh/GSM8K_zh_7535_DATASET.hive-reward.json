@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特为她的女儿买了一枚胸针。她支付了500美元用于制作材料，然后又支付了800美元给珠宝商制作。之后，她又支付了那个费用的10%来给胸针投保。她总共支付了多少钱？。",
+  "topic": "回答下面的数学问题：Janet buys a brooch for her daughter.  She pays $500 for the material to make it and then another $800 for the jeweler to construct it.  After that, she pays 10% of that to get it insured.  How much did she pay?",
   "checkpoint": [
     {
-      "$\\boxed{1430}$": 1
+      "\\boxed{1430}": 1
     }
   ],
   "matchingmethod": [

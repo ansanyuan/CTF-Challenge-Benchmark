@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sunny为筹款活动销售姜饼和苹果派。周六，他卖出了10盒姜饼，比周日少卖了4盒苹果派。周日，他卖出的姜饼比周六多5盒，苹果派卖了15盒。如果姜饼的价格是6美元一盒，苹果派的价格是15美元一盒，Sunny两天总共赚了多少钱？。",
+  "topic": "回答下面的数学问题：Sunny is selling gingerbread and apple pie for a fundraiser. On Saturday, he sold 10 boxes of gingerbread and 4 fewer boxes of apple pie, than on Sunday. On Sunday, he sold 5 more boxes of gingerbread than on Saturday and 15 boxes of apple pie. If the gingerbread cost $6 and the apple pie cost $15, how much did Sunny earn for two days?",
   "checkpoint": [
     {
-      "$\\boxed{540}$": 1
+      "\\boxed{540}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆的猫8岁。他的兔子是他猫的一半年龄。他的狗是他兔子年龄的三倍。狗多大了？。",
+  "topic": "回答下面的数学问题：Tom’s cat is 8 years old.  His rabbit is half the age of his cat.  His dog is three times as old as his rabbit.  How old is the dog?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

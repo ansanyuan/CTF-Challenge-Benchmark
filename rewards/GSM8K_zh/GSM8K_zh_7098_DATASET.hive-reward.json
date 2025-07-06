@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：保罗和他的妹妹宝拉去饼干店买了一些饼干。宝拉比保罗少买了3块饼干，而保罗买了45块饼干。他们一共有多少块饼干？。",
+  "topic": "回答下面的数学问题：Paul and his sister Paula went to the cookie store to buy some cookies. Paula bought 3 fewer cookies than Paul, who bought 45 cookies. How many cookies do they have altogether?",
   "checkpoint": [
     {
-      "$\\boxed{87}$": 1
+      "\\boxed{87}": 1
     }
   ],
   "matchingmethod": [

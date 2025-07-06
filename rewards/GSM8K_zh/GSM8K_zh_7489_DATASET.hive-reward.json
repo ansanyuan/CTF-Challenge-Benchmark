@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位商人想在两个采购计划之间做出选择：价值5000美元的珠宝或价值8000美元的电子小工具。他的财务顾问推测，珠宝市场将在同一个月内上涨2.5%，而电子小工具市场将上涨1.2%。如果商人想通过做出选择在本月末最大化利润，这将是多少利润？。",
+  "topic": "回答下面的数学问题：A merchant wants to make a choice of purchase between 2 purchase plans: jewelry worth $5,000 or electronic gadgets worth $8,000. His financial advisor speculates that the jewelry market will go up 2.5% while the electronic gadgets market will rise 1.2% within the same month. If the merchant is looking to maximize profit at the end of this month by making a choice, how much profit would this be?",
   "checkpoint": [
     {
-      "$\\boxed{125}$": 1
+      "\\boxed{125}": 1
     }
   ],
   "matchingmethod": [

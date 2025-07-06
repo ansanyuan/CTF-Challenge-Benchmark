@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Krissa需要为她的学前班学生订购郊游衬衫。有11名学生需要特小号。需要小号的学生是特小号的两倍。需要中号的学生比小号的学生少4个。需要大号的学生是中号的一半。需要特大号的学生比大号的多6个。Krissa总共订购了多少件衬衫？。",
+  "topic": "回答下面的数学问题：Krissa needs to order field trip shirts for her preschool students. 11 students need size extra-small.  Twice as many students need size small as extra small. Four less than the number of size small students need size medium.  Half as many students need size large as size medium.  Six more students need size extra-large than large.  Altogether, how many shirts did Krissa order?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

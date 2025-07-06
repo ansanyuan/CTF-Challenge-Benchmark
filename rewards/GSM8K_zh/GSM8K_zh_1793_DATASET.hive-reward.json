@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marta正在为一个招待会安排花艺中心。每个花艺需要8朵玫瑰，12朵雏菊，3朵金鱼草和两倍于百合的数量。招待会将有10张桌子。她总共需要多少花来完成这个订单？。",
+  "topic": "回答下面的数学问题：Marta is arranging floral centerpieces for a reception party.  Each arrangement needs to have 8 roses,12 daisies, 3 snapdragons and twice as many lilies.  The reception will have 10 tables.  How many flowers will she need in total to fill this order?",
   "checkpoint": [
     {
-      "$\\boxed{290}$": 1
+      "\\boxed{290}": 1
     }
   ],
   "matchingmethod": [

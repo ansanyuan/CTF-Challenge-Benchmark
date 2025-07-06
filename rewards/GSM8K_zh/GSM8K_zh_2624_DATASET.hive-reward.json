@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了赢得汤姆·索亚的主日学校的一本全新圣经，一名学生必须赢得10张黄色票；每张黄色票是通过交换10张红色票获得的；每张红色票是通过交换10张蓝色票获得的；而蓝色票是通过背诵两节圣经而获得的。但是，汤姆·索亚并没有费那么大的劲，他与朋友交换了各种玩具和宝藏，直到他收集了8张黄色票，3张红色票和7张蓝色票。他还需要多少张蓝色票才能赢得一本新的圣经？。",
+  "topic": "回答下面的数学问题：To win a brand new Bible at Tom Sawyer's Sunday school, a pupil has to win 10 yellow tickets; each yellow ticket is obtained by trading in 10 red tickets; each red ticket is obtained by trading in 10 blue tickets; and blue tickets are earned by memorizing two Bible verses. But rather than go to all that trouble, Tom Sawyer has traded various toys and treasures of his with his friends until he has gathered 8 yellow, 3 red, and 7 blue tickets. How many more blue tickets would he need to earn to win a new Bible?",
   "checkpoint": [
     {
-      "$\\boxed{163}$": 1
+      "\\boxed{163}": 1
     }
   ],
   "matchingmethod": [

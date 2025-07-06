@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰每周写3个故事。每个短篇故事有50页。他还写一部每年有1200页的小说。每张纸可以装2页。在12周内，如果一包纸包含500张，他需要买多少包纸？。",
+  "topic": "回答下面的数学问题：John writes 3 stories every week.  Each short story is 50 pages.  He also writes a novel that is 1200 pages each year.  Each sheet of paper can hold 2 pages.  Over 12 weeks, how many reams of paper does he need to buy if a ream contains 500 sheets?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

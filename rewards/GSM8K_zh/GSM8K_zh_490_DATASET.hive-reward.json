@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在某家书店，畅销书《TOP》售价为8美元。最不畅销的书《ABC》售价为23美元。上周卖出了13本《TOP》和4本《ABC》。这两本书上周书店的收入差额是多少？。",
+  "topic": "回答下面的数学问题：At a certain bookstore, the best-selling book, \"TOP,\" costs $8. The least-selling book, \"ABC,\" costs $23. Thirteen \"TOP\" books and four \"ABC\" books were sold last week. What is the difference in the bookstore's earnings on these two books last week?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

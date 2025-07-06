@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：租车公司每天租车收费30美元，或者在整个星期或更长时间的租车中的第一周收费190美元。珍妮租了一辆车11天。她租车支付了多少美元？。",
+  "topic": "回答下面的数学问题：The car-rental agency charges $30/day for a car, or $190 for the first week for a rental that lasts an entire week or longer. Jennie rented a car for 11 days. How much, in dollars, did she pay for the rental?",
   "checkpoint": [
     {
-      "$\\boxed{310}$": 1
+      "\\boxed{310}": 1
     }
   ],
   "matchingmethod": [

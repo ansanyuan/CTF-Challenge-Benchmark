@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Darnell每个月为他的手机支付12美元，可以享受无限短信和通话。另一个手机套餐每月收费1美元/30条短信和3美元/20分钟通话。Darnell每个月发送60条短信并在电话上花费60分钟。他在另一个套餐上会少支付多少美元？。",
+  "topic": "回答下面的数学问题：Darnell pays $12 for unlimited texting and calling on his phone each month. An alternative phone plan would charge $1 per 30 texts and $3 per 20 minutes of calls per month. Darnell sends 60 texts and spends 60 minutes on the phone each month. How many dollars less would he pay on the alternative plan?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

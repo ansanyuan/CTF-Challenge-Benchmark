@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：彼得有20本书。他已经读了其中的40%。他的兄弟读了其中的10%。彼得比他的兄弟多读了多少本书？。",
+  "topic": "回答下面的数学问题：Peter has 20 books. He has read 40% of them. His brother has read 10% of them. How many more of these books has Peter read than his brother?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Barbara在新的抽屉柜上得到了一个很好的交易，但她必须拿出很多纸才能使用它。她找到了3捆彩色纸，2捆白纸和5堆废纸。如果一捆装有4张纸，一捆装有2张纸，一堆装有20张纸，Barbara从抽屉柜中拿出了多少张纸？。",
+  "topic": "回答下面的数学问题：Barbara got a great deal on a new chest of drawers, but she has to take a lot of paper out of the drawers to be able to use it. She found 3 bundles of colored paper, 2 bunches of white paper, and 5 heaps of scrap paper. If a bunch holds 4 sheets of paper, a bundle holds 2 sheets of paper, and a heap holds 20 sheets of paper, how many sheets of paper did Barbara remove from the chest of drawers?",
   "checkpoint": [
     {
-      "$\\boxed{114}$": 1
+      "\\boxed{114}": 1
     }
   ],
   "matchingmethod": [

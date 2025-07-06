@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Maximilian先生有一栋出租楼，他每个月从中收取租金。这栋楼有100个单位。如果整整一年里这栋楼有四分之三的单位被租出去，而且每个单位的居民每月支付400美元的租金，请计算一年内Maximilian先生收到的金额。。",
+  "topic": "回答下面的数学问题：Mr. Maximilian has a rental building that he collects rent from every month. The number of units in the building is 100. If the building is 3/4 occupied for a whole year, and each resident of the building pays a rent of $400, calculate the amount of money Mr. Maximilian receives in that year.",
   "checkpoint": [
     {
-      "$\\boxed{360000}$": 1
+      "\\boxed{360000}": 1
     }
   ],
   "matchingmethod": [

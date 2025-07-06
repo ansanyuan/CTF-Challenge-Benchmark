@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hazel摆了一个柠檬水摊。她把一半的柠檬水卖给了一个建筑队。她向骑自行车的孩子卖了18杯。她把一半的数量送给了她的朋友。然后她自己喝了最后一杯柠檬水。Hazel做了多少杯柠檬水？。",
+  "topic": "回答下面的数学问题：Hazel put up a lemonade stand. She sold half her lemonade to a construction crew. She sold 18 cups to kids on bikes. She gave away half that amount to her friends. Then she drank the last cup of lemonade herself. How many cups of lemonade did Hazel make?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

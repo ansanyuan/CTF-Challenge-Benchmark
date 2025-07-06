@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：TreShawn的妈妈需要为她儿子和他的两个朋友订披萨。她知道TreShawn总是吃半个披萨。他的朋友迈克尔吃1/3个披萨，另一个朋友LaMar吃1/6个披萨。她需要订购多少个披萨？。",
+  "topic": "回答下面的数学问题：TreShawn's mom needs to order pizza for her son and his two friends. She knows that TreShawn always eats 1/2 a pizza. His friend Michael eats 1/3 of a pizza and his other friend LaMar eats 1/6 of a pizza. How many pizzas does she need to order?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

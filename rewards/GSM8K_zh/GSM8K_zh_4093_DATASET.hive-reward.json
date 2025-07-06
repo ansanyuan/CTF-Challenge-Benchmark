@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅洛迪需要为她的英语课读20页，为她的科学课读16页，为她的公民课读8页，为她的中文课读12页。她决定明天阅读每门课程页数的四分之一。她明天会读多少页？。",
+  "topic": "回答下面的数学问题：Melody needs to read 20 pages for her English class, 16 pages for her Science class, 8 pages for her Civics, and 12 pages for Chinese class. She decided to read one-fourth of the number of pages for each class tomorrow. How many pages will she read tomorrow?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

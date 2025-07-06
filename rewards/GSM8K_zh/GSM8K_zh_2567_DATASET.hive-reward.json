@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛德琳有48美元，她的弟弟有一半。他们一共有多少钱？。",
+  "topic": "回答下面的数学问题：Madeline has $48 and her brother has half as much. How much do they have together?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

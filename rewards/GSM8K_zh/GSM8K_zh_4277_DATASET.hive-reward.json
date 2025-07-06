@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：用320朵玫瑰花瓣可以制作一盎司的香水。如果每朵玫瑰花产生8片花瓣，每棵玫瑰有12朵花，Fern需要收获多少棵玫瑰花才能制作20瓶12盎司的香水？。",
+  "topic": "回答下面的数学问题：It takes 320 rose petals to make an ounce of perfume. If each rose produces 8 petals, and there are 12 roses per bush, how many bushes will Fern have to harvest to make 20 12-ounce bottles of perfume?",
   "checkpoint": [
     {
-      "$\\boxed{800}$": 1
+      "\\boxed{800}": 1
     }
   ],
   "matchingmethod": [

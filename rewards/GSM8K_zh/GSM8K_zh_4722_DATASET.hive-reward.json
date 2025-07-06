@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：6年后，卡拉将是30岁。卡拉和路易斯目前的年龄总和是55岁。路易斯现在多大？。",
+  "topic": "回答下面的数学问题：In 6 years, Carla will be 30 years old. The sum of the current ages of Carla and Louis is 55. How old is Louis now?",
   "checkpoint": [
     {
-      "$\\boxed{31}$": 1
+      "\\boxed{31}": 1
     }
   ],
   "matchingmethod": [

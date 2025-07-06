@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校进行的一项调查显示，只有800名家长中的20%同意提高学费。有多少名家长不同意提高学费？。",
+  "topic": "回答下面的数学问题：A survey conducted by the school showed that only 20% of the 800 parents agree to a tuition fee increase. How many parents disagree with the tuition fee increase?",
   "checkpoint": [
     {
-      "$\\boxed{640}$": 1
+      "\\boxed{640}": 1
     }
   ],
   "matchingmethod": [

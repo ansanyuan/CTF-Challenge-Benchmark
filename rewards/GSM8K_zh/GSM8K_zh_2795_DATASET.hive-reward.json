@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰修理了5辆汽车。其中3辆汽车每辆需要40分钟来修理。剩下的汽车每辆需要更长的时间的50%。他每小时修理汽车赚20美元。他赚了多少钱？。",
+  "topic": "回答下面的数学问题：John repairs 5 cars.  3 of the cars take 40 minutes each to repair.  The remaining ones take 50% longer each to repair.  He makes $20 per hour repairing cars.  How much money does he make?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔有一个养鸡场。他的鸡每年增加150只。如果他的农场现在有550只鸡，那么9年后他将有多少只鸡？。",
+  "topic": "回答下面的数学问题：Michael has a chicken farm. His chickens increase in number by 150 chickens annually. If the number of chickens on his farm now is 550, how many will he have after 9 years?",
   "checkpoint": [
     {
-      "$\\boxed{1900}$": 1
+      "\\boxed{1900}": 1
     }
   ],
   "matchingmethod": [

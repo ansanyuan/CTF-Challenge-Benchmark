@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个深海怪物每一百年从水中升起，吞噬一艘船来满足它的饥饿。在三百年间，它吞噬了847人。随着时间的推移，船变得更大，所以每艘新船上的人数是上一艘船的两倍。在前一百年的船上有多少人被怪物吞噬了？。",
+  "topic": "回答下面的数学问题：A deep-sea monster rises from the waters once every hundred years to feast on a ship and sate its hunger. Over three hundred years, it has consumed 847 people. Ships have been built larger over time, so each new ship has twice as many people as the last ship. How many people were on the ship the monster ate in the first hundred years?",
   "checkpoint": [
     {
-      "$\\boxed{121}$": 1
+      "\\boxed{121}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亨利买了300颗糖果，和她的两个兄弟分享。然而，他们发现40%的糖果是酸的，他们不得不把它们分开。如果他们然后平均分配好的糖果，每个人分到了多少颗糖果？。",
+  "topic": "回答下面的数学问题：Henley bought 300 candies and shared them with her two brothers. However, they realized 40% of them were sour, and they had to separate those out. If they then shared the good candies equally, how many candies did each get?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

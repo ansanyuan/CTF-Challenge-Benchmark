@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Josette买了3瓶矿泉水，花了1.50欧元。四瓶矿泉水要多少钱？。",
+  "topic": "回答下面的数学问题：Josette bought 3 bottles of mineral water for €1.50. How much will four bottles cost?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

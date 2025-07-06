@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在伦多洛兹一开始有一些狮子。狮子幼崽的出生率为每月5只，而狮子的死亡率为每月1只。如果一年后伦多洛兹有148只狮子，一开始伦多洛兹有多少只狮子？。",
+  "topic": "回答下面的数学问题：There are some lions in Londolozi at first. Lion cubs are born at the rate of 5 per month and lions die at the rate of 1 per month. If there are 148 lions in Londolozi after 1 year, how many lions were there in Londolozi at first?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

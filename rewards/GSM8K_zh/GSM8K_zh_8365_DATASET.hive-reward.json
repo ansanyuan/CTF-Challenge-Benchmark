@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：旋转玩具的转速是小玩意的五倍。一个叫什么来着的东西的转速比小玩意快十一倍。一个叫什么来着的东西的转速是每秒121米。旋转玩具的转速有多快？。",
+  "topic": "回答下面的数学问题：A whirligig spins at five times the speed of a thingamabob. A whatchamacallit spins eleven times faster than a thingamabob. A whatchamacallit spins at 121 meters per second. How fast does a whirligig spin?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

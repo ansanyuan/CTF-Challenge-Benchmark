@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：加里管理两个亚马逊配送中心。第一个中心每天处理10000个包裹，第二个中心处理的数量是第一个中心的三倍。如果亚马逊每个包裹赚5美分的利润，两个中心每周总共赚多少利润？。",
+  "topic": "回答下面的数学问题：Gary manages two Amazon distribution centers. The first center processes 10000 packages per day, and the second center processes three times that volume. If Amazon makes 5 cents of profit per package, how much profit per week do the two centers make combined?",
   "checkpoint": [
     {
-      "$\\boxed{14000}$": 1
+      "\\boxed{14000}": 1
     }
   ],
   "matchingmethod": [

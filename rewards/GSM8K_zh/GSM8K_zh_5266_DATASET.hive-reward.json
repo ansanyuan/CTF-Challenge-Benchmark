@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Wendy在巧克力工厂包装巧克力。她可以在5分钟内包装2打巧克力。她在4小时内可以包装多少个单独的巧克力？。",
+  "topic": "回答下面的数学问题：Wendy works at a chocolate factory packing chocolates.  She can package 2 dozen chocolates in 5 minutes.  How many individual chocolates can she package in 4 hours?",
   "checkpoint": [
     {
-      "$\\boxed{1152}$": 1
+      "\\boxed{1152}": 1
     }
   ],
   "matchingmethod": [

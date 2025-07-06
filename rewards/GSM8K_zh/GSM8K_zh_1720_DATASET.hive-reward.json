@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tonya的信用卡上有150.00美元。如果她在月底留下任何余额，就会被收取20%的利息。如果她在信用卡上支付了50.00美元，新的余额将是多少？。",
+  "topic": "回答下面的数学问题：Tonya has $150.00 on her credit card.  If she leaves any balance on her card at the end of the month, she is charged 20% interest.  If she makes a $50.00 payment on her card, what will be the new balance?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

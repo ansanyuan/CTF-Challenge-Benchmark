@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：多切斯特在一家小狗洗澡店工作。他每天的工资是40美元，每洗一只小狗得到2.25美元。星期三，多切斯特赚了76美元。那天他洗了多少只小狗？。",
+  "topic": "回答下面的数学问题：Dorchester works at a puppy wash. He is paid $40 per day + $2.25 for each puppy he washes. On Wednesday, Dorchester earned $76. How many puppies did he wash that day?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

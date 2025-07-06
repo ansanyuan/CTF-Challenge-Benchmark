@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：沃伦女士以每小时6英里的速度跑了20分钟。跑步后，她以每小时2英里的速度走了30分钟。她总共跑步和走了多少英里？。",
+  "topic": "回答下面的数学问题：Ms. Warren ran at 6 mph for 20 minutes. After the run, she walked at 2 mph for 30 minutes. How many miles did she run and walk in total?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

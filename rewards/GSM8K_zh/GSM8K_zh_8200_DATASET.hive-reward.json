@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托弗，绿色巨人，穿着巨大的鞋子。他的一只鞋的长度比鲍比的一只鞋的长度长9倍再加10英寸。如果托弗的一只鞋的长度是8英尺4英寸，那么鲍比的一只鞋有多长（单位：英寸）？。",
+  "topic": "回答下面的数学问题：Topher, the green giant, wears enormous shoes.  The length of one of his shoes is 10 inches longer than 9 times the length of one of Bobby’s shoes.  If the length of one of Topher’s shoes is 8-feet and 4-inches, how long, in inches, is one of Bobby’s shoes?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

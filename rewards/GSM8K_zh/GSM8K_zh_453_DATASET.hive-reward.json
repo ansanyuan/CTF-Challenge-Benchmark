@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Emily有6颗弹珠。梅根给了Emily她拥有数量的两倍。Emily然后还给了Megan她新总数的一半加1。现在Emily有多少颗弹珠？。",
+  "topic": "回答下面的数学问题：Emily has 6 marbles. Megan gives Emily double the number she has. Emily then gives Megan back half of her new total plus 1. How many marbles does Emily have now?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

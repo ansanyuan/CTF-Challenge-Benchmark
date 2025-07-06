@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Seth和Max在学校筹款活动中卖糖果棒。Seth卖出的糖果棒比Max卖出的糖果棒的3倍多6个。如果Max卖出了24个糖果棒，Seth卖出了多少个？。",
+  "topic": "回答下面的数学问题：Seth and Max were selling candy bars for a school fundraiser. Seth sold 6 more candy bars than 3 times the number of candy bars that Max sold. If Max sold 24 candy bars, how many did Seth sell?",
   "checkpoint": [
     {
-      "$\\boxed{78}$": 1
+      "\\boxed{78}": 1
     }
   ],
   "matchingmethod": [

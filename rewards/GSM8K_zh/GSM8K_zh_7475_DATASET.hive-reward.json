@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一件长袍需要2匹蓝色纤维和一半数量的白色纤维。总共需要多少匹纤维？。",
+  "topic": "回答下面的数学问题：A robe takes 2 bolts of blue fiber and half that much white fiber.  How many bolts in total does it take?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

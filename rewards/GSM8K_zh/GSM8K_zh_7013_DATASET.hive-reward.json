@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克的收入是雅各布的三倍。如果雅各布每小时赚6美元，那么杰克每天工作8小时，5天能赚多少钱？。",
+  "topic": "回答下面的数学问题：Jake earns thrice what Jacob does. If Jacob earns $6 per hour, how much does Jake earn in 5 days working 8 hours a day?",
   "checkpoint": [
     {
-      "$\\boxed{720}$": 1
+      "\\boxed{720}": 1
     }
   ],
   "matchingmethod": [

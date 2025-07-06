@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰照顾10只狗。每只狗每天需要0.5小时来遛弯和处理它们的事务。他每周花多少小时照顾狗？。",
+  "topic": "回答下面的数学问题：John takes care of 10 dogs.  Each dog takes .5 hours a day to walk and take care of their business.  How many hours a week does he spend taking care of dogs?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

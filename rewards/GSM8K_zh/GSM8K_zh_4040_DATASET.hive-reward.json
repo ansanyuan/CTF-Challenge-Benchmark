@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍娜正在计划一次公路旅行。她计划驾驶前200英里，她的朋友将驾驶最后100英里。他们计划休息2次，每次30分钟。如果珍娜以每小时50英里的速度驾驶，她的朋友以每小时20英里的速度驾驶，他们将在公路旅行上花费多少小时？。",
+  "topic": "回答下面的数学问题：Jenna is planning a road trip. She plans on driving the first 200 miles, and her friend will drive the last 100 miles. They plan on taking 2 30-minute breaks. If Jenna drives 50 miles per hour and her friend drives 20 miles per hour, how many hours will they spend on the road trip?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

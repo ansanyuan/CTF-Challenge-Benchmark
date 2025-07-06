@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Define $n!!$ to be $n(n-2)(n-4)\\cdots 3\\cdot 1$ for $n$ odd and $n(n-2)(n-4)\\cdots 4\\cdot 2$ for $n$ even. When $\\sum_{i=1}^{2009} \\frac{(2i-1)!!}{(2i)!!}$ is expressed as a fraction in lowest terms, its denominator is $2^ab$ with $b$ odd. Find $\\dfrac{ab}{10}$ .",
   "checkpoint": [
     {
-      "$\\boxed{401}$": 1
+      "\\boxed{401}": 1
     }
   ],
   "matchingmethod": [

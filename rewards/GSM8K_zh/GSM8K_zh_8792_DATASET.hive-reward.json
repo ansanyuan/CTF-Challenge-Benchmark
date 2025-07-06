@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亨利和他的3个朋友订了7个披萨吃午餐。每个披萨切成8片。如果亨利和他的朋友们想要平均分配这些披萨，他们每个人可以吃多少片？。",
+  "topic": "回答下面的数学问题：Henry and 3 of his friends order 7 pizzas for lunch. Each pizza is cut into 8 slices. If Henry and his friends want to share the pizzas equally, how many slices can each of them have?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

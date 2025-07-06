@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚当的父亲在银行存入了2000美元。该存款每年获得8%的利息，并且他在存入后立即取出利息。包括存款和两年半后获得的利息，亚当的父亲将拥有多少钱？。",
+  "topic": "回答下面的数学问题：Adam's father deposited $2000 in the bank. It receives 8% interest paid throughout the year, and he withdraws the interest as soon as it is deposited.  How much will Adam’s father have, including his deposit and the interest received after 2 and a half years?",
   "checkpoint": [
     {
-      "$\\boxed{2400}$": 1
+      "\\boxed{2400}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了腾出空间放新的书库存，戈登的当地书店正在提供任何售价超过22.00美元的书的30%折扣，以及任何售价低于20.00美元的书的20%折扣。他购买了几本书，价格分别为25.00美元，18.00美元，21.00美元，35.00美元，12.00美元和10.00美元。他将花多少钱买书？。",
+  "topic": "回答下面的数学问题：To make room for a new inventory of books, Gordon's local bookstore is offering 30% off any book that is over $22.00 and 20% off any book under $20.00.  He buys several books with the following prices; $25.00, $18.00, $21.00, $35.00, $12.00 and $10.00.  How much will he spend on books?",
   "checkpoint": [
     {
-      "$\\boxed{95}$": 1
+      "\\boxed{95}": 1
     }
   ],
   "matchingmethod": [

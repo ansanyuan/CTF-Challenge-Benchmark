@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾莉森和她的朋友玛丽一起去手工店买胶棒和彩纸。艾莉森比玛丽多买了8根胶棒，但玛丽买的彩纸包数是艾莉森的6倍。如果玛丽买了15根胶棒和30包彩纸，那么艾莉森一共买了多少手工用品？。",
+  "topic": "回答下面的数学问题：Allison went to the craft store with her friend Marie to buy some glue sticks and construction paper. Allison bought 8 more glue sticks than Marie, but Marie bought six times as many packs of construction paper as Allison. If Marie bought 15 glue sticks and 30 packs of construction paper how many craft supply items did Allison buy all together?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

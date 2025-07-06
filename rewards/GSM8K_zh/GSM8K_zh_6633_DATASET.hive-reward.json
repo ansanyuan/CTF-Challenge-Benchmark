@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在足球比赛中，当球员受到警告时会收到黄牌，当他们被罚下场时会收到红牌。蒂姆教练有一支由11名球员组成的球队，其中有5名球员没有收到警告，其余的每人收到一张黄牌。整个球队会收集多少张红牌，已知每张红牌对应2张黄牌？。",
+  "topic": "回答下面的数学问题：In soccer, players receive yellow cards when they are cautioned and red cards when they are sent off. Coach Tim has a team of 11 players, 5 of them didn't receive cautions, the rest received one yellow card each. How many red cards would the whole team collect, knowing that each red card corresponds to 2 yellow cards?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

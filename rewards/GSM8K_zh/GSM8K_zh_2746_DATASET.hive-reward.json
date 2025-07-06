@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一次员工会议上，提供了50个甜甜圈。如果19名员工中的每个人吃了2个甜甜圈，还剩下多少个甜甜圈？。",
+  "topic": "回答下面的数学问题：During a staff meeting, 50 doughnuts were served. If each of the 19 staff ate 2 doughnuts, how many doughnuts are left?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

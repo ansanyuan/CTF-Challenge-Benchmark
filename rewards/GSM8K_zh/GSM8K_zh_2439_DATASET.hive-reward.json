@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布莱恩有弗罗多的两倍网球，弗罗多比莉莉多8个。如果莉莉有3个网球，布莱恩有多少个？。",
+  "topic": "回答下面的数学问题：Brian has twice as many tennis balls as Frodo, who has 8 more than Lily. If Lily has 3 tennis balls, how many does Brian have?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

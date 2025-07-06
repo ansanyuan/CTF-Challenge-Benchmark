@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：刘易斯在寻宝游戏中比萨曼莎多找到了4个物品。萨曼莎找到的物品数量是塔尼娅的4倍，而塔尼娅只找到了4个物品。刘易斯找到了多少个物品？。",
+  "topic": "回答下面的数学问题：Lewis found 4 more items on the scavenger hunt than Samantha.  Samantha found four times the amount of items than Tanya who was only able to find 4 items.  How many items did Lewis find?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

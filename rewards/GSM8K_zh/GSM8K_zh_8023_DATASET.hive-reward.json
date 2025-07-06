@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jonathan很遗憾地发现，他需要比现在多两个玩具才能拥有足够的玩具，使得他的整理过的玩具组是詹姆斯的玩具组的五倍大，而詹姆斯的玩具组有80个玩具。Jonathan目前有多少个玩具？。",
+  "topic": "回答下面的数学问题：Jonathan was sad to learn he needed 2 more toys than he already had to have enough toys to make a sorted play set five times larger than James's play set, which had 80 toys. How many toys does Jonathan currently have?",
   "checkpoint": [
     {
-      "$\\boxed{398}$": 1
+      "\\boxed{398}": 1
     }
   ],
   "matchingmethod": [

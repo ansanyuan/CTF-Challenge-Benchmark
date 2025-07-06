@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝蒂有3颗红色珠子，对应每2颗蓝色珠子。如果她有30颗红色珠子，她有多少颗蓝色珠子？。",
+  "topic": "回答下面的数学问题：Betty has 3 red beads for every 2 blue beads that she has. How many blue beads does Betty have if she has 30 red beads?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

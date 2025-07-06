@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ali是一位超级计数明星。他因为超快速计数赢得了22枚奖牌。他的朋友Izzy也是一个非常好的计数员，比Ali少5枚奖牌。他们两个加起来的奖牌数量是已经发出的计数奖牌的十分之一。已经发出了多少枚计数奖牌？。",
+  "topic": "回答下面的数学问题：Ali is a superstar counter. He has won 22 medals for counting super fast. His friend Izzy is also a really good counter and has 5 less medals than Ali. Together they have 10 times less medals than have been given out for counting. How many medals have been given out for counting?",
   "checkpoint": [
     {
-      "$\\boxed{390}$": 1
+      "\\boxed{390}": 1
     }
   ],
   "matchingmethod": [

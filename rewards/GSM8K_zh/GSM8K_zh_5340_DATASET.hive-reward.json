@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个女士需要购买16盎司的黄油来制作甜点。她可以选择购买一包16盎司的商店品牌黄油，售价为7美元，或者她可以购买一包8盎司的商店黄油，售价为4美元，并使用一张优惠券额外获得两包4盎司的黄油，原价为每包2.0美元，享受50%的折扣（折扣分别应用于每包4盎司的黄油）。她需要的16盎司黄油的最低价格是多少？。",
+  "topic": "回答下面的数学问题：A woman needs to buy 16 oz of butter for a dessert recipe.  She can either buy a single 16 oz package of the store-brand butter for $7, or she can buy an 8oz package of store butter for $4 and use a coupon to get an additional two 4 oz packages that normally sell for $2.0 each at a 50% discount (which is applied to each 4oz package separately).  What is the lowest price she can pay for the 16 oz of butter she needs?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

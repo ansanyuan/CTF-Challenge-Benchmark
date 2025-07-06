@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔有4盒蜡笔，想再买2盒。一盒蜡笔的价格是2.5美元。迈克尔购买后所有蜡笔的总价值是多少？。",
+  "topic": "回答下面的数学问题：Michael has 4 packs of crayons and wants to buy 2 more. One pack of crayons costs $2.5. How much are all the packs of crayons Michael will have after the purchase worth?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

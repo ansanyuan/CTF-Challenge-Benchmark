@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：尤金用牙签和一副扑克牌建造了一个模型房子。每张扑克牌他用了75根牙签。一副扑克牌有52张，尤金用了其中除了16张之外的所有牌来建造他的房子。如果一盒牙签有450根，尤金用了多少盒牙签来建造他的模型房子？。",
+  "topic": "回答下面的数学问题：Eugene built a model house out of toothpicks and a deck of playing cards.  For every card, he used 75 toothpicks.  The deck of playing cards had 52 cards, and Eugene used all but 16 of the cards to build his house.  If a box of toothpicks contains 450 toothpicks, how many boxes of toothpicks did Eugene use to create his model house?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

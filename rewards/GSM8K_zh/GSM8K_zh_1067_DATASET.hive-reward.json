@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔治和阿梅利亚在果园摘橙子和苹果。乔治摘了45个橙子，比阿梅利亚多摘了5个苹果。阿梅利亚摘的橙子比乔治少18个，摘了15个苹果。他们总共摘了多少水果？。",
+  "topic": "回答下面的数学问题：George and Amelia are picking oranges and apples at an orchard. George picks 45 oranges and 5 more apples than Amelia. Amelia picks 18 fewer oranges than George and 15 apples. How many fruits do they pick altogether?",
   "checkpoint": [
     {
-      "$\\boxed{107}$": 1
+      "\\boxed{107}": 1
     }
   ],
   "matchingmethod": [

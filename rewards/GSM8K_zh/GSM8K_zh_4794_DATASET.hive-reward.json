@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有四棵正在生长的树。第一棵树每天长1米，第二棵树在一半的时间内长了相同的数量，第三棵树每天长2米，第四棵树每天比第三棵树多长1米。这四棵树在4天内总共长了多少米？。",
+  "topic": "回答下面的数学问题：There are four growing trees. The first tree grows 1 meter/day, the second grows the same amount in half the time, the third grows 2 meters/day, and the fourth tree grows a meter more than the third each day. How many meters did the trees grow in total in 4 days?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

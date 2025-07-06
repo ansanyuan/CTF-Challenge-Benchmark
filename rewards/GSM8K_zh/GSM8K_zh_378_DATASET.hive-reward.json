@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯买了3张CD。其中两张是每张1.5小时。最后一张是那两张的两倍长。这些CD的总长度是多少？。",
+  "topic": "回答下面的数学问题：James buys 3 CDs.  Two of them are 1.5 hours each.  The last one is twice that long.  What is the combined length of the CDs?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

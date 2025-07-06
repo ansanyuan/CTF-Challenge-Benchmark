@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：四年前，科迪的年龄只有穆罕默德的一半。如果穆罕默德目前的年龄是30岁的两倍，那么科迪多大了？。",
+  "topic": "回答下面的数学问题：Four years ago, Kody was only half as old as Mohamed. If Mohamed is currently twice 30 years old, how old is Kody?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

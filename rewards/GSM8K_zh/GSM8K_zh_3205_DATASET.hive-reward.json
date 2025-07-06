@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克有两打鸡蛋要和他的三个兄弟姐妹分。如果他们每个人吃的数量相同，每个人能吃多少个鸡蛋？。",
+  "topic": "回答下面的数学问题：Mark has two dozen eggs to split with his three siblings. How many eggs does each person get to eat if they all eat the same amount?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

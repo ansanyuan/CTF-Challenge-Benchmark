@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰拉德认为愚弄他对花生过敏的同事吃花生酱饼干会很有趣。当他的同事出现过敏性休克被送往医院时，杰拉德被逮捕。法官判处杰拉德因袭击罪3个月，毒害罪2年，然后由于这是杰拉德的第三次犯罪，将他的刑期延长1/3。杰拉德在监狱里将度过多少个月？。",
+  "topic": "回答下面的数学问题：Gerald thought it would be funny to trick his coworker, who's allergic to peanuts, into eating a peanut butter cookie. When his coworker goes into anaphylactic shock and is taken to the hospital, Gerald is arrested. The judge sentences Gerald to 3 months for assault and 2 years for poisoning, then extends his sentence by 1/3 since this is Gerald's third offense. How many months does Gerald spend in jail?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

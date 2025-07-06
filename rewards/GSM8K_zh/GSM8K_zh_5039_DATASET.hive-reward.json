@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个罐子里有148颗花生。布洛克吃了四分之一的花生，波尼塔吃了29颗花生。罐子里还剩下多少颗花生？。",
+  "topic": "回答下面的数学问题：There were 148 peanuts in a jar. Brock ate one-fourth of the peanuts and Bonita ate 29 peanuts. How many peanuts remain in the jar?",
   "checkpoint": [
     {
-      "$\\boxed{82}$": 1
+      "\\boxed{82}": 1
     }
   ],
   "matchingmethod": [

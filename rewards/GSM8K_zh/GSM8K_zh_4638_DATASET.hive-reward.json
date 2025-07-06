@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：特拉维斯每周吃2盒麦片。如果每盒的价格是3.00美元，他每周吃2盒，一整年52周，他在麦片上花了多少钱？。",
+  "topic": "回答下面的数学问题：Travis goes through 2 boxes of cereal a week.  If each box costs $3.00 and he eats 2 boxes every week for an entire year, 52 weeks, how much does he spend on cereal?",
   "checkpoint": [
     {
-      "$\\boxed{312}$": 1
+      "\\boxed{312}": 1
     }
   ],
   "matchingmethod": [

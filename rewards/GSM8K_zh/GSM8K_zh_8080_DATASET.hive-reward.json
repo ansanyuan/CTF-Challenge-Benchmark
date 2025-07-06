@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每开车2英里，轮胎就会旋转725次。Jeremy每个月开车400英里。如果每个轮胎能承受10,440,000次旋转，那么多少年后需要更换轮胎？。",
+  "topic": "回答下面的数学问题：Every 2 miles a car drives the tires rotate 725 times.  Jeremy drives 400 miles a month.  If each tire can undergo 10,440,000 rotations how many years before the tire needs to be replaced?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

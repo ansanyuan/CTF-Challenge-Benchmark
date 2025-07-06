@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Karen正在顺流划她的独木舟。在平静的池塘上，Karen可以划10英里每小时。河流以每小时4英里的速度向相反方向流动。如果河流长12英里，Karen需要多少小时才能划到上游？。",
+  "topic": "回答下面的数学问题：Karen is paddling her canoe up a river against the current. On a still pond, Karen can paddle 10 miles per hour. The river flows in the opposite direction at 4 miles per hour. If the river is 12 miles long, how many hours will it take Karen to paddle up it?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一份报纸订阅每月费用为10美元。如果您购买年度订阅，您将获得总账单的20%折扣。如果您选择年度订阅，最终需要支付多少钱？。",
+  "topic": "回答下面的数学问题：A newspaper subscription costs $10/month. If you purchase an annual subscription you obtain a 20% discount on your total bill. How much do you end up paying if you go with the annual subscription?",
   "checkpoint": [
     {
-      "$\\boxed{96}$": 1
+      "\\boxed{96}": 1
     }
   ],
   "matchingmethod": [

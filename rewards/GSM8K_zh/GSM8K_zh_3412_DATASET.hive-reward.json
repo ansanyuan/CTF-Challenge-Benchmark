@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lara是一个有趣游戏节目的参赛者，她需要穿越一个充气的蹦床障碍课程。首先，她需要携带一个装满宝藏的背包穿过障碍课程，并将其放在另一边，这需要她7分钟23秒。其次，她需要转动障碍课程的门，以便她可以再次通过，这需要她73秒。在她通过门后，她再次穿越障碍课程，并在没有背包的情况下更快地完成，用时5分钟58秒。她完成整个障碍课程需要多少秒？。",
+  "topic": "回答下面的数学问题：Lara is a contestant on a fun game show where she needs to navigate an inflated bouncy house obstacle course. First she needs to carry a backpack full of treasure through the obstacle course and set it down on the other side, which she does in 7 minutes and 23 seconds. Second, she needs to crank open the door to the obstacle course so she can go back through, which takes her 73 seconds. After she gets through the door she traverses the obstacle course again and makes it out faster without the backpack, in 5 minutes and 58 seconds. How many seconds total does it take her to complete the obstacle course?",
   "checkpoint": [
     {
-      "$\\boxed{874}$": 1
+      "\\boxed{874}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈利参加了一幅古典绘画的拍卖。拍卖从300美元开始，哈利是第一个出价的人，他在起始价上加了200美元，第二个出价者将出价加倍，第三个出价者加了哈利出价的三倍。最后，哈利出价了4000美元。哈利的最终出价超过第三个出价者多少？。",
+  "topic": "回答下面的数学问题：Harry participates in the auction of a classic painting. The auction starts at $300, Harry is the first to bid, adding $200 to the starting value, a second bidder doubles the bid, and a third bidder adds three times Harry's bid. Finally, Harry bids $4,000. By how much did Harry's final bid exceed that of the third bidder?",
   "checkpoint": [
     {
-      "$\\boxed{1500}$": 1
+      "\\boxed{1500}": 1
     }
   ],
   "matchingmethod": [

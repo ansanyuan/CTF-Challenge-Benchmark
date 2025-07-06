@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伍迪想买一个价值282美元的游戏机。伍迪已经有42美元，并且每周会得到24美元的零花钱。他需要多少周才能存够买游戏机的钱？。",
+  "topic": "回答下面的数学问题：Woody wants to buy a games console that costs $282. Woody already has $42 and receives an allowance of $24 every week. How many weeks will it take him to save the money he needs for the game console?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

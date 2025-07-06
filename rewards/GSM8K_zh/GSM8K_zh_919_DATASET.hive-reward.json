@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：房子的尺寸是20.5英尺乘以10英尺。门廊的尺寸是6英尺乘以4.5英尺。房子和门廊都需要屋顶瓦。需要多少平方英尺的屋顶瓦来覆盖房子和门廊？。",
+  "topic": "回答下面的数学问题：The house is 20.5 feet by 10 feet. The porch measures 6 feet by 4.5 feet. The house and the porch need shingles. How many square feet of shingles will be needed to roof the house and the porch?",
   "checkpoint": [
     {
-      "$\\boxed{232}$": 1
+      "\\boxed{232}": 1
     }
   ],
   "matchingmethod": [

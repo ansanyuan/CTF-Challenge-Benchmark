@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一加仑全脂牛奶的正常价格是3美元，现在以2美元的价格出售。一盒麦片以1美元的折扣价出售。如果你买3加仑全脂牛奶和5盒麦片，你将通过折扣节省多少钱？。",
+  "topic": "回答下面的数学问题：A gallon of whole milk that normally costs $3 is now sold at $2. A box of cereal was sold at a discount of $1. How much will you save via discounts if you buy 3 gallons of whole milk and 5 boxes of cereal?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

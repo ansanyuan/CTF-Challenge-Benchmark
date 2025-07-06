@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一批饼干需要4杯面粉和1.5杯糖。制作8批饼干需要多少杯面粉和糖？。",
+  "topic": "回答下面的数学问题：One batch of cookies requires 4 cups of flour and 1.5 cups of sugar. How many cups of flour and sugar combined would be needed for 8 batches?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

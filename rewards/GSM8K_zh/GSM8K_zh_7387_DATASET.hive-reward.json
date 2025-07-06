@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：飞机上有80名乘客，男性和女性的数量相等。其余的乘客是儿童。如果有30名男性，飞机上有多少儿童？。",
+  "topic": "回答下面的数学问题：There are 80 passengers on the airplane where the number of men and women is equal. The rest of the passengers are children. How many children are on the airplane if there are 30 men?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

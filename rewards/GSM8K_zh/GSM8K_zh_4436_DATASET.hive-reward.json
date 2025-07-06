@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Steve购买了价值25美元的杂货。他买了一加仑牛奶，价格为3美元，两盒谷物，每盒3.5美元，4根香蕉，每根0.25美元，四个苹果，每个0.5美元，以及一些盒饼干。每盒饼干的价格是一加仑牛奶的两倍。他买了多少盒饼干？。",
+  "topic": "回答下面的数学问题：Steve bought $25 worth of groceries. He bought a gallon of milk for $3, two boxes of cereal for $3.5 each, 4 bananas for $.25 each, four apples that cost $.5 each and a number of boxes of cookies. The cookies cost twice as much per box as the gallon of milk. How many boxes of cookies did he get?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

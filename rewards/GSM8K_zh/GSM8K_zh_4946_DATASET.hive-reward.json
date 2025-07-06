@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个牧场里有300头奶牛，由公牛和母牛组成。母牛的数量是公牛数量的两倍。一半的母牛有斑点，一半的公牛有角。有多少只比有角的公牛多的母牛有斑点？。",
+  "topic": "回答下面的数学问题：300 cows in a field are made up of male and female cows. There are twice as many females as males. Half the females are spotted, and half the males have horns. How many more females with spots are there than males with horns?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

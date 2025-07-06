@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安娜正在阅读一本有31章的教科书，但她跳过了所有可以被3整除的章节。如果她每章阅读需要20分钟，她总共花了多少小时阅读？。",
+  "topic": "回答下面的数学问题：Anna is reading a 31-chapter textbook, but she skips all the chapters that are divisible by 3. If it takes her 20 minutes to read each chapter, how many hours does she spend reading total?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

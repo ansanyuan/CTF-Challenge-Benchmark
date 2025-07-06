@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mario需要为他的6只雪橇犬购买雪鞋。假设他的每只狗都有四条腿，每双雪鞋的成本是12美元，他给所有狗买雪鞋需要花费多少钱？。",
+  "topic": "回答下面的数学问题：Mario needs to buy snowshoes for his 6 sled dogs.  Assuming his dogs each has four legs and each pair of snowshoes costs $12.00, how much will it cost him to buy snowshoes for all of his dogs?",
   "checkpoint": [
     {
-      "$\\boxed{144}$": 1
+      "\\boxed{144}": 1
     }
   ],
   "matchingmethod": [

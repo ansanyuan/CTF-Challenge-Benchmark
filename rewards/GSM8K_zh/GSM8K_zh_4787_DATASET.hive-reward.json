@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个巧克力蛋糕需要3个鸡蛋。每个芝士蛋糕需要8个鸡蛋。制作9个芝士蛋糕比制作5个巧克力蛋糕需要多少个鸡蛋？。",
+  "topic": "回答下面的数学问题：A chocolate cake needs 3 eggs per cake. Cheesecake requires 8 eggs for each cheesecake. How many more eggs are needed for 9 cheesecakes than are needed for 5 chocolate cakes?",
   "checkpoint": [
     {
-      "$\\boxed{57}$": 1
+      "\\boxed{57}": 1
     }
   ],
   "matchingmethod": [

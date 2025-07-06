@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两公斤糖和五公斤盐的价格是5.50美元。如果一公斤糖的价格是1.50美元，那么三公斤糖和一公斤盐的价格是多少？。",
+  "topic": "回答下面的数学问题：The price of two kilograms of sugar and five kilograms of salt is $5.50. If a kilogram of sugar costs $1.50, then how much is the price of three kilograms of sugar and a kilogram of salt?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

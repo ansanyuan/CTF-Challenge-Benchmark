@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marnie制作珠子手链。她买了5袋50颗珠子和2袋100颗珠子。如果用50颗珠子制作一个手链，Marnie能用她买的珠子做多少个手链？。",
+  "topic": "回答下面的数学问题：Marnie makes bead bracelets. She bought 5 bags of 50 beads and 2 bags of 100 beads. If 50 beads are used to make one bracelet, how many bracelets will Marnie be able to make out of the beads she bought?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

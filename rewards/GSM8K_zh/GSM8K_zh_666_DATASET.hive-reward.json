@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bill和他的妻子和两个孩子从果园摘了50个苹果。他送他的孩子们每人3个苹果给他们最喜欢的两位老师。他的妻子Jill烤了两个苹果派，每个派用了10个苹果。Bill剩下多少苹果？。",
+  "topic": "回答下面的数学问题：Bill picked 50 apples from the orchard with his wife and two children.  He sends each of his kids to school with 3 apples for their two favorite teachers.  His wife Jill bakes two apple pies, using 10 apples per pie. How many apples does Bill have left?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有四所学校的篮球队参加了一场篮球锦标赛。每所学校都派出了一个女子篮球队和一个男子篮球队，每个队各有5名队员。每个队还派出了一名教练。总共，所有学校派出了多少人？。",
+  "topic": "回答下面的数学问题：There are four schools competing at a basketball tournament. Each school has sent a girls’ basketball team and a boys’ basketball team and each team has 5 players each. Each school has also sent a coach for each team. In total, how many people have all of the schools sent?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

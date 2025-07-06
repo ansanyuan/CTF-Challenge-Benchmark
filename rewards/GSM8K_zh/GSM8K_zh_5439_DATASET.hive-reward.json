@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Elena的花园里有8朵百合花和5朵郁金香。每朵百合花有6片花瓣。每朵郁金香有3片花瓣。Elena的花园里有多少朵花瓣？。",
+  "topic": "回答下面的数学问题：Elena has 8 lilies and 5 tulips in her garden. Each lily has 6 petals. Each tulip has 3 petals. How many flower petals are in Elena’s garden?",
   "checkpoint": [
     {
-      "$\\boxed{63}$": 1
+      "\\boxed{63}": 1
     }
   ],
   "matchingmethod": [

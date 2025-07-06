@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个建筑物的每个房间至少有两个窗户，最多有4个窗户。总共有122个窗户。如果有5个房间有4个窗户，8个房间有3个窗户，那么建筑物里有多少个房间有2个窗户？。",
+  "topic": "回答下面的数学问题：Every room in a building has at least two windows and a maximum of 4 windows. There are 122 windows total. If 5 rooms have 4 windows and 8 rooms have 3 windows, how many rooms in the building have 2 windows?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

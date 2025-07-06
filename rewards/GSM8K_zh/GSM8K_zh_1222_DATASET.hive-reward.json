@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽看到一群鸭子正在过马路。有2只鸭子，每只有5只鸭子，6只鸭子，每只有3只鸭子，和9只鸭子，每只有6只鸭子。总共有多少只鸭子和鸭子宝宝？。",
+  "topic": "回答下面的数学问题：Mary sees a flock of ducks crossing the street. There are 2 ducks with 5 ducklings each, 6 ducks with 3 ducklings each, and 9 ducks with 6 ducklings each. How many ducks and ducklings are there total?",
   "checkpoint": [
     {
-      "$\\boxed{99}$": 1
+      "\\boxed{99}": 1
     }
   ],
   "matchingmethod": [

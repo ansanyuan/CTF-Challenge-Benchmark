@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：星期五，汉克打开了他的二手自行车店，库存中有一些自行车，都经过修理，可以骑行。在当天，他卖出了10辆自行车，并购买了额外的15辆来修理。星期六，他卖出了12辆自行车，并购买了8辆。星期天，他卖出了9辆自行车，并购买了11辆。在这三天内，汉克的店里自行车的净增加数量是多少？。",
+  "topic": "回答下面的数学问题：On Friday, Hank opened his used-bicycle store with a stock of bicycles, all fixed-up and ready to ride. Over the course of the day, he sold 10 bicycles and bought an additional 15 to fix up. On Saturday, he sold 12 bicycles and bought 8 more. And on Sunday, he sold 9 bicycles and bought 11 more. What was the net increase in the number of bicycles in stock in Hank's store over the three days?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

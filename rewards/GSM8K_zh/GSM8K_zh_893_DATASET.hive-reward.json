@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个汽车修理店有克拉克需要的一个零件，价格为80美元。克拉克购买了7个，并得到了折扣。如果克拉克只需要支付439美元，那么折扣金额是多少？。",
+  "topic": "回答下面的数学问题：An auto shop has a part that Clark needs for $80. Clark buys 7 of them and got a discount. If Clark only had to pay $439, how much was the discount?",
   "checkpoint": [
     {
-      "$\\boxed{121}$": 1
+      "\\boxed{121}": 1
     }
   ],
   "matchingmethod": [

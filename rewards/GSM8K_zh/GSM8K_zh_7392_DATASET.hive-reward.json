@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个自助洗衣店，使用洗衣机需要4美元，烘干机每10分钟需要25美分。莎曼珂在洗衣机里洗了2次衣服，然后将所有洗好的衣服均匀地分成3份放入烘干机。如果她让烘干机每台运行40分钟，她总共花了多少钱？。",
+  "topic": "回答下面的数学问题：At a laundromat, it costs $4 for a washer and a quarter for every 10 minutes in the dryer. Samantha does 2 loads of laundry in the wash and then divides all the washed clothes equally into 3 separate dryers. If she lets the dryers run for 40 minutes each, how much does she spend altogether?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

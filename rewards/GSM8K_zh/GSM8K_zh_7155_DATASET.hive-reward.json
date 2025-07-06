@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊莎贝拉和亚历克西斯去商场买裤子和连衣裙。亚历克西斯买的裤子和连衣裙比伊莎贝拉多3倍。如果亚历克西斯买了21条裤子和18件连衣裙，那么伊莎贝拉总共买了多少条裤子和连衣裙？。",
+  "topic": "回答下面的数学问题：Isabella and Alexis went to the mall to buy some pants and dresses. Alexis bought 3 times more pants and dresses than Isabella. If Alexis bought 21 pairs of pants and 18 dresses, how many pairs of pants and dresses did Isabella buy in total?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

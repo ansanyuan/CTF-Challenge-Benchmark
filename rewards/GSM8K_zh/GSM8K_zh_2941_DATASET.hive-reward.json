@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Chrystal的车速为每小时30英里。上山时车速减少了百分之五十，下山时车速增加了百分之二十。如果上山的距离为60英里，下山到山脚的距离为72英里，Chrystal需要花多少小时穿过整座山？。",
+  "topic": "回答下面的数学问题：Chrystal’s vehicle speed is 30 miles per hour. Ascending the mountain decreases its speed by fifty percent, and descending the mountain increases its speed by twenty percent. If the distance going to the top of the mountain is 60 miles and the distance going down to the foot of the mountain is 72 miles, how many hours will Crystal have to pass the whole mountain?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

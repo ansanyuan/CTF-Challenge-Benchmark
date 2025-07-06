@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：索菲亚去百货商店买了一双鞋和2件衬衫。一件衬衫的价格是7美元，而一双鞋比衬衫贵3美元。如果她决定再买一个包，包的价格是两件衬衫和一双鞋的总价的一半，她将为所有这些物品支付多少钱？。",
+  "topic": "回答下面的数学问题：Sofia went to the department store to buy a pair of shoes and 2 shirts. A shirt costs $7 while a pair of shoes is $3 more than the shirt. If she decides to buy a bag which costs half the total price of the 2 shirts and a pair of shoes, how much will she pay for all those items?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

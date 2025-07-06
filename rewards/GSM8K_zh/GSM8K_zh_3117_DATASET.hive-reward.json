@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一架飞机从加利福尼亚飞往弗吉尼亚。飞行开始时有124名乘客。他们在德克萨斯州中转。58名乘客下机，24名上机。然后他们飞往北卡罗来纳，在那里有47人下机，14人上机，然后飞往弗吉尼亚。整个飞行中还有10名机组人员。弗吉尼亚州降落了多少人？。",
+  "topic": "回答下面的数学问题：An airplane was flying from California to Virginia.  The flight started with 124 passengers.  They made a layover in Texas.  58 passengers got off and 24 got on.  From there, they flew to North Carolina, where 47 people got off and 14 got on, before flying to Virginia.  There were also a total of 10 crew members on board for the entire flight.  How many people landed in Virginia?",
   "checkpoint": [
     {
-      "$\\boxed{67}$": 1
+      "\\boxed{67}": 1
     }
   ],
   "matchingmethod": [

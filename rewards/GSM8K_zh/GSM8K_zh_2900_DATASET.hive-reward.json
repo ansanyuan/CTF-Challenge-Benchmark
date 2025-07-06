@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mark去了一家商店，在那里他花掉了他的一半钱，然后又花了14美元。然后他去了另一家商店，在那里他花掉了他起初钱的三分之一，然后又花了16美元。如果他之后没有钱了，他进入第一家商店时有多少钱？。",
+  "topic": "回答下面的数学问题：Mark went to a store where he spent one-half of his money, and then spent $14 more. He then went to another store where he spent one-third of his starting money, and then spent $16 more. If he then had no money left, how much did he have when he entered the first store?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

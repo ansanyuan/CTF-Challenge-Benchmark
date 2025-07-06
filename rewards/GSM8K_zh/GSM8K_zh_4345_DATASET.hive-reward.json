@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾丽有9个玩具，总价值为52美元。如果我们知道一个玩具价值12美元，而其他所有玩具的价值相同，那么其他玩具中的一个价值是多少？。",
+  "topic": "回答下面的数学问题：Allie has 9 toys, which are in total worth $52. If we know that one toy is worth $12, and all the other toys have the same value, how much does one of the other toys cost?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

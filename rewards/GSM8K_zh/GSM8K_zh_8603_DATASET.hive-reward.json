@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿诺德、玛德琳、卡姆登和莎拉一共涂了56个复活节彩蛋。阿诺德和玛德琳涂的彩蛋数量相同。卡姆登和莎拉总共涂了30个彩蛋，但卡姆登比莎拉多涂了12个。卡姆登比阿诺德多涂了多少个彩蛋？。",
+  "topic": "回答下面的数学问题：Arnold, Madeline, Camden, and Sarah painted 56 easter eggs. Arnold and Madeline painted the same number of eggs. Camden and Sarah painted a total of 30 eggs, but Camden painted 12 more than Sarah. How many more eggs did Camden paint than Arnold?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

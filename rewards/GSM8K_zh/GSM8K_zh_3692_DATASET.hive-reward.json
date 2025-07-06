@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Nathan种植了5株草莓植物和7株番茄植物。他从每株植物收获了14个草莓和16个番茄。然后他把草莓和番茄分别装进7个一组的篮子里。他卖一筐草莓9美元，一筐番茄6美元。Nathan从他的收成中赚了多少钱？。",
+  "topic": "回答下面的数学问题：Nathan planted 5 strawberry plants and 7 tomato plants. He harvested 14 strawberries from each plant and 16 tomatoes from each plant. He then distributed the strawberries and tomatoes into baskets of 7. He sold a basket of strawberries for $9 and a basket of tomatoes for $6. How much money does Nathan make from his harvest?",
   "checkpoint": [
     {
-      "$\\boxed{186}$": 1
+      "\\boxed{186}": 1
     }
   ],
   "matchingmethod": [

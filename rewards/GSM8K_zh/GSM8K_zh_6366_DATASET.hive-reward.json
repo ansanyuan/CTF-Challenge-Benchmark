@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两列火车同时离开车站，但走了不同的轨道到达目的地。一列走了一条长200英里的轨道，速度为50英里/小时。另一列走了一条长240英里的轨道，速度为80英里/小时。它们平均花了多少时间？（四舍五入到最接近的整数。）。",
+  "topic": "回答下面的数学问题：Two trains left the station at the same time, but took different tracks to their destination. One took a track that was 200 miles long and it went 50 MPH. The other took the other track that was 240 miles long and it went 80 MPH. How much time did it take them on average? (Round to the nearest integer.)",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

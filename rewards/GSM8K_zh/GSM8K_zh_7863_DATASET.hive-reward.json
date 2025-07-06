@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：大卫和达莎去了嘉年华，那里有9个游乐设施。每个游乐设施需要2张游乐票，每张票2美元。你也可以买一条30美元的游乐手环，可以玩9次。如果大卫买了游乐手环，达莎买了票，并且他们玩了所有9个游乐设施，大卫节省了多少钱？。",
+  "topic": "回答下面的数学问题：David and Dasha went to the carnival, where there are 9 rides.  Each ride costs 2 ride tickets at $2 per ticket.  You can also buy a ride bracelet for $30 which gives you 9 rides.  If David buys a ride bracelet and Dasha buys tickets, and they ride all 9 rides, how much money does David save?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

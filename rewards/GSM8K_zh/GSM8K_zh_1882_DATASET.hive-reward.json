@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只鸟一天吃7颗浆果。塞缪尔有5只鸟。塞缪尔的鸟在4天内会吃多少颗浆果？。",
+  "topic": "回答下面的数学问题：A bird eats 7 berries a day. Samuel has 5 birds. How many berries do Samuel's birds eat in 4 days?",
   "checkpoint": [
     {
-      "$\\boxed{140}$": 1
+      "\\boxed{140}": 1
     }
   ],
   "matchingmethod": [

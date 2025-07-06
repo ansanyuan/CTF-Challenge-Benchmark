@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰决定买一些鸟。他从他的4个祖父母那里每人得到了50美元。如果每只鸟的价格是20美元，那么所有的鸟一共有多少只翅膀？。",
+  "topic": "回答下面的数学问题：John decides to buy some birds.  He got 50 dollars from each of his 4 grandparents.  If each bird costs $20, how many wings did all the birds have?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

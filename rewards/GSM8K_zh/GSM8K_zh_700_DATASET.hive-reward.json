@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marla正在为一所小学计划午餐菜单。有5个三年级班，每个班有30名学生，4个四年级班，每个班有28名学生，以及4个五年级班，每个班有27名学生。每个学生都会得到一个汉堡包，价格为2.10美元，一些胡萝卜，价格为0.50美元，和一个饼干，价格为0.20美元。所有学生的午餐总共花费多少钱？。",
+  "topic": "回答下面的数学问题：Marla is planning the lunch menu for an elementary school. There are 5 third grade classes with 30 students each, 4 fourth grade classes with 28 students each, and 4 fifth grade classes with 27 students each. Each student gets a hamburger, which costs $2.10, some carrots, which cost $0.50, and a cookie, which cost $0.20. How much does one lunch for all the students cost?",
   "checkpoint": [
     {
-      "$\\boxed{1036}$": 1
+      "\\boxed{1036}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莱拉从市场上买了3根黄瓜。每根黄瓜2美元。杰克从杂货店买了5个西红柿。每个西红柿1美元。蔡斯从农贸市场买了1颗生菜。每颗生菜3美元。他们三个人一起为聚餐准备沙拉共花了多少钱？。",
+  "topic": "回答下面的数学问题：Leila buys 3 cucumbers from the market. Cucumbers are $2 each. Jack buys 5 tomatoes from the grocery store.  Tomatoes are $1 each. Chase buys 1 head of lettuce from the farmer’s market.  Lettuce cost $3 each. Together, how much did the three of them spend to make a salad for the potluck?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

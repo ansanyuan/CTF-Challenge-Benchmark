@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：城市公园里的一个长方形花坛宽4米。它的长度比宽度少1米。政府想要给花坛围上篱笆。需要多少米的篱笆？。",
+  "topic": "回答下面的数学问题：A rectangular flowerbed in the city park is 4 meters wide. Its length is 1 meter less than twice its width. The government wants to fence the flowerbed. How many meters of fence are needed?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

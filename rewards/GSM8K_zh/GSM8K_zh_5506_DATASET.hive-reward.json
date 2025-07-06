@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：树上有14只毛毛虫。又孵化了4个卵，小毛毛虫爬出来啃食树叶。8只胖毛毛虫离开树去结茧成为蝴蝶。树上还剩下多少只毛毛虫？。",
+  "topic": "回答下面的数学问题：There are 14 caterpillars on the tree. 4 more eggs hatch, and baby caterpillars climb out to munch on the leaves.  8 fat caterpillars leave the tree to cocoon themselves to be butterflies.  How many caterpillars are left on the tree?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

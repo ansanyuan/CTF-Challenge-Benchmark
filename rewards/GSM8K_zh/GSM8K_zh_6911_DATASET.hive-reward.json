@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰在工厂组装小部件。他每小时可以制作20个小部件，每天工作8小时，一周工作5天。他一周可以制作多少个小部件？。",
+  "topic": "回答下面的数学问题：John assembles widgets at a factory.  He can make 20 widgets an hour and works for 8 hours a day 5 days a week.  How many widgets does he make a week?",
   "checkpoint": [
     {
-      "$\\boxed{800}$": 1
+      "\\boxed{800}": 1
     }
   ],
   "matchingmethod": [

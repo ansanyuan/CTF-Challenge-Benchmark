@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亨利需要组装一些玩具，具体来说是57辆汽车和73辆摩托车。亨利知道要组装所有的玩具，他每辆汽车需要4个轮子，每辆摩托车需要2个轮子。如果他有一个装有650个轮子的盒子，那么最后会剩下多少个轮子？。",
+  "topic": "回答下面的数学问题：Henry needs to assemble some toys, specifically 57 cars and 73 motorcycles. Henry knows that to assemble all the toys he will need 4 wheels for each car and 2 wheels for each motorcycle. How many wheels will be left if he has a box with 650 wheels in it?",
   "checkpoint": [
     {
-      "$\\boxed{276}$": 1
+      "\\boxed{276}": 1
     }
   ],
   "matchingmethod": [

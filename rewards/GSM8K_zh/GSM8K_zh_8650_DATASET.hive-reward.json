@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位老师使用一块5英寸长的粉笔在黑板上为学生写数学方程。这位老师喜欢节约粉笔，所以他尝试每天只使用20%的粉笔。由于老师不能用非常小的粉笔写字，当粉笔小于2英寸时，他就会回收粉笔。周一老师使用了一块新的粉笔。他的学生那天需要额外的帮助，所以他最终写得比平常多。到当天结束时，他已经用掉了45%的粉笔。如果老师回到每天只使用20%的粉笔，他还有多少天才需要回收这块粉笔？。",
+  "topic": "回答下面的数学问题：A teacher uses a 5-inch piece of chalk to write math equations on a chalkboard for his students. The teacher likes to conserve chalk, so he tries to only use 20% of the chalk each day. Since the teacher cannot write with a very small piece of chalk, he recycles the chalk when it is smaller than 2 inches. On Monday the teacher used a new piece of chalk. His students need extra help that day, so he ended up writing more than usual. He used up 45% of the chalk by the end of the day. If the teacher goes back to using only 20% of the chalk each day, how many days does he have before he has to recycle this piece?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

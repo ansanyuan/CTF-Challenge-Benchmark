@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：本的曲棍球队有60%的男孩，其余的是女孩。女孩中有一半是初级队员，另一半是高级队员。如果球队有50名球员，那么有多少名初级女队员？。",
+  "topic": "回答下面的数学问题：Ben's hockey team is 60% boys and the rest are girls. Half the girls are juniors and the other half are seniors. If the team has 50 players, how many junior girls are there?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

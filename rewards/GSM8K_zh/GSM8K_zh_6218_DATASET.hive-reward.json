@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：利维有5个柠檬。杰登比利维多6个柠檬。杰登拥有伊莱拥有柠檬数量的三分之一，而伊莱拥有伊恩拥有柠檬数量的一半。他们总共有多少柠檬？。",
+  "topic": "回答下面的数学问题：Levi has 5 lemons. Jayden has 6 more lemons than Levi. Jayden has one-third as many lemons as Eli has while Eli has one-half as many lemons as Ian has. How many lemons do they have in all?",
   "checkpoint": [
     {
-      "$\\boxed{115}$": 1
+      "\\boxed{115}": 1
     }
   ],
   "matchingmethod": [

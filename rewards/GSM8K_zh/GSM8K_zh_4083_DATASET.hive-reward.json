@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆和他的朋友们在装水球。汤姆装的水球数量是卢克的3倍。卢克装的水球数量是安东尼的四分之一。如果安东尼装了44个水球，那么汤姆装了多少个？。",
+  "topic": "回答下面的数学问题：Tom and his friends were filling up water balloons. Tom filled up 3 times as many water balloons as Luke. Luke filled up one fourth as many balloons as Anthony. If Anthony filled up 44 water balloons, how many did Tom fill up?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

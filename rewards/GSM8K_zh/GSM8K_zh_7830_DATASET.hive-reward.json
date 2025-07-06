@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Dean的母亲给了他28美元去玩具店。Dean买了6辆玩具车和5只泰迪熊。每辆玩具车花费2美元，每只泰迪熊花费1美元。之后他的母亲觉得慷慨，决定再给他10美元。Dean还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Dean's mother gave him $28 to go to the toy store. Dean bought 6 toy cars and 5 teddy bears. Each toy car cost $2 and each teddy bear cost $1. His mother then feels generous and decides to give him an extra $10. How much money does Dean have left?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个智能手机销售商为一次购买至少2部智能手机的顾客提供5%的折扣。梅琳达、佐伊和乔尔想每人购买一部iPhone X。如果一部iPhone X的价格是600美元，他们一起从这个销售商购买三部iPhone X相比分别购买能省下多少钱？。",
+  "topic": "回答下面的数学问题：A smartphone seller is offering a discount of 5% off for customers who buy at least 2 smartphones at once. Melinda, Zoe and Joel want to buy an iPhone X each. If an iPhone X costs $600, how much can they save by pooling their money together and buying three iPhones at once from this seller rather than buying individually?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

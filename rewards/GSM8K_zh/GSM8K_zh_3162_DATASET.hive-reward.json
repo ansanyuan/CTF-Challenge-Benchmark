@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Trevor的工作是每天早上从家里的4只鸡那里收集新鲜的鸡蛋。他从格特鲁德那里得到了4个鸡蛋，从布兰奇那里得到了3个鸡蛋。南希和玛莎各下了2个鸡蛋。在路上，他掉了2个鸡蛋。Trevor剩下多少个鸡蛋？。",
+  "topic": "回答下面的数学问题：It was Trevor's job to collect fresh eggs from the family's 4 chickens every morning.   He got 4 eggs from Gertrude and 3 eggs from Blanche.  Nancy laid 2 eggs as did Martha.  On the way, he dropped 2 eggs.  How many eggs did Trevor have left?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

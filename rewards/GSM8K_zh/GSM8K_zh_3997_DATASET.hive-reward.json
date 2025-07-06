@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果巴兹在餐馆买了一份有78片的比萨，然后决定按照5:8的比例与侍者分享，其中巴兹的比例是5，那么侍者吃的比萨片数比20少多少？。",
+  "topic": "回答下面的数学问题：If Buzz bought a pizza with 78 slices at a restaurant and then decided to share it with the waiter in the ratio of 5:8, with Buzz's ratio being 5, what's twenty less the number of slices of pizza that the waiter ate?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

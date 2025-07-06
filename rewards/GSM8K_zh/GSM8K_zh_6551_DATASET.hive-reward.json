@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个拥有600辆汽车的汽车经销商中，60%的汽车是混合动力汽车，40%的混合动力汽车只有一个前灯。有多少辆混合动力汽车有全套前灯？。",
+  "topic": "回答下面的数学问题：In a car dealership with 600 cars, 60% of the cars are hybrids, and 40% of the hybrids contain only one headlight. How many of the hybrids have full headlights?",
   "checkpoint": [
     {
-      "$\\boxed{216}$": 1
+      "\\boxed{216}": 1
     }
   ],
   "matchingmethod": [

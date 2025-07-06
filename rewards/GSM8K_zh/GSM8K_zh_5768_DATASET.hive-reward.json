@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰斐逊有56根香蕉，而他的朋友沃尔特有1/4倍更少的香蕉。如果他们决定合并他们的香蕉并平均分配给彼此，沃尔特会得到多少根香蕉？。",
+  "topic": "回答下面的数学问题：Jefferson has 56 bananas, while Walter, his friend, has 1/4 times fewer bananas. If they decide to combine their bananas and share them equally between themselves, how many bananas does Walter get?",
   "checkpoint": [
     {
-      "$\\boxed{49}$": 1
+      "\\boxed{49}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Shondra的植物比Toni少7株。Toni的植物比Frederick多60%。如果Frederick有10株植物，那么Shondra有多少株植物？。",
+  "topic": "回答下面的数学问题：Shondra has 7 fewer plants than Toni. Toni has 60% more plants than Frederick. If Frederick has 10 plants, how many plants does Shondra have?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

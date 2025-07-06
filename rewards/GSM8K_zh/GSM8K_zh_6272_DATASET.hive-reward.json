@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在纽约度假期间，格雷格外出吃了一顿花费100美元的午餐。如果纽约的销售税是4%，他留下了6%的小费，格雷格一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：While on vacation in New York, Greg went out for a lunch that cost $100. If sales tax in New York is 4% and he left a 6% tip, how much did Greg pay?",
   "checkpoint": [
     {
-      "$\\boxed{110}$": 1
+      "\\boxed{110}": 1
     }
   ],
   "matchingmethod": [

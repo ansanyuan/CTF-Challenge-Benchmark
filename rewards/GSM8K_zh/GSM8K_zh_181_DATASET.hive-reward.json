@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：德里克有960美元用于购买本学期的书籍。他花了一半的钱在教科书上，然后花了剩下的四分之一在学习用品上。德里克剩下多少钱？。",
+  "topic": "回答下面的数学问题：Derek has $960 to buy his books for the semester. He spends half of that on his textbooks, and he spends a quarter of what is left on his school supplies. What is the amount of money Derek has left?",
   "checkpoint": [
     {
-      "$\\boxed{360}$": 1
+      "\\boxed{360}": 1
     }
   ],
   "matchingmethod": [

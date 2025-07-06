@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一块蛋糕的价格是一杯奶茶价格的四分之三。如果奶茶的价格是2.40美元，那么2块蛋糕和1杯奶茶的总价格是多少？。",
+  "topic": "回答下面的数学问题：The cost of a slice of cake is three-fourths of the cost of a cup of milk tea. If the milk tea costs $2.40, how much do 2 slices of cake and 1 cup of milk tea cost?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

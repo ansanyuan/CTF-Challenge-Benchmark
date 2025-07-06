@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莱蒂西亚、斯嘉丽和珀西决定在希腊餐厅吃午餐。他们的菜分别花费了10美元、13美元和17美元。如果三人给侍者10%的小费，侍者应该收到多少美元的小费？。",
+  "topic": "回答下面的数学问题：Leticia, Scarlett, and Percy decide to eat at a Greek restaurant for lunch. The prices for their dishes cost $10, $13, and $17, respectively. If the trio gives the waiter a 10% tip, how much gratuity should the waiter receive in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

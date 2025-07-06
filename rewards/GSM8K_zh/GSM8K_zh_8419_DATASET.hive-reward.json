@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯喜欢游泳，他要游过一片20英里的湖泊。他的游泳速度是每小时2英里。他游了60%的距离。之后，他在一个岛上停下来休息，休息时间是游泳时间的一半。然后他以一半的速度完成剩余的距离。他穿越湖泊总共用了多长时间？。",
+  "topic": "回答下面的数学问题：James loves to go swimming and has to swim across a 20-mile lake.  He can swim at a pace of 2 miles per hour.  He swims 60% of the distance.  After that, he stops on an island and rests for half as long as the swimming time.  He then finishes the remaining distance while going half the speed.  How long did it take him to get across the lake?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

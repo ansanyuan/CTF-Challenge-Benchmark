@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：自行车店正在进行促销。每当顾客购买一辆自行车，他们将免费获得2个自行车夹。如果店铺在早上卖出19辆自行车，下午卖出27辆自行车，店铺已经给顾客多少个自行车夹？。",
+  "topic": "回答下面的数学问题：A bicycle store is running a promotion. Every time a customer buys a bicycle, they will receive 2 bike clamps free with it. If the store sells 19 bikes in the morning and 27 bikes in the afternoon, how many bike clamps has the store given to customers?",
   "checkpoint": [
     {
-      "$\\boxed{92}$": 1
+      "\\boxed{92}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kirill比他的兄弟矮14厘米。他们两个的身高加起来等于112厘米。Kirill的身高是多少厘米？。",
+  "topic": "回答下面的数学问题：Kirill is 14 less centimeters in height than his brother. Together their heights equal 112 centimeters. How tall is Kirill in centimeters?",
   "checkpoint": [
     {
-      "$\\boxed{49}$": 1
+      "\\boxed{49}": 1
     }
   ],
   "matchingmethod": [

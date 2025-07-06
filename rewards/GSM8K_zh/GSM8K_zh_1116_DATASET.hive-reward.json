@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：8个巨大扇贝重一磅，每磅24.00美元。Nate将2个扇贝搭配玉米浓汤作为清淡的夏季晚餐。他要为8个人做饭。扇贝将花费多少钱？。",
+  "topic": "回答下面的数学问题：8 jumbo scallops weigh one pound and cost $24.00 a pound.  Nate is pairing 2 scallops with a corn bisque as a light summer dinner.  He’s cooking for 8 people.  How much will the scallops cost?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

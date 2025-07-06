@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个袋子里有8颗黑色的豆子和比绿色豆子多2颗。它还比绿色豆子少1颗橙色豆子。袋子里有多少颗果冻豆？。",
+  "topic": "回答下面的数学问题：A bag of jellybeans contains 8 black beans and 2 more green beans. It also contains 1 less orange bean than green beans. How many jellybeans are there in the bag?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

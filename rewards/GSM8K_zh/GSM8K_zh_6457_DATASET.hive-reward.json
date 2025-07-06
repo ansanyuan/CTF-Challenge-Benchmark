@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：麦克弗森夫妇需要在年底续租。他们同意夫人麦克弗森筹集房租的30%。如果他们的房租每年是1200美元，麦克弗森先生需要筹集多少钱来支付完房租？。",
+  "topic": "回答下面的数学问题：Mr. and Mrs. McPherson have to renew their rent by the end of the year. They agreed that Mrs. McPherson would raise 30% of the money. If their rent is $1200 per year, how much does Mr. McPherson need to raise to complete the rent?",
   "checkpoint": [
     {
-      "$\\boxed{840}$": 1
+      "\\boxed{840}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Françoise卖铃兰花盆来资助人道主义工作。她以每盆12欧元的价格购买，以比购买价格高25%的价格出售。通过出售150盆铃兰花盆，她将向协会捐赠多少钱？。",
+  "topic": "回答下面的数学问题：Françoise sells pots of lily of the valley to fund humanitarian work. She buys them at €12 each and sells them at a 25% higher cost. How much will she give back to the association by selling 150 pots of lily of the valley?",
   "checkpoint": [
     {
-      "$\\boxed{450}$": 1
+      "\\boxed{450}": 1
     }
   ],
   "matchingmethod": [

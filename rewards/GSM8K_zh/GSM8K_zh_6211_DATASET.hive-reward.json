@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Doc's Pizza有6片披萨。十名四年级学生每人从Doc's Pizza购买了20个披萨并放在他们的盒子里。孩子们总共携带了多少片披萨？。",
+  "topic": "回答下面的数学问题：Doc's Pizza contains 6 pieces of pizza. Ten fourth-graders each bought 20 pizzas from Doc's Pizza and put them in their box. How many pieces of pizza are the children carrying in total?",
   "checkpoint": [
     {
-      "$\\boxed{1200}$": 1
+      "\\boxed{1200}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一列火车在3个不同的城市之间运行。它从第一个城市到第二个城市行驶75英里，从第二个城市到第三个城市行驶100英里，然后从第三个城市返回第一个城市的距离比前两段的总和少50英里。它每天做这趟旅行3次。这列火车每行驶18,000英里就需要维修，那么它多少天需要进行一次维修？。",
+  "topic": "回答下面的数学问题：A train travels between 3 different cities.  It goes 75 miles from the first city to the second city, 100 miles from the second city to the third city, and 50 miles less than that combined distance to go from the third city to the first city.  It does this trip 3 times a day.  The train needs service every 18,000 miles so how many days does it go between services?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周一，一家餐馆卖出了四十份晚餐。周二，它比周一多卖了四十份晚餐。周三，它卖出了周二的一半晚餐。周四他们改变了食谱，然后比周三多卖了三份晚餐。这四天一共卖出了多少份晚餐？。",
+  "topic": "回答下面的数学问题：On Monday, a restaurant sells forty dinners. On Tuesday, it sells 40 more dinners than it did Monday. On Wednesday, it sells half the amount of dinners it sold on Tuesday. On Thursday they changed their recipe, and then sold 3 more dinners than they did on Wednesday. How many dinners were sold in those 4 days?",
   "checkpoint": [
     {
-      "$\\boxed{203}$": 1
+      "\\boxed{203}": 1
     }
   ],
   "matchingmethod": [

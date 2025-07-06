@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安雅洗头时会把32根头发冲掉，梳头时会梳掉一半的头发。安雅需要长回多少根头发，才能在洗头、梳头和生长后始终比最初多一根头发？。",
+  "topic": "回答下面的数学问题：Anya washes 32 hairs down the drain when she washes her hair and brushes out half that amount when she brushes it. How many hairs does Anya have to grow back to always have one more hair than she started with after washing, brushing, and growing it?",
   "checkpoint": [
     {
-      "$\\boxed{49}$": 1
+      "\\boxed{49}": 1
     }
   ],
   "matchingmethod": [

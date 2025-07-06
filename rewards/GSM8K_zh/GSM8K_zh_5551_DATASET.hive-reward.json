@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：菲利普开车上了一条路，经过了5个十字路口。每个十字路口都有4条人行横道，每条横道上有20条线。请计算这五个十字路口的人行横道上线的总数。。",
+  "topic": "回答下面的数学问题：While driving up a road, Philip passed through 5 intersections. 4 crosswalks marked each intersection with a total of 20 lines per crosswalk. Calculate the total number of lines of the crosswalks in the five intersections.",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

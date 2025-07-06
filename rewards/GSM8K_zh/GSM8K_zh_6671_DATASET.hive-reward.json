@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个罐子里有三个蓝色筹码，这些筹码占了整个筹码的10%。如果50%的筹码是白色，其余的是绿色，那么有多少个绿色筹码？。",
+  "topic": "回答下面的数学问题：Three blue chips are in a jar which is 10% of the entire chips. If 50% of the chips are white and the rest are green, how many green chips are there?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

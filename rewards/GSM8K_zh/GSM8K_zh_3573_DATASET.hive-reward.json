@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Eliza可以在15分钟内熨一件衬衫，20分钟内熨一条裙子。如果她花了2小时熨衬衫和3小时熨裙子，她熨了多少件衣服？。",
+  "topic": "回答下面的数学问题：Eliza can iron a blouse in 15 minutes and a dress in 20 minutes.  If she spends 2 hours ironing blouses and 3 hours ironing dresses, how many pieces of clothes did she iron?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

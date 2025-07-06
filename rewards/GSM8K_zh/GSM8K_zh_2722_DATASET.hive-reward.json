@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每次她去商店，费丽西蒂都会买一个棒棒糖。在她吃完棒棒糖后，她用棒棒糖棍搭建了一个堡垒。这个堡垒需要400根棒棒糖棍才能完成。她的家人每周去商店三次，而她总是去。如果这个堡垒已经完成了60%，费丽西蒂已经收集了多少周的棒棒糖棍？。",
+  "topic": "回答下面的数学问题：Every time she goes to the store, Felicity gets a lollipop. After she finishes them, she uses the sticks to build a fort. The fort needs 400 sticks to finish it. Her family goes to the store three times a week and she always goes. If the fort is 60% complete, how many weeks has Felicity been collecting lollipops for?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

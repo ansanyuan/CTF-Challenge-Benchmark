@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Dane的两个女儿需要种植5朵花来种出一座花园。随着时间的推移，这些花长成了20朵，但其中10朵死了。Dane的女儿们收获了这些花，并把它们分成了5个不同的篮子。最终每个篮子里有多少朵花？。",
+  "topic": "回答下面的数学问题：Dane’s two daughters need to plant 5 flowers each to grow a garden. As the days passed, the flowers grew into 20 more but 10 of them died. Dane’s daughters harvested the flowers and split them between 5 different baskets. How many flowers ended up in each basket?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

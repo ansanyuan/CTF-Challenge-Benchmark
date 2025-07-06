@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三所学校组织了一场科学展览比赛，并邀请所有学校的学生提出想法，并在由所有参与科学展览比赛的学校选出的评委会面前展示。知识渊博高中有50名学生参加了比赛，卡伦高中的学生人数是知识渊博高中的3/5，而第一所学校和第二所学校的学生人数总和的两倍来自新冠高中。请计算比赛中的学生总人数？。",
+  "topic": "回答下面的数学问题：Three schools organized a science fair competition and invited students from all the schools to develop ideas and present them before a panel of judges selected by all the schools competing in the science fair. There were 50 students from Know It All High School at the competition, 3/5 times as many students from Karen High as Know It All High School, and twice the combined number of students from the first two schools that came were from Novel Corona High School. Calculate the total number of students at the competition?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

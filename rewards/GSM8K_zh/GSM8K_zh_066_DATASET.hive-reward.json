@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：李割了一块草坪，收费33美元。上周他割了16块草坪，三个顾客每人给了他10美元的小费。上周李割草一共赚了多少美元？。",
+  "topic": "回答下面的数学问题：Lee mows one lawn and charges $33. Last week he mowed 16 lawns and three customers each gave him a $10 tip. How many dollars did Lee earn mowing lawns last week?",
   "checkpoint": [
     {
-      "$\\boxed{558}$": 1
+      "\\boxed{558}": 1
     }
   ],
   "matchingmethod": [

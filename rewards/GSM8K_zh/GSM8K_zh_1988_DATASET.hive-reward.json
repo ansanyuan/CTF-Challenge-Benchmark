@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：盒子里有120张卡片。如果卡片的2/5是红色，剩下的5/9是黑色，剩下的是绿色，计算盒子里绿色卡片的数量？。",
+  "topic": "回答下面的数学问题：There are 120 cards in a box. If 2/5 of the cards are red, exactly 5/9 of the remainder are black, and the rest are green, calculate the number of green cards in the box?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

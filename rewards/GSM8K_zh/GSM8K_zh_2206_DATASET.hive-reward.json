@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：弗兰克摘了36个苹果。苏珊摘了弗兰克的3倍苹果。如果苏珊分出了她的一半苹果，而弗兰克卖出了他的三分之一，他们现在一共剩下多少个苹果？。",
+  "topic": "回答下面的数学问题：Frank picked 36 apples. Susan picked 3 times as many apples as Frank. If Susan gave out half of her apples, and Frank sold a third of his, how many in total do they have left?",
   "checkpoint": [
     {
-      "$\\boxed{78}$": 1
+      "\\boxed{78}": 1
     }
   ],
   "matchingmethod": [

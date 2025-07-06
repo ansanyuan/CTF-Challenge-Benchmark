@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亨利正在为当地的烘焙比赛制作饼干。他想做的比去年多两倍。当他完成烘焙后，他意识到他实际上比他打算的多烤了15块饼干。当他把它们拿出来冷却时，他掉了5块饼干，现在总共有110块饼干。亨利去年烤了多少块饼干？。",
+  "topic": "回答下面的数学问题：Henry is making cookies for a local baking competition. He wants to make twice as many as he did last year. When he finishes baking, he realizes he actually baked 15 more cookies than he meant to. He drops 5 of his cookies as he is putting them out to cool, and now has a total of 110 cookies. How many cookies did Henry bake last year?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

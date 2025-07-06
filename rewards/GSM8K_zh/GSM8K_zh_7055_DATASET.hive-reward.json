@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每天面包店制作3批法棍。每批有48个法棍。第一批出来后，他卖出了37个。第二批出来后，他卖出了52个。第三批出来后，他卖出了49个。还剩下多少个法棍？。",
+  "topic": "回答下面的数学问题：The bakery makes 3 batches of baguettes a day.  Each batch has 48 baguettes.  After the first batch came out, he sold 37.  After the second batch, he sold 52.  After the third batch he sold 49.  How many baguettes are left?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

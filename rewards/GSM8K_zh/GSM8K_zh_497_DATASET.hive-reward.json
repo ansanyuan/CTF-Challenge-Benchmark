@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔家有很多火柴棍，决定用它们制作微型模型。当他准备开始制作时，他犹豫了一下，决定只用他的火柴棍堆的一半。他制作了30个火柴棍房子。如果他现在已经用完了他打算用的所有火柴棍，每个火柴棍房子使用10根火柴棍，迈克尔最初有多少根火柴棍？。",
+  "topic": "回答下面的数学问题：Michael has a lot of matchsticks at home and decides to use them to make miniature models. As he is about to start crafting, he has second thoughts and decides to only use half of his pile of matchsticks. He creates 30 matchsticks houses. If he has now used all of the matchsticks he intended to and each matchstick house uses 10 matchsticks, how many matchsticks did Michael have originally?",
   "checkpoint": [
     {
-      "$\\boxed{600}$": 1
+      "\\boxed{600}": 1
     }
   ],
   "matchingmethod": [

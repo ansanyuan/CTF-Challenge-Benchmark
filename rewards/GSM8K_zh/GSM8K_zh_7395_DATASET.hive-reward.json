@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：曼努埃尔先生是一个露营地的管理员，他被委托检查娱乐区设置的帐篷数量。在某一天，他在露营地的最北端数了100个帐篷，在场地的东侧数了这个数字的两倍。露营地中心的帐篷数量是露营地最北端帐篷数量的四倍。如果他还数了露营地南部的200个帐篷，那么娱乐区的帐篷总数是多少？。",
+  "topic": "回答下面的数学问题：Mr. Manuel is a campsite manager who's been tasked with checking the number of tents set up in the recreation area. On a particular day, he counted 100 tents in the northernmost part of the campsite and twice that number on the east side of the grounds. The number of tents at the center of the camp was four times the number of tents in the northernmost part of the campsite. If he also counted 200 tents in the southern part of the campsite, what is the total number of tents in the recreation area?",
   "checkpoint": [
     {
-      "$\\boxed{900}$": 1
+      "\\boxed{900}": 1
     }
   ],
   "matchingmethod": [

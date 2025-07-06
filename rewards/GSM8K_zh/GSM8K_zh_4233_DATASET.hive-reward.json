@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：碧昂丝在iTunes上发布了5首不同的单曲。然后她发布了2张每张有15首歌曲的专辑和1张有20首歌曲的专辑。碧昂丝总共发布了多少首歌曲？。",
+  "topic": "回答下面的数学问题：Beyonce releases 5 different singles on iTunes. Then she releases 2 albums that each has 15 songs and 1 album that has 20 songs. How many songs has Beyonce released in total?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

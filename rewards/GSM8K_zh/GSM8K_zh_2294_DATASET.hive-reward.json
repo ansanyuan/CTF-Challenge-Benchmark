@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个男孩在45分钟内跑了1.5公里。他的时速是多少千米？。",
+  "topic": "回答下面的数学问题：A boy runs 1.5 km in 45 minutes. What is his speed in kilometers per hour?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

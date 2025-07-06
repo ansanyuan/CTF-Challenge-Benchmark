@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：美国儿科学会建议儿童每天的屏幕时间不超过2小时。梅里尔夫人希望她的孩子每天使用2小时的屏幕时间。如果她的孩子今天早上已经使用了45分钟的屏幕时间，那么她今天晚上会允许他使用多少分钟的设备？。",
+  "topic": "回答下面的数学问题：The American Academy of Pediatrics recommended no more than 2 hours of screen time each day for children. Mrs. Merril wants to follow a 2-hour screen time for her child. How many minutes will she allow her child to use his gadget this evening if he already used his gadget for 45 minutes in the morning?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

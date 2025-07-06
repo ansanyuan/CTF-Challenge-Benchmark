@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安娜贝尔正在为一部售价400美元的手机存钱。她的储蓄里已经有80美元。她的第一份工作，每小时赚10美元，为她支付了20小时的工作。她的第二份工作支付了15小时的工作，每小时赚5美元。用美元计算，安娜贝尔还需要存多少钱？。",
+  "topic": "回答下面的数学问题：Annabelle is saving for a phone that costs $400. She already has $80 in her savings. Her first job, where she earns $10 per hour, pays her for 20 hours of work. She is also paid for 15 hours of work at her second job, where she earns $5 an hour. In dollars, how much money does Annabelle still need to save?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

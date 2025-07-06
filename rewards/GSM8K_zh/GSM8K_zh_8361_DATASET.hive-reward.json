@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jerry数到灌木丛中有六只筑巢的鸟，飞过头顶的鸟是那个数量的2/3，还有三组每组八只正在觅食的鸟。他总共数到了多少只鸟？。",
+  "topic": "回答下面的数学问题：Jerry counts six birds nesting in the bushes, 2/3rd of that number of birds flying overhead, and 3 groups of eight birds each feeding. How many birds does he count in total?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

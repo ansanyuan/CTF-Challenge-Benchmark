@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Martin一家去商场买冰淇淋。一个儿童份的冰淇淋是3美元。一个普通份的冰淇淋是4美元。一个双份的冰淇淋是6美元。Martin夫妇每人都买了一个普通份的冰淇淋。他们的两个孩子每人都买了一个儿童份的冰淇淋。他们的三个青少年孩子每人都买了一个双份的冰淇淋。Mrs. Martin一共支付给收银员多少钱？。",
+  "topic": "回答下面的数学问题：The Martin family goes to the mall to get ice cream.  A kiddie scoop is $3.  A regular scoop is $4.  A double scoop is $6.   Mr. and Mrs. Martin each get the regular scoop.  Their two children each get the kiddie scoop.  Their three teenage children each get double scoops.  How much money does Mrs. Martin pay the cashier?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

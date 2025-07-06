@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Will的妈妈给了他74美元去购物。他买了一件毛衣花了9美元，一件T恤花了11美元，一双鞋花了30美元。然后他退掉了鞋子，得到了90%的退款。Will还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Will's mom gave him $74 to go shopping. He bought a sweater for $9, a T-shirt for $11 and a pair of shoes for $30. He then returned his shoes for a 90% refund.  How much money does Will have left?",
   "checkpoint": [
     {
-      "$\\boxed{51}$": 1
+      "\\boxed{51}": 1
     }
   ],
   "matchingmethod": [

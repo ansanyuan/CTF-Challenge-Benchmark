@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Imma有3只猫。她每天喂她的猫两次，每次60克猫粮。720克猫粮可以持续多少天？。",
+  "topic": "回答下面的数学问题：Imma has 3 cats. She feeds her cats twice a day with 60 grams of cat food. How many days will 720 grams of cat food last?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

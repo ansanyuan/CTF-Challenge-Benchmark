@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：利维和他的兄弟在打篮球。利维得分8次，他的兄弟得分12次。利维决心至少比他的兄弟多进5个篮球。如果他的兄弟再得分3次，为了达到他的目标，利维还需要得多少次分？。",
+  "topic": "回答下面的数学问题：Levi and his brother were playing basketball. Levi had scored 8 times and his brother had scored 12 times. Levi was determined to beat his brother by at least 5 baskets. How many more times does Levi have to score in order to reach his goal if his brother scores another 3 times?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

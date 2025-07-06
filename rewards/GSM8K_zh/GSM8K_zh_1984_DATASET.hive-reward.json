@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Janet买了3磅西兰花，每磅4美元，3个橙子，每个0.75美元，一颗卷心菜，3.75美元，一磅培根，3美元，和两磅鸡肉，每磅3美元。她的杂货预算中，她花在肉类上的百分比是多少，四舍五入到最接近的整数百分比？。",
+  "topic": "回答下面的数学问题：Janet buys 3 pounds of broccoli for $4 a pound, 3 oranges for $0.75 each, a cabbage for $3.75, a pound of bacon for $3, and two pounds of chicken for $3 a pound. What percentage of her grocery budget did she spend on meat, rounded to the nearest percent?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

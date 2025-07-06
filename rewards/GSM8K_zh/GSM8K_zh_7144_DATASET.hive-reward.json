@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安格斯比艾尔莎少20美元的代币。如果艾尔莎有60个代币，每个代币价值4美元，那么安格斯有多少个代币？。",
+  "topic": "回答下面的数学问题：Angus has $20 worth of tokens less than Elsa has. If Elsa has 60 tokens and each token is worth $4, how many tokens does Angus have?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：妮琪去年跑了很多。在上半年，她每周总共跑了20英里。在下半年，她将里程增加到每周30英里。她一共跑了多少英里？。",
+  "topic": "回答下面的数学问题：Nicki spent the last year running a lot. For the first half of the year, she ran a total of 20 miles per week. For the second half of the year, she increased the mileage to 30 miles per week. How many miles total did she run for the year?",
   "checkpoint": [
     {
-      "$\\boxed{1300}$": 1
+      "\\boxed{1300}": 1
     }
   ],
   "matchingmethod": [

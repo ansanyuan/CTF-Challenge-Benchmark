@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丹尼斯住在查理的楼上两层。查理住在一个楼层，其编号是弗兰克楼层编号的四分之一。弗兰克住在第16层。丹尼斯住在第几层？。",
+  "topic": "回答下面的数学问题：Dennis lives two floors above Charlie. Charlie lives on a floor whose number is 1/4 Frank's floor number. Frank lives on the 16th floor. What floor does Dennis live on?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

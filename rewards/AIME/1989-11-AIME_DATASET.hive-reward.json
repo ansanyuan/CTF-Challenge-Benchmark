@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：A sample of 121 integers is given, each between 1 and 1000 inclusive, with repetitions allowed. The sample has a unique mode (most frequent value). Let $D^{}_{}$ be the difference between the mode and the arithmetic mean of the sample. What is the largest possible value of $\\lfloor D^{}_{}\\rfloor$ ? (For real $x^{}_{}$ , $\\lfloor x^{}_{}\\rfloor$ is the greatest integer less than or equal to $x^{}_{}$ .)",
   "checkpoint": [
     {
-      "$\\boxed{947}$": 1
+      "\\boxed{947}": 1
     }
   ],
   "matchingmethod": [

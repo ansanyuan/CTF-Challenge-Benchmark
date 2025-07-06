@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：洛佩兹夫人和她的家人要去电影院。成人票价为11美元。儿童票（3-12岁）为8美元。老年人票（60岁以上）为9美元。洛佩兹夫人需要为她丈夫、她自己、她的父母（72岁和75岁）以及她的三个孩子（7岁、10岁、14岁）购买电影票。她需要花多少钱购买每个人的票？。",
+  "topic": "回答下面的数学问题：Mrs. Lopez and her family are going to the movie theatre.  Adult tickets are $11.  Children’s tickets (ages 3-12) are $8.  Senior citizen’s tickets (ages 60+) are $9.  Mrs. Lopez needs to buy movie tickets for her husband, herself, her parents (ages 72 and 75), and her three children (ages 7, 10, 14).  How much money does she need to buy everyone’s tickets?",
   "checkpoint": [
     {
-      "$\\boxed{64}$": 1
+      "\\boxed{64}": 1
     }
   ],
   "matchingmethod": [

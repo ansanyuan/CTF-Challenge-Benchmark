@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lisa和Peter挨家挨户卖巧克力棒。Lisa卖了三箱半巧克力棒，Peter卖了四箱半。他们一共卖了64根巧克力棒。一箱里有多少根巧克力棒？。",
+  "topic": "回答下面的数学问题：Lisa and Peter are selling chocolate bars door to door. Lisa sold three and a half boxes of chocolate bars, and Peter sold four and a half boxes. They sold 64 chocolate bars together. How many chocolate bars are in a box?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

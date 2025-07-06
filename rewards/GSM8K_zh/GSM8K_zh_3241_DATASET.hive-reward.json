@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莉拉花了40美元，这是她钱的四分之一，然后在买首饰上花完剩下的钱后她还剩下20美元。莉拉在首饰上比在毛衣上多花了多少钱？。",
+  "topic": "回答下面的数学问题：Leila spent $40 which is 1/4 of her money on a sweater. She was then left with $20 after spending the rest of her money on buying pieces of jewelry. How much more did Leila spend on jewelry than on the sweater?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

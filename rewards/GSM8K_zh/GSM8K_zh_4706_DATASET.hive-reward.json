@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克逊有20公斤的肉。他用1/4的肉做了肉丸，用3公斤的肉做了春卷。还剩下多少公斤的肉？。",
+  "topic": "回答下面的数学问题：Jackson had 20 kilograms of meat. He used 1/4 of the meat to make meatballs and used 3 kilograms of meat to make spring rolls. How many kilograms of meat are left?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

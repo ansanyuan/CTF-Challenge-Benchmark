@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hilary正在从她农场长出的玉米棒上剥玉米。每株玉米棒上有四个玉米棒，她种植了108株。一半的玉米棒有500粒玉米粒，另一半多100粒。Hilary需要剥多少粒玉米粒？。",
+  "topic": "回答下面的数学问题：Hilary is shucking corn from ears that grew on her farm. She gets four ears of corn per stalk, and she has 108 stalks growing. Half the ears of corn have 500 kernels of corn and the other half have 100 more. How many kernels of corn does Hilary have to shuck?",
   "checkpoint": [
     {
-      "$\\boxed{237600}$": 1
+      "\\boxed{237600}": 1
     }
   ],
   "matchingmethod": [

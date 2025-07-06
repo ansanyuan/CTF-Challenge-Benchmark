@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Margaux拥有一家放贷公司。她的朋友每天支付她5美元，她的兄弟每天支付8美元，她的表弟每天支付4美元。7天后她将收集多少钱？。",
+  "topic": "回答下面的数学问题：Margaux owns a money lending company. Her friend pays her $5 per day, her brother $8 per day, and her cousin $4 per day. How much money will she collect after 7 days?",
   "checkpoint": [
     {
-      "$\\boxed{119}$": 1
+      "\\boxed{119}": 1
     }
   ],
   "matchingmethod": [

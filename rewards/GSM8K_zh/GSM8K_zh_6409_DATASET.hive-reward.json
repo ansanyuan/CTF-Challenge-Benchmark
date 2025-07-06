@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安妮正在为她的历史课建造一个景观模型。她用于建造的时间等于她用于规划的时间的三倍减去5分钟。如果她总共花了67分钟在景观模型上，她用了多少分钟来建造它？。",
+  "topic": "回答下面的数学问题：Annie is building a diorama for her history class. The amount of time she spent building it is equal to three times the amount of time she spent planning it minus 5 minutes. If she spent 67 minutes on the diorama total, how many minutes did she spend building it?",
   "checkpoint": [
     {
-      "$\\boxed{49}$": 1
+      "\\boxed{49}": 1
     }
   ],
   "matchingmethod": [

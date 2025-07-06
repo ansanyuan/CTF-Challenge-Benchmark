@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Finley夫人的班级有24名学生，而约翰逊先生的班级比Finley夫人班级的人数多10个。约翰逊先生的班级有多少学生？。",
+  "topic": "回答下面的数学问题：Mrs. Finley's class has 24 students, and Mr. Johnson's class has 10 more than half the number in Mrs. Finley's class. How many students are in Mr. Johnson's class?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

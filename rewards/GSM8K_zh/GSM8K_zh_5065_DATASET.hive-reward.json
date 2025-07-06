@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克逊正在在一个长宽分别为10英尺和25英尺的庭院铺瓷砖。他需要每平方英尺4块瓷砖。40%的瓷砖是绿色大理石，每块3美元，其余的是红色瓷砖，每块1.50美元。他一共支付了多少钱买瓷砖？。",
+  "topic": "回答下面的数学问题：Jackson is laying tile in a courtyard that measures 10 feet by 25 feet. He needs 4 tiles per square foot of space. 40% of the tiles are green marble that costs $3/tile, and the rest are red tile that costs $1.50/tile. How much does he pay total for tile?",
   "checkpoint": [
     {
-      "$\\boxed{2100}$": 1
+      "\\boxed{2100}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了迎接新学年，玛丽带着她的两个孩子去购物。她给儿子詹姆斯买了一件价值40美元的外套和两条牛仔裤。她给他的妹妹杰米买了一双价值30美元的鞋子。这些物品的总成本是110美元。如果詹姆斯的两条牛仔裤的价格相同，一条牛仔裤的价格是多少？。",
+  "topic": "回答下面的数学问题：To get ready for the new school year, Mary brought her two kids shopping. She bought her son James, a coat for $40 and two pairs of jeans. She bought his sister Jamie, a pair of shoes for $30. The total cost of the items was $110. If the two pairs of jeans for James cost the same price, how much did one pair of jeans cost?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

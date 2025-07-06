@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔丹有两个需要穿尿布的孩子。每个孩子每天需要换5次尿布。乔丹的妻子换了一半的尿布。乔丹每天要换多少尿布？。",
+  "topic": "回答下面的数学问题：Jordan has 2 children who wear diapers.  Each child requires 5 diaper changes per day.  Jordan's wife changes half of the diapers.  How many diapers does Jordan change per day?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

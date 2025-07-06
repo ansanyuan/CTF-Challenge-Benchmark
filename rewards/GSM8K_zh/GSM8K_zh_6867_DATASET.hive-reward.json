@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在鸭子公园，有25只绿头鸭和比鸭子少10只的雁的两倍。然后，一小群4只鸭子来到公园并加入了已经在那里的鸟。如果比15只雁少5只离开了公园，那么公园里剩下多少只比鸭子多的雁？。",
+  "topic": "回答下面的数学问题：At the duck park, there are 25 mallard ducks and ten less than twice as many geese as ducks.  Then, a small flock of 4 ducks arrived at the park and joined the birds already there.  If five less than 15 geese leave the park, how many more geese than ducks remain at the park?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

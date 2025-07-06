@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个长方形的长度为40米，宽为20米。一个相似的较小长方形的长度和宽都是大长方形的一半。较小长方形的面积是多少？。",
+  "topic": "回答下面的数学问题：A rectangle has a length of 40 meters and a width of 20 meters. A similar smaller rectangle has half the length and width of the big rectangle. What's the area of the smaller rectangle?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

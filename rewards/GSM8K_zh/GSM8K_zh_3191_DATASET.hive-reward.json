@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：尼尔每修剪一棵黄杨树收费5.00美元。他收费15.00美元将其修剪成花式形状。顾客想要整个30棵黄杨树修剪整齐。他还要求将其中4棵特定的黄杨树修剪成球形。尼尔将收费多少？。",
+  "topic": "回答下面的数学问题：Neil charges $5.00 to trim up each boxwood.  He charges $15.00 to trim it into a fancy shape.  The customer wants the entire 30 boxwood hedge trimmed up.  He has also asked for 4 specific boxwoods shaped into spheres.  How much will Neil charge?",
   "checkpoint": [
     {
-      "$\\boxed{210}$": 1
+      "\\boxed{210}": 1
     }
   ],
   "matchingmethod": [

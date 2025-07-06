@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安迪有一盘巧克力饼干。他吃了其中的3个，然后因为他的弟弟表现好，给了他5个。然后他把盘子递给了他的篮球队的八名成员。第一个到达的球员拿了1个，第二个拿了3个，第三个拿了5个，依此类推。当最后一个球员拿走他的份额时，盘子变空了。安迪一开始有多少块巧克力饼干？。",
+  "topic": "回答下面的数学问题：Andy had a platter of chocolate cookies. He ate 3 of them then gave his little brother 5 because he was behaving. He then handed the platter to his basketball team of eight members. The first player to arrive took 1, the second player to arrive took 3, the third player took 5, and so on. When the last player took his share, the platter was empty. How many chocolate cookies did Andy have from start with?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

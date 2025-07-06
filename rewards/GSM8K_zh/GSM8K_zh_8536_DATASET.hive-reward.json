@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汉娜在香蕉皮上滑倒折断了手臂。医生收取她200美元的石膏费用，每小时300美元的30分钟就诊费，每片4美元的30片止痛药，以及每小时6美元的强制性最低2小时停车费。医生的就诊总费用是多少？。",
+  "topic": "回答下面的数学问题：Hannah slips on a banana peel and breaks her arm. The doctor charges her $200 for the cast, $300/hour for a 30-minute visit, $4/pill for 30 painkillers, and $6/hour for a mandatory minimum of 2 hours of parking. How much does the doctor's visit cost total?",
   "checkpoint": [
     {
-      "$\\boxed{482}$": 1
+      "\\boxed{482}": 1
     }
   ],
   "matchingmethod": [

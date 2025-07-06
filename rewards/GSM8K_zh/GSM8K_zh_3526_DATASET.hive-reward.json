@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚当的纹身数量是杰森的两倍再加三。如果杰森的每只手臂上有两个纹身，每条腿上有三个纹身，那么亚当有多少个纹身？。",
+  "topic": "回答下面的数学问题：Adam has three more than twice as many tattoos as Jason has.  If Jason has two tattoos on each of his arms and three tattoos on each of his legs, how many tattoos does Adam have?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

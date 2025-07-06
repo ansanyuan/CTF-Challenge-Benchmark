@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：加里喜欢在当地公园的边缘散步，公园是一个长1.5英里、宽6英里的矩形。如果他以每小时3英里的速度行走，他花了多少小时散步？。",
+  "topic": "回答下面的数学问题：Gary likes to walk around the edge of the local park, which is a rectangle that measures 1.5 miles by 6 miles. If he walks at 3 miles/hour, how many hours does he spend walking?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：去年一辆自行车的售价为220美元，现在涨价了15%。新的价格是多少？。",
+  "topic": "回答下面的数学问题：The selling price of a bicycle that had sold for $220 last year was increased by 15%. What is the new price?",
   "checkpoint": [
     {
-      "$\\boxed{253}$": 1
+      "\\boxed{253}": 1
     }
   ],
   "matchingmethod": [

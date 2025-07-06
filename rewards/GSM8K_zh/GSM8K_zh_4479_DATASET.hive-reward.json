@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tamara，Nora和Lulu一直在存钱偿还40美元的债务。到目前为止，Nora已经存了Lulu的5倍，但是Tamara的存款是Lulu的3倍。Lulu已经存了6美元。如果他们偿还债务并平均分割剩下的钱，每个女孩将得到多少美元？。",
+  "topic": "回答下面的数学问题：Tamara, Nora, and Lulu have been saving to pay off a $40 debt. So far, Nora has saved five times what Lulu has, but three times Tamara’s savings.  Lulu has saved $6. If they pay off the debt and divide the remaining money equally, how many dollars will each girl get?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

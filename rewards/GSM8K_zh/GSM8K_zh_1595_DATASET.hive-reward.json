@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：要吃饱，米凯拉需要20个橙子。卡桑德拉需要的橙子数量是米凯拉的两倍。如果今天他们从农场摘了90个橙子，那么在他们吃饱后还剩下多少个橙子？。",
+  "topic": "回答下面的数学问题：To eat to when she gets full, Michaela needs 20 oranges. Cassandra needs twice as many oranges as Michaela to eat until she gets full. If they picked 90 oranges from the farm today, how many oranges would remain after they've both eaten until they were full?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

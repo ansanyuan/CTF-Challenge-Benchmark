@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两个朋友在玩拾棍子游戏。在玩的时候，他们注意到有9根红色的棍子，蓝色的棍子比红色的多5根。此外，黄色棍子的数量比蓝色棍子少3根。他们总共有多少根棍子？。",
+  "topic": "回答下面的数学问题：Two friends are playing pick-up sticks. While playing, they noticed that there are 9 red sticks, and 5 more blue sticks than red. Also, the number of yellow sticks is 3 less than the blue sticks. How many sticks do they have?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

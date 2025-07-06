@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每杯酸奶上面放8片香蕉。一个香蕉可以切成10片。如果Vivian需要制作5杯酸奶，她需要买多少根香蕉？。",
+  "topic": "回答下面的数学问题：Each yogurt is topped with 8 banana slices.  One banana will yield 10 slices.  If Vivian needs to make 5 yogurts, how many bananas does she need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

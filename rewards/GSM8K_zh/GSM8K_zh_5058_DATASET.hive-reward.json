@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：番茄植株上有21颗樱桃番茄。2只鸟吃掉了三分之一的番茄。番茄植株上还剩下多少颗番茄？。",
+  "topic": "回答下面的数学问题：There are 21 cherry tomatoes on the tomato plant.  2 birds eat one-third of the tomatoes.  How many are still left on the tomato plant?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

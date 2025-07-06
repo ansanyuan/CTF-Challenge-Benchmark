@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆在一年的头183天每天骑自行车30英里。在一年的其余日子里，他每天骑35英里。他一年骑了多少英里？。",
+  "topic": "回答下面的数学问题：Tom's puts 30 miles per day on his bike for the first 183 days of the year.  For the rest of the days of the year he goes 35 miles per day.  How many miles does he drive for the year?",
   "checkpoint": [
     {
-      "$\\boxed{11860}$": 1
+      "\\boxed{11860}": 1
     }
   ],
   "matchingmethod": [

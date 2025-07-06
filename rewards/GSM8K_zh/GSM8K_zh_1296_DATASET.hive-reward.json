@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莉莉亚有15个桃子。她向朋友卖了10个桃子，每个2美元，另外4个桃子卖给了她的亲戚，每个1.25美元，她留了一个给自己。卖掉14个桃子后她赚了多少钱？。",
+  "topic": "回答下面的数学问题：Lilia has 15 peaches. She sold 10 peaches to her friends for $2 each, while 4 other peaches were sold to her relatives for $1.25 each, and she left the other one for herself. How much did she earn after selling 14 peaches?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marissa在商店里买了一个20美元的球。如果她身上有80美元，并用剩下的钱给她弟弟Jimmy买了每个5美元的糖果条，Marissa给Jimmy买了多少条糖果？。",
+  "topic": "回答下面的数学问题：Marissa bought a ball at the store for $20. If she had $80 on her and used the rest of the money to buy her brother Jimmy, candy bars sold at $5 each, how many candy bars did Marissa buy for Jimmy?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

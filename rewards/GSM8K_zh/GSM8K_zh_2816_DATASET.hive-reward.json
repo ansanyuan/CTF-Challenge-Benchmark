@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：10年后，特里的年龄将是诺拉目前年龄的4倍。如果诺拉目前10岁，特里现在多大？。",
+  "topic": "回答下面的数学问题：In 10 years, Terry will be 4 times the age that Nora is currently. If Nora is currently 10 years old, how old is Terry now?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

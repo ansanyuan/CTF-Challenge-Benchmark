@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆每天租一架直升机2小时，租了3天。租金是每小时75美元。他一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：Tom rents a helicopter for 2 hours a day for 3 days.  It cost $75 an hour to rent.  How much did he pay?",
   "checkpoint": [
     {
-      "$\\boxed{450}$": 1
+      "\\boxed{450}": 1
     }
   ],
   "matchingmethod": [

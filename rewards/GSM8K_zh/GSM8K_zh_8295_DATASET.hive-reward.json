@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亨特在一天早晨上课时数了校园停车场里停了50辆车。第一个休息时间，他又数了20辆车在停车场。当他午休时出来，他意识到停车场里的车辆减少了一半。午休时他数了多少辆车？。",
+  "topic": "回答下面的数学问题：Hunter counted 50 cars packed in their school parking lot when entering class one morning. During the first break, he counted 20 more cars in the parking lot. When he got out of class for the lunch break, he realized that 1/2 the number of cars in the parking lot had gone. What's the total number of cars he counted during lunch break?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：花瓶里有4朵玫瑰。花瓶里的大丽花比玫瑰多7朵。花瓶里总共有多少朵花？。",
+  "topic": "回答下面的数学问题：There are 4 roses in the vase. There are 7 more dahlias than roses in the vase. How many flowers are there in the vase in total?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

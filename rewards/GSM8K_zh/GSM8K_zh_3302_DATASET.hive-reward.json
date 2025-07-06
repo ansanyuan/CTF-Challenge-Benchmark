@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奎因捉的青蛙数量是阿尔斯特的两倍，而阿尔斯特捉了2只青蛙。 布雷特捉的青蛙数量是奎因的三倍。 布雷特捉了多少只青蛙？。",
+  "topic": "回答下面的数学问题：Quinn catches twice the amount of frogs as Alster who caught 2.  Bret catches three times the amount of frogs as Quinn.  How many frogs did Bret catch?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

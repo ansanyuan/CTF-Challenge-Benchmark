@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Blake想在星期五为他的家人制作奶昔。他知道每份奶昔需要4盎司牛奶和12盎司冰淇淋。如果他有72盎司牛奶和192盎司冰淇淋，做完后会剩下多少牛奶？。",
+  "topic": "回答下面的数学问题：Blake wants to spend his Friday making milkshakes for his family. He knows that he needs 4 ounces of milk and 12 ounces of ice cream for each milkshake. If he has 72 ounces of milk and 192 ounces of ice cream, how much milk will be left over when he is done?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

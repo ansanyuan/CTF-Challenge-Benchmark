@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rodney, Roger和Ron一共可以举起239磅的重量。Rodney可以举起的重量是Roger的两倍，而Roger可以举起的重量比Ron的四倍少7磅。Rodney可以举起多少重量？。",
+  "topic": "回答下面的数学问题：Rodney, Roger and Ron can lift a combined weight of 239 pounds.  Rodney can lift twice as much as Roger, and Roger can lift 7 pounds less than 4 times the amount that Ron can lift.  How much can Rodney lift?",
   "checkpoint": [
     {
-      "$\\boxed{146}$": 1
+      "\\boxed{146}": 1
     }
   ],
   "matchingmethod": [

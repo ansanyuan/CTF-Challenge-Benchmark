@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特在工作中每小时赚20美元。她每周工作52小时。每周超过40小时的工作时间被视为加班，并按照正常工资的1.5倍支付。她想购买一辆价值4640美元的汽车。她需要工作多少周才能购买这辆汽车？。",
+  "topic": "回答下面的数学问题：Janet makes $20 per hour at work. She works 52 hours per week. Anything over 40 hours per week is considered overtime and is paid at 1.5 times the normal rate. She wants to purchase a $4640 car. How many weeks does she need to work to purchase the car?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：电价上涨了25%。约翰的旧电脑使用800瓦，他的新电脑使用的电量比旧电脑多50%。如果旧电价是每千瓦时12美分，那么他的电脑运行50小时的成本是多少美元？。",
+  "topic": "回答下面的数学问题：The price of electricity went up by 25%.  John's old computer used 800 watts and his new computer uses 50% more.  If the old price of electricity was 12 cents per kilowatt-hour, how much does his computer cost, in dollars, to run for 50 hours?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

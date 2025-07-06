@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：劳拉的家离她的学校来回20英里。超市离学校更远10英里。如果劳拉每天早上开车去学校，每周两次下午开车去超市。劳拉每周开车多少英里？。",
+  "topic": "回答下面的数学问题：Laura’s House is a 20-mile round trip from her school. The supermarket is 10 miles farther away from the school. If Laura drives to school every morning and two afternoons a week drives to the supermarket. How many miles does Laura driver per week?",
   "checkpoint": [
     {
-      "$\\boxed{220}$": 1
+      "\\boxed{220}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Justin买了一些球衣。他买了四件每件15美元的长袖球衣，以及一些每件10美元的条纹球衣。如果他总共花了80美元，Justin买了多少件条纹球衣？。",
+  "topic": "回答下面的数学问题：Justin bought some jerseys. He bought four long-sleeved ones that cost $15 each, and some striped ones that cost $10 each. How many striped jerseys did Justin buy if he spent a total of $80?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

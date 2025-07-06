@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：参加派对的女性有30人，男性有20人。几个小时后，总人数的2/5离开了。如果有9名男性离开了派对，比男性留在派对上的女性多了多少人？。",
+  "topic": "回答下面的数学问题：There were 30 women and 20 men who attended the party. After few hours, 2/5 of the total number of people left. If 9 men left the party, how many more women stayed at the party than men?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

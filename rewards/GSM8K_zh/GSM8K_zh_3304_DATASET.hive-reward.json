@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Anahi买了一本500页的书来做笔记。在第一周，她写了150页。在第二周，她写了剩下页面的30%。在继续写作时，她不小心把咖啡洒在书上，损坏了剩下页面的20%。现在她可以写作的剩余空白页面的总数是多少？。",
+  "topic": "回答下面的数学问题：Anahi bought a 500 pages book to write some notes on. In the first week, she wrote on 150 pages. In the second week, she wrote on 30% of the remaining pages. While continuing writing, she accidentally spilled coffee on the book and damaged 20 percent of the empty pages she was to write on. Calculate the total number of empty pages available for her to write on now.",
   "checkpoint": [
     {
-      "$\\boxed{196}$": 1
+      "\\boxed{196}": 1
     }
   ],
   "matchingmethod": [

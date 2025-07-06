@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Happy Street上的汽车交通很少。在工作日，大多数汽车在星期二经过 - 25辆。星期一比星期二少20%，星期三比星期一多2辆。星期四和星期五，每天大约有10辆车。周末，交通量下降到每天5辆车。从星期一到星期日，有多少辆车经过Happy Street？。",
+  "topic": "回答下面的数学问题：There is very little car traffic on Happy Street. During the week, most cars pass it on Tuesday - 25. On Monday, 20% less than on Tuesday, and on Wednesday, 2 more cars than on Monday. On Thursday and Friday, it is about 10 cars each day. On the weekend, traffic drops to 5 cars per day. How many cars travel down Happy Street from Monday through Sunday?",
   "checkpoint": [
     {
-      "$\\boxed{97}$": 1
+      "\\boxed{97}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Taylor必须以7:6的比例结合白色和黑色分数来制作黄色分数混合物。如果她得到了78个黄色分数，她使用的黑色和白色分数之间的数量差的2/3是多少？。",
+  "topic": "回答下面的数学问题：To make a yellow score mixture, Taylor has to combine white and black scores in the ratio of 7:6. If she got 78 yellow scores, what's 2/3 of the difference between the number of black and white scores she used?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

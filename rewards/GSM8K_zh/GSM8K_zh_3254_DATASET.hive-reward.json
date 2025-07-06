@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在猫科动物保护区，有12只狮子，14只老虎，以及一些美洲狮。如果美洲狮的数量是狮子和老虎数量的一半，那么猫科动物保护区的大型猫总数是多少？。",
+  "topic": "回答下面的数学问题：At the feline sanctuary, there were 12 lions, 14 tigers, and several cougars.  If there were half as many cougars as lions and tigers combined, then what was the total number of big cats at the feline sanctuary?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

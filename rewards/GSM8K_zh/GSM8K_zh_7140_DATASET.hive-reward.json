@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rick喜欢按流派将他的书籍收藏分成不同的组。他总共有400本书，然后开始反复将它们分成两个大小相等的类别，直到每个类别中都有24本书。他必须将这些组分成更小的组多少次才能完成这个目标？。",
+  "topic": "回答下面的数学问题：Rick likes to separate his collection of books into various groups by genre.  He has 400 books in total and proceeds to divide them into two separate equally-sized categories repeatedly until he has each book in a category with 24 other books.  How many times must he break these groups into smaller groups to accomplish this?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

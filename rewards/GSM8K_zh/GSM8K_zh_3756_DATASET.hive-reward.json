@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一组研究人员正在研究一群企鹅。他们的研究结果显示，他们观察到的这个群体在第一年里数量翻了一番，然后在接下来的一年里增加了三倍。然而，今年，恶劣的条件意味着这个群体只增加了129只企鹅。现在这个群体里有1077只企鹅。每只企鹅每天吃一个半鱼。这个群体在第一年的开始每天捕捉了多少条鱼来供养整个群体？。",
+  "topic": "回答下面的数学问题：A group of researchers are studying a colony of penguins. Their results show that the size doubled in the first year they watched the colony, then tripled in the next year. This year, however, harsh conditions meant the colony only gained 129 penguins. The colony has 1077 penguins in it now. Each penguin eats one and a half fish every day. How many fish did the whole colony catch per day to eat at the beginning of the first year?",
   "checkpoint": [
     {
-      "$\\boxed{237}$": 1
+      "\\boxed{237}": 1
     }
   ],
   "matchingmethod": [

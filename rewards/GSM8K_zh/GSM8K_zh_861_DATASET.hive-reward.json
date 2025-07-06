@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Earl有90美元；Fred有48美元；Greg有36美元。Earl欠Fred28美元。Fred欠Greg32美元。Greg欠Earl40美元。当所有债务还清时，Greg和Earl一共有多少美元？。",
+  "topic": "回答下面的数学问题：Earl has $90; Fred has $48; Greg has $36. Earl owes Fred $28. Fred owes Greg $32. Greg owes Earl $40. When all debts are paid, how much will Greg and Earl have together in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{130}$": 1
+      "\\boxed{130}": 1
     }
   ],
   "matchingmethod": [

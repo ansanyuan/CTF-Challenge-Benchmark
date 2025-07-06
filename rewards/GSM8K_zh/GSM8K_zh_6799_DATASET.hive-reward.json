@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：上周末莉娜玩了3.5小时的电子游戏。她的哥哥比她多玩了17分钟。莉娜和她哥哥上周末一共玩了多少分钟的电子游戏？。",
+  "topic": "回答下面的数学问题：Lena played video games for 3.5 hours last weekend. Her brother played 17 minutes more than she did. How many minutes together did Lena and her brother play video games last weekend?",
   "checkpoint": [
     {
-      "$\\boxed{437}$": 1
+      "\\boxed{437}": 1
     }
   ],
   "matchingmethod": [

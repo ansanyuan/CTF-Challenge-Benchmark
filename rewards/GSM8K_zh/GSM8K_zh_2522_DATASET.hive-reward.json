@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特比布伦达多9张卡片。玛拉比珍妮特多两倍的卡片。如果玛拉比150张少40张，他们总共有多少张卡片？。",
+  "topic": "回答下面的数学问题：Janet has 9 cards more than Brenda. Mara has twice as many cards as Janet. How many cards do they have in all if Mara has 40 cards less than 150?",
   "checkpoint": [
     {
-      "$\\boxed{211}$": 1
+      "\\boxed{211}": 1
     }
   ],
   "matchingmethod": [

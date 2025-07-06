@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mabel住在Lake High学校的正东方4500步。Helen住在学校的正西方，步数是Mabel步数的3/4。为了和Helen一起做作业，Mabel总共需要走多少步去拜访Helen？。",
+  "topic": "回答下面的数学问题：Mabel lives 4500 steps directly east of Lake High school. Helen lives 3/4 the number of steps that Mabel lives, directly west of the school. What's the total number of steps Mabel will walk to visit Helen so that they can do their assignments together?",
   "checkpoint": [
     {
-      "$\\boxed{7875}$": 1
+      "\\boxed{7875}": 1
     }
   ],
   "matchingmethod": [

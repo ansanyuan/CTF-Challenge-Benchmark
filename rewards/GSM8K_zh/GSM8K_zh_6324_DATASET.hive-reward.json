@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罐子里有90颗软糖。萨曼莎偷偷拿走了24颗软糖，没有被发现。谢尔比从罐子里吃了12颗软糖。她们的妈妈，香农，用萨曼莎和谢尔比拿走的一半重新装满了罐子。现在罐子里有多少颗软糖？。",
+  "topic": "回答下面的数学问题：There were 90 jellybeans in a jar. Samantha snuck 24 jellybeans out of the jar, without being seen. Shelby ate 12 jellybeans from the jar. Their mom, Shannon, refilled the jar with half as much as Samantha and Shelby took out. How many jellybeans are in the jar now?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

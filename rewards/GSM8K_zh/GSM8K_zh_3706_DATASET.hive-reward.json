@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：六年级体育课的一个活动是计算每组学生的平均体重。在其中一个小组中，五个女孩的平均体重是45公斤，而五个男孩的平均体重是55公斤。那个小组的十个学生的平均体重是多少？。",
+  "topic": "回答下面的数学问题：One of the activities in Grade 6 PE class is to get the average weight of the students from each group. In one of the groups, the average weight of five girls is 45 kg while the average weight of five boys is 55 kg. What is the average weight of the ten students from that group?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

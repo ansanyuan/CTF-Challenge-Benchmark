@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jack正在举办烘焙义卖会，以帮助支付篮球队的制服费用。他已经以每个3美元的价格卖出了4个布朗尼和每个2美元的价格卖出了5个柠檬方块。如果Jack的目标是赚50美元，并且他以每个4美元的价格卖饼干，他需要卖多少个饼干才能达到目标？。",
+  "topic": "回答下面的数学问题：Jack is running a bake sale to help pay for his basketball team's uniforms. He's already sold 4 brownies for $3 each and 5 lemon squares for $2 each. If Jack's goal is to make $50 and he sells cookies for $4 each, how many cookies does he need to sell to reach his goal?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

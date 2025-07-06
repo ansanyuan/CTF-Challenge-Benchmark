@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：秋季，有20000名高中学生申请哈佛大学。春季，这20000名学生中有5%被大学录取。被录取的学生中，有90%选择就读该大学，另外10%选择去其他学校。有多少学生选择就读哈佛大学？。",
+  "topic": "回答下面的数学问题：In the fall, 20,000 high school students apply to Harvard University for college. In the spring, 5% of those 20,000 students are accepted to the university. Of the students who are accepted, 90% choose to attend the university, and the other 10% choose to go to other schools. How many students choose to attend Harvard University?",
   "checkpoint": [
     {
-      "$\\boxed{900}$": 1
+      "\\boxed{900}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾沃丽和布莱恩正在做学校项目，截止日期很紧，他们不得不熬夜完成所有事情。他们准备咖啡来帮助他们保持专注。如果布莱恩喝的咖啡是艾沃丽的两倍，而布莱恩在一个小时内喝了4杯咖啡，计算他们在5个小时内一共喝了多少杯咖啡。。",
+  "topic": "回答下面的数学问题：Ivory and Brayan are doing school projects with a tight deadline and have to stay up late to complete everything. They prepare coffee to help them stay focused. If Brayan drinks twice as much coffee as Ivory, and Brayan drinks 4 cups of coffee in an hour, calculate the total number of cups of coffee they drink together in 5 hours.",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

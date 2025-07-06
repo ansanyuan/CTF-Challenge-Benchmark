@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：通过垂直折叠一张纸并展开，可以制作一份简单的折叠报纸或小报。然后，比如说，第1页印在左侧的背面，第2页印在左侧的正面，接着，可能第32页印在右侧的背面，第31页印在右侧的正面。一份32页的小报需要用多少张纸？。",
+  "topic": "回答下面的数学问题：A simple folding newspaper or tabloid can be made by folding a piece of paper vertically and unfolding. Then, say, page 1 is printed on the left back, page 2 is printed on the left front, and then, perhaps page 32 is printed on the right back, and page 31 is printed on the right front. How many pieces of paper would be used in a 32-page tabloid?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

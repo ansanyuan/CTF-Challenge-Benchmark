@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：柯蒂斯先生在他的农场上有325只鸡，其中28只是公鸡，其余的是母鸡。有20只母鸡不下蛋，而其余的母鸡下蛋。柯蒂斯先生的农场上有多少只下蛋的母鸡？。",
+  "topic": "回答下面的数学问题：Mr. Curtis has 325 chickens on his farm where 28 are roosters and the rest are hens. Twenty hens do not lay eggs while the rest of the hens do. How many egg-laying hens does Mr. Curtis have on his farm?",
   "checkpoint": [
     {
-      "$\\boxed{277}$": 1
+      "\\boxed{277}": 1
     }
   ],
   "matchingmethod": [

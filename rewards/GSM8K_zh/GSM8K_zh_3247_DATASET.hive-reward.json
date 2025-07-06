@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一根铁棒的尺寸为12厘米 x 8厘米 x 6厘米。一个工厂想要熔化十根铁棒并将它们铸造成铁球。每个铁球的体积为8立方厘米。一共铸造了多少个铁球？。",
+  "topic": "回答下面的数学问题：An iron bar measures 12 cm by 8 cm by  6 cm. A factory wants to melt ten iron bars and mold them into iron balls. Each iron ball has a volume of 8 cubic cm. How many iron balls have been molded?",
   "checkpoint": [
     {
-      "$\\boxed{720}$": 1
+      "\\boxed{720}": 1
     }
   ],
   "matchingmethod": [

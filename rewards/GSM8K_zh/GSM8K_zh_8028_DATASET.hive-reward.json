@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当水是冷的时候，Ray游一英里需要16分钟。当水温暖的时候，Ray游一英里需要的时间是冷水时的两倍多2分钟。在炎热的一天里，Ray游3英里比在冷天多花多少时间？。",
+  "topic": "回答下面的数学问题：When the water is cold Ray swims a mile in 16 minutes. When the water is warm Ray swims a mile in 2 minutes more than twice as long. How much longer does Ray take to swim 3 miles on a hot day than a cold day?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

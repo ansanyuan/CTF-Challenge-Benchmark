@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有两个苹果从树上掉下来，其中一个落在了牛顿的头上。牛顿捡起两个苹果，把一个放进口袋，然后把另一个苹果扔回树上，导致又有5个苹果从树上掉下来。牛顿捡起这些苹果，除了一个都放进了口袋，然后把剩下的那个扔向树，这导致又有6个苹果从树上掉下来。牛顿捡起所有剩下的苹果，回家做了一个苹果派。他带回家多少个苹果？。",
+  "topic": "回答下面的数学问题：Two apples fell out of the tree, and one of them landed on Newton's head.  Newton picked up the two apples, put one in his pocket and threw the other apple into the tree, causing 5 more apples to fall out of the tree.  Newton picked up these apples, put all but one in his pocket and threw the remaining one at the tree.  This caused another 6 apples to fall out of the tree.  Newton picked up all of the remaining apples and went home to make a pie.  How many apples did he bring home?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

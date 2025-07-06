@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：我们收获了405公斤的苹果。90公斤用来制作果汁，60公斤送给了一家餐厅。剩下的苹果以5公斤一袋的方式出售，销售额为408美元。一个苹果袋的售价是多少？。",
+  "topic": "回答下面的数学问题：We harvested 405 kg of apples. 90 kg were used to make fruit juice and 60 kg were given to a restaurant. The rest was sold in 5 kg bags and their sale brought in $408. What was the selling price of one bag of apples?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

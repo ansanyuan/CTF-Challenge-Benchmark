@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jake有3条蛇。它们每条产下2枚蛋。大多数小蛇的售价为250美元，但有一条超级稀有的小蛇的售价是其他小蛇的4倍。他卖掉这些蛇赚了多少钱？。",
+  "topic": "回答下面的数学问题：Jake has 3 snakes.  Each of them lays 2 eggs.  Most of the baby snakes sell for $250 but one super rare one costs 4 times as much.  How much did he get from selling the snakes?",
   "checkpoint": [
     {
-      "$\\boxed{2250}$": 1
+      "\\boxed{2250}": 1
     }
   ],
   "matchingmethod": [

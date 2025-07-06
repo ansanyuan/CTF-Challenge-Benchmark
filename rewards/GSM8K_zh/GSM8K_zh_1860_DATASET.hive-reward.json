@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果珍妮特每天读80页，贝琳达每天读30页，珍妮特在6周内比贝琳达多读了多少页？。",
+  "topic": "回答下面的数学问题：If Janet reads 80 pages a day and Belinda reads 30 pages a day, how many more pages does Janet read in 6 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{2100}$": 1
+      "\\boxed{2100}": 1
     }
   ],
   "matchingmethod": [

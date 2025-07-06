@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Elvis要发布一张包含10首歌曲的新专辑，但他不想在写作上浪费太多时间。他在录音棚花了5个小时，包括写作、录音和编辑他的歌曲。每首歌曲录制需要12分钟，然后编辑所有歌曲需要30分钟。如果每首歌曲的写作时间相同，Elvis写每首歌曲花了多少分钟？。",
+  "topic": "回答下面的数学问题：Elvis is releasing a new album with 10 songs, but he doesn't want to waste too much time on writing. He spends 5 hours in the studio, where he writes, records, and edits his songs. Each song takes 12 minutes to record, then it takes 30 minutes to edit all of his songs.   How many minutes did it take Elvis to write each song, if each song took the same amount of time to write?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

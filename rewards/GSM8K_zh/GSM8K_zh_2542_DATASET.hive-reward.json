@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：秃鹰可以以每小时100英里的速度俯冲，而游隼可以以比秃鹰快两倍的速度俯冲。从同一棵树梢开始，如果秃鹰需要30秒才能俯冲到地面，那么游隼俯冲到相同距离需要多长时间（以秒为单位）？。",
+  "topic": "回答下面的数学问题：The bald eagle can dive at a speed of 100 miles per hour, while the peregrine falcon can dive at a speed of twice that of the bald eagle.   Starting from the same treetop, if it takes the bald eagle 30 seconds to dive to the ground, how long,  in seconds, will it take the peregrine falcon to dive the same distance?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

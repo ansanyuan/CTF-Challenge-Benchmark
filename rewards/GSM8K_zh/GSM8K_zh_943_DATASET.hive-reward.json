@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：保罗在看电影的时候在跑步机上跑步。他可以在12分钟内跑完一英里。他看了两部电影，平均每部电影1.5小时。他跑了多少英里？。",
+  "topic": "回答下面的数学问题：While Paul watches movies, he runs on his treadmill. He can run a mile in 12 minutes. He watches two movies, which are an average length of 1.5 hours. How many miles does he run?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米莉正在为她的幼儿园班级制作小吃包。她打算把64根椒盐脆饼、四倍于椒盐脆饼数量的金鱼和32个棒棒糖分成16个小袋子给班上的孩子。每个小袋子有多少个零食？。",
+  "topic": "回答下面的数学问题：MIlle is making snack packs for her kindergarten class. She's going to divide 64 pretzels, four times as many goldfish, and 32 suckers into baggies for the 16 kids in the class. How many items does each baggie have?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

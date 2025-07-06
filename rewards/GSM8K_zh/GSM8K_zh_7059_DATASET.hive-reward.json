@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Nellie去参加了一个大家庭聚会。她和那里的所有其他孩子一起玩。她和她的6个姐妹和8个兄弟一起玩捉迷藏。然后，她和她的22个表兄弟姐妹一起玩游戏。她总共和多少个孩子一起玩了？。",
+  "topic": "回答下面的数学问题：Nellie went to a big family party. She played with all the other kids there. She played hide and seek with her 6 sisters and her 8 brothers. Then, she played tag with all 22 of her cousins. How many kids did she play with in all?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

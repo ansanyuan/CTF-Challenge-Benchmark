@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carrie的阿姨给了她十张二十美元的钞票和140个25美分的硬币用来买午餐。如果她花掉了所有的25美分硬币和3/5的二十美元钞票，计算她为午餐支付的总金额。。",
+  "topic": "回答下面的数学问题：Carrie was given ten twenties and 140 quarters by her aunt to use for lunch. If she spent all the quarters and 3/5 of the twenties, calculate the total amount of money she paid for the lunch.",
   "checkpoint": [
     {
-      "$\\boxed{155}$": 1
+      "\\boxed{155}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：倒入了20加仑的茶到80个容器中。杰拉尔多喝了3.5个容器。杰拉尔多喝了多少品脱的茶？。",
+  "topic": "回答下面的数学问题：Twenty gallons of tea were poured into 80 containers. Geraldo drank 3.5 containers. How many pints of tea did Geraldo drink?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

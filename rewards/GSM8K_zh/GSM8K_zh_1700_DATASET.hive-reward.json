@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个花园里有105朵不同颜色的花。红色的花是橙色的两倍。黄色的花比红色的少5朵。如果有10朵橙色的花，如果粉红色和紫色的花数量相同，并且没有其他颜色的花，那么有多少朵粉红色和紫色的花？。",
+  "topic": "回答下面的数学问题：A garden is filled with 105 flowers of various colors. There are twice as many red flowers as orange. There are five fewer yellow flowers than red. If there are 10 orange flowers, how many pink and purple flowers are there if they have the same amount and there are no other colors?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

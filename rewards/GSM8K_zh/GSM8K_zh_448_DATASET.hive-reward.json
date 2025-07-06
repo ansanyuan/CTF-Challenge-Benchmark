@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅根今年已经读了32本书。凯尔西读的书的数量是梅根读书数量的四分之一。格雷格读的书的数量是凯尔西读书数量的两倍加9。梅根、凯尔西和格雷格总共读了多少本书？。",
+  "topic": "回答下面的数学问题：Megan has read 32 books this year.  Kelcie has read 1/4 the amount of books that Megan has read.  Greg has read 9 more than twice the number of books that Kelcie has read.  How many books total have Megan, Kelcie, and Greg read?",
   "checkpoint": [
     {
-      "$\\boxed{65}$": 1
+      "\\boxed{65}": 1
     }
   ],
   "matchingmethod": [

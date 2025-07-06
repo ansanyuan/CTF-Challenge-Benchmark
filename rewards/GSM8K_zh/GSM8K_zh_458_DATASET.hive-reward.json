@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：菲奥娜在一个小时内完成了36道数学题。雪莉在同样的时间内完成了两倍于此的数学题，而基安娜完成了菲奥娜和雪莉数学题数量之和的一半。如果她们在接下来的一个小时内每个人完成相同数量的问题，那么三个女孩在2小时内共完成了多少道数学题？。",
+  "topic": "回答下面的数学问题：Fiona completed 36 math questions in an hour. Shirley was able to complete twice as many math questions within that same time, and Kiana completed half of the sum of Fiona and Shirley's math questions. If they each did the same number of questions the following hour, how many math questions did all three girls complete in 2 hours?",
   "checkpoint": [
     {
-      "$\\boxed{324}$": 1
+      "\\boxed{324}": 1
     }
   ],
   "matchingmethod": [

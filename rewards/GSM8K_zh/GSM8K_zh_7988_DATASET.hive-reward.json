@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一栋房子和一块地的成本是120,000美元。如果房子的成本是地块的三倍，那么房子的成本是多少？。",
+  "topic": "回答下面的数学问题：A house and a lot cost $120,000. If the house cost three times as much as the lot, how much did the house cost?",
   "checkpoint": [
     {
-      "$\\boxed{90000}$": 1
+      "\\boxed{90000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莎莉带了342支笔到她班上的44名学生。如果她给每个学生7支笔，把剩下的一半放在她的储物柜里，剩下的带回家了，她带回家了多少支笔？。",
+  "topic": "回答下面的数学问题：Sally took 342 pens to her class of 44 students. If she gave 7 pens to each student, left half of the remainder in her locker, and took the rest home, how many did she take home?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

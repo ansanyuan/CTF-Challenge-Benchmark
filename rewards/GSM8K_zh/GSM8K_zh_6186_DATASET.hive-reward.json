@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家工厂每小时生产90台冰箱。它每小时还比冰箱多生产70台冷却器。如果每天工作9小时，这家工厂在5天内生产了多少产品？。",
+  "topic": "回答下面的数学问题：A factory produces 90 refrigerators per hour. It also produces 70 more coolers than refrigerators per hour. How many products did the factory produce for 5 days if it works 9 hours a day?",
   "checkpoint": [
     {
-      "$\\boxed{11250}$": 1
+      "\\boxed{11250}": 1
     }
   ],
   "matchingmethod": [

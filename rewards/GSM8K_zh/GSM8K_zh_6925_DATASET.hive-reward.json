@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个歌唱比赛的参赛者中三分之一是女性，其余是男性。如果总共有18名参赛者，其中有多少名是男性？。",
+  "topic": "回答下面的数学问题：A third of the contestants at a singing competition are female, and the rest are male. If there are 18 contestants in total, how many of them are male?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

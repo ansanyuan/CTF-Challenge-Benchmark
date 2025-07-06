@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米尔德雷德和坎迪斯去了市场。米尔德雷德花了25美元，而坎迪斯花了35美元。如果她们妈妈给了她们100美元去花，花完后她们还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Mildred and Candice went to the market. Mildred spent $25 while Candice spent $35. If their mom gave them $100 to spend, how much will be left with them after spending?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

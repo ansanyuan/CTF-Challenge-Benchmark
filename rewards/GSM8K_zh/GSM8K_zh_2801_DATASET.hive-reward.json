@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：二年级有20个男孩和11个女孩，三年级的学生人数是二年级的两倍。二年级和三年级一共有多少学生？。",
+  "topic": "回答下面的数学问题：There are 20 boys and 11 girls in the second grade and twice that number in the third grade. How many students are in grades 2 and 3?",
   "checkpoint": [
     {
-      "$\\boxed{93}$": 1
+      "\\boxed{93}": 1
     }
   ],
   "matchingmethod": [

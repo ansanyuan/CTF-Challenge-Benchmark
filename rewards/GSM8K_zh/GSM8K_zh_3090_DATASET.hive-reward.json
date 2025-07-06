@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：特蕾西一直在向她的朋友们收集小说，以捐赠给“未来之子”慈善组织。在第一周，她收集了一定数量的书籍。在接下来的五周里，她收集的书籍数量是第一周的十倍。如果她现在有99本书，那么她在第一周收集了多少本书？。",
+  "topic": "回答下面的数学问题：Tracy has been collecting novels from her friends to donate to the Children For The Future charity organization. In the first week she collects a certain number of books. In the next five weeks, she collects ten times as many books as she did in the first week. How many books did she collect in the first week if she has 99 books now?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

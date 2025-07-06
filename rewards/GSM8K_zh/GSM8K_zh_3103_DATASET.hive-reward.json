@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gable夫人的三年级班正在海滩进行郊游。午餐时，Gable夫人为班上的20名学生带来了20份午餐。她在每个午餐袋里都包含了一包动物饼干作为甜点。每包动物饼干里有10块动物饼干。如果有2名学生没有吃他们的动物饼干，那么Gable夫人的学生中总共吃了多少块动物饼干？。",
+  "topic": "回答下面的数学问题：Mrs. Gable’s third grade class is on a field trip to the beach. For lunch, Mrs. Gable brought 20 lunches for the 20 students in her class. She included a pack of animal crackers in each lunch bag for dessert. Each pack of animal crackers contained 10 animal crackers. If 2 students did not eat their animal crackers, how many animal crackers were eaten in total among Mrs. Gable’s students?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bernie喜欢吃巧克力。他每周在当地商店买两块巧克力。一块巧克力花费他3美元。在另一家商店，有一项长期促销活动，期间每块巧克力只需2美元。如果Bernie在这家商店购买巧克力，而不是在当地商店购买，他在三周内能省下多少钱？。",
+  "topic": "回答下面的数学问题：Bernie loves eating chocolate. He buys two chocolates every week at the local store. One chocolate costs him $3. In a different store, there is a long-term promotion, during which each chocolate costs only $2. How much would Bernie save in three weeks, if he would buy his chocolates in this store instead of his local one?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

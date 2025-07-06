@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在书店，莎拉买了6本平装书和4本精装书。她的兄弟买的平装书数量是莎拉的三分之一，精装书的数量是她的两倍。她的兄弟总共买了多少本书？。",
+  "topic": "回答下面的数学问题：At the bookstore, Sarah bought 6 paperback books and 4 hardback books. Her brother bought one-third as many paperback books as Sarah bought, and two times the number of hardback books that she bought. How many books did her brother buy in total?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一艘船以每小时10英里的速度横穿一个正方形湖。它花了2小时横穿湖的长度。然后以相同的速度横穿湖的整个宽度，花了30分钟。这个湖有多少平方英里？。",
+  "topic": "回答下面的数学问题：A boat is traveling across a square lake at 10 MPH. It takes 2 hours to go across the length of the lake. It then travels the whole width of the lake at the same speed, which takes 30 minutes. How many square miles is the lake?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

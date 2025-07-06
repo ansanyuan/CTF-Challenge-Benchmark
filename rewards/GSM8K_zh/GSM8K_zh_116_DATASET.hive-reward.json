@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罐子里有一些果冻豆。四分之三的果冻豆是红色的，红色果冻豆中四分之一是椰子味的。如果有750颗果冻豆是椰子味的，罐子里有多少颗果冻豆？。",
+  "topic": "回答下面的数学问题：There are some jelly beans in a jar. Three fourths of the jelly beans are red, and one quarter of the red jelly beans are coconut flavored. If 750 jelly beans are coconut flavored, how many jelly beans are there in the jar?",
   "checkpoint": [
     {
-      "$\\boxed{4000}$": 1
+      "\\boxed{4000}": 1
     }
   ],
   "matchingmethod": [

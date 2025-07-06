@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：使用电话树来联系Ali已故同事的家人和亲戚。Ali决定打电话给3个家庭。然后每个家庭再打电话给其他3个家庭，依此类推。在第四轮电话中将通知多少个家庭？。",
+  "topic": "回答下面的数学问题：A phone tree is used to contact families and relatives of Ali's deceased coworker. Ali decided to call 3 families. Then each family calls 3 other families, and so on. How many families will be notified during the fourth round of calls?",
   "checkpoint": [
     {
-      "$\\boxed{81}$": 1
+      "\\boxed{81}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三角形的周长是160厘米。如果两条边分别是40厘米和50厘米，求第三条边的长度？。",
+  "topic": "回答下面的数学问题：The perimeter of a triangle is 160 cm. If two of the sides are 40 cm and 50 cm, calculate the length of the third side?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

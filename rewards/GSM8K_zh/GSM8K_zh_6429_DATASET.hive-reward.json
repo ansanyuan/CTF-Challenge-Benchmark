@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Percy在上学前游泳1小时，在放学后游泳1小时，每周5天。周末他游泳3小时。在4周内，他游了多少小时？。",
+  "topic": "回答下面的数学问题：Percy swims 1 hour before school and 1 after school 5 days a week.  He swims 3 hours on the weekend.  How many hours of swimming does he do over 4 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{52}$": 1
+      "\\boxed{52}": 1
     }
   ],
   "matchingmethod": [

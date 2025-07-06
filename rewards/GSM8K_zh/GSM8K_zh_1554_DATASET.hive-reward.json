@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个足球队准备了24名球员参加足球比赛。上半场有11名球员开始比赛，并进行了2次换人。下半场，球队进行的换人次数是上半场的两倍。那天有多少名球员没有参加比赛？。",
+  "topic": "回答下面的数学问题：A soccer team had 24 players prepared for a soccer game. The first half saw 11 players start the game with 2 substitutions made. In the second half, the team made twice as many substitutions as it made in the first half. How many players on the team did not play that day?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

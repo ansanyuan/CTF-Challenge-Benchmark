@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一辆公交车以每小时60英里的速度行驶了5小时。一辆汽车以每小时30英里的速度行驶了8小时。公交车比汽车多行驶了多少英里？。",
+  "topic": "回答下面的数学问题：A bus travels 60 miles per hour for 5 hours. A car travels 30 miles per hour for 8 hours. How much farther did the bus go than the car, in miles?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

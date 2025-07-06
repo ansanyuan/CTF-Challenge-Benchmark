@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克在为他妻子的惊喜派对选择两个场地之间犹豫不决。第一个场地收取200美元的固定费用，无论有多少宾客参加。而第二个场地则按每位参加的宾客收取25美元。然而，第一个场地不包括食物，马克估计每位参加的宾客的食物费用将是5美元。在第二个场地，每位宾客的食物费用已包含在价格中。需要多少宾客才能使两个场地的费用相等？。",
+  "topic": "回答下面的数学问题：Mark is trying to choose between two venues for a surprise party for his wife.  The first venue charges a flat fee of $200, regardless of how many guests attend.  While the second charges, $25 per person who attends.  However, the first venue does not include food, which Mark estimates will cost $5 for each person who attends.  At the second venue, food for each guest is already included in the price.  How many guests are necessary for the two venues to be equal in cost?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

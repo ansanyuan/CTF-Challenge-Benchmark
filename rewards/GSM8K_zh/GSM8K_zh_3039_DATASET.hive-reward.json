@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：最近一次星舰谜团的航行中，宇宙飞船从X行星到Y行星的时间比典型地球日的小时数的两倍少了八个小时。如果这两个行星之间的距离是4000秒差距，那么星舰谜团在这次最近的航行中的平均速度是多少秒差距每小时？。",
+  "topic": "回答下面的数学问题：During the most recent voyage of the Starship Conundrum, the spacecraft traveled from Planet X to Planet Y in eight hours less than twice the number of hours in a typical earth day.  If the distance between these two planets is 4,000 parsecs, what was the average speed, in parsecs per hour, of the Starship Conundrum during this most recent voyage?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

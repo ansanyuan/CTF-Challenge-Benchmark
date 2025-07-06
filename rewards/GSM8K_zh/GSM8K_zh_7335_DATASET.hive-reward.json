@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lorin有4颗黑色弹珠。Jimmy有22颗黄色弹珠。Alex有的黑色弹珠是Lorin的两倍，黄色弹珠是Jimmy的一半。Alex有多少颗弹珠？。",
+  "topic": "回答下面的数学问题：Lorin has 4 black marbles. Jimmy has 22 yellow marbles. Alex had twice as many black marbles as Lorin and one half as many yellow marbles as Jimmy. How many marbles does Alex have?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：查德在一年中最炎热的一天举办烧烤活动，总共会有15个人。他需要每人2磅的冰来应对酷热。每袋冰售价3.00美元，一包装有10袋。他将花多少钱买冰？。",
+  "topic": "回答下面的数学问题：Chad is hosting a BBQ on the hottest day of the year, where there will be a total of 15 people.  He will need 2 pounds of ice per person to account for the heat.  One pound bags of ice are sold for $3.00 for a pack of 10.  How much will he spend on ice?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

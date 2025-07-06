@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰有25匹马。他每天给每匹马喂两次，每次喂它们20磅的食物。他购买了半吨的食物袋。在60天内，他将不得不购买多少袋食物？。",
+  "topic": "回答下面的数学问题：John has 25 horses.  He feeds each horse twice a day and feeds them 20 pounds of food at each feeding.  He buys half ton bags of food.  How many of those will he have to buy in 60 days?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

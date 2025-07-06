@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Paddy's Confidential有600罐炖肉，需要喂养40人。喂养30%较少的人需要多少罐？。",
+  "topic": "回答下面的数学问题：Paddy's Confidential has 600 cans of stew required to feed 40 people. How many cans would be needed to feed 30% fewer people?",
   "checkpoint": [
     {
-      "$\\boxed{420}$": 1
+      "\\boxed{420}": 1
     }
   ],
   "matchingmethod": [

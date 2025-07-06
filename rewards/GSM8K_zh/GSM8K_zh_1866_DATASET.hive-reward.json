@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：琳达的包里有2个一角硬币，6个二角五分硬币和5个五分硬币。她的妈妈给了她2个一角硬币，10个二角五分硬币和她已有数量的两倍的五分硬币。她一共有多少个硬币？。",
+  "topic": "回答下面的数学问题：Linda's bag has 2 dimes, 6 quarters, and 5 nickels. Her mother gives her 2 more dimes, 10 quarters, and twice as many nickels as she has. How many coins does she have altogether?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

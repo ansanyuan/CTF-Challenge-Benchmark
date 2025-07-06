@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Janet每次折叠毯子时，其厚度都会加倍。如果起始厚度为3英寸，经过4次折叠后，它的厚度将是多少？。",
+  "topic": "回答下面的数学问题：Every time Janet folds her blanket its thickness doubles. If it starts out 3 inches thick, how thick will it be after 4 foldings?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

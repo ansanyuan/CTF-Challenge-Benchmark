@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Briar参加了为期一周的社区赋权活动，每天都要乘坐出租车去活动地点和回家。出租车每英里收费2.5美元。如果活动地点离Briar家200英里，计算活动结束时出租车费用的总金额是多少？。",
+  "topic": "回答下面的数学问题：Briar is attending a one-week community empowerment event and has to take a cab ride to the event and back home every day. A cab ride costs $2.5 per mile. If the event is 200 miles away from Briar's home, calculate the total amount of money the cab rides cost would be at the end of the event?",
   "checkpoint": [
     {
-      "$\\boxed{7000}$": 1
+      "\\boxed{7000}": 1
     }
   ],
   "matchingmethod": [

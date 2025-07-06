@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮制作被子。她用21码的材料可以制作7个被子。制作12个被子需要多少码的材料？。",
+  "topic": "回答下面的数学问题：Jennie makes quilts. She can make 7 quilts with 21 yards of material. How many yards of material would be required to make 12 quilts?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果Roshesmina的存钱罐的12个隔间中每个隔间都有两个便士，她又向每个隔间加入6个便士，计算她一共有多少个便士？。",
+  "topic": "回答下面的数学问题：If there are two pennies in each of the twelve compartments of Roshesmina's piggy bank and she adds 6 more pennies to each compartment, calculate the total number of pennies she has?",
   "checkpoint": [
     {
-      "$\\boxed{96}$": 1
+      "\\boxed{96}": 1
     }
   ],
   "matchingmethod": [

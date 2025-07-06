@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每个星期一下雨1.5厘米，共有7个星期一。每个星期二下雨2.5厘米，共有9个星期二。星期二下雨的厘米数比星期一多了多少？。",
+  "topic": "回答下面的数学问题：On each of 7 Mondays, it rained 1.5 centimeters. On each of 9 Tuesdays it rained 2.5 centimeters. How many more centimeters did it rain on Tuesdays than Mondays?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

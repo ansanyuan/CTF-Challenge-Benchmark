@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个木桥的最大承重不超过5000磅。一辆装满了重量相同的盒子的送货卡车将要过桥，每个盒子重15磅。司机和空卡车的总重量是3755磅。在不超过桥的重量限制的情况下，卡车最多可以装载多少个盒子？。",
+  "topic": "回答下面的数学问题：A wooden bridge can carry no more than 5000 pounds. A delivery truck filled with identical boxes, each weighing 15 pounds, will pass over the bridge. The combined weight of the driver and the empty truck is 3755 pounds. What is the maximum number of boxes which can be loaded onto the truck while not exceeding the bridge's weight limit?",
   "checkpoint": [
     {
-      "$\\boxed{83}$": 1
+      "\\boxed{83}": 1
     }
   ],
   "matchingmethod": [

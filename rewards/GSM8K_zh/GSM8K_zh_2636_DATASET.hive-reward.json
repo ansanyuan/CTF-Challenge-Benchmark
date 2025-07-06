@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰和他的两个兄弟决定分摊一间公寓的费用。这个公寓比约翰以前的公寓贵40%，而约翰以前的公寓每月的费用是1200美元。与独自居住相比，约翰每年可以节省多少钱？。",
+  "topic": "回答下面的数学问题：John and his two brothers decide to split the cost of an apartment.  It is 40% more expensive than John's old apartment which costs $1200 per month.  How much does John save per year by splitting the apartment compared to living alone?",
   "checkpoint": [
     {
-      "$\\boxed{7680}$": 1
+      "\\boxed{7680}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lola在学校篮球队打篮球。她的球队在上一场主场比赛中得分是上一场客场比赛的两倍。在第二场客场比赛中，他们比上一场客场比赛多得了18分。在第三场客场比赛中，他们比第二场得了两分。如果Lola的球队在上一场主场比赛中得了62分，他们下一场比赛需要得多少分才能使他们的累积得分达到上一场主场比赛得分的四倍？。",
+  "topic": "回答下面的数学问题：Lola plays basketball on her school team. Her team scored twice at many points at their last home game than their first away game. At the second away game, they scored eighteen points more than the previous away game. At the third away game, they scored two more points than at their second. If Lola’s team scored 62 points at their last home game, how many points do they have to score in their next game to bring their cumulative points up to four times the score from their last home game?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

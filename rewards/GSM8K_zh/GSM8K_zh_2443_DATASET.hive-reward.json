@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：南希可以呼啦圈10分钟。凯西比南希少呼啦圈3分钟。摩根可以呼啦圈的时间是凯西的三倍。摩根可以呼啦圈多久？。",
+  "topic": "回答下面的数学问题：Nancy can hula hoop for 10 minutes.  Casey can hula hoop 3 minutes less than Nancy.  Morgan can hula hoop three times as long as Casey.  How long can Morgan hula hoop?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

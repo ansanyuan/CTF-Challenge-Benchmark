@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Steve喜欢玩电子游戏。他的父母在他生日时给他买了一个游戏机和5个游戏。他存够了钱，一年可以每个月买一个游戏，然后第二年开始每个月买两个游戏。第三年，因为他有了一份新的兼职工作，赚了更多的钱，他每个月买4个游戏。他每年圣诞节还会得到5个游戏。三年后，Steve总共有多少个游戏？。",
+  "topic": "回答下面的数学问题：Steve loves playing video games.  His parents get him a console along with 5 games for his birthday.  He saves up enough money to buy 1 game per month for a year, and then the following year he starts buying 2 games a month.  For the third year he buys 4 games a month as he has a new part-time job that makes him more money.  He also gets 5 games for Christmas every year.  How many games does Steve have after 3 years?",
   "checkpoint": [
     {
-      "$\\boxed{104}$": 1
+      "\\boxed{104}": 1
     }
   ],
   "matchingmethod": [

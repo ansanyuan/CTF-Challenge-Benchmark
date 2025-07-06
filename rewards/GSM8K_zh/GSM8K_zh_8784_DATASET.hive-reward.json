@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Aaron和Vanessa是接力赛跑队的搭档。Aaron能以Vanessa速度的两倍跑每一英里，但Vanessa能跑的距离是Aaron的两倍。如果Vanessa跑了4英里，而Aaron完成他部分的比赛用了16分钟，Vanessa完成她部分的比赛用了多少分钟？。",
+  "topic": "回答下面的数学问题：Aaron and Vanessa were relay race partners on a running team. Aaron was able to run each mile twice as fast as Vanessa, but Vanessa was able to run twice as far as Aaron did. If Vanessa ran 4 miles and Aaron completed his part of the race in 16 minutes, how long in minutes did Vanessa take to complete her part?",
   "checkpoint": [
     {
-      "$\\boxed{64}$": 1
+      "\\boxed{64}": 1
     }
   ],
   "matchingmethod": [

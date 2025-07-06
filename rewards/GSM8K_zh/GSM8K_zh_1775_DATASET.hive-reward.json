@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sedrach有13个苹果派。如果每个苹果派可以迅速分成两半，每半个苹果派可以分成5个小份尝试，如果他把它们都分成小份尝试，有多少人可以品尝Sedrach的苹果派？。",
+  "topic": "回答下面的数学问题：Sedrach has 13 apple pies. If every apple pie can be quickly divided into halves and every half an apple pie can be split into 5 bite-size samples, how many people can taste Sedrach's apple pie if he divides them all into bite-size samples?",
   "checkpoint": [
     {
-      "$\\boxed{130}$": 1
+      "\\boxed{130}": 1
     }
   ],
   "matchingmethod": [

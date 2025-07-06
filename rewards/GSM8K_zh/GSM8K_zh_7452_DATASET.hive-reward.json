@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家工厂决定停止生产汽车，转而开始生产摩托车。在生产汽车时，每月材料成本为100美元，他们可以生产4辆汽车，每辆汽车售价为50美元。现在他们生产摩托车，材料成本为250美元，但他们每月可以以50美元的价格卖出8辆摩托车。每月销售摩托车比销售汽车多赚取了多少利润？。",
+  "topic": "回答下面的数学问题：A factory decides to stop making cars and start making motorcycles instead. When it made cars, per month, it cost $100 for materials, they could make 4 cars, and they sold each car for $50. Now that they make motorcycles it costs $250 for materials, but they sell 8 of them for $50 each. How much more profit do they make per month selling motorcycles instead of cars?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

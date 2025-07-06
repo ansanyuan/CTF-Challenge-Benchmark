@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗宾的房子和市中心之间的距离是500米。他离开房子去市中心。走了200米后，他意识到忘记了他的包。所以他返回到他的房子，然后再去市中心。他总共走了多少米？。",
+  "topic": "回答下面的数学问题：The distance between Robin's house and the city center is 500 meters. He leaves the house to go to the city center. After he walks 200 meters he realizes that he forgot his bag. So he returns to his house, then goes back to the city center. How many meters does he walk in total?",
   "checkpoint": [
     {
-      "$\\boxed{900}$": 1
+      "\\boxed{900}": 1
     }
   ],
   "matchingmethod": [

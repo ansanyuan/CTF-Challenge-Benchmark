@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Toby举办了一场车库销售，以筹集资金支持失业的朋友。在车库销售期间他卖出的所有物品中，他卖出的三件物品占他赚取的销售总金额的75%。他卖了一台跑步机100美元，一组抽屉柜的价格是他卖跑步机所得的一半，他卖了一台电视，价格是他卖跑步机所得的三倍。Toby在车库销售中赚取的总金额是多少美元？。",
+  "topic": "回答下面的数学问题：Toby held a garage sale to raise money to support friends who have lost their jobs.  Of all the items that he sold during the garage sale, three of the items he sold made up 75% of the total amount of sales money he earned.  He sold a treadmill for $100, a chest of drawers for half as much as he made for selling the treadmill, and he sold a television for three times what he earned for selling the treadmill.  What is the total sum of money, in dollars, that Toby made at the garage sale?",
   "checkpoint": [
     {
-      "$\\boxed{600}$": 1
+      "\\boxed{600}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克是一名足球运动员。他需要买两双袜子和一双足球鞋。每双袜子的价格是9.50美元，鞋子的价格是92美元。杰克有40美元。杰克还需要多少钱？。",
+  "topic": "回答下面的数学问题：Jack is a soccer player. He needs to buy two pairs of socks and a pair of soccer shoes. Each pair of socks cost $9.50, and the shoes cost $92. Jack has $40. How much more money does Jack need?",
   "checkpoint": [
     {
-      "$\\boxed{71}$": 1
+      "\\boxed{71}": 1
     }
   ],
   "matchingmethod": [

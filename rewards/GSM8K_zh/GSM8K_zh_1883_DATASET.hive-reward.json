@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一棵香蕉树在拉吉割了一些香蕉后还剩下100根香蕉。如果拉吉吃了70根香蕉，并且篮子里剩下的是吃掉数量的两倍，最初树上有多少根香蕉？。",
+  "topic": "回答下面的数学问题：A banana tree has 100 bananas left after Raj cut some bananas from it. If Raj has eaten 70 bananas and has twice as many remaining in his basket, how many bananas were on the tree initially?",
   "checkpoint": [
     {
-      "$\\boxed{310}$": 1
+      "\\boxed{310}": 1
     }
   ],
   "matchingmethod": [

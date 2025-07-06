@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Katy，Wendi和Carrie去参加了一个制作面包的派对。 Katy带了三袋5磅的面粉。 Wendi带了比Katy多两倍的面粉，但Carrie带的面粉比Wendi带的少5磅。 Carrie比Katy带了多少面粉（以盎司计）？。",
+  "topic": "回答下面的数学问题：Katy, Wendi, and Carrie went to a bread-making party.  Katy brought three 5-pound bags of flour.  Wendi brought twice as much flour as Katy, but Carrie brought 5 pounds less than the amount of flour Wendi brought.  How much more flour, in ounces, did Carrie bring than Katy?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

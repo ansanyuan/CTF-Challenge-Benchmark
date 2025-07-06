@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hallie是一位艺术家。她赢得了一场艺术比赛，她获得了150美元的奖金。她卖出了3幅画，每幅50美元。她总共从她的艺术作品中赚了多少钱？。",
+  "topic": "回答下面的数学问题：Hallie is an artist. She wins an art contest, and she receives a $150 prize. She sells 3 of her paintings for $50 each. How much money does she make in total from her art?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：皮埃尔决定带他妈妈出去吃冰淇淋。他请客。每勺冰淇淋2美元。如果他买了3勺，他妈妈买了4勺，总账单是多少？。",
+  "topic": "回答下面的数学问题：Pierre decides to bring his mother out for ice cream. His treat. Each scoop is $2. If he gets 3 scoops and his mom gets 4, what is the total bill?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个礼品店出售每个手镯15美元，一个金心项链10美元，一个个性化咖啡杯20美元。蕾恩为她的朋友买了三个手镯，两个金心项链和一个咖啡杯。如果她给了一张100美元的钞票，蕾恩会得到多少找零？。",
+  "topic": "回答下面的数学问题：A gift shop sells bracelets at $15 each, a gold heart necklace at $10,  and a personalized coffee mug at $20.  Raine buys three bracelets, two gold heart necklaces, and one coffee mug for her friends. How much change does Raine get back if she gives a one hundred dollar bill?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

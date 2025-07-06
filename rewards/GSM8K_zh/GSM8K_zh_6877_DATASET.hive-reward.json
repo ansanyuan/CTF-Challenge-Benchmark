@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Selena今天得到了一笔小费，总共是99美元。她在一家五星级酒店享用了美食。她点了两份每份24美元的牛排。她还点了两种每份3.5美元的汉堡和三杯每杯2美元的冰淇淋。Selena最后会剩下多少钱？。",
+  "topic": "回答下面的数学问题：Selena got a tip today that amounted to $99. She pampered herself by eating at a 5-star hotel. She indulged herself with 2 steak meals that cost $24 each plate. She also ordered 2 types of burgers which cost $3.5 each, and 3 cups of ice cream which cost $2 each. How much money will Selena be left with?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

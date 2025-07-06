@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个吸血鬼每周吸干三个人的血。他的好朋友是一个每周吃五个人的狼人，但只吃新鲜的，从不吃吸干了血的。一个有72个人的村庄能维持他们两个多少周？。",
+  "topic": "回答下面的数学问题：A vampire drains three people a week. His best friend is a werewolf who eats five people a week, but only fresh ones, never drained ones. How many weeks will a village of 72 people last them both?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

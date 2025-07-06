@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cary正在存钱买一双价值120美元的新鞋。他已经存了30美元。他每修剪一块草坪就能赚5美元。如果他每个周末修剪3块草坪，他还需要多少个周末才能赚够钱买鞋？。",
+  "topic": "回答下面的数学问题：Cary is saving money to buy a new pair of shoes that cost $120. He has already saved $30. He earns $5 for every lawn he mows. If he mows 3 lawns each weekend, how many more weekends will he have to mow lawns before he can afford to buy the shoes?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

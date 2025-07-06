@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：户外童子军去徒步看瀑布。为了去徒步，俱乐部成员乘坐了3辆汽车，6辆出租车和2辆货车。每辆汽车有4个人，每辆出租车有6个人，每辆货车有5个人。有多少人去徒步了？。",
+  "topic": "回答下面的数学问题：The outdoor scouts went on a hike to see a waterfall. To get to the hike, the club members took 3 cars, 6 taxis and 2 vans. There were 4 people in each car, 6 people in each taxis and 5 people in each van. How many people went on the hike?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

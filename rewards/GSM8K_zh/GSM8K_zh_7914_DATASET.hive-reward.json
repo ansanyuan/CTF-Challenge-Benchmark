@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Billie的长方形卧室面积是360平方英尺。如果他的房间长度是3码，那么房间的周长是多少英尺？。",
+  "topic": "回答下面的数学问题：The area of Billie's rectangular bedroom is 360 square feet. If the length of his room is 3 yards, what is the perimeter of the room in feet?",
   "checkpoint": [
     {
-      "$\\boxed{98}$": 1
+      "\\boxed{98}": 1
     }
   ],
   "matchingmethod": [

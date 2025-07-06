@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kantana喜欢巧克力。每个星期六，她都会去糖果店给自己买2块巧克力，给她妹妹买1块。上个星期六，她又额外买了10块巧克力作为她朋友查理的生日礼物。Kantana最终这个月买了多少块巧克力？。",
+  "topic": "回答下面的数学问题：Kantana loves chocolate. Every Saturday she goes to the candy store and buys 2 chocolates for herself and 1 for her sister. This last Saturday she picked up an additional 10 chocolates as a birthday gift for her friend Charlie. How many chocolates did Kantana end up buying for the month?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丹有汤姆的两倍贴纸。汤姆有鲍勃的3倍贴纸。如果鲍勃有12张贴纸，那么丹有多少张？。",
+  "topic": "回答下面的数学问题：Dan has two times as many stickers as Tom. Tom has 3 times as many stickers as Bob. If Bob has 12 stickers, how many does Dan have?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

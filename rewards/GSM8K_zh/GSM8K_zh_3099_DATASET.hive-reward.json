@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三个兄弟的年龄是连续的整数，总和为96。最小的兄弟多大？。",
+  "topic": "回答下面的数学问题：The ages of three brothers are consecutive integers with the sum of 96.  How old is the youngest brother?",
   "checkpoint": [
     {
-      "$\\boxed{31}$": 1
+      "\\boxed{31}": 1
     }
   ],
   "matchingmethod": [

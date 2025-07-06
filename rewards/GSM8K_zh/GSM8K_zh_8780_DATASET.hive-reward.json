@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hugo博士和他的助手Igor正在准备进行实验室实验。Hugo博士告诉Igor收集16个试管、7个烧杯和14个培养皿，并将它们全部放在实验台上。Igor不小心收集的试管只有要求的一半，比要求的培养皿多了两个。虽然他拿到了正确数量的烧杯，但在去实验台的路上丢失了几个。总共，Igor放在实验台上的物品数量是29个。Igor丢失了多少个烧杯？。",
+  "topic": "回答下面的数学问题：Dr. Hugo Grumpus and his assistant, Igor, were preparing to perform a laboratory experiment.  Dr. Grumpus told Igor to gather 16 test tubes, 7 beakers, and 14 Petri dishes, and to place them all on the lab bench.  By accident, Igor gathered half as many test tubes as requested, two more than the number of Petri dishes requested.  And while he had picked up the correct number of beakers, he lost several on the way to the lab bench.  In total, the number of items Igor had placed on the lab bench was 29.  How many beakers did Igor lose?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

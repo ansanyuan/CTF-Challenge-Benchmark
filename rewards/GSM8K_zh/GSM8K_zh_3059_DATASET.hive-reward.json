@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：巴克利在月初得到了10根新的狗骨头。5个月后，他有8根骨头可用，其余的都已经埋了。他埋了多少根骨头？。",
+  "topic": "回答下面的数学问题：Barkley gets 10 new dog bones at the beginning of the month.  After 5 months, he has 8 bones available and has buried the rest.  How many bones has he buried?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

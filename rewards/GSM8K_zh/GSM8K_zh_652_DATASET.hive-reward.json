@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥利维亚每小时赚9美元。她周一工作了4个小时，周三工作了3个小时，周五工作了6个小时。奥利维亚这周赚了多少钱？。",
+  "topic": "回答下面的数学问题：Olivia earns $9 per hour.  She worked 4 hours on Monday, 3 hours on Wednesday and 6 hours on Friday.  How much money did Olivia make this week?",
   "checkpoint": [
     {
-      "$\\boxed{117}$": 1
+      "\\boxed{117}": 1
     }
   ],
   "matchingmethod": [

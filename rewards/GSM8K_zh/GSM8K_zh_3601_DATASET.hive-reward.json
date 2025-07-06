@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Pat的棍子长30英寸。他的棍子有7英寸被泥土覆盖。没有被泥土覆盖的部分长度是Sarah的棍子的一半。Jane的棍子比Sarah的棍子短两英尺。Jane的棍子有多长？。",
+  "topic": "回答下面的数学问题：Pat's stick is 30 inches long. He covers 7 inches of the stick in dirt. The portion that is not covered in dirt is half as long as Sarah’s stick. Jane’s stick is two feet shorter than Sarah’s stick. How many inches long is Jane’s stick?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

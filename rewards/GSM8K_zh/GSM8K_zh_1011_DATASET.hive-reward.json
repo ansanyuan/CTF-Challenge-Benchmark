@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Erin在学校的自助餐厅工作，负责盛装汤。每碗汤有10盎司，Erin每分钟可以盛装5碗汤。如果一锅汤有6加仑，Erin需要多长时间才能盛装完所有的汤，四舍五入到最接近的分钟？（1加仑等于128盎司。）。",
+  "topic": "回答下面的数学问题：Erin works in the school cafeteria serving soup. Each bowl of soup has 10 ounces, and Erin can serve 5 bowls per minute. If the pot of soup has 6 gallons of soup, how long will it take Erin to serve all the soup, rounded to the nearest minute? (There are 128 ounces to a gallon.)",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丽莎每分钟走10米。每天，她走一个小时。丽莎两天内会走多少米？。",
+  "topic": "回答下面的数学问题：Lisa walks 10 meters each minute. Every day, she walks for an hour. How many meters will Lisa walk in two days?",
   "checkpoint": [
     {
-      "$\\boxed{1200}$": 1
+      "\\boxed{1200}": 1
     }
   ],
   "matchingmethod": [

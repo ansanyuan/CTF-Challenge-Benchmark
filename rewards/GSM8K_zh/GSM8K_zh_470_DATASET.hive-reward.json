@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克逊想通过用香槟装满女朋友的热水浴缸来给她留下深刻印象。热水浴缸可容纳40加仑液体。每瓶香槟可装1夸脱（1加仑等于4夸脱）。每瓶香槟的成本为50美元，但杰克逊获得了20%的容积折扣，他一共花了多少钱买香槟？。",
+  "topic": "回答下面的数学问题：Jackson wants to impress his girlfriend by filling her hot tub with champagne. The hot tub holds 40 gallons of liquid. Each bottle of champagne holds 1 quart. (There are 4 quarts per gallon). If each bottle of champagne costs $50, but Jackson gets a 20% volume discount, how much does he spend on champagne?",
   "checkpoint": [
     {
-      "$\\boxed{6400}$": 1
+      "\\boxed{6400}": 1
     }
   ],
   "matchingmethod": [

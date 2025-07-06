@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jaron想通过出售巧克力棒筹集足够的积分赢得任天堂Switch奖品。他需要2000积分才能赢得任天堂Switch。他已经卖出了8个价值100积分的巧克力兔。他每卖出一个Snickers巧克力棒可以获得25积分。他需要卖出多少个Snickers巧克力棒才能赢得任天堂Switch？。",
+  "topic": "回答下面的数学问题：Jaron wants to raise enough money selling candy bars to win the Nintendo Switch prize. He needs 2000 points for the Nintendo Switch. He has already sold 8 chocolate bunnies that are worth 100 points each. Each Snickers bar he sells earns 25 points. How many Snickers bars does he need to sell the win the Nintendo Switch?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

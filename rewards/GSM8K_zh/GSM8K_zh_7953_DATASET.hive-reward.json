@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆决定给他的妻子一个周年纪念日的度假。飞机票每张5000美元。由于是繁忙的周末，酒店比平时贵20%。正常价格是每天1500美元。如果他们在那里待3天，这次旅行总共花费了多少钱？。",
+  "topic": "回答下面的数学问题：Tom decides to give his wife an anniversary getaway.  The plane tickets cost $5000 each.  The hotel is 20% more expensive than normal because it is a busy weekend.  The normal price is $1500 per day.  If they are there for 3 days how much did the trip cost?",
   "checkpoint": [
     {
-      "$\\boxed{15400}$": 1
+      "\\boxed{15400}": 1
     }
   ],
   "matchingmethod": [

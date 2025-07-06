@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰购买了3卷每卷20英尺的电线。制作一条项链需要4英尺的电线。他可以制作多少条项链？。",
+  "topic": "回答下面的数学问题：John buys 3 spools of wire that are 20 feet each.  It takes 4 feet to make a necklace.  How many necklaces can he make?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

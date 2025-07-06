@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：基努的摩托车可以存储8升汽油。如果他的目的地距离280英里，他的摩托车每40英里消耗8升汽油，那么基努需要多少次给摩托车加满汽油，如果他要往返一次？。",
+  "topic": "回答下面的数学问题：Keanu's motorcycle can store 8 liters of gasoline. If his destination is 280 miles away and his motorcycle consumes 8 liters of gasoline per 40 miles, how many times does Keanu have to refill his motorcycle with gasoline if he will make a round trip?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

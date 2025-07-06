@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：你的视频流媒体订阅每月费用为14美元。如果你和朋友平均分担费用，那么在第一年为这项服务总共支付多少钱？。",
+  "topic": "回答下面的数学问题：Your video streaming subscription costs $14 a month. If you're evenly splitting the cost with your friend, how much do you pay in total after the first year for this service?",
   "checkpoint": [
     {
-      "$\\boxed{84}$": 1
+      "\\boxed{84}": 1
     }
   ],
   "matchingmethod": [

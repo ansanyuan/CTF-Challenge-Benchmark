@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：塞缪尔清扫了门廊，清除了其中九分之一的灰尘颗粒。后来，当他走过门廊时，他的鞋子留下了223个灰尘颗粒。如果在塞缪尔清扫之前有331个灰尘颗粒，那么在他走过之后有多少灰尘颗粒？。",
+  "topic": "回答下面的数学问题：Samuel swept the porch and cleared nine-tenths of the dust particles from it. As he walked across the porch afterward, his shoes left 223 dust particles behind. How many dust particles were on the porch before Samuel swept if there were 331 after he walked across it?",
   "checkpoint": [
     {
-      "$\\boxed{1080}$": 1
+      "\\boxed{1080}": 1
     }
   ],
   "matchingmethod": [

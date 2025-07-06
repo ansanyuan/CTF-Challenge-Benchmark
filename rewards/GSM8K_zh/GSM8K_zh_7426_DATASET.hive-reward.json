@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：拉斯拥有一个面包店。她可以在一个小时内烤10条面包和每2小时烤30个法棍面包。如果她每天烤6个小时，她一天可以做多少面包？。",
+  "topic": "回答下面的数学问题：Lars owns a bakeshop. She can bake 10 loaves of bread within an hour and 30 baguettes every 2 hours. If she bakes 6 hours a day, how many breads does she makes?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

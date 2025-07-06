@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：上周，托尼去了一家玩具店，买了一套乐高积木价值250美元，一把价值120美元的玩具剑，和一块35美元的橡皮泥。他买了3套乐高积木，7把玩具剑和10块橡皮泥。托尼总共支付了多少钱？。",
+  "topic": "回答下面的数学问题：Last week, Tony went to a toy store and bought $250 a set of Lego blocks, a $120 worth toy sword, and a $35 play dough. He bought 3 sets of lego, 7 toy swords, and 10 play doughs. How much did Tony pay in total?",
   "checkpoint": [
     {
-      "$\\boxed{1940}$": 1
+      "\\boxed{1940}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔和亚当建了一个有三层砖的花园墙。他们意识到墙太低了，又增加了2层。如果每层墙有400块砖，并且他们拿出了最后一层墙的一半砖以便轻松检查花园，请计算墙上总共有多少块砖。。",
+  "topic": "回答下面的数学问题：Joe and Adam built a garden wall with three courses of bricks. They realized the wall was too low and added 2 more courses. If each course of the wall had 400 bricks, and they took out half of the bricks in the last course to allow easy checkup of the garden, calculate the total number of bricks the wall has.",
   "checkpoint": [
     {
-      "$\\boxed{1800}$": 1
+      "\\boxed{1800}": 1
     }
   ],
   "matchingmethod": [

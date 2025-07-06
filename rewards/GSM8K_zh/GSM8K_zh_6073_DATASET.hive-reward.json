@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨拉每天使用1盎司洗发水，护发素的用量是洗发水的一半。两周内，萨拉将使用多少盎司的洗发水和护发素？。",
+  "topic": "回答下面的数学问题：Sarah uses 1 ounce of shampoo, and one half as much conditioner as shampoo daily.  In two weeks, what is the total volume of shampoo and conditioner, in ounces, that Sarah will use?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

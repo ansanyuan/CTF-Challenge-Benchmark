@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Molly小姐对她班上的30名学生进行了关于他们最喜欢的颜色的调查。班上一半的学生选择了绿色，三分之一的女孩选择了粉色，而班上其他学生选择了黄色。如果班上有18名女孩，有多少名学生最喜欢黄色？。",
+  "topic": "回答下面的数学问题：Miss Molly surveyed her class of 30 students about their favorite color. Half of the class answered green, one-third of the girls answered pink, and the rest of the class answered yellow. If there are 18 girls in the class, how many students like yellow best?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Emma正在计划一个晚宴，所以她去商店买她需要的产品。她买了8公斤奶酪和7公斤蔬菜。一公斤奶酪的价格是4美元，一公斤蔬菜的价格比奶酪贵2美元。她一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：Emma is planning a dinner party, so she went to a shop to buy the products she needs. She bought 8 kg of cheese and 7 kg of vegetables. One kilogram of cheese costs $4 and one kilogram of vegetable costs is $2 more expensive. How much did she pay for her shopping?",
   "checkpoint": [
     {
-      "$\\boxed{74}$": 1
+      "\\boxed{74}": 1
     }
   ],
   "matchingmethod": [

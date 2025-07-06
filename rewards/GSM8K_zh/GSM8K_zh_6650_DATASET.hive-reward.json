@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：查理在3公里的跑道上跑了5350步。在一次跑步中，他能绕跑道跑2 1/2圈，他能跑多少步？。",
+  "topic": "回答下面的数学问题：Charlie can make 5350 steps while running on a 3-kilometer running field. If he can run around the field 2 1/2 times during a running session, how many steps was he able to make?",
   "checkpoint": [
     {
-      "$\\boxed{13375}$": 1
+      "\\boxed{13375}": 1
     }
   ],
   "matchingmethod": [

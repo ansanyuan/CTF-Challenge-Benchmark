@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯想学习成为国际象棋大师。学习规则需要2小时。然后他花了他学会如何下棋的49倍时间来达到可以开始参加本地比赛的熟练水平。之后，他将毕生都投入到国际象棋中，花了比达到熟练水平的时间总和多100倍的时间来成为大师。他总共花了多少时间？。",
+  "topic": "回答下面的数学问题：James wants to learn to become a chess grandmaster.  It takes 2 hours to learn the rules.  It then takes him 49 times that long to get a level of proficiency to start playing in local tournaments.  After that, he devotes his life to chess and spends 100 times as much as the combined time to get proficient to becoming a master.  How much total time did he spend?",
   "checkpoint": [
     {
-      "$\\boxed{10100}$": 1
+      "\\boxed{10100}": 1
     }
   ],
   "matchingmethod": [

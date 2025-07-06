@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个人将5600美元存入银行两年。每年他获得存款原始金额的7%的利息。两年后这个人在银行里会有多少钱？。",
+  "topic": "回答下面的数学问题：A person puts $5600 in a bank for two years. Each year he earns interest of 7% of the original amount deposited. How much will this person have in the bank after two years?",
   "checkpoint": [
     {
-      "$\\boxed{6384}$": 1
+      "\\boxed{6384}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莎拉开始每周存5.00美元，存了4周。然后她接下来的4周每周存10.00美元。然后她接下来的4周每周存20.00美元。在12周内她一共存了多少钱？。",
+  "topic": "回答下面的数学问题：Sarah starts saving $5.00 a week for 4 weeks.  Then she saves $10.00 a week for the next 4 weeks.  Then she saves $20.00 a week for the next 4 weeks.  How much money has she saved over 12 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{140}$": 1
+      "\\boxed{140}": 1
     }
   ],
   "matchingmethod": [

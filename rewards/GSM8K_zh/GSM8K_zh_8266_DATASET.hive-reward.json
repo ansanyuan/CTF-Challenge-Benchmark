@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：达米恩创造了一种基于瓶盖的货币，并让他的朋友们参与。他每天在回家的路上找到10个瓶盖，每个瓶盖价值0.25美元。他在一个30天的月份里能赚多少钱？。",
+  "topic": "回答下面的数学问题：Damien created a currency based on bottle caps and got his friends to take part.  He finds 10 bottle caps a day on his way home and each bottle cap is worth $.25.  How much money does he make in a 30 day month?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

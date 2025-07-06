@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰西和米娅正在进行为期一周的比赛。他们有一周的时间跑30英里。在前三天，杰西平均每天跑（2/3）英里。第四天她跑了10英里。米娅在前四天平均每天跑3英里。他们在最后三天平均需要跑多少英里？。",
+  "topic": "回答下面的数学问题：Jesse and Mia are competing in a week long race. They have one week to run 30 miles. On the first three days Jesse averages (2/3) of a mile. On day four she runs 10 miles. Mia averages 3 miles a day over the first 4 days. What is the average of their average that they have to run over the final three days?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

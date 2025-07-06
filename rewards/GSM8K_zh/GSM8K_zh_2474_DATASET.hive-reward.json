@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马特可以在12小时内粉刷一栋房子。帕蒂可以在三分之一的时间内粉刷同一栋房子。瑞秋可以在比帕蒂多5个小时的时间内粉刷同一栋房子的两倍以上。瑞秋需要多长时间来粉刷这栋房子？。",
+  "topic": "回答下面的数学问题：Matt can paint a house in 12 hours.  Patty can paint the same house in one third the time.  Rachel can paint the same house in 5 more than double the amount of hours as Patty. How long will it take Rachel to paint the house?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

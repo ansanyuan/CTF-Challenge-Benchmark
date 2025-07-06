@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰的存钱罐里有25美分硬币、10美分硬币和5美分硬币。他比25美分硬币多3个10美分硬币，比25美分硬币少6个5美分硬币。如果他一共有63枚硬币，约翰有多少个25美分硬币？。",
+  "topic": "回答下面的数学问题：John's piggy bank contains quarters, dimes, and nickels.  He has three more dimes than quarters and 6 fewer nickels than quarters.  If he has 63 coins, how many quarters does John have?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

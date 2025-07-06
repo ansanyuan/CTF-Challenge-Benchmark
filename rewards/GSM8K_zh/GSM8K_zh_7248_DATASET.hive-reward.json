@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每年举办为期三天的本地音乐节。今年的三天总人数为2700人。第二天下雨，所以第二天出现的人数只有第一天的一半。第三天是大结局，所以出席人数是原来的三倍。音乐节第二天有多少人出席？。",
+  "topic": "回答下面的数学问题：A local music festival is held every year for three days.  The three day attendance this year was 2700 people.  The second day was rainy so only half the number of people that showed up the first day showed up the second day.  The third day was the finale, so attendance was triple the original day.  How many people attended the second day of the festival?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

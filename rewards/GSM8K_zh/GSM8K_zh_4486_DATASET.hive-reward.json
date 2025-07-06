@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克在慢跑去海滩前买了一个冰淇淋筒。如果冰淇淋筒在10分钟内会融化，海滩离他家有16个街区，每个街区是1/8英里，杰克需要以多快的速度慢跑（以英里/小时计）才能在冰淇淋融化前到达海滩？。",
+  "topic": "回答下面的数学问题：Jack bought an ice cream cone before jogging to the beach. If the ice cream cone will melt in 10 minutes, the beach is 16 blocks away, and each block is 1/8th of a mile, how fast does Jack need to jog (in miles per hour) to get to the beach before the ice cream melts?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

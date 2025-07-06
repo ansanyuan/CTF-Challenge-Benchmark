@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hearty买了3包蓝色和5包红色的珠子。如果每包里有40颗珠子，Hearty一共有多少颗珠子？。",
+  "topic": "回答下面的数学问题：Hearty bought 3 packages of blue and 5 packages of red. If there are 40 beads in each package, how many beads does Hearty have in all?",
   "checkpoint": [
     {
-      "$\\boxed{320}$": 1
+      "\\boxed{320}": 1
     }
   ],
   "matchingmethod": [

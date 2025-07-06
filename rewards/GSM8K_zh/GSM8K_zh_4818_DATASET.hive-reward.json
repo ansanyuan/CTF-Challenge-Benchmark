@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jeff订购了一套万圣节服装。他必须支付10%的定金，然后在取货时支付剩下的款项。这套服装比去年的服装贵40%，去年的服装价格为250美元。在取货时，他支付了多少钱，以美元计算？。",
+  "topic": "回答下面的数学问题：Jeff orders a Halloween costume.  He has to put in a 10% deposit and then pay the rest when he picks it up.  The costume is 40% more expensive than last year's costume, which cost $250.  How much did he pay when picking it up, in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{315}$": 1
+      "\\boxed{315}": 1
     }
   ],
   "matchingmethod": [

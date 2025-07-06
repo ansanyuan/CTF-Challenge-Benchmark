@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Geordie每天上下班都要经过一条收费公路。汽车收费为每辆12.50美元，摩托车为每辆7美元。他的汽车和摩托车都可以每加仑汽油行驶35英里，上班的路程为14英里。汽油价格为每加仑3.75美元。Geordie每周三次开车上班，两次骑摩托车上班。他每周在同一条路上来回上班开销多少美元？。",
+  "topic": "回答下面的数学问题：Geordie takes a toll road on his drive to work and back every day of his five-day workweek. The toll is $12.50 per car or $7 per motorcycle. Both his car and his motorcycle get 35 miles per gallon of gas and the commute to work is 14 miles. Gas costs him $3.75 per gallon. Geordie drives his car to work three times a week and his motorcycle to work twice a week. How many dollars does he spend driving to work and back on the same route in a week?",
   "checkpoint": [
     {
-      "$\\boxed{118}$": 1
+      "\\boxed{118}": 1
     }
   ],
   "matchingmethod": [

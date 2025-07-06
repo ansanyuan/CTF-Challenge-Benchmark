@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾米莉有桑德拉的七倍多的橙子。桑德拉有贝蒂的三倍多的橙子。如果贝蒂有12个橙子，那么艾米莉有多少个橙子？。",
+  "topic": "回答下面的数学问题：Emily has 7 times as many oranges as Sandra. Sandra has 3 times as many oranges as Betty. If Betty has 12 oranges, how many oranges does Emily have?",
   "checkpoint": [
     {
-      "$\\boxed{252}$": 1
+      "\\boxed{252}": 1
     }
   ],
   "matchingmethod": [

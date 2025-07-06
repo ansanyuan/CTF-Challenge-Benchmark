@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Elaine最初有20张宝可梦卡片。一个月后，她收集了那个数量的三倍。第二个月，她收集的卡片比第一个月少了20张。第三个月，她收集的卡片是第一和第二个月收集总数的两倍。现在她总共有多少张宝可梦卡片？。",
+  "topic": "回答下面的数学问题：Elaine initially had 20 Pokemon cards. After a month, she collected three times that number. In the second month, she collected 20 fewer cards than those she collected in the first month. In the third month, she collected twice the combined number of pokemon cards she collected in the first and second months. How many pokemon cards does she have now in total?",
   "checkpoint": [
     {
-      "$\\boxed{320}$": 1
+      "\\boxed{320}": 1
     }
   ],
   "matchingmethod": [

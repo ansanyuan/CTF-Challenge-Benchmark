@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jay和Gloria在他们的房子举办了一场美国独立日派对。Jay邀请了22个人，Gloria邀请了36个人。他们想为每个人购买小美国国旗。手工艺品店正在举行小国旗促销活动，5面国旗售价1.00美元。如果他们希望所有客人都有一面国旗，而且他们自己也想要一面国旗，他们在手工艺品店会花费多少钱？。",
+  "topic": "回答下面的数学问题：Jay & Gloria were hosting a 4th of July party at their house.  Jay invited 22 people and Gloria invited 36.  They wanted to buy small American flags for everyone.  The craft store was having a sale on small flags, 5 flags for $1.00.  If they wanted all of their guests to have a flag and they also wanted 1 flag each, how much would they spend at the craft store?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

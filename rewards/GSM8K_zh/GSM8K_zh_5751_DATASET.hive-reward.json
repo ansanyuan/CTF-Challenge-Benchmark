@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：维森特看到索菲的妈妈每天给索菲20个橙子带到学校吃。他还看到汉娜的爸爸每天给汉娜40颗葡萄在学校吃。如果他数了女孩们在30天内得到的水果数量，计算索菲和汉娜在30天内一共吃了多少水果。。",
+  "topic": "回答下面的数学问题：Vicente saw Sophie's mom giving Sophie 20 oranges every day to carry to school to eat. He also saw Hannah's dad giving Hannah 40 grapes every day to eat at the school. If he counted the number of fruits that the girls were given for 30 days, calculate the total number of fruits that Sophie and Hannah had eaten in the 30 days.",
   "checkpoint": [
     {
-      "$\\boxed{1800}$": 1
+      "\\boxed{1800}": 1
     }
   ],
   "matchingmethod": [

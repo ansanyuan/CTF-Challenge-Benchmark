@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿内尔有十盒铅笔，每盒里的铅笔数量相同。他留了十支铅笔，然后将剩下的铅笔平均分给了他的五个朋友。如果他的朋友们每人得到了八支铅笔，每盒里有多少支铅笔？。",
+  "topic": "回答下面的数学问题：Arnel had ten boxes of pencils with the same number of pencils in each box.  He kept ten pencils and shared the remaining pencils equally with his five friends. If his friends got eight pencils each, how many pencils are in each box?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

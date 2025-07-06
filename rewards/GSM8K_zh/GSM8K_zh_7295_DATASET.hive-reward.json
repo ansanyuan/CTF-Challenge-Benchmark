@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Micah买了信封寄送信件，根据信封的重量，他需要更多的邮票。如果一个信封的重量超过5磅，他将需要5张邮票。如果它的重量小于5磅，它只需要2张邮票。如果他用6个信封买了52张邮票，这些信封总共需要买多少个？。",
+  "topic": "回答下面的数学问题：Micah bought envelopes to send, and depending on the weight of the envelope he will need more stamps. If an envelope weighs more than 5 pounds, he will need 5 stamps. If it weighs less than that, it will only need 2 stamps. If he bought 52 stamps with 6 envelopes that weigh less than 5 pounds, how many envelopes in total did Micah need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

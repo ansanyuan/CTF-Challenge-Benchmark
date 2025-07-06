@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂姆种了5棵树。每年他从每棵树上收集6个柠檬。他在十年内收集了多少个柠檬？。",
+  "topic": "回答下面的数学问题：Tim grows 5 trees.  Each year he collects 6 lemons from each tree.  How many lemons does he get in a decade?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

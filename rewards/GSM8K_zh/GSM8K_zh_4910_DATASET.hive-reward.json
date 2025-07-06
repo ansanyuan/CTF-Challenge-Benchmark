@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Maximilian先生是一位奶牛养殖农民，在他的农场上有140头奶牛。他农场上40%的奶牛有红斑，25%没有红斑的奶牛有蓝斑，其余的奶牛没有任何斑点。农场上有多少头奶牛没有斑点？。",
+  "topic": "回答下面的数学问题：Mr. Maximilian is a dairy animal farmer and has 140 cows on his farm. Forty percent of the cows on his farm have a red spot, 25 percent of the cows without a red spot have a blue spot and the remaining cows do not have any spot. How many cows on the farm have no spot?",
   "checkpoint": [
     {
-      "$\\boxed{63}$": 1
+      "\\boxed{63}": 1
     }
   ],
   "matchingmethod": [

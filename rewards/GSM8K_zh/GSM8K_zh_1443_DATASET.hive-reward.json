@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆正在学习撕扑克牌。他一次可以撕30张牌。一副新的扑克牌有55张牌，包括王牌和空白牌。他每周撕牌3次。如果他购买了18副牌，他可以撕多少周？。",
+  "topic": "回答下面的数学问题：Jame is trying to learn to tear playing cards.  He can tear 30 cards at a time.  A new deck of cards has 55 cards if you include the jokers and blank cards.  He tears cards 3 times a week.  If he buys 18 decks how many weeks can he go?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

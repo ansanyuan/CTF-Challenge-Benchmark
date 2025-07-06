@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三十六颗弹珠按照4:5的比例分给了马里奥和曼尼。如果曼尼决定给他弟弟2颗弹珠，那么曼尼现在有多少颗弹珠？。",
+  "topic": "回答下面的数学问题：Thirty-six marbles are divided between Mario and Manny in the ratio 4:5. If Manny decided to give 2 marbles to his brother, how many marbles does Manny have now?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

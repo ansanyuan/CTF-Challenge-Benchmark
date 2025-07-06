@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在Soda市，恰好有23786名居民。其中包括8417名男性和9092名女性。其余的人口由儿童组成。Soda市有多少儿童？。",
+  "topic": "回答下面的数学问题：In the city of Soda, there are exactly 23786 inhabitants. They include 8417 men and 9092 women. The rest of the population is made up of children. How many kids are there in Soda?",
   "checkpoint": [
     {
-      "$\\boxed{6277}$": 1
+      "\\boxed{6277}": 1
     }
   ],
   "matchingmethod": [

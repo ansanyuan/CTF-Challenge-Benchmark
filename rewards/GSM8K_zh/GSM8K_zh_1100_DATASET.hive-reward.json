@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个热狗摊每小时卖出10个热狗，每个热狗售价为2美元。摊位需要运营多少小时才能实现200美元的销售额？。",
+  "topic": "回答下面的数学问题：A hot dog stand sells 10 hot dogs every hour, each one selling for $2.  How many hours does the stand need to run to make $200 in sales?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

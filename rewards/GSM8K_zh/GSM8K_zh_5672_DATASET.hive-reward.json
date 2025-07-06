@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了做家庭作业，布鲁克有15道数学题，6道社会学题和10道科学题。他每道数学题需要2分钟，每道社会学题需要30秒，每道科学题需要1.5分钟。布鲁克完成所有家庭作业需要多长时间？。",
+  "topic": "回答下面的数学问题：For homework, Brooke has 15 math problems, 6 social studies problems, and 10 science problems. He can answer each math problem for 2 minutes while answering each social studies problem takes him 30 seconds. If he can answer each science problem in 1.5 minutes, how long will it take Brooke to answer all his homework?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

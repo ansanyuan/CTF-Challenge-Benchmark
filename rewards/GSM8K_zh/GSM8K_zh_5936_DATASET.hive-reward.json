@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kim开车30英里去她朋友家。回来时，她不得不绕道，路程比原来长20%。她在朋友家呆了30分钟。她以每小时44英里的速度开车。她离家多久？。",
+  "topic": "回答下面的数学问题：Kim drives 30 miles to her friend's house.  On the way back she has to take a detour that is 20% longer.  She spends 30 minutes at her friend's house.  She drives at a speed of 44 mph.  How long did she spend away from home?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

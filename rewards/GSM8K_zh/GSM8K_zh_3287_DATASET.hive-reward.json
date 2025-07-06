@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰决定换一个新的电话号码，结果得到的是一个被回收的号码。他以前每天收到20条短信。现在他收到了55条。假设他的朋友发送的短信数量没有改变，那么他每周收到多少条不是发给他的短信？。",
+  "topic": "回答下面的数学问题：John decides to get a new phone number and it ends up being a recycled number.  He used to get 20 text messages a day.  Now he is getting 55.  Assuming the number of texts his friends send has not changed, how many text messages per week is he getting that are not intended for him?",
   "checkpoint": [
     {
-      "$\\boxed{245}$": 1
+      "\\boxed{245}": 1
     }
   ],
   "matchingmethod": [

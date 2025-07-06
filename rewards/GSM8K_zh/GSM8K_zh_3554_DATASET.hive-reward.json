@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个游泳池通过底部的排水口排空，同时通过顶部的软管注满水。排水口可以在4小时内排空游泳池，而软管可以在6小时内注满游泳池。游泳池可容纳120升水。如果游泳池开始是满的，3小时后还剩多少水？。",
+  "topic": "回答下面的数学问题：A swimming pool is being emptied through a drain at the bottom of the pool and filled by a hose at the top. The drain can empty the pool in 4 hours and the hose can fill the pool in 6 hours. The pool holds 120 liters of water. If the pool starts filled with water, how much water will be left after 3 hours?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

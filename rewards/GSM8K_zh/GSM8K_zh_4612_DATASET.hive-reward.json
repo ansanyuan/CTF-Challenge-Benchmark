@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当学校开学迎来新的一年时，亨德里克斯的班级有20名新学生。然而，在学年结束时，亨德里克斯班级的学生中有三分之一转学到其他学校。如果在20名新学生加入之前，亨德里克斯班级的学生人数为160，请计算学年结束时班级中的学生人数。。",
+  "topic": "回答下面的数学问题：When the schools were opened for the new year, Hendrix's class had 20 new students. However, at the end of the school year, 1/3 of the students in Hendrix class had transferred to other schools. If the number of students that were in Hendrix's class before 20 new students joined was 160, calculate the number of students that were in the class at the end of the year.",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰买了3个杠铃，付了850美元，找了40美元的零钱。每个杠铃的价格是多少？。",
+  "topic": "回答下面的数学问题：John buys 3 barbells and gives $850 and gets $40 in change.  How much did each barbell cost?",
   "checkpoint": [
     {
-      "$\\boxed{270}$": 1
+      "\\boxed{270}": 1
     }
   ],
   "matchingmethod": [

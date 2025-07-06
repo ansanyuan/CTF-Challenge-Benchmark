@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Nelly对她在拍卖会上买到的画非常满意。她告诉她的女儿，她通过支付比对手乔的出价多2000美元的三倍出价，击败了他。如果乔的出价是160,000美元，那么Nelly买到这幅画花了多少钱？。",
+  "topic": "回答下面的数学问题：Nelly is very pleased with the painting she bought at the auction. She tells her daughter that she outbid her rival Joe by paying $2000 more than thrice his bid. If Joe’s bid was $160,000, at how much did Nelly get the painting?",
   "checkpoint": [
     {
-      "$\\boxed{482000}$": 1
+      "\\boxed{482000}": 1
     }
   ],
   "matchingmethod": [

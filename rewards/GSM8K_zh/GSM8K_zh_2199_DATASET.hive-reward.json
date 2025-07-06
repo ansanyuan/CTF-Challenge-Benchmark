@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jonas正在尝试扩展他的衣柜。他有20双袜子，5双鞋子，10条裤子和10件T恤。为了使他的衣柜中的单品数量翻倍，他需要买多少双袜子？。",
+  "topic": "回答下面的数学问题：Jonas is trying to expand his wardrobe.  He has 20 pairs of socks, 5 pairs of shoes, 10 pairs of pants and 10 t-shirts.  How many pairs of socks does he need to buy to double the number of individual items in his wardrobe?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安妮有6个发夹，比发夹多两倍的发卡圈，比发夹少三个发夹别针。她的发饰中有百分之多少的是发夹别针，四舍五入到最接近的百分比是多少？。",
+  "topic": "回答下面的数学问题：Annie has 6 barrettes, twice as many scrunchies as barrettes, and three fewer bobby pins than barrettes. What percentage of her hair decorations are bobby pins, rounded to the nearest percent?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

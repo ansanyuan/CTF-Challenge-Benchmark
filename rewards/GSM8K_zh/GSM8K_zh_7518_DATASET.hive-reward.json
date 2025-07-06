@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：查理想要卖蜂蜡蜡烛。每磅蜂蜡，他可以制作10根锥形蜡烛。一磅蜂蜡和灯芯的材料成本是10美元。如果他每根蜡烛卖2美元，那么如果他制作并卖出20根蜡烛，他的净利润是多少？。",
+  "topic": "回答下面的数学问题：Charlie wants to sell beeswax candles.  For every pound of beeswax, he can make 10 tapered candles.  One pound of beeswax and the wicks cost $10.00 in supplies.   If he sells each candle for $2.00 each, what is his net profit if he makes and sells 20 candles?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

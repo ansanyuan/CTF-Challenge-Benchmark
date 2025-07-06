@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：早鸟晚餐在下午2-4点用餐时提供半价的晚餐。柯蒂斯点了售价16.00美元的索尔兹伯里牛排，罗布点了售价18.00美元的炸鸡排。如果他们在下午3点用餐，他们的总账单费用是多少？。",
+  "topic": "回答下面的数学问题：The Early Bird Dinner offered dinner meals at half off the menu price if you eat between 2-4 pm.  Curtis ordered the Salisbury Steak that costs $16.00 and Rob ordered the Chicken Fried Steak at $18.00.  If they ate at 3 pm, what was the cost of their total bill?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

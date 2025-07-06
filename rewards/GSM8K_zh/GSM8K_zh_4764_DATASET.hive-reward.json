@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：戴夫买了8本关于动物的书，6本关于外太空的书，和3本关于火车的书，以在假期里让自己保持忙碌。每本书的价格是6美元。戴夫在这些书上花了多少钱？。",
+  "topic": "回答下面的数学问题：Dave bought 8 books about animals, 6 books about outer space, and 3 books about trains to keep him busy over the holidays. Each book cost $6. How much did Dave spend on the books?",
   "checkpoint": [
     {
-      "$\\boxed{102}$": 1
+      "\\boxed{102}": 1
     }
   ],
   "matchingmethod": [

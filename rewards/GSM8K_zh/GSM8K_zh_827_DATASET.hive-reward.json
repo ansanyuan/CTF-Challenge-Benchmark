@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯在社区大学每学期修20个学分。如果每个学分的费用是50美元，他两个学期一共要支付多少钱？。",
+  "topic": "回答下面的数学问题：James takes 20 units per semester at community college.  If each unit costs $50 how much does he pay for 2 semesters?",
   "checkpoint": [
     {
-      "$\\boxed{2000}$": 1
+      "\\boxed{2000}": 1
     }
   ],
   "matchingmethod": [

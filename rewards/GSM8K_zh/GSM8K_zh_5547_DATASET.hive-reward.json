@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：谢莉有十张10美元的钞票，比5美元的钞票少4张。谢莉总共有多少钱？。",
+  "topic": "回答下面的数学问题：Shelly has ten $10 bills and four fewer $5 bills. How much money does Shelly have in all?",
   "checkpoint": [
     {
-      "$\\boxed{130}$": 1
+      "\\boxed{130}": 1
     }
   ],
   "matchingmethod": [

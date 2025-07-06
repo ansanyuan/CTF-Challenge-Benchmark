@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：作为自由职业者，凯瑟琳花了20个小时为她的客户开发一个网站。她的助手，娜奥米，花了1/4倍的时间来完成一个类似的网站。如果在一年中有许多客户需要她建立他们的网站，并且她让她的助手开发30个网站，计算凯瑟琳的助手总共花了多少小时来创建这30个网站。。",
+  "topic": "回答下面的数学问题：As a freelancer, Katherine takes 20 hours to develop a website for her clients. Her junior, Naomi, takes 1/4 times more time to complete creating a similar website. If many clients required her to build their websites in a particular year, and she gave her junior 30 websites to develop, calculate the total number of hours Katherine's junior took to create the 30 websites.",
   "checkpoint": [
     {
-      "$\\boxed{750}$": 1
+      "\\boxed{750}": 1
     }
   ],
   "matchingmethod": [

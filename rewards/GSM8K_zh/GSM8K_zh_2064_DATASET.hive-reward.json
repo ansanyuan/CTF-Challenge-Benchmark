@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝丝和霍利在公园里玩飞盘。贝丝能将飞盘扔出20米远，她一共扔了4次。霍利只能将飞盘扔出8米远，她一共扔了5次。每次贝丝扔飞盘后，她都会将其扔回原来的位置。霍利每次扔飞盘后都将其留在落地的位置。飞盘一共飞行了多少米？。",
+  "topic": "回答下面的数学问题：Bess and Holly are playing Frisbee at the park. Bess can throw the Frisbee as far as 20 meters and she does this 4 times. Holly can only throw the Frisbee as far as 8 meters and she does this 5 times. Each time Bess throws a Frisbee, she throws it back to her original position. Holly leaves her Frisbee where it lands every time she throws it. In total, how many meters have the thrown Frisbees traveled?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

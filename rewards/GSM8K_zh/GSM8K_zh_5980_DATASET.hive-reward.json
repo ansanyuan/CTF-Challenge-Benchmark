@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：六年级学生的平均GPA是93，七年级学生的平均GPA比六年级学生高2分，八年级学生的平均GPA是91。学校的平均GPA是多少？。",
+  "topic": "回答下面的数学问题：The average GPA for 6th graders is 93, the 7th graders is 2 more than the 6th graders and the 8th graders average GPA is 91.  What is the average GPA for the school?",
   "checkpoint": [
     {
-      "$\\boxed{93}$": 1
+      "\\boxed{93}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在义卖会上，塔玛拉从布朗尼中赚了32美元。她做了2盘布朗尼，全部卖完了。布朗尼被切成8个大方块。每个布朗尼的价格是多少？。",
+  "topic": "回答下面的数学问题：At the bake sale, Tamara makes $32 from the brownies. She made 2 pans of brownies which were all sold.  The brownies were cut into 8 big square pieces.  How much did each brownie cost?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

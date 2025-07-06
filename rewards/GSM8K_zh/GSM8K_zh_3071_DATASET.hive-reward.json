@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布里安娜一开始有一个装有24颗弹珠的袋子。她通过袋子上的一个洞失去了四颗弹珠。然后，她送出了比她通过袋子上的洞失去的弹珠数量的两倍。最后，她的狗吃掉了比布里安娜通过袋子上的洞失去的弹珠数量的一半。布里安娜剩下多少颗弹珠？。",
+  "topic": "回答下面的数学问题：Brianna started out with a bag of 24 marbles.  She lost four marbles through a hole in the bag.  Then, she gave away twice as many marbles as she had lost through the hole in the bag.  Finally, her dog ate half as many marbles as Brianna had lost through the hole in the bag.  How many marbles did Brianna have remaining?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

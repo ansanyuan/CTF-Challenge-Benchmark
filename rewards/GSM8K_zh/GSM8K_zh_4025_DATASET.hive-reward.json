@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jodi开始每周6天走1英里。第二周，她每天走2英里，每周6天。第三周，她每天走3英里，每周6天。最后一周，她每天走4英里，每周6天。她在4周内一共走了多少英里？。",
+  "topic": "回答下面的数学问题：Jodi starts off walking 1 mile a day for 6 days a week.  On the second week, she walks 2 miles a day, 6 days a week.  On the third week, she walks 3 miles a day, 6 days a week. Finally on the fourth week, she walks 4 miles a day, 6 days a week.  How many miles has she walked in 4 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个有200只动物的牧场里，有40头奶牛，56只绵羊和山羊。有多少只山羊？。",
+  "topic": "回答下面的数学问题：In a field where there are 200 animals, there are 40 cows, 56 sheep and goats. How many goats are there?",
   "checkpoint": [
     {
-      "$\\boxed{104}$": 1
+      "\\boxed{104}": 1
     }
   ],
   "matchingmethod": [

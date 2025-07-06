@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：琼正在为家庭聚餐准备三明治。她决定做火腿三明治和烤奶酪三明治。一个火腿三明治需要2片奶酪，一个烤奶酪三明治需要3片奶酪。她用了总共50片奶酪来做三明治。如果她做了10个火腿三明治，她做了多少个烤奶酪三明治？。",
+  "topic": "回答下面的数学问题：Joan is preparing sandwiches for a family potluck. She decides to make ham sandwiches and grilled cheese sandwiches. One ham sandwich requires 2 slices of cheese, and one grilled cheese sandwich requires 3 slices of cheese. She uses a total of 50 slices of cheese to make the sandwiches. If she makes 10 ham sandwiches, how many grilled cheese sandwiches does she make?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

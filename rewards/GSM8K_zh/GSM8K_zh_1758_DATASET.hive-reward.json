@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Arthur知道他需要在暑假期间完成800页的阅读。他已经读完了一本500页书的80%，以及一本1000页书的1/5。他还需要再读多少页才能达到他的目标？。",
+  "topic": "回答下面的数学问题：Arthur knows that he needs to finish 800 pages of reading over the summer. He has read 80% of a 500-page book and 1/5 of a 1000 page book. How many more pages does he need to reach to meet his goal?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

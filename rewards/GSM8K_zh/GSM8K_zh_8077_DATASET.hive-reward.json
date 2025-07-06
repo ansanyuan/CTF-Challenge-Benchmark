@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ruiz两小时内可以制作120磅巧克力。Marissa一个小时制作的巧克力磅数是Ruiz两小时制作量的3/4。如果他们一天工作12小时，计算他们一起制作的巧克力总磅数。。",
+  "topic": "回答下面的数学问题：Ruiz can make 120 pounds of chocolates in two hours. Marissa makes 3/4 times as many pounds of chocolates in an hour as Ruiz makes in the two hours. If they worked for 12 hours in a day, calculate the total amount of chocolate pounds they made together.",
   "checkpoint": [
     {
-      "$\\boxed{1800}$": 1
+      "\\boxed{1800}": 1
     }
   ],
   "matchingmethod": [

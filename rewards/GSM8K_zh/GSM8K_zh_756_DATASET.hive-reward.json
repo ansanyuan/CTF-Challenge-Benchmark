@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆以每小时2英里的速度游泳了2小时。然后他以4倍的速度跑了一半的时间。他总共游了多少英里？。",
+  "topic": "回答下面的数学问题：Tom swims for 2 hours at a speed of 2 miles per hour.  He then runs for half the time at 4 times the speed.  How many miles did he cover?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

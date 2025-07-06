@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰瑞正在为一个有三个角色的小品写剧本。第一个角色比第二个角色多8行。第三个角色只有两行台词。第二个角色比第三个角色的台词数量的三倍多6行。杰瑞的小品剧本中第一个角色有多少行？。",
+  "topic": "回答下面的数学问题：Jerry is writing a script for a skit with three characters. The first character has eight more lines than the second character. The third character only has two lines. The second character has six more than three times the number of lines the third character has. How many lines does the first character in Jerry’s skit script have?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

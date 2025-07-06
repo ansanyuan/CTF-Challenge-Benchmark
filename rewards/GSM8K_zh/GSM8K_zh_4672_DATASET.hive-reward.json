@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：披萨外卖员需要送出12份披萨。如果其中两个地方的订单是两份披萨，其余的都是一份披萨，外卖员需要平均每个地方花多少分钟才能在40分钟内送完所有披萨？。",
+  "topic": "回答下面的数学问题：The pizza delivery person has 12 pizzas to deliver.  If two of the stops are for orders of two pizzas and the rest are for single pizzas, how many minutes per stop does the delivery person need to average to deliver all of the pizzas in 40 minutes?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

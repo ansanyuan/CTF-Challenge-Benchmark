@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Adrien的总薪水比Lylah的高出30%。四年后，他的薪水增加了，比四年前多赚了40%。如果Adrien和Lylah的薪水同时增加，而Adrien四年前赚了40000美元，计算四年后这两个人的总薪水是多少？。",
+  "topic": "回答下面的数学问题：Adrien's total salary was 30 percent higher than Lylah's. Four years later, his salary had increased, and he was earning 40% more than what he was making four years ago. If Adrien's and Lylah's salary increased simultaneously, and Adrien earned $40000 four years ago, calculate the total salary the two were receiving four years later?",
   "checkpoint": [
     {
-      "$\\boxed{95200}$": 1
+      "\\boxed{95200}": 1
     }
   ],
   "matchingmethod": [

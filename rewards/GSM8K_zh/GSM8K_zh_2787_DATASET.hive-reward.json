@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆决定去旅行。在这次旅行中，他需要穿过一片湖，单程需要4小时。在这段时间里，汤姆需要一位助手帮助他渡湖。雇佣一位助手的费用是每小时10美元。汤姆需要为来回渡湖的帮助支付多少钱？。",
+  "topic": "回答下面的数学问题：Tom decided to go on a trip. During this trip, he needs to cross a lake, which in one direction takes 4 hours. During this time, Tom needs an assistant to help him with the crossing. Hiring an assistant costs $10 per hour. How much would Tom have to pay for help with crossing the lake back and forth?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

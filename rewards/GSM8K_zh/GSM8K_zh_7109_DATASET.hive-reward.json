@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：作为一个孩子，Bobby每分钟能跳绳30次。现在他已经长大了，他每秒钟能跳1次。Bobby现在能比小时候多跳多少次？。",
+  "topic": "回答下面的数学问题：As a child, Bobby was able to jump rope 30 times per minute. Now that he is an adult, he can jump 1 jump per second. How many more jumps than when he was a child is Bobby able to jump now that he is an adult?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

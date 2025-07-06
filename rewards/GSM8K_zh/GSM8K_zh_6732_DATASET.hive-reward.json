@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布列塔尼比丽贝卡大3岁，丽贝卡今年25岁。布列塔尼去度假4年。她从度假回来时多大？。",
+  "topic": "回答下面的数学问题：Brittany is older than Rebecca by 3 years, who is 25. Brittany goes on a 4-year vacation. How old is Brittany when she returns from her vacation?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

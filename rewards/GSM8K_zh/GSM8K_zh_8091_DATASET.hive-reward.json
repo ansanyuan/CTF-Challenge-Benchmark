@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：普林斯是一名屠夫。他每工作一小时就卖出15公斤的肉，他每天工作10小时。他的朋友比尔送给他一头重750公斤的公牛。普林斯需要多少天才能卖完比尔公牛的肉？。",
+  "topic": "回答下面的数学问题：Prince is a butcher. He sells 15kg of meat every hour he works, and he works 10 hours a day. His friend Bill gives him a bull that weighs 750kg. How many days will it take Prince to sell the meat from Bill's bull?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

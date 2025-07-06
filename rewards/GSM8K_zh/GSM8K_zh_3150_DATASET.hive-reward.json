@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾萨克把他的30米长的丝带切成了6等份。然后他用了4份丝带。有多少米的丝带没有被使用？。",
+  "topic": "回答下面的数学问题：Isaac cut his 30 meters ribbon into 6 equal parts. He then used 4 parts of the ribbon. How many meters of ribbon are not used?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

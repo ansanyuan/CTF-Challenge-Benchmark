@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格里塔工作了40小时，每小时获得12美元。她的朋友丽莎在她的工作中每小时赚15美元。丽莎需要工作多少小时才能赚到与格里塔40小时工作所得相等的报酬？。",
+  "topic": "回答下面的数学问题：Greta worked 40 hours and was paid $12 per hour. Her friend Lisa earned $15 per hour at her job. How many hours would Lisa have to work to equal Greta's earnings for 40 hours?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

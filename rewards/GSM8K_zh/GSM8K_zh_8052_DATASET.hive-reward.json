@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：黛安给了一个数字列车一个起始值20。这个起始值加上数字的一半被除以5，得到的结果乘以起始值减去12。数字列车的最终值是多少？。",
+  "topic": "回答下面的数学问题：Diane gave a number train a starting value of 20. This starting value plus half the number was divided by 5 and the resulting value was multiplied by the starting value minus 12. What was the final value of the number train?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

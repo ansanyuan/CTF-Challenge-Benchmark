@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jerusha赚的钱是Lottie的4倍。他们两个一共赚了85美元。Jerusha赚了多少钱？用L代表Lottie的收入。。",
+  "topic": "回答下面的数学问题：Jerusha earned 4 times as much money as Lottie. Together they earned $85. How many dollars did Jerusha earn? Use L to represent Lottie's earnings.",
   "checkpoint": [
     {
-      "$\\boxed{68}$": 1
+      "\\boxed{68}": 1
     }
   ],
   "matchingmethod": [

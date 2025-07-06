@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：农场的母鸡数量是公鸡数量的9倍减5。如果总共有75只鸡，那么有多少只母鸡？。",
+  "topic": "回答下面的数学问题：A farm has 5 less than 9 times the amount of hens as roosters.  If there are 75 total chickens, how many hens are there?",
   "checkpoint": [
     {
-      "$\\boxed{67}$": 1
+      "\\boxed{67}": 1
     }
   ],
   "matchingmethod": [

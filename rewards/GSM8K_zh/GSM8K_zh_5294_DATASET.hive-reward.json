@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯蒂正在做需要3磅面粉的面包。希拉正在做另一种需要多2磅面粉的面包。他们一共需要多少磅面粉？。",
+  "topic": "回答下面的数学问题：Katie is making bread that needs 3 pounds of flour. Sheila is making another kind of bread that needs 2 more pounds of flour. How many pounds of flour do they need together?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

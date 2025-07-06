@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kekai的家人正在举行一场旧货出售。Kekai卖了5件衬衫和5条裤子。每件衬衫售价1美元，每条裤子售价3美元。如果Kekai把他卖衣服所赚的钱的一半给他的父母，Kekai还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Kekai's family is having a garage sale. Kekai sells 5 shirts and 5 pairs of pants. Each shirt sells for $1, and each pair of pants sells for $3. If Kekai gives his parents half of the money he earns from selling his clothes, how much money does Kekai have left?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

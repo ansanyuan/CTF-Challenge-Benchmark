@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：戈默吃了比23勺土豆泥少5勺。如果制作比3勺土豆泥少1勺的土豆泥需要比6个土豆少3个，那么戈默吃了多少个土豆？。",
+  "topic": "回答下面的数学问题：Gomer ate 5 less than 23 scoops of mashed potatoes.  If it takes 3 less than 6 potatoes to make 1 less than 3 scoops of mashed potatoes, how many potatoes did Gomer eat?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Berry好奇他一周的平均体温是多少。星期天他的体温是99.1。星期一他的体温是98.2。星期二他的体温是98.7。星期三他的体温是99.3。星期四他的体温是99.8。星期五他的体温是99。星期六他的体温是98.9。他这周的平均体温是多少？。",
+  "topic": "回答下面的数学问题：Berry is curious about what his average temperature is during the week. On Sunday his temperature is 99.1. On Monday his temperature is 98.2. On Tuesday his temperature is 98.7. On Wednesday his temperature is 99.3. On Thursday his temperature is 99.8. On Friday his temperature is 99. On Saturday his temperature is 98.9. What is his average temperature that week?",
   "checkpoint": [
     {
-      "$\\boxed{99}$": 1
+      "\\boxed{99}": 1
     }
   ],
   "matchingmethod": [

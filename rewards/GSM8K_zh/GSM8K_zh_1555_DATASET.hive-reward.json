@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰瑞的桌子上有一堆半空的汽水罐。他需要把它们全部倒空并放进回收箱。他一次可以拿四罐，倒空这四罐需要30秒。他走到水槽和回收箱的来回每次需要十秒。如果杰瑞的桌子上有28罐，他需要多长时间才能把它们全部倒掉？。",
+  "topic": "回答下面的数学问题：Jerry has a bunch of half-empty soda cans on his desk. He needs to drain all of them and put them in the recycling bin. He can carry four cans at once, and it takes him 30 seconds to drain those 4 cans. It takes him ten seconds each way to walk to the sink and recycling bin and then back to his desk. If there are 28 cans on Jerry's desk, how long does it take him to throw all of them away?",
   "checkpoint": [
     {
-      "$\\boxed{350}$": 1
+      "\\boxed{350}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果克洛弗每天早上散步1.5英里，然后晚上再散步1.5英里，那么他30天内会走多少英里？。",
+  "topic": "回答下面的数学问题：If Clover goes for a 1.5-mile walk in the morning and another 1.5-mile walk in the evening, every day, how many miles does he walk in 30 days?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

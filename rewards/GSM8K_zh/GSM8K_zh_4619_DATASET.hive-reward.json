@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迪克斯特用篮球卡片填充了比足球卡片少3个塑料盒。他用篮球卡片填充了9个盒子，每个盒子有15张卡片。对于足球卡片的盒子，他每个盒子填充了20张卡片。迪克斯特总共有多少张卡片？。",
+  "topic": "回答下面的数学问题：Dexter filled 3 fewer plastic boxes with football cards than basketball cards. He filled 9 boxes with basketball cards and each box has 15 cards. For the boxes with football cards, he filled each box with 20 cards. How many cards does Dexter have in total?",
   "checkpoint": [
     {
-      "$\\boxed{255}$": 1
+      "\\boxed{255}": 1
     }
   ],
   "matchingmethod": [

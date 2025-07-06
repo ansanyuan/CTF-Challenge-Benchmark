@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鸭子每周需要吃掉3.5磅的昆虫才能生存。如果有一群十只鸭子，它们每天需要多少磅的昆虫？。",
+  "topic": "回答下面的数学问题：Ducks need to eat 3.5 pounds of insects each week to survive. If there is a flock of ten ducks, how many pounds of insects do they need per day?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

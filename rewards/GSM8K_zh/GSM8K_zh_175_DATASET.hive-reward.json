@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：电影票在星期一每张5美元，在星期三是星期一的两倍，在星期六是星期一的五倍。如果格伦在星期三和星期六去电影院，他一共花了多少钱？。",
+  "topic": "回答下面的数学问题：Movie tickets cost $5 each on a Monday, twice as much on a Wednesday, and five times as much as Monday on a Saturday. If Glenn goes to the movie theater on Wednesday and Saturday, how much does he spend?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

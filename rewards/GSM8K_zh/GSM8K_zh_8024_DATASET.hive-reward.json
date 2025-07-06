@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家商店出售学校用品。一个笔记本的售价是每个1.50美元，一支笔的售价是每个0.25美元，一个计算器的售价是每个12美元，一个几何套装的售价是10美元。丹尼尔是一名工程学学生，他想买五个笔记本，两支笔，一个计算器和一个几何套装。商店对所有购买的物品给予10%的折扣。丹尼尔想买的所有物品需要花费多少钱？。",
+  "topic": "回答下面的数学问题：A shop sells school supplies. One notebook is sold at $1.50 each, a pen at $0.25 each, a calculator at $12 each, and a geometry set at $10. Daniel is an engineering student, and he wants to buy five notebooks, two pens, one calculator, and one geometry set. The shop gives a 10% discount on all the purchased items. How much does Daniel have to spend on all the items he wants to buy?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

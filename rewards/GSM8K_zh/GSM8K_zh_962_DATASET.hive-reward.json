@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Johnny TV每年制作的电影比L&J Productions多25%。如果L&J Productions一年制作220部电影，那么两家制作公司在五年内共制作了多少部电影？。",
+  "topic": "回答下面的数学问题：Johnny TV makes 25 percent more movies than L&J Productions each year. If  L&J Productions produces 220 movies in a year, how many movies does the two production companies produce in five years combined?",
   "checkpoint": [
     {
-      "$\\boxed{2475}$": 1
+      "\\boxed{2475}": 1
     }
   ],
   "matchingmethod": [

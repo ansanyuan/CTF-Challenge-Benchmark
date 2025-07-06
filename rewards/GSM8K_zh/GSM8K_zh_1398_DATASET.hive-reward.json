@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marly正在做汤。他加入了2夸脱的牛奶和三倍于1夸脱纯蔬菜泥的鸡肉高汤。然后他将汤分成每袋可以装3夸脱的袋子。他需要多少袋？。",
+  "topic": "回答下面的数学问题：Marly is making soup. He adds 2 quarts of milk and three times as much chicken stock to 1 quart of pureed vegetables. Then he divides the soup into bags that can hold 3 quarts each. How many bags does he need?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

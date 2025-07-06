@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个由4名画家组成的团队每天工作3/8天，连续工作了3周。每位画家投入了多少小时的工作？。",
+  "topic": "回答下面的数学问题：A team of 4 painters worked on a mansion for 3/8ths of a day every day for 3 weeks. How many hours of work did each painter put in?",
   "checkpoint": [
     {
-      "$\\boxed{189}$": 1
+      "\\boxed{189}": 1
     }
   ],
   "matchingmethod": [

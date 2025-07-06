@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在史密斯家一个月内，凯莉使用了3条浴巾，她的两个女儿一共使用了6条浴巾，她的丈夫使用了3条浴巾。如果洗衣机一次可以装4条浴巾，史密斯一家需要洗多少次衣服才能清洗干净所有使用过的毛巾？。",
+  "topic": "回答下面的数学问题：In one month in the Smith house, Kylie uses 3 bath towels, her 2 daughters use a total of 6 bath towels, and her husband uses a total of 3 bath towels. If the washing machine can fit 4 bath towels for one load of laundry, how many loads of laundry will the Smiths need to do to clean all of their used towels?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三个兄弟姐妹相继出生，每个相隔5年。如果大哥现在20岁，那么10年后三个兄弟姐妹的年龄总和是多少？。",
+  "topic": "回答下面的数学问题：Three siblings are born 5 years apart, each. If the eldest child is 20 years old now, what's the total of the ages of the three siblings 10 years from now?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

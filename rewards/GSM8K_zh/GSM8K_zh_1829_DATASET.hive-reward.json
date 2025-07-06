@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约瑟夫投资了1000美元到一个对冲基金。该基金承诺每年的利率为10%。如果他每个月额外存入100美元到账户以增加他最初的1000美元投资，两年后他将在基金中有多少钱？。",
+  "topic": "回答下面的数学问题：Joseph invested $1000 into a hedge fund. The fund promised a yearly interest rate of 10%. If he deposited an additional $100 every month into the account to add to his initial investment of $1000, how much money will he have in the fund after two years?",
   "checkpoint": [
     {
-      "$\\boxed{3982}$": 1
+      "\\boxed{3982}": 1
     }
   ],
   "matchingmethod": [

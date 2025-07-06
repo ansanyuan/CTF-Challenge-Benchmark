@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：昨晚，奥利夫给手机充电了10小时。假设每小时的充电可以让手机使用2小时，计算奥利夫在手机关机之前能够使用手机的总时间，假设她给手机充电的时间是昨晚的3/5。。",
+  "topic": "回答下面的数学问题：Last night, Olive charged her phone for 10 hours. Assuming each hour of charge lasts the phone 2 hours of use, calculate the total time Olive would be able to use her phone before it goes off if she charges it for 3/5 of the time she charged the phone last night.",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

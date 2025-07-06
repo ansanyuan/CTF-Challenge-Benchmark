@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰拿了一根20英尺长的原木并将其切成两半。如果每英尺的原木重量为150磅，那么每个切割的部分重量是多少？。",
+  "topic": "回答下面的数学问题：John takes a 20-foot log and cuts it in half.  If each linear foot of the log weighs 150 pounds how much does each cut piece weigh?",
   "checkpoint": [
     {
-      "$\\boxed{1500}$": 1
+      "\\boxed{1500}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jessica的班级要去农场进行实地考察。学校将带领班级的35名学生和4名成年监护人前往。学生的农场门票费用为5美元，成年人为6美元。学校总共需要支付多少农场门票费用？。",
+  "topic": "回答下面的数学问题：Jessica’s class is going to a farm for a field trip. The school will bring all 35 students in the class plus 4 adult chaperones. The farm entrance fee for students costs $5 and $6 for adults. How much will the school pay for the farm entrance in all?",
   "checkpoint": [
     {
-      "$\\boxed{199}$": 1
+      "\\boxed{199}": 1
     }
   ],
   "matchingmethod": [

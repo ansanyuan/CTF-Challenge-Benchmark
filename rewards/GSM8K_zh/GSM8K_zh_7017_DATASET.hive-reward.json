@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：按照目前的增长速率，一棵特定的植物在一年后将长到80英尺高。如果植物每个月以相同的速率生长，并且目前高20英尺，那么它的每月增长速率是多少英尺？。",
+  "topic": "回答下面的数学问题：At its current growth rate, a certain plant will be 80 feet tall after a year. If the plant grows at the same rate every month and is currently 20 feet tall, what's its monthly growth rate in feet?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

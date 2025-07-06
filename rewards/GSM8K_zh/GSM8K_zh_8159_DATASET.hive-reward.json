@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Catherine去了杂货店。她买了1公斤的苹果，花了4美元，2公斤的香蕉，每公斤2美元，以及2公斤的橙子，每公斤3美元。她总共支付了多少美元？。",
+  "topic": "回答下面的数学问题：Catherine goes to the grocery store. She buys 1 kilo of apples for $4, 2 kilos of bananas for $2 per kilo, and 2 kilos of oranges for $3 per kilo. How many dollars does she pay in total?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

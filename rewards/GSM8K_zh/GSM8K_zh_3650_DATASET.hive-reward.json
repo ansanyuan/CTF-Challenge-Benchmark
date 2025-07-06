@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：本叔在他的农场上有440只鸡。有39只公鸡，其余的是母鸡。他的母鸡中有15只不下蛋，其余的下蛋。如果每只下蛋的母鸡每天下3个蛋，本叔会有多少个蛋？。",
+  "topic": "回答下面的数学问题：Uncle Ben has 440 chickens on his farm. 39 are roosters and the rest are hens. 15 of his hens do not lay eggs, and the rest do. If each egg-laying hen lays 3 eggs, how many eggs will Uncle Ben have?",
   "checkpoint": [
     {
-      "$\\boxed{1158}$": 1
+      "\\boxed{1158}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Shyne每个种子包可以种植14个茄子和10朵向日葵。她买了4个茄子种子包和6个向日葵种子包，Shyne能在她的后院种植多少植物？。",
+  "topic": "回答下面的数学问题：Shyne can grow 14 eggplants in every seed packet and 10 sunflowers in every seed packet. She bought 4 seed packets of eggplants and 6 seed packets of sunflower, how many plants can Shyne grow in her backyard?",
   "checkpoint": [
     {
-      "$\\boxed{116}$": 1
+      "\\boxed{116}": 1
     }
   ],
   "matchingmethod": [

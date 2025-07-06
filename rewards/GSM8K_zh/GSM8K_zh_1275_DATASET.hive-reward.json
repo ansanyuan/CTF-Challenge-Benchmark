@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在艾斯梅的学校，有30名老师和45名员工。一个星期一早上，The Best Pizza Inn为员工和老师带来了披萨作为促销活动。如果3分之2的老师和4分之5的员工吃了披萨，那么在艾斯梅的学校有多少人没有吃披萨？。",
+  "topic": "回答下面的数学问题：At Esme's school, there are 30 teachers and 45 staff members. On a Monday morning, The Best Pizza Inn brought pizza for the staff and teachers as a promotion offer. If 2/3 of the teachers and 4/5 of the staff members ate Pizza, how many non-pizza eaters are at Esme's school?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

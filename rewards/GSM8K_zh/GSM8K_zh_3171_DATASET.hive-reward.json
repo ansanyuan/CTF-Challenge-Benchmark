@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Karen一直在努力阻止浣熊进入她的垃圾。她尝试的第一个锁让它们停顿了5分钟。下一个锁让它们停顿的时间比第一个锁的三倍少3分钟。当Karen同时尝试两个锁时，它让浣熊停顿的时间是第二个锁单独的五倍。这段时间有多长？。",
+  "topic": "回答下面的数学问题：Karen is constantly trying to stop the raccoons from getting in her trash. The first lock she tries stalls them for 5 minutes. The next lock stalls them for 3 minutes less than three times as long as the first lock. When Karen tries both locks at once, it stalled the raccoons for five times as long as the second lock alone. How long is that?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

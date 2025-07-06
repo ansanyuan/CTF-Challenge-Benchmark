@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗比不喜欢棕色的M&M巧克力，他不吃棕色的M&M巧克力。在他的第一个袋子里，他放了9颗棕色的M&M巧克力。在第二个袋子里，他放了12颗。在第三和第四个袋子里，有8颗棕色的M&M巧克力他不吃。在第五个袋子里，只有3颗棕色的M&M巧克力他不吃。每个袋子里的棕色M&M巧克力的平均数量是多少？。",
+  "topic": "回答下面的数学问题：Robby doesn't like the color brown and will not eat the brown M&M's.  On his first bag, he sets aside  9 brown M&M's.  On the second bag, he sets aside 12.  On his third & fourth bag, there are 8 brown M&M's that he doesn't eat. On his fifth bag, there are only 3 brown M&M's that he doesn't eat.  What's the average number of brown M&M's in a bag?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

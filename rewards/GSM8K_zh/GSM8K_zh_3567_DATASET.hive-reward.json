@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个班级有60名学生。带午餐的学生人数是在学校餐厅就餐人数的三倍。其余的学生不吃午餐。如果有10名学生在学校餐厅就餐，那么不吃午餐的学生有多少人？。",
+  "topic": "回答下面的数学问题：A class has 60 students. The number of students who bring their lunch is thrice the number of those who eat in the school cafeteria. The rest of the students don't eat lunch. If 10 students eat in the school cafeteria, how many don't eat lunch?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

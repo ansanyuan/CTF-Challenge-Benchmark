@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：桌子上有10本书。其中五分之二是阅读书，三分之一是数学书。科学书比数学书少一本，其余的是历史书。有多少本历史书？。",
+  "topic": "回答下面的数学问题：There are 10 books on the table. Two-fifths of them are reading books and three-tenths of them are math books. There is one fewer science book than math books and the rest are history books. How many history books are there?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

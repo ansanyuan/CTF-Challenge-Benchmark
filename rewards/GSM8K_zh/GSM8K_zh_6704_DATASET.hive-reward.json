@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：苏茜图书管理员周三早上坐在她的办公桌前时，有98本书准备借出。同一天，有43本书被借出。第二天，有23本书被归还，但又有5本书被借出。周五，有7本书被归还。苏茜有多少本书？。",
+  "topic": "回答下面的数学问题：When Suzy the librarian sat at her desk on Wednesday morning, she had 98 books ready for checkout. The same day, 43 books were checked out. The following day, 23 books were returned, but 5 books were checked out. On Friday, 7 books were returned. How many books did Suzy have?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

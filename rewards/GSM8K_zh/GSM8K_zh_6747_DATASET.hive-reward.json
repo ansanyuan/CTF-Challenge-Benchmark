@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个俱乐部将增加成员，以便他们的成员人数是现在的两倍再加5。如果俱乐部现在有10名成员，他们需要多少额外的成员？。",
+  "topic": "回答下面的数学问题：A club is going to get additional members so that they will have 5 more than twice their current number of their members. If the club has 10 members now, how many additional members do they need?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jed比Matt大10岁。10年后，Jed将是25岁。他们目前年龄的总和是多少？。",
+  "topic": "回答下面的数学问题：Jed is 10 years older than Matt. In 10 years, Jed will be 25 years old. What is the sum of their present ages?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

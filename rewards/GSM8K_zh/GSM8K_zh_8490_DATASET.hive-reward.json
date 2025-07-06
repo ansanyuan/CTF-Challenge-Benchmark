@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：塔蒂亚娜女士拥有一家杂货店，出售包括胡萝卜在内的各种水果和蔬菜。杂货店里的胡萝卜价格每年会增加原价的5%。如果最初的价格是120美元，那么三年后胡萝卜的价格是多少？（四舍五入到最近的整数）。",
+  "topic": "回答下面的数学问题：Mrs. Tatiana owns a grocery store that sells different fruits and vegetables, which includes carrots. The price of carrots in the grocery store increases by 5% of the original price every year. What would be the price of carrots after three years if it was $120 initially? (Round to the nearest integer)",
   "checkpoint": [
     {
-      "$\\boxed{138}$": 1
+      "\\boxed{138}": 1
     }
   ],
   "matchingmethod": [

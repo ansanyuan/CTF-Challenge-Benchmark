@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果第一座摩天大楼是100年前建造的，距离它建成200周年还有多少年？。",
+  "topic": "回答下面的数学问题：If the first skyscraper was built 100 years ago, how many years in the future will it be 5 years before its 200th anniversary of being built?",
   "checkpoint": [
     {
-      "$\\boxed{95}$": 1
+      "\\boxed{95}": 1
     }
   ],
   "matchingmethod": [

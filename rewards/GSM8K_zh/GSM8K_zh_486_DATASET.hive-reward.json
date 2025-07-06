@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在假期期间，兰斯担任商品推销员。他每周工作35小时，平均分布在5个工作日。如果兰斯每小时赚9美元，他每个工作日赚多少钱？。",
+  "topic": "回答下面的数学问题：During the holidays, Lance works as a merchandiser. He works 35 hours a week, spread equally over 5 workdays. If Lance earns $9 an hour, how much does he make on each workday?",
   "checkpoint": [
     {
-      "$\\boxed{63}$": 1
+      "\\boxed{63}": 1
     }
   ],
   "matchingmethod": [

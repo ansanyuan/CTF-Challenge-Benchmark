@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：要让打印机工作，杰瑞需要添加一个黑白墨盒和三个彩色墨盒。如果每个彩色墨盒的成本是32美元，每个黑白墨盒的成本是27美元，他总共支付了多少钱？。",
+  "topic": "回答下面的数学问题：To get the printer to work, Jerry needs to add a black-and-white cartridge and three color cartridges. If each color cartridge costs $32 and each black-and-white cartridge costs $27, how much does he pay total?",
   "checkpoint": [
     {
-      "$\\boxed{123}$": 1
+      "\\boxed{123}": 1
     }
   ],
   "matchingmethod": [

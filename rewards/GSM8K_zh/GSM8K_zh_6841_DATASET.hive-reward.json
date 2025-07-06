@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍勃本周初有80美元。仅在星期一，他花了一半的钱。星期二，他花了星期一剩下的钱的五分之一。星期三，他花了星期二剩下的钱的三分之八。现在他还剩多少钱？。",
+  "topic": "回答下面的数学问题：Bob started out the week with $80. On Monday alone, he spent half the money. On Tuesday, he spent one-fifth of the amount left from Monday. On Wednesday, he spent 3/8ths of the amount left from Tuesday. How much does he have left now?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

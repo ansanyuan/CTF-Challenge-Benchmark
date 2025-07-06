@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布朗农场主养了大型鸟类鸸鹋。他的鸟群总共有60个头和腿。他的鸟群中有多少只鸸鹋？。",
+  "topic": "回答下面的数学问题：Farmer Brown raises emus, large birds. His flock has a total of 60 heads and legs. How many emus are in his flock?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

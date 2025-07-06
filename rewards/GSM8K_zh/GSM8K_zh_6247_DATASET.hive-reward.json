@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：盒子里有600块饼干。妮可吃了总数的2/5，而爱德华吃了剩下数量的3/5。原始饼干的百分之多少保留了下来？。",
+  "topic": "回答下面的数学问题：There were 600 cookies in a box. Nicole ate 2/5 of the total number of cookies, while Eduardo ate 3/5 of the remaining amount. What percentage of the original cookies remained?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

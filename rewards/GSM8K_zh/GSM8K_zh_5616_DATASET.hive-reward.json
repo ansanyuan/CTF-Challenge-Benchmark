@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯文在工作中修理手机。一天开始时，凯文有15部需要修理的手机。到下午，凯文已成功修理了15部手机中的3部，一个客户又送来了6部需要修理的手机。如果凯文的同事提出帮助他修理一半的损坏手机，每个人需要修理多少部手机？。",
+  "topic": "回答下面的数学问题：Kevin repairs phones at his job. At the beginning of the day, Kevin has 15 phones that need to be repaired. By the afternoon, Kevin has successfully repaired 3 of the 15 phones and a client has dropped off 6 more phones that need fixing. If a coworker of Kevin's offers to help him and fix half of the damaged phones, how many phones will each person need to repair?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

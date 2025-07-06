@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：June在一棵树上找到了2个鸟巢，每个巢里有5个蛋，另一棵树上有1个巢里有3个蛋。她的前院还有一个有4个蛋的巢。她一共找到了多少个鸟蛋？。",
+  "topic": "回答下面的数学问题：June found 2 birds nest with 5 eggs each in 1 tree and 1 nest with 3 eggs in another tree.  There was also a nest with 4 eggs in her front yard.  How many birds eggs did she find?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

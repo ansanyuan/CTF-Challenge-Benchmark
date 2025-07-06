@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当杰森10岁时，他的爸爸是他的四倍年龄，他的妈妈比他爸爸小2岁。杰森出生时他的妈妈多大？。",
+  "topic": "回答下面的数学问题：When Jayson is 10 his dad is four times his age and his mom is 2 years younger than his dad.  How old was Jayson's mom when he was born?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

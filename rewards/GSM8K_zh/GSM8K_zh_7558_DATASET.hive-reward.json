@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个足球队进行了22场比赛。他们赢的比赛比输的多8场。他们赢了多少场？。",
+  "topic": "回答下面的数学问题：A football team played 22 games. They won 8 more than they lost. How many did they win?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

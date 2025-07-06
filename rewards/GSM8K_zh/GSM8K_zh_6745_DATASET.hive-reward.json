@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮维芙从超市货架上挑选了一些樱桃，每公斤8美元。当珍妮维芙到达结账柜台时，她意识到她的总价少了400美元，她的朋友克拉丽丝帮忙补了。如果珍妮维芙身上有1600美元，她买了多少公斤的樱桃？。",
+  "topic": "回答下面的数学问题：Genevieve picked some cherries from the supermarket shelves that cost $8 per kilogram. When Genevieve reached the checkout counter, she realized she was $400 short of the total price and her friend Clarice chipped in. If Genevieve had $1600 on her, how many kilograms of cherries did she buy?",
   "checkpoint": [
     {
-      "$\\boxed{250}$": 1
+      "\\boxed{250}": 1
     }
   ],
   "matchingmethod": [

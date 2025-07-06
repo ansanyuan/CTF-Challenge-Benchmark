@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个农民正在种玉米。他每种植4颗种子，就能得到一根玉米棒，他可以卖1美元。一袋100颗种子的成本是0.5美元。如果他获得40美元的利润，他卖了多少根玉米棒？。",
+  "topic": "回答下面的数学问题：A farmer is growing corn. For every 4 seeds he plants, he gets one ear of corn, that he can sell for $.1. It costs $.5 for a bag with 100 seeds. If he makes $40 in profit, how many ears did he sell?",
   "checkpoint": [
     {
-      "$\\boxed{500}$": 1
+      "\\boxed{500}": 1
     }
   ],
   "matchingmethod": [

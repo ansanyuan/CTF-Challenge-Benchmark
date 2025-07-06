@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tanika正在为她的童子军团的筹款活动出售饼干盒。周六，她卖出了60盒。周日，她比周六多卖了50%。她在这两天总共卖了多少盒？。",
+  "topic": "回答下面的数学问题：Tanika is selling boxes of crackers for her scout troop's fund-raiser. On Saturday, she sold 60 boxes. On Sunday, she sold 50% more than on Saturday. How many boxes did she sell, in total, over the two days?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

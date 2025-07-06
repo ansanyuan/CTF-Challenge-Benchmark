@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Colston知道他的老师喜欢喝咖啡，有一天他想看看她每周喝多少咖啡。他看到她有一个20盎司的保温瓶，当她泡咖啡时，她倒了1/2杯牛奶，然后把咖啡倒满。她每天这样做两次。在为期五天的学校周之后，他决定告诉她，当她听到她喝了多少咖啡后，她决定只喝她平常喝的1/4。她现在每周喝多少盎司的咖啡？。",
+  "topic": "回答下面的数学问题：Colston knows that his teacher loves drinking coffee and one day wants to see how much she drinks each week. He sees that she has a 20-ounce thermos and when she makes her coffee she pours a 1/2 cup of milk in, and then fills the coffee to the top. She does this twice a day. After the five-day school week, he decides to tell her, and when she hears how much coffee she drinks, she decides to drink 1/4 of what she normally drinks. How many ounces of coffee does she now drink a week?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

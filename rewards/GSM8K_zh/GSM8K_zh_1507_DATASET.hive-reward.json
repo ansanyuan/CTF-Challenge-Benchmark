@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂娜做了一大盘布朗尼并切成了24块。她每天在午餐和晚餐各吃了一块，连续5天。她的丈夫每天带一块去上班，连续5天。他们与晚餐客人分享了4块。还剩下多少块布朗尼？。",
+  "topic": "回答下面的数学问题：Tina made a large pan of brownies and cut it into 24 pieces.  She had one with lunch and dinner every day for 5 days.  Her husband snagged one per day for 5 days to take to work.  They shared 4 with dinner guests.  How many brownies were left?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

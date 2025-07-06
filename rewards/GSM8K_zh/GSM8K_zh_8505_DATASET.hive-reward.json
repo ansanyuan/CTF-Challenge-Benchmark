@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：苹果高中今年将在他们的艺术中心举行毕业典礼，该中心可容纳6000人。在为毕业生预留了950个座位和为出席的教职工预留了300个座位后，如果票数平均分配，每位毕业生能得到多少张票给他们的朋友和家人？。",
+  "topic": "回答下面的数学问题：Apple High School is holding graduation in their Fine Arts Center this year which has space for 6000 people.  After accounting for 950 seats for graduates and 300 seats for faculty attending, how many tickets would each graduate receive to give to their friends and family if the tickets are split equally?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

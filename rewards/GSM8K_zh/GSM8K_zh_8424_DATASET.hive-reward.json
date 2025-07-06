@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bahati、Azibo和Dinar每个人都为他们团队的45分做出了贡献。Bahati得分最多，比Azibo多得20分，比Dinar多得10分。Azibo得了多少分？。",
+  "topic": "回答下面的数学问题：Bahati, Azibo, and Dinar each contributed to their team's 45 points. Bahati scored the most points and it was 20 more than Azibo scored and 10 more points than Dinar scored. How many points did Azibo score?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

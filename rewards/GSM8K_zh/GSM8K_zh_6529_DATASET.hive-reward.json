@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在Bertolli农场，他们种植了2073个番茄，4112个玉米棒，和985个洋葱。洋葱的种植数量比番茄和玉米棒的种植数量少多少？。",
+  "topic": "回答下面的数学问题：At the Bertolli Farm, they grow 2073 tomatoes, 4112 cobs of corn, and 985 onions. How many fewer onions are grown than tomatoes and corn together?",
   "checkpoint": [
     {
-      "$\\boxed{5200}$": 1
+      "\\boxed{5200}": 1
     }
   ],
   "matchingmethod": [

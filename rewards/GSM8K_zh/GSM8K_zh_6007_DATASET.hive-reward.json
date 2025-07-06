@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：何塞在他的Windows浏览器中打开了400个标签页。大约浏览了一个小时后，他关闭了1/4的标签页以便更轻松地浏览。他从不同页面阅读了一些新闻，然后关闭了剩下标签页的2/5。如果在进一步分析了一些页面后，他关闭了剩下标签页的一半，那么他还剩下多少个窗口标签页？。",
+  "topic": "回答下面的数学问题：Jose had 400 tabs opened up in his windows browser. After about one hour of browsing, he closed 1/4 of the tabs to allows easy browsing. He read some news from different pages, then closed 2/5 of the remaining tabs. If he closed half of the remaining tabs after further analyzing some pages, how many windows tabs did he have remaining open?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

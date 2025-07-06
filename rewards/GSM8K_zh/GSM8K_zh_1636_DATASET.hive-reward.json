@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特大学第一学期的成绩分别为90、80、70和100。如果她第二学期的平均成绩为82%，那么她第一学期的平均成绩比第二学期的平均成绩高多少？。",
+  "topic": "回答下面的数学问题：Janet's grades for her first semester of college were 90, 80, 70, and 100. If her semester 2 average was 82 percent, how much higher was her semester 1 average compared to her semester 2 average?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

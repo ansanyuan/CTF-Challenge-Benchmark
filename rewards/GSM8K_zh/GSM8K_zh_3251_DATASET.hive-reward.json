@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯分开了4包每包有30张贴纸。每张贴纸的价格是0.10美元。如果他的朋友支付了一半，詹姆斯支付了多少钱？。",
+  "topic": "回答下面的数学问题：James splits 4 packs of stickers that have 30 stickers each.  Each sticker cost $.10.  If his friend pays for half how much did James pay?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

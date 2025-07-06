@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿玛利亚可以在2分钟内读完她书上的4页。她需要多少分钟才能读完她书上的18页？。",
+  "topic": "回答下面的数学问题：Amalia can read 4 pages of her book in 2 minutes. How many minutes will it take her to read 18 pages of her book?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在前往县级寻宝比赛的旅途中，需要90人分成小组才能开始比赛。为了将人们分成有不同领导的小组，形成了9人一组的小组。如果3/5的小组每个成员都带回了2个贝壳，他们总共带回了多少个贝壳？。",
+  "topic": "回答下面的数学问题：At the trip to the county-level scavenger hunt competition, 90 people were required to split into groups for the competition to begin. To break people up into smaller groups with different leaders, 9-person groups were formed. If 3/5 of the number of groups each had members bring back 2 seashells each, how many seashells did they bring?",
   "checkpoint": [
     {
-      "$\\boxed{108}$": 1
+      "\\boxed{108}": 1
     }
   ],
   "matchingmethod": [

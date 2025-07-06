@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：农夫雷德有三头奶牛：贝丝、布朗尼和黛西。贝丝是最小的奶牛，每天给他两桶牛奶。布朗尼是最大的奶牛，产量是贝丝的三倍。然后黛西比贝丝多产一桶。农夫雷德每周从它们那里得到多少桶牛奶？。",
+  "topic": "回答下面的数学问题：Farmer Red has three milk cows: Bess, Brownie, and Daisy. Bess, the smallest cow, gives him two pails of milk every day. Brownie, the largest cow, produces three times that amount. Then Daisy makes one pail more than Bess. How many pails of milk does Farmer Red get from them each week?",
   "checkpoint": [
     {
-      "$\\boxed{77}$": 1
+      "\\boxed{77}": 1
     }
   ],
   "matchingmethod": [

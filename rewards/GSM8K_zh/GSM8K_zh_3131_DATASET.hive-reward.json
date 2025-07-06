@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jace每小时行驶60英里。如果Jace连续行驶4小时，休息30分钟，然后再连续行驶9小时，他将行驶多少英里？。",
+  "topic": "回答下面的数学问题：Jace drives 60 miles per hour. If Jace drives for 4 hours straight, take a 30-minute break, and then drives for another 9 hours straight, how many miles will he travel?",
   "checkpoint": [
     {
-      "$\\boxed{780}$": 1
+      "\\boxed{780}": 1
     }
   ],
   "matchingmethod": [

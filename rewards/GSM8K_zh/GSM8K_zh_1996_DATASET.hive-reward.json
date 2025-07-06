@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：十八小时前，贝丝和我拍摄了我们的项目的100张照片。今天，贝丝和我将拍摄同一个项目的照片少20%。如果我们要拍摄该项目的300张照片，我们需要拍摄多少张照片才能达到目标？。",
+  "topic": "回答下面的数学问题：Eighteen hours ago, Beth and I took 100 photographs of our project. Today, Beth and I will take 20% fewer photographs of the same project. If we were to take 300 photographs of the project, how many photographs would we take to reach the target?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

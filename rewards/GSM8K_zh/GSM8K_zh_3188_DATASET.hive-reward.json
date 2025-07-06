@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：夏天一周工作日起床后做5次太阳礼。她一整年会做多少次太阳礼？。",
+  "topic": "回答下面的数学问题：Summer performs 5 sun salutation yoga poses as soon as she gets out of bed, on the weekdays.  How many sun salutations will she perform throughout an entire year?",
   "checkpoint": [
     {
-      "$\\boxed{1300}$": 1
+      "\\boxed{1300}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：秋天经常把她的铅笔弄丢。在学年初，她购买了一盒20支的铅笔。在开学的第一个月，她弄丢了7支铅笔，折断了3支铅笔并不得不扔掉，她找到了4支，并且买了2支。秋天还剩下多少支铅笔？。",
+  "topic": "回答下面的数学问题：Autumn was constantly misplacing her pencils.  At the start of the school year, she purchased a pack of 20 pencils.  In the first month of school, she misplaced 7 pencils, broke 3 pencils and had to throw them away, she found 4, and bought 2.  How many pencils did Autumn have left?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

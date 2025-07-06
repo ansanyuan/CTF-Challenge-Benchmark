@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿文花了总共800美元买了五只小狗。三只小狗打折，每只150美元。如果这另外两只小狗的价格相同，那么这另外两只小狗每只多少钱？。",
+  "topic": "回答下面的数学问题：Arven bought five puppies for a total cost of $800. Three puppies are on sale for $150 each. How much does each of those two other puppies cost if they cost the same?",
   "checkpoint": [
     {
-      "$\\boxed{175}$": 1
+      "\\boxed{175}": 1
     }
   ],
   "matchingmethod": [

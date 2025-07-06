@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果农民史蒂文可以用他的拖拉机每天耕种多达10英亩的农田，或者用同一台拖拉机每天割草多达12英亩的草地，那么他耕种55英亩的农田和割30英亩的草地需要多长时间？。",
+  "topic": "回答下面的数学问题：If farmer Steven can use his tractor to plow up to 10 acres of farmland per day, or use the same tractor to mow up to 12 acres of grassland per day, how long would it take him to plow his 55 acres of farmland and mow his 30 acres of grassland?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

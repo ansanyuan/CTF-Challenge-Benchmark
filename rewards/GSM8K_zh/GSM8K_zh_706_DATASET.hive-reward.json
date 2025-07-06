@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊莎贝尔的存钱罐里有一些钱。她花掉了一半的钱买了一个玩具。然后她花掉剩下的一半的钱给她弟弟买了一本书。如果她还剩51美元，她一开始有多少钱，以美元计算？。",
+  "topic": "回答下面的数学问题：Isabel has some money in her piggy bank. She spent half the amount and bought a toy. She then spent half of the remaining money and bought her brother a book. If she has $51 left, how much money, in dollars, did she have at first?",
   "checkpoint": [
     {
-      "$\\boxed{204}$": 1
+      "\\boxed{204}": 1
     }
   ],
   "matchingmethod": [

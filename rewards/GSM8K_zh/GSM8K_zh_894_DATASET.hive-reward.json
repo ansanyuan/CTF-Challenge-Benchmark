@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kylie在星期一做了10条串珠项链，星期二做了2条串珠项链。然后Kylie在星期三做了5条串珠手链和7条串珠耳环。制作一条串珠项链需要20颗珠子。制作一条串珠手链需要10颗珠子。制作一条串珠耳环需要5颗珠子。Kylie一共用了多少颗珠子来制作她的珠宝？。",
+  "topic": "回答下面的数学问题：Kylie makes 10 beaded necklaces on Monday and 2 beaded necklaces on Tuesday. Then Kylie makes 5 beaded bracelets and 7 beaded earrings on Wednesday. 20 beads are needed to make one beaded necklace. 10 beads are needed to make one beaded bracelet. 5 beads are needed to make one beaded earring. How many beads does Kylie use in total to make her jewelry?",
   "checkpoint": [
     {
-      "$\\boxed{325}$": 1
+      "\\boxed{325}": 1
     }
   ],
   "matchingmethod": [

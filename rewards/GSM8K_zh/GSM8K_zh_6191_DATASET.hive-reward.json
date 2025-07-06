@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安吉拉在12月每晚睡6.5小时。她决定应该多睡觉，于是在1月开始每晚睡8.5小时。安吉拉在1月多睡了多少小时？。",
+  "topic": "回答下面的数学问题：Angela slept 6.5 hours every night in December. She decided she should get more sleep and began sleeping 8.5 hours a night in January. How much more sleep did Angela get in January?",
   "checkpoint": [
     {
-      "$\\boxed{62}$": 1
+      "\\boxed{62}": 1
     }
   ],
   "matchingmethod": [

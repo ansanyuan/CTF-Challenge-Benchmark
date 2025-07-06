@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安迪种了90株天竺葵和比天竺葵少40株的牵牛花。他总共种了多少株花？。",
+  "topic": "回答下面的数学问题：Andy plants 90 geraniums and 40 fewer petunias that geraniums. How many flowers does he plant total?",
   "checkpoint": [
     {
-      "$\\boxed{140}$": 1
+      "\\boxed{140}": 1
     }
   ],
   "matchingmethod": [

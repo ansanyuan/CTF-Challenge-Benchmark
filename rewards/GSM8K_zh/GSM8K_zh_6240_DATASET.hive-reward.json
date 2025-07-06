@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：弗拉德身高6英尺3英寸。他的妹妹身高2英尺10英寸。弗拉德比他妹妹高多少英寸？。",
+  "topic": "回答下面的数学问题：Vlad is 6 feet, 3 inches tall. His younger sister is 2 feet, 10 inches tall. How many inches taller is Vlad than his sister?",
   "checkpoint": [
     {
-      "$\\boxed{41}$": 1
+      "\\boxed{41}": 1
     }
   ],
   "matchingmethod": [

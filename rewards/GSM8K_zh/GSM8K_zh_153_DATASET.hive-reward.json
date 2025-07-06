@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：报纸的一年订阅以45%的折扣出售。如果订阅正常价格为80美元，折扣后的订阅价格是多少？。",
+  "topic": "回答下面的数学问题：A one-year subscription to a newspaper is offered with a 45% discount. How much does the discounted subscription cost if a subscription normally costs $80?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

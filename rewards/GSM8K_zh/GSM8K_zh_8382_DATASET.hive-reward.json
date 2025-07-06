@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Dean有30个弹珠。他给了Jamie 1/5的弹珠，又给了Donald 10个。Dean剩下多少个弹珠？。",
+  "topic": "回答下面的数学问题：Dean has 30 marbles. He gives 1/5  of them to Jamie and gives 10 to Donald. How many marbles are left for Dean?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：油加热到300度需要20分钟。然后，油加热到理想温度400度需要更长40%的时间。加热油之后，烹饪所需的时间比加热油少5分钟。从开始加热油到炸鸡熟透总共需要多少时间？。",
+  "topic": "回答下面的数学问题：It takes 20 minutes for the oil to heat up to 300 degrees.  It then takes 40% longer for the oil to heat up to the desired temperature of 400 degrees.  After warming the oil it takes 5 minutes less time to cook than it took to warm up the oil.  How much time passes from starting the oil to having cooked chicken?",
   "checkpoint": [
     {
-      "$\\boxed{91}$": 1
+      "\\boxed{91}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莫妮卡去年读了16本书。今年，她读的书的数量是去年的两倍。明年，她想要比今年读的书的数量多5本。莫妮卡明年会读多少本书？。",
+  "topic": "回答下面的数学问题：Monica read 16 books last year. This year, she read twice the number of books she read last year. Next year, she wants to read 5 more than twice the number of books she read this year. How many books will Monica read next year?",
   "checkpoint": [
     {
-      "$\\boxed{69}$": 1
+      "\\boxed{69}": 1
     }
   ],
   "matchingmethod": [

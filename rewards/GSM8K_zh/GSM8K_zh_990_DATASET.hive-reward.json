@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Caleb和Cynthia正在用水桶往他们的充气游泳池里加水。他们在水龙头处装满水桶，然后将其搬到游泳池。Caleb每次可以加7加仑水，Cynthia每次可以加8加仑水。充满游泳池需要105加仑水。Caleb和Cynthia需要用多少次行程才能用水桶填满游泳池？。",
+  "topic": "回答下面的数学问题：Caleb and Cynthia are filling up their inflatable pool with water using buckets. They fill their buckets at the spigot and carry them to the pool. Caleb can add 7 gallons from his bucket and Cynthia can add 8 gallons from her bucket each trip. It will take 105 gallons to fill the pool. How many trips will it take for Caleb and Cynthia to fill the pool with their buckets?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

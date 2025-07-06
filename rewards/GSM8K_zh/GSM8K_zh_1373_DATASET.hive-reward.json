@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Micah每分钟可以打字20个单词，Isaiah每分钟可以打字40个单词。在一个小时内，Isaiah比Micah多可以打字多少个单词？。",
+  "topic": "回答下面的数学问题：Micah can type 20 words per minute and Isaiah can type 40 words per minute. How many more words can Isaiah type than Micah in an hour?",
   "checkpoint": [
     {
-      "$\\boxed{1200}$": 1
+      "\\boxed{1200}": 1
     }
   ],
   "matchingmethod": [

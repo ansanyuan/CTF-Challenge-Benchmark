@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：免费的圣诞装饰正在发放给家庭。每个装饰盒包含4条金银线、1棵圣诞树和5个雪花球。如果有11个家庭收到一个装饰盒，另一个装饰盒送给社区中心，一共发放了多少个装饰物品？。",
+  "topic": "回答下面的数学问题：Free Christmas decorations are being given out to families. Each box of decorations contains 4 pieces of tinsel, 1 Christmas tree and 5 snow globes. If 11 families receive a box of decorations and another box is given to the community center, how many decorations have been handed out?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

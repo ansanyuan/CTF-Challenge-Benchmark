@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周二卖出了12,000个冰淇淋筒。周三卖出的冰淇淋筒数量是周二的两倍。总共卖出了多少个冰淇淋筒？。",
+  "topic": "回答下面的数学问题：On Tuesday, 12,000 ice cream cones were sold. On Wednesday, the number of ice cream cones sold was double the amount sold on Tuesday. How many ice cream cones have been sold in total?",
   "checkpoint": [
     {
-      "$\\boxed{36000}$": 1
+      "\\boxed{36000}": 1
     }
   ],
   "matchingmethod": [

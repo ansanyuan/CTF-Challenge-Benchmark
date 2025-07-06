@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨迪、阿里安娜和莎拉正在进行接力比赛。比赛的每个部分长度不同，覆盖不同的地形。萨迪以每小时3英里的平均速度在森林中跑步花了2小时。阿里安娜以每小时6英里的速度在开阔地段疾跑了半小时。如果莎拉以每小时4英里的速度沿着海滩跑步，她们的比赛总时间是4个半小时，比赛的总距离是多少？。",
+  "topic": "回答下面的数学问题：Sadie, Ariana and Sarah are running a relay race. Each part of the race is a different length and covers different terrain. It takes Sadie 2 hours to run through the forest at an average speed of 3 miles per hour. Ariana sprints across the open field on her section at 6 miles per hour for half an hour. If Sarah runs along the beach at four miles per hour and their total time for the race is four and half hours, what is the total distance of the race?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

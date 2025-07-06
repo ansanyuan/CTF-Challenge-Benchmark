@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个25层楼的建筑每层有4个公寓。如果每个公寓住两个人，这栋建筑共有多少人？。",
+  "topic": "回答下面的数学问题：A 25 story building has 4 apartments on each floor. If each apartment houses two people, how many people does the building house?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰买了3个拼图。第一个拼图有1000块。第二个和第三个拼图有相同数量的块，每个拼图比第一个多50%的块。所有拼图一共有多少块？。",
+  "topic": "回答下面的数学问题：John buys 3 puzzles.  The first puzzle has 1000 pieces.  The second and third puzzles have the same number of pieces and each has 50% more pieces.  How many total pieces are all the puzzles?",
   "checkpoint": [
     {
-      "$\\boxed{4000}$": 1
+      "\\boxed{4000}": 1
     }
   ],
   "matchingmethod": [

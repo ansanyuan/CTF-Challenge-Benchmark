@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔喜欢绘画并出售他的作品。他一幅大画收费100美元，一幅小画收费80美元。在他最后的艺术展上，他卖出了5幅大画和8幅小画。他总共赚了多少钱？。",
+  "topic": "回答下面的数学问题：Michael loves to paint and sells his creations. He charges $100 for a large painting and $80 for a small painting. At his last art show, he sold 5 large paintings and 8 small paintings. How much did he earn in all?",
   "checkpoint": [
     {
-      "$\\boxed{1140}$": 1
+      "\\boxed{1140}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：维克多有8张花贴纸。他比花贴纸少2张动物贴纸。维克多总共有多少张贴纸？。",
+  "topic": "回答下面的数学问题：Victor has 8 flower stickers. He has 2 fewer animal stickers than flower stickers. How many stickers does Victor have in total?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

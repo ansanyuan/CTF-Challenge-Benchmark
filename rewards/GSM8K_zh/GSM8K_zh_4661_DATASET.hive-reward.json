@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alex正在为一辆新车存钱。他已经存了14500美元，而车的价格是14600美元。他决定通过为邻里的人送货来赚取剩下的钱。他每次送货收取1.5美元，然后是货物价格的5%。如果他做了40次送货并且已经存够了，他送了多少美元的货物？。",
+  "topic": "回答下面的数学问题：Alex is saving up for a new car. He already has $14,500 saved up and the car costs $14,600. He decides that to make the last of the money he will deliver groceries for people in the neighborhood.  He charges $1.5 per trip and then 5% of the price of the groceries. If he makes 40 trips and has saved up enough, how many dollars' worth of groceries did he deliver?",
   "checkpoint": [
     {
-      "$\\boxed{800}$": 1
+      "\\boxed{800}": 1
     }
   ],
   "matchingmethod": [

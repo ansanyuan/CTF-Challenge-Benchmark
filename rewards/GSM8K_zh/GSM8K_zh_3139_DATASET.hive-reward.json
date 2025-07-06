@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Milo的父母告诉他，他可以因成绩优异而赢得现金奖励。他将获得他得到的平均成绩的5倍。他得到了三个2，四个3，一个4和一个5。他能得到多少现金？。",
+  "topic": "回答下面的数学问题：Milo's parents tell him that he can win cash rewards for good grades. He will get $5 times the average grade he gets. He gets three 2s, four 3s, a 4, and a 5. How much cash does he get?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

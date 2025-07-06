@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cayley销售各种报纸以获得每份售出的佣金。他从每份《纽约时报》上获得10%的佣金，从每份《华尔街日报》上获得8%的佣金。如果《纽约时报》每份售价5美元，《华尔街日报》每份售价15美元，那么他从销售6份《纽约时报》和10份《华尔街日报》中总共能赚多少佣金？。",
+  "topic": "回答下面的数学问题：Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莉莉和她的家人要出国度假。她的4个兄弟姐妹中每个人都带了2个手提箱，她的父母带了3个手提箱。莉莉决定行李已经太多，她不会带任何行李。整个家庭一共带了多少个手提箱？。",
+  "topic": "回答下面的数学问题：Lily is going abroad on vacation with her family. Each of her 4 siblings is bringing 2 suitcases, and her parents are bringing 3 suitcases. Lily decides that there is already too much luggage and she won't be bringing any. How many suitcases is the entire family bringing on vacation?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Selene购买了两台即时相机，每台110美元，以及三个数字相框，每个120美元。她购买的所有物品都享受5%的折扣。她总共支付了多少钱？。",
+  "topic": "回答下面的数学问题：Selene buys two instant cameras at $110 and three digital photo frames at $120 each. She gets a 5% discount on all the items she purchased. How much does she pay in all?",
   "checkpoint": [
     {
-      "$\\boxed{551}$": 1
+      "\\boxed{551}": 1
     }
   ],
   "matchingmethod": [

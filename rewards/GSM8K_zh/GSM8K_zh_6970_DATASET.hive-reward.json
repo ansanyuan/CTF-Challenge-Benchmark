@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Turner想要坐3次过山车，2次弹射器和1次摩天轮。坐过山车需要4张票，坐弹射器需要4张票，坐摩天轮需要1张票。Turner需要多少张票？。",
+  "topic": "回答下面的数学问题：Turner wants to ride the rollercoaster 3 times, the Catapult 2 times and the Ferris wheel once. It costs 4 tickets to ride the rollercoaster, 4 tickets to ride the Catapult and 1 ticket to ride the Ferris wheel. How many tickets does Turner need?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

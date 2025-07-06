@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carolyn在她窗外的树上数到6只猴子和6只鸟。然后有两只猴子吃掉了一只鸟。现在窗外有百分之多少的动物是猴子？。",
+  "topic": "回答下面的数学问题：Carolyn counts 6 monkeys and 6 birds in the tree outside her window. Then two of the monkeys each eat one bird. What percent of the animals outside her window are monkeys now?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

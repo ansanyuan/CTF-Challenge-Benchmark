@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jerry在掷一个六面骰子。他掷出大于3的数字的概率（用百分比表示）比连续掷出两个偶数的概率高多少？。",
+  "topic": "回答下面的数学问题：Jerry is rolling a six-sided die. How much more likely is it (expressed as a percentage) that he rolls a number greater than 3 than that he rolls two even numbers in a row?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

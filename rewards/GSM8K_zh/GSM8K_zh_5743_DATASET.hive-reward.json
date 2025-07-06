@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jazel有3根棍子。一根棍子长3厘米。第二根棍子是第一根的两倍长，而第三根棍子比第二根棍子短1厘米。当这些棍子放在一起时，Jazel的棍子的总长度是多少？。",
+  "topic": "回答下面的数学问题：Jazel has 3 sticks. One stick is 3 centimeters long. The second stick is twice as long while the third stick is 1 centimeter shorter than the second stick. What is the total length of Jazel's sticks when they are put together?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

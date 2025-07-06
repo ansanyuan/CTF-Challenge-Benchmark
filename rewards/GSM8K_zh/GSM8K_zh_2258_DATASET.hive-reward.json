@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罐子里有4000颗果冻豆。果冻豆的四分之三是红色的，红色果冻豆中四分之一是椰子味的，有多少颗果冻豆是椰子味的？。",
+  "topic": "回答下面的数学问题：There are 4,000 jelly beans in a jar. If three fourths of the jelly beans are red, and one quarter of the red jelly beans are coconut flavored, how many jelly beans are coconut flavored?",
   "checkpoint": [
     {
-      "$\\boxed{750}$": 1
+      "\\boxed{750}": 1
     }
   ],
   "matchingmethod": [

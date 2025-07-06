@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡梅隆在博物馆里带领旅行团。他通常每位游客回答两个问题。今天，他进行了四次导览。早上第一组只有6个人。接下来的一组是一个繁忙的11人团。第三组有8个人，但有一个好奇的人问了平常的三倍的问题。当天最后一组是7人的晚上团。卡梅隆回答了多少问题？。",
+  "topic": "回答下面的数学问题：Cameron guides tour groups in a museum. He usually answers two questions per tourist. Today, he did four tours. The early morning first group was only 6 people. The following group was a busy group of 11. The third group had 8 people, but one was inquisitive and asked three times as many questions as usual. The last group of the day was a late group of 7. How many questions did Cameron answer?",
   "checkpoint": [
     {
-      "$\\boxed{68}$": 1
+      "\\boxed{68}": 1
     }
   ],
   "matchingmethod": [

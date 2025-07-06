@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Maya的组织举办了一个每周一次的农贸市场，为教堂唱诗班筹集资金。他们出售了西兰花、胡萝卜、菠菜和花椰菜。在将所有收入相加后，Maya发现他们赚了380美元。组织从西兰花的销售中赚了57美元，胡萝卜的销售额是西兰花销售额的两倍。然后，他们的菠菜销售额比胡萝卜销售额的一半多16美元。他们从花椰菜的销售中赚了多少钱？。",
+  "topic": "回答下面的数学问题：Maya's organization hosted a weekly farmers' market to raise money for the church choir. They sold broccolis, carrots, spinach, and cauliflowers. After adding together all of their earnings, Maya found out that they had made $380. The organization made $57 from broccoli and the sales of the carrots are twice as much as the sales of broccoli. Then, their sales for the spinach is $16 more than half of the sales of carrots. How much did they make from cauliflower sales?",
   "checkpoint": [
     {
-      "$\\boxed{136}$": 1
+      "\\boxed{136}": 1
     }
   ],
   "matchingmethod": [

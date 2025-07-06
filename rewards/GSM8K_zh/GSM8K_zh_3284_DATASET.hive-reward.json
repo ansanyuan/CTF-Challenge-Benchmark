@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个房子的客厅、餐厅和厨房占据了1000平方英尺。房子还有一个客卧和一个主卧套房。如果客卧的面积是主卧套房面积的四分之一，而整个房子的总面积是2300平方英尺，那么主卧套房有多大？。",
+  "topic": "回答下面的数学问题：A house’s living room, dining room and kitchen take up 1,000 sq ft. The house also has a guest bedroom and a master bedroom suite. If the guest bedroom is a quarter of the size of the master bedroom suite, and the house is 2,300 sq ft total, how large is the master bedroom suite?",
   "checkpoint": [
     {
-      "$\\boxed{1040}$": 1
+      "\\boxed{1040}": 1
     }
   ],
   "matchingmethod": [

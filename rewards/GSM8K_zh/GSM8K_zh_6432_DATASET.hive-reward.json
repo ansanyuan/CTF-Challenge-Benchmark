@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰决定出售他的 PlayStation 以购买一台新电脑。 电脑的成本是700美元，配件的成本是200美元。 PlayStation 的价值为400美元，但他以比其价值低20%的价格出售了。 他的口袋里有多少钱？。",
+  "topic": "回答下面的数学问题：John decided to sell his PlayStation to buy a new computer.  The computer's cost was $700 and the accessories cost was $200.  The PlayStation was worth $400 but he sold it for 20% less than its value.  How much money came out of his pocket?",
   "checkpoint": [
     {
-      "$\\boxed{580}$": 1
+      "\\boxed{580}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：要去图书馆，吉尔花了12分钟等第一辆公交车，30分钟乘坐第一辆公交车，以及等待和乘车时间的一半在她的第二辆公交车上。她的第二辆公交车乘车时间是多少分钟？。",
+  "topic": "回答下面的数学问题：To get to the library, Jill spends 12 minutes waiting for her first bus, 30 minutes riding on her first bus, and half the combined wait and trip time on her second bus. How many minutes does her second bus ride take?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cassidy收集新发布的科幻电影海报。今年夏天之后，她的收藏将增加六张海报，使得她的收藏量是两年前的两倍，当时她有14张海报。她现在有多少张海报？。",
+  "topic": "回答下面的数学问题：Cassidy collects movie posters from newly released sci-fi movies. After this summer, she will have six more posters in her collection, making it double the size it was two years ago when she had 14 posters. How many posters does she have now?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

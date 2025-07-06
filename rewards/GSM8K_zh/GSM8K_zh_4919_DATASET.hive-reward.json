@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：篮球赛季的最后一场比赛中，四名球员得分。钱德拉的得分是秋子的两倍。秋子的得分比美智子多4分，而美智子的得分是贝利的一半。如果贝利得了14分，球队在赛季的最后一场比赛中总共得了多少分？。",
+  "topic": "回答下面的数学问题：In the final game of the basketball season, four players scored points.  Chandra scored twice as many points as did Akiko.  Akiko scored 4 more points than did Michiko, and Michiko scored half as many points as did Bailey.  If Bailey scored 14 points, how many points in total did the team score in the final game of the season?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

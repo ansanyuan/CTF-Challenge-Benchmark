@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两个城镇之间的总距离是200英里。罗杰和他的朋友驾驶了总距离的四分之一，用了1小时的时间。他们又用了1小时吃午饭，然后以与之前相同的速度驾驶了剩下的距离。罗杰和他的朋友共花了多少小时来往两个城镇？。",
+  "topic": "回答下面的数学问题：The total distance between 2 towns is 200 miles. Roger and his friend drove 1/4 of the total distance, taking 1 hour to do so. They take lunch for another 1 hour and then drove the remaining distance going at the same speed as before. What's the total amount of time, in hours, Roger and his friend took to travel between the two towns?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

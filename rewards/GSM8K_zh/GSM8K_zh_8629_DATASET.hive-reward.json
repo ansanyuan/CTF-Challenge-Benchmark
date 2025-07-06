@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰买了一盘磁带，里面有2首歌。第一首歌是5分钟，第二首歌长60%。磁带的总时长是多少？。",
+  "topic": "回答下面的数学问题：John buys a cassette with 2 songs.  The first song is 5 minutes and the second song is 60% longer.  How much time was the total cassette?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

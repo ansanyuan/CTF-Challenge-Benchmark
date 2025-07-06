@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亨利有一些游戏，他给了尼尔六个。现在，亨利比尼尔多了四倍的游戏。如果尼尔一开始有七个游戏，亨利一开始有多少个游戏？。",
+  "topic": "回答下面的数学问题：Henry had some games, and he gave six of them to Neil. Now, Henry has 4 times more games than Neil. If Neil had 7 games at first, how many games did Henry have at first?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

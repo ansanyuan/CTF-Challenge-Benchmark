@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个林业工作者正在种树。森林已经有30棵本地树。星期一，他通过种植新树使森林的总树数量增加了三倍。星期二，他种植了星期一种植数量的三分之一。林业工作者总共种植了多少棵树？。",
+  "topic": "回答下面的数学问题：A forester is planting trees. The forest already has 30 native trees. On Monday he triples the number of total trees in the forest by planting new trees. On Tuesday, he plants a third of the amount he planted on Monday. How many trees has the forester planted in total?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Howie想为他班上的每个人买纸杯蛋糕作为特别的款待。他不确定人们是想要香草味还是巧克力味的纸杯蛋糕，所以他决定为每个人准备一种每种口味的。如果他为自己、老师和他的25个同学每人准备相同数量的2个纸杯蛋糕，Howie应该买多少个纸杯蛋糕？。",
+  "topic": "回答下面的数学问题：Howie wants to buy cupcakes for everyone in his class as a special treat. He's not sure if people will want vanilla or chocolate cupcakes so he decides to get one of each for everyone. If he gets the same amount of 2 cupcakes for each himself, his teacher, and his 25 classmates, how many cupcakes should Howie buy?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

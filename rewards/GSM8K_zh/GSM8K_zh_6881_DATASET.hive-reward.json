@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在露营时，赛勒斯数了他的手臂和腿上有14个蚊子叮咬。后来他又数了身上另外10个叮咬。在他受苦的时候，他的其他6个家人总共只有赛勒斯受到的叮咬数量的一半。如果他们每个人受到相同数量的叮咬，赛勒斯的家人每个人有多少个蚊子叮咬？。",
+  "topic": "回答下面的数学问题：While camping, Cyrus counted 14 mosquito bites on his arms and legs. He later counted another 10 on his body. While he was suffering, his entire family of 6 other people only got a total of half the number of bites that Cyrus got. If they all have an equal number of bites, how many mosquito bites does each member of the rest of Cyrus' family have?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

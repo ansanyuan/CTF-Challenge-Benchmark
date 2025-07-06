@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯尔每天去打篮球练习2小时。在练习中，他花一半的时间投篮，其余的时间用于跑步和举重。如果他跑步的时间是举重时间的两倍，那么他举重花费了多少时间（以分钟计算）？。",
+  "topic": "回答下面的数学问题：Kyle goes to basketball practice every day for 2 hours. At practice he spends half of the time shooting and the rest of the time running and weight lifting. If he runs for twice the time he spends weightlifting, how much time in minutes does he spend lifting weight?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个城市的人口为300,000。有50,000人移民到这个国家，然后有30,000人离开。之后1/8的人口怀孕，其中1/4的人生了双胞胎。在出生后有多少人？。",
+  "topic": "回答下面的数学问题：A city has a population of 300,000.  50,000 people immigrate to the country and then 30,000 people leave.  After that 1/8 of the population gets pregnant and 1/4 of those people have twins.  How many people are there after the births?",
   "checkpoint": [
     {
-      "$\\boxed{370000}$": 1
+      "\\boxed{370000}": 1
     }
   ],
   "matchingmethod": [

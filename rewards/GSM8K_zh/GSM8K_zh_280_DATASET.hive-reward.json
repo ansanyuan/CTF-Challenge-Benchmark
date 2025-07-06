@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗比的新年决心之一是开始存钱。他在一月开始存2美元。接着在二月存4美元，三月存8美元。如果他继续这种存钱模式，6个月后他的总存款将是多少？。",
+  "topic": "回答下面的数学问题：One of Robi's new year's resolutions is to start saving. He started to save $2 in January. This is followed by $4 in February and $8 in March. If he continues this saving pattern, how much will be his total savings after 6 months?",
   "checkpoint": [
     {
-      "$\\boxed{126}$": 1
+      "\\boxed{126}": 1
     }
   ],
   "matchingmethod": [

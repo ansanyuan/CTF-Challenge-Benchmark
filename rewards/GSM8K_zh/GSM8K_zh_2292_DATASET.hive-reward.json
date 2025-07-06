@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Trish每天都喜欢散步。有一天，她散步了1英里。随后的每一天，她都会将前一天的散步距离翻倍。她在哪一天的散步距离超过了第一天的10倍？。",
+  "topic": "回答下面的数学问题：Trish likes to go for walks every day.  One day, she goes on a 1-mile walk.  Every subsequent day, she doubles the distance she walked the previous day.  On what day does she walk more than 10 times further than she did on the first day?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

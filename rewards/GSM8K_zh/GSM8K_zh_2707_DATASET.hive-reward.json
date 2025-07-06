@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一片树叶被风吹着沿着人行道前进。每五英尺的一阵风吹它向前，风就会旋转并将它吹回两英尺。在11阵风吹过后，它在人行道上走了多少英尺？。",
+  "topic": "回答下面的数学问题：A leaf is being blown down a sidewalk by swirling gusts of wind. For every five feet that a gust blows it forward, the wind swirls and blows it back two feet. How many feet has it traveled down the sidewalk after 11 gusts of wind?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

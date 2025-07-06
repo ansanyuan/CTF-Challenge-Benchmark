@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特每周花费3小时的单簧管课程为每小时40美元，以及每周花费5小时的钢琴课程为每小时28美元。她一年内在钢琴课程上比单簧管课程多花了多少钱？。",
+  "topic": "回答下面的数学问题：Janet pays $40/hour for 3 hours per week of clarinet lessons and $28/hour for 5 hours a week of piano lessons. How much more does she spend on piano lessons than clarinet lessons in a year?",
   "checkpoint": [
     {
-      "$\\boxed{1040}$": 1
+      "\\boxed{1040}": 1
     }
   ],
   "matchingmethod": [

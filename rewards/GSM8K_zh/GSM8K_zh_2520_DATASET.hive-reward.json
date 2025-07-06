@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：李正在为一双价值90美元的新运动鞋存钱。他已经存了15美元。他计划出售他的旧动作人物来筹集剩下的钱。如果他卖掉10个动作人物，并在购买运动鞋后还剩下25美元，他每个动作人物收费多少？。",
+  "topic": "回答下面的数学问题：Lee is saving up for a new pair of sneakers which cost $90. He already has $15 saved. He plans to sell his old action figures to make the rest. If he sells 10 action figures and still has $25 left after buying the sneakers how much did he charge per action figure?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

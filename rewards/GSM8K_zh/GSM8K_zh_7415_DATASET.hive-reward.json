@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：穆萨是一个有45名学生的班级的班主任。他想按年龄将他们分成三组。如果班级的三分之一年龄在11岁以下，而五分之二的学生年龄在11岁以上但在13岁以下，那么第三组（13岁及以上）将有多少学生？。",
+  "topic": "回答下面的数学问题：Musa is the class teacher of a class of 45 students. He wants to split them into three groups by age. If a third of the class is under 11 years, and two-fifths are above 11 but under 13, how many students will be in the third group (13 years and above)?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

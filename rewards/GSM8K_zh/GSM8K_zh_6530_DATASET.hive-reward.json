@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆正在客厅铺实木地板，客厅的长为16英尺，宽为20英尺。每盒地板有10平方英尺，他已经铺了250平方英尺的地板。汤姆还需要多少盒地板才能完成工作？。",
+  "topic": "回答下面的数学问题：Tom was putting hardwood flooring into his living room that measured 16' long and 20' wide.  The flooring comes 10 sq ft per box and he has already put down 250 sq ft of flooring.  How many more boxes does Tom need to complete the job?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

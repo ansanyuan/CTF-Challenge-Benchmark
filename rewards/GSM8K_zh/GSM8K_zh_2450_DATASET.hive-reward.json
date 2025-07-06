@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Yanna买了十件每件5美元的衬衫和三双每双3美元的凉鞋。如果她给了一张100美元的钞票，她会找回多少零钱？。",
+  "topic": "回答下面的数学问题：Yanna bought ten shirts at $5 each and three pairs of sandals at $3 each.  How much change did she get back if she gave a one hundred dollar bill?",
   "checkpoint": [
     {
-      "$\\boxed{41}$": 1
+      "\\boxed{41}": 1
     }
   ],
   "matchingmethod": [

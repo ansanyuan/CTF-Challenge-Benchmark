@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marcia想买一些水果。苹果的价格是2美元，香蕉的价格是1美元，橙子的价格是3美元。如果Marcia买了12个苹果，4个香蕉和4个橙子，每种水果的平均价格是多少美元？。",
+  "topic": "回答下面的数学问题：Marcia wants to buy some fruit. Apples cost $2, bananas cost $1, and oranges cost $3. If Marcia buys 12 apples, 4 bananas and 4 oranges, what is the average cost of each piece of fruit in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡洛斯正在种植一棵柠檬树。种植这棵树将花费90美元。每年它会长出7个柠檬，他可以每个卖1.5美元。每年浇水和施肥树木的费用是3美元。他种植柠檬树需要多少年才能开始盈利？。",
+  "topic": "回答下面的数学问题：Carlos is planting a lemon tree. The tree will cost $90 to plant. Each year it will grow 7 lemons, which he can sell for $1.5 each. It costs $3 a year to water and feed the tree. How many years will it take before he starts earning money on the lemon tree?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

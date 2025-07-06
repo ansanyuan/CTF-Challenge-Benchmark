@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hani说她每分钟会比Diana多做3个仰卧起坐。然后Diana以每分钟4个仰卧起坐的速度做了40个仰卧起坐。计算她们一共做了多少个仰卧起坐。。",
+  "topic": "回答下面的数学问题：Hani said she would do 3 more situps per minute than Diana would. Diana then did 40 situps at a rate of 4 situps per minute. Calculate the total number of situps they did together.",
   "checkpoint": [
     {
-      "$\\boxed{110}$": 1
+      "\\boxed{110}": 1
     }
   ],
   "matchingmethod": [

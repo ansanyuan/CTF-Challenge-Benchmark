@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮在交通拥堵时开车到她儿子家需要5小时。当没有交通拥堵时，同样的行程只需要4小时。如果她儿子的家离她200英里远，那么在交通拥堵时和没有交通拥堵时的平均速度之间的差异是多少？。",
+  "topic": "回答下面的数学问题：Jennie drives to her son’s house in 5 hours when there is heavy traffic. When there is no traffic the same trip takes only 4 hours. If her son's house is 200 miles away, what is the difference between her average speed when there is heavy traffic and when there is no traffic?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

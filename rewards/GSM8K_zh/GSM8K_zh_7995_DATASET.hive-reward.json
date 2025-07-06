@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯在他的数学作业上落后很多。他总共有100个数学题要完成。他在周一晚上完成了12个题目。周二，他完成的题目是周一的3倍。周三，他完成了剩下数学题目的四分之一。周四他还剩下多少数学题要完成？。",
+  "topic": "回答下面的数学问题：Chris is way behind on his math homework. He has 100 math problems to complete in total. He completes 12 problems on Monday night. On Tuesday, he completes 3 times as many problems as he did on Monday. On Wednesday, he completes one-quarter of the remaining math problems. How many math problems does he have left to complete on Thursday?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

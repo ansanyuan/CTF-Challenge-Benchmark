@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jessica刚刚拿到了她的驾驶许可。她必须在父母陪同下完成50小时的驾驶才能获得驾驶执照。开车去学校需要20分钟。如果她每天开车去学校并返回，Jessica需要多少个学校日才能满足50小时的驾驶要求？。",
+  "topic": "回答下面的数学问题：Jessica just got her driving permit. She must complete 50 hours of driving with a parent to get her driver’s license. It takes 20 minutes to drive to school. If she drives to and from school every day, how many school days will it take Jessica to meet the 50-hour driving requirement?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

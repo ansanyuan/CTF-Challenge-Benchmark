@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只霸王龙吃掉了它捕猎的一只小三角龙的一半。当它离开后，一群迅猛龙清理了剩下的一半。一群懒惰的异特龙吞下了最后的270公斤肉。霸王龙吃之前，三角龙上有多少公斤的肉？。",
+  "topic": "回答下面的数学问题：A Tyrannosaurus rex ate half of a small triceratops it had hunted. When it left, a pack of velociraptors scavenged half of what was left. A group of lazy Allosaurus gulped down the last 270 kilograms of meat. How many kilograms of meat were on the triceratops before the T-Rex ate?",
   "checkpoint": [
     {
-      "$\\boxed{1080}$": 1
+      "\\boxed{1080}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：多莉想要坐两次摩天轮，三次过山车和七次圆木滑道。摩天轮的票价是2张票，过山车的票价是5张票，圆木滑道的票价是1张票。多莉有20张票。她还需要买多少张票？。",
+  "topic": "回答下面的数学问题：Dolly wants to ride the Ferris wheel twice, the roller coaster three times, and the log ride seven times. The Ferris wheel costs 2 tickets, the roller coaster costs 5 tickets and the log ride costs 1 ticket. Dolly has 20 tickets. How many more tickets should Dolly buy?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

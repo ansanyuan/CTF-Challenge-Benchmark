@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：威尔买了15个橙子。当他回到家时，他让他的两个儿子根据他们的年龄洗橙子。大儿子8岁，小儿子的年龄是大儿子的一半。还有多少个橙子没有被洗？。",
+  "topic": "回答下面的数学问题：Will buys 15 oranges. When he gets home, he asks his 2 sons to wash as many oranges as they are years old. The oldest son is 8 years old, the youngest is half as old as the oldest. How many oranges are left unwashed?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

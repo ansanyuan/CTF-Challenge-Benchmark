@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽和杰伊正在筹划婚礼。在240位宾客中，60%是女性。在女性中，50%来自杰伊的家庭。有多少女性宾客来自杰伊的家庭？。",
+  "topic": "回答下面的数学问题：Mary and Jay are planning a wedding. Of the 240 guests, 60 percent are female.  Of the females, 50 percent are from Jay's family.  How many female guests are from Jay's family?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

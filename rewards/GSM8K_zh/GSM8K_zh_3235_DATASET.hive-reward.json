@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奶奶在遗嘱中留下了124,600美元。她把其中一半给了她最喜欢的孙子谢尔比。剩下的钱要平均分给其他10个孙子。剩下的10个孙子中每个人收到了多少美元？。",
+  "topic": "回答下面的数学问题：Grandma left $124,600 in her will. She gave half of it to her favorite grandchild, Shelby. The rest was to be evenly divided among the remaining 10 grandchildren. How many dollars did one of the remaining 10 grandchildren receive?",
   "checkpoint": [
     {
-      "$\\boxed{6230}$": 1
+      "\\boxed{6230}": 1
     }
   ],
   "matchingmethod": [

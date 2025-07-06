@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔为了去澳大利亚旅行存了6000美元。如果他在飞机票上花了1200美元，在酒店上花了800美元，在食物上花了3000美元，他还剩下多少美元？。",
+  "topic": "回答下面的数学问题：Joe saves $6,000 for his trip to Australia. If he spends $1,200 on the flight, $800 on a hotel, and $3,000 on food, how much money, in dollars, does he have left?",
   "checkpoint": [
     {
-      "$\\boxed{1000}$": 1
+      "\\boxed{1000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sonia和Joss正在搬到他们在湖边的新房子。他们在之前的房子里有太多的东西，决定进行多次搬运才能将所有东西搬到新房子。他们花了15分钟将车装满东西，然后花了30分钟从之前的房子开到新房子。幸运的是，他们没有浪费时间将东西卸载到新房子里。总共，他们进行了6次搬运才完成了搬家。他们花了多少小时搬家？。",
+  "topic": "回答下面的数学问题：Sonia and Joss are moving to their new house at the lake. They have too much stuff in their previous house and decide to make multiple trips to move it all to the new house. They spend 15 minutes filling the car with their stuff and spend 30 minutes driving from the previous house to the new house. Fortunately, they did not waste any time unloading their stuff into the new house. In total they make 6 trips to complete the move. How many hours did they spend moving?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

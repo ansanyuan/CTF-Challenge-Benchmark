@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rollo有3只豚鼠，第一只豚鼠吃2杯食物，第二只豚鼠吃的食物是第一只的两倍，第三只豚鼠吃的食物比第二只多3杯。Rollo需要喂养他所有的豚鼠需要多少杯食物？。",
+  "topic": "回答下面的数学问题：Rollo has 3 guinea pigs, the first guinea pig eats 2 cups of food, the second guinea pig eats twice as much as the first one, and the third guinea pig eats 3 cups more than the second one. How many cups of food does Rollo need to feed all his Guinea pigs?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alexis有迪兰和阿什利的芒果总数的四倍。如果Alexis有60个芒果，他们三个总共有多少个芒果？。",
+  "topic": "回答下面的数学问题：Alexis has four times as many mangoes as Dilan and Ashley combined. If Alexis has 60 mangoes, how many mangoes does all of them have combined?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

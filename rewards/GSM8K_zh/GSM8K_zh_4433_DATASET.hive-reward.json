@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Shane想在今年尽可能多地拍照。他在年初的前两个月拍了146张照片。在一月份，他每天拍2张照片。其余的照片是在二月份拍的。如果在二月份，他每周拍了相等数量的照片，那么Shane每周二月份拍了多少张照片？。",
+  "topic": "回答下面的数学问题：Shane wants to take as many photos as possible this year. He takes 146 photos in the first 2 months of the year. In January, he takes 2 photos every day. The rest of the photos were taken in February. If in February he took an equal number of photos each week, how many photos did Shane take each week in February?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯决定买两套西装。第一套是现成的西装，价格为300美元。第二套是定制的西装，价格是现成西装的三倍加上额外的200美元用于定制。他两套西装一共花了多少钱？。",
+  "topic": "回答下面的数学问题：James decides to buy two suits.  The first is an off-the-rack suit which costs $300.  The second is a tailored suit that costs three as much plus an extra $200 for tailoring.  How much did he pay for both suits?",
   "checkpoint": [
     {
-      "$\\boxed{1400}$": 1
+      "\\boxed{1400}": 1
     }
   ],
   "matchingmethod": [

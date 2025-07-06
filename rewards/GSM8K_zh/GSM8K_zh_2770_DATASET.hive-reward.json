@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：琳达在手工艺品展销会上制作和销售项链。在她最近的展销会上，她卖出4条项链和8枚戒指，总共80美元。如果每条项链的成本是12美元，每枚戒指的成本是多少？。",
+  "topic": "回答下面的数学问题：Linda makes and sells necklaces at craft fairs. At her most recent fair she sold 4 necklaces and 8 rings for a total of $80. If each necklace costs $12, how much does each ring cost?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

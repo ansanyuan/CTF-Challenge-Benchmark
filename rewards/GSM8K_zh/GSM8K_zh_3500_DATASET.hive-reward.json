@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊莎贝拉的年龄是安东尼奥的两倍。18个月后，她将满10岁。安东尼奥多少个月大？。",
+  "topic": "回答下面的数学问题：Isabella is twice as old as Antonio.  In 18 months, she will be 10 years old.  How many months old is Antonio?",
   "checkpoint": [
     {
-      "$\\boxed{51}$": 1
+      "\\boxed{51}": 1
     }
   ],
   "matchingmethod": [

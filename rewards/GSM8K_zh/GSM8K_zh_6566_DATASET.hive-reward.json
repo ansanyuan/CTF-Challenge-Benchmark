@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gnuff每次辅导收取固定费用20美元，加上每分钟7美元。Gnuff一次辅导的总费用是146美元。Gnuff辅导了多少分钟？。",
+  "topic": "回答下面的数学问题：Gnuff charges a flat rate of $20 per tutoring session plus $7 per minute. The total amount paid for Gnuff for tutoring for one session is $146. How many minutes did Gnuff tutor for?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

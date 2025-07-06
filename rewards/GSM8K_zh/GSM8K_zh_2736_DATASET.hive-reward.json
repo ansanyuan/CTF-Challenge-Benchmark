@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍勃每小时工作5美元，加班时每小时工作6美元。一周内超过40小时的工作时间被视为加班。如果鲍勃在第一周工作了44小时，在第二周工作了48小时，他赚了多少钱？。",
+  "topic": "回答下面的数学问题：Bob gets paid $5 an hour for the regular hours he works and $6 an hour for any overtime hours he works. All hours over 40 in a week are considered overtime. If Bob works 44  hours in the first week and 48 hours in the second week, how much did he make?",
   "checkpoint": [
     {
-      "$\\boxed{472}$": 1
+      "\\boxed{472}": 1
     }
   ],
   "matchingmethod": [

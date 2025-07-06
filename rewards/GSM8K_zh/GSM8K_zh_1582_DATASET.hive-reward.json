@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jamie拥有4只波斯猫和2只缅因库恩猫。戈登拥有的波斯猫数量是Jamie的一半，缅因库恩猫的数量比Jamie多一只。霍克爱拥有的缅因库恩猫比戈登少一只，没有波斯猫。如果他们把所有的猫都带来一起玩，总共有多少只猫？。",
+  "topic": "回答下面的数学问题：Jamie owns 4 Persian cats and 2 Maine Coons. Gordon owns half as many Persians and one more Maine Coon than Jamie. Hawkeye owns one less Maine Coon than Gordon and no Persian cats. If they bring all of their cats together to play, how many cats are there in total?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

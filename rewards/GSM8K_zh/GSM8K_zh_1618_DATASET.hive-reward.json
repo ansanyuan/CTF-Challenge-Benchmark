@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Joe卖火腿和奶酪三明治售价为1.50美元。如果一片面包成本为0.15美元，一片火腿成本为0.25美元，一片奶酪成本为0.35美元，那么一份含有每种蛋白质的三明治对Joe的成本是多少美分？。",
+  "topic": "回答下面的数学问题：Joe sells ham and cheese sandwiches for $1.50. If a slice of bread costs $0.15, a slice of ham costs $0.25 and a slice of cheese costs $0.35, how many cents does a sandwich with one slice of each protein cost Joe to make?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

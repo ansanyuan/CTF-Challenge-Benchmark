@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：九百张门票被售出去参加一场音乐会。四分之三的购票者在音乐会开始前到达。剩下的人中五分之九在第一首歌后的几分钟到达。八十人在音乐会中部到达，而其余的没有去。那些购票者中有多少人没有去？。",
+  "topic": "回答下面的数学问题：Nine hundred tickets were sold to a concert. Three-fourths of those who bought the ticket came before the start of the concert. Five-ninths of the remaining came few minutes after the first song. Eighty people arrived during the middle part of the concert while the rest did not go. How many of those who bought the tickets did not go?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：尼克把10块巧克力藏在他的壁橱里。他的兄弟阿里克斯藏的巧克力数量是尼克的3倍。昨晚，他们的妈妈从阿里克斯那里找到并拿走了5块巧克力。阿里克斯比尼克多了多少块巧克力？。",
+  "topic": "回答下面的数学问题：Nick hides 10 chocolates in his closet. His brother Alix hides 3 times as many chocolates than Nick hides. Last night, their mom found and took 5 chocolates from Alix. How many more chocolates does Alix have than Nick?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗布的车坏了，他用10美元的储蓄来支付维修费。在维修之前，他买了两种备件。一个角灯的价格是维修费的两倍，还有两个刹车盘；每个盘的价格是角灯价格的三倍。之后，他还剩下480美元的储蓄。罗布在车坏之前一共存了多少钱？。",
+  "topic": "回答下面的数学问题：Robe's car broke and he used $10 from his savings to pay for the repair. Before the repair, he bought 2 kinds of spare parts. A corner light that costs twice the price of the repair fee, and two brake disks; each disk cost thrice the price of the corner light. After that, he had $480 savings left. How much money did Robe have saved before his car broke?",
   "checkpoint": [
     {
-      "$\\boxed{630}$": 1
+      "\\boxed{630}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托比正在读一本书，书共有45页，平均每页200个单词。托比的阅读速度是每分钟300个单词。他必须在60分钟内到达机场，并计划一读完书就离开。到机场需要10分钟。托比提前多少分钟？。",
+  "topic": "回答下面的数学问题：Toby is reading a book that is 45 pages long. It averages 200 words a page. Toby can read at a rate of 300 words per minute. He has to be at the airport in 60 minutes and plans to leave as soon as he finishes the book. It takes 10 minutes to get to the airport. How many minutes early will Toby be?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

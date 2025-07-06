@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：弗雷德有212张纸。他从简那里收到了另外307张纸，并给了查尔斯156张纸。弗雷德还剩下多少张纸？。",
+  "topic": "回答下面的数学问题：Fred had 212 sheets of paper. He received another 307 sheets of paper from Jane and gave Charles 156 sheets of paper. How many sheets of paper does Fred have left?",
   "checkpoint": [
     {
-      "$\\boxed{363}$": 1
+      "\\boxed{363}": 1
     }
   ],
   "matchingmethod": [

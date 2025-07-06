@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：黑暗领主需要将1200磅的剑运送到附近的魔法森林，准备与精灵作战。他有10队，每队8只兽人。每只兽人需要携带多少磅的剑？。",
+  "topic": "回答下面的数学问题：The Dark Lord needs to transport 1200 pounds of swords to the Enchanted Forest for a battle with the elves. He has 10 squads of 8 orcs each. How many pounds of swords does each orc have to carry?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

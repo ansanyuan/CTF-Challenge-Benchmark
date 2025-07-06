@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只猫有九条命。一只狗比猫少3条命。一只老鼠比狗多7条命。一只老鼠有多少条命？。",
+  "topic": "回答下面的数学问题：A cat has nine lives.  A dog has 3 less lives than a cat.  A mouse has 7 more lives than a dog.  How many lives does a mouse have?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三架飞机要去同一个地方，但每架飞机的乘客数量不同。第一架飞机有50人，第二架有60人，第三架有40人。一架空飞机的速度是600英里/小时，但每位乘客会使速度减慢2英里/小时。它们的平均速度是多少？。",
+  "topic": "回答下面的数学问题：Three planes are going to the same place but each has a different number of passengers. The first plane has 50, the second had 60, and the third has 40. An empty plane can go 600 MPH, but each passenger makes it go 2 MPH slower. What is their average speed?",
   "checkpoint": [
     {
-      "$\\boxed{500}$": 1
+      "\\boxed{500}": 1
     }
   ],
   "matchingmethod": [

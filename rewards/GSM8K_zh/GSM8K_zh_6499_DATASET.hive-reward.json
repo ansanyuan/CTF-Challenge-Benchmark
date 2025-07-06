@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：德肖恩总是在英语课上因为暑假阅读最多书籍而获奖。今年也不例外。暑假有80天。当他到达时，他通知老师他在暑假读了60本书。每本书平均有320页。离他最近的人读了他的75%。第二个人在假期每天平均读了多少页？。",
+  "topic": "回答下面的数学问题：DeShaun always wins the award in English class for reading the most books over the summer. This year is no different. Summer break is 80 days long. When he arrives, he notifies the teacher that he read 60 books over the summer. Each book averaged 320 pages long. The person closest to him read 75% as much as he did. How many pages did the second person read on average each day of break?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

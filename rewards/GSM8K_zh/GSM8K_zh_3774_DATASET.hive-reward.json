@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一包糖果有30颗樱桃味的糖果，40颗草莓味的糖果和50颗菠萝味的糖果。亚伦吃掉了每种口味糖果的一半，并把5颗樱桃味的糖果给了他的朋友。糖果包里还有多少糖果？。",
+  "topic": "回答下面的数学问题：A packet of candy sweets has 30 cherry-flavored sweets, 40 strawberry-flavored sweets, and 50 pineapple-flavored sweets. Aaron eats half of each of the flavored sweets and gives 5 cherry-flavored sweets to his friend. How many sweets are still in the packet of candy?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

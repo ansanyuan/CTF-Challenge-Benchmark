@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：昨天的锻炼中，我做了30个深蹲。每天，我计划比前一天增加5个深蹲。如果我连续锻炼四天，后天我将做多少个深蹲？。",
+  "topic": "回答下面的数学问题：During my workout yesterday, I did 30 squats. Each day, I plan to increase my number of squats by 5 more than the previous day. If I do my workout for four consecutive days, how many squats will I perform the day after tomorrow?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

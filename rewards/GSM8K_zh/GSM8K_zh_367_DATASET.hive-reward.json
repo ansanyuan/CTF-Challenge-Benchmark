@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Keaton在建筑工地工作时爬了一把30英尺高的梯子20次。Reece也在同一工地工作，他爬了一把比Keaton的梯子短4英尺的梯子15次。两名工人爬的梯子的总长度是多少英寸？。",
+  "topic": "回答下面的数学问题：Keaton climbed a 30 feet ladder twenty times while working at the construction site. Reece, also working at the same site, climbed a ladder 4 feet shorter than Keaton's ladder 15 times. What's the total length of the ladders that both workers climbed in inches?",
   "checkpoint": [
     {
-      "$\\boxed{11880}$": 1
+      "\\boxed{11880}": 1
     }
   ],
   "matchingmethod": [

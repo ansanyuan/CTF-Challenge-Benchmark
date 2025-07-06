@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mico和Marco想要彼此了解。他们意识到他们的年龄之和是20岁。10年后他们的年龄之和将是多少？。",
+  "topic": "回答下面的数学问题：Mico and Marco wanted to get to know each other. They realized that the sum of their ages is 20. What will be the sum of their ages in 10 years?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

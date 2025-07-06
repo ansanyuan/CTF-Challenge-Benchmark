@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：查德用两块饼干夹一勺花生酱。他每晚睡前吃5块这样的饼干。一盒饼干有4个包装袋，每个包装袋里有28块饼干。5盒饼干能够让他吃多少个晚上？。",
+  "topic": "回答下面的数学问题：Chad sandwiches 2 crackers with a scoop of peanut butter.  He has 5 of these crackers a night before bed.  A box of crackers has 4 sleeves with each sleeve holding 28 crackers.  How many nights will 5 boxes of crackers last him?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

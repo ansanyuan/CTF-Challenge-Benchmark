@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marta在杂货店卖番茄。周五，一批1000公斤的番茄到达了商店。周六，Marta总共卖出300公斤的番茄给顾客。周日，商店关门，导致200公斤的番茄腐烂被丢弃。周一早上又有一批货物到达，是第一批的两倍大小。Marta周二准备出售多少公斤的番茄？。",
+  "topic": "回答下面的数学问题：Marta sells tomatoes in a grocery store. On Friday, a shipment of 1000 kg of tomatoes arrived at the store. On Saturday, Marta sold a total of 300 kg of tomatoes to customers. On Sunday, the store was closed, causing 200 kg of tomatoes to rot and to be thrown away. On Monday morning another shipment arrived, twice the size of the first one. How many kilograms of tomatoes did Marta have ready for sale on Tuesday?",
   "checkpoint": [
     {
-      "$\\boxed{2500}$": 1
+      "\\boxed{2500}": 1
     }
   ],
   "matchingmethod": [

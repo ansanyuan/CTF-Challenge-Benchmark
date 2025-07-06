@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Chastity做了12个天使食品蛋糕送给朋友。她把蛋糕放在盒子里，然后把它们拿到车上。但她忘了带钥匙。所以，她把蛋糕盒子堆在车顶上，然后跑回房子去拿钥匙。但在她回来之前，一只黑乌鸦飞来，落在蛋糕堆上，把一半的蛋糕推倒了。当Chastity回来时，她捡起了一半没有损坏的蛋糕，但剩下的蛋糕都被毁了。有多少个蛋糕被毁了？。",
+  "topic": "回答下面的数学问题：Chastity made 12 angel food cakes to give to friends.  She placed the cakes in boxes, and then walked them out to her car.  But she had forgotten her keys.  So, she placed the boxes of cakes in one stack on the hood of her car, and then she ran back into the house to get her keys.  But before she returned, a black crow came, landed on the stack of cakes, and knocked over half of the stack.  When Chastity returned, she picked up half of the fallen cakes, which were not damaged, but the rest of the cakes were destroyed.  How many cakes were destroyed?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

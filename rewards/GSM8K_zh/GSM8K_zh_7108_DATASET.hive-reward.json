@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jessica试图赢得她最喜欢的商店的礼品卡。为了赢得奖品，她必须猜测混合颜色糖豆碗中红色和白色糖豆的总数。她估计需要三袋糖豆才能填满鱼缸。她假设每袋糖豆中颜色的分布相似。她买了一袋糖豆并按颜色分开。她有24颗红色，13颗黑色，36颗绿色，28颗紫色，32颗黄色和18颗白色。Jessica猜测鱼缸中有多少红色和白色糖豆？。",
+  "topic": "回答下面的数学问题：Jessica was trying to win a gift card to her favorite store.  To win, she had to guess the total number of red & white jelly beans in the bowl of mixed color jelly beans. She figured it would take three bags of jelly beans to fill up the fishbowl.  She assumed that each bag of jellybeans had a similar distribution of colors in each bag.  She bought one bag of jellybeans and separated them by color.  She had 24 red, 13 black, 36 green, 28 purple, 32 yellow and 18 white.  What was Jessica's guess as to how many red and white jelly beans were in the fishbowl?",
   "checkpoint": [
     {
-      "$\\boxed{126}$": 1
+      "\\boxed{126}": 1
     }
   ],
   "matchingmethod": [

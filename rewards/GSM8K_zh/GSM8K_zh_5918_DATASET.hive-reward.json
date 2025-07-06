@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈莉的动物收容所有80只狗。她领养了其中40%，但后来因为在领养家庭中与其他狗的性格冲突，不得不收回5只。现在她有多少只狗？。",
+  "topic": "回答下面的数学问题：Harly's animal shelter has 80 dogs. She adopts out 40% of them but then has to take back 5 because of personality conflicts with other dogs in their adopted homes. How many dogs does she have now?",
   "checkpoint": [
     {
-      "$\\boxed{53}$": 1
+      "\\boxed{53}": 1
     }
   ],
   "matchingmethod": [

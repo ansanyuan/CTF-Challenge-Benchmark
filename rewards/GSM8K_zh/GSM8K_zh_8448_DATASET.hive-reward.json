@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：泰勒想买一本价值18美元的字典，一本价值13美元的恐龙书，以及一本价值8美元的儿童食谱。他已经从零用钱中存了14美元。如果泰勒每小时赚5美元，他需要工作多少小时才能买得起这些书？。",
+  "topic": "回答下面的数学问题：Tyler wants to buy a dictionary that costs $18, a dinosaur book that costs $13, and a children's cookbook that costs $8. He has saved $14 from his allowance. If Tyler earns $5 per hour, how many hours does he have to work to afford his books?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

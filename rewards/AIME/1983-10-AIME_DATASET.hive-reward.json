@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：The numbers $1447$ , $1005$ and $1231$ have something in common: each is a $4$ -digit number beginning with $1$ that has exactly two identical digits. How many such numbers are there?",
   "checkpoint": [
     {
-      "$\\boxed{432}$": 1
+      "\\boxed{432}": 1
     }
   ],
   "matchingmethod": [

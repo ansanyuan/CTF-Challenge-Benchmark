@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Davonte试图弄清楚他的艺术收藏占用了多少空间。他测量了他的绘画，发现他有三幅6英尺乘6英尺的正方形画作，四幅小的2英尺乘3英尺的画作，和一幅大的10英尺乘15英尺的画作。他的收藏占用了多少平方英尺？。",
+  "topic": "回答下面的数学问题：Davonte is trying to figure out how much space his art collection takes up. He measures his paintings and finds he has three square 6-foot by 6-foot paintings, four small 2-foot by 3-foot paintings, and one large 10-foot by 15-foot painting. How many square feet does his collection take up?",
   "checkpoint": [
     {
-      "$\\boxed{282}$": 1
+      "\\boxed{282}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Nate出去做他的日常锻炼。在8秒内，他跑了相当于四个足球场长度的距离。他休息了一会儿，然后又跑了500米。如果球场的长度是168米，Nate跑了多远？。",
+  "topic": "回答下面的数学问题：Nate went out to do his daily exercises. In 8 seconds, he ran a distance equal to four times the length of a football field. He rested for a while, then ran 500 more meters. If the field's length is 168 meters, how far did Nate ran?",
   "checkpoint": [
     {
-      "$\\boxed{1172}$": 1
+      "\\boxed{1172}": 1
     }
   ],
   "matchingmethod": [

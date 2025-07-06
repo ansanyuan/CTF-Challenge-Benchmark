@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Parker去健身房，发现有4个20磅的哑铃用于举重。他又增加了两个哑铃到设置中，并开始他的锻炼。Parker用于他的锻炼的哑铃总共有多少磅？。",
+  "topic": "回答下面的数学问题：Parker went to the gym and found 4 twenty pounds dumbbells set up for weightlifting. He added two more dumbbells to the setup and started his exercises. How many pounds of dumbbells is Parker using for his exercises?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

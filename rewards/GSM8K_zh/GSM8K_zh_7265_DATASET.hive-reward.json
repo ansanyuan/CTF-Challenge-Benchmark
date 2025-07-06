@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡森家的图书馆容量为400本书。如果他目前有120本书，他还需要再买多少本书才能让他的图书馆达到90%的容量？。",
+  "topic": "回答下面的数学问题：The capacity of Karson's home library is 400 books. If he currently has 120 books, how many more books does he have to buy to make his library 90% full?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

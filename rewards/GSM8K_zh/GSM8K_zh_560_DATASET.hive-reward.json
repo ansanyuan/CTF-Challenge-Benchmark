@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Luna的月度食品预算等于她房租预算的60%，而她的电话费预算是她食品预算的10%。如果房租和食品预算的总预算为240美元，那么Luna支付所有这些费用的总月度预算是多少？。",
+  "topic": "回答下面的数学问题：Luna's monthly food budget is equal to 60% of her house rental budget while her phone bill budget is 10% of her food budget. If the total budget of house rental and food budget is $240, how much is Luna's total monthly budget to pay all those expenses?",
   "checkpoint": [
     {
-      "$\\boxed{249}$": 1
+      "\\boxed{249}": 1
     }
   ],
   "matchingmethod": [

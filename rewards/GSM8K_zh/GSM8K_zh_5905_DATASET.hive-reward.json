@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bill和Phil是消防局的达尔马提亚犬。Bill的斑点数是Phil的两倍减1。如果他们两只共有59个斑点，Bill有多少个斑点？。",
+  "topic": "回答下面的数学问题：Bill and Phil are firehouse Dalmatians. Bill has one less than twice as many spots as Phil. If they have 59 spots combined, how many spots does Bill have?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

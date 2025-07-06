@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：我的年龄是我儿子的五倍。明年，我儿子将八岁。我现在多大了？。",
+  "topic": "回答下面的数学问题：My age is five times that of my son. Next year, my son will be eight years old. How old am I now?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

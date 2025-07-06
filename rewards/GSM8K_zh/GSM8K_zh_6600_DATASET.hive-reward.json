@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰逊有一个袋子装着土豆。他给了吉娜69个土豆，给了汤姆比吉娜多两倍的土豆，并给了他给汤姆的土豆数量的三分之一给了安妮。如果袋子里有300个土豆，他剩下多少土豆？。",
+  "topic": "回答下面的数学问题：Johnson has a sack of potatoes. He gives Gina 69 potatoes, gives Tom twice as much potatoes as he gave Gina and gives one-third of the amount of potatoes he gave Tom to Anne. How many potatoes does he have left if the sack contains 300 potatoes?",
   "checkpoint": [
     {
-      "$\\boxed{47}$": 1
+      "\\boxed{47}": 1
     }
   ],
   "matchingmethod": [

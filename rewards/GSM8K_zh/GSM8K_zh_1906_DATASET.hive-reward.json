@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Edward水管工正在更换浴室墙壁上的一根管道。他需要使用40英尺的铜管来完成工作。对于每5英尺的管道，Edward必须使用一个紧固螺栓，而对于每个螺栓，他使用两个垫圈。他购买了一个装有20个垫圈的袋子来完成这项工作。在他完成浴室工作后，袋子里还剩下多少个垫圈？。",
+  "topic": "回答下面的数学问题：Edward the plumber is replacing a pipe in a bathroom wall.  He needs to use 40 feet of copper pipe to complete the job.  For every 5 feet of pipe, Edward must use one tightening bolt, and for every bolt, he uses two washers.  He buys a bag of 20 washers for the job.  After he completes the bathroom job, how many washers will be remaining in the bag?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

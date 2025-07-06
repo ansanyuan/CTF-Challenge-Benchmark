@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carla有6朵向日葵和8朵蒲公英。向日葵每朵有9颗种子，蒲公英每朵有12颗种子。Carla的种子中有多少百分比来自蒲公英？。",
+  "topic": "回答下面的数学问题：Carla has 6 sunflowers and 8 dandelions. The sunflowers have 9 seeds per plant and the dandelions have 12 seeds per plant. What percentage of Carla's seeds come from the dandelions?",
   "checkpoint": [
     {
-      "$\\boxed{64}$": 1
+      "\\boxed{64}": 1
     }
   ],
   "matchingmethod": [

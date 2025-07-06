@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有一个桶里有8000颗软糖，排了10个人来拿。前六个人每人拿的软糖是后四个人每人的两倍。如果最后四个人每人拿了400颗软糖，容器里还剩下多少颗软糖？。",
+  "topic": "回答下面的数学问题：There were 8000 jelly beans in a certain barrel, and 10 people lined up to take some. The first six people each took twice as many jelly beans as each of the last four people took. If the last four people each took 400 jelly beans, how many jelly beans remained in the container?",
   "checkpoint": [
     {
-      "$\\boxed{1600}$": 1
+      "\\boxed{1600}": 1
     }
   ],
   "matchingmethod": [

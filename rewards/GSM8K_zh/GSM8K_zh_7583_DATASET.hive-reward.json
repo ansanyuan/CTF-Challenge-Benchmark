@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家当地加油站的汽油售价为每加仑3.00美元。一家应用公司提供每加仑0.20美元的现金返还，如果你在这个加油站加满油。如果有人买了10加仑的汽油，那么在现金返还后他们的汽油费用是多少？。",
+  "topic": "回答下面的数学问题：A local gas station is selling gas for $3.00 a gallon.  An app company is offering $.20 cashback per gallon if you fill up at this station.  If someone buys 10 gallons of gas, how much with their gas be, after the cashback rewards?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

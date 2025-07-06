@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个已婚夫妇和他们的6个孩子要订一些披萨。如果夫妇每人想要3片，孩子们每人想要1片，他们应该订购多少个有4片的披萨？。",
+  "topic": "回答下面的数学问题：A married couple and their 6 children are ordering some pizza. If the couple want 3 slices each and the children want 1 slice each, how many 4-slice pizzas should they order?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

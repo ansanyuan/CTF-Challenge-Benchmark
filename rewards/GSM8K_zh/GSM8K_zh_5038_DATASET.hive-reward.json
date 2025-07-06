@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：朱莉娅收集旧手表。她拥有20块银手表，以及三倍于此数量的青铜手表。她决定购买金手表来增加她的收藏，这个数量占她拥有的所有手表的10%。在这次购买后，朱莉娅一共拥有多少块手表？。",
+  "topic": "回答下面的数学问题：Julia collects old watches. She owns 20 silver watches, and three times as many bronze watches. She decided to buy gold watches to add to her collection, a number that represents 10% of all the watches she owns. How many watches does Julia own after this purchase?",
   "checkpoint": [
     {
-      "$\\boxed{88}$": 1
+      "\\boxed{88}": 1
     }
   ],
   "matchingmethod": [

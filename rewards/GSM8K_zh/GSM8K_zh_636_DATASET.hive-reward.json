@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个面包师在橱窗上摆放了10个乳酪蛋糕，冰箱里还有15个。如果面包师从橱窗上卖出了7个乳酪蛋糕，还有多少个乳酪蛋糕需要卖出？。",
+  "topic": "回答下面的数学问题：A baker has 10 cheesecakes on the display while 15 more are still in the fridge. If the baker has sold 7 cheesecakes from the display, how many more cheesecakes are left to be sold?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

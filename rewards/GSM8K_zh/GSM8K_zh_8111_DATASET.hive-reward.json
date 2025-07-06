@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：雷吉、林恩和佩斯利一起跑步。佩斯利跑了4英里。雷吉跑的是佩斯利的5倍，且比林恩多跑了3英里。林恩跑了多少英里？。",
+  "topic": "回答下面的数学问题：Reggie, Lynn, and Paisley ran together. Paisley ran 4 miles. Reggie ran 5 times what Paisley ran and 3 miles farther than Lynn. How many miles did Lynn run?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

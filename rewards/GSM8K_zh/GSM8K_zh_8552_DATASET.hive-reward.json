@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅拉妮在网上找到了一份她想制作的牙签雕塑的蓝图。它需要200根牙签。梅拉妮的妈妈在午餐时用牙签固定三明治。梅拉妮开始保存这些牙签，过去12周每周保存了10根。如果她以相同的速度继续保存牙签，她还需要多少周才能收集到200根牙签？。",
+  "topic": "回答下面的数学问题：Melanie found a blueprint online for a toothpick sculpture she wanted to make. It requires 200 toothpicks. Melanie’s mom puts toothpicks in her sandwiches when she serves them for lunch. Melanie started saving them and has saved 10 toothpicks each week for the past 12 weeks. If she continues saving toothpicks at the same rate, how many more weeks will it take her to collect 200 toothpicks?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗伯托养鸡来产蛋。他以每只20美元的价格购买了4只鸡。每周喂养这些鸡的总费用为1美元，每只鸡每周产3个永远不会停止的蛋。他过去每周购买1打鸡蛋，每打鸡蛋花费2美元。在多少周后，养鸡比购买鸡蛋更便宜？。",
+  "topic": "回答下面的数学问题：Roberto is raising chickens for eggs. He buys 4 chickens for $20 each. They cost $1 in total a week to feed and each produces 3 eggs a week that will last forever. He used to buy 1 dozen eggs a week and spent $2 per dozen. After how many weeks will the chickens be cheaper than buying his eggs?",
   "checkpoint": [
     {
-      "$\\boxed{81}$": 1
+      "\\boxed{81}": 1
     }
   ],
   "matchingmethod": [

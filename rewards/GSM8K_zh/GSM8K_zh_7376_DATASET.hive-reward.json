@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡洛斯正在洗衣服。他需要洗两次衣服，每次需要45分钟。然后他可以将两次洗的衣服合并并烘干，这需要75分钟。他的洗衣总共需要多长时间？。",
+  "topic": "回答下面的数学问题：Carlos is doing his laundry. He needs to wash two loads, which takes 45 minutes per load. Then he can combine both loads and dry them, which takes 75 minutes. How long does his laundry take in total?",
   "checkpoint": [
     {
-      "$\\boxed{165}$": 1
+      "\\boxed{165}": 1
     }
   ],
   "matchingmethod": [

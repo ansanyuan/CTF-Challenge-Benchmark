@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾琳经营自己的自助洗衣店，需要兑换洗衣机里的零钱。每台自助洗衣机里有80个25美分的硬币和100个10美分的硬币。当艾琳清空所有的自助洗衣机并兑换零钱时，她总共有90美元。在清空自助洗衣机之前，她没有任何钱，每台自助洗衣机里的钱数相同。自助洗衣店里有多少台自助洗衣机？。",
+  "topic": "回答下面的数学问题：Erin runs her own launderette and needs to cash in the change from the machines. There are 80 quarters and 100 dimes in every machine in the launderette. When Erin empties all of the machines and cashes in the change, she has a total of $90. She had no money before she emptied the machines and each machine held the same amount of money. How many machines are in the launderette?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

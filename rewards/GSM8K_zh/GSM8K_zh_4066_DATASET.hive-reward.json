@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在拼写比赛中，马克斯得到5分，杜尔斯得到3分，瓦尔得到的分数是马克斯和杜尔斯的总分的两倍。如果他们在同一个团队，而对手团队的总分是40分，他们的团队落后多少分？。",
+  "topic": "回答下面的数学问题：In the spelling bee, Max has 5 points, Dulce has 3 points, and Val has twice the combined points of Max and Dulce. If they are on the same team and their opponents' team has a total of 40 points, how many points are their team behind?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

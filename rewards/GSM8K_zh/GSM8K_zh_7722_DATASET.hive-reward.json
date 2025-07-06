@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位厨师买了4袋洋葱。每袋重50磅。一磅洋葱的成本是1.50美元。厨师花了多少钱？。",
+  "topic": "回答下面的数学问题：A chef bought 4 bags of onions. Each bag weighs 50 pounds. A pound of onions cost $1.50. How much did the chef spend?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

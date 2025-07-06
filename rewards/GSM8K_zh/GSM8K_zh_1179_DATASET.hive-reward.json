@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Oula和Tona为一家送货公司工作，向该州的不同地区提供牛奶产品。他们每天每次交付可以得到100美元。在一个特定的月份，Oula交付了96次，而Tona交付的次数是Oula的3/4。计算他们在那个月的薪水差额。。",
+  "topic": "回答下面的数学问题：Oula and Tona work for a delivery service company, supplying different parts of their state with milk products. They are paid $100 for each delivery made in a day. In a particular month, Oula made 96 deliveries while Tona made 3/4 times as many deliveries as Oula. Calculate their difference in pay that month.",
   "checkpoint": [
     {
-      "$\\boxed{2400}$": 1
+      "\\boxed{2400}": 1
     }
   ],
   "matchingmethod": [

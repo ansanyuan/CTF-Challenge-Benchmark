@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Greta想在她的生日吃布朗尼。她自己做了一批；一打奶油芝士漩涡布朗尼。在她的办公室，他们为她举办了一个派对，并送她半打布朗尼回家。当她到家时，她的朋友们在那里为她举办了一个惊喜派对，并准备了4打布朗尼。在派对期间，吃掉了1又1/2打布朗尼。Greta在整个一天结束后还剩下多少个单独的布朗尼？。",
+  "topic": "回答下面的数学问题：Greta wanted brownies for her birthday.  She made a batch for herself; one dozen cream cheese swirl brownies.  At her office, they threw her a party and sent her home with 1/2 a dozen brownies.  When she arrived home, her friends were there to throw her a surprise party and had 4 dozen brownies waiting.  During the party, 1 1/2 dozen brownies were eaten.  How many individual brownies did Greta have left over from the entire day?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

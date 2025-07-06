@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡梅拉有7美元，她的四个表兄弟姐妹每人有2美元。卡梅拉需要给她的每个表兄弟姐妹多少钱，这样她和她的表兄弟姐妹将拥有相同的金额？。",
+  "topic": "回答下面的数学问题：Carmela has $7 and each of her four cousins has $2. How much will Carmela have to give to each of her cousins so that she and her cousins will have the same amount of money?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

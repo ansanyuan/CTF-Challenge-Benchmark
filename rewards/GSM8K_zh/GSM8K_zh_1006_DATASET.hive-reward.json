@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：4个朋友去服装店购物。每件物品都打五折。所有四个朋友决定购买一件T恤。T恤的原价是20美元。他们总共花了多少钱？。",
+  "topic": "回答下面的数学问题：4 friends went to buy from a clothes shop. Every item was 50% off.  All four friends decided to buy a t-shirt. The original price of the t-shirt was 20 dollars. How much money did they spend in total?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

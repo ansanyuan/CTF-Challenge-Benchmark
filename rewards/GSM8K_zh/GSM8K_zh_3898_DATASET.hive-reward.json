@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果密歇根湖有100只鸭子，你可以安全地估计北池塘会有多少只鸭子？。",
+  "topic": "回答下面的数学问题：Six more than twice as many ducks go to North Pond as go to Lake Michigan. If Lake Michigan has 100 ducks, how many ducks can you safely estimate there will be at North Pond?",
   "checkpoint": [
     {
-      "$\\boxed{206}$": 1
+      "\\boxed{206}": 1
     }
   ],
   "matchingmethod": [

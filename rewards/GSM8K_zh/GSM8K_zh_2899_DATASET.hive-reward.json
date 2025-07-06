@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔被困在一个缓慢下降到底层的电梯里。电梯需要下降20层才能到达底层。电梯需要15分钟才能下降到前半部分的楼层。然后电梯需要每层5分钟才能下降接下来的5层。然后电梯需要每层16分钟才能下降最后的5层。以小时为单位，电梯下降到底层需要多长时间？。",
+  "topic": "回答下面的数学问题：Michael is stuck in an elevator that is slowly moving to the bottom floor. The elevator needs to move down 20 floors to reach the bottom. It takes 15 minutes for the elevator to travel down the first half of the floors. The elevator then takes 5 minutes per floor to travel down the next 5 floors. It then takes 16 minutes per floor for the elevator to finish traveling down the final 5 floors. In hours, how long did it take for the elevator to reach the bottom?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

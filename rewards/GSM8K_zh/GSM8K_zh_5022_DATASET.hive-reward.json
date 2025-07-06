@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰西收到50美元的礼物，可以用来买她想要的东西。她去了商场，爱上了一本售价7美元的小说。然后她去吃午餐，因为她非常饿，花了比小说的两倍还多。去商场后，杰西还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Jesse received $50 as a gift to buy what she wants. She goes to the mall and falls in love with a novel that costs her $7. Then she went to lunch because she was very hungry and spent twice as much as the novel cost her. How much money did Jesse have left after going to the mall?",
   "checkpoint": [
     {
-      "$\\boxed{29}$": 1
+      "\\boxed{29}": 1
     }
   ],
   "matchingmethod": [

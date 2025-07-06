@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Zack去了两倍于Patrick去过的国家数量。Patrick去了Joseph去过国家数量的三倍。Joseph去了George去过国家数量的一半。如果George去了6个国家，Zack去了多少个国家？。",
+  "topic": "回答下面的数学问题：Zack has traveled to twice the number of countries Patrick traveled to. Patrick traveled to three times the number of countries Joseph traveled to. Joseph traveled to half the number of countries George traveled to. If George traveled to 6 countries, how many countries did Zack travel to?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

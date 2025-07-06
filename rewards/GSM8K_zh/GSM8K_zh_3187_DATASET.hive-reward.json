@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：查德拉要去打怪兽。在一场大风暴之后，过去5天，城堡周围到处都是迷失的怪兽。查德拉想把它们都捆起来，带回到它们最舒适的沼泽地。第一天，她在城堡墙附近看到了2只怪兽。之后的每一天，她看到的怪兽数量都是前一天的两倍。5天后，她需要带多少只怪兽回到沼泽地？。",
+  "topic": "回答下面的数学问题：Chandra is going on a monster hunt. After a big storm, there have been lost monsters all around the castle grounds for the last 5 days. Chandra wants to rope them all up and return them to the swamps where they will be the most comfortable. On the first day she saw 2 monsters near the castle walls. Every day after that she saw double the amount as the day before. After 5 days how many monsters does she need to lead back to the swamps?",
   "checkpoint": [
     {
-      "$\\boxed{62}$": 1
+      "\\boxed{62}": 1
     }
   ],
   "matchingmethod": [

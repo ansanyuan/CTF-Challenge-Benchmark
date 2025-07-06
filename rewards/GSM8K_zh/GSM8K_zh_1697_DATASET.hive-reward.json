@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：6个朋友的晚餐账单是150美元。西拉斯说他会支付一半的账单，剩下的朋友可以分摊剩下的账单，并为整顿餐厅留下10%的小费。每个朋友将支付多少美元？。",
+  "topic": "回答下面的数学问题：The dinner bill for 6 friends came to $150. Silas said he would pay for half of the bill and the remaining friends could split the rest of the bill and leave a 10% tip for the whole meal. How many dollars will one of the friends pay?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克雷格有2张二十美元的钞票。他买了六把2美元一把的水枪。他还买了3包每包3美元的水气球。他还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Craig has 2 twenty dollar bills. He buys six squirt guns for $2 each.  He also buys 3 packs of water balloons for $3 each.  How much money does he have left?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Madeline和她的室友Keenan共同分担食品杂货的费用。他们每月总共花费大约400美元。在一个四周的月份里，如果Madeline支付60%的费用，那么Keenan每周花费多少美元？。",
+  "topic": "回答下面的数学问题：Madeline and her roommate, Keenan, share the cost of groceries. In total, they spend about $400 per month. In a four-week month, how many dollars does Keenan spend per week if Madeline pays 60% of the cost?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

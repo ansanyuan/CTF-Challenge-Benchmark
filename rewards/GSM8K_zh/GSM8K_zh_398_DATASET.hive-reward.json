@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：十个朋友决定给他们的老师买一份年终礼物。他们计划平均分担礼物的费用。但是其中四个人退出了。剩下的朋友平均分担了费用。如果现在每份多了8美元，那么礼物的成本是多少美元？。",
+  "topic": "回答下面的数学问题：Ten friends decide to get an end-of-year gift for their teacher. They plan to split the cost of the gift equally. But four of the group drop out. The remaining friends split the cost equally among themselves. If each share is now $8 more, how much does the gift cost, in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rose在采摘花朵来填满她想要的花瓶。她首先采摘了3朵每朵有5个花瓣的花。然后她又采摘了4朵每朵有6个花瓣的花。接着她又加了5朵每朵有4个花瓣的花。最后她采摘了6朵每朵有7个花瓣的花。当她把这些花拿过去放进花瓶时，她掉落了每种一朵，风把它们吹走了。她把剩下的花放进花瓶。花瓶里的花共有多少个花瓣？。",
+  "topic": "回答下面的数学问题：Rose is out picking flowers for a vase she wants to fill.  She starts off by picking 3 flowers with 5 petals each.  She then picks 4 flowers with 6 petals each.  She then adds another 5 flowers with 4 petals each.  Lastly she picks 6 flowers with 7 petals each.  As she's carrying these flowers over to fill the vase, she drops 1 of each and the wind blows them away.  She puts the remaining flowers in the vase.  How many petals in total are on the flowers in the vase?",
   "checkpoint": [
     {
-      "$\\boxed{79}$": 1
+      "\\boxed{79}": 1
     }
   ],
   "matchingmethod": [

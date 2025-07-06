@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：The equation $z^6+z^3+1=0$ has complex roots with argument $\\theta$ between $90^\\circ$ and $180^\\circ$ in the complex plane. Determine the degree measure of $\\theta$ .",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

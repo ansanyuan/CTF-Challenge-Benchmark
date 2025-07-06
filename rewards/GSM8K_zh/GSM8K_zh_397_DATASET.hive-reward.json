@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Holly每天需要服用2片胰岛素药片，3片降压药片，以及每天服用的抗惗药片数量是降压药片数量的两倍。Holly一周需要服用多少片药？。",
+  "topic": "回答下面的数学问题：Holly needs to take 2 insulin pills per day, 3 blood pressure pills per day, and twice as many anticonvulsants as blood pressure pills each day. How many pills does Holly take in a week?",
   "checkpoint": [
     {
-      "$\\boxed{77}$": 1
+      "\\boxed{77}": 1
     }
   ],
   "matchingmethod": [

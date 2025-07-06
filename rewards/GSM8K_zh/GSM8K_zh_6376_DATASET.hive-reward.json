@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Pat的计算机密码由几种字母数字和符号字符组成，以确保安全。他使用了一个由八个随机小写字母组成的字符串，一个长度为一半的交替大写字母和数字的字符串，并在密码的每一端都有一个符号。Pat的计算机密码一共有多少个字符？。",
+  "topic": "回答下面的数学问题：Pat’s computer password is made up of several kinds of alphanumeric and symbol characters for security. He uses a string of eight random lowercase letters, a string half that length of alternating upper case letters and numbers, and one symbol on each end of the password. How many characters in all is Pat‘s computer password?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

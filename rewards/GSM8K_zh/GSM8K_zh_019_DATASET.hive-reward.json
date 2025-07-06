@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Roque步行上班需要两个小时，骑自行车上班需要一个小时。Roque每周步行往返上班三次，骑自行车往返上班两次。Roque每周总共花多少小时步行和骑自行车往返上班？。",
+  "topic": "回答下面的数学问题：It takes Roque two hours to walk to work and one hour to ride his bike to work. Roque walks to and from work three times a week and rides his bike to and from work twice a week. How many hours in total does he take to get to and from work a week with walking and biking?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

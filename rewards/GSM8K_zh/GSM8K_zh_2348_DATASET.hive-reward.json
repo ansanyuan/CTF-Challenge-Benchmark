@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rubert有詹姆斯糖果数量的4倍。詹姆斯有亚当糖果数量的3倍。如果亚当有6颗糖果，他们三个总共有多少颗糖果？。",
+  "topic": "回答下面的数学问题：Rubert has 4 times the number of candies James has. James has 3 times the number of candies Adam has. If Adam has 6 candies, how many candies do the three of them have in total?",
   "checkpoint": [
     {
-      "$\\boxed{96}$": 1
+      "\\boxed{96}": 1
     }
   ],
   "matchingmethod": [

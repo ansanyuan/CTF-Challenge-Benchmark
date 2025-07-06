@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍勃购买了鼻喷雾。他参加了“买一送一”的促销活动，购买了10瓶。每瓶的价格是3美元。他一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：Bob buys nose spray.  He buys 10 of them for a \"buy one get one free\" promotion.  They each cost $3.  How much does he pay?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

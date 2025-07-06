@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：尼基去了车管所。他花了20分钟等待取号，然后等待号码被叫号的时间是前者的四倍再加上14分钟。他总共等了多久？。",
+  "topic": "回答下面的数学问题：Nicky went to the DMV. He spent 20 minutes waiting to take a number, and quadruple that amount of time plus 14 minutes waiting for his number to be called. How long did he wait total?",
   "checkpoint": [
     {
-      "$\\boxed{114}$": 1
+      "\\boxed{114}": 1
     }
   ],
   "matchingmethod": [

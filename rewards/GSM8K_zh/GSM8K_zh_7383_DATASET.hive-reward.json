@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤米正在为他的家人做牛排。总共有5个人。如果每个成员想要一磅牛排，而牛排每块重20盎司，他需要买多少块？。",
+  "topic": "回答下面的数学问题：Tommy is making steaks for his family. There are 5 of them in total. If each member wants one pound and the steaks are 20 ounces each, how many does he need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

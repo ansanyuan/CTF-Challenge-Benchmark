@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：康妮今天兑换了所有她的游乐场门票。她用一半的门票买了一只毛绒考拉熊。她用10张门票买了一副耳机。她又用15张门票买了发光手环。康妮今天兑换了多少张门票？。",
+  "topic": "回答下面的数学问题：Connie redeemed all her arcade tickets today. She spent half of them on a stuffed koala bear. She spent 10 tickets on a pair of earbuds. She spent another 15 tickets on glow bracelets. How many tickets did Connie redeem today?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

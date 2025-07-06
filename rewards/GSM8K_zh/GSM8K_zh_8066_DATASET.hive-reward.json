@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marilyn想在网上买一双靴子。在Amazon.com上，这双靴子的价格是16美元，运费是4美元。在eBay上，同样的一双鞋只要13美元，但是运费是Amazon上的两倍。在eBay上，这双靴子的总费用比Amazon上贵多少？。",
+  "topic": "回答下面的数学问题：Marilyn wants to buy a pair of boots online. On Amazon.com, the boots cost $16 and shipping costs $4. On eBay, those same pair of shoes are only $13, but shipping costs twice as much as it does on Amazon. How much more expensive do the boots work out to be on eBay?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

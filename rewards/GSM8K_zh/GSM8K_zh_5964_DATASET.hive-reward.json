@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莱拉购买了一套客厅家具，包括一张价值1250美元的沙发，两张每张425美元的扶手椅和一张咖啡桌。发票的总金额是2430美元。咖啡桌的价格是多少？。",
+  "topic": "回答下面的数学问题：Leila bought a living room set consisting of a sofa worth $1,250, 2 armchairs costing $425 each and a coffee table. The total amount of the invoice is $2,430. What is the price of the coffee table?",
   "checkpoint": [
     {
-      "$\\boxed{330}$": 1
+      "\\boxed{330}": 1
     }
   ],
   "matchingmethod": [

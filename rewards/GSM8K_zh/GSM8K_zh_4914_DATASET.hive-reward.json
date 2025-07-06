@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一所学校，2018年科学知识竞赛的参与者人数为150。2019年的参与者人数是2018年的两倍再加20。2020年的参与者人数比2019年的一半少40。2019年比2020年多了多少参与者？。",
+  "topic": "回答下面的数学问题：In a school, the number of participants in the 2018 Science Quiz Bowl was 150. There were 20 more than twice the number of participants in 2019 as there were in 2018. In 2020, the number of participants was 40 less than half the number of participants in 2019. How many more participants were there in 2019 than in 2020?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

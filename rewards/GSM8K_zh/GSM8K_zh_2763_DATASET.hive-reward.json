@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亨利每个月喝15瓶康普茶。每瓶的成本是3.00美元，当他把它带到回收中心时，每瓶都有0.10美元的现金退款。1年后，他将能够在收到现金退款后购买多少瓶康普茶？。",
+  "topic": "回答下面的数学问题：Henry drinks 15 bottles of kombucha every month.  Each bottle costs $3.00 and is eligible for a cash refund of $0.10 per bottle when he takes it to a recycling center.  After 1 year, how many bottles of kombucha will he be able to buy after he receives his cash refund?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

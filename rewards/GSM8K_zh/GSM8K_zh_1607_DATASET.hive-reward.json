@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛雅想学习举重，目前她只能举起美国人的四分之一。美国人可以举起240磅。随着玛雅变得更强壮，她可以比之前多举起10磅。美国人也遵循这个规律，现在她的最大举重是300磅。如果玛雅达到了她的绝对极限，可以举起美国人的一半，那么现在玛雅比刚开始时可以举起多少磅？。",
+  "topic": "回答下面的数学问题：Maya wants to learn how to lift and right now she can only lift a fourth of what America can. America can lift 240 pounds. As Maya grows stronger, she can add 10 more pounds to what she previously could lift. America follows this and now she has hit her peak lift at 300 pounds. If Maya reaches her absolute peak and can lift half of what America can lift, how many more pounds can Maya lift now than when she started?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

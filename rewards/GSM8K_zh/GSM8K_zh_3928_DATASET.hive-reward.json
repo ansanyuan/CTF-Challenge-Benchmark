@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：辛迪每小时跑3英里，步行1英里。如果她跑了半英里，然后走了半英里，她需要多少分钟才能走完一英里？。",
+  "topic": "回答下面的数学问题：Cindy can run at 3 miles per hour and walk at 1 mile per hour. If she runs for half a mile and then walks for half a mile, how many minutes will it take her to travel the full mile?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔决定上一些钢琴课。一节课的费用是30美元，持续1.5小时。迈克尔需要为18小时的课程支付多少钱？。",
+  "topic": "回答下面的数学问题：Micheal decided to take some piano lessons. One lesson costs $30 and lasts for 1.5 hours. How much will Micheal need to pay for 18 hours of lessons?",
   "checkpoint": [
     {
-      "$\\boxed{360}$": 1
+      "\\boxed{360}": 1
     }
   ],
   "matchingmethod": [

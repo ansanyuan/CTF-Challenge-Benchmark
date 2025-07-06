@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Joey在Scrabble游戏中轮到他之前有214分。他得了26分。然后拥有225分的Marcy得了10分。现在Joey领先多少分？。",
+  "topic": "回答下面的数学问题：Joey has 214 points before his turn in Scrabble. He scores 26 points. Then Marcy, who has 225 points, scores 10 points. By how many points is Joey now winning?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周一邮局投递了425封信。周二他们投递的信件比周一的五分之一多17封。周三他们投递的信件比周二的两倍多5封。邮局从周一到周三总共投递了多少封信？。",
+  "topic": "回答下面的数学问题：On Monday the post office delivered 425 letters. On Tuesday they delivered 17 more than one-fifth as many as Monday. On Wednesday they delivered 5 more than twice as many as they delivered on Tuesday. How many letters did the post office deliver Monday - Wednesday?",
   "checkpoint": [
     {
-      "$\\boxed{736}$": 1
+      "\\boxed{736}": 1
     }
   ],
   "matchingmethod": [

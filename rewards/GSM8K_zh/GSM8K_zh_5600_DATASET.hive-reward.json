@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mairead在做锻炼时跑了40英里，走的距离是她跑步距离的3/5倍，而且她走的距离是她慢跑距离的五倍。计算Mairead在做锻炼时总共跑了多少英里。。",
+  "topic": "回答下面的数学问题：When doing her exercises, Mairead runs for 40 miles, walks for 3/5 times as many miles as she ran, and walks for five times the number of miles she jogged. Calculate the total distance Mairead has covered while doing her exercises.",
   "checkpoint": [
     {
-      "$\\boxed{184}$": 1
+      "\\boxed{184}": 1
     }
   ],
   "matchingmethod": [

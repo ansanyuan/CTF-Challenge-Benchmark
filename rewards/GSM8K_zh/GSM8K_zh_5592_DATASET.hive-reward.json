@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯想在水下连续屏住90秒，所以他开始每天训练。第一天，他屏住了10秒。第二天，他屏住了20秒。第三天，他屏住了30秒。在意识到他每天可以多屏住十秒后，他意识到如果他保持相同的速度，他可以计算出还有多少天才能达到90秒。那么他还需要多少天才能屏住90秒？。",
+  "topic": "回答下面的数学问题：Chris wants to hold his breath underwater for 90 straight seconds so he starts training each day. On the first day, he holds it for 10 seconds. On the second day, he holds it for 20 seconds. On the third day, he holds it for 30 seconds. After realizing that he can hold it for ten extra seconds each day, he realizes he can calculate how many days it is until he reaches 90 if he keeps up the same pace. So how many days until he can hold his breath for 90 seconds?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

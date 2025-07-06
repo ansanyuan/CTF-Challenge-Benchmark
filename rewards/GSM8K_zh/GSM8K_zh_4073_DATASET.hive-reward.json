@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个蛋糕有8片，每片含347卡路里。一盘布朗尼有6块，每块含375卡路里。蛋糕比布朗尼多多少卡路里？。",
+  "topic": "回答下面的数学问题：A cake has 8 slices and each slice contains 347 calories.  A pan of brownies has 6 brownies and each slice contains 375 calories.  How many more calories does the cake have?",
   "checkpoint": [
     {
-      "$\\boxed{526}$": 1
+      "\\boxed{526}": 1
     }
   ],
   "matchingmethod": [

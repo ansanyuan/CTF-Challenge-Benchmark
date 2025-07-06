@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carlo下周有一个音乐独奏会。他周一练习的时间是周二的两倍。周二，他比周三练习少了10分钟。周三，他比周四练习多了5分钟。周四，他练习了50分钟。如果他这周总共需要练习5小时，Carlo周五应该练习多长时间？。",
+  "topic": "回答下面的数学问题：Carlo has a music recital next week. He practiced twice as long on Monday as on Tuesday. On Tuesday, he practiced 10 minutes less than on Wednesday. On Wednesday, he practiced 5 minutes more than on Thursday. On Thursday, he practiced for 50 minutes. If he needs to practice for a total of 5 hours that week, how long should Carlo practice on Friday?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

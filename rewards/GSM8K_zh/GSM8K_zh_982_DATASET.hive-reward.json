@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥尔加的每只网球鞋侧面有三条条纹。瑞克的每只鞋比奥尔加的少一条条纹。但霍滕斯的网球鞋上的条纹数量是奥尔加的两倍。总共，他们所有网球鞋上的条纹总数是多少？。",
+  "topic": "回答下面的数学问题：Olga has three stripes on the side of each of her tennis shoes.  Rick has one less stripe per shoe than does Olga.  But Hortense has double the number of stripes on her tennis shoes as does Olga.  In total, what is the combined number of stripes on all of their pairs of tennis shoes?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

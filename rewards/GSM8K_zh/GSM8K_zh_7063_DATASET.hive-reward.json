@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰森、瑞安和杰弗里去湖边钓鱼。瑞恩捉到的鱼是杰森捉到的鱼的三倍。杰弗里捉到的鱼是瑞恩捉到的鱼的两倍。如果杰弗里捉到了60条鱼，他们总共捉到了多少条鱼？。",
+  "topic": "回答下面的数学问题：Jason, Ryan, and Jeffery went fishing at the lake. Ryan caught three times the number of fish that Jason caught. Jefferey caught twice the number of fish that Ryan got.  If Jeffery caught 60 fish, how many fish did all of them catch in total?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

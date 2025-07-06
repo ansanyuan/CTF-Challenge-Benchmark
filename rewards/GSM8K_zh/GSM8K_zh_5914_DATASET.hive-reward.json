@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：朱莉娅必须为派对做6个蛋糕。每个蛋糕搅拌需要12分钟，烘烤需要比搅拌多9分钟。然后冷却和装饰需要比烘烤多6分钟。制作所有6个蛋糕需要多少小时？。",
+  "topic": "回答下面的数学问题：Julia had to make 6 cakes for the party. Each cake takes 12 minutes to mix and needs 9 more minutes to bake than mix. Then it takes 6 more minutes to cool and decorate than to bake. How many hours will it take to make all 6 cakes?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

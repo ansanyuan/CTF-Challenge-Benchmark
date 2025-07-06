@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每本紫色书有230页。每本橙色书有510页。米雷拉读了5本紫色书和4本橙色书。她比紫色书多读了多少页橙色书？。",
+  "topic": "回答下面的数学问题：Each purple book has 230 pages. Each orange book contains 510 pages. Mirella read 5 purple books and 4 orange books. How many more orange pages did she read than purple pages?",
   "checkpoint": [
     {
-      "$\\boxed{890}$": 1
+      "\\boxed{890}": 1
     }
   ],
   "matchingmethod": [

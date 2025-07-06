@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：埃斯特万有24条毯子。三分之一的毯子上有圆点。过生日时，他妈妈给了他2条圆点图案的毯子。埃斯特万总共有多少条圆点毯子？。",
+  "topic": "回答下面的数学问题：Estevan has 24 blankets. One-third of the blankets have polka-dots. For his birthday, his mother gives him 2 more polka-dot print blankets. How many polka-dot blankets does Estevan have in total?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

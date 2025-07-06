@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：皮特有一个装有10颗弹珠的袋子。40%是蓝色的，其余是红色的。他的朋友将以每颗红色弹珠换取两颗蓝色弹珠。如果皮特保留1颗红色弹珠，与朋友交易后他一共有多少颗弹珠？。",
+  "topic": "回答下面的数学问题：Pete has a bag with 10 marbles. 40% are blue and the rest are red. His friend will trade him two blue marbles for every red one. If Pete keeps 1 red marble, how many total marbles does he have after trading with his friend?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

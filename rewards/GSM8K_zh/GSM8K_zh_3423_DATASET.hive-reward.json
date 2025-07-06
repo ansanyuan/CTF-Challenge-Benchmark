@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯购买了两个拼图，每个拼图有2000块。他预计对于这些更大的拼图，他可以每10分钟完成100块。那么完成这两个拼图需要多长时间？。",
+  "topic": "回答下面的数学问题：James buys 2 puzzles that are 2000 pieces each.  He anticipates for these larger puzzles he can do 100 pieces every 10 minutes.  So how long would it take to finish both puzzles?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

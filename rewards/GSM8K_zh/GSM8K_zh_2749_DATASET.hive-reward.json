@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一本书的价格是400美元。如果这本书的价格减少了15%，然后增加了40%，那么这本书的最终价格是多少？。",
+  "topic": "回答下面的数学问题：The price of a book was $400. If the book's price is decreased by 15% and then increased by 40%, what is the final price of the book?",
   "checkpoint": [
     {
-      "$\\boxed{476}$": 1
+      "\\boxed{476}": 1
     }
   ],
   "matchingmethod": [

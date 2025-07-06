@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carly正在为社区烧烤制作汉堡。每个汉堡需要每一面煮4分钟。Carly一次可以在烤架上放5个汉堡。如果她的30位客人中有一半想要2个汉堡，另一半每人想要1个，Carly需要多长时间来煮所有的汉堡？。",
+  "topic": "回答下面的数学问题：Carly is making burgers for a neighborhood BBQ. Each burger needs to be cooked for 4 minutes on each side. Carly can fit 5 burgers on the grill at once. If half her 30 guests want 2 burgers and the other half each want 1, how long will it take Carly to cook all the burgers?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯托瓦尔比贝娅特丽克丝多读了15页，是贝娅特丽克丝读的页数的3倍。如果贝娅特丽克丝读了704页，克里斯托瓦尔比贝娅特丽克丝多读了多少页？。",
+  "topic": "回答下面的数学问题：Cristobal read 15 more than three times the pages that Beatrix read. If Beatrix read 704 pages, how many more pages did Cristobal read?",
   "checkpoint": [
     {
-      "$\\boxed{1423}$": 1
+      "\\boxed{1423}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布兰登和他爸爸一起去钓鱼。 布兰登早上钓到8条鱼。 他扔掉了3条太小的鱼。 下午他又钓到5条。 布兰登的爸爸钓到13条鱼。 他们总共钓到多少条鱼？。",
+  "topic": "回答下面的数学问题：Brendan went fishing with his dad. Brenden caught 8 fish in the morning. He threw 3 back that were too small. He caught 5 more in the afternoon. Brendan’s dad caught 13 fish. How many fish did they catch in all?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

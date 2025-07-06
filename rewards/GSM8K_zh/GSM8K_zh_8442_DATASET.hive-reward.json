@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Andy在一个网球度假村的专业店工作。他有12个球拍需要重新穿线。其中3个要用合成肠线穿，5个要用聚酯线穿，还有4个要用混合套装（一半合成肠线，一半聚酯线）穿。如果Andy穿合成肠线平均需要15分钟，穿聚酯线需要22分钟，穿混合套装需要18分钟，那么他穿完所有这些球拍需要多长时间？。",
+  "topic": "回答下面的数学问题：Andy works in the pro shop of a tennis resort. He has 12 racquets that need restringing. 3 of them are to be strung with synthetic gut, 5 of them will be strung with polyester string, and 4 of them will be strung with a hybrid set (half synthetic gut, half polyester string). How long will it take Andy to string all of those racquets if it takes him an average of 15 minutes for him to string with synthetic gut, 22 minutes to string with polyester string, and 18 minutes for hybrid sets?",
   "checkpoint": [
     {
-      "$\\boxed{227}$": 1
+      "\\boxed{227}": 1
     }
   ],
   "matchingmethod": [

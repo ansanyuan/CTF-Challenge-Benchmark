@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：动物园有21只企鹅和两倍于此数量的北极熊？他们一共有多少动物？。",
+  "topic": "回答下面的数学问题：A zoo has 21 penguins and twice as many polar bears?  How many total animals do they have?",
   "checkpoint": [
     {
-      "$\\boxed{63}$": 1
+      "\\boxed{63}": 1
     }
   ],
   "matchingmethod": [

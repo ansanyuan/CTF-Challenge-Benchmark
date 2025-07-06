@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊妮德和亚伦正在为他们的商店编织衣服。亚伦制作了10条围巾和5件毛衣，伊妮德制作了8件毛衣。如果一条围巾需要3个毛线球，一件毛衣需要4个毛线球，那么伊妮德和亚伦总共使用了多少个毛线球？。",
+  "topic": "回答下面的数学问题：Enid and Aaron are knitting clothes for their store. Aaron makes 10 scarves and 5 sweaters, and Enid makes 8 sweaters. If a scarf uses 3 balls of wool and a sweater uses 4 balls of wool, how many balls of wool did Enid and Aaron use in total?",
   "checkpoint": [
     {
-      "$\\boxed{82}$": 1
+      "\\boxed{82}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cara的袋子里有60颗弹珠。其中20颗是黄色的，一半是绿色的，剩下的弹珠平均分成红色和蓝色。如果Cara随机挑选一颗弹珠，它是蓝色的几率是多少（以百分比表示）？。",
+  "topic": "回答下面的数学问题：Cara has 60 marbles in a bag. 20 of them are yellow, half as many are green, and the remaining marbles are equally divided between red and blue. If Cara picks a marble at random, what are the odds it's blue (expressed as a percentage)?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

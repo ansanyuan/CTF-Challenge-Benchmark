@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ned开了一家左撇子商店。他出售左撇子鼠标。它们的价格比普通鼠标高出30%。他每天卖出25个，他的商店每天都开放，除了星期日、星期四和星期五。如果普通鼠标的价格是120美元，他一周赚多少钱？。",
+  "topic": "回答下面的数学问题：Ned opens a left-handed store.  He sells left-handed mice.  They cost 30% more than normal mice.  He sells 25 a day and his store is open every day except Sunday, Thursday, and Friday.  If normal mice cost $120 how much money does he make a week?",
   "checkpoint": [
     {
-      "$\\boxed{15600}$": 1
+      "\\boxed{15600}": 1
     }
   ],
   "matchingmethod": [

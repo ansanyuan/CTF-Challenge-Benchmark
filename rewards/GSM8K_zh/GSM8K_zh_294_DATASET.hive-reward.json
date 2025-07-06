@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡洛塔在最后的歌剧表演中，每上台唱1分钟，她就需要额外练习3分钟，发脾气5分钟。如果她最后的舞台表演持续6分钟，她在练习、发脾气和唱歌的总时间是多少分钟？。",
+  "topic": "回答下面的数学问题：For every 1 minute that Carlotta sings on stage during the final opera performance, she spends an additional 3 minutes practicing and 5 minutes throwing temper tantrums. If her final stage performance is 6 minutes long, what is the total combined amount of time, in minutes, that she spends practicing, throwing tantrums, and singing in the final stage performance?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

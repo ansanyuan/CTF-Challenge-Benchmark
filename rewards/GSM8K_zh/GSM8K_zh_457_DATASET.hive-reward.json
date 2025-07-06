@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：查德一年中挣得/收到的钱的40%。今年，他割草挣了600美元，生日/节日收到了250.00美元。他还通过出售一些旧的视频游戏赚了150.00美元，另外做零工赚了150.00美元。他将会存下多少钱？。",
+  "topic": "回答下面的数学问题：Chad saves 40% of the money he earns/receives in a year.  This year, he made $600 mowing yards and received $250.00 for his birthday/holidays.  He also made $150.00 by selling some old video games and another $150.00 doing odd jobs.  How much will he save?",
   "checkpoint": [
     {
-      "$\\boxed{460}$": 1
+      "\\boxed{460}": 1
     }
   ],
   "matchingmethod": [

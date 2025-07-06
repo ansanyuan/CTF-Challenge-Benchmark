@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一袋糖果里有100颗糖豆要在万圣节派发。在参加万圣节庆祝活动的40个孩子中，80%被允许从袋子里抽取糖豆。每个孩子从袋子里抽了两颗糖豆。孩子们拿走后袋子里剩下多少颗糖豆？。",
+  "topic": "回答下面的数学问题：There were 100 jelly beans in a bag to be given away on Halloween. Out of the 40 children taking part in the Halloween celebration, 80% were allowed to draw jelly beans from the bag. Each child drew two jelly beans out of the bag. How many jelly beans remained in the bag after the children took their share?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

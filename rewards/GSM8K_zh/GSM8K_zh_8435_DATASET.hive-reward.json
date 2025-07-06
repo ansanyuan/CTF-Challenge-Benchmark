@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Amora、Lainey和Collins想要平均分配玉米片，但后来意识到只有两个人能得到相同数量的玉米片，而另一个人会比其他人多得到15片玉米片。如果Amora和Lainey每人得到70片玉米片，那么总共有多少片玉米片？。",
+  "topic": "回答下面的数学问题：Amora, Lainey, and Collins wanted to share corn chips equally but then realized only two people would get an equal amount of corn chips, while the other person would receive 15 more corn chips than the number the others got. If Amora and Lainey got 70 corn chips each, how many corn chips were there altogether?",
   "checkpoint": [
     {
-      "$\\boxed{225}$": 1
+      "\\boxed{225}": 1
     }
   ],
   "matchingmethod": [

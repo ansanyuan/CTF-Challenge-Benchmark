@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丹尼尔在体育场为运动员装水瓶。本赛季他装了254个水瓶。足球队有11名球员，每人想要6个水瓶。足球队需要12个比橄榄球队多的水瓶。每支球队的教练在赛季期间也想要两个水瓶。在他本赛季最后一场比赛中，他为橄榄球队装了多少个水瓶？。",
+  "topic": "回答下面的数学问题：Daniel works for a sports stadium filling water bottles for athletes. He filled 254 water bottles this season. The football team had 11 players that wanted 6 bottles each. The soccer team had him fill 53 bottles. The lacrosse team needed 12 more bottles than the football team. Each team coach during the season also wanted two bottles apiece. How many bottles did he fill for the rugby team during the final game he worked this season?",
   "checkpoint": [
     {
-      "$\\boxed{49}$": 1
+      "\\boxed{49}": 1
     }
   ],
   "matchingmethod": [

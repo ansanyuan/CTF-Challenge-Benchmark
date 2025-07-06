@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特喜欢在业余时间收集动作人物玩偶。她目前拥有10个动作人物玩偶，卖掉其中6个以换取4个状况更好的。然后她的兄弟把他的收藏给了她，收藏的规模是珍妮特当时的两倍。她现在总共有多少个动作人物玩偶？。",
+  "topic": "回答下面的数学问题：Janet likes collecting action figures in her spare time. She currently owns 10 action figures and sells 6 of them to get 4 that are in better condition. Her brother then gives her his collection which is twice the size of what Janet has at the time. How many action figures does she now have in total?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

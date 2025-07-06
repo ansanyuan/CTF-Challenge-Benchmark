@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安娜烤了60个纸杯蛋糕。她把其中的4/5送给了她的同学。剩下的1/5的纸杯蛋糕中，她吃了3个。她剩下多少个纸杯蛋糕？。",
+  "topic": "回答下面的数学问题：Anna baked 60 cupcakes. She gives away 4/5 of the cupcakes to her classmates. Of the remaining 1/5 of cupcakes, she eats 3 cupcakes. How many cupcakes does she have left?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

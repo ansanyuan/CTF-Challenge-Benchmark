@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：洛根的父亲收到了50箱牛奶的交付，每箱里有20瓶牛奶。在一个特定的星期，当交付完成时，他少收到了20箱，而在卸货过程中，他发现了5箱中的每箱3瓶牛奶损坏，还有一箱完全损坏。那个星期有多少瓶牛奶可以出售？。",
+  "topic": "回答下面的数学问题：Logan's father receives 50 cartons delivery for his milk business, each carton having 20 jars of milk. On a particular week, he received 20 cartons less when the delivery was done, and during offloading, he realized 3 jars in 5 cartons each was damaged, and one carton was totally damaged. How many jars of milk were good for sale that week?",
   "checkpoint": [
     {
-      "$\\boxed{565}$": 1
+      "\\boxed{565}": 1
     }
   ],
   "matchingmethod": [

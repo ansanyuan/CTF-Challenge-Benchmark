@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：盖文现在每天做4个梦已经一年了。如果他去年的梦的数量是今年的两倍，计算他在两年内总共做了多少个梦。。",
+  "topic": "回答下面的数学问题：Gavin has had 4 dreams every day for a year now. If he had twice as many dreams last year as he had this year, calculate the total number of dreams he's had in the two years.",
   "checkpoint": [
     {
-      "$\\boxed{4380}$": 1
+      "\\boxed{4380}": 1
     }
   ],
   "matchingmethod": [

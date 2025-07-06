@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在家庭团聚时，每个人都吃得太多，增加了体重。奥兰多增加了5磅。何塞比奥兰多增加的两倍多了两磅。费尔南多比何塞增加的一半少了3磅。在团聚时，这三个家庭成员总共增加了多少磅？。",
+  "topic": "回答下面的数学问题：At the family reunion, everyone ate too much food and gained weight.  Orlando gained 5 pounds.  Jose gained two pounds more than twice what Orlando gained.  Fernando gained 3 pounds less than half of what Jose gained.  How much weight, in pounds, did the three family members gain at their reunion?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

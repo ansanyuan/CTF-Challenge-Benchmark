@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚历山大八岁生日时身高50英寸。如果他每年长半英尺，他十二岁生日时身高将是多少英寸？。",
+  "topic": "回答下面的数学问题：Alexander was 50 inches on his 8th birthday. If he grows 1/2 a foot a year, how many inches tall will he be on his 12th birthday?",
   "checkpoint": [
     {
-      "$\\boxed{74}$": 1
+      "\\boxed{74}": 1
     }
   ],
   "matchingmethod": [

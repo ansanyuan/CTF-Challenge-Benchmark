@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丽贝卡每天喝掉半瓶苏打。上次她在商店买了三打苏打水。四周后她还剩下多少瓶苏打水？。",
+  "topic": "回答下面的数学问题：Rebecca drinks half a bottle of soda a day. She bought three 6-packs of sodas the last time she was at the store. How many bottles of soda will she have left after four weeks?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

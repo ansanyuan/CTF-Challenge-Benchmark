@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：3个有4个人的家庭共享了一个度假租赁房子7天。每个人每天使用1条超大海滩毛巾，然后再拿一条新的。洗衣机一次可以装14条超大海滩毛巾。需要多少次洗衣才能清洗所有的超大海滩毛巾？。",
+  "topic": "回答下面的数学问题：3 families of 4 people shared a vacation rental for 7 days.  Everyone uses 1 oversized beach towel a day before getting a new one.  The washing machine can hold 14 oversized beach towels per load.  How many loads of laundry will it take to wash all the oversized beach towels?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

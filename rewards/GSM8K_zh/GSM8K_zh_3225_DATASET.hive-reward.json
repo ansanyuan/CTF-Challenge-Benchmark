@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：斯蒂芬骑自行车去教堂。在他旅程的第一个三分之一中，他以每小时16英里的速度行驶。在他旅程的第二个三分之一中，他上坡时以每小时12英里的速度行驶。在他旅程的最后三分之一中，他以每小时20英里的速度下坡行驶。如果他的每个旅程三分之一都需要15分钟，那么斯蒂芬骑自行车去教堂的距离是多少英里？。",
+  "topic": "回答下面的数学问题：Stephen rides his bicycle to church.  During the first third of his trip, he travels at a speed of 16 miles per hour. During the second third of his trip, riding uphill, he travels a speed of 12 miles per hour.  During the last third of his trip, he rides downhill at a speed of 20 miles per hour.  If each third of his trip takes 15 minutes, what is the distance Stephen rides his bicycle to church, in miles?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

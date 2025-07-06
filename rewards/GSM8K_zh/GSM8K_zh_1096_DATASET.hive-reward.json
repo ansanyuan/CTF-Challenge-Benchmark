@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊格纳修斯拥有4辆自行车。他的一个朋友拥有不同类型的车，这些车的轮胎数量是伊格纳修斯自行车数量的三倍。他有一辆独轮车，一辆三轮车，其余都是自行车。他的朋友拥有多少辆自行车？。",
+  "topic": "回答下面的数学问题：Ignatius owns 4 bicycles.  A friend of his owns different types of cycles, which have three times are many tires as Ignatius's bikes have. He has one unicycle, a tricycle, and the rest are bikes. How many bicycles does the friend own?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

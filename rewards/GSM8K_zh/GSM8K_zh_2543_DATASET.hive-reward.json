@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当机器处于冷却状态时，比如生产的第一个小时，每个成型花盆的生产时间为6分钟。之后，一旦它变暖，每个花盆的生产时间只需要5分钟。与第一个小时相比，最后一个小时生产了多少额外的花盆？。",
+  "topic": "回答下面的数学问题：When the machine is cold, as it is in the first hour of production, it takes 6 minutes to produce each molded flower pot. Thereafter, once it is warm, it takes only 5 minutes to produce each pot. How many additional pots are produced in the last hour of the day, compared to the first?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

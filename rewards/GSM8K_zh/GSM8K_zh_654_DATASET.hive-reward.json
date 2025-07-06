@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：弗雷德花了他零花钱的一半去看电影。他洗了家里的车，赚了6美元。如果他最后有14美元，他的每周零花钱是多少？。",
+  "topic": "回答下面的数学问题：Fred spent half of his allowance going to the movies. He washed the family car and earned 6 dollars. What is his weekly allowance if he ended with 14 dollars?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

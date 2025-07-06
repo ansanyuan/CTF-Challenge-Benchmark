@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡洛斯和迭戈正在围着街区比赛。卡洛斯跑完整个街区需要3分钟。迭戈跑了一半的街区需要2.5分钟，然后被一只狗绊倒，无法完成比赛。假设他一直保持相同的速度，参赛者的平均时间（以秒为单位）是多少？。",
+  "topic": "回答下面的数学问题：Carlos and Diego are racing around the block. Carlos runs around the entire block in 3 minutes. Diego runs around half the block in 2.5 minutes and then is tripped by a dog and can't finish. Assuming he kept up the same speed the entire race, what would've been the average time in seconds for the racers?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：胡安和他的兄弟卡洛斯在卖柠檬水。他们制作每加仑柠檬水的成本是3美元的柠檬和2美元的糖。他们每杯柠檬水卖0.50美元，每加仑可以倒出20杯。如果他们赚了25美元的利润，他们在柠檬上花了多少钱？。",
+  "topic": "回答下面的数学问题：Juan and his brother Carlos are selling lemonade. For each gallon they make it costs $3 for lemons and $2 for sugar. They sell each glass for $0.50 and get 20 glasses per gallon. If they made $25 in profit, how much did they spend on lemons?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

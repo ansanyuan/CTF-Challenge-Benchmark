@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆决定上10节舞蹈课，每节课费用为10美元，但他有两节课是免费的。他一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：Tom decides to take 10 dance lessons that cost $10 each, but he gets two of them for free. How much does he pay?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

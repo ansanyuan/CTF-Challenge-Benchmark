@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $S$ be the set of all positive rational numbers $r$ such that when the two numbers $r$ and $55r$ are written as fractions in lowest terms, the sum of the numerator and denominator of one fraction is the same as the sum of the numerator and denominator of the other fraction. The sum of all the elements of $S$ can be expressed in the form $\\frac{p}{q},$ where $p$ and $q$ are relatively prime positive integers. Find $p+q.$",
   "checkpoint": [
     {
-      "$\\boxed{719}$": 1
+      "\\boxed{719}": 1
     }
   ],
   "matchingmethod": [

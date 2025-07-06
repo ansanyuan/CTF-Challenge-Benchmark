@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校教练购买了体育器材。A教练购买了10个新篮球，每个29美元，而B教练购买了14个新棒球，每个2.50美元，还有一只棒球棒，价格为18美元。A教练比B教练多花了多少钱？。",
+  "topic": "回答下面的数学问题：School coaches bought sports equipment. Coach A bought ten new basketballs for $29 each, while coach B bought 14 new baseballs for $2.50 each and a baseball bat for $18. How much more did coach A spend than coach B?",
   "checkpoint": [
     {
-      "$\\boxed{237}$": 1
+      "\\boxed{237}": 1
     }
   ],
   "matchingmethod": [

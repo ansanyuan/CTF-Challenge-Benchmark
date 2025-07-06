@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Josh决定学习杂耍，在一个月后的学校才艺表演上表演。他开始练习用3个球杂耍，并且慢慢进步，每周他的杂耍表演中增加1个球。在第四周结束后才艺表演开始，但当Josh走上舞台时他滑倒了，掉落了三个球。其中有两个球被观众在台下接住，但有一个球因为礼堂很暗而完全找不到了。Josh叹了口气，开始在舞台上用多少个球进行杂耍？。",
+  "topic": "回答下面的数学问题：Josh decides to take up juggling to perform at the school talent show a month in the future.  He starts off practicing juggling 3 balls, and slowly gets better adding 1 ball to his juggling act each week.  After the end of the fourth week the talent show begins, but when Josh walks on stage he slips and drops three of his balls.  2 of them are caught by people in the crowd as they roll off the stage, but one gets lost completely since the auditorium is dark.  With a sigh, Josh starts to juggle on stage with how many balls?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

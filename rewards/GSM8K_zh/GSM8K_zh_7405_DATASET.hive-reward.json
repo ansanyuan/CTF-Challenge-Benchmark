@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆在前5天每天收取100美元的费用来寻找物品，然后在此之后的每一天每天收取60美元。他寻找物品10天一共花费了多少钱？。",
+  "topic": "回答下面的数学问题：Tom charges a fee of $100 a day to search for an item for the first 5 days and then $60 per day for every day after that.  How much did it cost for him to look for an item for 10 days?",
   "checkpoint": [
     {
-      "$\\boxed{800}$": 1
+      "\\boxed{800}": 1
     }
   ],
   "matchingmethod": [

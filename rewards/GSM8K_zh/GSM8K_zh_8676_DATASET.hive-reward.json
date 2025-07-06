@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Amy有两个眼影盘，每个有四种颜色，还有三套化妆套装，每套附带六种眼影颜色。她的妹妹偷走了一个眼影盘。Amy用掉了一套化妆套装中一半的颜色。她还剩下多少种眼影颜色？。",
+  "topic": "回答下面的数学问题：Amy had two eyeshadow palettes with four colors each and three makeup sets that came with six eyeshadow colors each. Her sister steals one of the palettes. Amy uses up half of the colors from one makeup set. How many eyeshadow colors does she have left?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果凯瑟琳冰箱里有4个苹果和3倍于此数量的梨，那么她有多少香蕉，如果她总共有21个水果？。",
+  "topic": "回答下面的数学问题：If Katherine has 4 apples and 3 times as many pears in her fridge, how many bananas does she have if she has a total of 21 pieces of fruit?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

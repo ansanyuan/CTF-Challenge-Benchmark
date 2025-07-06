@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰从海拔400英尺的地方开始。他以每分钟下降10英尺的速度向下行驶了5分钟。他现在的海拔是多少？。",
+  "topic": "回答下面的数学问题：John starts at an elevation of 400 feet.  He travels downward at a rate of 10 feet down per minute for 5 minutes.  What is his elevation now?",
   "checkpoint": [
     {
-      "$\\boxed{350}$": 1
+      "\\boxed{350}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍有3个孙子。她每年给每个孙子买2张卡片，每张卡片放80美元。她每年给孙子们多少钱？。",
+  "topic": "回答下面的数学问题：Jean has 3 grandchildren.  She buys each grandkid 2 cards a year and puts $80 in each card.  How much does she give away to grandchildren a year?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

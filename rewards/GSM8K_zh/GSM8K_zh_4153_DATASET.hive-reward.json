@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Karen正在考虑她的冬季大衣选择。一件大衣价格为300美元，可使用15年。另一件大衣价格为120美元，可使用5年。Karen购买更贵的大衣在30年内可以节省多少钱？。",
+  "topic": "回答下面的数学问题：Karen is considering her winter coat options. One coast costs $300 and will last for 15 years. The other coat costs $120 and will last for five years. How much money would Karen save over 30 years by buying the more expensive cost?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

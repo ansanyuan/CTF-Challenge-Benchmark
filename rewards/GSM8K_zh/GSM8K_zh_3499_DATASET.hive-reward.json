@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈利的生日是在学校放假后的三周。他的三个朋友决定共同出一样的钱来给他办一个派对。哈利又额外增加了30美元的贡献，使得总贡献是他的贡献的三倍。计算每个哈利的朋友共同出的总金额。。",
+  "topic": "回答下面的数学问题：Harry's birthday was three weeks after the closing of the school. His three friends decided to contribute an equal amount of money to throw him a party. Harry added $30 to the contribution, making the total contribution three times as much as Harry contributed. Calculate the total amount of money that each of Harry's friends contributed.",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

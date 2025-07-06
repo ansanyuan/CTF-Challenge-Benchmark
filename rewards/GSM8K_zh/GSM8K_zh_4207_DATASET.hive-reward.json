@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个家庭刚刚买了一只新生的小狗，它必须在一岁之前吃一种特殊的狗粮。在它出生后的头60天里，小狗每天需要吃2盎司的这种特殊狗粮。之后，它需要每天吃4盎司的特殊狗粮，直到足够大可以吃普通狗粮。如果这种特殊狗粮只以5磅一袋的方式出售，一磅有16盎司，那么这个家庭需要买多少袋狗粮才能喂养小狗直到它足够大可以吃普通狗粮？。",
+  "topic": "回答下面的数学问题：A family just bought a newborn puppy that must eat a special type of dog food until it is 1 year old.  The puppy needs to eat 2 ounces of this special dog food per day during the first 60 days of its life.  After that, it needs to eat 4 ounces per day of the special food until it is old enough to eat regular dog food.  If the special dog food is only sold in 5-pound bags, and there are 16 ounces in a pound, how many bags will the family need to buy to feed the puppy until it is old enough to eat regular dog food?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一面有76颗星的旗帜上有三排每排8颗星，两排每排6颗星，其余的是每排5颗星。旗帜上总共有多少排5颗星的行？。",
+  "topic": "回答下面的数学问题：A 76-star flag has three rows of 8 stars, two rows of 6 stars and the rest are 5-star rows. How many rows of 5 stars are there altogether on the flag?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

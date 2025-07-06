@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：政府向四个城市捐赠了大量沙子。A市收到了16 1/2吨沙子，B市收到了26吨沙子，C市收到了24 1/2吨沙子。供应商丢失了D市的数据；但是他们知道四个城市的总和是95吨。D市收到了多少吨沙子？。",
+  "topic": "回答下面的数学问题：The government donated tons of sand to four Cities. City A received 16 1/2 tons of sand, City B received 26 tons of sand, and City C received 24 1/2 tons of sand. The supplier lost the data for City D; however, they know the total for all four cities was 95 tons. How many tons of sand did City D receive?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

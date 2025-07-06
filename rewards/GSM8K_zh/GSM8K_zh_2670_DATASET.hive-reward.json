@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Beatrice正在寻找一台新电视。首先，她在一家商店亲自看了8台电视。然后她在网上商店看了三倍于此数量的电视。她在网上拍卖网站上看了更多的电视。如果Beatrice总共看了42台电视，她在拍卖网站上看了多少台？。",
+  "topic": "回答下面的数学问题：Beatrice is shopping for a new TV. First she looks at 8 TVs at one store in person. Then she looks at three times as many TVs at an online store. She looks at more TVs on an auction site online. If Beatrice looked at 42 TVs in all, how many did look at on the auction site?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

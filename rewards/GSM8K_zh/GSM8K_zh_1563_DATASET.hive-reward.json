@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍正在为自己和几个朋友做糖果项链。每个人都会收到一条糖果项链，每条糖果项链由10块糖果组成。糖果块中的糖果块每个可以产生30块糖果。如果珍分解了3块糖果，每块糖果中的每一块糖果都用在了糖果项链上，有多少个朋友会收到糖果项链？。",
+  "topic": "回答下面的数学问题：Jan is making candy necklaces for herself and a few friends. Everyone receives a candy necklace each and each candy necklace is made up of 10 pieces of candies. The pieces of candies come from blocks of candy, which each produce 30 pieces of candy. If Jan breaks down 3 blocks of candy and every single piece of candy from this is used in the candy necklaces, how many friends receive a candy necklace?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

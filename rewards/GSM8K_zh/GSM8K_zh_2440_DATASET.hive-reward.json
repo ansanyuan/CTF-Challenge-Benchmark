@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有比卡尤加鸭多4只的玛斯科维鸭，比卡尤加鸭多3只，比卡其坎贝尔鸭的两倍还多。如果总共有90只鸭子，那么有多少只玛斯科维鸭？。",
+  "topic": "回答下面的数学问题：There are 4 more Muscovy ducks than Cayugas, and 3 more than twice as many Cayugas as Khaki Campbells. If there are 90 ducks total, how many Muscovies are there?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

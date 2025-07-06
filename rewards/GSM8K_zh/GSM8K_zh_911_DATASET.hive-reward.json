@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰每4天购买1/2加仑的冷泡咖啡。他每天喝多少杯咖啡？。",
+  "topic": "回答下面的数学问题：John buys 1/2 gallon jugs of cold brew coffee every 4 days.  How many cups of coffee does he drink a day?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

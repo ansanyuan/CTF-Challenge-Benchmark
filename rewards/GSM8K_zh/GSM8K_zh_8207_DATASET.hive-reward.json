@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格雷格和他的三个弟妹在街上走的时候，发现了20美元。为了对弟妹们公平，他决定平均分配这笔钱。他们每人得到了多少钱？。",
+  "topic": "回答下面的数学问题：While walking down the street with his 3 younger siblings, Greg found $20. To be fair to his siblings, he decided to split the money equally. How much money did each of them get?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

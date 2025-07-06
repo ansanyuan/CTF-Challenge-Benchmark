@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：正方形A的面积是25。正方形B的面积是81。正方形A和B的边长之间的长度差是多少？。",
+  "topic": "回答下面的数学问题：The area of square A is 25. The area of square B is 81. What's the length difference between the sides of square A and B?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

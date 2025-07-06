@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Pedro，Linden和Jesus正在玩一个游戏。Jesus有60个方块。Linden有75个方块。Pedro有200个。Pedro比Jesus和Linden的方块总数多多少？。",
+  "topic": "回答下面的数学问题：Pedro, Linden, and Jesus are playing a game. Jesus has 60 squares. Linden has 75 squares. Pedro has 200. How many more squares does Pedro have than both Jesus and Linden combined?",
   "checkpoint": [
     {
-      "$\\boxed{65}$": 1
+      "\\boxed{65}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Parker和Richie按2:3的比例分配了一笔钱。如果Parker得到了50美元（这是较小的份额），他们一共分得多少钱？。",
+  "topic": "回答下面的数学问题：Parker and Richie split a sum of money in the ratio 2:3. If Parker got $50 (which is the smaller share), how much did they share?",
   "checkpoint": [
     {
-      "$\\boxed{125}$": 1
+      "\\boxed{125}": 1
     }
   ],
   "matchingmethod": [

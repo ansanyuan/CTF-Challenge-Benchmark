@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Elsie早上在一个容器中有一定数量的湿巾。一天中，她用完20片后，又加了10片。到了晚上，她只剩下60片。早上容器里有多少片湿巾？。",
+  "topic": "回答下面的数学问题：Elsie has a specific amount of wet wipes in a container in the morning. Throughout the day, she refills the container with 10 more wipes after using up 20. By nighttime, she only has 60 wipes left. How many wipes were in the container in the morning?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

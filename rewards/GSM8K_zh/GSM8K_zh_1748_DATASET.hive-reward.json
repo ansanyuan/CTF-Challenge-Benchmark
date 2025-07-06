@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mara有12个袋子，每个袋子里有2颗弹珠。Markus有2个袋子，每个袋子里有13颗弹珠。Markus比Mara多多少颗弹珠？。",
+  "topic": "回答下面的数学问题：Mara has 12 bags with 2 marbles in each bag. Markus has 2 bags with 13 marbles in each bag. How many more marbles does Markus have?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

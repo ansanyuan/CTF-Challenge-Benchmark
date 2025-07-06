@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rani对跑车情有独钟。她想知道有史以来最快的车能开多快，所以她查了一下。她发现最快的车比第二快的车快1.25倍。第二快的车比平均车快5倍。平均车的时速是120英里。最快的车能开多快？。",
+  "topic": "回答下面的数学问题：Rani is obsessed with sports cars. She wonders what the faster car ever made can go so she looks it up. What she finds out is that the fastest car was 1.25 times faster than the 2nd fastest car. The 2nd fastest car was 5 times faster than the average car. The average car can go 120 Miles per hour. How fast does the faster car go?",
   "checkpoint": [
     {
-      "$\\boxed{750}$": 1
+      "\\boxed{750}": 1
     }
   ],
   "matchingmethod": [

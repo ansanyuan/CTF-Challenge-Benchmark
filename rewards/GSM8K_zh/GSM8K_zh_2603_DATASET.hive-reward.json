@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marissa正在给她的孩子们准备午餐。每个孩子都会得到一份含有400卡路里的汉堡，5根胡萝卜棒，每根20卡路里，以及一些每个50卡路里的饼干。Marissa希望每个孩子午餐摄入总共750卡路里。每个孩子会得到多少块饼干？。",
+  "topic": "回答下面的数学问题：Marissa is serving her kids lunch. Each kid gets a burger with 400 calories and 5 carrot sticks with 20 calories each, and some cookies with 50 calories each. Marissa wants each kid to eat a total of 750 calories for lunch. How many cookies does each kid get?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

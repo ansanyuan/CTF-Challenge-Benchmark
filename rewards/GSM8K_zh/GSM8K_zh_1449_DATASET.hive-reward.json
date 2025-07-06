@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个教室里有28名学生。一半的学生每人有5本笔记本，另一半的学生每人有3本笔记本。教室里总共有多少本笔记本？。",
+  "topic": "回答下面的数学问题：There are 28 students in a classroom. Half of them have 5 notebooks each and the other half have 3 notebooks each. How many notebooks in total are in the classroom?",
   "checkpoint": [
     {
-      "$\\boxed{112}$": 1
+      "\\boxed{112}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤米的房子价值比他买的时候高出25%。他卖掉了房子，买了一栋价值50万美元的新房。如果他不得不贷款支付他无法支付的75%，他买第一栋房子花了多少钱？。",
+  "topic": "回答下面的数学问题：Tommy's home is worth 25% more than he bought it for. He sells it and buys a new house that costs $500,000. If he had to take a loan for the 75% he can't pay, how much did he buy his first house for?",
   "checkpoint": [
     {
-      "$\\boxed{100000}$": 1
+      "\\boxed{100000}": 1
     }
   ],
   "matchingmethod": [

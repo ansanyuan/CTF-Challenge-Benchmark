@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莎拉、玛丽和图安决定一起去餐馆吃饭。他们决定平均分摊餐费。如果餐费总共是67美元，而他们有4美元的优惠券，每个人需要贡献多少钱？。",
+  "topic": "回答下面的数学问题：Sarah, Mary, and Tuan decided to go to the restaurant for a meal. They decided to split the cost of the meal evenly. If the total price of the meal comes to $67 and they have a coupon for $4, how much does each person need to contribute to the bill?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卢克在海滩上玩耍，建造沙堡。他最终注意到，沙堡的每一层的面积都是下面一层的一半。如果他建造了一个四层的沙堡，顶层的面积是16平方英尺，那么每一层的平均面积是多少？。",
+  "topic": "回答下面的数学问题：Luke is spending time at the beach building sandcastles. He eventually notices that each level of a sandcastle will have half the square footage as the level below it. If he makes a 4 leveled sandcastle where the top level has a square footage of 16, what is the average square footage of a level?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

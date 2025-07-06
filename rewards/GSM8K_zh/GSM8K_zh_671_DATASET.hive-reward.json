@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gracie比Grayson矮7英寸。Grayson比Griffin高2英寸。Griffin身高61英寸。Gracie身高多少英寸？。",
+  "topic": "回答下面的数学问题：Gracie was 7 inches shorter than Grayson. Grayson was 2 inches taller than Griffin. Griffin is 61 inches tall. How many inches tall is Gracie?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Andy正在制作软糖。首先，他需要将糖果混合物的温度从60度升至240度。然后他需要将其冷却至170度。如果糖果加热速度为5度/分钟，冷却速度为7度/分钟，那么糖果需要多长时间才能完成（以分钟为单位）？。",
+  "topic": "回答下面的数学问题：Andy is making fudge. First he needs to raise the temperature of the candy mixture from 60 degrees to 240 degrees. Then he needs to cool it down to 170 degrees. If the candy heats at 5 degrees/minute and cools at 7 degrees/minute, how long will it take for the candy to be done (in minutes)?",
   "checkpoint": [
     {
-      "$\\boxed{46}$": 1
+      "\\boxed{46}": 1
     }
   ],
   "matchingmethod": [

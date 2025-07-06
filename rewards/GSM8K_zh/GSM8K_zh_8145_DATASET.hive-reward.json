@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚当去商店买了一些糖果。他买了7颗A类糖果和10颗B类糖果。一颗A类糖果的成本是0.5美元，一颗B类糖果的成本是0.75美元。如果他付给收银员15美元，亚当找回了多少钱？。",
+  "topic": "回答下面的数学问题：Adam went to a store to buy some sweets. He bought 7 candies of type A and 10 candies of type B. One candy of type A costs $0.5, and one candy of type B costs $0.75. How much change did Adam get, if he paid the cashier $15?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

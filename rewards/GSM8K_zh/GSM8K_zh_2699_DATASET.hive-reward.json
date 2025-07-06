@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿曼达和她的家人打算重新粉刷房子内所有的墙壁。在开始工作之前，他们想要分配工作。由于房子里的所有房间都有不同数量和大小的墙壁，他们认为最公平的分配工作的方法是计算房子里所有的墙壁，并将相等数量分配给每个人。阿曼达的家里有5个人，包括她自己。房子里有9个房间。其中5个房间每个有4面墙。另外4个房间每个有5面墙。为了公平起见，阿曼达的家人中每个人应该粉刷多少面墙？。",
+  "topic": "回答下面的数学问题：Amanda and her family are going to re-paint all the walls inside their house. Before they get started they want to divide up the work. Since all the rooms in the house have different numbers and sizes of walls in them, they figure the fairest way to divide up the work is to count all the walls in the house and assign an equal number to each person. There are 5 people in Amanda's family, including herself. There are 9 rooms in the house. 5 of the rooms have 4 walls each. The other 4 rooms each have 5 walls each. To be fair, how many walls should each person in Amanda's family paint?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Silvio参加了一个有4个部分的比赛。比赛的总长度是74.5公里。比赛的第一部分长15.5公里。第二部分和第三部分各为21.5公里。比赛的最后一部分有多少公里？。",
+  "topic": "回答下面的数学问题：Silvio was running a race that had 4 parts. The total length of the race was 74.5 kilometers. The first part of the race is 15.5 kilometers long. The second and third parts are each 21.5 kilometers long. How many kilometers is the last part of the race?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

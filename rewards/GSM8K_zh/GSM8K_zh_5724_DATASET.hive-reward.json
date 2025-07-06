@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个纸巾盒里有160张纸巾。如果塔克买了3盒，并在患流感时使用了210张纸巾，他还剩下多少张纸巾？。",
+  "topic": "回答下面的数学问题：There are 160 tissues inside a tissue box.   If Tucker bought 3 boxes, and used 210 tissues while he was sick with the flu, how many tissues would he have left?",
   "checkpoint": [
     {
-      "$\\boxed{270}$": 1
+      "\\boxed{270}": 1
     }
   ],
   "matchingmethod": [

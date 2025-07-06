@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bingley有5个手镯。凯利给了Bingley她16个手镯的四分之一。然后Bingley把他的手镯的三分之一给了他的妹妹。Bingley剩下多少个手镯？。",
+  "topic": "回答下面的数学问题：Bingley has 5 bracelets. Kelly gives Bingley a fourth of her 16 bracelets. Then Bingley gives a third of his bracelets to his little sister. How many bracelets does Bingley have remaining?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

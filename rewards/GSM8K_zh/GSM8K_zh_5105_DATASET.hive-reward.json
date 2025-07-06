@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校乐队要去参加比赛。有五名成员演奏长笛。演奏小号的成员是演奏长笛成员的三倍。演奏长号的成员比演奏小号的成员少八个，比演奏长号的成员多十一个鼓手。演奏单簧管的成员是演奏长笛成员的两倍。比演奏长号的成员多三个法国号的成员。需要多少个座位在巴士上？。",
+  "topic": "回答下面的数学问题：The school band is going to a competition. Five members play the flute. There are three times as many members who play the trumpet. There are eight fewer trombone players than trumpeters, and eleven more drummers than trombone players. There are twice as many members that play the clarinet as members that play the flute. Three more members play the French horn than play the trombone. How many seats are needed on the bus?",
   "checkpoint": [
     {
-      "$\\boxed{65}$": 1
+      "\\boxed{65}": 1
     }
   ],
   "matchingmethod": [

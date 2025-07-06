@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Peyton有3个孩子，每个孩子每周5天都会在午餐中喝一盒果汁。学年有25周。她需要为所有孩子整个学年需要多少果汁盒？。",
+  "topic": "回答下面的数学问题：Peyton has 3 children and they each get a juice box in their lunch, 5 days a week.  The school year is 25 weeks long.  How many juices boxes will she need for the entire school year for all of her children?",
   "checkpoint": [
     {
-      "$\\boxed{375}$": 1
+      "\\boxed{375}": 1
     }
   ],
   "matchingmethod": [

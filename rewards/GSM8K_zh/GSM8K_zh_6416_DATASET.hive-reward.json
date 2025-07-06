@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一艘救生筏上只有足够的空间可以容纳21人，如果没有人穿救生衣。如果每个人都穿着救生衣，那么可以容纳的人数将减少7人。如果救生筏上有8个人需要穿救生衣，那么救生筏上可以容纳多少人？。",
+  "topic": "回答下面的数学问题：There was only enough room for 21 people on a raft if no one wore life jackets. There were 7 fewer people who could fit on the raft if everyone wore life jackets. If 8 people on the raft needed life jackets, how many people could fit on the raft?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

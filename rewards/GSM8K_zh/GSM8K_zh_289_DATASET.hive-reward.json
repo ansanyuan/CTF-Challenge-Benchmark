@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰决定办理健身会员卡，以便能够保持身材。他家附近的健身房离家很近，但设施不是他想要的，所以他办理了两个不同的健身会员卡。便宜的会员卡每月费用为10美元，还有50美元的注册费。第二个健身房的费用是便宜的3倍，注册费是4个月的会员费。他在第一年总共支付了多少健身会员费？。",
+  "topic": "回答下面的数学问题：John decides to get gym memberships so he can get in shape.  The gym close to his house is close but doesn't have everything he wants so he gets two different gym memberships.  The cheap one costs $10 a month and has a sign-up fee of $50.  The second gym is 3 times more expensive and it has a sign-up fee of 4 months membership.  How much total did he pay in the first year for gym membership?",
   "checkpoint": [
     {
-      "$\\boxed{650}$": 1
+      "\\boxed{650}": 1
     }
   ],
   "matchingmethod": [

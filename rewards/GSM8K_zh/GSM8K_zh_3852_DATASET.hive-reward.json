@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：彼得知道飞机从西班牙到俄罗斯的距离是7019公里，而从西班牙到德国的距离是1615公里。 彼得乘坐了一架从西班牙出发的航班，在德国停留时，他接到了他哥哥的电话，问他要飞多少公里才能到俄罗斯，然后返回西班牙。 彼得会如何回答？。",
+  "topic": "回答下面的数学问题：Peter knows that the distance an airplane travels between Spain and Russia is 7019 km, while the distance between Spain and Germany is 1615 km. Peter took a flight from Spain, which made a stopover in Germany, while being there, he receives a call from his brother asking him how many kilometers he has to fly to get to Russia and then return to Spain.  What will Peter answer?",
   "checkpoint": [
     {
-      "$\\boxed{12423}$": 1
+      "\\boxed{12423}": 1
     }
   ],
   "matchingmethod": [

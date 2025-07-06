@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个农场在2个田地里种玉米。一个田地有13排玉米棒，另一个田地有16排玉米棒。如果每排有4个玉米棒，农场种了多少个玉米棒？。",
+  "topic": "回答下面的数学问题：A farm is growing corn in 2 fields. One of the fields has 13 full rows of corn cobs, and the other field has 16 full rows of corn cobs. If each row contains 4 corn cobs, how many corn cobs has the farm grown?",
   "checkpoint": [
     {
-      "$\\boxed{116}$": 1
+      "\\boxed{116}": 1
     }
   ],
   "matchingmethod": [

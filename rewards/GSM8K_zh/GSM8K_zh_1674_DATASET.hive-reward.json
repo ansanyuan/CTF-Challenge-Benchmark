@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：足球赛季，扎卡里想买一个新足球，一条短裤和一双足球鞋。足球的价格是3.75美元，短裤的价格是2.40美元，鞋子的价格是11.85美元。扎卡里有10美元。扎卡里还需要多少钱？。",
+  "topic": "回答下面的数学问题：For football season, Zachary wants to buy a new football, a pair of shorts, and a pair of football shoes. The ball costs $3.75, the shorts cost $2.40, and the shoes cost $11.85. Zachary has $10. How much more money does Zachary need?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

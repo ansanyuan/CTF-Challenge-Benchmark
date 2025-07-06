@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾莉去马戏团和莎拉一起参观，他们在哈哈镜屋里迷路了。他们最终走出哈哈镜屋之前必须多次穿过哈哈镜屋，当他们离开时，他们讨论了自己看到自己的反射次数。莎拉说每次她在有高镜子的房间里，她看到自己的反射10次，每次她在有宽镜子的房间里，她看到自己的反射5次。艾莉说每次她在有高镜子的房间里，她看到自己的反射6次，每次她在有宽镜子的房间里，她看到自己的反射3次。他们每个人都通过有高镜子的房间3次，他们每个人都通过有宽镜子的房间5次。总共，莎拉和艾莉看到了多少次他们的反射？。",
+  "topic": "回答下面的数学问题：Ellie went to visit a circus with Sarah and they both got lost in the house of mirrors. They have to travel through the house of mirrors a few times before they finally get out and when they leave, they discuss how many times they've seen their own reflections. Sarah says that every time they were in the room with tall mirrors, she saw her reflection 10 times and every time they were in the room with wide mirrors, she saw her reflection 5 times. Ellie says that every time they were in the room with tall mirrors, she saw her reflection 6 times and every time they were in the room with wide mirrors she saw her reflection 3 times. They both passed through the room with tall mirrors 3 times each and they both passed through the room with wide mirrors 5 times each. In total, how many times did Sarah and Ellie see their reflections?",
   "checkpoint": [
     {
-      "$\\boxed{88}$": 1
+      "\\boxed{88}": 1
     }
   ],
   "matchingmethod": [

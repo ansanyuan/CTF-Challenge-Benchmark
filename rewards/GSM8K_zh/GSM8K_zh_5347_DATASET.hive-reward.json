@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亨利需要整理他的书籍收藏，共有99本书。他从书架上拿出了3个装满15本书的箱子，准备送到捐赠中心。他还有21本书可以捐赠，咖啡桌上有4本书，厨房里藏着18本食谱书。当他送书时，他注意到一个装满书的箱子上贴着“免费送给有需要的人”的字条。他拿了12本书回家。现在亨利有多少本书？。",
+  "topic": "回答下面的数学问题：Henry needs to declutter his book collection of 99 books.  From his bookshelf, he was able to fill 3 boxes of 15 books each to take to a donation center.  He had 21 books in a room he could donate, 4 on his coffee table and 18 cookbooks stashed in the kitchen.  When he dropped them off, he noticed a box of books that had a  \"free to a good home\" note.  He grabbed 12 books to take back to his place.  How many books does Henry now have?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

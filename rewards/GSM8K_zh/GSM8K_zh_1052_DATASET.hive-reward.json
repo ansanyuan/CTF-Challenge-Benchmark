@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：动物园的爬行动物馆比雨林展区的动物数量少5只。如果爬行动物馆有16只动物，那么雨林展区有多少只动物？。",
+  "topic": "回答下面的数学问题：The Reptile House at the zoo has 5 fewer animals than 3 times the number of animals housed in the Rain Forest exhibit. If the Reptile House has 16 animals, how many are in the Rain Forest exhibit?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丹尼尔拥有一家纺织公司。每个星期一，他交付20码面料；每个星期二，他交付的面料数量是星期一的两倍；每个星期三，他交付的面料数量是星期二的四分之一。如果每码面料的成本是2美元，每码纱线的成本是3美元，那么他从星期一到星期三一共赚了多少钱？。",
+  "topic": "回答下面的数学问题：Daniel owns a textile company. Every Monday he delivers 20 yards of fabric, and every Tuesday he delivers twice the amount of fabric he delivers on Monday. Every Wednesday, he delivers 1/4 of the amount of fabric he delivers on Tuesday. If each yard of fabric costs $2 and each yard of yarn costs $3, how much does he earn from Monday to Wednesday?",
   "checkpoint": [
     {
-      "$\\boxed{140}$": 1
+      "\\boxed{140}": 1
     }
   ],
   "matchingmethod": [

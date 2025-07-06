@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯蒂娜每天在日历上记录她的心情。在过去的三十天心情记录中，她有十二天是好心情，八天是坏心情，其余的都是中性心情。她的前八天是好心情，接下来的八天是坏心情，然后的八天是中性心情。如果接下来的三天分别是好心情、中性心情和好心情，那么这个月剩下的好心情天数是多少？。",
+  "topic": "回答下面的数学问题：Christina records her mood every day on a calendar. Over the past thirty days of moods, she had twelve good days and eight bad days and the rest were neutral. Her first eight days were good, her second eight days were bad, and her third eight days were neutral. If the next three days were good, neutral, and good, how many good days were left in the month?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

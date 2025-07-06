@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个农民在他们的田里打草捆。每小时农民能制作5捆草。同时，有一辆卡车在捡拾草捆。每小时卡车能捡起3捆草。如果农民和卡车司机都工作了6小时，田里剩下多少捆草？。",
+  "topic": "回答下面的数学问题：A farmer is baling hay in their field. Each hour the farmer makes 5 bales. At the same time, a truck is picking the hay bales up. Each hour the truck picks up 3 bales of hay. If the farmer and the truck driver put in a 6 hour day, how many bales of hay are left in the field?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽亚有19块饼干。她决定给她的朋友5块，剩下的一半给她的家人。然后，玛丽亚决定吃掉2块饼干。她剩下多少块饼干？。",
+  "topic": "回答下面的数学问题：Maria has 19 cookies. She decided to give her friend 5 of them, and half of the rest to her family. From the rest, Maria decided to eat 2 cookies. How many cookies will she have left?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

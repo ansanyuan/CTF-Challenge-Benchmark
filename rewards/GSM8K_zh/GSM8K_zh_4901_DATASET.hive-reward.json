@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当你拿海拉姆的年龄加上12时，你得到的比艾莉森的年龄的两倍少4。如果海拉姆今年40岁，艾莉森多大了？。",
+  "topic": "回答下面的数学问题：When you take Hiram's age and then add 12, you get 4 less than twice Allyson's age. If Hiram is 40 years old, how old is Allyson?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

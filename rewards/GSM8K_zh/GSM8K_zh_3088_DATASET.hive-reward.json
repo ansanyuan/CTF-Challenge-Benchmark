@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在计划一周内完成阅读一本140页的书时，杰西最初决定每天读3次，每次6页，一周的每一天。她每天应该再读多少页才能实现她的目标？。",
+  "topic": "回答下面的数学问题：While planning to finish reading a 140-page book in one week, Jessy initially decides to read 3 times daily, 6 pages each time, every day of the week. How many more pages should she read per day to actually achieve her goal?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

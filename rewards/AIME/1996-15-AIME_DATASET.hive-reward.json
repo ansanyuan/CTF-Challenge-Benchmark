@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：In parallelogram $ABCD,$ let $O$ be the intersection of diagonals $\\overline{AC}$ and $\\overline{BD}$ . Angles $CAB$ and $DBC$ are each twice as large as angle $DBA,$ and angle $ACB$ is $r$ times as large as angle $AOB$ . Find the greatest integer that does not exceed $1000r$ .",
   "checkpoint": [
     {
-      "$\\boxed{777}$": 1
+      "\\boxed{777}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marcus去洛杉矶进行公路旅行之前，他的车上已经行驶了1728英里。他加满了两次空的油箱，并在旅途中用完了所有的汽油。如果Marcus的车每加仑行驶30英里，油箱容纳20加仑汽油，那么现在Marcus的车上有多少英里？。",
+  "topic": "回答下面的数学问题：Before Marcus went on a road trip to LA, his car had 1728 miles on it. He filled his empty gas tank twice and used up all the gas on the trip. If Marcus's car gets 30 miles per gallon and holds 20 gallons of gas, how many miles does Marcus' car have on it now?",
   "checkpoint": [
     {
-      "$\\boxed{2928}$": 1
+      "\\boxed{2928}": 1
     }
   ],
   "matchingmethod": [

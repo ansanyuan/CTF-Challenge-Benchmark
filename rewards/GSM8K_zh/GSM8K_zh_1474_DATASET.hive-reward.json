@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个书商在一月份卖出了15本书，在二月份卖出了16本书，三月份卖出了一定数量的书。如果他在这三个月的平均每月卖出的书籍数量是16本，那么他三月份卖出了多少本书？。",
+  "topic": "回答下面的数学问题：A bookseller sells 15 books in January, 16 in February and a certain number of books in March. If the average number of books he sold per month across all three months is 16, how many books did he sell in March?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

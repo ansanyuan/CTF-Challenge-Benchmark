@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mia有David的四倍贝壳。Ava比Mia多20个贝壳。Alice的贝壳数量是Ava的一半。如果David有15个贝壳，那么他们所有人一共有多少贝壳？。",
+  "topic": "回答下面的数学问题：Mia has 4 times as many shells as David. Ava has 20 more shells than Mia. Alice has half the number of shells Ava has. If David has 15 shells, what the total number of conch shells they all have?",
   "checkpoint": [
     {
-      "$\\boxed{195}$": 1
+      "\\boxed{195}": 1
     }
   ],
   "matchingmethod": [

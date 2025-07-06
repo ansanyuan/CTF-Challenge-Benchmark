@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Clive正在为晚餐买橄榄。他有10美元要花，需要80颗橄榄。一罐20颗橄榄的价格是1.50美元。当他买到所需的东西时，Clive会有多少零钱？。",
+  "topic": "回答下面的数学问题：Clive is buying olives for dinner. He has $10 to spend and needs 80 olives. A jar of 20 olives costs $1.50. How much change will Clive have when he buys what he needs?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

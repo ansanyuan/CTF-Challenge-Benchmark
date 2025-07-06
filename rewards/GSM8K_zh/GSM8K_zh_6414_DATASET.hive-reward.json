@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三年前有200名学生通过了英语课程，每一年直到今年，通过的学生人数都比前一年增加了前一年人数的50%，今年会有多少名学生通过这门课程？。",
+  "topic": "回答下面的数学问题：If there were 200 students who passed an English course three years ago, and each subsequent year until the current one that number increased by 50% of the previous year's number, how many students will pass the course this year?",
   "checkpoint": [
     {
-      "$\\boxed{675}$": 1
+      "\\boxed{675}": 1
     }
   ],
   "matchingmethod": [

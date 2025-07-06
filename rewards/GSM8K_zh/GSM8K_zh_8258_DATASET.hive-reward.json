@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安迪的汽车燃油效率是每加仑行驶10英里（MPG）。如果普通汽油的当前价格是每加仑3美元，那么如果他只在周一到周五使用汽车上班，家和办公室之间的单程距离是5英里，安迪的汽车每周消耗多少钱？。",
+  "topic": "回答下面的数学问题：Andy's car fuel efficiency is 10 MPG (miles per gallon). If the current price for regular gas is $3/gallon, how much money is Andy's car consuming per week if he only uses his car to go to work from Monday to Friday and the one-way distance between his home and office is 5 miles?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

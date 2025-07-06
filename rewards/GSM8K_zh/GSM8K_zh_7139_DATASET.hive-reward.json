@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：热尔韦斯连续3天平均行驶了315英里。亨利在一周内总共行驶了1250英里。亨利比热尔韦斯多行驶了多少英里？。",
+  "topic": "回答下面的数学问题：Gervais drove an average of 315 miles for 3 days. Henri drove a total of 1,250 miles over one week. How many miles farther did Henri drive?",
   "checkpoint": [
     {
-      "$\\boxed{305}$": 1
+      "\\boxed{305}": 1
     }
   ],
   "matchingmethod": [

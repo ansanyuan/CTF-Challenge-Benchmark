@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ryan正在考虑购买一种新的综合维生素品牌。每粒药片中含有50毫克的维生素A。维生素A的推荐每日摄入量为200毫克。Ryan一周需要服用多少药片才能达到推荐的摄入量？。",
+  "topic": "回答下面的数学问题：Ryan is considering buying a new multivitamin brand.  Each pill has 50 mg of Vitamin A in it.  The recommended daily serving of Vitamin A is 200 mg.  How many pills does Ryan need to hit the recommended amount for the week?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯的互联网账单是每月45美元，包含100GB，超出的每1GB收费0.25美元。他这个月的账单是65美元。克里斯在这张账单上被收取了多少GB的超出费用？。",
+  "topic": "回答下面的数学问题：Chris’s internet bill is $45 per month for 100 GB and $0.25 for every 1 GB over. His bill for this month is $65. How many GB over was Chris charged for on this bill?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

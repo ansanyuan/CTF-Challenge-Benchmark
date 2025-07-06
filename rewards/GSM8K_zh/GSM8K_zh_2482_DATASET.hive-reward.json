@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：黄先生从他家外的树上收获了560个芒果。他在市场上卖掉了一半，然后将剩下的平均分给了他的8个邻居。每个邻居收到多少个芒果？。",
+  "topic": "回答下面的数学问题：Mr. Wong harvested 560 mangoes from the tree outside his house. He sold half of it at the market and distributed the rest evenly among 8 of his neighbors. How many mangoes does each neighbor receive?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Madeline想在她的花园里种植20朵花。她假设她种植的种子中大约一半会在开花之前死亡。然而，花店只出售每包25颗种子的种子包。每包售价为5美元。Madeline要花多少钱买种子来种植20朵花？。",
+  "topic": "回答下面的数学问题：Madeline wants to plant 20 flowers in her garden. She assumes that about half of the seeds she plants will die before they bloom. However, the flower shop only sells packs of seeds with 25 seeds per pack. Each pack is $5. How much will Madeline spend on seeds to plant 20 flowers?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

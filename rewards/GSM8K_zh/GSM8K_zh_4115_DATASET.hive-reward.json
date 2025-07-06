@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯汀的速度是萨里斯的三倍。如果克里斯汀绕成年人足球场跑了12圈，而萨里斯在同一时间绕儿童足球场跑，后者的距离是前者的一半，萨里斯在儿童足球场跑了多少圈？。",
+  "topic": "回答下面的数学问题：Kristin can run three times faster than Sarith. If Kristin runs 12 times around the adult football field and Sarith runs at the same time around the children's football field that is half the distance as the other field, how many laps did Sarith go around the children's football field?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

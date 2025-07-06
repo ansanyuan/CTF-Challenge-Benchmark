@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jericho有的钱是60的两倍。他欠Annika 14美元，还欠Manny的一半。偿还所有债务后，Jericho还剩多少钱？。",
+  "topic": "回答下面的数学问题：Twice the money Jericho has is 60. He owes Annika $14 and also owes half as much to Manny. After paying off all his debts, how much money will Jericho be left with?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

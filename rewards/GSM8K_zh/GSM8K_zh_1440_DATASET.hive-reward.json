@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gemma订购了四个披萨，每个10美元，她给了送餐员5美元的小费。如果她给了一张50美元的钞票，她会得到多少零钱？。",
+  "topic": "回答下面的数学问题：Gemma ordered four pizzas at $10 each, and she gave a $5 tip to the delivery person. How much change did she get back if she gives one fifty-dollar bill?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

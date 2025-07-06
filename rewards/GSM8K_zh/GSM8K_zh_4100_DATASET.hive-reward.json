@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：大挖矿业公司开采三种不同类型的矿石：铜、铁和镍。在他们所有的矿山中，他们的产出中有10%是镍，60%是铁，其余是铜。他们每天开采720吨的镍。大挖矿业公司每天开采多少吨的铜？。",
+  "topic": "回答下面的数学问题：Big Dig Mining Company mines three different types of ore: copper, iron, and nickel. Across all their mines, 10% of their output is nickel, 60% is iron, and the rest is copper. They mine 720 tons of nickel a day. How many tons of copper does Big Dig Mining Company mine daily?",
   "checkpoint": [
     {
-      "$\\boxed{360}$": 1
+      "\\boxed{360}": 1
     }
   ],
   "matchingmethod": [

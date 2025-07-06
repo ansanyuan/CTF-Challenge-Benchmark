@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽试图通过改变饮食来改善健康状况，但她的体重像溜溜球一样反弹。起初，她减掉了十几磅。然后，她又增加了比她最初减掉的体重多两倍。然后，她减掉的体重是最初减掉的三倍。但最后，她又增加了半打磅。如果她在改变饮食开始时体重为99磅，她最终的体重是多少磅？。",
+  "topic": "回答下面的数学问题：Mary tried to improve her health by changing her diet, but her weight bounced like a yo-yo.  At first, she dropped a dozen pounds. Then, she added back twice the weight that she initially lost.  Then, she dropped three times more weight than she initially had lost.  But finally, she gained back half of a dozen pounds.  If she weighed 99 pounds at the start of her change in diet, what was her final weight, in pounds?",
   "checkpoint": [
     {
-      "$\\boxed{81}$": 1
+      "\\boxed{81}": 1
     }
   ],
   "matchingmethod": [

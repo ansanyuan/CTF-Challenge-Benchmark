@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡片商店有两盒卡片。第一盒包含每张1.25美元的卡片。第二盒包含每张1.75美元的卡片。一个男孩然后进来，从每个盒子买了6张卡片。他买的卡片的总成本是多少美元？。",
+  "topic": "回答下面的数学问题：The card shop has two boxes of cards. The first box contains cards that cost $1.25 each. The second box contains cards that cost $1.75 each. A boy then comes in and buys 6 cards from each box. What was the total cost, in dollars, of the cards he bought?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

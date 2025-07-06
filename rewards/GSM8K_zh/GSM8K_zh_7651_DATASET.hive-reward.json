@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Zaid将他的工资的1/4用于支付房租，1/3用于汽车燃料，并将剩余金额的一半捐给了他最喜欢的慈善机构。他给女儿200美元用于她的每周开销，给妻子700美元用于购买杂货和其他家庭用品。如果Zaid每月赚6000美元，那么在支付了所有这些费用和捐款后，他还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Zaid spends 1/4 of his salary on rent, 1/3 on car fuel and donates half of the remaining amount to his favorite charity. He gives his daughter 200$ to use for her weekly expenses and 700$ to his wife to budget for groceries and other household goods. If Zaid earns 6000$ per month, how much money will he still have after all these expenses and donations?",
   "checkpoint": [
     {
-      "$\\boxed{350}$": 1
+      "\\boxed{350}": 1
     }
   ],
   "matchingmethod": [

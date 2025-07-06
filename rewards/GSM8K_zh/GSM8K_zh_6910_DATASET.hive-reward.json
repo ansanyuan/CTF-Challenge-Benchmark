@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果8名木工可以在10天内制作50把椅子，那么需要多少名木工在10天内制作75把椅子？。",
+  "topic": "回答下面的数学问题：If 8 carpenters can make 50 chairs in 10 days, how many carpenters are needed to make 75 chairs in 10 days?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

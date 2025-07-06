@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个素食餐厅供应三种蛋白质：麸质、豆类和扁豆。他们的菜单上有十种菜。其中两种菜有豆类和扁豆，两种菜有豆类和麸质。其余的菜只有一种蛋白质。剩下的菜中有一半只有豆类，只有麸质的菜的数量是只有豆类的菜的三倍。有多少种菜包括扁豆？。",
+  "topic": "回答下面的数学问题：A vegan restaurant serves three kinds of protein: seitan, beans, and lentils. There are ten dishes on their menu. Two have beans and lentils, and two have beans and seitan. The remaining dishes only have one kind of protein in them. Half of the remaining dishes have only beans, and there are three times as many dishes with only beans as with only seitan. How many dishes include lentils?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

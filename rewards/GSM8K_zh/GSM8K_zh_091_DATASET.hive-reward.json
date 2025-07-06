@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：赫尔曼喜欢在12月、1月和2月喂鸟。他早上喂它们半杯，下午也喂半杯。这三个月他总共需要多少杯的食物？。",
+  "topic": "回答下面的数学问题：Herman likes to feed the birds in December, January and February.  He feeds them 1/2 cup in the morning and 1/2 cup in the afternoon.  How many cups of food will he need for all three months?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

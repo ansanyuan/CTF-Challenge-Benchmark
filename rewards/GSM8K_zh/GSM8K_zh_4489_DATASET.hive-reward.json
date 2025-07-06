@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特以30英里/小时的速度驾驶快艇横渡湖面。她的妹妹以12英里/小时的速度驾驶帆船跟随。如果湖宽60英里，珍妮特在对岸等待她妹妹追上需要多长时间？。",
+  "topic": "回答下面的数学问题：Janet starts driving across a lake in a speedboat going 30 miles per hour. Her sister follows in a sailboat that has a speed of 12 miles per hour. If the lake is 60 miles wide, how long does Janet have to wait on the other side for her sister to catch up?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

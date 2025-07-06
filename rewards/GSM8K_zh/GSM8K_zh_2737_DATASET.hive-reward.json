@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：保罗住在一个有5层的公寓。他每天都要进行3次往返于公寓外。如果每层楼高10英尺，那么他在一周内总共垂直行进了多少英尺？。",
+  "topic": "回答下面的数学问题：Paul lives in a 5th story apartment.  He makes 3 trips out from and back to his apartment throughout the day each day of a week.  How many feet does he travel vertically in total over the week if each story is 10 feet tall?",
   "checkpoint": [
     {
-      "$\\boxed{2100}$": 1
+      "\\boxed{2100}": 1
     }
   ],
   "matchingmethod": [

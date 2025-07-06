@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿诺德拥有三辆汽车。第一辆汽车平均每加仑汽油行驶50英里。第二辆车平均每加仑汽油行驶10英里。第三辆车平均每加仑汽油行驶15英里。他将每月的450英里驾驶里程平均分配给他的三辆车。如果每加仑汽油的价格是2美元，他每个月在汽油上花费了多少钱？。",
+  "topic": "回答下面的数学问题：Arnold owns three cars. The first car averages 50 miles per gallon of gas. The second car averages 10 miles per gallon of gas. And the third car averages 15 miles per gallon of gas. He splits his 450-mile monthly driving mileage equally amongst his three cars.  If gas costs $2 per gallon, how much does he spend on gas each month?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

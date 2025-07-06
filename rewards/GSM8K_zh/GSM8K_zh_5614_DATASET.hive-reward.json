@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Pete的记忆卡可以容纳每张8兆字节的3000张照片。每张6兆字节的照片可以容纳多少张？。",
+  "topic": "回答下面的数学问题：Pete's memory card can hold 3,000 pictures of 8 megabytes each. How many pictures can it hold of 6 megabytes each?",
   "checkpoint": [
     {
-      "$\\boxed{4000}$": 1
+      "\\boxed{4000}": 1
     }
   ],
   "matchingmethod": [

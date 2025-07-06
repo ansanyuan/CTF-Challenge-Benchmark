@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个仓储商店出售口香糖盒。每个盒子里有5包口香糖，每包口香糖里有3块。每个棕色箱子里包含4个口香糖盒。8个棕色箱子里有多少块口香糖？。",
+  "topic": "回答下面的数学问题：A warehouse store sells cartons of gum. Each carton contains 5 packs of gum, and there are 3 sticks of gum in each pack. Each brown box contains 4 cartons of gum. How many sticks of gum are there in 8 brown boxes?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

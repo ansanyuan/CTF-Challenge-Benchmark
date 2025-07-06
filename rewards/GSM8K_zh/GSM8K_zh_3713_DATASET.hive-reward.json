@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：彼得正在耙叶子。他耙3袋叶子需要15分钟。如果他以相同的速度继续耙叶子，他耙8袋叶子需要多长时间？。",
+  "topic": "回答下面的数学问题：Peter is raking leaves. It takes him 15 minutes to rake 3 bags of leaves. If he keeps raking at the same rate, how long will it take him to rake 8 bags?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校决定将体育馆预算增加20%。在正常的月份，如果他们把整个预算都花在购买躲避球上，他们可以以每个5美元的价格购买15个躲避球。如果他们只购买每个9美元的软式球，他们可以用新预算购买多少个？。",
+  "topic": "回答下面的数学问题：The school decided to add 20% to the gym budget. In a normal month, they could buy 15 dodgeballs for $5 each if they spent the entire budget on that. If they only buy softballs instead, which cost $9 each, how many can they buy with the new budget?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

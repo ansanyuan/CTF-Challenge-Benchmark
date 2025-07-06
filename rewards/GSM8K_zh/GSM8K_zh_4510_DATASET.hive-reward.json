@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个公寓大楼有4栋相同的建筑。每栋建筑有10间单人公寓，20间双人公寓和5间四人公寓。如果公寓大楼的入住率为最大入住率的75%，那么公寓大楼里住了多少人？。",
+  "topic": "回答下面的数学问题：An apartment complex has 4 identical buildings.  Each building has 10 studio apartments, 20 2 person apartments, and 5 4 person apartments.  How many people live in the apartment complex if it has 75% of its maximum occupancy?",
   "checkpoint": [
     {
-      "$\\boxed{210}$": 1
+      "\\boxed{210}": 1
     }
   ],
   "matchingmethod": [

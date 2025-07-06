@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿奇在一个赛季的16场比赛中以89次触地得分创下了学校最多触地得分的记录。理查德接近打破这个记录，在前14场比赛中平均每场比赛6次触地得分。他在最后两场比赛中每场比赛必须平均得多少次触地得分才能打破阿奇的记录？。",
+  "topic": "回答下面的数学问题：Archie holds the school record for most touchdown passes with 89 in a season of 16 games. Richard is close to breaking the record, having averaged 6 touchdowns a game in the first 14 games. How many touchdowns per game must he average in the final two games to beat Archie's record?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

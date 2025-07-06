@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hamza有几个不同大小的空桶，分别容纳3升，5升或6升。她将5升的桶装满水，然后尽可能多地倒入3升的桶中。然后，她将剩下的倒入6升的桶中。她还能再往6升的桶里加多少水（以升为单位），而不会溢出？。",
+  "topic": "回答下面的数学问题：Hamza has several empty buckets of different sizes, holding either 3, 5, or 6 liters. She fills the 5-liter bucket and pours as much as she can into the 3-liter bucket. Then, she pours the remainder into the 6-liter bucket. How much more water, in liters, can she put into the 6-liter bucket, without overflowing?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

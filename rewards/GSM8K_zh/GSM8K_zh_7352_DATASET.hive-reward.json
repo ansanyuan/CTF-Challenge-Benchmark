@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丽塔在当地的运动用品店用分期付款方式购买了一台价值120美元的椭圆机。在支付了等于机器成本一半的首付款后，她完全忘记了这件事。在取货日期之前的某个时候，一名店员打电话给她，提出在10天内支付余款的条件下，可以免除所有分期付款费用和税款。丽塔必须每天至少支付多少美元的最低金额才能拥有这台椭圆机？。",
+  "topic": "回答下面的数学问题：Rita put a $120 elliptical machine on layaway at her local sports good store. After making a down payment equal to half the cost of the machine, she completely forgot about it. Sometime before the pick-up date, a store employee called offered to waive all layaway fees and taxes on the condition that Rita paid the balance within 10 days. What is the daily minimum amount, in dollars, that Rita must pay to own the elliptical machine?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

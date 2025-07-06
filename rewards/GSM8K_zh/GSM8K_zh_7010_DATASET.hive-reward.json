@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：帕布罗的母亲同意给他每读一页书支付一分钱。他计划把这些钱存起来买一些糖果。帕布罗总是借阅正好有150页的书。读完书后，他去商店买了价值15美元的糖果，并剩下3美元。帕布罗读了多少本书？。",
+  "topic": "回答下面的数学问题：Pablo’s mother agrees to pay him one cent for every page he reads. He plans to save the money for some candy. Pablo always checks out books that are exactly 150 pages. After reading his books, he went to the store and bought $15 worth of candy and had $3 leftover. How many books did Pablo read?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

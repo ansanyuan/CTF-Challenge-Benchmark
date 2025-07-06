@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Norris在九月存了29美元。他在十月存了25美元，在十一月存了31美元。然后Hugo在网上游戏上花了75美元。Norris还剩多少钱？。",
+  "topic": "回答下面的数学问题：Norris saved $29 in September. He saved $25 in October and $31 in November. Then Hugo spent $75 on an online game. How much money does Norris have left?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

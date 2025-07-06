@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sue项链上的珠子要么是紫色、蓝色或绿色。如果Sue有7颗紫色珠子，比紫色珠子多两倍的蓝色珠子，以及比蓝色珠子多11颗绿色珠子，项链上有多少颗珠子？。",
+  "topic": "回答下面的数学问题：All of the beads in Sue's necklace are either purple, blue, or green. If Sue has 7 purple beads, twice as many blue beads as purple beads, and 11 more green beads than blue beads, how many beads are in the necklace?",
   "checkpoint": [
     {
-      "$\\boxed{46}$": 1
+      "\\boxed{46}": 1
     }
   ],
   "matchingmethod": [

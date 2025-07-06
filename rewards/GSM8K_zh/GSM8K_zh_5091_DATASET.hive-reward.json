@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克正在参加选举，在一个有10万选民的地区赢得了70%的选票。他在剩下的地区获得的总选票是第一个地区的两倍。他总共获得了多少选票？。",
+  "topic": "回答下面的数学问题：Mark is running for an election and wins 70% of the votes in an area with 100,000 voters.  He got twice as many total votes in the remaining area.  How many votes did he get in total?",
   "checkpoint": [
     {
-      "$\\boxed{210000}$": 1
+      "\\boxed{210000}": 1
     }
   ],
   "matchingmethod": [

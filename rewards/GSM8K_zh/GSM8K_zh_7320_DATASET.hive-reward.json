@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一列火车以每小时50英里的速度需要4小时到达目的地。如果以每小时100英里的速度行驶，需要多长时间？。",
+  "topic": "回答下面的数学问题：A train takes 4 hours to reach a destination at a speed of 50 miles per hour. How long would it take if it traveled at 100 miles per hour instead?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

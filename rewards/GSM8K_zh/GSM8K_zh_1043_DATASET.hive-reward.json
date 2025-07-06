@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：金的爸爸每周会给她买2根巧克力棒。她每4周吃1根巧克力棒，其余的都会存起来。16周后，金一共存了多少根巧克力棒？。",
+  "topic": "回答下面的数学问题：Kim's dad would buy her 2 candy bars a week.  She would eat 1 candy bar every 4 weeks, saving the rest.  After 16 weeks, how many candy bars did Kim have saved?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

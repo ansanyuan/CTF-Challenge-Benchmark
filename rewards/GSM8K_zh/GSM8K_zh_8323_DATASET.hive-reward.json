@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个农民有900个鸡蛋。他把它们放在每个托盘可以放30个鸡蛋的托盘上。如果他每个托盘卖2.5美元，农民将赚多少钱？。",
+  "topic": "回答下面的数学问题：A farmer has 900 eggs. He placed them on a tray, which holds 30 eggs each. How much will the farmer earn if he sells it for $2.5 per tray?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

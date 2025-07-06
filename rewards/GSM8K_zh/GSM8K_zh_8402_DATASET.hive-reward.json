@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rita每个夏天都会手工从植物上摘除六月甲虫。周一，她移除了39只六月甲虫。周二和周三，她移除的六月甲虫是周一的两倍。周四她移除了48只，周五移除了57只。她平均每天移除多少只六月甲虫？。",
+  "topic": "回答下面的数学问题：Rita hand-picks Junebugs off of her plants every summer.  On Monday, she removed 39 Junebugs.  On both Tuesday and Wednesday, she removed twice as many Junebugs as she did on Monday.  Thursday she removed 48 and on Friday she removed 57.  What is the average number of Junebugs that she removes per day?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

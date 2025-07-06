@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托马斯正在制作鹰嘴豆泥。鹰嘴豆泥食谱中的一种原料是鹰嘴豆。根据鹰嘴豆泥的一份食谱，需要1杯鹰嘴豆。一罐鹰嘴豆中有16盎司的鹰嘴豆。一杯鹰嘴豆中有6盎司。为了制作20份鹰嘴豆泥，托马斯应该买多少罐鹰嘴豆？。",
+  "topic": "回答下面的数学问题：Thomas is making hummus. One of the ingredients in a hummus recipe is chickpeas. For one serving of hummus, the recipe calls for 1 cup of chickpeas. In a can of chickpeas, there are 16 ounces of chickpeas. In one cup of chickpeas, there are 6 ounces. To make 20 servings, how many cans of chickpeas should Thomas buy?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

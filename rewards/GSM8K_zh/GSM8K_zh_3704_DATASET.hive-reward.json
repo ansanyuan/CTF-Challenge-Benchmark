@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jason正在规划一个停车楼，将有12层。每3层有一个门，司机必须出示身份证，这需要2分钟。为了从一层到另一层，司机必须以每秒10英尺的速度行驶800英尺。从停车楼的顶部到底部需要多长时间（以秒为单位）？。",
+  "topic": "回答下面的数学问题：Jason is planning a parking garage that will have 12 floors. Every 3rd floor has a gate where drivers have to show ID, which takes two minutes. To get from one floor to the next, drivers have to drive 800 feet at 10 feet/second. How long, in seconds, does it take to get to the bottom of the garage from the top?",
   "checkpoint": [
     {
-      "$\\boxed{1440}$": 1
+      "\\boxed{1440}": 1
     }
   ],
   "matchingmethod": [

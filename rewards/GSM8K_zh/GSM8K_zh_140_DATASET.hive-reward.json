@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮丝的办公室在三楼，她必须走3层楼梯才能到达她的办公室。一天内，她上了三层楼梯5次，下了三层楼梯3次，其余时间使用电梯。珍妮丝一天内走了多少层楼梯（上下）？。",
+  "topic": "回答下面的数学问题：Janice's office is on the third floor, and she has to walk up 3 flights of stairs to get to her office.  In a single day, she goes up the three flights of stairs 5 times, down the the three flights of stairs 3 times, and uses the elevator the remainder of the time.  How many flights of stairs does Janice walk (up and down) in a single day?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

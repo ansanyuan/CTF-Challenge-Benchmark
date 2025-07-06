@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alyssa和Chelsea共同购买了40支蜡烛来装饰他们的房间。Alyssa用了其中一半，Chelsea用了剩下蜡烛的70%。现在房间里还有多少支蜡烛？。",
+  "topic": "回答下面的数学问题：Alyssa and Chelsea jointly bought 40 candles to decorate their room. Alyssa used half of them, and Chelsea used 70% of the remaining candles. How many candles are there in the room now?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

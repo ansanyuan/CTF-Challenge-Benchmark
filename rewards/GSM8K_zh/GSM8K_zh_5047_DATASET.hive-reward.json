@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gentry在她的后院组装了一个直径为24英尺的新圆形游泳池。为了给游泳池加水，她使用了四根水管。其中两根水管每分钟各提供2加仑的水。另外两根水管每分钟各提供3加仑的水。如果游泳池的容积为15000加仑，需要多少小时才能将游泳池填满？。",
+  "topic": "回答下面的数学问题：Gentry assembled a new 24 foot round pool in her backyard.  To fill the pool with water, she used four hoses.  Two of the hoses each deliver water at a rate of 2 gallons per minute.  The other two hoses each deliver water at a rate of 3 gallons per minute.  With a volume of 15,000 gallons, how many hours will it take to fill the pool?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

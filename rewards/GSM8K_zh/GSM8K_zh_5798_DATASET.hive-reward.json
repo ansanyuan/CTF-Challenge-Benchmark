@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一家咖啡店，有7位顾客每人点了5美元的咖啡，还有8位顾客每人点了4美元的茶。这家咖啡店赚了多少钱？。",
+  "topic": "回答下面的数学问题：At a coffee shop, 7 customers order coffee at $5 each and 8 customers order tea at $4 each. How much money did the coffee shop make?",
   "checkpoint": [
     {
-      "$\\boxed{67}$": 1
+      "\\boxed{67}": 1
     }
   ],
   "matchingmethod": [

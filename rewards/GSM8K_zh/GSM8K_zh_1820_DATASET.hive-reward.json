@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Teresa在当地商店订购了2份价格为每份7.75美元的花式火腿奶酪三明治。在那里，她决定再买一些价格为4.00美元的意大利莎拉米，价格是莎拉米的三倍的布里奶酪，每磅10.00美元的橄榄1/4磅，每磅8.00美元的菲达奶酪1/2磅，以及另一条价格为2.00美元的法式面包。她在当地商店一共花了多少钱？。",
+  "topic": "回答下面的数学问题：Teresa orders 2 fancy ham and cheese sandwiches for $7.75 each at a local shop.  While there, she decides to pick up some salami for $4.00, more brie which is three times the price of the salami,  a 1/4 pound of olives that are $10.00 per pound, 1/2 pound of feta cheese that’s $8.00 a pound and another loaf of french bread that is $2.00.  How much does she spend at the local shop?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯特喜欢绘画。她决定去她所在城市的艺术博物馆。门票价格是5美元。凯特非常喜欢这次参观，以至于她决定每个月去一次。一年后，门票价格上涨到7美元，凯特决定每年只去4次。在连续3年的参观后，凯特一共支付了多少钱去艺术博物馆？。",
+  "topic": "回答下面的数学问题：Kate loves painting. She decided to go to an Art-museum in her city. The entrance fee is $5. Kate loved the visit so much, that she decided to go there once a month. After 1 year, the ticket price increased to $7 and Kate decided she is going to visit the museum only 4 times a year. How much did Kate pay for all visits to the Art-museum after 3 years of visiting?",
   "checkpoint": [
     {
-      "$\\boxed{116}$": 1
+      "\\boxed{116}": 1
     }
   ],
   "matchingmethod": [

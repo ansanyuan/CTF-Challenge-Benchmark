@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆每天只睡6个小时。他增加了1/3。他每晚睡多少小时？。",
+  "topic": "回答下面的数学问题：Tom has only been getting 6 hours of sleep a day.  He increases that by 1/3.  How many hours of sleep does he get per night?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

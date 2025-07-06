@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jaylen的狗早上吃1杯狗粮，晚上吃1杯狗粮。如果她买了一个有32杯狗粮的袋子，她可以用它喂狗多少天？。",
+  "topic": "回答下面的数学问题：Jaylen’s dog eats 1 cup of dog food in the morning and 1 cup of dog food in the evening.  If she buys a bag that has 32 cups of dog food, how many days can she feed her dog with it?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

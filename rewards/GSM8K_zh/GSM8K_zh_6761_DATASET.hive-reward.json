@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马修问他的孩子晚餐想吃多少热狗。艾拉和艾玛都同意每人想要2根热狗。卢克说他可以吃他姐姐的两倍，而亨特说他只能吃他姐姐的总量的1.5倍。马修需要煮多少热狗？。",
+  "topic": "回答下面的数学问题：Matthew asked his children how many hotdogs they wanted for dinner.  Both Ella and Emma agreed they wanted 2 hotdogs each.  Luke said he could eat twice the amount of hotdogs as his sisters while Hunter said he could only eat 1 and half times the total amount of his sisters.  How many hotdogs did Matthew need to cook?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

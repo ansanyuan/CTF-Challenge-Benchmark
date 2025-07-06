@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：被承包商要求在道路的每一侧建造4000个路障，但公司只能在道路的所有侧面安装总数的3/4的路障。他们需要在道路剩余部分的所有侧面安装多少个路障？。",
+  "topic": "回答下面的数学问题：After being contracted to build 4000 bollards on each side of a road, a company was only able to install 3/4 of the total number of bollards required on all sides of the road. How many more bollards are they required to install on all sides of the remaining part of the road?",
   "checkpoint": [
     {
-      "$\\boxed{2000}$": 1
+      "\\boxed{2000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：波特每天赚8美元，一周工作5天。他的经理要求他额外工作一天，承诺给他每天工资的额外50%。如果他每周都加班，一个月后他将赚多少钱？。",
+  "topic": "回答下面的数学问题：Porter earns $8 per day and works 5 times a week. His manager is asking him to work an extra day that promises him an extra fifty percent on top of his daily rate. How much money will he earn after a month if he renders overtime every week?",
   "checkpoint": [
     {
-      "$\\boxed{208}$": 1
+      "\\boxed{208}": 1
     }
   ],
   "matchingmethod": [

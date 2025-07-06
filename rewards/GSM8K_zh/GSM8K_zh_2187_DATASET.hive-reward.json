@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰夫开车去首都参加会议。一开始，他以每小时80英里的速度开了大约6个小时，然后限速改变，他不得不减速到每小时60英里，所以他以这个速度开了4个小时。然后他在一个加油站停下来。一旦车加满了油，他以每小时40英里的速度开了剩下的2个小时。他一共开了多少英里？。",
+  "topic": "回答下面的数学问题：Jeff was driving to the capital city to attend a conference. At first, he was driving at 80 miles/hour for about 6 hours, then the speed limit changed and he had to slow down to 60 miles/hour, and so he drove at this speed for 4 hours. Then he made a stop at a gas station. Once the car was full of gas, he drove at 40 miles/hour the rest of the trip for 2 hours. How many miles did he travel?",
   "checkpoint": [
     {
-      "$\\boxed{800}$": 1
+      "\\boxed{800}": 1
     }
   ],
   "matchingmethod": [

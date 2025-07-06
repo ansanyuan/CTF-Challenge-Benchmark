@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：夏季，服装店所有物品打5折。在周三，夏季折扣后所有牛仔裤再额外减10.00美元。在适用销售税之前，一条牛仔裤的成本是14.50美元。在所有折扣之前，牛仔裤的原价是多少？。",
+  "topic": "回答下面的数学问题：For the summer, the clothing store has a 50% discount for all items. On Wednesdays, there is an additional $10.00 off on all jeans after the summer discount is applied.  Before the sales tax applies, the cost of a pair of jeans is $14.50. How much was the original cost for the jeans before all the discounts?",
   "checkpoint": [
     {
-      "$\\boxed{49}$": 1
+      "\\boxed{49}": 1
     }
   ],
   "matchingmethod": [

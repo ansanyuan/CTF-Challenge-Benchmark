@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Dana的跑步速度是她步行速度的四倍，但她的跳跃速度是她跑步速度的一半。如果她的跳跃速度是每小时3英里，那么如果她花三分之一的时间跑步，三分之二的时间步行，六小时内她能走多远？。",
+  "topic": "回答下面的数学问题：Dana can run at a rate of speed four times faster than she can walk, but she can skip at a rate of speed that is half as fast as she can run. If she can skip at 3 miles per hour, how many miles can she travel in six hours if she spends one-third of the time running and two-thirds of the time walking?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

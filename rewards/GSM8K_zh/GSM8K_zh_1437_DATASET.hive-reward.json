@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：查理拥有一支长笛，两只号角和一架竖琴。卡莉拥有的长笛是查理的两倍，号角是查理的一半，但没有竖琴。查理和卡莉共拥有多少件乐器？。",
+  "topic": "回答下面的数学问题：Charlie owns one flute, two horns, and a harp.  Carli owns twice as many flutes as Charlie, half as many horns as Charlie, but no harps.  What is the combined total number of musical instruments owned by Charlie and Carli?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

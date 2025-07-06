@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗比·内伊想要填满一个120升的浴缸。他想通过让水流1分钟，然后关闭水源1分钟，如此交替开启和关闭水源来填满浴缸。但浴缸底部的盖子不是很密封，每分钟会漏掉1升的水。水龙头的流量是每分钟12升。需要多长时间才能将浴缸填满（以分钟为单位）？。",
+  "topic": "回答下面的数学问题：Robi Ney wants to fill a 120-liter tub. He is amused by letting the water run for 1 minute, then closing the water supply for 1 minute, and so on alternating opening and closing the water supply. But the cap at the bottom of the tub is not very airtight and lets 1 liter of water escape per minute. The flow rate of the tap is 12 liters per minute. How long does it take to fill the tub in minutes?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

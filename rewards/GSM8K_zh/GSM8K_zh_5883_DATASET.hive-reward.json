@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每个星期六和星期天，苏珊娜为家人做法式吐司。她和她的丈夫各吃1整片，她的女儿们分1片。她使用厚切面包，每条面包有12片。在52周内，她需要多少条面包来做法式吐司？。",
+  "topic": "回答下面的数学问题：On Saturdays and Sundays, Suzanne makes french toast for the family.  She and her husband each have 1 whole slice and her daughters split 1 slice.  She uses a thick sliced bread that comes 12 slices per loaf.  Over 52 weeks, how many loaves of bread will she need to make french toast?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

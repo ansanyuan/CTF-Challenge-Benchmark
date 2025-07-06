@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每天，卢通过在一个四分之一英里长的圆形跑道上跑三英里来锻炼。他的妻子罗茜也在同一时间在同一跑道上跑步，但她的速度是她丈夫的两倍。在他们的锻炼期间，罗茜绕跑道跑了多少圈？。",
+  "topic": "回答下面的数学问题：Every day, Lou works out by running three miles on a circular track that is one-quarter of a mile long.  His wife, Rosie, also runs on the same track at the same time as her husband, but she runs at twice the speed of her husband.  During their workout, how many times does Rosie circle the track?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

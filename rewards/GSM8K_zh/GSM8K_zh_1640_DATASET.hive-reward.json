@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ashley已经为聚会吹了12个气球，当安迪接手并以每5分钟吹2个的速度开始吹气球。当安迪停下来时，有50个气球。安迪吹气球多少分钟？。",
+  "topic": "回答下面的数学问题：Ashley had already blown up 12 balloons for the party when Andy took over and started blowing them up at a rate of 2 every five minutes. When Andy stopped, there were 50 balloons. For how many minutes did Andy blow up balloons?",
   "checkpoint": [
     {
-      "$\\boxed{95}$": 1
+      "\\boxed{95}": 1
     }
   ],
   "matchingmethod": [

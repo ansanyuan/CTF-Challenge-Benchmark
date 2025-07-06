@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰周三摘了4根香蕉。然后他周四摘了6根香蕉。周五，他摘的香蕉是周三的三倍。约翰总共有多少根香蕉？。",
+  "topic": "回答下面的数学问题：John picks 4 bananas on Wednesday. Then he picks 6 bananas on Thursday. On Friday, he picks triple the number of bananas he did on Wednesday. How many bananas does John have?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

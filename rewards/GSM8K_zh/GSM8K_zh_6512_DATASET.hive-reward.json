@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在Popton星球上，有两种生物种族：Hoopits和Neglarts。每个Hoopit有4只手，每只手有3个脚趾，而每个Neglart只有5只手，每只手有2个脚趾。如果Popton的无人驾驶校车总是搭载7个Hoopit学生和8个Neglart学生，那么Popton校车上有多少个脚趾？。",
+  "topic": "回答下面的数学问题：On the planet Popton, there are two races of beings: the Hoopits and Neglarts.  Each Hoopit has 3 toes on each of their 4 hands, while each Neglart only has 2 toes on each of their 5 hands. If a Popton automated driverless school bus always carries 7 Hoopit students and 8 Neglart students, how many toes are on the Popton school bus?",
   "checkpoint": [
     {
-      "$\\boxed{164}$": 1
+      "\\boxed{164}": 1
     }
   ],
   "matchingmethod": [

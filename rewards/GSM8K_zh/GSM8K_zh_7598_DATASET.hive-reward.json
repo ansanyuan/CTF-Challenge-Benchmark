@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jennie在妈妈的办公室帮忙。她有一堆需要贴邮票的60封信，还有一堆已经贴好邮票的信。她在三分之一的需要贴邮票的信上贴了邮票。如果现在已贴邮票的信堆里有30封信，那么当Jennie开始时，那堆里有多少封信？。",
+  "topic": "回答下面的数学问题：Jennie is helping at her mom's office. She has a pile of 60 letters needing stamps, and a pile of letters already stamped. She puts stamps on one-third of the letters needing stamps. If there are now 30 letters in the pile of already-stamped letters, how many were in that pile when Jennie began?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

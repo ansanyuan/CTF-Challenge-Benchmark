@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Freddy比Stephanie小2岁。Stephanie的年龄是Job的4倍。如果Job是5岁，Freddy多大了？。",
+  "topic": "回答下面的数学问题：Freddy is 2 years younger than Stephanie. Stephanie is 4 times as old as Job. If Job is 5, how old is Freddy?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

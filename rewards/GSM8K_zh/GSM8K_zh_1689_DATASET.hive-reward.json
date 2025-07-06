@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊莱贾昨天喝了8.5品脱的咖啡。艾米利奥昨天喝了9.5品脱的水。两个男孩昨天喝了多少杯液体？。",
+  "topic": "回答下面的数学问题：Elijah drank 8.5 pints of coffee yesterday. Emilio drank 9.5 pints of water yesterday. How many cups of liquid did the two boys drink yesterday?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

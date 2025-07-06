@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：兰迪有30美元。他花了10美元买午餐。他用剩下的钱的四分之一买了一个冰淇淋筒。兰迪还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Randy has $30. He spent $10 buying his lunch. He spent a quarter of the money he had left on an ice cream cone. What is the amount of money, in dollars, Randy has left?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

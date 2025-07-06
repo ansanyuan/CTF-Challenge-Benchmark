@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Harper比她的妹妹Maggie多收集了30%的万圣节糖果，而Maggie只收集了50块。Neil比Harper多收集了40%的糖果。Neil在万圣节收集了多少糖果？。",
+  "topic": "回答下面的数学问题：Harper collected 30% more pieces of Halloween candy than her sister Maggie, who only collected 50 pieces.  Neil collected 40% more candy than Harper.  How much candy did Neil get on Halloween?",
   "checkpoint": [
     {
-      "$\\boxed{91}$": 1
+      "\\boxed{91}": 1
     }
   ],
   "matchingmethod": [

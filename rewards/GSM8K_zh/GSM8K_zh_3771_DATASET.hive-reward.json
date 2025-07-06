@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马蒂亚斯有40个足球和15个篮球。30个足球和7个篮球有一个洞。马蒂亚斯总共有多少个没有洞的球？。",
+  "topic": "回答下面的数学问题：Matthias has 40 soccer balls and 15 basketballs. 30 soccer balls and 7 basketballs have a hole in them. How many balls in total does Matthias have without holes in them?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

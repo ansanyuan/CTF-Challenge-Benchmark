@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：简正在购买水果。她看到一个水果摊在做10个苹果售价2美元的广告，另一个水果摊在做5个橙子售价1.50美元的广告。假设没有批发购买的折扣，如果她买了两种水果中更便宜的那种的12个，她将花费多少美分？。",
+  "topic": "回答下面的数学问题：Jane is shopping for some fruit.  She sees a stand of fruit advertising 10 apples for $2, and another one advertising 5 oranges for $1.50.  Assuming there's no price discount for buying in bulk, how much would Jane spend in cents if she bought 12 of the cheaper of the two fruits?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

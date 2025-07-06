@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：从她的科学课学习中，Brady了解到海里的每一头鲸鱼有40加仑的血。她还了解到一条鲨鱼的血量是一头鲸鱼的三倍。计算出十条在海里游泳的鲨鱼有多少加仑的血。。",
+  "topic": "回答下面的数学问题：From her science class study, Brady learned that each whale in the sea has 40 gallons of blood. She also learned that a shark has three times as much blood as a whale. Calculate the number of gallons of blood that ten sharks swimming in the sea have.",
   "checkpoint": [
     {
-      "$\\boxed{1200}$": 1
+      "\\boxed{1200}": 1
     }
   ],
   "matchingmethod": [

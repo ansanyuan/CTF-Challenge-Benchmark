@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：塔比莎同意支付约翰和吉尔每小时10美元来帮助清理她的阁楼和地下室。吉尔周六工作了2小时，周日工作了1小时。约翰周六的工作时间是吉尔的两倍，周日的工作时间是吉尔的三倍。约翰赚的钱比吉尔多多少？。",
+  "topic": "回答下面的数学问题：Tabitha agreed to pay John and Jill $10 an hour to help clean out her attic and basement.  Jill worked 2 hours on Saturday and 1 hour on Sunday.  John worked twice as long as Jill on Saturday and three times as long as Jill on Sunday.  How much more money did John earn compared to Jill?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

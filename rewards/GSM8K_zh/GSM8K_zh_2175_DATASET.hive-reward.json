@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Axel购买了一个水族箱，原价为120美元，打了5折。但他还额外支付了等于减价后价格的5%的销售税。水族箱的总成本是多少？。",
+  "topic": "回答下面的数学问题：Axel bought an aquarium that was marked down 50% from an original price of $120. But he also paid additional sales tax equal to 5% of the reduced price. What was the total cost of the aquarium?",
   "checkpoint": [
     {
-      "$\\boxed{63}$": 1
+      "\\boxed{63}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sandra想买一些糖果。她为此存了10美元。她的妈妈另外给了她4美元，她的爸爸给了她妈妈的两倍。一颗糖果的价格是0.5美元，一颗软糖的价格是0.2美元。她想买14颗糖果和20颗软糖。购买后她还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Sandra wants to buy some sweets. She saved $10 for this purpose. Her mother gave her an additional $4, and her father twice as much as her mother. One candy costs $0.5, and one jelly bean $0.2. She wants to buy 14 candies and 20 jelly beans. How much money will she be left with after the purchase?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

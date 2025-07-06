@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莎拉计划做一些烘焙。她买了5磅的黑麦面粉，10磅的全麦面包粉和3磅的鹰嘴豆面粉。莎拉家里已经有2磅的全麦薄饼面粉。她现在一共有多少磅的面粉？。",
+  "topic": "回答下面的数学问题：Sarah is planning to do some baking. She buys 5 pounds of rye flour, 10 pounds of whole-wheat bread flour, and 3 pounds of chickpea flour. Sarah already had 2 pounds of whole-wheat pastry flour at home. How many pounds of flour does she now have?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

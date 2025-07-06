@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比利卖DVD。周二他有8个顾客。他的前3个顾客每人买了一张DVD。接下来的2个顾客每人买了两张DVD。他的最后3个顾客没有买任何DVD。比利周二一共卖了多少张DVD？。",
+  "topic": "回答下面的数学问题：Billy sells DVDs. He has 8 customers on Tuesday. His first 3 customers buy one DVD each.  His next 2 customers buy 2 DVDs each.  His last 3 customers don't buy any DVDs. How many DVDs did Billy sell on Tuesday?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

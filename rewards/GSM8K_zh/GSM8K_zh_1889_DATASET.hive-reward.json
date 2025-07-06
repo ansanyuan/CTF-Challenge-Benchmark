@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：纽约市议会购买了200盏路灯来现代化其广场。但是他们没有足够的广场来使用所有购买的路灯。已知纽约有15个广场，每个公园将有市议会购买的12盏新路灯，那么将有多少未使用的路灯？。",
+  "topic": "回答下面的数学问题：The New York City Council bought 200 streetlights to modernize its squares. But they don't have enough squares to use all the streetlights bought. Knowing that there are 15 squares in New York and that each park will have 12 new streetlights bought by the city council, how many unused streetlights will remain?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

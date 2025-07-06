@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Trevor的哥哥在20年前是他的两倍年龄。如果他的哥哥现在32岁，那么10年前Trevor多大了？。",
+  "topic": "回答下面的数学问题：Trevor's older brother was twice his age 20 years ago. How old was Trevor a decade ago if his brother is now 32 years old?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

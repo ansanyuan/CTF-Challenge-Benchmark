@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍娜正在给一堆白色上衣加黑点。每件上衣有20个点，每个点需要10毫升黑色染料。珍娜需要购买多少个400毫升的瓶子来给100件上衣染色？。",
+  "topic": "回答下面的数学问题：Jenna is adding black dots to a bunch of white blouses. Each blouse gets 20 dots, and each dot takes 10 ml of black dye. How many 400-ml bottles of dye does Jenna need to buy to dye 100 blouses?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

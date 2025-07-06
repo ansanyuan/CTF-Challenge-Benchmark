@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一项法院规定的交通课程中，有一定数量的酒后驾驶者和比这个数量少3个的7倍的超速驾驶者。如果总共有45名学生，那么有多少名酒后驾驶者？。",
+  "topic": "回答下面的数学问题：In a court-mandated traffic class, there are a certain number of drunk drivers and 3 less than 7 times that many speeders. If there are 45 students total, how many drunk drivers are there?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

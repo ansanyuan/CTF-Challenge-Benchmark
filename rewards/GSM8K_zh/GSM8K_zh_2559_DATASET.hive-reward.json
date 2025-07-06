@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯可以用3卷纱线做一个贝雷帽。如果他有12卷红色纱线，15卷黑色纱线和6卷蓝色纱线，他可以做多少个贝雷帽？。",
+  "topic": "回答下面的数学问题：James can make a beret from 3 spools of yarn. If he has 12 spools of red yarn, 15 spools of black yarn, and 6 spools of blue yarn, how many berets can he make?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

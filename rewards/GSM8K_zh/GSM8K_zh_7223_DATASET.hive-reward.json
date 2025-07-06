@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个农场有100只鸡。20%是黑铜马兰鸡，而80%的黑铜马兰鸡是母鸡。有多少只黑铜马兰鸡是母鸡？。",
+  "topic": "回答下面的数学问题：A farm has 100 chickens.  20 percent are Black Copper Marans, and 80 percent of the Black Copper Marans are hens.  How many BCM hens are there?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

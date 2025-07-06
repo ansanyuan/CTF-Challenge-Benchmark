@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布里安娜每个月读两本书。今年，她收到了六本新书作为礼物，她买了八本新书，并计划从图书馆借两本少于她买的新书。她将不得不重新阅读多少本她的旧书收藏，才能每个月有两本书可读？。",
+  "topic": "回答下面的数学问题：Brianna reads two books a month. This year, she was given six new books as a gift, she bought eight new books, and she plans to borrow two fewer new books than she bought from the library. How many of her old books from her old book collection will she have to reread to have two books to read a month this year?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

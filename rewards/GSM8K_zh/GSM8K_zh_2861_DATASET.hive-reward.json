@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米切尔先生正在为足球队买披萨。他为他们赛季中进的每个球买一块披萨。一个大披萨有12块。如果他买了6个披萨，球队一共踢了8场比赛，他们平均每场比赛进了多少球？。",
+  "topic": "回答下面的数学问题：Mr. Mitchell is buying pizzas for the soccer team. He buys one slice for every goal they scored on the season. A large pizza has 12 slices. If he bought 6 pizzas, and the team had 8 games, how many goals did they score per game on average?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

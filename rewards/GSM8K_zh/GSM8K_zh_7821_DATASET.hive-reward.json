@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Davos在商场买了两件每件30美元的衬衫。如果他以40%的折扣购买，那么Davos买这两件衬衫一共付了多少钱？。",
+  "topic": "回答下面的数学问题：Davos bought 2 shirts from the mall that cost $30 each. If he bought them with a 40% discount, how much did Davos pay for the 2 shirts?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

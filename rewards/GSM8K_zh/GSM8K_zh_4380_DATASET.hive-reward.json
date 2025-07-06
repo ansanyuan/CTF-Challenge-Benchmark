@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jeremy要开车600英里去拜访他的父母。他这次旅行的平均速度是每小时50英里。每隔两个小时的驾驶，他会停车休息15分钟。他的汽车每加仑汽油可以行驶18英里，当他用掉15加仑时，油表会亮起，到达这一点时，他会停下来加油，这需要10分钟。如果他出发时油箱是满的，他需要多长时间（以分钟计）才能到达父母家？。",
+  "topic": "回答下面的数学问题：Jeremy is driving 600 miles to visit his parents. His average speed for this trip is 50 miles per hour. Every two hours of driving, he makes a rest stop for 15 minutes. His car gets 18 miles per gallon of gas, and his gas indicator comes on when he's used 15 gallons, at which point he stops to refill, which takes 10 minutes. How long, in minutes, does he take to get to his parents' house, if he starts out with a full tank of gas?",
   "checkpoint": [
     {
-      "$\\boxed{815}$": 1
+      "\\boxed{815}": 1
     }
   ],
   "matchingmethod": [

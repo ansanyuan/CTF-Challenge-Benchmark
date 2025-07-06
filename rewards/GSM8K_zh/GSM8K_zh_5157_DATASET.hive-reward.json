@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个人过去有39头奶牛，但去年有25头死了，他卖掉了6头。今年奶牛的数量增加了24头，这个人又买了43头。他的朋友送给他8头奶牛。这个人现在有多少头奶牛？。",
+  "topic": "回答下面的数学问题：A man used to have 39 cows but last year 25 of them died and he sold 6 of them. This year the number of the cows increased by 24 and the man bought 43 more. His friend gave him 8 cows as a gift. How many cows does the man have now?",
   "checkpoint": [
     {
-      "$\\boxed{83}$": 1
+      "\\boxed{83}": 1
     }
   ],
   "matchingmethod": [

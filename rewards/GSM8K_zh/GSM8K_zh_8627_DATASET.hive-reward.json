@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡洛斯、吉姆和凯莉在海滩上玩耍，他们决定收集一些贝壳。吉姆收集了27个贝壳，比卡洛斯多收集了5个。卡洛斯收集的是凯莉的两倍。他们把所有的贝壳收集起来，平均分给了自己。每个人分到了多少个？。",
+  "topic": "回答下面的数学问题：Carlos, Jim and Carrey were at the beach playing and they decided to gather some seashells. Jim collected 27 seashells, which was 5 more than what Carlos collected. Carlos collected twice as many as Carrey. They gathered all their seashells and divided them equally between themselves. How many did each person get?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Zoey和Sydney正在进行西瓜籽吐距离比赛。谁吐出的籽总距离最远就赢了。她们每人得到一个西瓜。Zoey的西瓜有40颗籽，她每颗吐出10英尺。Sydney的西瓜有35颗，她每颗吐出12英尺。平均总吐距是多少？。",
+  "topic": "回答下面的数学问题：Zoey and Sydney are having a watermelon seed spitting contest. Whoever spits their seeds the most total distance wins. They each get one watermelon. Zoey's has 40 seeds and she spits each one 10 feet. Sydney's has 35 she spits each one 12 feet. What is the average total distance spat?",
   "checkpoint": [
     {
-      "$\\boxed{410}$": 1
+      "\\boxed{410}": 1
     }
   ],
   "matchingmethod": [

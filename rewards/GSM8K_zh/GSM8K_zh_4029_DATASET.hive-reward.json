@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卢卡斯想养一只狗，但他的父母认为他已经有太多宠物，空间不够。他的房间里已经有12个宠物床，但还能再放8个宠物床。他的父母认为每只宠物需要2张床才能感到舒适。根据他父母的说法，卢卡斯有足够的空间可以养多少只宠物？。",
+  "topic": "回答下面的数学问题：Lucas wants to get a dog but his parents think he already has too many pets and won't have enough space. He already has 12 pet beds in his room but manages to fit another 8 pet beds. His parents argue that each pet is going to need 2 beds each to feel comfortable. According to his parent's argument, how many pets does Lucas have enough room for?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

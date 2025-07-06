@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾米有14个iPod。她丢失了14个中的6个，但她仍然比罗莎多两倍。艾米和罗莎一共有多少个iPod？。",
+  "topic": "回答下面的数学问题：Emmy has a collection of 14 iPods. She loses 6 out of the 14 she had but she still has twice as many as Rosa. How many iPods does Emmy and Rosa have together?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

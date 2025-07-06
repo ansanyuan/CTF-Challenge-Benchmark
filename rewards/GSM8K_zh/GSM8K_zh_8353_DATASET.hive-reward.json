@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在水疗中心，Iris花了400美元做头发，做美甲的花费是做头发的1/4，做足疗的花费是做美甲的3/4。她在水疗中心总共花了多少钱？。",
+  "topic": "回答下面的数学问题：At a spa, Iris spent $400 to do her hair, 1/4 as much to do a manicure, and 3/4 as much money as a manicure to do a pedicure. How much money did she spend at the spa?",
   "checkpoint": [
     {
-      "$\\boxed{575}$": 1
+      "\\boxed{575}": 1
     }
   ],
   "matchingmethod": [

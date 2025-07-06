@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Manny报名参加了60美元的空手道课程。他的父母告诉他，如果他的课程费用超过每节课10美元，那么他们就不会再给他报名了。如果总共有10节课，他可以缺席多少节课，之后他们就不会再给他报名？。",
+  "topic": "回答下面的数学问题：Manny signed up for Karate classes for $60. His parents tell him that if his classes end up costing more than $10 per class, then they won't sign him up again. If there are 10 total classes, how many can he miss before they don't sign him up again?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

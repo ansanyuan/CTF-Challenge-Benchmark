@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alex有2块蛋糕，每块蛋糕被切成8片。四分之一的蛋糕被送给他的朋友。剩下的蛋糕中有三分之一被送给他的家人。Alex吃了3片。剩下多少片蛋糕？。",
+  "topic": "回答下面的数学问题：Alex has 2 cakes that are each cut into 8 slices. A fourth of the slices are given away to his friends. A third of the remaining slices are given away to his family. Alex eats 3 slices. How many slices of the cake are left?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

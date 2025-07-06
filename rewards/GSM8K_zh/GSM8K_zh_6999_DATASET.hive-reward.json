@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jo以稳定的速度阅读。她当前的书有210页。现在，她在第90页。一小时前，她在第60页。她将阅读这本书多少个小时？。",
+  "topic": "回答下面的数学问题：Jo reads at a steady pace. Her current book has 210 pages. Now, she is at page 90. An hour ago, she was at page 60. For how many hours will she be reading the book?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

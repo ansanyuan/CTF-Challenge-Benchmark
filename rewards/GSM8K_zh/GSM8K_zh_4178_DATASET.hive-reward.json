@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只吉娃娃犬、一只斗牛犬和一只大丹犬的总重量为439磅。斗牛犬的重量是吉娃娃犬的3倍。大丹犬的重量比斗牛犬的三倍多10磅。大丹犬的重量是多少？。",
+  "topic": "回答下面的数学问题：A chihuahua, pitbull, and great dane weigh a combined weight of 439 pounds. The pitbull weighs 3 times as much as the chihuahua.  The great dane weighs 10 more pounds than triple the pitbull.  How much does the great dane weigh?",
   "checkpoint": [
     {
-      "$\\boxed{307}$": 1
+      "\\boxed{307}": 1
     }
   ],
   "matchingmethod": [

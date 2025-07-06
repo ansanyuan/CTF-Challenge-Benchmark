@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个孩子正在用一些积木堆叠一个5层的金字塔。在第一层，他有9块积木。对于接下来的层，他比底层的积木少2块。他一共用了多少块积木？。",
+  "topic": "回答下面的数学问题：A child is making a 5-level pyramid by stacking some blocks. In the first row, he has 9 blocks. For the next rows, he has 2 less than the blocks he has from its bottom row. How many blocks did he use in all?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

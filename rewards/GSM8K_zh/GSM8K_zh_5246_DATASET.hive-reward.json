@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰为义卖会做了6打饼干。他每个饼干卖1.5美元，每个饼干的成本是0.25美元。他将利润平均分给两个慈善机构。每个慈善机构能得到多少钱？。",
+  "topic": "回答下面的数学问题：John makes 6 dozen cookies for a bake sale.  He sells each cookie for $1.5 and each cookie costs $0.25 to make.  He splits the profit between two charities evenly.  How much does each charity get?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

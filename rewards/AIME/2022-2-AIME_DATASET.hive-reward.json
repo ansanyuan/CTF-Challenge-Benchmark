@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Azar, Carl, Jon, and Sergey are the four players left in a singles tennis tournament. They are randomly assigned opponents in the semifinal matches, and the winners of those matches play each other in the final match to determine the winner of the tournament. When Azar plays Carl, Azar will win the match with probability $\\frac23$ . When either Azar or Carl plays either Jon or Sergey, Azar or Carl will win the match with probability $\\frac34$ . Assume that outcomes of different matches are independent. The probability that Carl will win the tournament is $\\frac{p}{q}$ , where $p$ and $q$ are relatively prime positive integers. Find $p+q$ .",
   "checkpoint": [
     {
-      "$\\boxed{125}$": 1
+      "\\boxed{125}": 1
     }
   ],
   "matchingmethod": [

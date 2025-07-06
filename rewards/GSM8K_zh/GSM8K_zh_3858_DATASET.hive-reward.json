@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一名四分卫在比赛中退后传球80次。30%的时间他没有传球。他不传球的一半时间被对方球员抓住造成损失。四分卫在比赛中被对方球员抓住造成损失多少次？。",
+  "topic": "回答下面的数学问题：A quarterback steps back to throw 80 times in a game.  30 percent of the time he does not get a pass thrown.  Half of the times that he does not throw the ball he is sacked for a loss.  How many times is the quarterback sacked for a loss in the game?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

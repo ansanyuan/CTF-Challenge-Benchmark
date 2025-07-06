@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一本书的作者获得了纸质封面版本的总销售额的6%，以及精装版本的总销售额的12%。如果纸质封面版本售出了32,000本，每本售价0.20美元，精装版本售出了15,000本，每本售价0.40美元，那么作者赚了多少钱？。",
+  "topic": "回答下面的数学问题：An author of a book got 6% of the total sales of the paper cover version of his books and 12% of the total sales of the hardcover version. If 32,000 copies of the paper cover version were sold at $0.20 each and 15,000 copies of the hardcover version were sold at $0.40 each, how much did the author earn?",
   "checkpoint": [
     {
-      "$\\boxed{1104}$": 1
+      "\\boxed{1104}": 1
     }
   ],
   "matchingmethod": [

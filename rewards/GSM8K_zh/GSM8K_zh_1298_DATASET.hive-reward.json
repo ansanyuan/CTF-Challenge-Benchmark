@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在普罗菲斯·普拉姆的生物课上有40名学生。这些学生中，80%有小狗。拥有小狗的学生中，25%也有鹦鹉。有多少学生既有小狗又有鹦鹉？。",
+  "topic": "回答下面的数学问题：In Professor Plum's biology class there are 40 students. Of those students, 80 percent have puppies. Of those who have puppies, 25% also have parrots. How many students have both puppies and parrots?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

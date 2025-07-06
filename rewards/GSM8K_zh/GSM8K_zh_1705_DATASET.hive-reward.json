@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在沙拉吧，奶奶在她的沙拉上放了三个蘑菇。她还加了两倍于蘑菇的樱桃番茄，比樱桃番茄多四倍的泡菜，比泡菜多四倍的培根碎。如果培根碎的三分之一是红色的，那么奶奶在她的沙拉上放了多少个红色的培根碎？。",
+  "topic": "回答下面的数学问题：At the salad bar, Grandma put three mushrooms on her salad.  She also added twice as many cherry tomatoes as mushrooms, 4 times as many pickles as cherry tomatoes, and 4 times as many bacon bits as pickles.  If one third of the bacon bits were red, than how many red bacon bits did Grandma put on her salad?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

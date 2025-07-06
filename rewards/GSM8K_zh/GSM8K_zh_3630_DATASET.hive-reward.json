@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Amaro夫人的花园里有80朵玫瑰。她的玫瑰四分之三是红色的，剩下的四分之一是黄色的，其余的是白色的。Amaro夫人的玫瑰中有多少朵是红色或白色的？。",
+  "topic": "回答下面的数学问题：Mrs. Amaro has 80 roses in her garden. Three-fourths of her roses are red, one-fourth of the remaining are yellow, and the rest are white. How many of Mrs. Amaro's roses are either red or white?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

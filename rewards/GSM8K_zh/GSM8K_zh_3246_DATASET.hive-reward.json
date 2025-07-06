@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯窗外有一棵小树，有30个树枝，每个树枝有90个嫩枝。30%的嫩枝长出4片叶子，其余长出5片叶子。这棵树上一共有多少片叶子？。",
+  "topic": "回答下面的数学问题：James has a small tree outside his window with 30 branches with 90 twigs per branch. 30% of the twigs sprout 4 leaves and the rest sprout 5 leaves. How many leaves are on the tree total?",
   "checkpoint": [
     {
-      "$\\boxed{12690}$": 1
+      "\\boxed{12690}": 1
     }
   ],
   "matchingmethod": [

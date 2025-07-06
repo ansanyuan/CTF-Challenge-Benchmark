@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰观看了一部电视节目，他们宣布他们将再做1季。每季有22集，最后一季比其他季多4集。在宣布之前已经有了9季。如果每集是0.5小时，最后一季结束后观看所有集数需要多长时间？。",
+  "topic": "回答下面的数学问题：John watches a TV show and they announce they are going to do 1 more season.  Each season is 22 episodes except for the last season which is 4 episodes longer.  There were 9 seasons before the announcement.  If each episode is .5 hours how long will it take to watch them all after the last season finishes?",
   "checkpoint": [
     {
-      "$\\boxed{112}$": 1
+      "\\boxed{112}": 1
     }
   ],
   "matchingmethod": [

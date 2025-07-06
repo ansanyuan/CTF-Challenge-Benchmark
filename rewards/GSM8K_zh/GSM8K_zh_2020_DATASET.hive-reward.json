@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两位朋友阿尔玛和梅琳娜的年龄之和是阿尔玛在一次测试中得分的两倍。如果梅琳娜的年龄是阿尔玛的三倍，她的年龄是60岁，求阿尔玛在测试中的得分？。",
+  "topic": "回答下面的数学问题：The sum of the ages of two friends, Alma and Melina, is twice the total number of points Alma scored in a test. If Melina is three times as old as Alma, and she is 60, calculate Alma's score in the test?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

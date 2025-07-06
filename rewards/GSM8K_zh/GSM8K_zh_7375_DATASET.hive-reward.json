@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Grace烤了4整个南瓜派。她卖了1整个南瓜派，并把1整个南瓜派给了她的朋友。剩下的整个南瓜派每个切成了6块。她的家人吃了2/3块。剩下多少块南瓜派？。",
+  "topic": "回答下面的数学问题：Grace baked 4 whole pumpkin pies. She sold 1 whole pumpkin pie and gave 1 whole pumpkin pie to her friend. The remaining whole pumpkin pies were each sliced into 6 pieces. Her family ate 2/3 pieces. How many pieces of pumpkin pie were left?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

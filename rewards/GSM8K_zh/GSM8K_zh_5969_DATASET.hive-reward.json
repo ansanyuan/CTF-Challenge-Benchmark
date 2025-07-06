@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Josue在后院种了一棵树，它的生长速度为每周2英尺。如果这棵树目前高度为10英尺，假设每个月为4周，那么在4个月后，这棵树的总高度将是多少？。",
+  "topic": "回答下面的数学问题：Josue planted a tree in his backyard that grows at the rate of 2 feet per week. If the tree is currently 10 feet tall, what would be the tree's total height after 4 months (assuming each month is 4 weeks long)?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

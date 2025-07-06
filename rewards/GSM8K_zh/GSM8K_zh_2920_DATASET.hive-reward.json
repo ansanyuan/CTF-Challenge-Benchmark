@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：跳水俱乐部平日提供2个初级跳水课程，周末每天提供4个初级课程。每个课程可容纳5人。在3周内有多少人可以参加课程？。",
+  "topic": "回答下面的数学问题：The Diving Club offers 2 beginning diving classes on weekdays and 4 beginning classes on each day of the weekend. Each class has room for 5 people. How many people can take classes in 3 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{270}$": 1
+      "\\boxed{270}": 1
     }
   ],
   "matchingmethod": [

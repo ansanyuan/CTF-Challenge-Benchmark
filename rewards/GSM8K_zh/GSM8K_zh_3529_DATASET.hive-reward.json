@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨米拉是一支足球队的助理教练，他们正在与联赛中最好的球队之一比赛。她有一个装满水的盒子，里面有四打水瓶。在比赛的第一个休息时段，场上的11名球员每人从萨米拉的盒子里拿走两瓶水，在比赛结束时，每人再拿走一瓶水。萨米拉的盒子里还剩下多少瓶水？。",
+  "topic": "回答下面的数学问题：Samira is the assistant coach of a soccer team playing against one of the best teams in their league. She has four dozen water bottles filled with water in a box. In the first break of the match, the 11 players on the field each take two bottles of water from Samira's box, and at the end of the game, take one more bottle each. How many bottles of water are remaining in Samira's box?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

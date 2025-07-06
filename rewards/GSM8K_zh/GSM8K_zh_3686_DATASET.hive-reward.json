@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：需要85颗纸星来填满一个玻璃罐。卢克已经做了33颗星，但他需要填满4个瓶子。卢克还需要做多少颗星？。",
+  "topic": "回答下面的数学问题：85 paper stars are required to fill a glass jar. Luke has already made 33 stars, but he needs to fill 4 bottles. How many more stars must Luke make?",
   "checkpoint": [
     {
-      "$\\boxed{307}$": 1
+      "\\boxed{307}": 1
     }
   ],
   "matchingmethod": [

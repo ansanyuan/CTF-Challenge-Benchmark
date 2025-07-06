@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨利姆的规模是利斯堡的15倍。利斯堡有58940人。如果有130000人搬出了萨利姆，而萨利姆的人口中有一半是女性，那么萨利姆有多少女性居住？。",
+  "topic": "回答下面的数学问题：Salem is 15 times the size of Leesburg. Leesburg has 58940 people. If 130000 people move out of Salem, and half of Salem's population is women, how many women live in Salem?",
   "checkpoint": [
     {
-      "$\\boxed{377050}$": 1
+      "\\boxed{377050}": 1
     }
   ],
   "matchingmethod": [

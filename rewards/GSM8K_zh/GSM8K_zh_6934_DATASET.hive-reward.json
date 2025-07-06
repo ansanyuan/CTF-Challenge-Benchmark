@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校食堂使用碎肉来做千层面和乡村馅饼。他们制作了100份千层面，每份使用2磅碎肉，以及乡村馅饼，每份使用3磅碎肉。如果食堂总共使用了500磅碎肉，他们制作了多少个乡村馅饼？。",
+  "topic": "回答下面的数学问题：A school cafeteria uses ground mince to cook lasagnas and cottage pies. They make 100 lasagnas, which use 2 pounds of ground mince each, and cottage pies, which use 3 pounds of ground mince each. If the cafeteria has used 500 pounds of ground mince in total, how many cottage pies did they make?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

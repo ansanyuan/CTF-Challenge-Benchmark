@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰的烧烤架出了问题，烧焦了一半的牛排。他吃掉了没有烧焦的部分的80%。如果牛排最初是30盎司，他吃了多少盎司的牛排？。",
+  "topic": "回答下面的数学问题：John's grill messes up and burns half his steak.  He eats 80% of what isn't burned.  If the steak was originally 30 ounces how much steak did he eat?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

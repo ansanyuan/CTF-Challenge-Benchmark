@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比利比布拉德重9磅。布拉德比卡尔重5磅。如果卡尔重145磅，比利重多少磅？。",
+  "topic": "回答下面的数学问题：Billy weighs 9 pounds more than Brad. Brad weighs 5 pounds more than Carl. If Carl weighs 145 pounds, how much does Billy weigh, in pounds?",
   "checkpoint": [
     {
-      "$\\boxed{159}$": 1
+      "\\boxed{159}": 1
     }
   ],
   "matchingmethod": [

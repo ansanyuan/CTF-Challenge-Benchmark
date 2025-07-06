@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈维尔每天锻炼50分钟，连续一周。桑达在三天里每天锻炼90分钟。哈维尔和桑达总共锻炼了多少分钟？。",
+  "topic": "回答下面的数学问题：Javier exercised for 50 minutes every day for one week. Sanda exercised for 90 minutes on each of three days. How many minutes did Javier and Sanda exercise in total?",
   "checkpoint": [
     {
-      "$\\boxed{620}$": 1
+      "\\boxed{620}": 1
     }
   ],
   "matchingmethod": [

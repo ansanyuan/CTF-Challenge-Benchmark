@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米切尔有30支铅笔。他比安东尼奥多6支铅笔。米切尔和安东尼奥一共有多少支铅笔？。",
+  "topic": "回答下面的数学问题：Mitchell has 30 pencils. He has 6 more pencils than Antonio. How many pencils does Mitchell and Antonio have together?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

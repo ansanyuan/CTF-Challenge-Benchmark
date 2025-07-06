@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：5只松鼠收集了575个橡子。如果每只松鼠需要130个橡子度过冬天，每只松鼠还需要收集多少个橡子？。",
+  "topic": "回答下面的数学问题：5 squirrels collected 575 acorns. If each squirrel needs 130 acorns to get through the winter, how many more acorns does each squirrel need to collect?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

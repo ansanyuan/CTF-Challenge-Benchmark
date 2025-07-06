@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚当有18个磁铁。他送出了三分之一的磁铁，然后他剩下的磁铁数量是彼得的一半。彼得有多少个磁铁？。",
+  "topic": "回答下面的数学问题：Adam has 18 magnets. He gave away a third of the magnets, and he still had half as many magnets as Peter. How many magnets does Peter have?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

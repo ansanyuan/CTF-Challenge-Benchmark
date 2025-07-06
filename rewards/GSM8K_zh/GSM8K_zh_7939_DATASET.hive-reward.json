@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽亚小姐是一名中学教师，她喜欢收集运动卡片。她有六副篮球卡，每副25张，还有五盒棒球卡，每盒40张。她自己保留了50张卡片，剩下的卡片都给了她的学生。如果她的学生每人得到了十张卡片，玛丽亚小姐有多少名学生？。",
+  "topic": "回答下面的数学问题：Miss Maria is a middle school teacher, and she loves to collect sports cards. She has six decks with 25 basketball cards in each deck and five boxes with 40 baseball cards in each box. She keeps 50 cards and gives the remaining cards to her students. If her students got ten cards each, how many students does Miss Maria have?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

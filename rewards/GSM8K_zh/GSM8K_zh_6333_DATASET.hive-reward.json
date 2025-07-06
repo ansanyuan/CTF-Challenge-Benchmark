@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莉莲带着她的指南手册外出采摘蘑菇。她找到了32朵蘑菇，并使用她的指南手册辨别哪些是有毒的，哪些是可以安全食用的。最后，她找到了9朵她可以安全食用的蘑菇。剩下的蘑菇中，她辨别出有毒蘑菇的数量是她吃的数量的两倍，还有一堆她不确定的蘑菇。她不确定有多少蘑菇是安全的或有毒的？。",
+  "topic": "回答下面的数学问题：Lillian went out to forage for mushrooms with her handy guidebook. She found 32 mushrooms and used her guidebook to identify which ones were poisonous and which were safe to eat. In the end, she had 9 mushrooms she could safely eat for dinner. Of the rest, she identified twice the amount she ate as poisonous, and a remaining bunch she was uncertain about. How many mushrooms was she uncertain were safe or poisonous?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

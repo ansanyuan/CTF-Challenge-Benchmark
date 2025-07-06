@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ryan每完成一周的家务就能得到6美元的零花钱。他连续做了3周的家务。然后他为自己和3个朋友各买了一个1.25美元的冰淇淋。现在他们都想去看电影，每张电影票的价格是6.50美元。Ryan能买多少张电影票？。",
+  "topic": "回答下面的数学问题：Ryan’s allowance is $6 each week he completes his chores. He did his chores for 3 weeks. Then he bought ice cream cones for himself and 3 friends at $1.25 each. Now they all want to go to the movies and tickets cost $6.50 each. How many movie tickets can Ryan buy?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

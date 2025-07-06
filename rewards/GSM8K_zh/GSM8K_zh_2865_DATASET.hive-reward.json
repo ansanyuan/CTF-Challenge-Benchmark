@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Trey有Kris的7倍乌龟。Kris有Kristen的四分之一乌龟。如果Kristen有12只乌龟，Trey比Kristen多多少只乌龟？。",
+  "topic": "回答下面的数学问题：Trey has 7 times as many turtles as Kris. Kris has 1/4 as many turtles as Kristen has. How many more turtles does Trey have than Kristen, if Kristen has 12?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

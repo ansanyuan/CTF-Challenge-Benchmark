@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果皮特去年读的书是马特的两倍，而今年他将这个数字翻倍，而马特只多读了50%，如果马特在第二年读了75本书，那么皮特在这两年一共读了多少本书？。",
+  "topic": "回答下面的数学问题：If Pete read twice as many books as Matt did last year, and this year he doubles that number while Matt reads only 50% more, how many books does Pete read across both years if Matt read 75 books in his second year?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

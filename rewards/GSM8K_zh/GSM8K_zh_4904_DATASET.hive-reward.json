@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Margo向Jayden的筹款活动捐赠了4300美元。如果朱莉向Jayden的活动捐赠了4700美元，他们捐赠金额的差额的一半是多少？。",
+  "topic": "回答下面的数学问题：Margo donated $4300 to Jayden's fundraising campaign. If Julie donated $4700 to Jayden's campaign, What's half the difference in the amount they contributed?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

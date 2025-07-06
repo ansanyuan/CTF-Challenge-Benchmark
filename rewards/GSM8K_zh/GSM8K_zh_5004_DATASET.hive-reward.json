@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sandra每天早上吃3个甜甜圈。她16周内会吃多少个甜甜圈？。",
+  "topic": "回答下面的数学问题：Sandra eats 3 beignets every morning.  How many beignets will she eat in 16 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{336}$": 1
+      "\\boxed{336}": 1
     }
   ],
   "matchingmethod": [

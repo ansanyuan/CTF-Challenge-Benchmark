@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：菲尔邀请了一些朋友来吃披萨。他打开披萨盒，发现披萨没有切片。菲尔将披萨切成两半，然后将两半各自切成两半，然后再将每片再切成两半。菲尔随后给了3个朋友各1片，给了2个朋友各2片。菲尔还剩下多少片披萨？。",
+  "topic": "回答下面的数学问题：Phill had some friends over for pizza.  He opens the pizza box and discovers it hasn't been sliced.  Phill cuts the pizza in half, and then cuts both halves in half, and then cuts each slice in half again.  Phill then passes out 1 slice to 3 of his friends and 2 slices to 2 of his friends.  How many slices of pizza are left for Phill?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

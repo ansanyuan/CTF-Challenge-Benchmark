@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布鲁克挤牛奶然后以每加仑3美元的价格在市场上出售牛奶。无论多少牛奶卖不出去，她都会把它变成黄油。一加仑牛奶等于2块黄油。然后她以每块1.5美元的价格出售黄油。她有12头奶牛。每头奶牛产4加仑牛奶。她有6个顾客，每个顾客都想要6加仑牛奶。如果她把所有的牛奶和黄油都卖掉，她能赚多少钱？。",
+  "topic": "回答下面的数学问题：Brooke is milking cows and then selling the milk at the market for $3 a gallon. Whatever milk doesn't sell, she turns into butter. One gallon of milk equals 2 sticks of butter. She then sells the butter for $1.5 a stick. She has 12 cows. Each cow produces 4 gallons of milk. She has 6 customers, each of whom wants 6 gallons of milk. How much money does she earn if she sells all her milk and butter?",
   "checkpoint": [
     {
-      "$\\boxed{144}$": 1
+      "\\boxed{144}": 1
     }
   ],
   "matchingmethod": [

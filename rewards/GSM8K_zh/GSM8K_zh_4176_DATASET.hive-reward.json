@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：自动贩卖机在购买一次零食时有六分之一的概率不会掉落。十分之一的概率会意外掉落两份零食。其余时间会掉落购买的零食。如果有30个人分别使用自动贩卖机购买零食一次，那么自动贩卖机一共掉落了多少份零食？。",
+  "topic": "回答下面的数学问题：The vending machine fails to drop a snack when it’s purchased one in six times. One in ten times, it will accidentally drop two snacks. The rest of the time, it drops the purchased snack. If thirty people have used the vending machine once each to purchase a snack, how many snacks has the vending machine dropped?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

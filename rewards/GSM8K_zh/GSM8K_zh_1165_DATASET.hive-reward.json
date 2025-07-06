@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：海登的水箱底部有一个小洞。水箱一开始有40加仑的水。它每小时损失2加仑的水。海登在前两个小时没有添加任何水。第三个小时他向水箱中添加了1加仑的水。第四个小时他向水箱中添加了3加仑的水。在第四个小时结束时，水箱里还剩下多少水？。",
+  "topic": "回答下面的数学问题：Hayden has a tank with a small hole in the bottom. The tank starts with 40 gallons of water. It loses 2 gallons of water per hour. Hayden does not add any water for the first two hours. He adds 1 gallon of water to the tank in hour three. He adds three gallons of water to the tank in the fourth hour. How much water is left in the tank at the end of the fourth hour?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

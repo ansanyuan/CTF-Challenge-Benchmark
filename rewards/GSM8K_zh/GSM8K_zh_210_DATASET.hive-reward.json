@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有五辆校车用于运送学生去郊游。每辆校车可以载28名学生，其中60名是男生。有多少名女生？。",
+  "topic": "回答下面的数学问题：Five coaster vans are used to transport students for their field trip. Each van carries 28 students, 60 of which are boys. How many are girls?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

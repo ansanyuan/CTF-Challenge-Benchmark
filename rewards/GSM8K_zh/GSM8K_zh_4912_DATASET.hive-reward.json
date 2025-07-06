@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ajax体重80公斤。他计划减肥。每小时锻炼可以帮助他减掉1.5磅。如果1公斤等于2.2磅，如果他每天锻炼2小时，连续两周，他将会减掉多少磅？。",
+  "topic": "回答下面的数学问题：Ajax is 80 kilograms. He is planning to lose some weight. Exercising for an hour will help him lose 1.5 pounds. If 1 kilogram is equal to 2.2 pounds How many pounds will he weigh if he exercises for 2 hours every day for two weeks?",
   "checkpoint": [
     {
-      "$\\boxed{134}$": 1
+      "\\boxed{134}": 1
     }
   ],
   "matchingmethod": [

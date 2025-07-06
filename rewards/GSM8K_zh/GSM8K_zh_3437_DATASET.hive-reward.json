@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯汀买了一打柠檬，把四分之一的柠檬给了她的邻居。克里斯汀剩下多少柠檬？。",
+  "topic": "回答下面的数学问题：Cristine bought a dozen lemons and gave 1/4 of them to her neighbor. How many lemons does Cristine have left?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

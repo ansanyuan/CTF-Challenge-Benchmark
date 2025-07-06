@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bill正在考虑是做蓝莓松饼还是覆盆子松饼。蓝莓的价格是每盒6盎司5.00美元，而覆盆子的价格是每盒8盎司3.00美元。如果Bill要做4批松饼，每批需要12盎司的水果，那么他使用覆盆子而不是蓝莓可以节省多少钱？。",
+  "topic": "回答下面的数学问题：Bill is trying to decide whether to make blueberry muffins or raspberry muffins. Blueberries cost $5.00 per 6 ounce carton and raspberries cost $3.00 per 8 ounce carton. If Bill is going to make 4 batches of muffins, and each batch takes 12 ounces of fruit, how much money would he save by using raspberries instead of blueberries?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

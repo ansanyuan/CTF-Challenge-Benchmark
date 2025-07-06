@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在商店里有三种奶酪：白奶酪、瑞士奶酪和蓝奶酪。每种奶酪都是包装的，每包装有200克奶酪。包装的价格是白奶酪5美元，瑞士奶酪6美元，蓝奶酪8美元。麦莉需要为她的派对买一些奶酪，她决定买5包瑞士奶酪，600克蓝奶酪，和白奶酪的三分之一少。她需要为所有的奶酪支付多少钱？。",
+  "topic": "回答下面的数学问题：In a store, there are three types of cheese: white, swiss, and blue cheese. Each cheese is packaged, and there are 200 grams of cheese in each package. The package prices are $5 for white cheese, $6 for swiss cheese, and $8 for blue cheese. Miley needed to get some for her party, and she decided to buy 5 packs of swiss cheese, 600 grams of blue cheese, and one-third less white cheese. How much did she need to pay for all the cheese?",
   "checkpoint": [
     {
-      "$\\boxed{64}$": 1
+      "\\boxed{64}": 1
     }
   ],
   "matchingmethod": [

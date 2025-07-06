@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每天珍妮特花8分钟找她的钥匙，然后又花3分钟抱怨找到了。如果珍妮特不再丢钥匙，她每周能节省多少分钟？。",
+  "topic": "回答下面的数学问题：Every day Janet spends 8 minutes looking for her keys and another 3 minutes complaining after she finds them. If Janet stops losing her keys, how many minutes will she save every week?",
   "checkpoint": [
     {
-      "$\\boxed{77}$": 1
+      "\\boxed{77}": 1
     }
   ],
   "matchingmethod": [

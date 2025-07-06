@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莉莎比安娜多18件连衣裙。如果她们的连衣裙总数是48，安娜有多少件连衣裙？。",
+  "topic": "回答下面的数学问题：Lisa has 18 more dresses than Ana. If the number of their dresses combined is 48, how many dresses does Ana have?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

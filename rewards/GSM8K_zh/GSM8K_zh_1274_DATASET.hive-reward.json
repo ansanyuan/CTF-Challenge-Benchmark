@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰买了2包口香糖和3根糖果棒。每块口香糖的价格是糖果棒的一半。如果糖果棒的价格是每个1.5美元，他总共支付了多少钱？。",
+  "topic": "回答下面的数学问题：John buys 2 packs of gum and 3 candy bars.  Each stick of gum cost half as much as the candy bar.  If the candy bar cost $1.5 each, how much did he pay in total?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

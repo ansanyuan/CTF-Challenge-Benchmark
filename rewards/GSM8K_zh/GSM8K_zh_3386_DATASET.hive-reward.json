@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：达利亚刚刚得到了一张新的信用卡，这样她就可以买一些家具。达利亚已经存了500美元准备支付她购买的家具，但其余的钱将不得不留在她的信用卡账单上，直到下个月，届时她可以支付带利息。她买了一张沙发花了750美元，一张桌子花了100美元，一盏灯花了50美元。在她支付了最初的500美元后，她还欠多少钱（不包括利息）？。",
+  "topic": "回答下面的数学问题：Daria just got a new credit card so she could buy some furniture. Daria has $500 saved ready to pay for the furniture she buys, but the rest of the money will have to stay on her credit card statement until the next month, when she can pay it off with interest. She bought a couch for $750, a table for $100 and a lamp for $50. After she pays the initial $500, how much does she still owe before interest?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

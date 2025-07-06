@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ingrid每天喝8杯水。如果一加仑有16杯水，那么她30天内喝了多少加仑的水？。",
+  "topic": "回答下面的数学问题：Ingrid drinks 8 cups of water every day.  If there are 16 cups in a gallon, how many gallons of water does she drink in 30 days?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

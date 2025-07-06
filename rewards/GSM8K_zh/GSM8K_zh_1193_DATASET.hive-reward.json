@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：参加派对的120人中，三分之一是男性，而一半是女性。其余的是孩子。有多少孩子参加了派对？。",
+  "topic": "回答下面的数学问题：Out of the 120 people who attended the party, 1/3 are men while half are women. The rest are children. How many children attended the party?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

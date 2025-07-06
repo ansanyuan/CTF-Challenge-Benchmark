@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Malcolm正在尝试找到最快的走路路线去学校，目前正在比较两条路线。在第一条路线上，他爬坡走了6分钟，沿着一条小路走了两倍于这段时间，然后在第一和第二阶段所花时间的三分之一内完成了整个旅程。在第二条路线上，他沿着平坦的小路走了14分钟，然后在两倍于这段时间内完成了整个旅程。用分钟表示，第二条路线比第一条路线多了多少时间？。",
+  "topic": "回答下面的数学问题：Malcolm is trying to find the fastest walk to school and is currently comparing two routes. In the first route, he walks for 6 minutes uphill, walks for twice this amount of time along a path, then finishes the journey in a third of the time it took to walk the first two stages. In the second route, he walks along a flat path for 14 minutes, then finishes the walk in twice this amount of time. In minutes, how much longer was the second route compared with the first?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

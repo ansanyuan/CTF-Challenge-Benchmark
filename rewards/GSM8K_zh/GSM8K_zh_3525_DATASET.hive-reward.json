@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cilia想要购买一个多层哑铃系统。第一对哑铃重3磅，第二对重5磅，第三对重8磅。整个系统的重量是多少？。",
+  "topic": "回答下面的数学问题：Cilia wants to buy a multi-level dumbbell system.  The first pair of dumbbells are 3 lb weights, the second pair is 5 lb weights and the third is 8 lb pounds.  How much does the entire system weigh?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

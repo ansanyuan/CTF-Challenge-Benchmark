@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮为义卖会带来了40块花生酱曲奇和50块巧克力曲奇。马库斯带来了30块花生酱曲奇和20块柠檬曲奇。如果对花生过敏的蕾妮随机挑选一个曲奇，她会有过敏反应的几率是多少，以百分比表示？。",
+  "topic": "回答下面的数学问题：Jenny brought in 40 peanut butter cookies and 50 chocolate chip cookies for the bake sale. Marcus brought in 30 peanut butter cookies and and 20 lemon cookies. If Renee, who's allergic to peanuts, picks a cookie at random, what is the chance she'll have an allergic reaction expressed as a percentage?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

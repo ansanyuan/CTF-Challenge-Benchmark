@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Luther为一家高级时装公司设计服装。他最新的服装系列使用了丝绸和羊绒面料。有十件服装是用丝绸制成的，而用羊绒制成的数量是丝绸的一半。如果他最新的系列有十三件服装，那么有多少件服装使用了羊绒和丝绸的混合？。",
+  "topic": "回答下面的数学问题：Luther designs clothes for a high fashion company. His latest line of clothing uses both silk and cashmere fabrics. There are ten pieces made with silk and half that number made with cashmere. If his latest line has thirteen pieces, how many pieces use a blend of cashmere and silk?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

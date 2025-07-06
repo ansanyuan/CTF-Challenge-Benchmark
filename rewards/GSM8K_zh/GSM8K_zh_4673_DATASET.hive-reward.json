@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿曼达每小时收费20.00美元，帮助清理和整理一个人的家。她在周一有5个1.5小时的预约，在周二有一个3小时的预约，在周四有2个2小时的预约。周六，她将在一个客户家花6个小时。这个星期她能赚多少钱？。",
+  "topic": "回答下面的数学问题：Amanda charges $20.00 per hour to help clean out and organize a person's home.  She has 5 1.5 hours appointments on Monday, a 3-hours appointment on Tuesday and 2 2-hours appointments on Thursday.  On Saturday, she will spend 6 hours at one client's house.  How much money will she make this week?",
   "checkpoint": [
     {
-      "$\\boxed{410}$": 1
+      "\\boxed{410}": 1
     }
   ],
   "matchingmethod": [

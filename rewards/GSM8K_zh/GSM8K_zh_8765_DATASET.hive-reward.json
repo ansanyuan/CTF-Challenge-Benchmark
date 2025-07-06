@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂莫西拥有的笔是乔治所拥有的三倍。萨拉拥有的笔是蒂莫西的一半。如果乔治有18支笔，那么萨拉有多少支笔？。",
+  "topic": "回答下面的数学问题：Timothy has three times the number of pens that George owns. Sarah has half as many pens as Timothy. If George has 18 pens, how many pens does Sarah have?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：博物馆有八个不同的展翅，展示的文物数量是绘画的四倍。其中三个展翅专门用于绘画。文物均匀分配在剩下的展翅中。一幅绘画如此之大，以至于占据了整个展翅，另外两个展翅分别展示了12幅较小的绘画。每个文物展翅中有多少件文物？。",
+  "topic": "回答下面的数学问题：A museum has eight different wings displaying four times as many artifacts as paintings displayed. Three of the wings are dedicated to paintings. The artifacts are divided evenly among the remaining wings. One painting is so large it takes up an entire wing, and the other two wings house 12 smaller paintings each. How many artifacts are in each artifact wing?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

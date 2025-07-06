@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一艘货船从上海开往温哥华，在抵达港口前航行了21天。温哥华的海关和监管流程需要4天。最后，将货物从港口运送到您的农村仓库需要一些时间，通常在第七天到达。如果您的仓库在今天后的两天期待这批货物，货船应该在多少天前出发？。",
+  "topic": "回答下面的数学问题：A cargo ship moving from Shanghai to Vancouver navigates for 21 days before reaching port. Customs and regulatory processes in Vancouver last 4 days. Finally, moving the cargo from the port to your rural warehouse takes some time and it always arrives on the seventh day. How many days ago should the ship have departed if your warehouse is expecting the shipment 2 days from today?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sam正在囤积罐头金枪鱼。他在超市买了9罐，并有5张优惠券，每张优惠券可以减少25美分。他支付了20美元，得到了5.50美元的找零。一罐金枪鱼的价格是多少美分？。",
+  "topic": "回答下面的数学问题：Sam is stocking up on canned tuna. He got 9 cans at the supermarket, and had 5 coupons for 25 cents off a single can per coupon. He paid $20 and got $5.50 in change. How many cents does a can of tuna cost?",
   "checkpoint": [
     {
-      "$\\boxed{175}$": 1
+      "\\boxed{175}": 1
     }
   ],
   "matchingmethod": [

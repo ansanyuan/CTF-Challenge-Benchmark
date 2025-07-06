@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：科尔比在一家制造公司的包装部门工作。他每完成一个包装可以获得0.20美元的报酬。如果他每小时完成的包装比50个少10个，那么在典型的八小时工作日里，他能赚多少钱（单位：美元）？。",
+  "topic": "回答下面的数学问题：Colby works for a manufacturing company in the packaging division.  He gets paid $0.20 for every package he completes. If he completes 10 less than 50 packages per hour, how much money, in dollars, does he earn in a typical eight-hour workday?",
   "checkpoint": [
     {
-      "$\\boxed{64}$": 1
+      "\\boxed{64}": 1
     }
   ],
   "matchingmethod": [

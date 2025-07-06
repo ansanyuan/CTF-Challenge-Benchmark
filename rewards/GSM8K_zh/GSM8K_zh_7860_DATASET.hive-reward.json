@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了能在周末使用汽车，Wilson的成绩单需要显示他在数学课上获得了80分或更高的成绩。他的数学成绩是通过5次测试成绩的平均值计算的。在这些测试中，他获得了：65分、94分、81分、86分和74分。他目前的数学成绩是多少？。",
+  "topic": "回答下面的数学问题：To have the car for the weekend, Wilson's report card needs to show that he received 80 or higher in his math class.  His math grade is calculated by the average of 5 test scores.  On those tests, he received: 65, 94, 81, 86 and 74.  What is his current math grade?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

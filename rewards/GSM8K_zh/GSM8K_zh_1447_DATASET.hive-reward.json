@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个服装店的库存有34条领带，40条腰带，63件黑色衬衫和42件白色衬衫。商店里牛仔裤的数量是黑色和白色衬衫数量之和的三分之二，围巾的数量是领带和腰带数量之和的一半。比围巾多多少条牛仔裤？。",
+  "topic": "回答下面的数学问题：A clothing store has an inventory of 34 ties, 40 belts, 63 black shirts, and 42 white shirts. The number of jeans in the store is two-thirds of the sum of black and white shirts, and the number of scarves is half the number of the sum of ties and belts. How many more jeans are there than scarves?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

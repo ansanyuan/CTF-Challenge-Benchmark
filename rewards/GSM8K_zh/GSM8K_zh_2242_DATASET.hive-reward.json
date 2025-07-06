@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Darrel是一名经验丰富的追踪者。他可以通过动物留下的脚印了解很多信息。一天，他看到了一组郊狼的脚印。根据这些印记，他可以判断动物以每小时15英里的速度向东行进，并且动物在1小时前留下了这些脚印。如果郊狼继续以每小时15英里的速度向东行进，而Darrel跳上摩托车以每小时30英里的速度向东行进，那么Darrel追上郊狼需要多长时间（以小时计）？。",
+  "topic": "回答下面的数学问题：Darrel is an experienced tracker.  He can tell a lot about an animal by the footprints it leaves behind.  One day he saw a set of coyote footprints.  Based on the impressions, he could tell the animal was traveling east at 15 miles per hour, and that the animal left the prints 1 hour ago.  If the coyote continues to travel east at 15 miles per hour, and Darrell hops on his motorbike and travels east at 30 miles per hour, how long, in hours, will it take for Darrel to catch up to the coyote?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

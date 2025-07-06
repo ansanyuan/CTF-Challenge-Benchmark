@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰瑞是一家公司的独立承包商，公司每项任务支付他40美元。如果每项任务需要他两个小时完成，他每天工作10小时，整整一周，计算他一周结束时能赚到的总金额。。",
+  "topic": "回答下面的数学问题：Jerry works as an independent contractor for a company that pays him $40 per task. If each task takes him two hours to complete and he works 10 hours a day for a whole week, calculate the total amount of money he would earn at the end of the week.",
   "checkpoint": [
     {
-      "$\\boxed{1400}$": 1
+      "\\boxed{1400}": 1
     }
   ],
   "matchingmethod": [

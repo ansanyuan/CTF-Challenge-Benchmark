@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莱拉和娜希玛在玩一个游戏，莱拉以70分获胜。如果总得分是112分，莱拉比娜希玛多得了多少分？。",
+  "topic": "回答下面的数学问题：Layla and Nahima were playing a game where Layla won with 70 points. If The total number of points scored was 112, how many more points did Layla score than Nahima?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

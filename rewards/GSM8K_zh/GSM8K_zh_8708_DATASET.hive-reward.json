@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Regina去年写了9本小说。如果这是她今年写的小说数量的四分之三，那么她今年写了多少本小说？。",
+  "topic": "回答下面的数学问题：Regina wrote 9 novels last year. If this is 3 quarters of the number of novels she has written this year, how many novels has she written this year?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

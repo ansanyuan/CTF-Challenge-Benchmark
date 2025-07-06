@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：大卫找到的圣诞礼物的数量是他找到的生日礼物的两倍。如果大卫一共找到60个圣诞礼物，他一共得到了多少份礼物？。",
+  "topic": "回答下面的数学问题：The number of Christmas presents David found was twice as many as the number of birthday presents. If David found a total of 60 Christmas presents, how many presents did he get all together?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

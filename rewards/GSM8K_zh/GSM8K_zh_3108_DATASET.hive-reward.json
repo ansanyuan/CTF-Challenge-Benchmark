@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯西和克里斯在蛋糕店找到了暑期工作，他们每周应该工作20小时，每人工作2个月。在此期间，克里斯生病了一周，凯西接替了她的班。一个月有四周，那么凯西在这两个月内工作了多少小时？。",
+  "topic": "回答下面的数学问题：Cathy and Chris got summer jobs at the cake shop and were supposed to work 20 hours per week each for 2 months. During that time, Chris got sick for one week and Cathy took her shifts. If there are four weeks in a month, how many hours did Cathy work during the 2 months?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

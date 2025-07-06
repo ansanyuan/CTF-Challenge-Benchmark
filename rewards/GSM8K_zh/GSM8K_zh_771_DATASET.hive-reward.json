@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：根据2008年的一项研究，6-11岁的儿童每天花45分钟看电视。如果这些儿童每周被允许看4天电视，那么他们在2周内会看多少小时的电视？。",
+  "topic": "回答下面的数学问题：Based on a 2008 study, children 6–11 years old spend 45 minutes each day watching television. How many hours do these children watch television in 2 weeks if they are allowed to watch television 4 days a week?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

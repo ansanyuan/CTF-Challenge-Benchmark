@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿斯顿不小心撕开了他的漫画，现在需要把所有的页面重新组合在一起。每本漫画有25页，阿斯顿在地板上找到了150页。他把他的漫画重新组合好并放回了漫画盒里。如果盒子里已经有5本完好的漫画，那么现在漫画盒里有多少本漫画？。",
+  "topic": "回答下面的数学问题：Aston has accidentally torn apart his comics and needs to put all the pages back together. Each comic has 25 pages and Aston has found 150 pages on the floor. He puts his comics back together and adds them back into his box of comics. If there were already 5 untorn comics in the box, how many comics are now in the box of comics?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

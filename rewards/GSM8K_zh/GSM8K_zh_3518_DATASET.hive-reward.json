@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hayden吃一盎司的混合坚果作为晚餐点心。他购买了一袋成本为25.00美元的混合坚果，容量为40盎司。目前有一张5.00美元的优惠券。在使用优惠券后，每份坚果的成本是多少美分？。",
+  "topic": "回答下面的数学问题：Hayden eats 1 oz of mixed nuts as an evening snack.  He buys the bulk bag of mixed nuts that cost $25.00 a bag and holds 40 oz of mixed nuts.  There is currently a $5.00 coupon for this item.  How much will each serving of nuts cost, in cents, after the coupon is applied?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

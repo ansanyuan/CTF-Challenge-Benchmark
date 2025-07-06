@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：电影院售卖5美元的日场票，12美元的晚场票和20美元的3D票。如果他们售出了200张日场票，300张晚场票和100张3D票，他们总共赚了多少钱？。",
+  "topic": "回答下面的数学问题：The movie theater sells matinee tickets for $5, evening tickets for $12, and 3D tickets for $20. If they sell 200 matinee tickets, 300 evening tickets and 100 3D tickets, how much money do they make in total?",
   "checkpoint": [
     {
-      "$\\boxed{6600}$": 1
+      "\\boxed{6600}": 1
     }
   ],
   "matchingmethod": [

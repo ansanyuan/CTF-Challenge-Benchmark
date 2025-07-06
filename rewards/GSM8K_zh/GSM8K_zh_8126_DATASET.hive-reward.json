@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯从下午5点租了一辆马车到晚上9点。他获得了1小时的免费使用。第一个付费小时是15美元，之后每小时的费用是前一个小时的两倍。他支付了多少钱？。",
+  "topic": "回答下面的数学问题：James hires a horse-drawn carriage from 5 PM to 9 PM.  He gets 1 hour free.  The first paid hour is $15 and each hour after that is twice the cost.  How much did he pay?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

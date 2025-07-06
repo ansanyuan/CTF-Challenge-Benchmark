@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jeff有300支铅笔，捐赠了30%。Vicki有Jeff的两倍多的铅笔，并捐赠了他的3/4。总共剩下多少支铅笔？。",
+  "topic": "回答下面的数学问题：Jeff had 300 pencils and donated 30% of them. Vicki had twice as many pencils as Jeff and donated 3/4 of his pencils. How many pencils are there remaining altogether?",
   "checkpoint": [
     {
-      "$\\boxed{360}$": 1
+      "\\boxed{360}": 1
     }
   ],
   "matchingmethod": [

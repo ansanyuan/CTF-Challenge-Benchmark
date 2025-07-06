@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：我们的小城市有两辆公共汽车。每辆公共汽车的容量是火车容量的1/6，火车的容量为120人。这两辆公共汽车的总容量是多少？。",
+  "topic": "回答下面的数学问题：Our small city has two buses.  Each bus can have a capacity of 1/6 as much as the train, which has a capacity of 120 people.  What is the combined capacity of the two buses?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

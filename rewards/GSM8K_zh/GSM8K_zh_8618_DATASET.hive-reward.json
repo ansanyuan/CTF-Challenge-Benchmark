@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：公交车上男性和女性的比例是5:9。如果公交车上共有84名乘客，且下一站有20名女性下车，那么还有多少名女性留在公交车上？。",
+  "topic": "回答下面的数学问题：The ratio of men to women on a bus is 5:9. If the total number of passengers on the bus is 84, and 20 women alight from the bus at the next stop, how many women have remained on the bus?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

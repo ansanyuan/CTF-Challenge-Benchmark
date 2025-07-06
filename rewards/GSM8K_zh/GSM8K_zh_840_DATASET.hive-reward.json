@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：扶轮社正在举办年度筹款煎蛋早餐活动，门票提前出售。门票分为不同的价格级别，分为幼儿、较大的儿童、成人和老年人。今年他们卖出了53张幼儿门票，35张较大的儿童门票，75张成人门票和37张老年人门票。为了估算他们需要购买多少鸡蛋，俱乐部估计幼儿可以吃半个煎蛋，较大的儿童可以吃一个整个煎蛋，成人将吃两个煎蛋，老年人将吃一个半煎蛋。为了保险起见，他们多准备了足够的鸡蛋来制作25个额外的煎蛋。如果每个煎蛋需要2个鸡蛋，他们需要购买多少鸡蛋？。",
+  "topic": "回答下面的数学问题：The Rotary Club is holding its annual fundraising Omelet Breakfast, with tickets sold in advance. The tickets come in different price levels, for young children, older children, adults, and seniors. This year they sold 53 small children tickets, 35 older children tickets, 75 adult tickets, and 37 senior tickets. To figure out how many eggs they need to buy, the club estimates that small children can eat a half omelet, older children can eat a whole omelet, adults will eat two omelets, and seniors will eat one and a half omelets. Just to be on the safe side, they get enough eggs to make 25 extra omelets. If they use 2 eggs for each omelet, how many eggs will they need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{584}$": 1
+      "\\boxed{584}": 1
     }
   ],
   "matchingmethod": [

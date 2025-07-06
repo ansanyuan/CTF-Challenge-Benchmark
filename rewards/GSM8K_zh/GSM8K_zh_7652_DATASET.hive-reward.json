@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rani的螃蟹比Monic多10只，而Monic的螃蟹比Bo少4只。如果Bo有40只螃蟹，计算三人共有多少只螃蟹。。",
+  "topic": "回答下面的数学问题：Rani has ten more crabs than Monic, who has 4 fewer crabs than Bo. If Bo has 40 crabs, calculate the total number of crabs the three have together.",
   "checkpoint": [
     {
-      "$\\boxed{122}$": 1
+      "\\boxed{122}": 1
     }
   ],
   "matchingmethod": [

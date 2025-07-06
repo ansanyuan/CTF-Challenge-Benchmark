@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只狗正在接受跳蚤治疗。一次跳蚤治疗可以清除一半的跳蚤。经过四次治疗后，狗身上还剩下14只跳蚤。在接受跳蚤治疗之前，狗身上的跳蚤比治疗后多多少只？。",
+  "topic": "回答下面的数学问题：A dog is being treated for fleas. One flea treatment gets rid of half the fleas. After four treatments, the dog has 14 fleas left. How many more fleas did the dog have before the flea treatments than after?",
   "checkpoint": [
     {
-      "$\\boxed{210}$": 1
+      "\\boxed{210}": 1
     }
   ],
   "matchingmethod": [

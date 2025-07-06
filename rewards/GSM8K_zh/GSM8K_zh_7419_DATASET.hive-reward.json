@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔希发现7个瓶盖恰好重1盎司。乔希的整个瓶盖收藏重量正好是18磅。乔希的收藏中有多少个瓶盖？。",
+  "topic": "回答下面的数学问题：Josh found out that 7 bottle caps weigh exactly one ounce. Josh's entire bottle cap collection weighs 18 pounds exactly. How many bottle caps does Josh have in his collection?",
   "checkpoint": [
     {
-      "$\\boxed{2016}$": 1
+      "\\boxed{2016}": 1
     }
   ],
   "matchingmethod": [

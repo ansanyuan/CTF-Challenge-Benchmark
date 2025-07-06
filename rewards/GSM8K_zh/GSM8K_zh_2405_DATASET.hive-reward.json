@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤米有3辆玩具车。他的邻居杰西也有3辆车。杰西的哥哥比汤米和杰西多5辆车。他们三个总共有多少辆车？。",
+  "topic": "回答下面的数学问题：Tommy has 3 toy cars. His neighbor, Jessie, has 3 cars too. Jessie's older brother has 5 more cars than Tommy and Jessie. How many cars do the three of them have altogether?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

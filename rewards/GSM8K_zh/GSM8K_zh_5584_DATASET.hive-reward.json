@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾尔莎的曲棍球队和其他两支球队一起进入了季后赛。他们通过拥有前三名最高积分的记录来进入季后赛。球队赢得2分，打平得1分，输球得0分。第一名球队有12场胜利和4场平局。第二名球队有13场胜利和1场平局。艾尔莎的球队有8场胜利和10场平局。季后赛球队的平均积分是多少？。",
+  "topic": "回答下面的数学问题：Elsa's hockey team just made the playoffs along with two other teams. They make the playoffs by having the top three highest points for their records. Teams get 2 points for a win, 1 point for a tie, and zero points for a loss. The first-place team has 12 wins and 4 ties. The second-place team has 13 wins and 1 tie. Elsa's team has 8 wins and 10 ties. What is the average number of points for the playoff teams?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

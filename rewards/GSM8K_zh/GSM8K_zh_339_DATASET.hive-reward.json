@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bobby需要用卡车进行一些行程，他只有12加仑的汽油。他开车到一个距离5英里的超市，然后开回家。然后他前往他的农场，距离6英里。在行程的前两英里，他掉头开回家取忘记带的一些农具，然后再开到农场。如果他现在剩下2加仑的汽油，他的卡车每加仑汽油能行驶多少英里？。",
+  "topic": "回答下面的数学问题：Bobby needed to make some trips with his truck and had only 12 gallons of gasoline. He drives to a supermarket 5 miles away and then drives back home. Then he headed to his farm which was 6 miles away. Two miles into the journey, he turned around and drove back home to retrieve some farming tools he forgot to take earlier and drove down to the farm. If he now has exactly 2 gallons of gasoline left, at what rate in miles per gallon has his truck been consuming gasoline?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

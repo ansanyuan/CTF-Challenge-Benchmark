@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：海盗计划探索4个岛屿。两个岛屿需要每天步行20英里，而另外两个岛屿需要每天步行25英里。如果每个岛屿需要1.5天来探索，他们将不得不步行多少英里？。",
+  "topic": "回答下面的数学问题：The pirates plan to explore 4 islands. Two islands require walking 20 miles per day while the other two islands require 25 miles per day. How many miles will they have to walk if it takes 1.5 days to explore each island?",
   "checkpoint": [
     {
-      "$\\boxed{135}$": 1
+      "\\boxed{135}": 1
     }
   ],
   "matchingmethod": [

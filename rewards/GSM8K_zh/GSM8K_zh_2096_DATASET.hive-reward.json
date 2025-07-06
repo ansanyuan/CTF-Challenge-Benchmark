@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：拉拉的袋子里有60片薯片。六分之一的薯片是蓝色的。有34片红色的薯片，其余是绿色的。拉拉的袋子里有多少片绿色的薯片？。",
+  "topic": "回答下面的数学问题：There are 60 pieces of chips in Lara's bag. One-sixth of the chips are blue. There are 34 red chips and the rest are green. How many green chips are in Lara's bag?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

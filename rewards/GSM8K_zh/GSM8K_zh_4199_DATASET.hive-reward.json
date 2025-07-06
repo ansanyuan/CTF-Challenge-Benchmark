@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个派对用品商店订购了5箱气球。每箱里有8袋气球，每袋里有12个气球。一共有多少个气球？。",
+  "topic": "回答下面的数学问题：A party store ordered 5 boxes of balloons. Each box contains 8 bags of balloons, and there are 12 balloons in each bag. How many balloons are there?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：木瓜树上有14个青木瓜。周五，有两个水果变成了黄色。周日，比周五多两倍的水果变成了黄色。树上还剩下多少个青木瓜？。",
+  "topic": "回答下面的数学问题：There are 14 green papayas on the papaya tree.  On Friday, two of the fruits turned yellow.  On Sunday, twice as many fruits as on Friday turn yellow.  How many green papayas are left on the tree?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

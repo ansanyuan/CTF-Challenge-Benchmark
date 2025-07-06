@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莉莉生日时得到了一只新小狗。她负责从明天开始每天喂小狗1/4杯食物，一天三次，持续两周。接下来的两周，莉莉将每天喂它1/2杯食物，一天两次。她今天已经喂了它1/2杯食物。包括今天在内，接下来的4周小狗会吃多少食物？。",
+  "topic": "回答下面的数学问题：Lily got a new puppy for her birthday.  She was responsible for feeding the puppy 1/4 cup of food three times a day for two weeks starting tomorrow.  For the following 2 weeks, Lily will feed him 1/2 cup of food twice a day.  She has fed him 1/2 cup of food today.  Including today, how much food will the puppy eat over the next 4 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

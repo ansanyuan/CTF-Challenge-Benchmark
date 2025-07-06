@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Darry是一名屋顶工，每天不得不多次爬梯子。今天他爬了他的完整梯子，有11个台阶，共爬了10次。他还爬了他的较小梯子，有6个台阶，共爬了7次。除此之外，他没有爬任何台阶。那么Darry今天一共爬了多少次台阶？。",
+  "topic": "回答下面的数学问题：Darry is a roofer and has to climb ladders multiple times a day. He climbs his full ladder, which has 11 steps, 10 times today. He also climbs his smaller ladder, which has 6 steps, 7 times today. He did not climb any steps otherwise. In total, how many times has Darry climbed a step today?",
   "checkpoint": [
     {
-      "$\\boxed{152}$": 1
+      "\\boxed{152}": 1
     }
   ],
   "matchingmethod": [

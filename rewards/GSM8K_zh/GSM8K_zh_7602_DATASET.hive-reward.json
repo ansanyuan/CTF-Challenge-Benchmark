@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：韦尔的母亲在当地商店出售西瓜、辣椒和橙子。一个西瓜的价格是每个辣椒价格的三倍。一个橙子的价格比一个西瓜便宜5美元。迪伦被派到商店买4个西瓜、20个辣椒和10个橙子。如果每个辣椒的价格是15美元，他将花费的总金额是多少？。",
+  "topic": "回答下面的数学问题：Well's mother sells watermelons, peppers, and oranges at the local store. A watermelon costs three times what each pepper costs. An orange costs 5 less than what a watermelon cost. Dillon is sent to the store to buy 4 watermelons, 20 peppers, and 10 oranges. What's the total amount of money he will spend if each pepper costs 15$?",
   "checkpoint": [
     {
-      "$\\boxed{880}$": 1
+      "\\boxed{880}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔丹的狗Max是在卢卡年满4岁的同一天出生的。卢卡比奥布里大2岁。在奥布里8岁生日时，乔丹的狗Max多大了？。",
+  "topic": "回答下面的数学问题：Jordan's dog, Max, was born on the same day that Luka turned 4 years old.  Luka is exactly 2 years older than is Aubrey.  On Aubrey's 8th birthday, how many years old was Jordan's dog, Max?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莫娜在周末玩多人视频游戏。她加入了与其他四名玩家一起完成游戏目标的团队。上个周末，她加入了9个团队。其中一个团队包括了她之前那个周末已经组队的两名玩家，另一个团队包括了她之前组队的一名玩家。莫娜在视频游戏中那个周末一共与多少个独特的玩家组队？。",
+  "topic": "回答下面的数学问题：Mona plays a multiplayer video game on the weekends. She joins groups with four other players to complete objectives in the game. The past weekend, she joined 9 groups. One of the groups included two players she had grouped with before that weekend, and another group included one person she had grouped with before. How many unique players did Mona group with on the video game that weekend?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个农民种了30排番茄，每排有10株植物。每株番茄植物可以产20个番茄。这个农民可以从他种植的所有番茄中得到多少个番茄？。",
+  "topic": "回答下面的数学问题：A farmer planted 30 rows of tomatoes with 10 plants in each row. Each tomato plant yields 20 pieces of tomatoes. How many pieces of tomatoes can the farmer get from all his planted tomatoes?",
   "checkpoint": [
     {
-      "$\\boxed{6000}$": 1
+      "\\boxed{6000}": 1
     }
   ],
   "matchingmethod": [

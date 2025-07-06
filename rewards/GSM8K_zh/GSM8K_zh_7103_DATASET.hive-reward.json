@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍勃打算在他的土地上种菜园。它将位于他土地的一个后角。他希望菜园的宽度约为他土地宽度的八分之一，长度为他土地长度的十分之一。他的土地宽1000英尺，长2250英尺。他的菜园将有多少平方英尺？。",
+  "topic": "回答下面的数学问题：Bob is going to put in a vegetable garden on his property. It's going to be in one of the back corners of his land. He wants the width of the garden to be about an eighth of the width of his property, and the length to be a tenth of the length of his property. His land is 1000 feet wide and 2250 feet long. How many square feet is his garden going to be?",
   "checkpoint": [
     {
-      "$\\boxed{28125}$": 1
+      "\\boxed{28125}": 1
     }
   ],
   "matchingmethod": [

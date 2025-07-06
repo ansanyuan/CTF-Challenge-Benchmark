@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一袋薯片重20盎司，一罐饼干重9盎司。如果茉莉买了6袋薯片和4倍的饼干罐，她需要携带多少磅？。",
+  "topic": "回答下面的数学问题：A bag of chips weighs 20 ounces, and a tin of cookies weighs 9 ounces. If Jasmine buys 6 bags of chips and 4 times as many tins of cookies, how many pounds does she have to carry?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

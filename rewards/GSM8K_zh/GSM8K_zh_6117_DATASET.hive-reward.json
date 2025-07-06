@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾伦的后院有8棵松树，每棵树都会掉落200个松果。如果30%的松果掉在艾伦的屋顶上，而每个松果的重量为4盎司，那么艾伦的屋顶上有多少盎司的松果？。",
+  "topic": "回答下面的数学问题：Alan has 8 pine trees in his backyard and each tree drops 200 pine cones. If 30% of the pine cones fall on Alan's roof, and each pine cone weighs 4 ounces, how many ounces of pine cones does Alan have on his roof?",
   "checkpoint": [
     {
-      "$\\boxed{1920}$": 1
+      "\\boxed{1920}": 1
     }
   ],
   "matchingmethod": [

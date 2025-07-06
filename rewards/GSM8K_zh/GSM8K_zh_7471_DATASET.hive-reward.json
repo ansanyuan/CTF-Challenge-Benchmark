@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Colin的跳绳速度是多少英里每小时，如果Bruce的跳绳速度是每小时1英里？。",
+  "topic": "回答下面的数学问题：Colin can skip at six times the speed that Brandon can.  Brandon can skip at one-third the speed that Tony can.  And Tony can skip at twice the speed that Bruce can.  At what speed, in miles per hour, can Colin skip if Bruce skips at 1 mile per hour?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

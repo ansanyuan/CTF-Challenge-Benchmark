@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个派店一份派卖5美元。他们把每个整个派切成4份。如果他们卖出9个派，派店会赚多少钱？。",
+  "topic": "回答下面的数学问题：A pie shop charges $5 for a slice of pie. They cut each whole pie into 4 slices. How much money will the pie shop make if they sell 9 pies?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

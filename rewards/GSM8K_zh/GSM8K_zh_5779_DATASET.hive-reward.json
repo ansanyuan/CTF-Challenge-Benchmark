@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了谋生，卡尔每天需要开车2小时。升职后，他每周需要额外开车6小时。卡尔在两周内将开车多少小时？。",
+  "topic": "回答下面的数学问题：To make a living, Carl needs to drive a car for 2 hours every day. After he got promoted he needs to drive for 6 more hours every week. How many hours will Carl drive in two weeks?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

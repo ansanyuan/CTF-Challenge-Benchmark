@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一辆横穿美国大陆的汽车在4小时内行驶了180英里。以这个速度，接下来的3小时内汽车还会行驶多少英里？。",
+  "topic": "回答下面的数学问题：A car driving cross-country traveled 180 miles in 4 hours. At this rate of speed, how many miles further will the car travel in the next 3 hours?",
   "checkpoint": [
     {
-      "$\\boxed{135}$": 1
+      "\\boxed{135}": 1
     }
   ],
   "matchingmethod": [

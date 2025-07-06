@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carolyn正在规划她的最终论文。引言将有450个字，结论将是引言长度的三倍，每个四个主体部分的长度将相同。如果她的论文总共需要5000个字，每个部分的长度是多少？。",
+  "topic": "回答下面的数学问题：Carolyn is planning out her final essay. The introduction will be 450 words, the conclusion will be triple the length of the introduction, and each of the four body sections will be the same length. If her essay has to be 5000 words total, how long is each section?",
   "checkpoint": [
     {
-      "$\\boxed{800}$": 1
+      "\\boxed{800}": 1
     }
   ],
   "matchingmethod": [

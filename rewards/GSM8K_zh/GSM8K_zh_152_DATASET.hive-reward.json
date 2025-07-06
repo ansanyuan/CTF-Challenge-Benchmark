@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：上周Keiko发送了111条短信。这周她发送的短信数量是上周的两倍减去50。Keiko上周和这周一共发送了多少条短信？。",
+  "topic": "回答下面的数学问题：Keiko sent 111 text messages last week. This week she sent 50 less than double what she sent last week. How many text messages did Keiko send last week and this week combined?",
   "checkpoint": [
     {
-      "$\\boxed{283}$": 1
+      "\\boxed{283}": 1
     }
   ],
   "matchingmethod": [

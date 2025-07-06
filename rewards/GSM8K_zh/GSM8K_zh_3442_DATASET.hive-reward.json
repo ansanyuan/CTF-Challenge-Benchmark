@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布兰登将一些壁虎卖给了当地的宠物店。布兰登以100美元的价格卖掉了这些壁虎。宠物店的售价是这个价格的3倍再加5美元。宠物店的利润是多少？。",
+  "topic": "回答下面的数学问题：Brandon sold some geckos to a local pet shop. Brandon sold the geckos for 100$. The pet store sells them for 5 more than 3 times that. How much does the pet store profit?",
   "checkpoint": [
     {
-      "$\\boxed{205}$": 1
+      "\\boxed{205}": 1
     }
   ],
   "matchingmethod": [

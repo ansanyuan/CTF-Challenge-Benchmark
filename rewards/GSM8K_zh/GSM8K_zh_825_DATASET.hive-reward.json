@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校有15间教室。其中三分之一的教室每间有30张桌子，其余的每间有25张桌子。每张桌子只能坐一个学生。这所学校最多可以容纳多少学生，以便每个人都有自己的桌子？。",
+  "topic": "回答下面的数学问题：A school has 15 classrooms. One-third of these classrooms have 30 desks in each classroom and the rest have 25 desks in each classroom. Only one student can sit at one desk. How many students can this school accommodate so that everyone has their own desk?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

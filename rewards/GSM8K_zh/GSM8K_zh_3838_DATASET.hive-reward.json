@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一群狗在肉铺后面的垃圾箱里发现了一堆骨头。狗们一个接一个地爬进垃圾箱，抓了一口骨头，带着他们新发现的宝藏跑开了。总共有5只狗。第一只狗带走了3根骨头。第二只狗比第一只狗少带了1根骨头。第三只狗带走了第二只狗的两倍。第四只狗带走了一根骨头，第五只狗带走了第四只狗带走的两倍，垃圾箱里没有剩下的骨头。原来的骨头堆里有多少根骨头？。",
+  "topic": "回答下面的数学问题：A pack of dogs found a pile of bones in the dumpster behind the butcher shop.  One by one, the dogs crawled into the dumpster, grabbed a mouthful of bones, and ran off with their newfound treasure.  In all, there were 5 dogs.  The first dog carried off 3 bones.  The second dog carried off 1 less bone than the first dog.  The third dog carried off twice as many as the second dog.  The fourth dog carried off one bone, and the fifth dog carried off twice the number of bones as the fourth dog carried, leaving no remaining bones in the dumpster.  How many bones were in the original pile of bones?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

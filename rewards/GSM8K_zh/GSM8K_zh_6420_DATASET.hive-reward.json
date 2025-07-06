@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Amber正在考虑是否要把她的7美元花在糖果还是薯片上。她决定购买她可以得到最多的东西。糖果袋的价格是1美元，每袋含有12盎司。薯片袋的价格是1.40美元，每袋含有17盎司。如果她购买能让她得到最多的东西，她会得到多少盎司？。",
+  "topic": "回答下面的数学问题：Amber is trying to decide if she wants to spend her $7 on candy or chips. She decides to buy the thing that she can get the most of. The bags of candy cost $1 and contain 12 ounces each. The bags of chips are $1.40 and contain 17 ounces each. How many ounces does she get if she buys the item that gives her the most?",
   "checkpoint": [
     {
-      "$\\boxed{85}$": 1
+      "\\boxed{85}": 1
     }
   ],
   "matchingmethod": [

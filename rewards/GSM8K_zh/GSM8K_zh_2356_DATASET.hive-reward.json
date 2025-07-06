@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：黛比在邮局工作，打包要邮寄的包裹。每个大箱子需要4英尺的胶带来封口，每个中箱子需要2英尺的胶带来封口，每个小箱子需要1英尺的胶带来封口。每个箱子还需要1英尺的胶带来粘贴地址标签。今天下午，黛比打包了两个大箱子，八个中箱子和五个小箱子。她一共用了多少胶带？。",
+  "topic": "回答下面的数学问题：Debbie works at a post office packing boxes to mail. Each large box takes 4 feet of packing tape to seal, each medium box takes 2 feet of packing tape to seal, and each small box takes 1 foot of packing tape to seal. Each box also takes 1 foot of packing tape to stick the address label on. Debbie packed two large boxes, eight medium boxes, and five small boxes this afternoon. How much tape did she use?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

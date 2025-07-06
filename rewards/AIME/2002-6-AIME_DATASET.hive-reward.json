@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Find the integer that is closest to $1000\\sum_{n=3}^{10000}\\frac1{n^2-4}$ .",
   "checkpoint": [
     {
-      "$\\boxed{521}$": 1
+      "\\boxed{521}": 1
     }
   ],
   "matchingmethod": [

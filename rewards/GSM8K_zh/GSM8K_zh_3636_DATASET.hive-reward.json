@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克在笔记本上花了37美元。他总共买了12本笔记本。他买了3本红色的笔记本，每本4美元，2本绿色的笔记本，每本2美元，其余的是蓝色的笔记本。每本蓝色的笔记本多少钱？。",
+  "topic": "回答下面的数学问题：Mike spent 37 dollars on notebooks.  He bought a total of 12 notebooks.  He bought 3 red notebooks at 4 dollars each, 2 green notebooks at 2 dollars each, and the rest were blue notebooks.  How much does each blue notebook cost?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

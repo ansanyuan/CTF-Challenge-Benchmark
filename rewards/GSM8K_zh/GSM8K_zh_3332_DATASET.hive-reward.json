@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈桑正在整理他的公寓，因为他要为了新工作搬到国家的另一边。他需要把几个箱子寄到他的新家。搬家公司要求哈桑避免在任何纸箱中放入超过一定重量的磅数。搬家公司贴心地为哈桑提供了一个数字秤，如果包裹太重，它会提醒他。哈桑在厨房里，他用38个餐盘装满了一个纸箱。当他检查箱子时，秤显示箱子太重了。哈桑知道他的每个餐盘重10盎司。他从箱子里拿出一个餐盘，再次检查搬家公司的秤。秤显示箱子仍然太重。哈桑一遍又一遍地重复这个过程。当他拿出足够多的餐盘时，搬家公司的秤显示箱子现在是可以接受的重量以便寄送。哈桑推断出每个运输箱在秤显示箱子太重之前可以容纳20磅。哈桑需要从运输箱中拿出多少个餐盘？。",
+  "topic": "回答下面的数学问题：Hasan is packing up his apartment because he’s moving across the country for a new job. He needs to ship several boxes to his new home. The movers have asked that Hasan avoid putting more than a certain weight in pounds in any cardboard box. The moving company has helpfully provided Hasan with a digital scale that will alert him if a package is too heavy. Hasan is in the kitchen, and he fills a cardboard box with 38 dinner plates. When he checks the box, the scale reports his box is too heavy. Hasan knows each of his plates weighs 10 ounces. He removes a single plate from the box and checks the movers’ scale again. The scale reports his box is still too heavy. Hasan repeats the process again and again. When he has removed enough plates, the movers’ scale shows the box is now an acceptable weight for shipping. Hasan deduces that each shipping box can hold 20 pounds before the scale says the box is too heavy.  How many plates did Hasan need to remove from the shipping box?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

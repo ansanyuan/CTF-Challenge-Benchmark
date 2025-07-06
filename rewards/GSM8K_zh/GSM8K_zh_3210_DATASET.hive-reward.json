@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马利克在4场比赛中每场冲了18码。乔西亚在4场比赛中每场冲了22码。达内尔在4场比赛中平均每场冲了11码。这3名运动员总共冲了多少码？。",
+  "topic": "回答下面的数学问题：Malik rushed for 18 yards in each of 4 games. Josiah ran for 22 yards in each of 4 games. Darnell had an average of 11 yards rushed for each of the 4 games. How many yards did the 3 athletes run in total?",
   "checkpoint": [
     {
-      "$\\boxed{204}$": 1
+      "\\boxed{204}": 1
     }
   ],
   "matchingmethod": [

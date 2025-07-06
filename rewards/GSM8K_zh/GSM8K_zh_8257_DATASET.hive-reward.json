@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍勃在他的观赏鱼池里有7条鱼。其中3条是橙色的，4条是白色的。他决定再买一些，于是他去了宠物店。他让宠物店的销售助理从一个混合了白色和橙色鱼的水箱里捞出17条鱼。当他把这些鱼带回家放进鱼池后，他发现现在橙色鱼的数量是白色鱼的两倍。鲍勃在商店买了多少条白色鱼？。",
+  "topic": "回答下面的数学问题：Bob had 7 fish in his ornamental fish pond. 3 were orange, and 4 were white. He decided he wanted to get some more, so he went to the pet store. He had a sales assistant at the pet shop dip out 17 fish out of a mixed tank of both white and orange fish. When he got them home and added them to his pond, he found that he now had twice as many orange fish as white fish. How many white fish did Bob buy at the store?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

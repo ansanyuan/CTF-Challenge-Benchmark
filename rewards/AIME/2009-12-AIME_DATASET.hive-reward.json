@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：From the set of integers $\\{1,2,3,\\dots,2009\\}$ , choose $k$ pairs $\\{a_i,b_i\\}$ with $a_i<b_i$ so that no two pairs have a common element. Suppose that all the sums $a_i+b_i$ are distinct and less than or equal to $2009$ . Find the maximum possible value of $k$ .",
   "checkpoint": [
     {
-      "$\\boxed{803}$": 1
+      "\\boxed{803}": 1
     }
   ],
   "matchingmethod": [

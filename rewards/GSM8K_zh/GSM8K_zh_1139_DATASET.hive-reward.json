@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jay决定每周从他的工资中存钱。他决定每周增加10美元的存款金额。如果他本周开始存20美元，一个月后他将存了多少钱？。",
+  "topic": "回答下面的数学问题：Jay has decided to save money from his paycheck every week. He has decided that he will increase the amount he saves each week by 10 dollars. If he started by saving 20 dollars this week, how much will he have saved in a month from now?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

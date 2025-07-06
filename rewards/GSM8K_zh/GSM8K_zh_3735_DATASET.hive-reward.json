@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jerry正在制作樱桃糖浆。他每夸脱糖浆需要500颗樱桃。他花2小时摘300颗樱桃，再花3小时制作糖浆。他要制作9夸脱的糖浆需要多长时间？。",
+  "topic": "回答下面的数学问题：Jerry is making cherry syrup. He needs 500 cherries per quart of syrup. It takes him 2 hours to pick 300 cherries and 3 hours to make the syrup. How long will it take him to make 9 quarts of syrup?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

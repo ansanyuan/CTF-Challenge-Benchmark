@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰的相机坏了，所以他决定租一个相机4周。这是一台价值5000美元的相机，租金是价值的10%每周。他的朋友在相机坏掉时在场，同意支付租金的40%。约翰支付了多少钱？。",
+  "topic": "回答下面的数学问题：John's camera broke so he decided to rent one for 4 weeks.  It was a $5000 camera and the rental fee was 10% of the value per week.  His friend who was there when it broke agreed to pay 40% of the rental fee.  How much did John pay?",
   "checkpoint": [
     {
-      "$\\boxed{1200}$": 1
+      "\\boxed{1200}": 1
     }
   ],
   "matchingmethod": [

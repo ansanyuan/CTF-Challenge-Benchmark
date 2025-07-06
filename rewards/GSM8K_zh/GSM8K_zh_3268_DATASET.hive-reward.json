@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Caleb正在为他的爷爷烤一个生日蛋糕。他的爷爷今年79岁。Caleb在蛋糕上放了三种颜色的蜡烛。他为他的爷爷每一岁放一支蜡烛。他放了27支黄色蜡烛，14支红色蜡烛，其余的是蓝色蜡烛。他用了多少只蓝色蜡烛？。",
+  "topic": "回答下面的数学问题：Caleb is baking a birthday cake for his grandfather. His grandfather is turning 79 years old. Caleb puts three colors of candles on the cake. He puts one candle for each year for his grandfather. He puts 27 yellow candles, 14 red candles and the rest are blue candles. How many blue candles did he use?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

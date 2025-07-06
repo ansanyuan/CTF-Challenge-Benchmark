@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝蒂制作芝士蛋糕时，用一份糖和四份奶油奶酪的比例来调甜味，并且用每两杯奶油奶酪来调味一茶匙香草。对于每一茶匙香草，她使用两个鸡蛋。她在最近的芝士蛋糕中使用了两杯糖。她使用了多少个鸡蛋？。",
+  "topic": "回答下面的数学问题：When Betty makes cheesecake, she sweetens it with a ratio of one part sugar to four parts cream cheese, and she flavors it with one teaspoon of vanilla for every two cups of cream cheese. For every one teaspoon of vanilla, she uses two eggs. She used two cups of sugar in her latest cheesecake. How many eggs did she use?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

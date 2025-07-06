@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在20辆可租赁的汽车中，有12辆是自动挡汽车，4辆是手动挡汽车，其余的是半自动挡。半自动挡汽车占总数的百分比是多少？。",
+  "topic": "回答下面的数学问题：Of the 20 available cars for rent, 12 are automatic cars, 4 are manual cars, and the rest are semi-automatic. What percentage of the cars are semi-automatic?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

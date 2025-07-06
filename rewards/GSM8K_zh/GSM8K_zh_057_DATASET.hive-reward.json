@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：利奥的作业分为三部分。他在25分钟内完成了作业的第一部分。他完成第二部分所用的时间是第一部分的两倍。如果他能在2小时内完成作业，那么利奥完成作业的第三部分用了多少分钟？。",
+  "topic": "回答下面的数学问题：Leo's assignment was divided into three parts. He finished the first part of his assignment in 25 minutes. It took him twice as long to finish the second part. If he was able to finish his assignment in 2 hours, how many minutes did Leo finish the third part of the assignment?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

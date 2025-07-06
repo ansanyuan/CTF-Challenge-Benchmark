@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：明天，皮特必须还清他欠自行车的最后90美元。他翻遍钱包，找到两张20美元的钞票。检查口袋，他找到四张10美元的钞票。他不高兴自己没有整个金额，他突然想起他有可以退还给当地商店的塑料瓶以换取现金。如果商店每个瓶子支付50美分，皮特需要向商店退还多少瓶子？。",
+  "topic": "回答下面的数学问题：Tomorrow, Pete must finish paying off the last $90 he owes on a bike. He goes through his wallet and finds two $20 bills. Checking his pockets, he finds four $10 bills. Unhappy that he doesn't have the entire amount, he suddenly remembers that he has plastic bottles that can be returned to his local store for cash. If the store pays 50 cents for each bottle, how many bottles will Pete have to return to the store?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kendra有4包钢笔。Tony有2包钢笔。每包里有3支钢笔。如果Kendra和Tony决定各留下两支钢笔，并把剩下的钢笔每人一支送给他们的朋友，他们将给多少个朋友送钢笔？。",
+  "topic": "回答下面的数学问题：Kendra has 4 packs of pens. Tony has 2 packs of pens. There are 3 pens in each pack. If Kendra and Tony decide to keep two pens each and give the remaining pens to their friends one pen per friend, how many friends will they give pens to?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

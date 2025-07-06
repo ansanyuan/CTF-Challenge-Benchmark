@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Laura喜欢做饭。有一天，她决定为家人做晚餐。她购买了这次活动所需的食材：两份沙拉，2公斤牛肉，1公斤土豆和两升果汁。一份沙拉的价格是3美元，一公斤牛肉的价格是沙拉价格的两倍。一公斤土豆的价格是一份沙拉价格的三分之一，一升果汁的价格是1.5美元。Laura需要为她购买的所有产品支付多少钱？。",
+  "topic": "回答下面的数学问题：Laura loves to cook. One day she decided to make dinner for her family. She bought the necessary ingredients for this occasion: two salads, 2 kilograms of beef, 1 kilogram of potatoes, and two liters of juice. One salad costs $3, and one kilogram of beef is two times more expensive. One kilogram of potatoes costs one-third of the price of one salad, and one liter of juice is $1.5. How much did Laura need to pay for all the products she bought?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

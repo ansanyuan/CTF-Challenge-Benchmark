@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有500人参加了乐队音乐会。对于那场音乐会，乐队获得门票价格的70%。如果每张门票价格为30美元，乐队的每个成员从那场音乐会中分得多少钱？。",
+  "topic": "回答下面的数学问题：Five hundred people attended the band concert. For that concert, the band gets 70% of the ticket price. If each ticket costs $30 and there are 4 members of the band, how much did each band member get from that concert?",
   "checkpoint": [
     {
-      "$\\boxed{2625}$": 1
+      "\\boxed{2625}": 1
     }
   ],
   "matchingmethod": [

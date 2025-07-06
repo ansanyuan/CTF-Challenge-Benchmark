@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lilah的家庭画廊有400张照片。在去大峡谷的两天旅行中，他们在第一天拍摄的照片数量是家庭画廊中的一半，在第二天比第一天多拍摄了120张照片。如果他们将所有这些照片添加到家庭画廊中，请计算画廊中照片的总数。。",
+  "topic": "回答下面的数学问题：Lilah's family gallery has 400 photos. On a two-day trip to the Grand Canyon, they took half as many photos they have in the family's gallery on the first day and 120 more photos than they took on the first day on the second day. If they added all these photos to the family gallery, calculate the total number of photos in the gallery.",
   "checkpoint": [
     {
-      "$\\boxed{920}$": 1
+      "\\boxed{920}": 1
     }
   ],
   "matchingmethod": [

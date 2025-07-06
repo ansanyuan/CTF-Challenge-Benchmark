@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在MLB的职业全垒打领袖中，汉克·阿伦比戴夫·温菲尔德的两倍少175个。汉克·阿伦击中了755个全垒打。戴夫·温菲尔德在他的职业生涯中击中了多少个全垒打？。",
+  "topic": "回答下面的数学问题：Among the career home run leaders for MLB, Hank Aaron has 175 fewer than twice the number that Dave Winfield has.  Hank Aaron hit 755 home runs.  How many home runs did Dave Winfield hit in his career?",
   "checkpoint": [
     {
-      "$\\boxed{465}$": 1
+      "\\boxed{465}": 1
     }
   ],
   "matchingmethod": [

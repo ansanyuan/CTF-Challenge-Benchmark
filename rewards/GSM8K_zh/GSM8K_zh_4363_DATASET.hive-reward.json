@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：菲利普星期一要参加数学考试和英语考试。数学考试有40道题，他答对了75%。英语考试有50道题，他答对了98%。他一共答对了多少道题？。",
+  "topic": "回答下面的数学问题：Phillip is taking a math test and an English test on Monday. The math test has 40 questions and he gets 75% of them right. The English test has 50 questions and he gets 98% of them right. How many total questions does he get right?",
   "checkpoint": [
     {
-      "$\\boxed{79}$": 1
+      "\\boxed{79}": 1
     }
   ],
   "matchingmethod": [

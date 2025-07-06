@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：农场有30头牛，动物园有20只羊。动物园的牛是农场的两倍。农场的羊是动物园的一半。农场和动物园一共有多少只动物？。",
+  "topic": "回答下面的数学问题：The farm has 30 cows and the zoo has 20 sheep.  The zoo has twice as many cows as the farm does.  The farm has half as many sheep as the zoo does.  How many animals do the farm and zoo have combined?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

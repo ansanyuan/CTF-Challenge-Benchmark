@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾萨克必须为即将到来的学年购买钢笔和铅笔。艾萨克总共购买了108支书写工具。他购买的铅笔数量是钢笔数量的5倍再加12支。艾萨克购买了多少支钢笔？。",
+  "topic": "回答下面的数学问题：Issac has to buy pens and pencils for the upcoming school year. Issac buys 108 writing utensils total. He buys 12 more than 5 times the number of pencils than pens. How many pens did Issac buy?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

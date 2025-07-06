@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：盒子里有48支蜡笔。凯莉拿走了其中的四分之一。乔拿走了剩下的蜡笔的一半，剩下多少支蜡笔？。",
+  "topic": "回答下面的数学问题：There are 48 crayons in the box.  Kiley takes 1/4 of them away.  Joe takes away half of the remaining crayons, how many crayons are left?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

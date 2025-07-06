@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：我买了一双鞋，价格为51美元。鞋子已经打了75%的折扣。鞋子的原价是多少？。",
+  "topic": "回答下面的数学问题：I bought a pair of shoes for $51. The shoes were already marked 75% off. What is the original price of the shoes?",
   "checkpoint": [
     {
-      "$\\boxed{204}$": 1
+      "\\boxed{204}": 1
     }
   ],
   "matchingmethod": [

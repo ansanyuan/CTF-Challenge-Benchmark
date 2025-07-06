@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥利维亚给了威廉10块餐巾。阿梅利亚也给了威廉奥利维亚给他的餐巾数量的两倍。如果威廉之前有15块餐巾，他现在有多少块餐巾？。",
+  "topic": "回答下面的数学问题：Olivia gave William 10 napkins. Amelia also gives William twice the number of napkins Olivia gave him. If William had 15 napkins before, how many napkins does he have now?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

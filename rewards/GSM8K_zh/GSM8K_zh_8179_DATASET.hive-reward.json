@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛莎的猫比她的乌龟快5倍。如果猫能以每秒15英尺的速度奔跑，那么她的乌龟在40秒内能爬多远（单位：英尺）？。",
+  "topic": "回答下面的数学问题：Martha's cat is 5 times faster than her turtle. If the cat can run 15 feet/second, how many feet can her turtle crawl in 40 seconds?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ashley和她的家人在星期六去看电影。儿童票价为4.25美元，成人票价比儿童票价贵3.25美元。他们因购买3张以上的电影票而获得了2美元的折扣。如果他们购买了两张成人票和四张儿童票，他们一共花了多少钱？。",
+  "topic": "回答下面的数学问题：Ashley and her family went to the movies on Saturday. Children’s tickets cost $4.25 and adult tickets cost $3.25 more. They were given a $2 discount for buying more than 3 tickets. How much did they spend if they bought two adult tickets and four children’s tickets?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

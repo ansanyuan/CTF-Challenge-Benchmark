@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三脚龙有三条腿。在一群三脚龙中，总共有20个头和腿。这群三脚龙有多少只？。",
+  "topic": "回答下面的数学问题：The tripodasaurus has three legs. In a flock of tripodasauruses, there is a total of 20 heads and legs. How many tripodasauruses are in the flock?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

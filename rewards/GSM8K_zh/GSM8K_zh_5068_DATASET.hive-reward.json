@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰正在为3栋房屋打地基。每个房屋都需要一块100英尺乘100英尺乘0.5英尺的混凝土板。混凝土的密度为每立方英尺150磅。每磅混凝土的成本为0.02美元。地基的成本是多少？。",
+  "topic": "回答下面的数学问题：John is laying the foundation for 3 homes. Each home needs a slab of concrete that is 100 feet by 100 feet by .5 feet. Concrete has a density of 150 pounds per cubic foot. A pound of concrete cost $.02 per pound. How much does the foundation cost?",
   "checkpoint": [
     {
-      "$\\boxed{45000}$": 1
+      "\\boxed{45000}": 1
     }
   ],
   "matchingmethod": [

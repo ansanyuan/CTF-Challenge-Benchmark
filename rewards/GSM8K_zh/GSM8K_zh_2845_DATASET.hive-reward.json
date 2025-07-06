@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊索为露西买了两个新娃娃作为她的娃娃收藏。这增加了娃娃收藏的25%。在加入两个新娃娃后，露西的收藏中有多少个娃娃？。",
+  "topic": "回答下面的数学问题：Ethyl bought Lucy two new dolls for her doll collection.  This increased the doll collection by 25%.  After the addition of the two new dolls, how many dolls are in Lucy's collection?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

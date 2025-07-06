@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果她每小时赚50.00美元，每天工作10小时，如果她在午夜前没有完成销售报告，她将会收到多少钱？。",
+  "topic": "回答下面的数学问题：Jose threatened to withhold 20% of Amanda's pay if she does not finish her sales report by midnight. If Amanda makes $50.00 an hour and works for 10 hours a day, how much money will she receive if she does not finish the sales report by midnight?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

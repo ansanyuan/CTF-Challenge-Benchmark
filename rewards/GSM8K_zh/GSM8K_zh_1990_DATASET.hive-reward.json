@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：尤利娅本周能够净赚44美元。她的柠檬水摊本周的总收入为47美元。她还能够做保姆工作，赚了31美元。然而，她的柠檬水摊的运营成本很高，因为她需要购买柠檬、糖和防晒霜。她经营柠檬水摊的成本是多少美元？。",
+  "topic": "回答下面的数学问题：Yulia was able to net $44 in profit this week. Her lemonade stand made a gross revenue of $47 this week. She was also able to babysit and made $31. However, her lemonade stand is expensive to run because she needs to buy lemons, sugar, and sunscreen. How much did she spend to operate her lemonade stand, in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

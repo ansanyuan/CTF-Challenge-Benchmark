@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗比买了3袋巧克力。她把2袋给了她的兄弟姐妹，然后又买了3袋。还剩下多少袋巧克力？。",
+  "topic": "回答下面的数学问题：Robie bought 3 bags of chocolates. She gave the 2 bags to her brothers and sisters then bought another 3 bags. How many bags of chocolates were left?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

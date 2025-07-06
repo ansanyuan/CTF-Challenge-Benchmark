@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：维奥莱特正在考虑是否应该购买一个家庭通行证去水族馆，价格为120美元，还是分开购买门票。如果成人票价为35美元，儿童票价为20美元，维奥莱特的家庭有1名成人和6名儿童，如果她分开购买门票，她将支付多少钱？。",
+  "topic": "回答下面的数学问题：Violet is trying to figure out whether she should buy a family pass to the aquarium for $120 or pay for tickets separately. If adult tickets cost $35 and children's tickets cost $20, and Violet's family has 1 adult and 6 children, how much will she pay if she buys separate tickets?",
   "checkpoint": [
     {
-      "$\\boxed{155}$": 1
+      "\\boxed{155}": 1
     }
   ],
   "matchingmethod": [

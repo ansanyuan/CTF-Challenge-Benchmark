@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每棵茶叶植物上有18片绿叶。每棵茶叶植物的三分之一的叶子变黄并掉落。茶叶植物上还剩下多少片绿叶？。",
+  "topic": "回答下面的数学问题：There are 18 green leaves on each of the 3 tea leaf plants. One-third of them turn yellow and fall off on each of the tea leaf plants.  How many green leaves are left on the tea leaf plants?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

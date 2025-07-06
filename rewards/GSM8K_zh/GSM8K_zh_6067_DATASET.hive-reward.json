@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alan喜欢支持音乐创作者，所以他偶尔会去唱片店购买音乐。他决定现在购买2张\"The Dark\"的CD，1张由创作者\"AVN\"制作的CD，以及5张90年代歌曲混音的CD。\"AVN\"的CD价格为12美元，是\"The Dark\"的CD价格的一半。90年代音乐CD的价格是所有其他CD的40%。Alan需要为所有产品支付多少钱？。",
+  "topic": "回答下面的数学问题：Alan likes to support music creators, so instead of downloading songs from the internet, he visits a record store once in a while. He decided now to buy 2 CDs by \"The Dark\", 1 CD by the creator \"AVN\", and 5 CDs that are mixes of songs from the 90s. The price of the \"AVN\" CD is $12 and it is half the price of one CD by \"The Dark\". The 5 CDs of 90s music cost is 40% of all the cost of all other CDs Alan is going to buy. How much will Alan have to pay for all the products?",
   "checkpoint": [
     {
-      "$\\boxed{84}$": 1
+      "\\boxed{84}": 1
     }
   ],
   "matchingmethod": [

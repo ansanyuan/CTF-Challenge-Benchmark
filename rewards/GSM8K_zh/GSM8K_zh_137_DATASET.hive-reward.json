@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Loraine制作动物的蜡雕像。大动物需要四根蜡棒，小动物需要两根蜡棒。她制作的小动物是大动物的三倍，并且她用12根蜡棒制作了小动物。Loraine用了多少根蜡棒来制作所有的动物？。",
+  "topic": "回答下面的数学问题：Loraine makes wax sculptures of animals. Large animals take four sticks of wax and small animals take two sticks. She made three times as many small animals as large animals, and she used 12 sticks of wax for small animals. How many sticks of wax did Loraine use to make all the animals?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

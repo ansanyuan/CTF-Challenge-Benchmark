@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯汀的两只猫的重量分别为7磅和10磅。如果她的狗的重量是她两只猫的重量之和的两倍，那么她的狗的重量是多少？。",
+  "topic": "回答下面的数学问题：The weights of Christine's two cats are 7 and 10 pounds. What is her dog's weight if its weight is twice the sum of her two cats' weights?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

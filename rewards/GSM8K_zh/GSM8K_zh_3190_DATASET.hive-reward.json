@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：加里买了4只鸡。两年后，他的鸡的数量是初始数量的8倍。如果每只鸡每天下6个蛋，加里目前每周收集多少个蛋？。",
+  "topic": "回答下面的数学问题：Gary buys 4 chickens. After two years, he has 8 times as many chickens as he started with. If each chicken lays 6 eggs a day, how many eggs does Gary currently collect every week?",
   "checkpoint": [
     {
-      "$\\boxed{1344}$": 1
+      "\\boxed{1344}": 1
     }
   ],
   "matchingmethod": [

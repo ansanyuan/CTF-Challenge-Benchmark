@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：十二名同事一起出去吃午餐，点了三份披萨。每份披萨被切成八块。如果每个人得到相同数量的块，每个人会得到多少块？。",
+  "topic": "回答下面的数学问题：Twelve coworkers go out for lunch together and order three pizzas. Each pizza is cut into eight slices. If each person gets the same number of slices, how many slices will each person get?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

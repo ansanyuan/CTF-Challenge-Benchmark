@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Aleena订阅了一个流媒体服务，每月向她收费140美元。如果流媒体公司在年初的前半年向她收取初始金额，然后在年的后半年向她收取少10%的费用，请计算到年底她为流媒体服务支付的总金额。。",
+  "topic": "回答下面的数学问题：Aleena subscribed to a streaming service that charges her $140 per month. If the streaming company charged her the initial amount for the first half of the year and then charged her 10% less money on the other half of the year, calculate the total amount she had paid for the streaming service by the end of the year.",
   "checkpoint": [
     {
-      "$\\boxed{1596}$": 1
+      "\\boxed{1596}": 1
     }
   ],
   "matchingmethod": [

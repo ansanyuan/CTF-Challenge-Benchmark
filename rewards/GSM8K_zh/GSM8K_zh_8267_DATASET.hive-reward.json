@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jamie每小时工作赚20美元，每天工作8小时。如果她需要加班，她的加班时薪是正常时薪的150%。上周二，她工作了11小时。那天她的工作收入是多少美元？。",
+  "topic": "回答下面的数学问题：Jamie earns $20 per hour for 8 hours of work each day. Should she need to work additional hours, she is paid a special hourly rate that is 150% of her regular hourly rate. Last Tuesday, she worked 11 hours. How much was she paid, in dollars, for her work that day?",
   "checkpoint": [
     {
-      "$\\boxed{250}$": 1
+      "\\boxed{250}": 1
     }
   ],
   "matchingmethod": [

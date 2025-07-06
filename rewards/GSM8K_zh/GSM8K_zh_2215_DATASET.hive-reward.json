@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马特做作业用了150分钟。他花了30%的时间在数学上，40%的时间在科学上。他用剩下的时间做其他科目的作业。马特在其他科目的作业上花了多少时间？。",
+  "topic": "回答下面的数学问题：Matt did his homework for 150 minutes. He spent 30% of that time on math and 40% on science. He spent the remaining time on other subjects. How much time did Matt spend on homework in other subjects?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

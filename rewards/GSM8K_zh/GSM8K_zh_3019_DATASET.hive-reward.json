@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kara每次服药时必须喝4盎司的水。她的药物指示是每天服药三次。她遵循了一周的指示，但在第二周的一天中忘记了两次。在这两周内，她服药时喝了多少盎司的水？。",
+  "topic": "回答下面的数学问题：Kara has to drink 4 ounces of water every time she takes her medication. Her medication instructions are to take one tablet three times a day. She followed the instructions for one week, but in the second week, she forgot twice on one day. How many ounces of water did she drink with her medication over those two weeks?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

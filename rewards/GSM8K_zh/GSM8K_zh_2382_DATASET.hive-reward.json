@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Clive打开了一个装满不同颜色球的盒子。盒子里有6个蓝色球，4个红色球，绿色球的数量是蓝色球的3倍，黄色球的数量是红色球的2倍。Clive打开的盒子里有多少个球？。",
+  "topic": "回答下面的数学问题：Clive opens a box full of different colored balls.   The box contains 6 blue balls, 4 red balls, 3 times as many green balls as blue ones and twice as many yellow ones as red ones.   How many balls are in the box Clive opens?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一片雾气从海洋滚滚而来，覆盖了一座城市。它每10分钟覆盖城市的3英里。如果这座城市从海滨到内陆的另一边宽42英里，雾气需要多少分钟才能覆盖整个城市？。",
+  "topic": "回答下面的数学问题：A fog bank rolls in from the ocean to cover a city. It takes 10 minutes to cover every 3 miles of the city. If the city is 42 miles across from the oceanfront to the opposite inland edge, how many minutes will it take for the fog bank to cover the whole city?",
   "checkpoint": [
     {
-      "$\\boxed{140}$": 1
+      "\\boxed{140}": 1
     }
   ],
   "matchingmethod": [

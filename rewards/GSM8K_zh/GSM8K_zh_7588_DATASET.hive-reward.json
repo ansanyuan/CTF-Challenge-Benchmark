@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贾马尔的手机可以存储的照片数量是布兰妮手机的6倍。布兰妮手机的最大存储照片数量是贾马尔在动物园拍摄的鸭子照片中鸭子数量的50倍。如果贾马尔的手机可以存储1800张照片，那么在贾马尔拍摄的动物园鸭子照片中可以看到多少只鸭子？。",
+  "topic": "回答下面的数学问题：Jamal's phone can hold 6 times more photographs than can Brittany's phone.  The maximum number of photographs that Brittany's phone can hold is 50 times more than the number of birds in Jamal's photograph of the ducks at the zoo.  If Jamal's phone can hold 1800 photographs, how many ducks can be seen in Jamal's photograph of ducks at the zoo?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

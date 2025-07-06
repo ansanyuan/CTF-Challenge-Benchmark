@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：四名运动员参加了接力比赛。第一名运动员跑了55秒，第二名运动员比第一名多跑了10秒，第三名运动员比第二名少跑了15秒，第四名运动员比第一名少跑了25秒。他们一共花了多长时间（以秒为单位）来完成接力比赛？。",
+  "topic": "回答下面的数学问题：Four athletes joined a relay race. Athlete 1  ran for 55 seconds, athlete 2 ran 10 seconds more than athlete 1, athlete 3 ran 15 seconds less than athlete 2, and athlete four finished it 25 seconds less than athlete 1. How long, in seconds, did it take them to finish the relay race?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

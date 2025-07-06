@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两姐妹去看电影。电影票每人8美元。如果两姐妹带了25美元，购买电影票后会收到多少零钱？。",
+  "topic": "回答下面的数学问题：Two sisters go to the movies.  Movie tickets are $8 per person.  If the sisters brought $25 with them, how much change will they receive after buying the tickets?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

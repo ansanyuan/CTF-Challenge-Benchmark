@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $A$ be an acute angle such that $\\tan A = 2 \\cos A.$ Find the number of positive integers $n$ less than or equal to $1000$ such that $\\sec^n A + \\tan^n A$ is a positive integer whose units digit is $9.$",
   "checkpoint": [
     {
-      "$\\boxed{167}$": 1
+      "\\boxed{167}": 1
     }
   ],
   "matchingmethod": [

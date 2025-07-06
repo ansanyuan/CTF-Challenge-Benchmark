@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：六月的妈妈答应她，每摘一片三叶草就给她1美分。六月总共摘了200片三叶草。其中75%有3片叶子，24%有两片叶子，1%有四片叶子。六月赚了多少美分？。",
+  "topic": "回答下面的数学问题：June's mom promises to pay her 1 cent for every cloverleaf she picks from the lawn. June picks 200 clovers in total. 75% have 3 petals. 24% have two petals and 1% have four petals. How many cents does June earn?",
   "checkpoint": [
     {
-      "$\\boxed{554}$": 1
+      "\\boxed{554}": 1
     }
   ],
   "matchingmethod": [

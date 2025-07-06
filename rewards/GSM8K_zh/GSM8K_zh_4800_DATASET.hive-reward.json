@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一所学校为他们的老师提供了一个研讨会。常规研讨会费用为150美元，但如果他们在预定研讨会的前两天注册，他们会提供5%的折扣。学校在预定时间的一周前注册了10名老师参加研讨会，并为每位老师提供了10美元的餐饮补贴。学校总共花了多少钱？。",
+  "topic": "回答下面的数学问题：A seminar is offered to a school for their teachers. The regular seminar fee is $150 but they offer a 5% discount if they register 2 days before the scheduled seminar. The school registered 10 teachers for the seminar a week before the schedule and it also released a $10 food allowance for each of the teachers. How much did the school spend in all?",
   "checkpoint": [
     {
-      "$\\boxed{1525}$": 1
+      "\\boxed{1525}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：冰淇淋店提供一个交易，买两勺冰淇淋，免费得到一勺。每勺的成本是1.50美元。如果艾琳有6.00美元，她应该买多少勺冰淇淋？。",
+  "topic": "回答下面的数学问题：The ice cream parlor was offering a deal, buy 2 scoops of ice cream, get 1 scoop free.  Each scoop cost $1.50.  If Erin had  $6.00, how many scoops of ice cream should she buy?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

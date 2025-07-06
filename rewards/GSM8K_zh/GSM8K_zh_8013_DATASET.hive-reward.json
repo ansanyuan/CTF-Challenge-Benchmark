@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：我的妻子想要平均分担账单，但希望我在我们50美元的晚餐费用上再支付额外的20%小费。我最终支付了多少钱？。",
+  "topic": "回答下面的数学问题：My wife wants to evenly split the check but wants me to pay an additional 20% tip on our $50 dinner bill. How much did I end up paying?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

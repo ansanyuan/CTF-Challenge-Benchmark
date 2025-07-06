@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一次教师会议上，决定每个班级为学校活动捐款90美元。埃文斯小姐的班级有14美元的班级基金，他们决定使用它来减少每个学生的捐款。如果剩下的金额将被分给19名学生，每个学生将捐款多少？。",
+  "topic": "回答下面的数学问题：In one of the teacher's meetings, it was agreed that each class will contribute $90 for a school activity. The class of Miss Evans has $14 class funds and they decided to use it to lessen the contribution of each student. If the remaining amount will be divided among 19 students, how much will each student contribute?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

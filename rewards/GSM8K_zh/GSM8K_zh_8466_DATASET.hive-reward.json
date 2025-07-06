@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Buford每年写很多支票。他每个月写一张支票来支付电费账单。他还每个月写一张支票支付煤气费。他每个月给教堂写两张支票。每季度，他写一张支票给害虫和草坪服务。Buford每年写多少张支票？。",
+  "topic": "回答下面的数学问题：Buford writes many checks every year.  Once per month he writes a check to pay the electric bill.  He also writes a check every month for the gas bill.  Twice per month he writes a check to the church.  And quarterly, he writes a check to the pest and lawn service.  How many checks does Buford write per year?",
   "checkpoint": [
     {
-      "$\\boxed{52}$": 1
+      "\\boxed{52}": 1
     }
   ],
   "matchingmethod": [

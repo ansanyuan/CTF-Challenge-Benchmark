@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布朗森决定在他的社区收集橡树叶。他星期四收集了12片，星期五收集了13片。20%是棕色的，20%是绿色的。其余的是黄色的。他收集了多少黄色的叶子？。",
+  "topic": "回答下面的数学问题：Bronson decides to collect Oak Leaves from around his Neighborhood. He collects 12 on Thursday and 13 on Friday. 20% are Brown and 20% are Green. The rest are yellow. How many yellow leaves does he collect?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

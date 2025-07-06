@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史蒂夫的收件箱里有400封新邮件。他把其中一半移到垃圾箱，然后把剩下的40%的邮件移到工作文件夹。收件箱里还剩下多少封邮件？。",
+  "topic": "回答下面的数学问题：Steve has 400 new emails in his inbox.  He moves half of them to the trash, and 40 percent of the remaining emails to his work folder.  How many emails are left in the inbox?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

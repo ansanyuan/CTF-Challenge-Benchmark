@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Trent每切3个洋葱就会流2滴眼泪。他每锅汤需要切4个洋葱。如果他要做6锅汤，他会流多少滴眼泪？。",
+  "topic": "回答下面的数学问题：Trent cries 2 tears for every three onions he chops. He needs to chop 4 onions per pot of soup. If he's making 6 pots of soup, how many tears does he cry?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

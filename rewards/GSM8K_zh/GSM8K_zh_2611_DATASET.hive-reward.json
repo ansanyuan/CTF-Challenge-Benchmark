@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个农民有46只鸡。每只鸡每周产6个蛋。如果他卖一打蛋3美元，他在8周内能赚多少钱？。",
+  "topic": "回答下面的数学问题：A farmer has 46 chickens. Each chicken gives him 6 eggs a week. If he sells a dozen eggs for $3, how much money would he make in 8 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{552}$": 1
+      "\\boxed{552}": 1
     }
   ],
   "matchingmethod": [

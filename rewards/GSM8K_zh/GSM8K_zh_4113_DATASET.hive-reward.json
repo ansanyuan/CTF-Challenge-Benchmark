@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个农民平均从一头猪身上得到20磅的培根。他在每月的农民市场上以6美元的价格出售每磅。这个月的猪是一头只长到了平均猪大小的一半的小猪。这头猪的培根将给农民带来多少美元？。",
+  "topic": "回答下面的数学问题：A farmer gets 20 pounds of bacon on average from a pig. He sells each pound for $6 at the monthly farmer’s market. This month’s pig is a runt that grew to only half the size of the average pig. How many dollars will the farmer make from the pig’s bacon?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

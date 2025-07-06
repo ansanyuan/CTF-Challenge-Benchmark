@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Melissa被召集参加陪审团。她花了3天时间，每天6小时听审一个法庭案件。如果Melissa每天被支付15美元，但每天也要支付3美元的停车费，那么扣除费用后，她的每小时陪审费是多少？。",
+  "topic": "回答下面的数学问题：Melissa is summoned to jury duty. She spends 6 hours a day for 3 days listening to a court case. If Melissa is paid $15 per day but also has to pay $3 for parking each day, how much jury pay does she make per hour after expenses?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

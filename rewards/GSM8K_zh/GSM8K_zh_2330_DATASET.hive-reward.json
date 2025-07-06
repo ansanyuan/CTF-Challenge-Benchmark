@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿奇收到了医生的医疗收据，他需要每天服用三次抗生素。如果抗生素每粒3美元，他需要连续服用一周，他需要花多少钱购买抗生素？。",
+  "topic": "回答下面的数学问题：Archie received his medical receipt from his doctor, and he needs to take antibiotics three times a day. If antibiotic costs $3 each and he needs to take it for a week, how much money does he need to buy the antibiotics?",
   "checkpoint": [
     {
-      "$\\boxed{63}$": 1
+      "\\boxed{63}": 1
     }
   ],
   "matchingmethod": [

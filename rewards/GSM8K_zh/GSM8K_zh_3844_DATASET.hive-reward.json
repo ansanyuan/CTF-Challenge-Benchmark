@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：南希买了一个馅饼，切成了8块。她把1/2给了乔和达西，把1/4给了卡尔。剩下多少块？。",
+  "topic": "回答下面的数学问题：Nancy bought a pie sliced it into 8 pieces. She gave 1/2 to Joe and Darcy, and she gave 1/4 to Carl. How many slices were left?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

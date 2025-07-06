@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Amber上周末工作了12小时。阿曼德工作的时间是阿曼德的1/3，艾拉工作的时间是阿曼德的两倍。这三个人总共工作了多少小时？。",
+  "topic": "回答下面的数学问题：Amber worked for 12 hours last weekend. Armand worked one-third as long and Ella worked twice as long. How many hours did the 3 people work in total?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

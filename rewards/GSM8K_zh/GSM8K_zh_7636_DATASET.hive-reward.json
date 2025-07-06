@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果一袋弹珠的价格是20美元，每两个月价格增加原价的20%，那么36个月后一袋弹珠的价格是多少？。",
+  "topic": "回答下面的数学问题：If a bag of marbles costs $20 and the price increases by 20% of the original price every two months, how much would a bag of marbles cost after 36 months?",
   "checkpoint": [
     {
-      "$\\boxed{92}$": 1
+      "\\boxed{92}": 1
     }
   ],
   "matchingmethod": [

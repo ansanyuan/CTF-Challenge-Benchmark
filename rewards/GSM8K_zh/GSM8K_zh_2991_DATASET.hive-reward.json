@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一条龙在它的洞穴里囤积珠宝和黄金。一个嫉妒的国王悄悄溜进来偷走了三颗珍贵的宝石。龙将他烧成了灰烬，并从他的王冠中融化在龙的火中的珠宝中偷回了它的宝石，以及王的王冠珠宝的两倍。新的宝石数量是龙之前拥有的宝石数量的三分之一。最终龙拥有多少颗宝石？。",
+  "topic": "回答下面的数学问题：A dragon hoards jewels and gold in its cave. A jealous king snuck in and stole three prize jewels. The dragon burned him to a crisp and stole back its jewels, along with twice as many of the king’s crown jewels from his crown that melted in the dragon’s fire. The new jewels were a third of the number of jewels the dragon had owned before. How many jewels did the dragon own in the end?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

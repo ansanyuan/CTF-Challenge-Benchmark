@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨莉平时读书10页，周末读书20页。如果萨莉花了2周时间读完了一本书，那本书有多少页？。",
+  "topic": "回答下面的数学问题：Sally reads 10 pages of a book on weekdays and 20 pages on weekends. If it takes 2 weeks for Sally to finish her book, how many pages that book has?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

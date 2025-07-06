@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Martha正在磨香料酱。她加入了3汤匙姜，1茶匙豆蔻，1茶匙芥末，2汤匙大蒜，以及四倍于芥末的辣椒粉。姜占香料酱的百分比是多少，四舍五入到最接近的整数？（请记住每汤匙有三茶匙。）。",
+  "topic": "回答下面的数学问题：Martha is grinding a spice paste. She adds 3 tablespoons of ginger, 1 teaspoon of cardamom, 1 teaspoon of mustard, 2 tablespoons of garlic, and four times as much chile powder as mustard. What percentage of the spice paste is ginger, rounded to the nearest integer? (Remember there are three teaspoons per tablespoon.)",
   "checkpoint": [
     {
-      "$\\boxed{43}$": 1
+      "\\boxed{43}": 1
     }
   ],
   "matchingmethod": [

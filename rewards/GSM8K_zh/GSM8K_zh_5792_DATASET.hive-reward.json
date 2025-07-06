@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：埃尔罗伊决定参加一场步行马拉松，并希望确保他的筹款与去年的获胜者持平。去年，步行者每英里赚取4美元。今年步行者每英里赚取2.75美元。如果去年的获胜者筹集了44美元，埃尔罗伊需要比去年的获胜者多走多少英里才能筹集相同的金额？。",
+  "topic": "回答下面的数学问题：Elroy decides to enter a walk-a-thon and wants to make sure he ties last year's winner's cash collection. Last year, walkers earned $4 a mile. This year walkers earn $2.75 a mile. If last year's winner collected $44, how many more miles will Elroy walk than last year's winner to collect the same amount of money?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

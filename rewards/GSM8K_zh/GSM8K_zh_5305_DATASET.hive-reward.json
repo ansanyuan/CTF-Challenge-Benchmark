@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gumball在统计上周的饮水量。他查看了列表，发现他上周喝了60升水。他周一、周四和周六喝了9升水，周二、周五和周日喝了8升水。不幸的是，周三没有输入数据。他周三喝了多少升水？。",
+  "topic": "回答下面的数学问题：Gumball was counting his water intake for the previous week. He checked his list and saw that he had drank 60 liters of water for the week. He drank nine liters of water on Monday, Thursday and Saturday and 8 liters of water on Tuesday, Friday and Sunday. Unfortunately, no data was input on Wednesday. How many liters of water did he drink on Wednesday?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

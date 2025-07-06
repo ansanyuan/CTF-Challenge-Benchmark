@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ken喜欢在下雨时骑自行车，这时他可以在20分钟内骑30英里。然而，当下雪时，Ken无法忍受寒冷，只能在20分钟内骑10英里。如果一周下雨3次，下雪4次，那么Ken每天骑自行车1小时，他一周骑了多少英里？。",
+  "topic": "回答下面的数学问题：Ken likes to bike when it's raining and can cycle 30 miles in 20 minutes during this time. However, when it's snowing Ken can't stand the cold and can only cycle 10 miles in 20 minutes. If it rains 3 times and snows 4 times in one week, how many miles did Ken reach if he cycles 1 hour a day?",
   "checkpoint": [
     {
-      "$\\boxed{390}$": 1
+      "\\boxed{390}": 1
     }
   ],
   "matchingmethod": [

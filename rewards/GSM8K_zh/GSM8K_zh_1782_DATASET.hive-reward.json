@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个销售员以576美元买了一个箱子里的48个背包。他在交换会上以18美元卖出了17个，10个卖给了一家百货商店，每个25美元。如果剩下的以每个22美元卖出。这个销售员的利润是多少？。",
+  "topic": "回答下面的数学问题：A salesman bought a case of 48 backpacks for $576. He sold 17 of them for $18 at the swap meet, 10 were sold to a department store for $25 each. If the remainder were sold for $22 each. How much was the salesman's profit?",
   "checkpoint": [
     {
-      "$\\boxed{442}$": 1
+      "\\boxed{442}": 1
     }
   ],
   "matchingmethod": [

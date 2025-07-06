@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两位老太太在中央公园散步度过了下午。第一位老太太走的距离是第二位老太太的两倍。如果第二位老太太走了四英里，那么两位老太太总共走了多少英里？。",
+  "topic": "回答下面的数学问题：Two old ladies spent the afternoon walking through Central Park.  The first lady walked twice as far as the second lady.  If the second lady walked four miles, what is the combined total distance, in miles, the two ladies walked?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

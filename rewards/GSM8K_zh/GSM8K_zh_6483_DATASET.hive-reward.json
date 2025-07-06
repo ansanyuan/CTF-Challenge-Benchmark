@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂凡尼正在看一个湖，湖里满是乌龟。这些乌龟中60%是雌性，其余是雄性。雄性中，四分之一有条纹。有条纹的中，有4只是幼龟，而60%是成年乌龟。湖里有多少只乌龟？。",
+  "topic": "回答下面的数学问题：Tiffany is looking at a lake full of turtles. The turtles are 60% female and the rest are male. Of the males, 1 in 4 has stripes. Of the ones with stripes, 4 are babies, while 60% are adults How many turtles are in the lake?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

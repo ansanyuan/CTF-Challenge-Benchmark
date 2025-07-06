@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：48个孩子想要分享一包糖果。每人拿4颗糖果后，还剩下原来数量的三分之一。这包糖果原来有多少颗？。",
+  "topic": "回答下面的数学问题：48 children are trying to share a pack of sweets. After taking 4 sweets each, there is still a third of the original amount left. What is the original number of sweets in the pack?",
   "checkpoint": [
     {
-      "$\\boxed{288}$": 1
+      "\\boxed{288}": 1
     }
   ],
   "matchingmethod": [

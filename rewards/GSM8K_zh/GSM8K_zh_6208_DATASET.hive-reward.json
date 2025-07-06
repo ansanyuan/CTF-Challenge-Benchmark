@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在全场大减价中，安德烈以30%的折扣价购买了一台价值1350美元的跑步机和两个45磅的哑铃盘，每个盘子50美元。安德烈购买跑步机和哑铃盘一共花了多少钱？。",
+  "topic": "回答下面的数学问题：On a mall-wide sale, Andre bought a $1350 treadmill for a 30% discount and 2 pieces of 45-pound plates for $50 each. How much did Andre pay for the treadmill and plates?",
   "checkpoint": [
     {
-      "$\\boxed{1045}$": 1
+      "\\boxed{1045}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰瑞正在停车场扫除碎玻璃。他扫了20块琥珀色玻璃，35块绿色玻璃，还有一些透明玻璃。如果绿色玻璃占他扫除的玻璃总数的25%，那么透明玻璃有多少块？。",
+  "topic": "回答下面的数学问题：Jerry is sweeping up pieces of broken glass in the parking lot. He sweeps up 20 amber pieces, 35 green pieces, and some clear pieces. If the green pieces are 25% of the total glass he sweeps up, how many pieces were clear?",
   "checkpoint": [
     {
-      "$\\boxed{85}$": 1
+      "\\boxed{85}": 1
     }
   ],
   "matchingmethod": [

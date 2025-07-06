@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有180名九年级学生。其中1/4因为经历了困难的分手而考试失败。剩下的学生中有1/3没有参加考试，另外20人考试不及格。有多少学生通过了期末考试？。",
+  "topic": "回答下面的数学问题：There are 180 students in ninth grade. 1/4 of them bombed their finals because they were going through difficult breakups. 1/3rd of the rest didn't show up to take the test, and another 20 got less than a D. How many students passed their finals?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

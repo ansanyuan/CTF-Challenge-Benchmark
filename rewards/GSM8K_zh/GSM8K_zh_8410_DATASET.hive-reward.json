@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：菲律宾的一家酒店收费1000比索供12小时住宿，或1600比索供24小时住宿。12小时后，游客可以选择每增加一个小时加收70比索。卡梅隆下午5点到达酒店，并希望第二天上午10点离开。他决定选择在12小时后每小时加收70比索的选项，而不是支付24小时的费用。卡梅隆能节省多少钱？。",
+  "topic": "回答下面的数学问题：A hotel in the Philippines charges 1000 pesos for a 12-hour stay or 1600 pesos for a 24-hour stay. After 12 hours, visitors have the option to add 70 pesos for every additional hour. Cameron arrives at 5 pm at the hotel and wants to leave at 10 am the next morning. He decides to go with the option of adding on 70 pesos for every hour after the 12-hour mark instead of paying for 24 hours. How much money would Cameron save?",
   "checkpoint": [
     {
-      "$\\boxed{250}$": 1
+      "\\boxed{250}": 1
     }
   ],
   "matchingmethod": [

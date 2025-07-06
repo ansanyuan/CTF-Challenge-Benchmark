@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一群人花了720美元买入游乐园门票。成人票价为15美元，儿童票价为8美元。成人比儿童多25人。这个团体中有多少儿童？。",
+  "topic": "回答下面的数学问题：A group of people pays $720 for admission tickets to an amusement park. The price of an adult ticket is $15, and a child ticket is $8. There are 25 more adults than children. How many children are in the group?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

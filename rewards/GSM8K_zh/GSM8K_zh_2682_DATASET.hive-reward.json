@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔纳森每天摄入2500卡路里，除了星期六，当天他额外摄入1000卡路里。他每天燃烧3000卡路里。他每周的热量赤字是多少？。",
+  "topic": "回答下面的数学问题：Jonathan eats 2500 calories every day except for Saturday, when he consumes an extra 1000 calories.  He burns 3000 calories every day.  What is his weekly caloric deficit?",
   "checkpoint": [
     {
-      "$\\boxed{2500}$": 1
+      "\\boxed{2500}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一栋房屋的价格是每平方英尺98美元。房子面积为2,400平方英尺，后面的谷仓面积为1,000平方英尺。这个房产价值多少？。",
+  "topic": "回答下面的数学问题：The price of a home is $98 per square foot (sq ft).  The house is 2,400 sq ft and the barn out back is 1,000 sq ft.  How much is this property?",
   "checkpoint": [
     {
-      "$\\boxed{333200}$": 1
+      "\\boxed{333200}": 1
     }
   ],
   "matchingmethod": [

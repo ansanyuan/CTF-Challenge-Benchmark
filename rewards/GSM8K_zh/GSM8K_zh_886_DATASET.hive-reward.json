@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bobby需要买一双新的花哨鞋。他决定去找一个鞋匠定制。鞋匠收取250美元来制作鞋模。然后他以75美元/小时的价格制作鞋子，共计8小时。鞋匠同意只收取制作鞋子成本的80%，因为这是他的第一双鞋。Bobby支付了多少钱？。",
+  "topic": "回答下面的数学问题：Bobby needs to buy a new pair of fancy shoes.  He decides to go to a cobbler and get them handmade.  The cobbler charges $250 to make the mold.  He then charges $75 an hour for 8 hours to make the shoes.  The cobbler agrees to only charge 80% of the cost for work to make the shoes, since it is his first pair of shoes.  How much did Bobby pay?",
   "checkpoint": [
     {
-      "$\\boxed{730}$": 1
+      "\\boxed{730}": 1
     }
   ],
   "matchingmethod": [

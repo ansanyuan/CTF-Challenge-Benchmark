@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：彼得有70美元，希望在一周内每天花费相同的金额。从周日到周三，他把钱花在了每个5美元的木制动作人偶上。在本周剩余的时间里，他将购买每个2美元的塑料动作人偶。到本周末，他总共会有多少个动作人偶？。",
+  "topic": "回答下面的数学问题：Peter has $70 and wishes to spend an equal amount each day for one week. From Sunday through Wednesday, he spent his money on wooden action figures which cost $5 each. For the rest of the week, he will buy plastic action figures which cost $2 each. How many total action figures will he have by the end of the week?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

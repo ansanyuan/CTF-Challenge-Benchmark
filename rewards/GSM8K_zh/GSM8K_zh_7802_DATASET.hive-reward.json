@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：手机以每3分钟充电1个百分点的速度充电。现在，手机已经充了60%的电。完全充满电需要多长时间（单位：小时）？。",
+  "topic": "回答下面的数学问题：The cell-phone recharges at the rate of 1 percentage-point of charge per 3 minutes. Now, the phone is at 60% charged. How long will it take to fully charge, in hours?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

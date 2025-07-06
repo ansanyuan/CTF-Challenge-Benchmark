@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克制作了一个宽度为3英尺的黑板。它的长度是宽度的两倍。这块黑板的面积是多少？。",
+  "topic": "回答下面的数学问题：Mark made a chalkboard that is 3 feet wide. It is 2 times as long as it is wide. What is the area of the chalkboard?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

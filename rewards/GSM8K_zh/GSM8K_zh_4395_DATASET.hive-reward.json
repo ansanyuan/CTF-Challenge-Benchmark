@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丹的滑板头盔的凹坑比丹尼尔的滑雪头盔多十个。林的浮潜头盔比丹和丹尼尔的头盔加起来多15个凹坑。如果林的头盔有75个凹坑，那么丹的头盔有多少个凹坑？。",
+  "topic": "回答下面的数学问题：Dan's skateboarding helmet has ten more craters than Daniel's ski helmet. Rin's snorkel helmet has 15 more craters than Dan's and Daniel's helmets combined. If Rin's helmet has 75 craters, how many craters are in Dan's helmet?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三年级有19名学生，四年级有两倍于此的学生。二年级有10名男生和19名女生。总共有多少学生？。",
+  "topic": "回答下面的数学问题：There are 19 students in the 3rd grade and twice that number in the 4th grade. There are 10 boys and 19 girls in the 2nd grade. How many students are there in total?",
   "checkpoint": [
     {
-      "$\\boxed{86}$": 1
+      "\\boxed{86}": 1
     }
   ],
   "matchingmethod": [

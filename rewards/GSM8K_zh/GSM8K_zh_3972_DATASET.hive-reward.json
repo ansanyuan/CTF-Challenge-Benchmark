@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莫娜每周骑自行车30英里来保持健康。这周，她在周一、周三和周六骑自行车。周三，她骑了12英里。周六，她骑的距离是周一的两倍。她周一骑了多少英里？。",
+  "topic": "回答下面的数学问题：Mona bikes 30 miles each week to stay fit. This week, she biked on Monday, Wednesday, and Saturday. On Wednesday, she biked 12 miles. On Saturday, she biked twice as far as on Monday. How many miles did she bike on Monday?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

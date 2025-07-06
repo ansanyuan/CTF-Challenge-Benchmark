@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮丝打开了在图书馆找到的一本艺术书，发现第一页有5幅图画。翻开前十页后，她意识到每页的图画数量每页增加了五幅。前五页一共有多少幅图画？。",
+  "topic": "回答下面的数学问题：Janice opened an art book that she had found in the library and found 5 drawings on the first page. After opening the first ten pages, she realized that the number of drawings on each page increased by five after every page. How many drawings were in the first five pages?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

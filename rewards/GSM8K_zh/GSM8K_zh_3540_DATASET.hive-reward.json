@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：彼得和他的父亲鲁珀特同一天过生日。为了让这一天变得特别，他们每人都有自己的生日蛋糕。 彼得的蛋糕上有10根蜡烛。 鲁珀特比彼得大3岁半。 鲁珀特的蛋糕上会有多少根蜡烛？。",
+  "topic": "回答下面的数学问题：Peter and his dad Rupert shared the same birthday.  To make it special, they each got their own birthday cake.  Peter has 10 candles on his cake.  Rupert is 3 and 1/2 times older than Peter.  How many candles will be on Rupert's cake?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果约翰骑自行车骑了15英里，吉尔比约翰少骑了5英里，那么吉姆骑了多少英里，如果他只骑了吉尔的20%？。",
+  "topic": "回答下面的数学问题：If John travels 15 miles on a bike ride, and Jill travels 5 miles less, how many miles does Jim travel if he travels only 20% as far as Jill?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

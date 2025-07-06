@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cherrie想为她的5个朋友买圣诞礼物。她的2个朋友想要5个礼物，另外3个朋友想要2个礼物。Cherrie继续购买，并决定再买10个随机礼物来给他们一个惊喜。Cherrie总共买了多少个礼物？。",
+  "topic": "回答下面的数学问题：Cherrie wants to buy Christmas gifts for her 5 friends. 2 of her friends want 5 gifts and the other 3 friends want 2 gifts for themselves. Cherrie goes ahead and buys them and decides to further surprise them by getting 10 more random gifts. How many gifts did Cherrie buy in total?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

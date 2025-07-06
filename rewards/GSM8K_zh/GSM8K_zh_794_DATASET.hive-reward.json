@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有一个宽度为4英寸的矩形。如果矩形的周长为30英寸，那么矩形的面积是多少？。",
+  "topic": "回答下面的数学问题：There is a rectangle that is 4 inches wide. If the rectangle's perimeter is 30 inches, what is the area of the rectangle?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Samir刚好是Hania十年前年龄的一半。如果五年后Hania将是45岁，那时Samir多大？。",
+  "topic": "回答下面的数学问题：Samir just turned half the age Hania was 10 years ago. If in five years Hania will be 45 years old, what will Samir's age be five years from now?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

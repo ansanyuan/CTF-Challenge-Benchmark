@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布莱恩是一名房地产经纪人。他每笔交易可以获得2%的佣金。在六月份，他卖了三栋房子。这些房子的售价分别为157,000美元，499,000美元和125,000美元。布莱恩在这三笔交易中的总佣金是多少？。",
+  "topic": "回答下面的数学问题：Brian is a real estate agent. He makes a 2% commission on each sale. During June, he sold three houses. The houses sold for $157,000, $499,000, and $125,000. What was Brian’s total commission on these three sales?",
   "checkpoint": [
     {
-      "$\\boxed{15620}$": 1
+      "\\boxed{15620}": 1
     }
   ],
   "matchingmethod": [

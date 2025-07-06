@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bea和Dawn都有一个柠檬水摊。Bea以25美分的价格出售她的柠檬水，而Dawn以28美分的价格出售她的柠檬水。如果Bea卖了10杯，Dawn卖了8杯，Bea比Dawn多赚了多少钱（以美分计）？。",
+  "topic": "回答下面的数学问题：Bea and Dawn both have a lemonade stand. Bea sells her lemonade at 25 cents while Dawn sells hers at 28 cents. If Bea sold 10 glasses and Dawn sold 8 glasses, how much more money (in cents) did Bea earn than Dawn?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

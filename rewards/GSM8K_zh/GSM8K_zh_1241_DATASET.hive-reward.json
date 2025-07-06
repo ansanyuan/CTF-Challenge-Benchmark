@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈里想和他的儿子凯文一起制作一个自制的氦气球，所以他和凯文带着200美元去商店。他们买了一张巨大的布料做成气球，花费42美元，一根绳子花费18美元，一个丙烷气罐和燃烧器花费14美元。他们计划用剩下的钱买氦气。氦气的价格是每盎司1.50美元。他们每买一盎司的氦气，气球就可以飞高113英尺。他们可以飞多高？。",
+  "topic": "回答下面的数学问题：Harry wants to build a homemade helium balloon with his son, Kevin, so he and Kevin go to the store with $200. They buy a giant sheet to turn into a balloon for $42, a rope for $18, and a propane tank and burner for $14. They plan to use the rest of the money on helium. The helium is $1.50 per ounce. For every ounce they buy, the balloon can fly 113 feet higher. How many feet up can they fly the balloon?",
   "checkpoint": [
     {
-      "$\\boxed{9492}$": 1
+      "\\boxed{9492}": 1
     }
   ],
   "matchingmethod": [

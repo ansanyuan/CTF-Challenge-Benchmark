@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sheila用她的信用卡购买了价值85美元的商品。她最终退回了一个价值15美元的商品。退货后，她买了一个打折20%的20美元的煎锅和一个打折10%的30美元的毛巾套装。她将这两次购买都放在了她的信用卡上。她的信用卡新余额是多少？。",
+  "topic": "回答下面的数学问题：Sheila charged $85.00 worth of merchandise on her credit card.  She ended up returning one item that cost $15.00.  After she returned the item, she bought a frying pan that was on sale for 20% off $20.00 and a set of towels that was 10% off $30.00.  She put both of these purchases on her credit card.  What is the new balance on her credit card?",
   "checkpoint": [
     {
-      "$\\boxed{113}$": 1
+      "\\boxed{113}": 1
     }
   ],
   "matchingmethod": [

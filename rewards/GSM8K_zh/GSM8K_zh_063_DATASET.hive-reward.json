@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有24罐装了290升油。如果其中有10罐装了每罐8升的油，那么剩下的每罐装了多少升的油？。",
+  "topic": "回答下面的数学问题：There are 290 liters of oil in 24 cans. If 10 of the cans are holding 8 liters each, how much oil is each of the remaining cans holding?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

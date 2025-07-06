@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布朗农场主喂了7只鸡和5只羊。他喂的动物中一共有多少条腿？。",
+  "topic": "回答下面的数学问题：Farmer Brown fed 7 chickens and 5 sheep. How many total legs were there among the animals he fed?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

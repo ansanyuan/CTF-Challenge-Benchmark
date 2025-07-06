@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在某一天，罗斯的老师读了点名册，发现当天女孩的人数是男孩的两倍。班上有250名学生，所有的140名女孩都到齐了。如果所有缺席的学生都是男孩，那天有多少男孩缺席了？。",
+  "topic": "回答下面的数学问题：On a particular day, Rose's teacher read the register and realized there were twice as many girls as boys present on that day. The class has 250 students, and all the 140 girls were present. If all the absent students were boys, how many boys were absent that day?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

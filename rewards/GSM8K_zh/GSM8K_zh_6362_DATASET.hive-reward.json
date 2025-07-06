@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：老师布置了至少25页的阅读作业。哈里森比布置的多读了10页。帕姆比哈里森多读了15页，山姆读的页数是帕姆的两倍。山姆读了多少页？。",
+  "topic": "回答下面的数学问题：The teacher assigned a minimum of 25 pages of reading for homework.  Harrison read 10 more pages than assigned.  Pam read 15 more pages than Harrison and Sam read twice the amount of Pam.  How many pages did Sam read?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

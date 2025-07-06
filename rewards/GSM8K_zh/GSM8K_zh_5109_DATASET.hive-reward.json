@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：本杰明去麦当劳买晚餐。他买了一份沙拉，一个汉堡和两份薯条。他总共支付了15美元。如果一份薯条售价为2美元，沙拉的价格是薯条价格的三倍，那么汉堡的价格是多少？。",
+  "topic": "回答下面的数学问题：Benjamin went to McDonald's to buy something for dinner. He bought a salad, a burger, and two packs of fries. He paid in total $15. How much did the burger cost, if one pack of fries was for $2 and the salad was three times that price?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

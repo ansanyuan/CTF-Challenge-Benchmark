@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个邮递员需要投递48封垃圾邮件。这条街上有8栋房子。其中2栋房子有白色邮箱，3栋房子有红色邮箱。每栋房子将会收到多少封垃圾邮件？。",
+  "topic": "回答下面的数学问题：A mailman has to deliver 48 pieces of junk mail.  There are 8 houses on the block.  2 of the houses have white mailboxes and 3 have red mailboxes.  How many pieces of junk mail will each of those houses get?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

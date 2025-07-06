@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：本昨天带着家人去钓鱼。本钓到了4条鱼，他的妻子朱迪钓到了1条鱼，他的大儿子比利钓到了3条鱼，他的小儿子吉姆钓到了2条鱼，他最小的孩子苏茜出人意料地钓到了5条鱼！不幸的是，其中3条鱼太小了，所以他们把它们扔掉了。如果每条鱼能提供2块鱼排，本和他的家人将有多少块鱼排？。",
+  "topic": "回答下面的数学问题：Ben took his family fishing yesterday. Ben caught 4 fish, his wife Judy caught 1 fish, his oldest son Billy caught 3, his younger son Jim caught 2, and his youngest child Susie surprised them all by catching 5! Unfortunately, 3 of the fish were too small, so they threw them back. If each fish will give them 2 filets, how many fish filets will Ben and his family have?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

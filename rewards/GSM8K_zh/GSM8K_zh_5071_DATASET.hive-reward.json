@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当查理和他的妻子苏珊一起在床上阅读时，他听到门口传来一阵声音。是莎拉带着4个朋友进入了卧室。如果客厅里还有8个人，那么房子里有多少人？。",
+  "topic": "回答下面的数学问题：While reading in bed with his wife Susan, Charlie heard a noise at the door. It was Sarah entering the bedroom with 4 friends. If there were also 8 people in the living room, how many people are in the house?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

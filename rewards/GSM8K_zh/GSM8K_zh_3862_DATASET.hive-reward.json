@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个镇上有四所小学。其中两所可以同时教400名学生，另外两所可以同时教340名学生。这四所小学总共可以同时教多少名学生？。",
+  "topic": "回答下面的数学问题：In a town, there are four primary schools. Two of them can teach 400 students at a time, and the other two 340 students at a time. How many students at a time in total, can these four primary schools teach?",
   "checkpoint": [
     {
-      "$\\boxed{1480}$": 1
+      "\\boxed{1480}": 1
     }
   ],
   "matchingmethod": [

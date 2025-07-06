@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托比亚斯、奇科特和伊格内斯是住在森林里的三只小狼，他们每晚都对着月亮嚎叫。当托比亚斯嚎叫时，每次嚎叫持续总共20秒。奇科特的嚎叫时间是托比亚斯的两倍长。而伊格内斯的嚎叫时间和其他两只狼的总和一样长。三只狼的嚎叫时间总和是多少分钟？。",
+  "topic": "回答下面的数学问题：Tobias, Chikote, and Igneous are the three little wolves who live in the forest and howl at the moon every night. When Tobias howls, each howl lasts for a total of 20 seconds.  Chikote howls for twice as long as Tobias.  And Igneous howls for as long as the other two wolves combined.  What is the combined length of time, in minutes, of the three wolves' howls?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

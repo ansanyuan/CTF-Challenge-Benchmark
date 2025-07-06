@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：爱丽丝正在堆叠盘子，看看她能堆多高才会倾倒。她开始把27个盘子叠放在一起。塔很稳定，所以她又加了37个盘子。她正在继续叠放更多的盘子，最终倒塌了，一共83个盘子。在塔倒塌之前，爱丽丝还能叠放多少个盘子？。",
+  "topic": "回答下面的数学问题：Alice is making a big stack of dishes to see how tall she can make it before it topples over and falls. She starts off by placing 27 plates on top of each other. The tower holds fine so she adds 37 more plates. She is in the process of placing more and more plates when it finally topples over and crashes down, all 83 plates. How many more was Alice able to add before the tower fell and crashed?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

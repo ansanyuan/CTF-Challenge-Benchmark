@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：June用20块相同的瓷砖做了一个设计。三块瓷砖是黄色，蓝色瓷砖的数量比黄色瓷砖的数量多一块。六块瓷砖是紫色，剩下的瓷砖是白色。有多少块白色瓷砖？。",
+  "topic": "回答下面的数学问题：June made a design with 20 equal tiles. Three tiles are yellow and the number of blue tiles is one more than the number of yellow tiles. Six tiles are purple and the remaining tiles are white.  How many white tiles are there?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

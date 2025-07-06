@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只蚊子每次吸食血液20滴。如果每升血液有5000滴，而你需要失去3升血才会死亡，那么有多少只蚊子需要吸食你的血液才能致命？。",
+  "topic": "回答下面的数学问题：A mosquito sucks 20 drops of blood every time it feeds on someone. If there are 5000 drops per liter and you have to lose 3 liters of blood to die, how many mosquitoes would have to feed on you to kill you?",
   "checkpoint": [
     {
-      "$\\boxed{750}$": 1
+      "\\boxed{750}": 1
     }
   ],
   "matchingmethod": [

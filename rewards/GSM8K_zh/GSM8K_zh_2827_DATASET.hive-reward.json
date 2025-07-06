@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sarah想要开一家杯子蛋糕生意，并且已经获得了一笔商业贷款。如果她在5年内还清全部金额，贷款将不收取任何利息，她决定这样做。如果她首付了10000美元，每月还款600.00美元，她的贷款金额是多少（包括首付）？。",
+  "topic": "回答下面的数学问题：Sarah wants to start a cupcake business and was approved for a business loan.  The loan has 0% interest if she pays the entire amount back in 5 years, which she decides to do.  If she put $10,000 down as a down payment and her monthly payments are $600.00, how much was her loan for (including the down payment)?",
   "checkpoint": [
     {
-      "$\\boxed{46000}$": 1
+      "\\boxed{46000}": 1
     }
   ],
   "matchingmethod": [

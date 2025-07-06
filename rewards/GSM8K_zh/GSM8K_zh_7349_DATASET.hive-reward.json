@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾米昨天骑了12英里。如果她比昨天骑的距离少3英里，那么她两天总共骑了多少英里？。",
+  "topic": "回答下面的数学问题：Amy biked 12 miles yesterday. If she biked 3 miles less than twice as far as yesterday, how many miles did she bike in total in the two days?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

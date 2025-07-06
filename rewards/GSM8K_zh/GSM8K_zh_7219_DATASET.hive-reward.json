@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Adrianna有10块口香糖要和她的朋友分享。没有足够的口香糖给所有朋友，所以她去商店买了3块口香糖。她给了11个朋友口香糖。现在Adrianna有多少块口香糖？。",
+  "topic": "回答下面的数学问题：Adrianna has 10 pieces of gum to share with her friends. There wasn't enough gum for all her friends, so she went to the store to get 3 more pieces of gum. She gave out gum to 11 friends. How many pieces of gum does Adrianna have now?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔留了5块饼干给莎拉，莎拉留下了她9个杯糕的三分之一给迈克尔。莎拉最终有多少个甜点？。",
+  "topic": "回答下面的数学问题：Michael saved 5 of his cookies to give Sarah, who saved a third of her 9 cupcakes to give to Michael. How many desserts does Sarah end up with?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

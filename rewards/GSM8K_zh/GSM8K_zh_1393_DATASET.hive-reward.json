@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cody正在阅读他最喜欢的书系。这个系列总共有54本书。如果Cody在第一周读了6本书，第二周读了3本书，然后之后每周读9本书。Cody需要多少周才能读完整个系列？。",
+  "topic": "回答下面的数学问题：Cody was reading through his favorite book series.  The series was 54 books in total.  If Cody read 6 books the first week, and 3 books the second week and then 9 books every week after that.  How many weeks did it take Cody to read his series?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

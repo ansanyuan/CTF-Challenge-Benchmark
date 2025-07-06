@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛莎为她的三个孙子织冬装。他们是三胞胎，所以尺寸都一样。她想为他们每人织一顶帽子、一条围巾、一件毛衣、一双手套和一双袜子。织一顶帽子需要2团羊毛，一条围巾需要4团，一件毛衣需要12团，一双手套需要1团，一双袜子需要2团。她需要买多少团羊毛？。",
+  "topic": "回答下面的数学问题：Martha is knitting winter wear for her 3 grandchildren. They're triplets, so they're all the same size. She wants to make a hat, scarf, sweater, mittens, and socks for each of them. It takes 2 skeins of wool to make a hat, 4 for a scarf, 12 for a sweater, 1 for a pair of mittens, and 2 for a pair of socks. How many skeins of wool will she need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{63}$": 1
+      "\\boxed{63}": 1
     }
   ],
   "matchingmethod": [

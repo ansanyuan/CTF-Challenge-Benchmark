@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位餐饮承办商被告知为36位客人准备美食热狗。虽然大多数人只会吃一个热狗，但他准备了足够的食物让一半的客人能够吃两个热狗。然而，来了40位客人，每个人都想要第二个热狗。有多少位客人没有得到第二个热狗？。",
+  "topic": "回答下面的数学问题：A food caterer was told to prepare gourmet hot dogs for 36 guests. While most people would only eat one hotdog, he prepared enough for half of the guests to be able to have two hotdogs. However, 40 guests showed up, and everyone wanted a second hotdog. How many guests did not get a second hotdog?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

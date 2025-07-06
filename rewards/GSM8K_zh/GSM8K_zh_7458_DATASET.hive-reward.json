@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克在银行存了88美元。布莱恩存的钱比马克存的钱少40美元，是马克存款金额的五倍。马克在银行存了多少钱？。",
+  "topic": "回答下面的数学问题：Mark deposited $88 in a bank. Bryan deposited $40 less than five times as much as Mark. How much did Mark deposit in the bank?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

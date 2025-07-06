@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：老师告诉班上的学生，如果他们期末考试的平均分至少达到75%，他们可以举办披萨派对。除了威廉之外，每个人都在星期一参加了考试，威廉被允许在星期二参加考试。如果班上有30个人，并且在他参加考试之前的平均分是74%，他需要获得多少分才能确保他们举办披萨派对？。",
+  "topic": "回答下面的数学问题：The teacher told the class that if they averaged at least 75% on their final exam, they could have a pizza party. Everyone took the exam on Monday, except for William, who was allowed to take it on Tuesday. If there are 30 people in the class, and the average before he took the test was a 74%, what score does he have to get to make sure they get to have a pizza party?",
   "checkpoint": [
     {
-      "$\\boxed{94}$": 1
+      "\\boxed{94}": 1
     }
   ],
   "matchingmethod": [

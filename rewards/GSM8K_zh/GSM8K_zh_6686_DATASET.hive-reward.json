@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Heather在Mr. Pizza Inns上班的第一天制作的比Craig多四倍的比萨。在第二天，Heather比Craig的数量少20个比萨。如果Craig在第一天制作了40个比萨，并且比第一天多制作了60个比萨，计算两人在两天内一共制作了多少个比萨。。",
+  "topic": "回答下面的数学问题：Heather made four times as many pizzas as Craig made on their first day at work at Mr. Pizza Inns. On their second day, Heather made 20 fewer pizzas than Craig's number. If Craig made 40 pizzas on their first day and 60 more pizzas on their second day than their first day, calculate the total number of pizzas the two made together in the two days.",
   "checkpoint": [
     {
-      "$\\boxed{380}$": 1
+      "\\boxed{380}": 1
     }
   ],
   "matchingmethod": [

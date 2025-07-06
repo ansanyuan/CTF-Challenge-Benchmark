@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Benjie比Margo大五岁。如果Benjie今年6岁，三年后Margo多大？。",
+  "topic": "回答下面的数学问题：Benjie is five years older than Margo. If Benjie is 6 years old, how old will Margo be in three years?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

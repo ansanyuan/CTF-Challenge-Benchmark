@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：热狗面包以8个一包的形式出售。为了学校的野餐，盖茨先生买了30包热狗面包。他有四个班，每个班有30名学生。盖茨先生的每个学生可以得到多少个热狗面包？。",
+  "topic": "回答下面的数学问题：Hot dog buns come in packages of 8. For the school picnic, Mr. Gates bought 30 packages of hot dog buns. He has four classes with 30 students in each class. How many hot dog buns can each of Mr. Gates' students get?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

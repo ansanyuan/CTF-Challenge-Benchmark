@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Merry照顾了10只小羊。她的兄弟比Merry多照顾了3只小羊。Merry和她的兄弟一共有多少只小羊？。",
+  "topic": "回答下面的数学问题：Merry is taking care of 10 lambs. Her brother takes care of 3 more lambs than Merry. How many lambs do Merry and her brother have?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

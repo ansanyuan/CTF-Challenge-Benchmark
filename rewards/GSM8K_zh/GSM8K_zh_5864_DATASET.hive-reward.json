@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽正在做菠菜蛋挞。她拿了40盎司的生菠菜，煮熟后它的体积变成了初始体积的20%。如果她将菠菜与6盎司奶油奶酪和4盎司鸡蛋混合在一起，蛋挞的总体积是多少？。",
+  "topic": "回答下面的数学问题：Mary is making a spinach quiche. She takes 40 ounces of raw spinach and cooks it until it's 20% of its initial volume. If she mixes the spinach with 6 ounces of cream cheese and 4 ounces of eggs, what is the total volume of the quiche?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

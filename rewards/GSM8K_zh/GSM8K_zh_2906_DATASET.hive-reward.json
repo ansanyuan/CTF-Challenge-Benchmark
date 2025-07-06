@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一支钢笔比橡皮长3厘米，比铅笔短2厘米。考虑到铅笔长12厘米，橡皮、钢笔和铅笔的总长度是多少？。",
+  "topic": "回答下面的数学问题：A pen is longer than the rubber by 3 centimeters, and shorter than the pencil by 2 centimeters. Considering the pencil is 12 centimeters long, what is the total length of the rubber, the pen, and the pencil altogether?",
   "checkpoint": [
     {
-      "$\\boxed{29}$": 1
+      "\\boxed{29}": 1
     }
   ],
   "matchingmethod": [

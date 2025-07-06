@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰尼是一名遛狗员。他一次可以遛3只狗。他每次30分钟的遛狗可以得到15美元，60分钟的遛狗可以得到20美元。约翰尼每天工作4小时。如果他总是遛最多数量的狗，并且每天有6只狗需要60分钟的遛狗，那么他一周工作5天能赚多少钱？。",
+  "topic": "回答下面的数学问题：Johnny is a dog walker. He can walk 3 dogs at once. He gets paid $15 for a 30-minute walk and $20 for a 60-minute walk. Johnny works for 4 hours per day. If he always walks the maximum number of dogs possible and 6 dogs have 60-minute walks per day, how much money does he make in a week where he works 5 days?",
   "checkpoint": [
     {
-      "$\\boxed{1500}$": 1
+      "\\boxed{1500}": 1
     }
   ],
   "matchingmethod": [

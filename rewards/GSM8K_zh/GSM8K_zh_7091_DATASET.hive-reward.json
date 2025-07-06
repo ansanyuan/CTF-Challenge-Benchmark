@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Stacy、Steve和Sylar总共有1100个浆果。Stacy比Steve多4倍的浆果，而Steve比Skylar多两倍的浆果。Stacy有多少个浆果？。",
+  "topic": "回答下面的数学问题：Stacy, Steve and Sylar have 1100 berries total. Stacy has 4 times as many berries as Steve, and Steve has double the number of berries that Skylar has. How many berries does Stacy have?",
   "checkpoint": [
     {
-      "$\\boxed{800}$": 1
+      "\\boxed{800}": 1
     }
   ],
   "matchingmethod": [

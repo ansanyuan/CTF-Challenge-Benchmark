@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：特拉维斯和他的兄弟参加了一场万圣节糖果活动。他们一共收集了68块糖果。活动结束后，他们每人吃了4块糖果。还剩下多少块糖果？。",
+  "topic": "回答下面的数学问题：Travis and his brother joined a trick-or-treat event. They collected 68 pieces of candy altogether. Each of them ate 4 pieces of candy after the event. How many pieces of candy were left?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Heather要缝制150个围裙，用于儿童团队项目。她已经缝制了13个围裙，今天她缝制了三倍于之前的围裙。如果她想要缝制剩下所需围裙数量的一半，她明天应该缝制多少个围裙？。",
+  "topic": "回答下面的数学问题：Heather is going to sew 150 aprons that are to be used for a kiddie crew program. She already was able to sew  13 aprons, and today, she sewed three times as many aprons. How many aprons should she sew tomorrow if she wants to sew half of the remaining number of aprons needed?",
   "checkpoint": [
     {
-      "$\\boxed{49}$": 1
+      "\\boxed{49}": 1
     }
   ],
   "matchingmethod": [

@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：The function $f$ defined by $f(x)= \\frac{ax+b}{cx+d}$ , where $a$ , $b$ , $c$ and $d$ are nonzero real numbers, has the properties $f(19)=19$ , $f(97)=97$ and $f(f(x))=x$ for all values except $\\frac{-d}{c}$ . Find the unique number that is not in the range of $f$ .",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

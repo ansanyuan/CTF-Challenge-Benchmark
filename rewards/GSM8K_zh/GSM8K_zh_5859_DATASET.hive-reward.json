@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marion的自行车价值356美元。Stephanie的自行车价值Marion的两倍。他们两个自行车的总价值是多少？。",
+  "topic": "回答下面的数学问题：Marion’s bike cost $356. Stephanie’s bike is worth twice as much. What is the total price of their bikes?",
   "checkpoint": [
     {
-      "$\\boxed{1068}$": 1
+      "\\boxed{1068}": 1
     }
   ],
   "matchingmethod": [

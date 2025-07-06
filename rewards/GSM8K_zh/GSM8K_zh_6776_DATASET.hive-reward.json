@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Iris的家人正在为她筹划一个惊喜生日派对。派对将包括她的3个叔叔和4个阿姨，他们每个人都有一个儿子和一个女儿，以及她的哥哥和母亲。总共有多少人来参加Iris的生日派对？。",
+  "topic": "回答下面的数学问题：Iris’ family is planning a surprise birthday party for her. The party will include her 3 uncles and 4 aunts who have a son and daughter each as well as her brother and mother. In total, how many people are coming to Iris’ birthday party?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

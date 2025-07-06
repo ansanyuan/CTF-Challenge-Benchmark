@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个木炉子在早上烧了4捆木柴，然后在下午烧了更多。如果一天开始时有10捆木柴，一天结束时有3捆木柴，那么下午烧了多少捆木柴？。",
+  "topic": "回答下面的数学问题：A wood stove burns 4 bundles of wood in the morning, then some more in the afternoon. If there were 10 bundles of wood at the start of the day and 3 bundles of wood at the end of the day, how many bundles of wood were burned in the afternoon?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

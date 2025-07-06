@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Milo正在制作一大块面包，食谱中要求使用磅的鸡蛋而不是数量。他总共需要6磅。他在网上查到一枚鸡蛋重1/16磅。如果他需要6磅的鸡蛋，他应该买多少打？。",
+  "topic": "回答下面的数学问题：Milo is making a giant loaf of bread, and the recipe calls for pounds of eggs instead of telling him the number. He needs 6 pounds in total. He looks up online that an egg weighs 1/16 of a pound. If he needs 6 pounds of eggs, how many dozen should he buy?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

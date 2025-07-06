@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每个黑白曲奇饼干埃尔莎制作时，她必须制作面糊，烘烤饼干15分钟，然后让其冷却。然后她必须将饼干浸入白色糖霜中，并让糖霜硬化30分钟。然后她必须重新将它们浸入巧克力糖霜中，并让其再硬化30分钟。如果她从头到尾制作饼干需要2小时，那么在她开始浸泡之前制作面糊和冷却饼干需要多长时间？。",
+  "topic": "回答下面的数学问题：For every black & white cookie that Elsa makes, she has to make the batter, bake the cookies for 15 minutes and then allow to cool.  She then has to dip the cookies in white icing and allow the icing to harden for 30 minutes. Then she has to re-dip them in chocolate icing and allowed to harden for an additional 30 minutes.  If it takes her 2 hours to make the cookies from start to finish, how long does it take to make the dough and cool the cookies before she can start dipping them?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

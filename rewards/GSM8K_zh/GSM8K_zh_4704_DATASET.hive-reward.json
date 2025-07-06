@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：苏珊娜的历史课本有160页，她的地理课本比历史课本多70页。她的数学课本有前两本书页数之和的一半，她的科学课本有她历史课本页数的两倍。如果苏珊娜把所有课本都叠放在她的书桌上，总共有多少页？。",
+  "topic": "回答下面的数学问题：Suzanna's history textbook has 160 pages and her geography textbook has 70 more pages. Her math textbook has half of the sum of the first two books' pages, and her science textbook has twice the number of pages of her history textbook. If Suzanna stacks all her textbooks on her desk, how many pages would there be in total?",
   "checkpoint": [
     {
-      "$\\boxed{905}$": 1
+      "\\boxed{905}": 1
     }
   ],
   "matchingmethod": [

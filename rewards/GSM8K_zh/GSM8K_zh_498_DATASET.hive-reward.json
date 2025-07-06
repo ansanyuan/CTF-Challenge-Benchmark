@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯最喜欢的篮球运动员的薪水是根据他每周的平均得分来计算的。如果他平均每场比赛得分为30分或更多，他将获得10000美元，如果他平均每场比赛得分低于30分，他将获得8000美元。在上周，他在第一场比赛中得了30分，在第二场比赛中得了28分。在第三场比赛中他得了32分。在第四场比赛中他得了34分，在第五场比赛中他得了26分。他这周能获得多少薪水？。",
+  "topic": "回答下面的数学问题：James's favorite basketball player got paid based on how many points he averaged each week. He gets $10,000 if he averages 30 or more points a game and $8,000 if he averages under 30 points a game. For his last week, in the first game he scored 30 points and in the second game he scored 28 points. In the third game he scored 32 points. In the fourth game he scored 34 points and in the fifth game he scored 26 points. How much does he get paid for the week?",
   "checkpoint": [
     {
-      "$\\boxed{10000}$": 1
+      "\\boxed{10000}": 1
     }
   ],
   "matchingmethod": [

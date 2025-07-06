@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔治是橄榄球队的一名一线队球员。他可以在5秒内跑40码。如果他能提高速度百分之四十，那么他将能在10秒内跑多少码？。",
+  "topic": "回答下面的数学问题：Georgie is a varsity player on a football team. He can run 40 yards within 5 seconds. If he can improve his speed by forty percent, how many yards will he be able to run within 10 seconds?",
   "checkpoint": [
     {
-      "$\\boxed{112}$": 1
+      "\\boxed{112}": 1
     }
   ],
   "matchingmethod": [

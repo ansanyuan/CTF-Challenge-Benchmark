@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个建筑有300个单位。一半单位是住宅，另一半平均分配在办公室和餐馆之间。建筑里有多少家餐馆？。",
+  "topic": "回答下面的数学问题：A building has 300 units. Half the units are residential and the other half are split evenly between offices and restaurants. How many restaurants are there in the building?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

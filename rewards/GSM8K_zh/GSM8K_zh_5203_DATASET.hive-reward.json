@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：里士满高中的零食机每个糖果卖2美元，每袋薯片卖0.5美元。如果5名学生每人都买1个糖果和2袋薯片，他们总共需要多少美元？。",
+  "topic": "回答下面的数学问题：The snack machine at Richmond High School sells candy bars for $2 each and chips for $.50 each. How much money, in dollars, will 5 students need in total if each of them gets 1 candy bar and 2 bags of chips?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

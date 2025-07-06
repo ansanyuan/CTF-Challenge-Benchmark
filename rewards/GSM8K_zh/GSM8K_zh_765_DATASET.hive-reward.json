@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位营养师在午餐时间吃掉了她午餐的四分之三。如果她为午餐准备的食物总共有40卡路里，而FDA推荐的卡路里摄入量是25，她比推荐摄入量多吃了多少卡路里？。",
+  "topic": "回答下面的数学问题：A dietitian ate three-fourths of her lunch during her lunch break. If the total amount of food she had prepared for lunch had 40 calories, and the recommended calorie intake by the FDA is 25, how many more calories than the recommended amount did she eat?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

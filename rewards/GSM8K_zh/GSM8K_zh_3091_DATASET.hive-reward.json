@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：OpenAI举办了一个机器人比赛，限制了每个机器人的重量。每个机器人的重量不能超过最小重量的两倍，也不能少于标准机器人的重量增加5磅。标准机器人的重量为100磅。比赛中机器人的最大重量是多少？。",
+  "topic": "回答下面的数学问题：OpenAI runs a robotics competition that limits the weight of each robot. Each robot can be no more than twice the minimum weight and no less than 5 pounds heavier than the standard robot. The standard robot weighs 100 pounds. What is the maximum weight of a robot in the competition?",
   "checkpoint": [
     {
-      "$\\boxed{210}$": 1
+      "\\boxed{210}": 1
     }
   ],
   "matchingmethod": [

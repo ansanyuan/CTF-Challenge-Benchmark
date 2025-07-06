@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Melony每次卖出3件衬衫就能赚21美元的利润，而卖出两双凉鞋时的利润是卖出3件衬衫的四倍。如果她卖出7件衬衫和3双凉鞋，她将赚多少利润？。",
+  "topic": "回答下面的数学问题：Melony makes $21 of profit every time she sells 3 shirts and four times as much profit when she sells two pairs of sandals. How much profit will she make if she sells 7 shirts and 3 pairs of sandals?",
   "checkpoint": [
     {
-      "$\\boxed{175}$": 1
+      "\\boxed{175}": 1
     }
   ],
   "matchingmethod": [

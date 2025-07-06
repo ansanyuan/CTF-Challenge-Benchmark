@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：去年母亲节，凯尔从花园里摘了一打玫瑰花，但今年，他只能摘到去年数量的一半。如果凯尔想给他妈妈一个比去年多两倍的玫瑰花束，而杂货店一支玫瑰售价为3美元，凯尔需要花多少钱？。",
+  "topic": "回答下面的数学问题：For Mother's Day last year, Kyle picked a dozen roses from his garden, but this year, he was only able to pick half the number of roses. If Kyle wants to give his mother a bouquet with twice as many roses as last year and the grocery store sells one rose for $3, how much would Kyle have to spend?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克鲁兹夫人正在寻找一所不超过40万美元预算的房子。她看中了一处售价为35万美元的房产。除此之外，买家还必须支付销售价格5%的中介费，以及销售价格12%的过户费。房子的总价比克鲁兹夫人的预算多出多少钱？。",
+  "topic": "回答下面的数学问题：Mrs. Cruz is looking for a house that will not go beyond her $400 000 budget. She saw a property that has a selling price of $350 000. On top of that, the buyer has to pay a brokerage fee which is 5% of the selling price, and also the transfer fee that is 12% of the selling price. How much more is the total price of the house than Mrs. Cruz's budget?",
   "checkpoint": [
     {
-      "$\\boxed{9500}$": 1
+      "\\boxed{9500}": 1
     }
   ],
   "matchingmethod": [

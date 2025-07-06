@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：保罗每个星期六都去钓鱼。上周他每钓2小时就能钓到5条鱼。当他钓了12小时时，他一共钓到了多少条鱼？。",
+  "topic": "回答下面的数学问题：Paul goes fishing every Saturday. Last week he was able to catch 5 fish for every 2 hours he was fishing. How many fish did he catch when he was fishing for 12 hours?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

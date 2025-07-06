@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Maria在去公园之前正在给她的充电宝充电，当她断开连接时注意到充电宝还没有充满。一到公园，她的朋友们问她是否可以给他们的手机充电。在给朋友们的手机充电时，她注意到她的充电宝每小时会损失总容量的9%。5小时后，电池开始每小时损失总容量的7%，大约持续了3小时。最后，剩余的电量是28%。Maria出门去公园时充电宝的电量是多少？。",
+  "topic": "回答下面的数学问题：Maria was charging her power bank before going to the park when she disconnected it and noticed the power bank wasn’t fully charged yet. Once at the park, her friends asked her if they could charge their phones. While charging her friends’ phones, she noticed that her power bank was losing 9% of the total capacity each hour. 5 hours later the battery started to lose instead 7% of the total capacity each hour for about 3 hours. In the end, the charge remaining was 28%. What was the charge of the power bank when Maria went out to the park?",
   "checkpoint": [
     {
-      "$\\boxed{94}$": 1
+      "\\boxed{94}": 1
     }
   ],
   "matchingmethod": [

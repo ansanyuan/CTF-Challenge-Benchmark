@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kingsley的老师要求她找四个朋友帮助她把一些椅子搬到学校礼堂，以便用于即将举行的活动。如果每个学生每次搬5把椅子，总共搬了10次，那么搬到礼堂的椅子总数是多少？。",
+  "topic": "回答下面的数学问题：Kingsley's teacher instructed her to find four friends to help her carry some chairs to the school hall to be used for an upcoming event. If each student carried 5 chairs per trip and made 10 trips in total, what's the total number of chairs taken to the hall?",
   "checkpoint": [
     {
-      "$\\boxed{250}$": 1
+      "\\boxed{250}": 1
     }
   ],
   "matchingmethod": [

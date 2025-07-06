@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：康纳带他的约会对象去看电影。每张票的价格是10.00美元。他们决定购买大杯爆米花和两杯饮料的套餐，价格为11.00美元，然后每人买一盒糖果，每盒价格为2.50美元。康纳将在约会上花费多少钱？。",
+  "topic": "回答下面的数学问题：Connor is taking his date to the movies.  The tickets cost $10.00 each.  They decided to get the large popcorn & 2 drink combo meal for $11.00 and each grab a box of candy for $2.50 each.  How much will Connor spend on his date?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

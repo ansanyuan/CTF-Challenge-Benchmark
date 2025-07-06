@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥布里在她的花园里种植番茄和黄瓜。对于每一排番茄植株，她种植2排黄瓜。她总共有足够的空间种植15排植株。每排植株有足够的空间种植8株番茄植株。如果每株植株能产生3个番茄，她总共会有多少个番茄？。",
+  "topic": "回答下面的数学问题：Aubrey is planting tomatoes and cucumbers in her garden. For each row of tomato plants, she is planting 2 rows of cucumbers. She has enough room for 15 rows of plants in total. There is enough space for 8 tomato plants in each row. If each plant produces 3 tomatoes, how many tomatoes will she have in total?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

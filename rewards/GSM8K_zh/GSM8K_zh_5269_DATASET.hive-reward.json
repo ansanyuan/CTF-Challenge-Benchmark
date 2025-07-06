@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Pat的游泳池供应店的游泳池数量是Pat的方舟和运动装店的三倍。如果Pat的方舟和运动装店有200个游泳池，他们总共有多少个游泳池？。",
+  "topic": "回答下面的数学问题：Pat's Pool Supply has three times as many swimming pools as Pat's Ark & Athletic Wear store. If Pat's Ark & Athletic Wear store has 200 pools, how many pools do they have in total?",
   "checkpoint": [
     {
-      "$\\boxed{800}$": 1
+      "\\boxed{800}": 1
     }
   ],
   "matchingmethod": [

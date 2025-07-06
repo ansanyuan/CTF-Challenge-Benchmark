@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：巧克力盒里有200块巧克力。托马斯和他的4个朋友拿走了1/4的巧克力，并决定平均分配给他们。托马斯的一个朋友不太喜欢巧克力，把他的5块巧克力退回到盒子里。后来，他的妹妹派珀回家，拿走的巧克力比托马斯和他的朋友们总共拿走的少5块，这样她也可以和她的朋友分享。盒子里剩下的巧克力总数是多少？。",
+  "topic": "回答下面的数学问题：A chocolate box contains 200 bars. Thomas and his 4 friends take 1/4 of the bars and decide to divide them equally between them. One of Thomas's friends doesn't like chocolate bars very much and returns 5 of his bars to the box. Later, his sister Piper comes home and takes 5 fewer bars than those taken in total by Thomas and his friends so she can also share with her friends. What's the total number of bars left in the box?",
   "checkpoint": [
     {
-      "$\\boxed{110}$": 1
+      "\\boxed{110}": 1
     }
   ],
   "matchingmethod": [

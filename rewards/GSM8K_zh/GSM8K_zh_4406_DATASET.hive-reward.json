@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马特骑自行车离开房子，他总共骑了1000英尺。在路上，他经过了一个距离他的房子350英尺的停车标志。他继续骑行并经过了第二个标志。经过第二个标志后，他又骑了额外的275英尺。第一个和第二个标志之间有多少英尺？。",
+  "topic": "回答下面的数学问题：Matt rode his bike away from the house, he rode a total of 1000 feet.  Along the way, he passed a stop sign that was 350 feet away from his house.  He continued his ride and passed a second sign.  After passing the second sign he road an additional 275 feet.  How many feet are between the first and second signs?",
   "checkpoint": [
     {
-      "$\\boxed{375}$": 1
+      "\\boxed{375}": 1
     }
   ],
   "matchingmethod": [

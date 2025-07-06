@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果工厂里有2台机器每分钟制造10部手机，那么需要多少台机器才能每分钟制造50部手机？。",
+  "topic": "回答下面的数学问题：If 2 machines in a factory make 10 cell phones each minute, how many machines would it take to make 50 cell phones a minute?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

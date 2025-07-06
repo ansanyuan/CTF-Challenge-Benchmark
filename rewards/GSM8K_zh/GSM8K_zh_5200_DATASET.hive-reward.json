@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个州的兽医中有20%推荐Puppy Kibble。30%推荐Yummy Dog Kibble。如果该州有1000名兽医，有多少名兽医比推荐Puppy Kibble更推荐Yummy Dog Kibble？。",
+  "topic": "回答下面的数学问题：20% of the vets in a state recommend Puppy Kibble. 30% recommend Yummy Dog Kibble. If there are 1000 vets in the state, how many more recommend Yummy Dog Kibble than Puppy Kibble?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

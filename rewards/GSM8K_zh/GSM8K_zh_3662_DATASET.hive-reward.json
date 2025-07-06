@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：加比在春天种了一个西瓜藤，一个桃树和两棵李子树。在夏天，这些植物长大并结果。她只长出了一个西瓜，但比那多长出了十二个桃子，以及这个数字的三倍的李子。那个夏天加比摘了多少水果？。",
+  "topic": "回答下面的数学问题：Gabby planted a watermelon vine, a peach tree, and two plum trees in the spring. Over the summer, the plants grew and produced fruit. She only got one watermelon to grow, but she got twelve more peaches than that, and three times that number of plums. How many pieces of fruit did Gabby get to pick that summer?",
   "checkpoint": [
     {
-      "$\\boxed{53}$": 1
+      "\\boxed{53}": 1
     }
   ],
   "matchingmethod": [

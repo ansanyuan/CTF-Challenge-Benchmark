@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carrie想去纽约旅行。她可以在达美航空的850美元机票上获得20%的折扣。她还可以在联合航空的1100美元机票上获得30%的折扣。如果她选择最便宜的机票，她会节省多少钱？。",
+  "topic": "回答下面的数学问题：Carrie wants to take a trip to New York. She can get a 20% discount on an $850 flight with Delta Airlines. She can also save 30% off an $1100 flight with United Airlines. How much money would she save by choosing the cheapest flight?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

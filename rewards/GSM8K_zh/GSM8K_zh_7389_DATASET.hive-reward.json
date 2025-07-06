@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Yella上周使用电脑的时间是91小时。如果她计划本周每天使用电脑8小时，那么她本周使用电脑的时间少了多少？。",
+  "topic": "回答下面的数学问题：Yella's computer usage last week was 91 hours. If she plans to use the computer 8 hours a day for this week, how much less ​is her computer usage for this week?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

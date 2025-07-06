@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克需要穿上鞋，然后帮助他的两个幼儿系鞋带。如果杰克穿鞋需要4分钟，然后每个幼儿系鞋带需要额外三分钟，那么他们准备好需要多长时间？。",
+  "topic": "回答下面的数学问题：Jack needs to put his shoes on, then help both his toddlers tie their shoes. If it takes Jack 4 minutes to put his shoes on, and three minutes longer to help each toddler with their shoes, how long does it take them to get ready?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

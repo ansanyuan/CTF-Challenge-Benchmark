@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：金姆点了一份价值10美元的餐和一杯2.5美元的饮料。她给了20%的小费。她用一张20美元的钞票付款。她会收到多少零钱？。",
+  "topic": "回答下面的数学问题：Kim orders a $10 meal and a drink for 2.5.  She gives a 20% tip.  She pays with a $20 bill.  How much does she get in change?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

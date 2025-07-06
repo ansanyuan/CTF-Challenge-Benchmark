@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Grayson每周通过回收罐头和瓶子来赚钱。一个铝罐值两分钱，一个塑料瓶值三分钱。她每周喝三个铝罐装的苏打水和五个塑料瓶装的水。Grayson在一个四周的月份里，通过回收赚了多少分钱？。",
+  "topic": "回答下面的数学问题：Grayson recycles cans and bottles for money each week. An aluminum can is worth two cents and a plastic bottle is worth three cents. She drinks three aluminum cans of soda and five plastic bottles of water a week. How many cents does Grayson earn from recycling in a four-week month?",
   "checkpoint": [
     {
-      "$\\boxed{84}$": 1
+      "\\boxed{84}": 1
     }
   ],
   "matchingmethod": [

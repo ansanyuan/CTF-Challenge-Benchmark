@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特需要5张票才能玩过山车，需要3张票才能玩巨型滑梯。她想玩过山车7次和巨型滑梯4次，她需要多少张票？。",
+  "topic": "回答下面的数学问题：Janet needs 5 tickets to ride the roller coaster and 3 tickets to ride the giant slide. How many tickets does she need to ride the roller coaster 7 times and the giant slide 4 times?",
   "checkpoint": [
     {
-      "$\\boxed{47}$": 1
+      "\\boxed{47}": 1
     }
   ],
   "matchingmethod": [

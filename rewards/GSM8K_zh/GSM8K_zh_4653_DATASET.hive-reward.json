@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jamie知道一旦她喝了超过32盎司的液体，她就得去洗手间，她的老师说在数学测试期间不能去洗手间。她记得她在午餐时喝了一杯牛奶，在课间休息时喝了一品脱葡萄汁。在测试期间她可以喝多少盎司的水，然后她就得去洗手间？（一杯等于8盎司，一品脱等于16盎司。）。",
+  "topic": "回答下面的数学问题：Jamie knows that once she has any more than 32 ounces of liquid she has to use the bathroom, and her teacher said that no one can use the bathroom during the math test. She remembers that she had a cup of milk at lunch and a pint of grape juice at recess. How many ounces can she drink from her water bottle during the test before she'd have to go to the bathroom? (A cup equals 8 ounces and a pint equals 16 ounces.)",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

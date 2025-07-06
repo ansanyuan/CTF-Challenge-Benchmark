@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Super Soup连锁店在2018年有23家店。2019年，该企业开了5家新店，但关闭了表现最差的2家店。2020年，他们开了10家新店，关闭了表现最差的6家店。到2020年底，Super Soup有多少家店？。",
+  "topic": "回答下面的数学问题：The Super Soup franchise had 23 stores in 2018. In 2019, the business opened 5 new stores, but closed the 2 that performed the worst. And in 2020, they opened 10 new stores, closing the 6 worst-performing. How many stores did Super Soup have at the end of 2020?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

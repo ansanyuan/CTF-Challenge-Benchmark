@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰有一个大的水收集罐。这个罐子可以容纳200加仑的水。空罐重80磅。一场雨把它装满到80%的容量。如果一加仑水重8磅，现在它的重量是多少？。",
+  "topic": "回答下面的数学问题：John has a large water collection tank.  The tank can hold 200 gallons.  It weighs 80 pounds empty.  A rainstorm fills it to 80% of capacity.  If a gallon of water weighs 8 pounds, how much does it weigh now?",
   "checkpoint": [
     {
-      "$\\boxed{1360}$": 1
+      "\\boxed{1360}": 1
     }
   ],
   "matchingmethod": [

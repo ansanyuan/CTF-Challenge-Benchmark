@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉姆花了10000美元买了一枚结婚戒指。他给他的妻子买了一枚价值两倍的戒指，并且以原价的一半出售了第一枚戒指。他的实际支出是多少？。",
+  "topic": "回答下面的数学问题：Jim buys a wedding ring for $10,000.  He gets his wife a ring that is twice that much and sells the first one for half its value.  How much is he out of pocket?",
   "checkpoint": [
     {
-      "$\\boxed{25000}$": 1
+      "\\boxed{25000}": 1
     }
   ],
   "matchingmethod": [

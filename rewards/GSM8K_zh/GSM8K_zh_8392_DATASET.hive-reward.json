@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有6名学生在打网球，打排球的人数是打网球的两倍。有16名男生和22名女生在踢足球。如果每个学生只参加一个小组，那么总共有多少名学生？。",
+  "topic": "回答下面的数学问题：There are 6 students playing tennis and twice that number playing volleyball. There are 16 boys and 22 girls playing soccer. If each student only participates in one group, how many students are there in total?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

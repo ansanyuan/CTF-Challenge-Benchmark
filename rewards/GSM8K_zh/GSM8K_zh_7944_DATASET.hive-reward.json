@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Theo买了一支2美元的笔和一张纸，这张纸的价格比笔的三倍少1美元。她给出纳员10美元。Theo收到了多少零钱？。",
+  "topic": "回答下面的数学问题：Theo bought a pen for $2 and a piece of paper that cost $1 less than three times the price of the pen. She gave the cashier $10. What is the amount of change Theo received?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

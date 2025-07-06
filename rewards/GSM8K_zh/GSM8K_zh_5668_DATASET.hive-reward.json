@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：列昂纳德和他的兄弟迈克尔为他们的父亲买了礼物。列昂纳德买了一个价值50美元的钱包和两双价值每双100美元的运动鞋，而迈克尔买了一个价值100美元的背包和两双价值每双50美元的牛仔裤。他们总共花了多少钱？。",
+  "topic": "回答下面的数学问题：Leonard and his brother Michael bought presents for their father. Leonard bought a wallet at $50 and two pairs of sneakers at $100 each pair, while Michael bought a backpack at $100 and two pairs of jeans at $50 each pair. How much did they spend in all?",
   "checkpoint": [
     {
-      "$\\boxed{450}$": 1
+      "\\boxed{450}": 1
     }
   ],
   "matchingmethod": [

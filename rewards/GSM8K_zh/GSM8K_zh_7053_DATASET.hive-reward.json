@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一小时驾驶的平均速度是每小时66英里。如果费利克斯想要以两倍的速度驾驶4小时，他将会行驶多少英里？。",
+  "topic": "回答下面的数学问题：The average speed for an hour drive is 66 miles per hour. If Felix wanted to drive twice as fast for 4 hours, how many miles will he cover?",
   "checkpoint": [
     {
-      "$\\boxed{528}$": 1
+      "\\boxed{528}": 1
     }
   ],
   "matchingmethod": [

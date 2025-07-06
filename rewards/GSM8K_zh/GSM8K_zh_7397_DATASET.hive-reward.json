@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一瓶750毫升的烈酒售价30.00美元，每瓶有16份。大多数餐馆每份酒收费8.00美元。一家餐馆一瓶烈酒可以赚多少钱？。",
+  "topic": "回答下面的数学问题：A 750 ml bottle of spirits costs $30.00 and has 16 servings per bottle.  Most restaurants will charge $8.00 for one serving.  How much money does a restaurant make on a bottle of spirits?",
   "checkpoint": [
     {
-      "$\\boxed{98}$": 1
+      "\\boxed{98}": 1
     }
   ],
   "matchingmethod": [

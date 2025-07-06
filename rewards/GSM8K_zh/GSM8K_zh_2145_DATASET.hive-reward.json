@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sharon的度假租赁有一台Keurig咖啡机。她将在那里度过40天。她每天早上喝3杯咖啡（3个咖啡豆）。她的咖啡豆一盒有30个，售价8.00美元。她在整个假期上会花费多少钱买咖啡？。",
+  "topic": "回答下面的数学问题：Sharon’s vacation rental has a Keurig coffee machine.  She will be there for 40 days.  She has 3 cups of coffee (3 coffee pods) every morning.  Her coffee pods come 30 pods to a box for $8.00.  How much will she spend on coffee to last her for the entire vacation?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

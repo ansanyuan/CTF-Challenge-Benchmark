@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：目前天空中的卷云的数量是积云的4倍，积云的数量是积雨云的12倍。如果天空中目前有3朵积雨云，那么此刻天空中有多少朵卷云？。",
+  "topic": "回答下面的数学问题：The sky currently has 4 times as many cirrus clouds as cumulus clouds, and 12 times as many cumulus clouds as cumulonimbus clouds.  If the sky currently has 3 cumulonimbus clouds, how many cirrus clouds are in the sky at this moment?",
   "checkpoint": [
     {
-      "$\\boxed{144}$": 1
+      "\\boxed{144}": 1
     }
   ],
   "matchingmethod": [

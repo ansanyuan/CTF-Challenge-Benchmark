@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Oliver有40美元和200个25美分的硬币。如果他给了他妹妹5美元和120个25美分的硬币，他剩下多少钱？。",
+  "topic": "回答下面的数学问题：Oliver has $40 and 200 quarters. If he gives his sister $5 and 120 quarters, how much money in total is he left with?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

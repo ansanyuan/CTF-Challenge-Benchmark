@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每年，梅贝尔得到的硬币数量与她的年龄相同。她总是把这些硬币放在一个存钱罐里，除此之外没有别的。当她七岁时，存钱罐里有多少钱？。",
+  "topic": "回答下面的数学问题：Every year, Mabel gets as many quarters as she is years old. She always puts these and nothing else in a piggy bank. When she turns 7, how much money is in the bank?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

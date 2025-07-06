@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Castle本周买了3盒可可脆片和5盒水果圈圈。上周她买了4盒麦片。她本周比上周多买了多少盒麦片？。",
+  "topic": "回答下面的数学问题：Castle bought 3 boxes of Coco Crunch and 5 boxes of Fruit Loops this week. Last week she bought 4 boxes of cereal. How many more boxes of cereal did she buy this week than last week?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

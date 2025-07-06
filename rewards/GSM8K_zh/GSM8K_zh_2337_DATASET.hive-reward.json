@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Latia想买一台价值1700美元的三星电视。她在一个送货公司工作一个月，每周工作30小时，每小时赚10美元。她还需要再工作多少小时才能买得起这台电视？。",
+  "topic": "回答下面的数学问题：Latia wants to buy a Samsung TV worth $1700. She works for a delivery service company for a month earning $10 per hour for a 30-hour workweek. How many more hours does she have to work to buy the TV?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

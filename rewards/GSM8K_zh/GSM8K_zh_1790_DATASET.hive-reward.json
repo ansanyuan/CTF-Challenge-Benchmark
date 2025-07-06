@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Padma正在和Robert交换卡片。Padma一开始有75张卡片，她用其中2张有价值的卡片交换了Robert的10张卡片。Robert一开始有88张自己的卡片，他又用其中8张卡片交换了Padma的15张卡片。Padma和Robert之间一共交换了多少张卡片？。",
+  "topic": "回答下面的数学问题：Padma is trading cards with Robert. Padma started with 75 cards and traded 2 or her valuable ones for 10 of Robert's cards. Robert started with 88 of his own cards and traded another 8 of his cards for 15 of Padma's cards. How many cards were traded between both Padma and Robert?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

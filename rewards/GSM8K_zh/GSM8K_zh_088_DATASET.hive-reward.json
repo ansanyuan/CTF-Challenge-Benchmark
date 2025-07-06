@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰的奶牛重400磅。它的重量增加到起始重量的1.5倍。他能以每磅3美元的价格出售奶牛。增加重量后它的价值增加了多少？。",
+  "topic": "回答下面的数学问题：John's cow weighs 400 pounds.  It increased its weight to 1.5 times its starting weight.  He is able to sell the cow for $3 per pound.  How much more is it worth after gaining the weight?",
   "checkpoint": [
     {
-      "$\\boxed{600}$": 1
+      "\\boxed{600}": 1
     }
   ],
   "matchingmethod": [

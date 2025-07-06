@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：厨师有60个鸡蛋。他把10个鸡蛋放在冰箱里，然后用剩下的鸡蛋做蛋糕。如果他用5个鸡蛋做一个蛋糕，那么厨师做了多少个蛋糕？。",
+  "topic": "回答下面的数学问题：The chef has 60 eggs. He puts 10 eggs in the fridge and uses the rest to make cakes. If he used 5 eggs to make one cake, how many cakes did the chef make?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

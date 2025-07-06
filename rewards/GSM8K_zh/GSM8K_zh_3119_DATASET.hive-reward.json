@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jason正在努力弄清楚他是否能负担得起一辆新车。他想要的车价值32000美元，他可以支付8000美元的首付。他必须贷款支付其余的金额，并在48个月内进行相等的月付款。每个月，他还必须支付相当于当月付款的5%的利息。Jason的月付款金额是多少？。",
+  "topic": "回答下面的数学问题：Jason is trying to figure out whether he can afford a new car. The car he wants costs $32,000, and he can make a down payment of $8,000. He'll have to get a loan for the rest of the amount and make 48 equal monthly payments on it. Each month, he also has to pay interest equal to 5% of that month's payment. How much will Jason's monthly payments be?",
   "checkpoint": [
     {
-      "$\\boxed{525}$": 1
+      "\\boxed{525}": 1
     }
   ],
   "matchingmethod": [

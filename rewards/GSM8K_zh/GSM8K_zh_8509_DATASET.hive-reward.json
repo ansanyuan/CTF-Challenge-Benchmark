@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：理查德想制作一个视频，在线分享他做的一个科学实验，实验中他把一种特定品牌的糖果放入饮料中，之后会产生一股饮料喷泉。理查德的车道宽24英尺，他想每隔3英尺放置一瓶饮料。从第一瓶开始，理查德需要5秒钟时间从一个饮料瓶走到下一个，边走边丢糖果。理查德总共需要多少秒来引发所有的饮料喷泉？。",
+  "topic": "回答下面的数学问题：Richard wants to make a video to share online of him doing a science experiment that creates a fountain of diet soda after placing a specific branded candy inside it. Richard's driveway is 24 feet wide and he wants to put a bottle of soda every 3 feet of the driveway. After starting at the first bottle, it will take Richard 5 seconds to go from one soda bottle to the next, dropping the candy in. How many seconds total will it take Richard to set off all the soda fountains?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

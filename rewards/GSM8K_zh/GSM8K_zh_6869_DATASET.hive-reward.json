@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂姆每天花1小时冥想。他阅读的时间是冥想时间的两倍。他每周阅读多少时间？。",
+  "topic": "回答下面的数学问题：Tim spends 1 hour a day meditating.  He spends twice as much time reading.  How much time a week does he spend reading?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

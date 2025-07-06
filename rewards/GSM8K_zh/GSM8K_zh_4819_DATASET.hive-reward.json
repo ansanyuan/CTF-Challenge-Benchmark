@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：佩吉有6个玩偶。她的祖母给了佩吉她自己的30个玩偶收藏。一年之内，佩吉在她的生日和圣诞节之间收到了一半数量的玩偶。现在佩吉有多少个玩偶？。",
+  "topic": "回答下面的数学问题：Peggy has 6 dolls.  Her grandmother gives Peggy her own collection of 30 dolls.  Over the year, Peggy receives half that amount of dolls between her birthday and Christmas.  How many dolls does Peggy now have?",
   "checkpoint": [
     {
-      "$\\boxed{51}$": 1
+      "\\boxed{51}": 1
     }
   ],
   "matchingmethod": [

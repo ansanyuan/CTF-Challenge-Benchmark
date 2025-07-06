@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tonya参加了一个汉堡比赛。每个汉堡重4盎司。去年的冠军吃了84盎司。她需要吃多少个汉堡才能超过去年的冠军？。",
+  "topic": "回答下面的数学问题：Tonya is in a hamburger eating contest. Each hamburger is 4 ounces. Last year the winner ate 84 ounces. How many hamburgers does she have to eat to beat last year's winner?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托尼将1000美元存入储蓄账户1年。它赚取20%的利息。然后他取出一半的钱买了一台新电视。第二年，剩下的钱赚取15%的利息。现在账户里有多少钱？。",
+  "topic": "回答下面的数学问题：Tony puts $1,000 in a savings account for 1 year. It earns 20% interest. He then takes out half the money to buy a new TV. The next year, the remaining money earns 15% interest. How much is now in the account?",
   "checkpoint": [
     {
-      "$\\boxed{690}$": 1
+      "\\boxed{690}": 1
     }
   ],
   "matchingmethod": [

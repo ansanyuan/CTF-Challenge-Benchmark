@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在A.T. Cross奢华钢笔公司，一支铅笔售价二十五美分，而一支钢笔售价十五美分。鲍恩从A.T. Cross奢华钢笔公司购买了40支钢笔，比钢笔多了2/5倍的铅笔。计算鲍恩总共花了多少钱。。",
+  "topic": "回答下面的数学问题：At A.T. Cross Luxury Pens, a pencil sells at twenty-five cents while a pen sells at fifteen cents. Bowen buys 40 pens and 2/5 times more pencils than pens from A.T. Cross Luxury Pens. Calculate the total amount of money Bowen spends.",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

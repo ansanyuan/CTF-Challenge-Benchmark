@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bingo有两只狗。它们平均每周一共遛了70英里。第一只狗平均每天遛2英里。另一只狗平均每天遛多少英里？。",
+  "topic": "回答下面的数学问题：Bingo has two dogs. On average, they walk a total of 70 miles a week. The first dog walks an average of 2 miles a day. How many miles a day does the other dog average?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮弗在十年后将年满30岁。那时，她的妹妹乔丹娜将是珍妮弗年龄的三倍。珍妮弗的妹妹现在多大？。",
+  "topic": "回答下面的数学问题：Jennifer will be 30 years old in ten years. At that time, her sister Jordana will be three times as old Jennifer. How old is Jennifer's sister now?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

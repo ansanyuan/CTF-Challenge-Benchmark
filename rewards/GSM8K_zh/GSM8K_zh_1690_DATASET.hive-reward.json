@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：作为自由职业者，贝勒会因为在自由职业市场上完成客户的工作而获得报酬。目前，他的仪表板上有4000美元来自之前完成的工作。他目前正在为三个客户工作，第一个客户在完成工作后会支付他仪表板上当前金额的一半。第二个客户在贝勒完成工作后会支付他比第一个客户多2/5倍的金额。第三个客户在贝勒完成工作后会支付他比第一个和第二个客户加起来的金额的两倍。在所有客户支付他工作后，贝勒的仪表板上会有多少钱？。",
+  "topic": "回答下面的数学问题：As a freelancer, Baylor is paid for every finished work of a client he does on a freelance marketplace. Currently, he has $4000 on his dashboard from previous work done. He is currently working for three clients, with the first client paying him half the amount of money he currently has on his dashboard once the job is done. The second client will pay him 2/5 times more money than the first client once Baylor finishes his work. The third client will pay him twice the amount of money the first and second clients pay him together once he finishes the job. How much money will Baylor have in his dashboard after all the clients pay him for his work?",
   "checkpoint": [
     {
-      "$\\boxed{18400}$": 1
+      "\\boxed{18400}": 1
     }
   ],
   "matchingmethod": [

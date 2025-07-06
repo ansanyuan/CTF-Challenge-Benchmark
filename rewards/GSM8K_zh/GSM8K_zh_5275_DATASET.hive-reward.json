@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆的汽车每加仑可以行驶50英里。他每天开75英里。如果汽油价格是每加仑3美元，他在10天内用了多少钱买汽油？。",
+  "topic": "回答下面的数学问题：Toms car gets 50 miles to the gallon.  He drives 75 miles per day.  If gas is $3 per gallon how much does he spend on gas in 10 days?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在上次学生会选举中，获胜者得到了55%的选票，而失败者得到了剩下的选票。如果学校有2000名学生，但只有25%的学生投票了，获胜者比失败者多得了多少选票？。",
+  "topic": "回答下面的数学问题：In the last student council election, the winner got 55% of the votes and the loser got the rest. If the school has 2000 students, but only 25% of them voted, how many more votes did the winner get than the loser?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

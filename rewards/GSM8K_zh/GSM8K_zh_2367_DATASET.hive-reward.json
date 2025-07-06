@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alyssa在度假时拍了100张照片。她想把它们放在一个有30页的相册里。她可以在前10页上每页放3张照片。然后她可以在接下来的10页上每页放4张照片。如果她想在相册的剩余每页上放相等数量的照片，她每页可以放多少张照片？。",
+  "topic": "回答下面的数学问题：Alyssa took 100 photos on vacation. She wants to put them in a photo album with 30 pages. She can place 3 photos each on the first 10 pages. Then she can place 4 photos each on the next 10 pages. If she wants to put an equal number of photos on each of the remaining pages of the album, how many photos can she place on each page?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

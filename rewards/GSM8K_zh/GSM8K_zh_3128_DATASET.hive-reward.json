@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Matt的年龄是Fem的四倍。目前，Fem11岁。两年后，Matt和Fem的年龄总和是多少？。",
+  "topic": "回答下面的数学问题：Matt is four times as old as Fem. Currently, Fem is 11 years old. In two years, what is the sum of the ages of Matt and Fem?",
   "checkpoint": [
     {
-      "$\\boxed{59}$": 1
+      "\\boxed{59}": 1
     }
   ],
   "matchingmethod": [

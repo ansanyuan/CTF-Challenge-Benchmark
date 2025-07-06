@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗杰利用午餐时间在办公楼里爬楼梯。他可以在30分钟内走2,000步。如果他的每日目标是10,000步，他需要多少分钟才能达到目标？。",
+  "topic": "回答下面的数学问题：Roger uses his lunch break to walk the stairs in his office building.  He can walk 2,000 steps in 30 minutes.  If his daily goal is 10,000 steps, how many minutes will it take him to reach his goal?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Angeli有90个各种各样的糖果。其中三分之一是棒棒糖，其余是糖果手杖。然后她将棒棒糖平均分给男孩们，每个男孩得到3个。然后她将糖果手杖平均分给女孩们，每个女孩得到2个。一共有多少个男孩和女孩？。",
+  "topic": "回答下面的数学问题：Angeli had 90 assorted candies. One-third of the candies were lollipops and the rest were candy canes. She then shared the lollipops equally among the boys such that each boy received 3. She then shared the candy canes equally among the girls such that each received 2. How many boys and girls were given altogether?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

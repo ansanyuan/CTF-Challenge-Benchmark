@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：斯泰西为办公室买了两包打印纸。每包有240张纸。她的办公室每天打印80页的单面文件。打印纸可以供她的办公室使用多少天？。",
+  "topic": "回答下面的数学问题：Stacy bought two packs of printer paper for the office. Each pack has 240 sheets of paper. Her office prints 80 one-page documents per day. How many days will the printer paper last her office?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

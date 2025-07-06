@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰参加了一次为期4天的抗议活动。然后他参加了第二次抗议活动，比第一次长25%。他一共参加了多少天的抗议活动？。",
+  "topic": "回答下面的数学问题：John attends a protest for 4 days.  He then attends a second protest for 25% longer than the first.  How many days did he spend protesting?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

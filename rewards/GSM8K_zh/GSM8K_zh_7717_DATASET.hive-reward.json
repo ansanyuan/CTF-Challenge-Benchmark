@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jason的手机套餐每月有1000分钟。他每天都会和老板通一个15分钟的电话，这个月他还额外打了300分钟电话给其他人。如果这个月有30天，Jason还剩下多少分钟？。",
+  "topic": "回答下面的数学问题：Jason has a phone plan of 1000 minutes per month. Every day he has a 15-minute call with his boss, and he's had 300 extra minutes of call this month to other people. How many minutes does Jason have left if this month has 30 days?",
   "checkpoint": [
     {
-      "$\\boxed{250}$": 1
+      "\\boxed{250}": 1
     }
   ],
   "matchingmethod": [

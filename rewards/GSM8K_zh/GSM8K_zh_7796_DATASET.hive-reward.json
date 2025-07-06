@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jam有三个装满铅笔的盒子和2支散装铅笔，总共有26支铅笔。如果她的妹妹Meg有46支铅笔，Jam和Meg需要多少个盒子来存放她们所有的铅笔？。",
+  "topic": "回答下面的数学问题：Jam has three boxes full of pencils and 2 loose pencils which give a total of 26 pencils. If her sister, Meg, has 46 pencils, how many boxes do Jam and Meg need to store all their pencils?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

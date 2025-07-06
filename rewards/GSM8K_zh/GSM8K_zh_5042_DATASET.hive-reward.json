@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Yanni有5幅绘画，总共占地200平方英尺。其中3幅绘画是5英尺乘5英尺。1幅绘画是10英尺乘8英尺。如果最后一幅绘画高5英尺，宽度是多少？。",
+  "topic": "回答下面的数学问题：Yanni has 5 paintings that combined, take up 200 square feet. 3 of the paintings are 5 feet by 5 feet. 1 painting is 10 feet by 8 feet. If the final painting is 5 feet tall, how wide is it?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：上周四名跑步者总共跑了195英里。卡塔琳娜跑了51英里。托马斯、泰勒和哈丽特都跑了相同的距离。哈丽特跑了多少英里？。",
+  "topic": "回答下面的数学问题：Four runners ran a combined total of 195 miles last week. Katarina ran 51 miles. Tomas, Tyler, and Harriet all ran the same distance. How many miles did Harriet run?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

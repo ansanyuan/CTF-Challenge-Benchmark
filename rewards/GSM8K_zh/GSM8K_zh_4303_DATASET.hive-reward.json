@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家餐厅每天制作的比热狗多40个比萨。如果餐厅每天制作60个热狗，那么它在六月份会制作多少个比萨和热狗？。",
+  "topic": "回答下面的数学问题：A restaurant makes 40 more pizzas than hot dogs every day. If the restaurant makes 60 hot dogs every day, how many pizzas and hot dogs will it make in June?",
   "checkpoint": [
     {
-      "$\\boxed{4800}$": 1
+      "\\boxed{4800}": 1
     }
   ],
   "matchingmethod": [

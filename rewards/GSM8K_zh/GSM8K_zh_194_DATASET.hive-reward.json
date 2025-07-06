@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅洛迪从两个不同的种子包中种植了向日葵。她发现来自A包的向日葵比来自B包的向日葵高20%。如果来自A包的向日葵高192英寸，那么来自B包的向日葵有多高？。",
+  "topic": "回答下面的数学问题：Melody planted sunflowers from two different seed packets. She found that the sunflowers from Packet A were 20% taller than the sunflowers from Packet B. If the sunflowers from Packet A were 192 inches tall, how tall were the sunflowers from Packet B?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

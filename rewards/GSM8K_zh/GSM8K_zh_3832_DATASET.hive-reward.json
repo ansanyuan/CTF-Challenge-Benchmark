@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰瑞为了7月4日购买了48枚鞭炮。一名警察发现并没收了其中的12枚。剩下的鞭炮中有1/6是有问题的。如果杰瑞放了一半的好鞭炮，他放了多少个鞭炮？。",
+  "topic": "回答下面的数学问题：Jerry bought 48 firecrackers for the 4th of July. A police officer discovered and confiscated 12 of them. 1/6 of the remaining ones were defective. If Jerry set off half the good firecrackers, how many firecrackers did he set off?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

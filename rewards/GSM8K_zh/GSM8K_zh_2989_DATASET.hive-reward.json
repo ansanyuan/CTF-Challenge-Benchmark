@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈达萨花了六个小时画了12幅画。如果她再画20幅画，她总共花了多少时间完成所有的画？。",
+  "topic": "回答下面的数学问题：Hadassah took six hours to paint 12 paintings. What would be the total time she's taken to finish all the paintings if she paints 20 more paintings?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

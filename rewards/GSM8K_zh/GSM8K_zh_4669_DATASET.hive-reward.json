@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每周，保罗在工作日晚上有2小时的家庭作业，整个周末有5小时的家庭作业。本周，保罗一周有2个晚上练习，那些晚上无法做任何家庭作业。为了完成本周的家庭作业，他需要在其他晚上平均多少小时的家庭作业？。",
+  "topic": "回答下面的数学问题：Each week, Paul has 2 hours of homework on weeknights and 5 hours for the entire weekend. This week Paul has practice 2 nights out of the week and can't do any homework those nights. How many hours of homework does he have to average for the other nights to get his week's homework done?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

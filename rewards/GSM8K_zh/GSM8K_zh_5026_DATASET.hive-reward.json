@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家专业公司正在招聘一个新职位。他们有两个合格的申请者。第一个申请者将接受42,000美元的薪水，并在第一年为公司赚取93,000美元，但需要额外培训3个月，每月花费1,200美元。第二个申请者不需要培训，在第一年为公司赚取92,000美元，但要求45,000美元的薪水和薪金的1%。减去支付每个候选人的费用，第一年一个候选人比另一个候选人为公司赚取多少美元？。",
+  "topic": "回答下面的数学问题：A professional company is hiring for a new position. They have two qualified applicants. The first applicant will accept a salary of $42000 and make the company $93000 in the first year, but needs 3 months of additional training that costs $1200 a month. The second applicant does not need training and will make the company $92000 in the first year, but is requesting a salary of $45000 and a hiring bonus of 1% of his salary. Less the amount it will cost to pay for each candidate, how many more dollars will one candidate make the company than the other in the first year?",
   "checkpoint": [
     {
-      "$\\boxed{850}$": 1
+      "\\boxed{850}": 1
     }
   ],
   "matchingmethod": [

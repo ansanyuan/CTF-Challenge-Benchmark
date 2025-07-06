@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔希有100颗软糖熊糖果。他决定给他的3个兄弟每人10颗糖果。然后他把剩下的一半糖果给了他最好的朋友。如果他只想吃16颗软糖熊糖果，那么还有多少糖果可以与他人分享？。",
+  "topic": "回答下面的数学问题：Josh had 100 gummy bear candies. He decided to give his 3 siblings 10 candies each. Then he gave half of the remaining candies to his best friend. If he only wants to eat 16 gummy bear candies, how many candies are left to be shared with others?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

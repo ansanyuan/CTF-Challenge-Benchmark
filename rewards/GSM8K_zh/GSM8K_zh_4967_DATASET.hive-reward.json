@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：保罗分别进行了90美元和60美元的两笔银行转账。每笔交易都加收了2%的服务费。如果第二笔交易被撤销（不包括服务费），那么如果在他进行任何转账之前他的账户余额为400美元，那么现在他的账户余额是多少？。",
+  "topic": "回答下面的数学问题：Paul made two bank transfers of $90 and $60 respectively. A service charge of 2% was added to each transaction. If the second transaction was reversed (without the service charge), what is his account balance now if it was $400 before he made any of the transfers?",
   "checkpoint": [
     {
-      "$\\boxed{307}$": 1
+      "\\boxed{307}": 1
     }
   ],
   "matchingmethod": [

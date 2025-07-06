@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每吃一个三明治，山姆会吃四个苹果。如果他每天吃10个三明治，持续一周，他会吃多少个苹果？。",
+  "topic": "回答下面的数学问题：For every sandwich that he eats, Sam eats four apples. If he eats 10 sandwiches every day for one week, how many apples does he eat?",
   "checkpoint": [
     {
-      "$\\boxed{280}$": 1
+      "\\boxed{280}": 1
     }
   ],
   "matchingmethod": [

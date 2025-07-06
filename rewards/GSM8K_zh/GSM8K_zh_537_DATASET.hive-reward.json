@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在烘焙比赛中，投票给独角兽蛋糕的人数是巫婆蛋糕的三倍，而投票给龙蛋糕的人数比投票给巫婆蛋糕的人数多25。如果有7人投票给巫婆蛋糕，总共有多少票？。",
+  "topic": "回答下面的数学问题：In the baking contest, three times as many people voted for the unicorn cake compared to the witch cake, and the number of votes for the dragon cake was 25 more than the number of votes for the witch cake. If 7 people voted for the witch cake, how many votes were cast total?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

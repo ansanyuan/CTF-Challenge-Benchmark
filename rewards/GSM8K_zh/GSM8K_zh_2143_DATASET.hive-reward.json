@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carson正在为各种用途分类海藻。50%的海藻只适合点火。剩下的25%可以被人类食用，其余的用于喂养牲畜。如果Carson收获了400磅的海藻，有多少磅被用于喂养牲畜？。",
+  "topic": "回答下面的数学问题：Carson is sorting seaweed for various uses. 50% of the seaweed is only good for starting fires. 25% of what's left can be eaten by humans, and the rest is fed to livestock. If Carson harvests 400 pounds of seaweed, how many pounds are fed to livestock?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

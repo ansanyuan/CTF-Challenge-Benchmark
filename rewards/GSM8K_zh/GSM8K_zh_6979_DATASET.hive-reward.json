@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有4只狼出去狩猎。狼群中还有额外的16只狼。每只狼每天需要吃8磅的肉，而狼们在接下来的五天不会再狩猎。如果每只鹿包含200磅的肉，每只狼需要杀死多少只鹿？。",
+  "topic": "回答下面的数学问题：There are 4 wolves out hunting for the pack. The pack contains 16 additional wolves. Each wolf needs to eat 8 pounds of meat a day and the wolves won't hunt again for five days. If each deer contains 200 pounds of meat, how many deer does each wolf need to kill?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

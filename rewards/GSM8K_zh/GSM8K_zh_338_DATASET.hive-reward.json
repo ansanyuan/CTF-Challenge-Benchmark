@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个聚会上，据报道有26人喝了葡萄酒，22人喝了苏打水，17人喝了两种饮料。如果每个人可以喝一种或多种饮料，不管报道上说了什么，那么聚会上一共有多少人？。",
+  "topic": "回答下面的数学问题：At a gathering, it was reported that 26 people took wine, 22 people took soda, and 17 people took both drinks. If each person could have taken one or more drinks regardless of what was reported, how many people altogether were at the gathering?",
   "checkpoint": [
     {
-      "$\\boxed{31}$": 1
+      "\\boxed{31}": 1
     }
   ],
   "matchingmethod": [

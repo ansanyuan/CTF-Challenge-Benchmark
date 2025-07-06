@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：共和国大厦比利华德中心多11层。它们总共有35层。共和国大厦有多少层？。",
+  "topic": "回答下面的数学问题：The Chrysler Building has 11 more floors than the Leeward Center. Together they have a total of 35 floors. How many floors does the Chrysler Building have?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

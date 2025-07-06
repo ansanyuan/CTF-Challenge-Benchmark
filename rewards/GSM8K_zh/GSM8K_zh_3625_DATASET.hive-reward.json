@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡车司机的重型半挂卡车每加仑汽油可以行驶3英里。卡车司机需要在一个加油站给他的卡车加油，但希望尽量少地加入燃料以让他到达一个距离90英里的更便宜的加油站。他的油箱已经有12加仑的汽油。卡车司机还需要再加多少加仑的汽油才能让他的半挂卡车到达更便宜的加油站？。",
+  "topic": "回答下面的数学问题：A truck driver’s heavy semi truck can go 3 miles per gallon of gas. The truck driver needs to put gas in his truck at one gas station, but wants to put the minimum amount he needs to get him to a much cheaper gas station 90 miles away. He already has 12 gallons of gas in his tank. How many more gallons does the truck driver need to put in his semi to make it to the cheaper gas station?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

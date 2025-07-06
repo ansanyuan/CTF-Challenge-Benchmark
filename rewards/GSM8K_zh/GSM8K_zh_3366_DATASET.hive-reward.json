@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰买了3件衬衫。每件售价20美元。他还必须支付10%的税。他总共支付了多少钱？。",
+  "topic": "回答下面的数学问题：John buys 3 dress shirts.  They sell for $20 each.  He also has to pay 10% tax on everything.  How much did he pay in total?",
   "checkpoint": [
     {
-      "$\\boxed{66}$": 1
+      "\\boxed{66}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚当每天都去上学。星期一他有6节课，每节课30分钟；星期二他有3节课，每节课1小时；星期三，亚当在学校的时间是星期二的两倍。在这3天里，亚当总共在学校花了多少时间，以小时计？。",
+  "topic": "回答下面的数学问题：Adam goes to school every day. On Monday he had 6 lessons of 30 minutes each, and on Tuesday he had 3 lessons of 1 hour each. On Wednesday, Adam spent twice as much time at school as on Tuesday. How much time in total did Adam spend at school during these 3 days, in hours?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

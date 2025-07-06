@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆购买了20股一支股票，每股价格为3美元。他以每股4美元的价格卖出了其中的10股。剩下的股票最终翻了一番。他赚了多少钱？。",
+  "topic": "回答下面的数学问题：Tom buys 20 shares of a stock that costs $3 each.  He sells 10 of those shares for $4 each.  The rest of the shares end up doubling in value.  How much profit does he make?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

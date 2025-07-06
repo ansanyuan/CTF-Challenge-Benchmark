@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤米在附近跑步，决定计算他看到了多少个车轮。他附近所有的卡车都有4个车轮，他附近所有的汽车也都有4个车轮。如果他看到了12辆卡车和13辆汽车，他看到了多少个车轮？。",
+  "topic": "回答下面的数学问题：Tommy goes for a run around his neighborhood and decides to calculate how many wheels he saw. All the trucks in his neighborhood have 4 wheels and all the cars in his neighborhood also have 4 wheels. If he saw 12 trucks and 13 cars, how many wheels did he see?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

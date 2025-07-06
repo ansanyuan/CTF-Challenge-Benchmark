@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marcy是一名化妆师，同意为她朋友的婚礼化妆。她唯一库存有限的化妆品是唇彩，所以她数了数她需要多少支唇彩。每支唇彩可以涂抹3个人的妆容。Marcy决定带来6个盒唇彩，每个盒子可以装2支唇彩，这正好是她需要的数量。Marcy要给多少人化妆？。",
+  "topic": "回答下面的数学问题：Marcy is a makeup artist and has agreed to do some makeup for her friend's wedding. The only makeup she has limited stock of is lip gloss so she counts how many tubes she needs. Each tube of lip gloss will hold enough lip gloss for 3 people's makeup. Marcy decides to bring 6 tubs of lip gloss, each of which holds 2 tubes of lip gloss, and this will be the exact amount she needs for everyone's makeup. How many people is Marcy painting with makeup?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

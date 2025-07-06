@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Highridge High的学生在问答比赛中每个正确回答问题都会得到2分。如果一个学生在一轮比赛中正确回答了所有问题，那么该学生将额外获得4分奖励。他们一共进行了五轮比赛，每轮有五个问题。如果詹姆斯只错了一个问题，他得了多少分？。",
+  "topic": "回答下面的数学问题：Students at Highridge High earn 2 points for each correct answer during a quiz bowl If a student correctly answers all the questions in a round, the student is awarded an additional 4 point bonus. They played a total of five rounds each consisting of five questions. If James only missed one question, how many points did he get?",
   "checkpoint": [
     {
-      "$\\boxed{66}$": 1
+      "\\boxed{66}": 1
     }
   ],
   "matchingmethod": [

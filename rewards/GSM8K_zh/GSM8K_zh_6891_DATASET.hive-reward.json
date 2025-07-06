@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯托弗、詹姆森和朱恩各自买了一把玩具剑。朱恩的剑比詹姆森的剑长5英寸。詹姆森的剑比克里斯托弗的剑长3英寸。克里斯托弗的剑长15英寸。朱恩的剑比克里斯托弗的剑长多少英寸？。",
+  "topic": "回答下面的数学问题：Christopher, Jameson, and June each bought a toy sword. June's sword is 5 inches longer than Jameson's sword. Jameson's sword is 3 inches longer than twice the length of Christopher's sword. Christopher's sword is 15 inches long. How many inches longer is June's sword than Christopher's sword?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉米要在嘉年华上卖披萨来赚钱。嘉年华只给了他7个小时的时间。他买了一袋22公斤的面粉来做他的披萨，每个披萨需要10分钟来为顾客制作。在7个小时结束时，他发现还剩下一些面粉。已知每个披萨需要0.5公斤的面粉，他可以用剩下的面粉做多少个披萨带回家？。",
+  "topic": "回答下面的数学问题：Jimmy is going to sell pizzas at the carnival to make some money. The carnival only gave him 7 hours to do so. He bought a 22kg sack of flour to make his pizzas and he takes 10 min to make each pizza for the customers. At the end of the 7 hours, he saw some flour was left. Knowing that each pizza needs 0.5kg of flour to make, how many pizzas can he make to bring home with the flour left?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

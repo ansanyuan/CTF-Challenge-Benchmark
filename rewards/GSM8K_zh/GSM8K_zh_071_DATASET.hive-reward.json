@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tim比Martha少30个苹果，Harry比Tim少一半的苹果。如果Martha有68个苹果，Harry有多少个苹果？。",
+  "topic": "回答下面的数学问题：Tim has 30 less apples than Martha, and Harry has half as many apples as Tim. If Martha has 68 apples, how many apples does Harry have?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

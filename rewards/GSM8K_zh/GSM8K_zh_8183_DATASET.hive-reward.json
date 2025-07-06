@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个冰淇淋工厂在2小时内可以制作100夸脱巧克力冰淇淋。它在4小时内可以制作50夸脱香草冰淇淋。在48小时内总共可以制作多少夸脱冰淇淋？。",
+  "topic": "回答下面的数学问题：An ice cream factory makes 100 quarts of chocolate ice cream in 2 hours.  It can make 50 quarts of vanilla ice cream in 4 hours.  How many quarts in total would be made in 48 hours?",
   "checkpoint": [
     {
-      "$\\boxed{3000}$": 1
+      "\\boxed{3000}": 1
     }
   ],
   "matchingmethod": [

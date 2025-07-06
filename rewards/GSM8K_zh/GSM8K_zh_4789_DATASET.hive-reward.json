@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Fran的学校刚刚实行了校服政策。每个学生需要购买五套完整的校服，每套包括裤子、衬衫、领带和袜子。裤子的价格为20美元，衬衫的价格是裤子的两倍，领带的价格是衬衫的五分之一，袜子的价格是3美元/双。每个学生需要花费多少美元？。",
+  "topic": "回答下面的数学问题：Fran's school just instituted a school uniform policy. Each student needs to buy five complete uniforms, each consisting of pants, shirt, tie and socks. The pants cost $20, the shirt costs twice as much as the pants, the tie costs 1/5 as much as the shirt and the socks cost $3/pair. How many dollars will each student need to spend?",
   "checkpoint": [
     {
-      "$\\boxed{355}$": 1
+      "\\boxed{355}": 1
     }
   ],
   "matchingmethod": [

@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Pyramid $OABCD$ has square base $ABCD,$ congruent edges $\\overline{OA}, \\overline{OB}, \\overline{OC},$ and $\\overline{OD},$ and $\\angle AOB=45^\\circ.$ Let $\\theta$ be the measure of the dihedral angle formed by faces $OAB$ and $OBC.$ Given that $\\cos \\theta=m+\\sqrt{n},$ where $m_{}$ and $n_{}$ are integers, find $m+n.$",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

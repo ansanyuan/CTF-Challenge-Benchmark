@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮正在做一个学校项目。她花了10个小时做项目的研究和2个小时写提案。如果她总共有20个小时来完成这个项目，她还剩下多少小时来写报告？。",
+  "topic": "回答下面的数学问题：Jenny is working on a school project. She spends 10 hours doing research for the project and 2 hours writing a proposal. If she has 20 hours total to work on the project, how many hours does she have left to write her report?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

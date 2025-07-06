@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alexa度假了3/4的时间，以太恩学会12个击剑技巧所花费的时间。乔伊花了学习游泳的时间是以太恩学习时间的一半。如果Alexa度假了一周零两天，那么乔伊学会游泳花了多少天？。",
+  "topic": "回答下面的数学问题：Alexa was on vacation for 3/4ths of the time it took Ethan to learn 12 fencing tricks. Joey spent half as much this time (that Ethan spent learning the tricks) learning to swim. If Alexa spent a week and 2 days on vacation, how many days did it take Joey to learn swimming?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

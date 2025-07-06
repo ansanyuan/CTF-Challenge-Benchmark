@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰有20美元。他花了五分之一的钱买零食，剩下的钱的四分之三用于必需品。约翰还剩下多少钱？。",
+  "topic": "回答下面的数学问题：John had $20. He spent 1/5 of his money on snacks and 3/4 of the remaining money on necessities. How much is left of John's money?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

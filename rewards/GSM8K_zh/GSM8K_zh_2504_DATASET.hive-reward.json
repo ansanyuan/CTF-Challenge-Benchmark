@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alden在十年前有50个侄子。这是Alden现在拥有侄子数量的一半。如果Vihaan现在比Alden多60个侄子，那么两人总共有多少个侄子？。",
+  "topic": "回答下面的数学问题：Alden had 50 nephews ten years ago. This is half the number of nephews Alden has now. If Vihaan has 60 more nephews than Alden now, how many nephews do the two have altogether?",
   "checkpoint": [
     {
-      "$\\boxed{260}$": 1
+      "\\boxed{260}": 1
     }
   ],
   "matchingmethod": [

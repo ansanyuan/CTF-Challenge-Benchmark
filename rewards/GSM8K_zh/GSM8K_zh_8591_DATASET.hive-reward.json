@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：灯塔上的灯在5分钟内闪烁255次。灯闪烁459次需要多长时间？。",
+  "topic": "回答下面的数学问题：The light on a lighthouse blinks 255 times in 5 minutes. How long will it take the light to blink 459 times?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

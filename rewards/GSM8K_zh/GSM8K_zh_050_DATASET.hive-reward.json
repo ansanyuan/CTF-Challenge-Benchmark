@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一次到海滨的学校旅行中，艾伦和他的朋友们收集了贝壳。艾伦收集的贝壳数量是本的四倍。本开始得晚，只收集了劳瑞的三分之一。如果劳瑞收集了36个贝壳，那么艾伦收集了多少个？。",
+  "topic": "回答下面的数学问题：On a school trip to the seashore, Alan and his friends collected shells. Alan collected four times as many shells as Ben did. Ben got a late start and only collected a third of what Laurie did. If Laurie collected 36 shells how many did Alan collect?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

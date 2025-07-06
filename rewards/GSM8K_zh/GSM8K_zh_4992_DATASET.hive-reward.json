@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：六月正在竞选班长。她需要超过50%的选票才能赢得选举。学校有200名学生。60%的学生是男生，其余是女生。如果她获得男生选票的67.5%，她必须获得女生选票的最小百分比才能赢得选举是多少？。",
+  "topic": "回答下面的数学问题：June is running for class president.  She needs just over 50% of the vote to win.  There are 200 students in the school.  60% of students are boys and the rest are girls.  If she receives 67.5% of male vote, what is the smallest percentage of the female she must receive to win the election?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个观鸟者记录他每天看到的鸟的数量。一个星期一他看到70只鸟。星期二他看到的鸟的数量是星期一的一半。星期三他看到的鸟比星期二多8只。观鸟者从星期一到星期三总共看到了多少只鸟？。",
+  "topic": "回答下面的数学问题：A bird watcher records the number of birds he sees each day.  One Monday he sees 70 birds.  On Tuesday he sees half as many birds as he did on Monday.  On Wednesday he sees 8 more birds than he did on Tuesday.  How many total birds did the bird watcher see from Monday to Wednesday?",
   "checkpoint": [
     {
-      "$\\boxed{148}$": 1
+      "\\boxed{148}": 1
     }
   ],
   "matchingmethod": [

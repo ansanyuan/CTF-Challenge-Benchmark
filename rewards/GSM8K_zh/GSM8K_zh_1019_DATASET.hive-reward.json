@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗恩是一个书籍俱乐部的成员，该俱乐部允许每个成员轮流每周挑选一本新书。俱乐部由三对夫妇和五个单身人士以及罗恩和他的妻子组成。罗恩每年有多少次可以挑选一本新书？。",
+  "topic": "回答下面的数学问题：Ron is part of a book club that allows each member to take a turn picking a new book every week. The club is made up of three couples and five single people along with Ron and his wife. How many times a year does Ron get to pick a new book?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

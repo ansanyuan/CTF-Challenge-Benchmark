@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：理查德和莎拉以他们目前的节奏需要3年的时间才能存够购房首付。如果房子的首付是108000美元，计算每个人每月存款金额，如果他们分享每月的存款。。",
+  "topic": "回答下面的数学问题：It will take Richard and Sarah 3 years to save enough for a down payment on a house at their current rates. If the house's downpayment is $108000, calculate the amount each person saves per month if they share the monthly savings.",
   "checkpoint": [
     {
-      "$\\boxed{1500}$": 1
+      "\\boxed{1500}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：停车场里有80辆车。午餐时间，有13辆车离开了停车场，但进入的车比离开的车多5辆。现在停车场里有多少辆车？。",
+  "topic": "回答下面的数学问题：There were 80 cars in a parking lot. At lunchtime, 13 cars left the parking lot but 5 more cars went in than left. How many cars are in the parking lot now?",
   "checkpoint": [
     {
-      "$\\boxed{85}$": 1
+      "\\boxed{85}": 1
     }
   ],
   "matchingmethod": [

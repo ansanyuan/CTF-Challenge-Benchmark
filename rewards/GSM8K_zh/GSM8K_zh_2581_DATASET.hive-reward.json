@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉莉安有80个橙子，她买来送给她的朋友。她把每个橙子分成十等份，每个朋友得到四份。有多少个朋友？。",
+  "topic": "回答下面的数学问题：Jillian had 80 oranges which she had bought to give to her friends. She divided each orange into ten equal pieces for each friend to get four pieces. How many friends were there?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

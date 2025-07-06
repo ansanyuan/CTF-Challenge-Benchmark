@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：诺拉家附近的停车场有4层高。每层有100个停车位。第一层有58个空余停车位。第二层比第一层多2个空余停车位，第三层比第二层多5个空余停车位。第四层有31个空余停车位。总共有多少个满的停车位？。",
+  "topic": "回答下面的数学问题：A parking garage near Nora's house is 4 stories tall. There are 100 spots per level. There are 58 open parking spots on the first level. There are 2 more open parking spots on the second level than on the first level, and there are 5 more open parking spots on the third level than on the second level. There are 31 open parking spots on the fourth level. How many full parking spots are there in all?",
   "checkpoint": [
     {
-      "$\\boxed{186}$": 1
+      "\\boxed{186}": 1
     }
   ],
   "matchingmethod": [

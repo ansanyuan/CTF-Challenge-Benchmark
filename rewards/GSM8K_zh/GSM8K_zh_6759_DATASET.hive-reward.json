@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Eric花了2个小时从他的4面墙的餐厅中的一面墙上除掉墙纸。他还需要从他的4面墙的客厅中除掉墙纸。他需要多少小时来除掉剩下的墙纸？。",
+  "topic": "回答下面的数学问题：Eric spent 2 hours removing wallpaper from just 1 wall of his 4 walled dining room.  He also needs to remove wallpaper from his 4 walled living room.  How many hours will it take him to remove the remaining wallpaper?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

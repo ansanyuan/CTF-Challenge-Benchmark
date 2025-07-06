@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克逊收集了45只寄居蟹，每只寄居蟹有3个螺旋壳，每个螺旋壳有2只海星。他总共收集了多少个纪念品？。",
+  "topic": "回答下面的数学问题：Jackson collects 45 hermit crabs, 3 spiral shells per hermit crab, and 2 starfish per spiral shell. How many souvenirs does he collect total?",
   "checkpoint": [
     {
-      "$\\boxed{450}$": 1
+      "\\boxed{450}": 1
     }
   ],
   "matchingmethod": [

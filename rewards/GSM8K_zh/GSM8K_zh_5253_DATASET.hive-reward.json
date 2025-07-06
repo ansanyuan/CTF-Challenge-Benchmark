@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一所学校对家长们关于孩子们的在线课程体验进行了调查。15%的受访者评价为优秀；60%评价为非常满意；剩下的受访者中80%评价为满意，其余的评价为需要改进。如果有120位家长参与了调查，有多少位家长评价为需要改进？。",
+  "topic": "回答下面的数学问题：A survey was conducted by a school to the parents about their children's online class experience. Fifteen percent of the respondents rated Excellent; 60% rated Very Satisfactory; 80% of the remaining respondents rated Satisfactory and the rest rated Needs Improvement. If 120 parents answered the survey, how many of them rated Needs Improvement?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

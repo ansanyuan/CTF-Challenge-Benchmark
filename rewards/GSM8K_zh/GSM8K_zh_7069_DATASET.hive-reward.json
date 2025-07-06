@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯得到了3张停车罚单。前两张每张150美元，第三张的费用是其中一张的1/3。他的室友同意支付一半的费用。如果他银行里有500美元，他还剩多少钱？。",
+  "topic": "回答下面的数学问题：James gets 3 parking tickets.  The first 2 cost $150 each and the third cost 1/3 as much as one of these.  His roommate agrees to pay half the cost.  How much money does he have left if he had $500 in the bank?",
   "checkpoint": [
     {
-      "$\\boxed{325}$": 1
+      "\\boxed{325}": 1
     }
   ],
   "matchingmethod": [

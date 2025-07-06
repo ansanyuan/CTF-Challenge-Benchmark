@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：图书馆有一架100本历史小说的收藏，摆放在书架上。有5个人在某一天从书架上借了每人2本书，第二天又有20本书从书架上借出。第二天之后书架上剩下多少本书？。",
+  "topic": "回答下面的数学问题：A library has a collection of 100 historical novels arranged on a shelf. 5 people borrow 2 books each from the shelf on a particular day,  and 20 more books are borrowed from the shelf on the second day. How many books are remaining on the shelf after the second day?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

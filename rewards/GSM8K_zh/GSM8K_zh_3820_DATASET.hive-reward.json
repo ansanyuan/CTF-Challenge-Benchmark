@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝基的珠宝收藏中有50条项链。其中3条项链的珠子坏了，所以她收集了未坏的珠子用于手工制作，并丢掉了这3条项链的其他部分。贝基那周买了5条新项链。她决定把她旧的15条项链送给她的朋友作为礼物。她现在有多少条项链？。",
+  "topic": "回答下面的数学问题：Becky has 50 necklaces in her jewelry collection. 3 of the necklaces have broken beads so she collects the unbroken beads for crafting and throws the other parts of the 3 the necklaces out. Becky buys 5 new necklaces that week. She decides to give 15 of her old necklaces to her friends as gifts. How many necklaces does she own now?",
   "checkpoint": [
     {
-      "$\\boxed{37}$": 1
+      "\\boxed{37}": 1
     }
   ],
   "matchingmethod": [

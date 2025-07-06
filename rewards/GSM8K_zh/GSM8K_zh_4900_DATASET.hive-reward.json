@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Robin想给她的朋友买果冻手镯。她决定为每个朋友的名字的第一个字母买一条手镯。她的朋友是Jessica，Tori，Lily和Patrice。如果每条果冻手镯的价格是2美元，她总共将花费多少美元？。",
+  "topic": "回答下面的数学问题：Robin wants to buy jelly bracelets for her friends. She decides to buy one bracelet for each letter of the first name of her friends. Her friends are Jessica, Tori, Lily and Patrice. If each jelly bracelet costs $2, what is the total she will spend in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

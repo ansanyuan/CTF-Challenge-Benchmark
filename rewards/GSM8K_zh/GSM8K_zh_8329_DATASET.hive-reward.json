@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：我比我的哥哥小三岁，比我的妹妹大两岁。我妈妈的年龄比我哥哥的年龄少一岁的三倍。当你把我们所有人的年龄加起来，你得到87岁。我多大了？。",
+  "topic": "回答下面的数学问题：I am three years younger than my brother, and I am 2 years older than my sister. My mom's age is one less than three times my brother's age. When you add all our ages, you get 87. How old am I?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

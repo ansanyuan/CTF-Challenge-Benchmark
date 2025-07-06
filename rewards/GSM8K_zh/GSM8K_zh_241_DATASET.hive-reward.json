@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯特买了7包红色弹力球和6包黄色弹力球。每包里有18个弹力球。凯特买了多少个比黄色弹力球多的红色弹力球？。",
+  "topic": "回答下面的数学问题：Kate bought 7 packs of red bouncy balls and 6 packs of yellow bouncy balls. Each pack contained 18 bouncy balls. How many more red bouncy balls than yellow bouncy balls did Kate buy?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cara，Janet和Jerry拥有的金额比例为4:5:6。如果他们总共拥有的金额是75美元，计算Cara和Janet结合他们的钱购买橙子并以购买价格的80%出售的损失。。",
+  "topic": "回答下面的数学问题：The ratio of the amount of money Cara, Janet, and Jerry have is 4:5:6. If the total amount of money they have is $75, calculate the loss Cara and Janet will make if they combine their money to buy oranges and sell them at 80% of the buying price.",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

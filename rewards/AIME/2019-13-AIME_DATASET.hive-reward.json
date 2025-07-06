@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Regular octagon $A_1A_2A_3A_4A_5A_6A_7A_8$ is inscribed in a circle of area $1.$ Point $P$ lies inside the circle so that the region bounded by $\\overline{PA_1},\\overline{PA_2},$ and the minor arc $\\widehat{A_1A_2}$ of the circle has area $\\tfrac{1}{7},$ while the region bounded by $\\overline{PA_3},\\overline{PA_4},$ and the minor arc $\\widehat{A_3A_4}$ of the circle has area $\\tfrac{1}{9}.$ There is a positive integer $n$ such that the area of the region bounded by $\\overline{PA_6},\\overline{PA_7},$ and the minor arc $\\widehat{A_6A_7}$ of the circle is equal to $\\tfrac{1}{8}-\\tfrac{\\sqrt2}{n}.$ Find $n.$",
   "checkpoint": [
     {
-      "$\\boxed{504}$": 1
+      "\\boxed{504}": 1
     }
   ],
   "matchingmethod": [

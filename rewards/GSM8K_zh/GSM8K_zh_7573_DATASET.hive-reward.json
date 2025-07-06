@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mary是一个热心的园丁。昨天，她从她最喜欢的植物苗圃收到了18盆新的盆栽植物。她在她宽敞的乡村家中每个窗台上已经有2盆植物，共有40个窗台。感到慷慨的她决定明天将每个窗台上的一盆植物送给朋友和家人。Mary剩下多少盆植物？。",
+  "topic": "回答下面的数学问题：Mary is an avid gardener. Yesterday, she received 18 new potted plants from her favorite plant nursery. She already has 2 potted plants on each of the 40 window ledges of her large country home. Feeling generous, she has decided that she will give 1 potted plant from each ledge to friends and family tomorrow. How many potted plants will Mary remain with?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂姆在中餐外卖上花了50.00美元。其中80%的费用用于4份主菜。剩下的钱用于两份开胃菜，每份价格相同。一份开胃菜的价格是多少？。",
+  "topic": "回答下面的数学问题：Tim spent $50.00 on Chinese take-out.  80% of the cost went to 4 entrees.  The rest of the money went to 2 appetizers that each cost the same amount.  How much was the price of a single appetizer?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

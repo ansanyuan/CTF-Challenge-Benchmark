@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：埃里克把150支彩色铅笔分成5个容器给他的美术课。上课前，另一位老师给了他30支铅笔。现在他能均匀地把它们分配到五个容器中吗？。",
+  "topic": "回答下面的数学问题：Eric sorted 150 colored pencils into 5 containers for his art class. Before class, another teacher brought him 30 more pencils. How many can he evenly distribute between the five containers now?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

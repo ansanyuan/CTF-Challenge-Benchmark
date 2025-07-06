@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：女童子军通过出售美味的饼干总共赚了30美元。她们想去游泳池。每人的门票费用是2.50美元，共有10人去。还剩下多少钱？。",
+  "topic": "回答下面的数学问题：The girl scouts earned $30 total from selling delicious cookies. They want to go to the pool. It will cost them $2.50 per person to go and 10 people are going. What is the amount left?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

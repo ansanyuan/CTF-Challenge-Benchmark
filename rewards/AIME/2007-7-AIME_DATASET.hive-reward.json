@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Given a real number $x,$ let $\\lfloor x \\rfloor$ denote the greatest integer less than or equal to $x.$ For a certain integer $k,$ there are exactly $70$ positive integers $n_{1}, n_{2}, \\ldots, n_{70}$ such that $k=\\lfloor\\sqrt[3]{n_{1}}\\rfloor = \\lfloor\\sqrt[3]{n_{2}}\\rfloor = \\cdots = \\lfloor\\sqrt[3]{n_{70}}\\rfloor$ and $k$ divides $n_{i}$ for all $i$ such that $1 \\leq i \\leq 70.$ Find the maximum value of $\\frac{n_{i}}{k}$ for $1\\leq i \\leq 70.$",
   "checkpoint": [
     {
-      "$\\boxed{553}$": 1
+      "\\boxed{553}": 1
     }
   ],
   "matchingmethod": [

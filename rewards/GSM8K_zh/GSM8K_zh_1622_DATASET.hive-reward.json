@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一家咖啡馆，早餐盘有两个鸡蛋和两倍于鸡蛋数量的培根条。如果有14位顾客点了早餐盘，厨师需要煎多少根培根条？。",
+  "topic": "回答下面的数学问题：At a cafe, the breakfast plate has two eggs and twice as many bacon strips as eggs.  If 14 customers order breakfast plates, how many bacon strips does the cook need to fry?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

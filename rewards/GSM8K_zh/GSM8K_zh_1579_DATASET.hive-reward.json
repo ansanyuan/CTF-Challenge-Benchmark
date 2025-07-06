@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三把塑料椅的价格等于一个便携式桌子的价格。五把塑料椅的价格是55美元。如果曼尼想买一个便携式桌子和两把椅子，他的100美元会剩下多少？。",
+  "topic": "回答下面的数学问题：Three plastic chairs cost as much as a portable table. Five plastic chairs cost $55. If Manny wants to buy one portable table and two chairs, how much will be left in his $100?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

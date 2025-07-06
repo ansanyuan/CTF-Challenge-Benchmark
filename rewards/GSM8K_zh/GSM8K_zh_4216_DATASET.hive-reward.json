@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰决定学习插画。他画了10幅图画。他每幅图画需要2小时，然后上色需要少30%的时间。他一共花了多少时间画所有的图画？。",
+  "topic": "回答下面的数学问题：John decides to take up illustration.  He draws and colors 10 pictures.  It takes him 2 hours to draw each picture and 30% less time to color each picture.  How long does he spend on all the pictures?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

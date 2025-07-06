@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jameson有20枚奖牌。其中5枚是田径奖牌。他有游泳奖牌的数量是田径奖牌数量的两倍。其余的奖牌是羽毛球奖牌。他有多少枚羽毛球奖牌？。",
+  "topic": "回答下面的数学问题：Jameson has 20 medals. Five of the medals are for the track. He has two times as many swimming medals as track medals. The rest of the medals are for badminton. How many badminton medals does he have?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

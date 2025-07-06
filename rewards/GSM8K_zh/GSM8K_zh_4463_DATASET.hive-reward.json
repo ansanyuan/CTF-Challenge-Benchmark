@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰每个重1.5磅的肥皂，每磅0.5美元，他买了20块肥皂。他在肥皂上花了多少钱？。",
+  "topic": "回答下面的数学问题：John buys 20 bars of soap each weighing 1.5 pounds for $.5 per pound.  How much money did he spend on soap?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

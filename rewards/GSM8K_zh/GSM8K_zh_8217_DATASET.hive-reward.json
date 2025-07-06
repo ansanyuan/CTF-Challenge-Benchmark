@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mara在已经有2片蛋糕的盘子上又加了3片。她越来越饿，所以她将目前的蛋糕片数增加了两倍。她吃掉了2片，当她分心的时候，她的朋友从盘子上偷走了5片。盘子上剩下多少片蛋糕？。",
+  "topic": "回答下面的数学问题：Mara added 3 slices of cake to a plate that already had 2 slices on it. She was getting hungrier so she tripled the number of slices she currently has. She ate 2 slices and while she was distracted, her friend stole 5 slices off her plate. What number of cake slices remained on the plate?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

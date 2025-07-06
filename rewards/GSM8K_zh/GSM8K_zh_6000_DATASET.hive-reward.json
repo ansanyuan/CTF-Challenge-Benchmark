@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卢克拿的葡萄口味软糖豆比香草口味软糖豆多五十个。如果有120颗香草口味软糖豆，总共有多少颗软糖豆？。",
+  "topic": "回答下面的数学问题：Luke takes fifty more than five times as many grape jelly beans as vanilla jelly beans. If there are 120 vanilla jelly beans, how many jelly beans are there in total?",
   "checkpoint": [
     {
-      "$\\boxed{770}$": 1
+      "\\boxed{770}": 1
     }
   ],
   "matchingmethod": [

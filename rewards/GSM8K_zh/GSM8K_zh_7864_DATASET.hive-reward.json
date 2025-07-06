@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莫妮卡正在包装圣诞礼物。她有6份礼物要给家人包装，4份礼物要给朋友包装，还有2份礼物要给老师包装。她有144英寸的丝带，想用它为每份礼物做一个蝴蝶结。她可以为每个礼物蝴蝶结使用多少英寸的丝带？。",
+  "topic": "回答下面的数学问题：Monica is wrapping Christmas gifts. She has 6 gifts to wrap for her family, 4 gifts to wrap for her friends and 2 gifts to wrap for her teachers. She has 144 inches of ribbon and wants to make a bow for each gift with it. How many inches of ribbon can she use for each gift bow?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

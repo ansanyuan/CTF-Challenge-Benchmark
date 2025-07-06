@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sarah正在为她的家人买圣诞礼物。她开始购物时有一定金额的钱。她为她的儿子们每个买了2辆玩具车，每辆11美元。她为她的母亲买了一条10美元的围巾。然后她为她的兄弟买了一顶14美元的毛线帽。如果她购买毛线帽后还剩下7美元，她最初有多少钱？。",
+  "topic": "回答下面的数学问题：Sarah is buying Christmas presents for her family. She starts her shopping with a certain amount of money. She buys 2 toy cars for $11 each for her sons. She buys a scarf for $10 for her mother. Then she buys a beanie for $14 for her brother. If she has $7 remaining after purchasing the beanie, how much money did she start with?",
   "checkpoint": [
     {
-      "$\\boxed{53}$": 1
+      "\\boxed{53}": 1
     }
   ],
   "matchingmethod": [

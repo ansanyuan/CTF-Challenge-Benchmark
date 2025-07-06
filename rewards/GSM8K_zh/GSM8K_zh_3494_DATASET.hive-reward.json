@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：加里数了他两只猫脸上的胡须数量。公主泡芙有14根胡须，而猫超人的胡须数量是公主泡芙的两倍减去6。猫超人有多少根胡须？。",
+  "topic": "回答下面的数学问题：Gary counted the number of whiskers on the faces of his two cats.  Princess Puff has 14 whiskers, while Catman Do has 6 less than twice the number of whiskers as Princess puff.  How many whiskers does Catman Do have?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

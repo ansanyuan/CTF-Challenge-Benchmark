@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一开始有一些雪花。每5分钟额外下了4片雪花。如果1小时后有58片雪花，一开始有多少片雪花？。",
+  "topic": "回答下面的数学问题：There were some snowflakes at first. It snowed an additional 4 snowflakes every 5 minutes. If there were 58 snowflakes after 1 hour, how many snowflakes were there at first?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

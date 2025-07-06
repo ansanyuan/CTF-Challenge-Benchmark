@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿比盖尔认为她的钱包里丢了一些钱。她一天开始时钱包里有11美元，她在商店里花了2美元。如果她现在剩下3美元，她丢了多少钱？。",
+  "topic": "回答下面的数学问题：Abigail thinks she has some lost some money out of her purse. She had $11 in her purse at the start of the day, and she spent $2 in a store. If she now has $3 left, how much money has she lost?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：里卡多在他的花园里种植番茄和茄子。每株番茄植物能结出22个番茄，而每株茄子植物能结出4个茄子。他种了5株番茄植物和8株茄子植物。里卡多能从他的植物中得到多少个果实？。",
+  "topic": "回答下面的数学问题：Ricardo grows tomatoes and eggplants in his garden. Each tomato plant yields 22 tomatoes while each plant of eggplant yields 4 eggplants. He planted 5 tomato plants and 8 plants of eggplant. How many fruits can Ricardo get from his plants?",
   "checkpoint": [
     {
-      "$\\boxed{142}$": 1
+      "\\boxed{142}": 1
     }
   ],
   "matchingmethod": [

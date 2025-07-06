@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在他的农场上，马修先生的山羊和绵羊的比例是5:7。他决定以每只40美元的价格出售一半的山羊和每只30美元的价格出售3分之2的绵羊。如果农场上山羊和绵羊的总数为360，他从出售动物中赚了多少钱？。",
+  "topic": "回答下面的数学问题：On his farm, Mr. Mathews has goats and sheep in the ratio of 5:7. He decides to sell half of the goats at $40 each and 2/3 of the sheep at $30 each. How much money does he make from the sale of the animals if the total number of sheep and goats on the farm is 360?",
   "checkpoint": [
     {
-      "$\\boxed{7200}$": 1
+      "\\boxed{7200}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果笼子里再加上七只兔子，那么笼子里的兔子数量将是贾斯珀今天在公园里看到的兔子数量的三分之一。贾斯珀今天在公园里看到了多少只兔子？。",
+  "topic": "回答下面的数学问题：If seven more rabbits are added to the thirteen in the cage, the number of rabbits in the cage will be 1/3 the number of rabbits Jasper saw in the park today. How many rabbits did Jasper see in the park today?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

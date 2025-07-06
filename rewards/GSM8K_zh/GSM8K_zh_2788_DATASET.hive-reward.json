@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Remi想喝更多的水。他有一个可加水的水瓶，容量为20盎司。那周Remi每天都会加满水瓶3次，每次都会喝掉整瓶水，只有两次不小心分别洒出5盎司和8盎司。在7天内，Remi喝了多少盎司的水？。",
+  "topic": "回答下面的数学问题：Remi wants to drink more water. He has a refillable water bottle that holds 20 ounces of water. That week Remi refills the bottle 3 times a day and drinks the whole bottle each time except for twice when he accidentally spills 5 ounces the first time and 8 ounces the second time. In 7 days how many ounces of water does Remi drink?",
   "checkpoint": [
     {
-      "$\\boxed{407}$": 1
+      "\\boxed{407}": 1
     }
   ],
   "matchingmethod": [

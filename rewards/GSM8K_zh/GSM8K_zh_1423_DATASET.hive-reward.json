@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每10秒发生一次车祸，每20秒发生一次重大事故。在4分钟内总共会发生多少起事故？。",
+  "topic": "回答下面的数学问题：Every 10 seconds, there is a car collision, and every 20 seconds there is a big crash. How many accidents overall will happen in 4 minutes?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

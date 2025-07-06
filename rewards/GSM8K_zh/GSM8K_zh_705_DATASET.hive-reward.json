@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨布丽娜给了她弟弟10块饼干。她妈妈给了萨布丽娜的饼干数量是她给她弟弟的一半。然后萨布丽娜把她的饼干的三分之二给了她的妹妹。如果萨布丽娜一开始有20块饼干，她现在还剩下多少块饼干？。",
+  "topic": "回答下面的数学问题：Sabrina gave 10 cookies to her brother. Her mother gave Sabrina half the number of cookies she gave her brother. Then Sabrina gave two-thirds of her cookies to her sister. If Sabrina had 20 cookies at the start, how many cookies are left with her?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

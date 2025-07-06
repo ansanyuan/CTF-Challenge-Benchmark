@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：唐在一个小镇上购买可回收瓶子。商店A通常卖给他150瓶，商店B卖给他180瓶，商店C卖给他剩下的。如果他只能购买550瓶，那么他从商店C购买了多少瓶？。",
+  "topic": "回答下面的数学问题：Don buys recyclable bottles in a small town. Shop A normally sells him 150 bottles, shop B sells him 180 bottles and Shop C sells him the rest. How many bottles does Don buy from Shop C if he is capable of buying only 550 bottles?",
   "checkpoint": [
     {
-      "$\\boxed{220}$": 1
+      "\\boxed{220}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史蒂夫每隔3天给他的朋友写一封信。他花20分钟写这些信。写一张纸需要10分钟。他还在月底写了一封长信，他在每张纸上花的时间是平常的两倍，但他花了80分钟写。他一个月写了多少张纸？。",
+  "topic": "回答下面的数学问题：Steve writes a letter every 3rd day to his friend.  He spends 20 minutes writing the letters.  It takes 10 minutes to write 1 page.  He also writes a long letter at the end of the month which he puts more thought into.  It takes twice as long per page but he spends 80 minutes writing.  How many pages does he write a month?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ginger喜欢为每个节日为人们做蛋糕。她有2个孩子，每个孩子的生日、圣诞节、复活节和万圣节她都会为他们做蛋糕。她的丈夫在这些节日也会收到蛋糕，还有他们的结婚纪念日和情人节。最后，她也会为父母做蛋糕，但只有在他们的生日，因为他们住得很远。在10年内，她会做多少个蛋糕？。",
+  "topic": "回答下面的数学问题：Ginger likes to make cakes for every holiday for people.  She has 2 children, each of whom she bakes a cake for on their birthdays, Christmas, Easter, and Halloween.  She has a husband for whom she makes a cake on these same holidays, as well as on their anniversary and Valentine's Day. Lastly, she makes both her parents cakes as well, but only for their birthdays since they live far away.  How many cakes does she make in 10 years?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

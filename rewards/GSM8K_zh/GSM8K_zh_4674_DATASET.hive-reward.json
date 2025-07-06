@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：利昂订购了3套玩具收纳架，每套78美元，以及2把游戏椅，每把83美元。如果有5%的运费，利昂一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：Leon ordered 3 sets of toy organizers for $78 per set and 2 gaming chairs for $83 each. If there is a delivery fee that is 5% of the total sales, how much did Leon pay?",
   "checkpoint": [
     {
-      "$\\boxed{420}$": 1
+      "\\boxed{420}": 1
     }
   ],
   "matchingmethod": [

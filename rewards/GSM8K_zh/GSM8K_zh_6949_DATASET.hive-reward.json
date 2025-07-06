@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：金种了80颗樱桃核。其中25%发芽，金卖掉了6棵幼苗。她剩下多少樱桃幼苗？。",
+  "topic": "回答下面的数学问题：Kim plants 80 cherry pits. 25% of them sprout and Kim sells 6 of the saplings. How many cherry saplings does she have left?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

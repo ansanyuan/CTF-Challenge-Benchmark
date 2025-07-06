@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家商店销售每台笔记本电脑600美元，每部智能手机400美元。塞琳为她的孩子买了两台笔记本电脑和四部智能手机。如果她有3000美元，她会找回多少零钱？。",
+  "topic": "回答下面的数学问题：A shop sells laptops at $600 each and a smartphone at $400.  Celine buys two laptops and four smartphones for her children. How much change does she get back if she has $3000?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

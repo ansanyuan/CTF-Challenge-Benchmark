@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特每周去健身房5个小时。她周一、周二、周三和周五去。她周一和周三每天花一个半小时。如果她周二和周五在健身房花同样的时间，她周五在健身房花了多少小时？。",
+  "topic": "回答下面的数学问题：Janet goes to the gym for 5 hours a week.  She goes Monday, Tuesday, Wednesday, and Friday.  She spends an hour and a half each day on Monday and Wednesday.  If she spends the same amount of time at the gym on Tuesday and Friday how many hours is she at the gym on Friday?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

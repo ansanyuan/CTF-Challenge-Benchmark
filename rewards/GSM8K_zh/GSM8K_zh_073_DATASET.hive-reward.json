@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：南希正在给她的鱼填充一个水族箱。她填满了一半，然后去开门。当她不在的时候，她的猫把水族箱打翻，里面的水倒掉了一半。然后南希回来，把水族箱里的水量增加了三倍。如果水族箱长4英尺，宽6英尺，高3英尺，水族箱里有多少立方英尺的水？。",
+  "topic": "回答下面的数学问题：Nancy is filling an aquarium for her fish. She fills it halfway and goes to answer the door. While she's gone, her cat knocks the aquarium over and spills half the water in it. Then Nancy comes back and triples the amount of water in the aquarium. If the aquarium is 4 feet long, 6 feet wide, and 3 feet high, how many cubic feet of water are in the aquarium?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

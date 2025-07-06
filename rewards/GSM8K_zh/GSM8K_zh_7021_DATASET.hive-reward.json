@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Emberly每天早晨都会散步。如果每次散步花费她1小时，走4英里，她在3月份有4天没有散步，计算她总共散步了多少英里。。",
+  "topic": "回答下面的数学问题：Emberly takes her mornings walks every day. If each walk takes her 1 hour covering 4 miles, and she didn't walk for 4 days in March, calculate the total number of miles she's walked.",
   "checkpoint": [
     {
-      "$\\boxed{108}$": 1
+      "\\boxed{108}": 1
     }
   ],
   "matchingmethod": [

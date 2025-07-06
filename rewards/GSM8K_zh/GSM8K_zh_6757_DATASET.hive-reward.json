@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰在订婚日送给他未婚妻一枚价值4000美元的戒指，结婚日送给她一辆价值2000美元的汽车，以及一条比他在订婚日送给她的戒指贵两倍的钻石手镯。约翰送给未婚妻的礼物总价值是多少？。",
+  "topic": "回答下面的数学问题：John gave his fiancee a $4000 ring on their engagement day, a $2000 car as a gift on their wedding day, and a diamond brace twice as expensive as the ring he gave her during the engagement. What's the worth of the presents John gave to her fiancee?",
   "checkpoint": [
     {
-      "$\\boxed{14000}$": 1
+      "\\boxed{14000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ravi有一些硬币。他比镍币多2个25美分硬币，比25美分硬币多4个10美分硬币。如果他有6个镍币，他有多少钱？。",
+  "topic": "回答下面的数学问题：Ravi has some coins. He has 2 more quarters than nickels and 4 more dimes than quarters. If he has 6 nickels, how much money does he have?",
   "checkpoint": [
     {
-      "$\\boxed{350}$": 1
+      "\\boxed{350}": 1
     }
   ],
   "matchingmethod": [

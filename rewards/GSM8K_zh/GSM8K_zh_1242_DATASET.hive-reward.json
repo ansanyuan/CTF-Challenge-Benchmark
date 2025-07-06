@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰雕刻了一个巨大的大理石长方体，高8米，底面积为2平方米。它的密度为每立方米2700千克。它的重量是多少？。",
+  "topic": "回答下面的数学问题：John carves a giant marble rectangular prism 8 meters tall with a 2-meter square base.  It has a density of 2700 kg per cubic meter.  How much does it weigh?",
   "checkpoint": [
     {
-      "$\\boxed{86400}$": 1
+      "\\boxed{86400}": 1
     }
   ],
   "matchingmethod": [

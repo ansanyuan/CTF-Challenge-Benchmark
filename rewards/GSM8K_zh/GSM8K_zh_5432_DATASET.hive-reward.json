@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：费利西蒂和阿迪拉分别进行了旅行。费利西蒂使用的汽油比阿迪拉用于她的旅行的加仑数的四倍少5加仑。两个女孩一起用了30加仑的汽油。费利西蒂用了多少加仑的汽油？。",
+  "topic": "回答下面的数学问题：Felicity and Adhira took separate trips. Felicity used 5 less gallons of gas than four times the number of gallons that Adhira used for her trip. Together the girls used 30 gallons of gas.  How many gallons did Felicity use?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

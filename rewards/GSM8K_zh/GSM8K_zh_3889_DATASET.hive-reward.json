@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：商店老板在四月份订购了20箱苏打水，在五月份订购了30箱。每箱有20瓶。商店老板在四月和五月一共订购了多少瓶苏打水？。",
+  "topic": "回答下面的数学问题：A store owner ordered 20 cases of bottles of soda in April and 30 cases in May. There are 20 bottles per case. How many bottles of soda did the store owner order in April and May?",
   "checkpoint": [
     {
-      "$\\boxed{1000}$": 1
+      "\\boxed{1000}": 1
     }
   ],
   "matchingmethod": [

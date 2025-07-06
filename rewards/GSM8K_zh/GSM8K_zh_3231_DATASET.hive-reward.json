@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：南希用玉雕刻雕像。一只长颈鹿雕像需要120克玉，售价150美元。一只大象雕像需要两倍的玉，售价350美元。如果南希有1920克玉，她将所有玉都用来制作大象雕像而不是长颈鹿雕像，她将赚取多少钱？。",
+  "topic": "回答下面的数学问题：Nancy carves statues out of jade. A giraffe statue takes 120 grams of jade and sells for $150. An elephant statue takes twice as much jade and sells for $350. If Nancy has 1920 grams of jade, how much more money will she make turning it all into elephants instead of giraffes?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

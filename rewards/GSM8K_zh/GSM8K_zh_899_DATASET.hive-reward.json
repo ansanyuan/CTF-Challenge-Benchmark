@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tony想要制作可能最长的绳子，所以他收集了家里所有的绳子。他找到了一根8英尺长的绳子，一根20英尺长的绳子，三根2英尺长的绳子和一根7英尺长的绳子。每个绳子之间的结会让他损失1.2英尺。当他把它们全部绑在一起后，绳子有多长？。",
+  "topic": "回答下面的数学问题：Tony wants to build the longest rope he possibly can, so he collects all the rope in his home. He finds an 8-foot rope, a 20-foot rope, three 2 foot ropes, and a 7-foot rope. each knot between the ropes makes him lose 1.2 foot per knot. How long is his rope when he's done tying them all together?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

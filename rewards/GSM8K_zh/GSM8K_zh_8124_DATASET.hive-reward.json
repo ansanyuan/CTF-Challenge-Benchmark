@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周二，Clara以每个20美元的价格买了20个石榴。在结账时，因为她有优惠券，所以减免了2美元。第二天，每个水果的价格飙升到30美元，但商店也提供了总价10%的折扣。Sheila利用了这个折扣，买了20个石榴。两天购买石榴的最终价格之间的差异是多少？。",
+  "topic": "回答下面的数学问题：On Tuesday, Clara bought 20 pomegranates at $20 each. At the till she got $2 off because she had a voucher. The next day, the price shot to $30 per fruit, but the store also offered a 10% discount on the total cost. Sheila took advantage of the discount and bought 20 pomegranates. What is the difference between the final prices paid for the pomegranates on the two days?",
   "checkpoint": [
     {
-      "$\\boxed{142}$": 1
+      "\\boxed{142}": 1
     }
   ],
   "matchingmethod": [

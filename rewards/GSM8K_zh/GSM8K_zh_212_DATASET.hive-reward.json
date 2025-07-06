@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：去年，杰西卡每月支付1000美元的房租，200美元的食物费，以及100美元的汽车保险。今年，她的房租上涨了30%，食物费增加了50%，而她的汽车保险费用因为她在一次事故中的责任而翻了三倍。与去年相比，杰西卡的整年费用增加了多少？。",
+  "topic": "回答下面的数学问题：Last year Jessica paid $1000 for rent, $200 for food, and $100 for car insurance each month. This year her rent goes up by 30%, food costs increase by 50%, and the cost of her car insurance triples because she was at fault in an accident. How much more does Jessica pay for her expenses over the whole year compared to last year?",
   "checkpoint": [
     {
-      "$\\boxed{7200}$": 1
+      "\\boxed{7200}": 1
     }
   ],
   "matchingmethod": [

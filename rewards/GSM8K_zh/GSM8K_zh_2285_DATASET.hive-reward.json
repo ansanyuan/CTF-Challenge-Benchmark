@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三家当地的舞蹈工作室共有376名学生。前两家分别有110和135名学生。第三家工作室有多少学生？。",
+  "topic": "回答下面的数学问题：Three local dance studios have 376 students. The first two have 110 and 135 students. How many students does the third studio have?",
   "checkpoint": [
     {
-      "$\\boxed{131}$": 1
+      "\\boxed{131}": 1
     }
   ],
   "matchingmethod": [

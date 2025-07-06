@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡尔在路边卖西瓜，每个西瓜售价为3美元。今天晚上他带着105美元的利润和18个西瓜回家。今天早上他一共有多少个西瓜？。",
+  "topic": "回答下面的数学问题：Carl has been selling watermelons on the side of the road for $3 each. This evening he went home with $105 in profit and 18 watermelons. How many watermelons did he start out with this morning?",
   "checkpoint": [
     {
-      "$\\boxed{53}$": 1
+      "\\boxed{53}": 1
     }
   ],
   "matchingmethod": [

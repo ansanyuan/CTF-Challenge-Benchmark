@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：西蒙经营一家植物店。他有4扁平的绣球花，每扁平有8朵绣球花，3扁平的玫瑰，每扁平有6朵玫瑰，还有两个捕蝇草。每朵绣球花需要8盎司的肥料，每朵玫瑰需要3盎司的肥料，每个捕蝇草需要2盎司的肥料。西蒙总共需要多少盎司的肥料？。",
+  "topic": "回答下面的数学问题：Seymour runs a plant shop. He has 4 flats of petunias with 8 petunias per flat, 3 flats of roses with 6 roses per flat, and two Venus flytraps. Each petunia needs 8 ounces of fertilizer, each rose needs 3 ounces of fertilizer, and each Venus flytrap needs 2 ounces of fertilizer. How many ounces of fertilizer does Seymour need in total?",
   "checkpoint": [
     {
-      "$\\boxed{314}$": 1
+      "\\boxed{314}": 1
     }
   ],
   "matchingmethod": [

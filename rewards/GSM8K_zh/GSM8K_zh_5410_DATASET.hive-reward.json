@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布鲁斯的姑姑给了他71美元在商场买衣服。他买了5件每件5美元的衬衫和一条26美元的裤子。布鲁斯还剩多少钱可以买更多的衣服？。",
+  "topic": "回答下面的数学问题：Bruce's aunt gave him $71 to spend on clothes at the mall. He bought 5 shirts that cost $5 each and a pair of pants that cost $26. How much money does Bruce have left to buy more clothes?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

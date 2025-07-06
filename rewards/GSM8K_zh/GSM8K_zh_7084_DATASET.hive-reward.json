@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lois有40本书。她把四分之一的书给了她的侄子。从剩下的书中，她把三分之一的书捐给了图书馆。然后她从书店购买了3本新书。现在Lois有多少本书？。",
+  "topic": "回答下面的数学问题：Lois has 40 books. She gives a fourth of her books to her nephew. From her remaining books, she donates a third of her books to the library. Then she purchases 3 new books from the book store. How many books does Lois have now?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

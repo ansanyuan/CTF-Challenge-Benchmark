@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个包裹里有250个气球。但丹特把气球均匀地分给了他的5个朋友。但丹特改变了主意，要求他的每个朋友给他11个气球。现在每个朋友有多少个气球？。",
+  "topic": "回答下面的数学问题：There were 250 balloons in one package. Dante evenly shared the balloons among his 5 friends. Dante changed his mind and asked each of his friends to give him 11 balloons. How many balloons does each friend have now?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

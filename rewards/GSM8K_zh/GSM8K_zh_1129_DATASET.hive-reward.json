@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一种野生蘑菇要么有斑点，要么有菌褶，但从不同时具有。有菌褶的蘑菇很少，每长出9个有斑点的蘑菇中只有一个有菌褶的蘑菇。一根倒下的原木一侧长出了30朵蘑菇。这根倒下的原木一侧有多少朵有菌褶的蘑菇？。",
+  "topic": "回答下面的数学问题：A certain kind of wild mushroom has either spots or gills, but never both. Gilled mushrooms are rare, with only one growing for every nine spotted mushrooms that grow. A fallen log had 30 mushrooms growing on its side. How many gilled mushrooms were on the fallen log’s side?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：今年海洋中的鲸鱼总数是去年的两倍。如果世界动物组织预测明年海洋中会有800只鲸鱼，而去年海洋中的鲸鱼数量为4000只，如果预测准确，计算明年海洋中的鲸鱼总数。。",
+  "topic": "回答下面的数学问题：The total number of whales in the sea this year is double what it was last year. If the World Animals Organization predicts that there will be 800 more whales in the sea next year, and the number of whales in the sea last year was 4000, calculate the total number of whales in the sea next year if the predictions are accurate.",
   "checkpoint": [
     {
-      "$\\boxed{8800}$": 1
+      "\\boxed{8800}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布拉德的车在一条偏僻的路上抛锚了。当时，布拉德和吉姆、马库斯一起旅行。所以，三人决定把车推回离他们10英里远的镇上。在前三英里里，布拉德负责方向盘，吉姆和马库斯以每小时6英里的速度推车。然后，在接下来的3英里里，吉姆负责方向盘，布拉德和马库斯以每小时3英里的速度推车。在最后的4英里里，马库斯负责方向盘，布拉德和吉姆以每小时8英里的速度推车。他们一共花了多长时间（以小时为单位）把车推回镇上？。",
+  "topic": "回答下面的数学问题：Brad's car broke down on an isolated road.  At the time, Brad was traveling with Jim and Marcus.  So, the three decided to push the car back into town, which was 10 miles away.  For the first three miles, Brad steered as Jim and Marcus pushed at a speed of 6 miles per hour.  Then, for the next 3 miles, Jim steered, as Brad and Marcus pushed at a speed of 3 miles per hour.  For the last four miles, Marcus steered as Brad and Jim pushed at a speed of 8 miles per hour.  How long did it take, in hours, to push the car back to town?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

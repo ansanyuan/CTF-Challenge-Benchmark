@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rose以每打2.40美元的价格买了五打鸡蛋。她将以3个鸡蛋1美元的价格卖出。Rose的利润将是多少？。",
+  "topic": "回答下面的数学问题：Rose bought five dozens of eggs for $2.40 a dozen. She will sell it for $1 for 3 eggs. How much will be Rose's profit?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

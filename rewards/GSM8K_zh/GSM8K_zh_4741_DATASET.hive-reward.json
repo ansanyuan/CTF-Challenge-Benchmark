@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果3个男孩每人为义卖会做12个松饼，另外2个女孩每人做20个松饼，总共将有多少个松饼出售？。",
+  "topic": "回答下面的数学问题：If 3 boys each make 12 muffins for a bake sale, and 2 other girls are making 20 muffins each, how many total muffins will be for sale?",
   "checkpoint": [
     {
-      "$\\boxed{76}$": 1
+      "\\boxed{76}": 1
     }
   ],
   "matchingmethod": [

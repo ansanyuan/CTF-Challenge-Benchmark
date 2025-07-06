@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ryan有30张贴纸。Steven有Ryan的三倍贴纸。Terry比Steven多20张贴纸。他们总共有多少张贴纸？。",
+  "topic": "回答下面的数学问题：Ryan has 30 stickers. Steven has thrice as many stickers as Ryan.   Terry has 20 more stickers than Steven. How many stickers do they have altogether?",
   "checkpoint": [
     {
-      "$\\boxed{230}$": 1
+      "\\boxed{230}": 1
     }
   ],
   "matchingmethod": [

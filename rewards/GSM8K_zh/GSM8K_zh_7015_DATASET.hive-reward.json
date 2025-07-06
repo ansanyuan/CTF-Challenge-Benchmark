@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克莱尔负责在游乐会上向所有孩子发放免费气球。她一开始有50个气球。在向一个小女孩递出1个气球时，12个气球飘走了。在接下来的30分钟里，她又送出了9个气球，并从她的同事那里拿了最后的11个。克莱尔现在有多少个气球？。",
+  "topic": "回答下面的数学问题：Claire was in charge of passing out free balloons to all the children at the fair.  She started with 50 balloons.  While passing 1 balloon to a little girl, 12 balloons floated away.  Over the next thirty minutes, she gave 9 more away and grabbed the last 11 from her coworker.  How many balloons does Claire have?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

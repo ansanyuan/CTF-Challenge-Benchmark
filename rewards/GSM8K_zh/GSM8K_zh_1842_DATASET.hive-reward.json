@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mac喜欢25美分硬币的形状，并愿意用钱来交换它们，即使他会损失价值。他告诉他的兄弟，他将用3个一角硬币换一个25美分硬币，或者用7个五分硬币换。他用一角硬币交换了20个25美分硬币，用五分硬币交换了20个25美分硬币。Mac一共损失了多少美元？。",
+  "topic": "回答下面的数学问题：Mac loves the shape of quarters and is willing to trade money for them, even if he loses value. He tells his brother that he will trade him 3 dimes for a quarter or 7 nickels. He trades for 20 quarters with dimes and 20 quarters with nickels. How many dollars did Mac lose?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

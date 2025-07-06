@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：3月1日太阳在下午6点落山。之后每天太阳落山的时间晚1.2分钟。现在是下午6:10，距离3月1日已经过去了40天。距离太阳落山还有多少分钟？。",
+  "topic": "回答下面的数学问题：On March 1st the sun sets at 6 PM.  Every day after the sun sets 1.2 minutes later.  It is 6:10 PM and 40 days after March 1st.  How many minutes until the sun sets?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

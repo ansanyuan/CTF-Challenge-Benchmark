@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Oliver拥有一家洗衣店，他每公斤洗衣收费2美元。两天前，他的店总共洗了5公斤的衣物。昨天，比前一天多洗了5公斤的衣物。今天，比昨天多洗了两倍的公斤数。他在三天内赚了多少钱？。",
+  "topic": "回答下面的数学问题：Oliver owns a laundry shop, and he charges $2 per kilo of laundry.  Two days ago, his shop washed a total of 5 kilos of laundries.  Yesterday, it washed five kilos of laundries more than the previous day. Today, it washed twice the number of kilos than yesterday.   How much did he earn for three days?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

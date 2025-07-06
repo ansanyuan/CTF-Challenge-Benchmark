@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：May可以用一卷纱线织3条围巾。她买了2卷红色的纱线，6卷蓝色的纱线和4卷黄色的纱线。她总共能织多少条围巾？。",
+  "topic": "回答下面的数学问题：May can knit 3 scarves using one yarn. She bought 2 red yarns, 6 blue yarns, and 4 yellow yarns. How many scarves will she be able to make in total?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

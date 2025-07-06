@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马丁正在组织一个派对，他邀请了许多同事。他从家乡邀请了5个人，从学校邀请了两倍于家乡的人数。马丁还邀请了和家乡和学校邀请的人数之和相同的人数来自他的运动俱乐部。剩下的邀请人数占先前提到的总人数的20%。马丁组织的派对可能会有多少人参加？。",
+  "topic": "回答下面的数学问题：Martin is organizing a party, and he invited many of his colleagues. He invited 5 people from his hometown and twice as many people from his school. Martin invited also as many people from his sports club as the sum of people invited from his hometown and his school. The remaining invitations represent 20% of the total previously mentioned. How many people can potentially come to the party Martin is organizing?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

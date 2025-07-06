@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰西正在玩一堆积木。他首先用80个积木建造了一座建筑。然后他用123个积木建造了一座农舍。他在农场旁边建了一个由57个积木组成的围栏区域。如果杰西还剩下84个积木，他最初有多少个积木？。",
+  "topic": "回答下面的数学问题：Jesse is playing with a pile of building blocks. He first builds a building with 80 building blocks. Then he builds a farmhouse with 123 building blocks. He adds a fenced-in area next to the farm made of 57 building blocks. If Jesse has 84 building blocks left, how many building blocks did he start with?",
   "checkpoint": [
     {
-      "$\\boxed{344}$": 1
+      "\\boxed{344}": 1
     }
   ],
   "matchingmethod": [

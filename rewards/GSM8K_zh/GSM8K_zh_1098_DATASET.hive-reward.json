@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈维尔从他在网上学到的食谱中烤了200块饼干，他的妻子拿走了30%，他的女儿从剩下的饼干中拿走了40块。如果他吃掉了剩下饼干的一半，他们没有吃掉多少块饼干？。",
+  "topic": "回答下面的数学问题：Out of the 200 cookies that Javier baked from the recipe he learned online, his wife took 30%, and his daughter took 40 from the remaining cookies. If he ate half of the remaining cookies, how many cookies did they not eat?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

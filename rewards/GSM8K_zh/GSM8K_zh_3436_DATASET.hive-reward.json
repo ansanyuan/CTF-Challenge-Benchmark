@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰试图通过购买价格便宜但热量高的食物来节省钱。他可以用6美元买10个每个有120卡路里的墨西哥卷饼。他也可以用8美元买5个每个有400卡路里的汉堡。他从汉堡中每美元获得多少卡路里？。",
+  "topic": "回答下面的数学问题：John is trying to save money by buying cheap calorie-dense food.  He can buy 10 burritos for $6 that have 120 calories each.  He could also buy 5 burgers that are 400 calories each for $8.  How many more calories per dollar does he get from the burgers?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

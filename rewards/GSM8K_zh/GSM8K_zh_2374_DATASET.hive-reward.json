@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：公交车上有60名乘客。儿童占公交车乘客的25%。公交车上有多少名成人？。",
+  "topic": "回答下面的数学问题：There are 60 passengers on a bus. Children make up 25% of the bus riders. How many adults are on the bus?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

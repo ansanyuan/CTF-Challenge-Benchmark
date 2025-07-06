@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：里士满市比维多利亚市多1000人。维多利亚市的人口是比肯比恩市的4倍。如果里士满市有3000人，那么比肯比恩市有多少人？。",
+  "topic": "回答下面的数学问题：The city of Richmond has 1000 more people than Victoria. Victoria has 4 times as many people as Beacon. If Richmond has 3000 people, how many people are there in Beacon?",
   "checkpoint": [
     {
-      "$\\boxed{500}$": 1
+      "\\boxed{500}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玻璃罐里有100颗软糖。考珀夫人的幼儿园班级通常有24个孩子，但有2个孩子生病了，那天呆在家里。剩下来上学的孩子每人吃3颗软糖。罐子里还剩下多少颗软糖？。",
+  "topic": "回答下面的数学问题：There are 100 jellybeans in a glass jar.  Mrs. Copper’s kindergarten class normally has 24 kids, but 2 children called in sick and stayed home that day. The remaining children who attended school eat 3 jellybeans each. How many jellybeans are still left in the jar?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

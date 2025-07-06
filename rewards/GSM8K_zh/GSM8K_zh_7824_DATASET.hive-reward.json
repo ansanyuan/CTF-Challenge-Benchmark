@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：佩顿安排了下班后的活动，周一是一个小时的瑜伽课，周二是一节烹饪课，时长是周一瑜伽课的三倍，周三是半小时的品酒活动，周四是一次博物馆参观，时长是烹饪课的一半，周五是两小时的杂事。佩顿的所有下班后活动总共需要多少小时？。",
+  "topic": "回答下面的数学问题：Peyton scheduled after-work activities of a one hour yoga class on Monday, a cooking class that lasts three times as long as Monday’s yoga on Tuesday, a half-hour cheese-tasting event on Wednesday, a museum tour that takes half as long as the cooking class on Thursday, and two hours of errands on Friday. How many hours will all Peyton’s after-work activities take?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

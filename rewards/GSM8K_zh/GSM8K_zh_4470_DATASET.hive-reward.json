@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿里的班级想要订购35本英语教科书和35本地理教科书。已知地理书的价格是10.50美元，而英语书的价格是7.50美元，这个订单的金额是多少？。",
+  "topic": "回答下面的数学问题：Ali's class wants to order 35 English textbooks and 35 geography textbooks. Knowing that a geography book costs $10.50 and that an English book costs $7.50, what is the amount of this order?",
   "checkpoint": [
     {
-      "$\\boxed{630}$": 1
+      "\\boxed{630}": 1
     }
   ],
   "matchingmethod": [

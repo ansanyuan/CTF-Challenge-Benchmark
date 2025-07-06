@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Yasna有两本书。一本书有180页，另一本书有100页。如果Yasna想在两周内完成这两本书，她每天需要阅读多少页，假设她每天阅读相等的页数？。",
+  "topic": "回答下面的数学问题：Yasna has two books. One book is 180 pages long, and the other book is 100 pages long. If Yasna wants to finish both of the books in two weeks, how many pages will Yasna need to read every day, if she reads an equal number of pages each day?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

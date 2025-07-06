@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格雷格的垒球队的每个成员都需要购买一套由衬衫、一条裤子和袜子组成的制服。一件衬衫的价格是7.50美元，一条裤子的价格是15美元，每双袜子的价格是4.50美元，如果每个队员自己购买制服的物品。如果他们作为一个团队购买这些物品，他们将获得折扣。折扣后的衬衫价格是6.75美元，折扣后的裤子价格是13.50美元，折扣后的袜子价格是3.75美元。如果他们以团队的方式购买，12人团队将会节省多少钱？。",
+  "topic": "回答下面的数学问题：Each member of Greg’s softball team needs to buy one uniform made up of a shirt, a pair of pants, and socks. A shirt costs $7.50, a pair of pants cost $15, and socks cost $4.50 each if each team member buys the uniform items on their own. If they buy the items as a group, they are given a discount. A discounted shirt cost $6.75, a discounted pair of pants cost $13.50, and discounted socks cost $3.75. How much would their team of 12 save with the group discount?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

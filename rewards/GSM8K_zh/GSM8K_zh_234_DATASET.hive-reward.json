@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布莱恩在家开始在隔离期间锻炼。他决定开始做3组，每组15个俯卧撑。在第三组接近结束时，他感到疲倦，少做了5个俯卧撑。他总共做了多少个俯卧撑？。",
+  "topic": "回答下面的数学问题：Bryan starts exercising at home during quarantine. To start, he decides to do 3 sets of 15 push-ups each. Near the end of the third set, he gets tired and does 5 fewer push-ups. How many push-ups did he do in total?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰瑞从朋友那里借来一本有趣的小说，打算周末读完。这本书有93页。周六，他读了30页。周日，他去了教堂回来后，坐下来读了这本书的20页。在杰瑞读完这本书之前还剩下多少页？。",
+  "topic": "回答下面的数学问题：Jerry has an interesting novel he borrowed from a friend to read over the weekend. The book has 93 pages. On Saturday, he reads 30 pages. On Sunday, he goes to church and comes back, sits down, and reads 20 pages of the book. How many pages are remaining before Jerry can finish the book?",
   "checkpoint": [
     {
-      "$\\boxed{43}$": 1
+      "\\boxed{43}": 1
     }
   ],
   "matchingmethod": [

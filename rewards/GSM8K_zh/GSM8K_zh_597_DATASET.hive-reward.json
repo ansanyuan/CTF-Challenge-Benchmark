@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bianca上周末工作了12.5小时。Celeste工作时间是Bianca的两倍，而McClain比Celeste少工作了8.5小时。这三个人总共工作了多少分钟？。",
+  "topic": "回答下面的数学问题：Bianca worked for 12.5 hours last weekend. Celeste worked for twice that amount of time and McClain worked 8.5 hours less than Celeste. How many minutes did the 3 people work in total?",
   "checkpoint": [
     {
-      "$\\boxed{3240}$": 1
+      "\\boxed{3240}": 1
     }
   ],
   "matchingmethod": [

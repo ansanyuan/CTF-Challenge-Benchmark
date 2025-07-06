@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个图书馆对其会员借阅的任何图书在图书馆外阅读收取50美分/天。五月初，塞琳从图书馆借了三本书，准备在家里备考。如果她在借书后20天归还了一本书，另外两本书一直留在她家直到五月底，请计算她在图书馆借阅这三本书总共支付的金额。。",
+  "topic": "回答下面的数学问题：A book library charges fifty cents per day on any book borrowed by its members to read outside the library's premises. At the start of May, Celine borrowed three books from the library to read at home for her upcoming examinations. If she returned one book 20 days after borrowing it, and the other two stayed at her house until the end of May, calculate the total amount of money that she paid at the library for lending the three books.",
   "checkpoint": [
     {
-      "$\\boxed{41}$": 1
+      "\\boxed{41}": 1
     }
   ],
   "matchingmethod": [

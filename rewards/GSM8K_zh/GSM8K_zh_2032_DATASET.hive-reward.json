@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一次测验中，马丁回答的正确问题比凯尔西少3个，而凯尔西回答的正确问题比坎贝尔多8个。如果坎贝尔回答了35个问题正确，那么马丁回答了多少个正确？。",
+  "topic": "回答下面的数学问题：On a quiz, Martin answered three fewer questions correctly than Kelsey, and Kelsey answered eight more questions correctly than Campbell. If Campbell answered 35 questions correctly, how many did Martin answer correctly?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

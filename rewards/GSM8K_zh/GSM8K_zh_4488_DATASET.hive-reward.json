@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jean正在努力激励自己写她的期末论文。她每写2页就吃一个甜甜圈。如果她写了12页，每个甜甜圈有150卡路里，她吃了多少卡路里？。",
+  "topic": "回答下面的数学问题：Jean is trying to motivate herself to write her final paper. She eats one donut per 2 pages that she writes. If she writes 12 pages and each donut has 150 calories, how many calories does she eat?",
   "checkpoint": [
     {
-      "$\\boxed{900}$": 1
+      "\\boxed{900}": 1
     }
   ],
   "matchingmethod": [

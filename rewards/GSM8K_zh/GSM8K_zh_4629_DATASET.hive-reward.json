@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格里塔在邮件中收到的信件比她哥哥多10封。格里塔的母亲收到的信件数量是格里塔和她哥哥收到信件数量的两倍。如果格里塔的哥哥收到40封信件，计算三人总共收到了多少封信件？。",
+  "topic": "回答下面的数学问题：Greta received 10 more letters in the mail than her brother. Greta's mother received twice the total number of letters Greta and her brother received. Calculate the total number of letters the three received if Greta's brother received 40 letters.",
   "checkpoint": [
     {
-      "$\\boxed{270}$": 1
+      "\\boxed{270}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在神秘水族馆，每天要喂鲨鱼四桶鱼。海豚的饲料量是鲨鱼的一半，而其他海洋动物的饲料量是鲨鱼的五倍。546桶鱼可以维持多少周？。",
+  "topic": "回答下面的数学问题：At the Mystic Aquarium, sharks are fed four buckets of fish each day. The dolphins are fed half as many buckets as the sharks while the other sea animals are fed five times as many buckets as the sharks. How many weeks will 546 buckets of fish last?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

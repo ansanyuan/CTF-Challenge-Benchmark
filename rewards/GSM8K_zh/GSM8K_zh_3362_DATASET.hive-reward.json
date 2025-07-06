@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Agnes今年25岁，她的女儿简今年6岁。多少年后，Agnes的年龄会是Jane的两倍？。",
+  "topic": "回答下面的数学问题：Agnes is 25 years old and her daughter, Jane is 6 years old. In how many years will Agnes be twice as old as Jane?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

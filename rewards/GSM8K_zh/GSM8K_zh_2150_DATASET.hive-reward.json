@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ocho有8个朋友，一半是女孩。他的男性朋友喜欢和他一起玩戏剧。有多少男孩和他一起玩戏剧？。",
+  "topic": "回答下面的数学问题：Ocho has 8 friends and half are girls. His friends who are boys like to play theater with him. How many boys play theater with him?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚当有一个农场养了动物。他有12头奶牛和两倍多的羊。他决定为每只羊买3头猪。交易后农场上有多少动物？。",
+  "topic": "回答下面的数学问题：Adam had a farm with animals. He had 12 cows and twice as many sheep. He decided to buy 3 pigs for every sheep he had. How many animals were on the farm after the transaction?",
   "checkpoint": [
     {
-      "$\\boxed{108}$": 1
+      "\\boxed{108}": 1
     }
   ],
   "matchingmethod": [

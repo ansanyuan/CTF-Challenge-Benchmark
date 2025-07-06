@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Allyn是一名高尔夫球手。在起始发球台，他击打了高尔夫球，球直线飞行了180码朝洞口。在他的第二次击球中，他再次直线击球朝洞口，球飞行的距离是他第一次击球的一半，但球落在洞口后方20码。在他的第三次挥杆中，他将球击入果岭并滚入洞中。从起始发球台到洞口的距离是多少码？。",
+  "topic": "回答下面的数学问题：Allyn is a golfer. At the starting tee, he hit the golf ball and it traveled 180 yards straight toward the hole.  On his second turn, he hit the ball again straight toward the hole and it traveled half as far as it did on his first turn, but the ball landed 20 yards beyond the hole.  On his third swing, he hit the ball onto the green and it rolled into the hole.  What is the distance, in yards, from the starting tee to the hole?",
   "checkpoint": [
     {
-      "$\\boxed{250}$": 1
+      "\\boxed{250}": 1
     }
   ],
   "matchingmethod": [

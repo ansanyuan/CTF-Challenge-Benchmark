@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Stanley每小时卖出4杯柠檬水。他的兄弟卡尔每小时卖出7杯柠檬水。在3小时内，卡尔比斯坦利多卖了多少杯？。",
+  "topic": "回答下面的数学问题：Stanley sold 4 cups of lemonade an hour. His brother, Carl, sold 7 cups of lemonade an hour. How many more cups did Carl sell than Stanley in 3 hours?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

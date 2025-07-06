@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比尔以为他买了70只吉娃娃犬，但其中一些实际上是老鼠。如果老鼠的数量是吉娃娃犬数量的6倍，他买了多少只老鼠？。",
+  "topic": "回答下面的数学问题：Bill thought he bought 70 chihuahuas, but some of them turned out to be rats. If the number of rats was 6 times the number of chihuahuas, how many rats did he buy?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

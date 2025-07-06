@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Toby和他的朋友一起外出用餐。他们每人点了一份芝士汉堡，价格为3.65美元。他点了一杯奶昔，价格为2美元，他的朋友点了一杯可乐，价格为1美元。他们一起分享了一份价格为4美元的大薯条。他的朋友还点了三块价格为0.5美元的饼干。税款为0.2美元。他们同意平分账单。如果Toby带了15美元，他带回家多少零钱？。",
+  "topic": "回答下面的数学问题：Toby is dining out with his friend. They each order a cheeseburger for $3.65. He gets a milkshake for $2 and his friend gets a coke for $1. They split a large fries that cost $4. His friend also gets three cookies that cost $.5 each. The tax is $.2. They agree to split the bill. If Toby arrived with $15, how much change is he bringing home?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

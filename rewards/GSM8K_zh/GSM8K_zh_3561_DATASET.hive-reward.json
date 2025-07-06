@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安娜想在花园里种些莴苣，并希望种够至少12份大沙拉。她估计，尽管她已经尽力，但一半的莴苣将被昆虫和兔子吃掉。每株莴苣预计可以提供3份大沙拉。安娜应该在花园里种多少莴苣？。",
+  "topic": "回答下面的数学问题：Anna wants to grow some lettuce in the garden and would like to grow enough to have at least 12 large salads. She estimates that, despite her best efforts, half of the lettuce will be lost to insects and rabbits. Each lettuce plant is estimated to provide 3 large salads. How many lettuce plants should Anna grow in the garden?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

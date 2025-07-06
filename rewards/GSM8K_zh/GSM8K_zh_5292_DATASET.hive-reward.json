@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个候诊室里有22个人。如果再来3个人，候诊室里的人数就变成了面试室里人数的5倍。面试室里有多少人？。",
+  "topic": "回答下面的数学问题：There are twenty-two people in a waiting room. If three more people arrive, the number of people in the waiting room becomes five times the number of people inside the interview room. How many people are in the interview room?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

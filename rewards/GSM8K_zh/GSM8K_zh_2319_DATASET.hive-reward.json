@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位狗美容师需要10分钟来吹干像比格尔犬这样的短毛狗。吹干一只毛发浓密、毛茸茸的德国牧羊犬需要两倍的时间。有一天早上，他需要吹干6只短毛狗和9只毛发浓密的狗。他需要多长时间来吹干所有的狗？。",
+  "topic": "回答下面的数学问题：It takes a dog groomer 10 minutes to dry a short-haired dog like a beagle.  It takes him twice as long to dry a full-haired, fluffy dog like a german shepherd.  One morning, he has 6 short-haired dogs to dry and 9 full-haired dogs to dry.  How many hours does it take him to dry all of the dogs?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

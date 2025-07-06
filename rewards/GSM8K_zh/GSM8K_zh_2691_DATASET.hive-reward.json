@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：邦妮和塞缪尔一起去了市场。邦妮买了8个苹果。塞缪尔比邦妮多买了20个苹果。然后塞缪尔吃掉了一半，用1/7做了苹果派。塞缪尔还剩下多少个苹果？。",
+  "topic": "回答下面的数学问题：Bonnie and Samuel went to the market together. Bonnie bought 8 apples. Samuel bought 20 more apples than Bonnie. Samuel then ate half of them and used 1/7 of them to make apple pie. How many apples does Samuel have left?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

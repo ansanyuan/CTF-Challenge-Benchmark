@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝果每个2.25美元，或者一打24美元。每个贝果以每个贝果节省多少美分，通过一次购买一打？。",
+  "topic": "回答下面的数学问题：The bagels cost $2.25 each, or a dozen for $24. How much is saved, per bagel, in cents, by buying a dozen at a time?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

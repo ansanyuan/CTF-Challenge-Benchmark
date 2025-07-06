@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：希拉里的老师在周末布置了1小时的阅读任务。周五晚上，希拉里读了16分钟。周六她读了28分钟。希拉里周日需要阅读多少分钟才能完成作业？。",
+  "topic": "回答下面的数学问题：Hillary's teacher assigned 1 hour of reading during the weekend. On Friday night, Hillary read for 16 minutes. On Saturday she read for 28 minutes. How many minutes does Hillary have to read on Sunday to complete the assignment?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

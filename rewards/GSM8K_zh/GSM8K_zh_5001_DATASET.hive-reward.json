@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：雷在杂货店买了一包汉堡肉5.00美元，一盒饼干3.50美元，4袋冷冻蔬菜每袋2.00美元和一包奶酪3.50美元。因为他是商店的会员，他可以享受购物打9折。他的总杂货账单是多少？。",
+  "topic": "回答下面的数学问题：Ray buys a pack of hamburger meat for $5.00, a box of crackers for $3.50, 4 bags of frozen vegetables at $2.00 per bag and a pack of cheese for $3.50 at the grocery store.  Because he is a store rewards member, he gets 10% off of his purchase.  What does his total grocery bill come to?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

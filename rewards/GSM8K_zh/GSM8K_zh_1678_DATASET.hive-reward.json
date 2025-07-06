@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家快餐连锁店提供最低18美元的免费送货。丹尼订购了2个4分之一磅的汉堡，每个3.20美元，2份大薯条，每份1.90美元，以及2杯奶昔，每杯2.40美元。他应该再订购多少价值的食物才能享受免费送货？。",
+  "topic": "回答下面的数学问题：A fast-food chain offers free delivery for a minimum purchase of $18. Danny ordered 2 quarter-pounder burgers for $3.20 each, 2 large fries that cost $1.90 each, and 2 milkshakes that cost $2.40 each. How much more worth of food should he order to avail of the free delivery?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

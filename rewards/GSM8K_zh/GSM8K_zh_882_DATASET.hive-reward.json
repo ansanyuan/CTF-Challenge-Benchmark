@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克喜欢在剧院观看演出。他决定每周至少去一次剧院。一场演出持续3小时。票价取决于在剧院的停留时间，每小时为5美元。马克在6周内在剧院的花费将是多少？。",
+  "topic": "回答下面的数学问题：Mark loves to see shows in theaters. He decided to visit the theater at least once a week. One performance lasts 3 hours. The price of the ticket depends on the time spent in the theater and stands at $5 for each hour. How much will Mark spend on visits to the theater in 6 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

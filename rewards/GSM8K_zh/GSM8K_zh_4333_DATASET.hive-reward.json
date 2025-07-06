@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比尔和琼都在清理他们的车库。比尔去垃圾场的次数是一个确定的数字，琼去的次数比比尔多6次。如果他们总共去了40次，琼去了多少次？。",
+  "topic": "回答下面的数学问题：Bill and Jean are both cleaning out their garages. Bill makes a certain number of trips to the dump and Jean makes that many trips plus 6. If they make 40 trips total, how many trips does Jean make?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

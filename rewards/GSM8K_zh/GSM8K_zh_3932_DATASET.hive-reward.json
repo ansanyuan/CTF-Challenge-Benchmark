@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉娜和汤姆在踢足球。第一天，吉娜进了两个球，比汤姆少三个。第二天，吉娜进了比汤姆少两个球，而汤姆进了六个球。在这两天里，吉娜和汤姆一共进了多少球？。",
+  "topic": "回答下面的数学问题：Gina and Tom were playing football. On the first day, Gina scored two goals, which was three less than Tom. On the second day, Gina scored two goals less than Tom who scored six goals. How many goals did Gina and Tom score during these two days?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

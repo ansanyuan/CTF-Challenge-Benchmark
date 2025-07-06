@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：In triangle $ABC$ , $AB=\\sqrt{30}$ , $AC=\\sqrt{6}$ , and $BC=\\sqrt{15}$ . There is a point $D$ for which $\\overline{AD}$ bisects $\\overline{BC}$ , and $\\angle ADB$ is a right angle. The ratio \\[\\dfrac{\\text{Area}(\\triangle ADB)}{\\text{Area}(\\triangle ABC)}\\] can be written in the form $\\dfrac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
   "checkpoint": [
     {
-      "$\\boxed{65}$": 1
+      "\\boxed{65}": 1
     }
   ],
   "matchingmethod": [

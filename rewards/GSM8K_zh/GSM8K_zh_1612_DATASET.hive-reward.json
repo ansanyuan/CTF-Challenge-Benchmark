@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：雨果先生和夫人进行了一次公路旅行。第一天，他们行驶了200英里。第二天，他们行驶了3/4的距离。第三天，他们行驶的里程是前两天的总和的1/2。他们三天一共行驶了多少英里？。",
+  "topic": "回答下面的数学问题：Mr. and Mrs. Hugo went on a road trip. On the first day, they traveled 200 miles. On the second day, they traveled 3/4 as far. On the third day, they traveled 1/2 as many miles as the first two days combined. How many miles did they travel for 3 days?",
   "checkpoint": [
     {
-      "$\\boxed{525}$": 1
+      "\\boxed{525}": 1
     }
   ],
   "matchingmethod": [

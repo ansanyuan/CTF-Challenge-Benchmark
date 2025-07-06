@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔希钱包里有300美元，投资了2000美元在一家公司。如果公司的股价上涨30%，然后他卖掉了所有的股票，他的钱包里会有多少钱？。",
+  "topic": "回答下面的数学问题：Josh has $300 in his wallet, and $2000 invested in a business. If the business's stock price rises 30% and then he sells all of his stocks, how much money will he have in his wallet?",
   "checkpoint": [
     {
-      "$\\boxed{2900}$": 1
+      "\\boxed{2900}": 1
     }
   ],
   "matchingmethod": [

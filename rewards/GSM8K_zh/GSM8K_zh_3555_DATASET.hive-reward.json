@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：水族馆展览中有五倍于河豚的剑鱼。如果总共有90条鱼，那么有多少条河豚？。",
+  "topic": "回答下面的数学问题：There are five times as many swordfish as pufferfish in an aquarium exhibit. If there are 90 fish total, how many pufferfish are there?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

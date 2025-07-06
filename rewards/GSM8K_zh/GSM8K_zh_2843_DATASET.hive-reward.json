@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rachel在睡觉前每分钟解5道数学题，解了12分钟，但她没有完成所有的题目。第二天，她在午餐时完成了剩下的16道题。她一共做了多少道数学题？。",
+  "topic": "回答下面的数学问题：Rachel solved 5 math problems each minute for 12 minutes before bed, but she didn't finish all of them. The next day, she finished the last 16 problems at lunch. How many math problems did she do in all?",
   "checkpoint": [
     {
-      "$\\boxed{76}$": 1
+      "\\boxed{76}": 1
     }
   ],
   "matchingmethod": [

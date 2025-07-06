@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰的马桶每次冲水使用5加仑的水，他的家庭每天冲水15次。他用一种每次冲水使用水量减少80%的马桶替换了原来的马桶。约翰在6月份节约了多少水？。",
+  "topic": "回答下面的数学问题：John has a very inefficient toilet that uses 5 gallons of water per flush and his household flushed 15 times per day.  He replaced it with a toilet that uses 80% less water per flush.  How much water did John save in June?",
   "checkpoint": [
     {
-      "$\\boxed{1800}$": 1
+      "\\boxed{1800}": 1
     }
   ],
   "matchingmethod": [

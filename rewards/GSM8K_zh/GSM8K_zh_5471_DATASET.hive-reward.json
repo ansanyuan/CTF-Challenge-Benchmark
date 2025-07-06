@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亨利去海滩捡了17个完美的贝壳和52个破碎的贝壳。在这52个破碎的贝壳中，一半是螺旋形的。在17个完美的贝壳中，有12个不是螺旋形的。破碎的螺旋形贝壳比完美的螺旋形贝壳多多少个？。",
+  "topic": "回答下面的数学问题：Henry went to the beach and picked up 17 perfect shells and 52 broken shells. Out of those 52 broken shells, half of them were spiral. Out of the 17 perfect shells, 12 of them were not spiral. How many more broken spiral shells were there than perfect spiral shells?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

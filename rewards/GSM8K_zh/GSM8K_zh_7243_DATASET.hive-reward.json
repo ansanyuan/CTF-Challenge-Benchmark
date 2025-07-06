@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰每天喝1.5加仑的水。他一周喝多少夸脱？。",
+  "topic": "回答下面的数学问题：John drinks 1.5 gallons of water a day.  How many quarts does he drink a week?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

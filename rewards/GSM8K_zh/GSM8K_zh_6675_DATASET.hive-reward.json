@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：威廉早上7点离开密苏里，晚上8点到达家乡。在旅途中，他分别停留了25、10和25分钟。他在路上花了多少小时？。",
+  "topic": "回答下面的数学问题：William left Missouri by 7:00 AM and arrived at his hometown by 8:00 PM. He had 3 stops of 25, 10 and 25 minutes respectively during the journey. How many hours did he spend on the road?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

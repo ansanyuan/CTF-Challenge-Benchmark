@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Wilsborough夫人为了她的家人买音乐会门票存了500美元。她买了2张每张100美元的VIP门票和3张每张50美元的普通门票。Wilsborough夫人在买了门票后还剩下多少存款？。",
+  "topic": "回答下面的数学问题：Mrs. Wilsborough saved $500 to buy concert tickets for her family. She bought 2 VIP tickets at $100 each and 3 regular tickets at $50 each. How much of her savings does Mrs. Wilsborough have after she buys the tickets?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

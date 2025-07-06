@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rayna比Kassidy多有60美元，而Kassidy的钱是Aurelia的3/4倍。如果Aurelia有120美元，如果她们决定把各自的钱加在一起平均分配，她们每人会有多少钱？。",
+  "topic": "回答下面的数学问题：Rayna has 60 more dollars than Kassidy, and Kassidy has 3/4 times as much money as Aurelia. If Arelia has $120, how much would each have if they decided to add together their money and share equally among them?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

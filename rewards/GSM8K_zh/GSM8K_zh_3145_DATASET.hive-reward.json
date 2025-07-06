@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：自从Jason开始投资以来，他在5个月内赚了与他投资金额相同的两倍。如果Jason目前的投资价值为90美元，假设他每个月从投资中赚取相等的回报，他每个月从投资中赚了多少钱？。",
+  "topic": "回答下面的数学问题：Since Jason started investing, he has earned the same amount he invested twice over in 5 months. If Jason's investment currently is worth $90, how much has he been earning per month from his investment assuming he has been earning an equal amount of returns each month?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

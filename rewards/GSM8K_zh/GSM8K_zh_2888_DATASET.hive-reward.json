@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡拉在家庭团聚中发现她比她妈妈小20岁。她的妈妈比卡拉的祖母小15岁。如果卡拉的祖母是75岁，卡拉多大了？。",
+  "topic": "回答下面的数学问题：Cara is at her family reunion, where she discovers that she is 20 years younger than her mom.  Her mom is 15 years younger than Cara's Grandmother. If Cara's grandmother is 75, how old is Cara?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

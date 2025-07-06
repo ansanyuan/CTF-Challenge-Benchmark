@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tim被堵车的时间是他开车时间的两倍。他开了5个小时。这次旅行一共花了多长时间？。",
+  "topic": "回答下面的数学问题：Tim is stuck in traffic for twice as long as he was driving.  He drove 5 hours.  How long was the trip?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

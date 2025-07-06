@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个健身房，蓝色的重量每个重2磅，绿色的重量每个重3磅。哈里把4个蓝色的重量和5个绿色的重量放在一个金属杆上。金属杆本身重2磅。哈里的自定义创作的总重量是多少磅？。",
+  "topic": "回答下面的数学问题：At a gym, the blue weights are 2 pounds each, and the green weights are 3 pounds each. Harry put 4 blue weights and 5 green weights onto a metal bar. The bar itself weighs 2 pounds. What is the total amount of weight, in pounds, of Harry's custom creation?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

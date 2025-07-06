@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克和佩妮正在捕蛇。杰克的蛇比佩妮的蛇长12英寸。如果两条蛇的总长度为70英寸，那么杰克的蛇有多长？。",
+  "topic": "回答下面的数学问题：Jake and Penny are hunting snakes. Jake's snake is 12 inches longer than Jenny's snake. If the two snakes have a combined length of 70 inches, how long is Jake's snake?",
   "checkpoint": [
     {
-      "$\\boxed{41}$": 1
+      "\\boxed{41}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莎拉在工作日制作蛋糕，周末出售。她每天制作4个蛋糕，售价为8美元。在4周内，她设法卖掉了所有的蛋糕。在那段时间里，她收集了多少钱？。",
+  "topic": "回答下面的数学问题：Sara makes cakes during the five weekdays to sell on weekends. She makes 4 cakes a day and sells her cakes for $8. In 4 weeks she managed to sell all the cakes. How much money did she collect during that time?",
   "checkpoint": [
     {
-      "$\\boxed{640}$": 1
+      "\\boxed{640}": 1
     }
   ],
   "matchingmethod": [

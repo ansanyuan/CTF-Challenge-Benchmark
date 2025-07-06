@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Stacy刚刚在网上为她的狗买了一份6个月的跳蚤和蜱虫药方，价格为150.00美元。她的返现应用程序提供10%的返现，她还有一份6个月处方的25.00美元的邮寄退款。在返现和退款优惠后，这种药会花费多少钱？。",
+  "topic": "回答下面的数学问题：Stacy just bought a 6 month prescription of flea & tick medicine for her dog for $150.00 online.  Her cashback app was offering 10% cashback and she has a mail-in rebate for $25.00 on a 6-month prescription.  How much will the medicine cost after cash back and rebate offers?",
   "checkpoint": [
     {
-      "$\\boxed{110}$": 1
+      "\\boxed{110}": 1
     }
   ],
   "matchingmethod": [

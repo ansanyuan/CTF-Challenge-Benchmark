@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰的头发每个月长1.5英寸。每次长到9英寸时，他就把头发剪成6英寸。一次理发花费45美元，他还要给20%的小费。他一年理发花费多少钱？。",
+  "topic": "回答下面的数学问题：John's hair grows 1.5 inches every month.  Every time it gets to 9 inches long he cuts it down to 6 inches.  A haircut costs $45 and he gives a 20% tip.  How much does he spend on haircuts a year?",
   "checkpoint": [
     {
-      "$\\boxed{324}$": 1
+      "\\boxed{324}": 1
     }
   ],
   "matchingmethod": [

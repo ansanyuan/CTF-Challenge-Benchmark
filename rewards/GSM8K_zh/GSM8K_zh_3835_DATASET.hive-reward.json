@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅西和派珀去了击打垒球的场地。每个代币可以让你击打15次。梅西用了11个代币，派珀用了17个。梅西击中了球50次。派珀击中了球55次。梅西和派珀总共错过了多少次击打？。",
+  "topic": "回答下面的数学问题：Macy and Piper went to the batting cages. Each token gets you 15 pitches. Macy used 11 tokens and Piper used 17. Macy hit the ball 50 times. Piper hit the ball 55 times. How many pitches did Macy and Piper miss altogether?",
   "checkpoint": [
     {
-      "$\\boxed{315}$": 1
+      "\\boxed{315}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤米有一面宽5英尺，高4英尺的旗帜。他想用新设计来涂漆。他根据经验知道需要给两面都涂漆。油漆的价格是每夸脱2美元，一夸脱可以涂4平方英尺。他在油漆上花了多少钱？。",
+  "topic": "回答下面的数学问题：Tommy has a flag that is 5 feet wide and 4 feet tall. He wants to paint it with a new design. He knows from experience that he needs to paint both sides. Paint costs $2 a quart and a quart is good for 4 square feet. How much does he spend on paint?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米奇和约翰尼正在比赛，看谁能跑最多圈的街区。一圈街区等于200米。约翰尼跑了4圈。米奇跑的圈数是约翰尼的一半。约翰尼和米奇的平均跑步距离是多少？。",
+  "topic": "回答下面的数学问题：Mickey and Johnny are having a contest to see who can run around their block the most. One time around the block equals 200 meters. Johnny runs around the block 4 times. Mickey runs around the block half as many times as Johnny. What is the average distance run by Johnny and Mickey?",
   "checkpoint": [
     {
-      "$\\boxed{600}$": 1
+      "\\boxed{600}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：新闻宣布本周五将进行0.4美元的石油价格回调。迪恩先生决定今天只加满10升汽油，然后在周五再加满25升。如果今天每升汽油的成本是1.4美元，那么迪恩先生将为他的35升汽油花费多少钱？。",
+  "topic": "回答下面的数学问题：The news announced a $0.4 oil price rollback this Friday. Mr. Deane decided to only fill his gas tank with 10 liters of gas today and then another 25 liters on Friday. If the cost per liter of gas is $1.4 today, how much will Mr. Deane spend for his 35 liters of gas?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

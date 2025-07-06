@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：几何课后，比尔想数一下他画了多少条线。对于每个形状，他每边画一条线。如果他画了12个三角形，8个正方形和4个五边形，他一共画了多少条线？。",
+  "topic": "回答下面的数学问题：After geometry class, Bill wants to count how many lines he drew. For each shape, he drew one line per side. If he drew 12 triangles, 8 squares, and 4 pentagons, how many lines did he draw?",
   "checkpoint": [
     {
-      "$\\boxed{88}$": 1
+      "\\boxed{88}": 1
     }
   ],
   "matchingmethod": [

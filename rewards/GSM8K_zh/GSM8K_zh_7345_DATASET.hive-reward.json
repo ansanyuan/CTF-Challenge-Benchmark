@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：拉拉队教练正在订购新的制服。有4名拉拉队员需要2号尺码，一定数量的人需要6号尺码，还有一半数量的人需要12号尺码。如果一共有19名拉拉队员，那么需要6号尺码的拉拉队员有多少名？。",
+  "topic": "回答下面的数学问题：The cheerleading coach is ordering new uniforms. There are 4 cheerleaders who need a size 2, a certain number who need a size 6, and half that number who need a size 12. If there are 19 cheerleaders total, how many cheerleaders need a size 6?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

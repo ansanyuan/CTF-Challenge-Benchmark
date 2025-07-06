@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克每周拿100美元。他决定在游戏厅花掉一半的钱。他在游戏厅花了10美元买食物，剩下的钱用来买游戏代币。他可以用8美元玩1小时。他可以玩多少分钟？。",
+  "topic": "回答下面的数学问题：Mike gets paid 100 dollars a week.  He decides to spend half of that at an arcade.  He spends 10 dollars at the arcade on food and uses the rest on arcade tokens. He can play for 1 hour for $8. How many minutes can he play?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

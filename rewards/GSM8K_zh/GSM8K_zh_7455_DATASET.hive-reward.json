@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮弗每只长毛的腊肠犬梳理需要20分钟。如果她每天都给她的狗梳理，她在30天内会花多少时间梳理她的狗？。",
+  "topic": "回答下面的数学问题：It takes Jennifer 20 minutes to groom each of her 2 long hair dachshunds.  If she grooms her dogs every day, how many hours does she spend grooming her dogs in 30 days?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

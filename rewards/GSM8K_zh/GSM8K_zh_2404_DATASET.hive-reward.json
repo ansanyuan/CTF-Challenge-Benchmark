@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每周，Onur每天骑自行车250公里。他的朋友Hanil每天骑的距离比Onur多40公里。两位朋友一周内总共骑了多少距离？。",
+  "topic": "回答下面的数学问题：Five times a week, Onur bikes 250 kilometers a day. His friend Hanil bikes 40 more kilometers of Onur biking distance in a day. What's the total distance the two friends bikes in a week?",
   "checkpoint": [
     {
-      "$\\boxed{2700}$": 1
+      "\\boxed{2700}": 1
     }
   ],
   "matchingmethod": [

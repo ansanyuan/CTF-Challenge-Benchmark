@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carmen每晚点燃一支蜡烛1小时。一支蜡烛可以燃烧8个晚上。如果她每晚点燃蜡烛2小时，她在24个晚上会用多少支蜡烛？。",
+  "topic": "回答下面的数学问题：Carmen burns a candle for 1 hour every night.  A candle will last her 8 nights.  If she burns the candle for 2 hours a night, how many candles will she use over 24 nights?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

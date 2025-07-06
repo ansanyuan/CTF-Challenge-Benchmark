@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：制作12份惊喜鸡需要4.5磅鸡肉和24盎司的填料。一份惊喜鸡会是多少盎司？。",
+  "topic": "回答下面的数学问题：For 12 servings of Chicken Surprise, you need 4.5 pounds of chicken and 24 ounces of stuffing. How many ounces would one serving of Chicken Surprise be?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

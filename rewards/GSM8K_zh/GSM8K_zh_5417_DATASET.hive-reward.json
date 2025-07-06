@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：浴室的面积是96平方英尺。如果浴室的宽度是8英尺，业主想要在每一侧扩展2英尺，那么浴室的新面积是多少？。",
+  "topic": "回答下面的数学问题：The size of a bathroom is 96 sq ft. If the width of the bathroom is 8 feet and the owner wants to extend it by 2 feet on each side, what is the new area of the bathroom?",
   "checkpoint": [
     {
-      "$\\boxed{140}$": 1
+      "\\boxed{140}": 1
     }
   ],
   "matchingmethod": [

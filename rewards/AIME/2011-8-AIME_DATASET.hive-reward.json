@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $z_1,z_2,z_3,\\dots,z_{12}$ be the 12 zeroes of the polynomial $z^{12}-2^{36}$ . For each $j$ , let $w_j$ be one of $z_j$ or $i z_j$ . Then the maximum possible value of the real part of $\\sum_{j=1}^{12} w_j$ can be written as $m+\\sqrt{n}$ where $m$ and $n$ are positive integers. Find $m+n$ .",
   "checkpoint": [
     {
-      "$\\boxed{784}$": 1
+      "\\boxed{784}": 1
     }
   ],
   "matchingmethod": [

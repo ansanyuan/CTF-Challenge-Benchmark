@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marc买了5辆每辆20美元的模型车和5瓶每瓶10美元的油漆。他还买了5支每支2美元的画笔。Marc总共花了多少钱？。",
+  "topic": "回答下面的数学问题：Marc bought 5 model cars that cost $20 each and 5 bottles of paint that cost $10 each. He also bought 5 paintbrushes that cost $2 each. How much did Marc spend in total?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

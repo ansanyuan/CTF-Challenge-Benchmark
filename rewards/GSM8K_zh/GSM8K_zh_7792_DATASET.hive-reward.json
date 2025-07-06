@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果一个教室里女孩的数量是男孩的3倍，无性别儿童的数量是男孩的1/10，而这个教室有30个男孩。这个教室总共有多少个孩子？。",
+  "topic": "回答下面的数学问题：If a classroom has 3 times as many girls as they do boys, and 1/10 as many nongendered children as they do boys, and the classroom has 30 boys.  How many total children does it have?",
   "checkpoint": [
     {
-      "$\\boxed{123}$": 1
+      "\\boxed{123}": 1
     }
   ],
   "matchingmethod": [

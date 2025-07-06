@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂娜在六月存了27美元，在七月存了14美元，在八月存了21美元。然后蒂娜花了5美元买书和17美元买新鞋。蒂娜还剩多少钱？。",
+  "topic": "回答下面的数学问题：Tina saved $27 in June, $14 in July, and $21 in August. Then Tina spent $5 on books and $17 on new shoes. How much money does Tina have left?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：诺亚和艾娃计划去动物园。动物园门票是每人5美元。公交车费用是每人单程1.50美元。如果他们带了40美元，他们还剩下多少钱可以用来买午餐和零食？。",
+  "topic": "回答下面的数学问题：Noah and Ava are planning a trip to the zoo.  Zoo entry tickets are $5 per person.  Bus fare is $1.50 per person one way.  If they bring $40 with them, how much money do they have left to spend on lunch and snacks?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

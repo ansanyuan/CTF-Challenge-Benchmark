@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉姆想知道每加仑汽油能开多少英里。他的油箱有12加仑。他开车去上班，距离他家10英里，回来后还剩下油箱的2/3。他每加仑汽油能开多少英里？。",
+  "topic": "回答下面的数学问题：Jim is wondering how many miles each gallon of gas gets him. His gas tank is 12 gallons. He has 2/3 of a tank left after he drives to and from work, which is 10 miles away from his house. How many miles per gallon does he get?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

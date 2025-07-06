@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：赛维尔的年龄是亚斯敏的两倍。六年后，赛维尔将30岁。现在他们两个的年龄总和是多少？。",
+  "topic": "回答下面的数学问题：Xavier is twice as old as Yasmin is. Xavier will 30 years old in six years. What is the total of their ages now?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

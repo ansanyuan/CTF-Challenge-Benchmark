@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥黛丽的酸橙派需要1/4杯酸橙汁，但她喜欢将这个量加倍以使其更加酸涩。每个酸橙可以产出1汤匙的汁。1杯中有16汤匙。奥黛丽需要多少酸橙？。",
+  "topic": "回答下面的数学问题：Audrey's key lime pie calls for 1/4 cup of key lime juice but she likes to double this amount to make it extra tart.  Each key lime yields 1 tablespoon of juice.  There are 16 tablespoons in 1 cup.  How many key limes does Audrey need?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

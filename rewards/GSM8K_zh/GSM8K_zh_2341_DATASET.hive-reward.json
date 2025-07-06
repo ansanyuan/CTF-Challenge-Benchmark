@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jamal在图书馆整理书籍。他有一辆满满的书车，需要把书放到不同的区域。在历史区，他整理了12本书。在小说区，他整理了19本书。在儿童区，他整理了8本书，但发现了4本放错地方的书，他把它们加到书车上，准备放到其他地方。他还有16本书需要整理。他一开始书车上有多少本书？。",
+  "topic": "回答下面的数学问题：Jamal works at a library shelving books. He has a cart full of books to put away in different sections. In the history section, he shelves 12 books. In the fiction section, he shelves 19 books. In the children’s section, he shelves 8 books but finds 4 that were left in the wrong place that he adds to his cart to shelve elsewhere. He still has 16 books to shelve. How many books did he start with in the cart?",
   "checkpoint": [
     {
-      "$\\boxed{51}$": 1
+      "\\boxed{51}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：魔术王节目播出了10季，每季20集，前半季和后半季的集数不同。一共有多少集？。",
+  "topic": "回答下面的数学问题：The show Magic King was on the air for 10 seasons and 20 episodes per season for the first half of seasons and 25 for the second half of the show.  How many total episodes were there?",
   "checkpoint": [
     {
-      "$\\boxed{225}$": 1
+      "\\boxed{225}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mark是一名律师，每天在县法院工作。他花了5分钟找停车位，3分钟走进法院。每周有2天，他通过金属探测器需要30分钟，另外3天人少，所以只需要10分钟。在一周的5个工作日里，他在所有这些活动上花了多长时间？。",
+  "topic": "回答下面的数学问题：Mark is a lawyer who works at the county courthouse every day. It takes him 5 minutes to find parking and 3 minutes to walk into the courthouse. 2 days of the week it takes him 30 minutes to get through the metal detector and the other 3 days are less crowded so he gets through in 10 minutes. How long does he spend on all these activities in a week with 5 work days?",
   "checkpoint": [
     {
-      "$\\boxed{130}$": 1
+      "\\boxed{130}": 1
     }
   ],
   "matchingmethod": [

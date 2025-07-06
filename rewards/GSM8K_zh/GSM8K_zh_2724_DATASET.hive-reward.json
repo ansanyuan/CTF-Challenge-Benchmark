@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：河流的直部分长度是弯曲部分长度的三倍。如果河流长度为80英里，那么直部分的长度是多少？。",
+  "topic": "回答下面的数学问题：The length of the straight part of a river is three times shorter than the crooked part. If the river is 80 miles long, how long is the straight part of the river?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

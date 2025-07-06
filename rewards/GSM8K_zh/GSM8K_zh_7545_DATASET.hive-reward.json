@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kelian有两个烹饪食谱，一个有20个步骤，另一个有第一个食谱步骤的两倍。Kelian准备这两道菜需要阅读多少个步骤？。",
+  "topic": "回答下面的数学问题：Kelian has two recipes for preparing dishes, one having 20 instructions and the second one having twice as many instructions as the first one. How many instructions does Kelian have to read to prepare the two dishes?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

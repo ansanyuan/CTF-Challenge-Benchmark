@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克正在昆虫学博物馆里参观。他看到了80只蜘蛛，每只有8条腿，90只昆虫，每只有6条腿，还有3只罕见的变种无脊椎动物，每只有10条腿。杰克总共看到了多少条腿？。",
+  "topic": "回答下面的数学问题：Jake is walking through the Museum of Entomology. He sees 80 spiders with 8 legs each, 90 insects with 6 legs each, and 3 rare mutant invertebrates with 10 legs each. How many legs does Jake see total?",
   "checkpoint": [
     {
-      "$\\boxed{1210}$": 1
+      "\\boxed{1210}": 1
     }
   ],
   "matchingmethod": [

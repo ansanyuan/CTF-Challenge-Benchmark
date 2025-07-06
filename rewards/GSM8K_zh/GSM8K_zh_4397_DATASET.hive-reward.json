@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个伐木工人每天可以砍伐6棵树。森林是一个4英里乘以6英里的矩形，每平方英里有600棵树。如果每个月有30天，8个伐木工人需要多长时间才能砍伐完所有的树？。",
+  "topic": "回答下面的数学问题：One logger can cut down 6 trees per day. The forest is a rectangle measuring 4 miles by 6 miles, and each square mile has 600 trees. If there are 30 days in each month, how many months will it take 8 loggers to cut down all the trees?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

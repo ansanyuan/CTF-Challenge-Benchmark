@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔丹从他的树上摘了54个芒果。三分之一的芒果是成熟的，而另外三分之二的芒果还没有成熟。乔丹留下了16个未成熟的芒果，把剩下的给了他的妹妹，她把它们泡在玻璃罐里。如果需要4个芒果来填满一个罐子，乔丹的妹妹可以做多少罐泡制芒果？。",
+  "topic": "回答下面的数学问题：Jordan picked 54 mangoes from his tree. One-third of the mangoes were ripe while the other two-thirds were not yet ripe. Jordan kept 16 unripe mangoes and gave the remainder to his sister who pickled them in glass jars. If it takes 4 mangoes to fill a jar, how many jars of pickled mangoes can Jordan's sister make?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

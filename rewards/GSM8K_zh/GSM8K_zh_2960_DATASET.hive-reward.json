@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮丝从旅行中带回来了三打小石子给她的朋友。她的每个朋友得到了4个小石子。有多少个朋友收到了小石子？。",
+  "topic": "回答下面的数学问题：Janice gave all three dozens of pebbles from her trip to her friends. Each of her friends got 4 pebbles. How many friends received pebbles?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

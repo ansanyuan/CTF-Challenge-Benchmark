@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍娜正在为她的五个朋友购买音乐会门票。她能在音乐会网站上以每张50美元的价格买到两张票，然后票就卖光了。一个倒票商出价以正常价格的240%卖给她另外两张票，但珍娜说服他给她减去10美元。最后，她的一个朋友通过工作以正常价格的60%购买了一张打折票。珍娜的朋友们总共为他们的门票支付了多少钱？。",
+  "topic": "回答下面的数学问题：Jenna is buying concert tickets for her group of five friends. She's able to get two of the tickets from the concert website for $50 each before they sell out. A scalper offers to sell her two more tickets for 240% of the normal price, but Jenna convinces him to give her $10 off that total payment. Finally, one of her friends gets a discounted ticket through her job for 60% of the normal price. How much do Jenna's friends pay for their tickets in total?",
   "checkpoint": [
     {
-      "$\\boxed{360}$": 1
+      "\\boxed{360}": 1
     }
   ],
   "matchingmethod": [

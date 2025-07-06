@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：根据工作主管规定的最后期限，安妮需要每天额外工作5个小时，除了正常的工作时间表。如果每天她的工作时间表需要她工作10个小时，而项目估计需要1500个小时，计算安妮完成工作需要多少天。。",
+  "topic": "回答下面的数学问题：To finish the task assigned to her by the work supervisor in the stipulated deadline, Anie needs 5 hours extra aside from the normal work schedule each day.  If each day her work schedule requires her to be productive for 10 hours, and the project is estimated to take 1500 hours, calculate the number of days it would take Anie to finish the job.",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

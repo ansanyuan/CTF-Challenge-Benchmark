@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Walter想在他的年度炸鱼活动上为客人提供玉米面圆球。他认为每位客人会吃5个玉米面圆球，他有20位客人。他可以在8分钟内煮10个玉米面圆球。煮所有玉米面圆球需要多长时间？。",
+  "topic": "回答下面的数学问题：Walter wants to serve hushpuppies to his guests for his annual fish fry event.  He thinks each guest will eat 5 hushpuppies and he is having 20 guests.  He can cook 10 hushpuppies in 8 minutes.  How long will it take to cook all of the hushpuppies?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

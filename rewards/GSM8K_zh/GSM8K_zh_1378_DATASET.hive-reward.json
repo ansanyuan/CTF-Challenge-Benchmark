@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位老师要求阿德莱德、以弗莱姆和科尔顿购买鸭子，并监测它们的生长模式和特征，以供他们的科学课使用。阿德莱德购买的鸭子数量是以弗莱姆购买的两倍，而以弗莱姆购买的鸭子数量比科尔顿少45只。如果阿德莱德购买了30只鸭子，那么三人平均购买了多少只鸭子？。",
+  "topic": "回答下面的数学问题：A teacher asked Adelaide, Ephraim, and Kolton to buy ducks and monitor their growth patterns and features for their science class. Adelaide bought twice the number of ducks that Ephraim bought, while Ephraim bought 45 fewer ducks than Kolton. If Adelaide bought 30 ducks, what's the average number of ducks the three bought?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

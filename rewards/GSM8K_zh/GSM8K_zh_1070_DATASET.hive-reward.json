@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽亚的存钱罐里有4个一角硬币，4个二角硬币和7个五角硬币。她妈妈给了她5个二角硬币。现在玛丽亚一共有多少美元？。",
+  "topic": "回答下面的数学问题：Maria has 4 dimes, 4 quarters, and 7 nickels in her piggy bank. Her mom gives her 5 quarters. How much money, in dollars, does Maria have now?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hallie在周二练习舞蹈1小时，在周四练习2小时。在周六，她的舞蹈练习时间是周二晚上课程的两倍。她一周有多少小时的舞蹈练习？。",
+  "topic": "回答下面的数学问题：Hallie had dance practice for 1 hour on Tuesdays and 2 hours on Thursdays.  On Saturdays, she had dance practice that lasted twice as long as Tuesday's night class.  How many hours a week did she have dance practice?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Matt有8张价值每张6美元的棒球卡。如果他用其中两张与简交换3张价值每张2美元和1张价值9美元的卡，他能赚多少钱？。",
+  "topic": "回答下面的数学问题：Matt has 8 baseball cards worth $6 each. If he trades two of them to Jane in exchange for 3 $2 cards and 1 $9 card, how much profit does he make?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

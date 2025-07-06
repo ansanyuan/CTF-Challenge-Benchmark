@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：四只小熊猫和五只大熊猫分别每天吃25磅和40磅的新鲜竹笋。这9只熊猫一周吃多少磅的竹笋？。",
+  "topic": "回答下面的数学问题：Four small panda bears and five bigger panda bears eat 25 pounds and 40 pounds of fresh bamboo sprouts every day, respectively. How many pounds of bamboo do the 9 pandas eat in a week?",
   "checkpoint": [
     {
-      "$\\boxed{2100}$": 1
+      "\\boxed{2100}": 1
     }
   ],
   "matchingmethod": [

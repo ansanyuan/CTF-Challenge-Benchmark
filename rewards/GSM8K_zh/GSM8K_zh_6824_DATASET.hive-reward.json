@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史密斯先生在他的教室里有32支记号笔。他购买了新的记号笔盒，每个盒子里有9支记号笔。现在他有86支记号笔。史密斯先生买了多少个新的记号笔盒？。",
+  "topic": "回答下面的数学问题：Mr. Smith had 32 markers in his classroom. He buys new boxes of markers that have 9 markers in each box. Now, he has 86 markers. How many new boxes did Mr. Smith buy?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

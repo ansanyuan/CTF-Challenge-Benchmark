@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿波罗每天晚上都要拉着太阳穿过天空。每个月，他那辆火焰战车的车轮都需要更换。他用金苹果与铁匠赫淮斯托斯交换，让赫淮斯托斯给他制造新的车轮。赫淮斯托斯在年中提高了价格，现在要求的金苹果数量是之前的两倍。前六个月他收取了三个金苹果。阿波罗一整年的战车车轮需要支付多少金苹果？。",
+  "topic": "回答下面的数学问题：Apollo pulls the sun across the sky every night. Once a month, his fiery chariot’s wheels need to be replaced. He trades golden apples to Hephaestus the blacksmith to get Hephaestus to make him new wheels. Hephaestus raised his rates halfway through the year and now demands twice as many golden apples as before. He charged three golden apples for the first six months. How many golden apples does Apollo have to pay for the entire year of chariot wheels?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

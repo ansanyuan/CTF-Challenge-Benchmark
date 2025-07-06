@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在玛丽亚姆的社区，主要道路穿过社区的一侧有40栋房屋，另一侧有三倍于主要道路另一侧的房屋数量。玛丽亚姆的社区有多少栋房屋？。",
+  "topic": "回答下面的数学问题：In Mariam's neighborhood, there are 40 houses on one side of the main road passing through the neighborhood and three times as many homes on the other side of the road. How many homes are in Mariam's neighborhood?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alex正在把他的书堆成一个金字塔形状。金字塔的每一层书的数量是前一层书的80%。如果他做了四层，顶层有64本书，金字塔里总共有多少本书？。",
+  "topic": "回答下面的数学问题：Alex is stacking his books in a pyramid. Each level of the pyramid has 80% as many books as the number of books in the previous level. If he makes four levels and the top level has 64 books, how many books are in the pyramid in total?",
   "checkpoint": [
     {
-      "$\\boxed{369}$": 1
+      "\\boxed{369}": 1
     }
   ],
   "matchingmethod": [

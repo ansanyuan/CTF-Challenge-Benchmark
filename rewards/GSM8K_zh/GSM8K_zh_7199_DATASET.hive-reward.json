@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Betty把她弹珠收藏的40%给了Stuart后，Stuart的弹珠收藏数量增加到了80。如果Betty有60颗弹珠，那么Stuart最初有多少颗弹珠？。",
+  "topic": "回答下面的数学问题：After Betty gave Stuart 40% of her marble collection, the number of marbles in Stuart's collection increased to 80. If Betty had 60 marbles, how many marbles did Stuart have initially?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

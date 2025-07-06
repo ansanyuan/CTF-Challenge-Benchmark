@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mazie有52个弹珠，她把它们给了双胞胎Dallas和Darla。如果Dallas在操场上掉了4个弹珠后总共有21个弹珠，那么Mazie给了Darla多少个弹珠？。",
+  "topic": "回答下面的数学问题：Mazie has 52 marbles and gives them to twins, Dallas and Darla.  If Dallas has a total of 21 marbles after dropping 4 of them in the playground, how many did Mazie give to Darla?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

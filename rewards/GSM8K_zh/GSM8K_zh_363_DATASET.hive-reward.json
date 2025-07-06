@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Karen的工作手提包是她丈夫凯文空着的公文包的两倍重。当凯文把他的笔记本电脑和工作文件放进公文包后，它的重量是Karen手提包的两倍。凯文的工作文件的重量是他满载公文包内容的六分之一。如果Karen的手提包重8磅，凯文的笔记本电脑比Karen的手提包重多少磅？。",
+  "topic": "回答下面的数学问题：Karen’s work tote bag is twice the weight of her husband Kevin’s briefcase when the briefcase is empty. When Kevin puts his laptop and work papers in his briefcase, it is twice the weight of Karen’s tote. Kevin’s work papers are a sixth of the weight of the contents of his full briefcase. If Karen’s tote weighs 8 pounds, how many more pounds does Kevin’s laptop weigh than Karen’s tote?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

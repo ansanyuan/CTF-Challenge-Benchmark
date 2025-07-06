@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：劳伦每张工资单存20%。如果她计划为20年的退休期存钱，以她目前年薪的40%生活，她目前的薪水是10万美元，那么劳伦还需要工作多少年？。",
+  "topic": "回答下面的数学问题：Lauren is saving 20% of every paycheck. How many more years does Lauren need to work if she plans to save for a retirement period of 20 years, live with 40% of her current annual salary, and her current salary is $100,000?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

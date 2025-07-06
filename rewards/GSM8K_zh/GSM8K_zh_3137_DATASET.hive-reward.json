@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mark想和他的朋友们玩水球战。他去商店买气球，发现他们以4美元卖小袋，6美元卖中袋，12美元卖特大袋。他有24美元，想尽可能多地买气球。如果4美元的袋子里有50个气球，6美元的袋子里有75个气球，12美元的袋子里有200个气球，他最多能买多少个气球？。",
+  "topic": "回答下面的数学问题：Mark wants to have a water balloon fight with his friends. He goes to the store to buy balloons and sees that they sell small bags for $4, medium bags for $6 and extra large bags for $12. He has $24 and wants to get the most balloons as possible. If the $4 bags contain 50 balloons, the $6 bags contain 75 balloons and the $12 bags contain 200 balloons, what is the greatest number of balloons he can buy?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

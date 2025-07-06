@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鱼缸里有66条鱼。三分之一的鱼有红色条纹，剩余鱼中有5/11的鱼有蓝色条纹。总共有多少条鱼有红色和蓝色条纹？。",
+  "topic": "回答下面的数学问题：There are 66 fish in the fish tank. One-third of the fish have red stripes, and 5/11 of the remaining fish have blue stripes. Altogether, how many fish have red stripes and blue stripes?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

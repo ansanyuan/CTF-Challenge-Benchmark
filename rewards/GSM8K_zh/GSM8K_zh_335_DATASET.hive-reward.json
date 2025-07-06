@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Martha需要4杯浆果和2杯奶油来制作1夸脱冰淇淋。她想要制作1夸脱草莓冰淇淋和1夸脱覆盆子冰淇淋。在农贸市场，草莓的2杯装售价为3.00美元，而覆盆子的2杯装售价为5.00美元。奶油的4杯装售价为4.00美元。她制作1夸脱每种冰淇淋将花费多少钱？。",
+  "topic": "回答下面的数学问题：Martha needs 4 cups of berries and 2 cups of heavy cream to make 1 quart of ice cream.  She wants to make 1 quart of strawberry ice cream and 1 quart of raspberry ice cream.  At the farmers market, the 2 cup packages of strawberries are $3.00 each and the 2 cup package of raspberries are $5.00 each.  The heavy cream is sold for $4.00 for a 4 cup container.  How much will it cost her to make 1 quart of each ice cream?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

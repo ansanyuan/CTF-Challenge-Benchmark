@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Buffy和Oz去吃晚餐。 他们分享了一道价值9.00美元的开胃菜。 他们每个主菜都是20.00美元，他们分享了一份11.00美元的甜点。 如果他们留下30%的小费，整顿饭的价格是多少？。",
+  "topic": "回答下面的数学问题：Buffy and Oz went to dinner.  They shared an appetizer that cost $9.00.  Each of their entrees was $20.00 and they shared a dessert that was $11.00.  If they left a 30% tip, what was the entire price of the meal?",
   "checkpoint": [
     {
-      "$\\boxed{78}$": 1
+      "\\boxed{78}": 1
     }
   ],
   "matchingmethod": [

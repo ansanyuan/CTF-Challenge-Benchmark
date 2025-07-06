@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：购买烤面包机需要支付等于建议零售价的20%的保险费，再加上强制性的州税率50%。乔恩选择购买一台售价为30美元的烤面包机。他一共需要支付多少钱？。",
+  "topic": "回答下面的数学问题：Buying a toaster requires an insurance plan that is 20% of the MSRP, plus a mandatory state tax rate of 50% after the insurance plan calculation. Jon chooses to buy a toaster that costs $30 at MSRP. What is the total he must pay?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

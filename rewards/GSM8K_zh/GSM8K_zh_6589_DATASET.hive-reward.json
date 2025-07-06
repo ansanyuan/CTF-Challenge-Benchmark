@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个罐子里有9支蓝色钢笔，21支黑色钢笔和6支红色钢笔。先取出4支蓝色钢笔，然后取出7支黑色钢笔。罐子里还剩下多少支钢笔？。",
+  "topic": "回答下面的数学问题：A jar contains 9 blue pens, 21 black pens, and 6 red pens. Four blue pens are removed and then seven black pens are removed. How many pens are left in the jar?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

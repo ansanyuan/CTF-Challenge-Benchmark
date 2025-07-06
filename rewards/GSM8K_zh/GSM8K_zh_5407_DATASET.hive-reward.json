@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：男士和女士Boyden带着他们的3个孩子去一个休闲公园。他们为全家人买了门票。一张成人票的价格比一张儿童票的价格高6美元。5张门票的总价是77美元。一张成人票的价格是多少？。",
+  "topic": "回答下面的数学问题：Mr. and Mrs. Boyden take their 3 children to a leisure park. They buy tickets for the whole family. The cost of an adult ticket is $6 more than the cost of a child ticket. The total cost of the 5 tickets is $77. What is the cost of an adult ticket?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一角硬币的价值等于10枚便士，一枚五分镍币的价值等于5枚便士。Grace用她的10枚一角硬币和10枚五分镍币兑换后会有多少枚便士？。",
+  "topic": "回答下面的数学问题：A dime has the same value as 10 pennies and a nickel has the same value as 5 pennies. How many pennies will Grace have by exchanging her 10 dimes and 10 nickels?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

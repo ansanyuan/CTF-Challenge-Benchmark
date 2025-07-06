@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rich喜欢在镇上散步。首先，他从家走20英尺到人行道。然后他沿着人行道走200英尺到路的尽头。然后他左转，走了到目前为止的总距离的两倍，直到他到达下一个十字路口。然后他再次走到目前为止的总距离的一半，直到路线的尽头，然后掉头走回家。Rich一共走了多少英尺？。",
+  "topic": "回答下面的数学问题：Rich likes to take long walks through town.  First he walks 20 feet from his house to the sidewalk.  Then he walks 200 feet down the sidewalk to the end of the road.  Then he makes a left and walks double his total distance so far until he reaches the next intersection.  Then he walks half the total distance up to this point again to the end of his route, before turning around and walking the same path all the way back home.  How many feet did Rich walk?",
   "checkpoint": [
     {
-      "$\\boxed{1980}$": 1
+      "\\boxed{1980}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：美国燕子最多可以承载5磅的重量，而欧洲燕子可以承载的重量是美国燕子的两倍。如果有一群90只燕子，其中美国燕子的数量是欧洲燕子数量的两倍，这群燕子最多能携带多少重量？。",
+  "topic": "回答下面的数学问题：The American swallow can lift into the air and carry a maximum of 5 pounds of weight, while the European swallow can lift and carry twice the weight as the American swallow.  If there was a flock of 90 swallows, containing twice as many American as European swallows, what is the maximum combined weight the flock can carry?",
   "checkpoint": [
     {
-      "$\\boxed{600}$": 1
+      "\\boxed{600}": 1
     }
   ],
   "matchingmethod": [

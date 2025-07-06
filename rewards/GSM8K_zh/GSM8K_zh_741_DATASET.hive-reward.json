@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安吉在商场买了零食的三倍于雪莉。雪莉买的零食是巴里的一半。如果巴里买了12个零食，那么安吉买了多少个？。",
+  "topic": "回答下面的数学问题：Angie bought three times as many pretzels at the mall as Shelly did. Shelly bought half as many pretzels as Barry. If Barry bought 12 pretzels, how many did Angie buy?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

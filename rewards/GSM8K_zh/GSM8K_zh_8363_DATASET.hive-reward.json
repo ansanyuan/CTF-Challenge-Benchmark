@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Joelle在她的阳台上有5株兰花和4株非洲雏菊。如果兰花有5片花瓣，雏菊有10片花瓣，那么雏菊比兰花多了多少片花瓣？。",
+  "topic": "回答下面的数学问题：Joelle has 5 orchids and 4 African daisies on her balcony.  If the orchids have 5 petals and daisies have 10 petals, how many more petals do the daisies have compared to the orchids?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍勃花了27000美元分配给3所学校购买书籍。他可以用500美元买100本书。他每所学校能买多少本书？。",
+  "topic": "回答下面的数学问题：Bob spends $27000 distributed between 3 schools to buy books.  He can buy 100 books for $500.  How many books can he buy per school?",
   "checkpoint": [
     {
-      "$\\boxed{1800}$": 1
+      "\\boxed{1800}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在圣诞节假期期间，所有商店都关闭了3天。在这段时间内的每一天，一家名为“惊喜”的商店可能会赚5000美元。在6年的经营活动中，“惊喜”商店失去了多少潜在收入？。",
+  "topic": "回答下面的数学问题：During the Christmas holidays, all shops are closed for 3 days. During each day during this time, a shop called \"Surprise\" could have earned 5 thousand dollars. How much potential revenue did the \"Surprise\" shop lose during 6 years of activity?",
   "checkpoint": [
     {
-      "$\\boxed{90000}$": 1
+      "\\boxed{90000}": 1
     }
   ],
   "matchingmethod": [

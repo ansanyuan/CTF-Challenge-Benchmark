@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆正在切割一块木头做一个架子。他把木头切成了143厘米，但太长无法放入他正在制作的书架中。他决定从木板上切下25厘米。但结果比其他木板长。他不得不从每块木板上切下7厘米，使它们变成相同的尺寸。在他切下7厘米之前，木板有多长？。",
+  "topic": "回答下面的数学问题：Tom is cutting a piece of wood to make a shelf. He cut the wood to 143 cm, but it is too long to fit in the bookshelf he is making. He decides to cut 25 cm off the board. But it turned out longer than the other boards. He had to cut off 7 cm from each to make them the same size. How long were the boards before he cut the 7 cm off?",
   "checkpoint": [
     {
-      "$\\boxed{125}$": 1
+      "\\boxed{125}": 1
     }
   ],
   "matchingmethod": [

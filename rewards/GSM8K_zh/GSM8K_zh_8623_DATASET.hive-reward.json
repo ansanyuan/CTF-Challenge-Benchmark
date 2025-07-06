@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jen养了3条鱼。它们每天都需要价值1美元的食物。她在五月份的食物开销是多少？。",
+  "topic": "回答下面的数学问题：Jen got 3 fish.  They each need $1 worth of food a day.  How much does she spend on food in the month of May?",
   "checkpoint": [
     {
-      "$\\boxed{93}$": 1
+      "\\boxed{93}": 1
     }
   ],
   "matchingmethod": [

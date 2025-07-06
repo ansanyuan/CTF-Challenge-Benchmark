@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克想向所有为他的婚礼送礼物的人寄感谢卡。他发出了200份邀请。90%的人已经回复了，但只有80%的回复者实际出席了。然后有10个出席的人没有收到礼物。他需要多少张感谢卡？。",
+  "topic": "回答下面的数学问题：Jack wants to send thank you cards to everyone who got him a gift for his wedding.  He sent out 200 invitations.  90% of people RSVPed but only 80% of people who RSVPed actually showed up.  Then 10 people who showed up didn't get a gift.  How many thank you cards does he need?",
   "checkpoint": [
     {
-      "$\\boxed{134}$": 1
+      "\\boxed{134}": 1
     }
   ],
   "matchingmethod": [

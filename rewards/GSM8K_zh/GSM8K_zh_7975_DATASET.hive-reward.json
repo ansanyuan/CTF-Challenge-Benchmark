@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mariah的奶奶教她织毛衣。Mariah用了一团毛线的1/4。她的奶奶用了一团毛线的1/2。一团毛线有364码。他们总共用了多少码的毛线？。",
+  "topic": "回答下面的数学问题：Mariah’s grandma was teaching her to knit. Mariah used 1/4 of a skein of yarn. Her grandma used 1/2 of a skein of yarn. There are 364 yards in a skein of yarn. How many yards of yarn did they use altogether?",
   "checkpoint": [
     {
-      "$\\boxed{273}$": 1
+      "\\boxed{273}": 1
     }
   ],
   "matchingmethod": [

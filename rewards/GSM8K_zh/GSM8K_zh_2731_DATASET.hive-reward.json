@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯和他的4个朋友自愿种植花卉。在2天内，他们共种植了200朵花。如果每个人种植的花的数量相同，詹姆斯每天种植了多少朵花？。",
+  "topic": "回答下面的数学问题：James and 4 of his friends volunteered to plant flowers. In 2 days, they were able to plant a total of 200 flowers. If each of them planted the same number of flowers, how many flowers did James plant in a day?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

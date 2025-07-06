@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：彼得购买了20个冰棍，每个0.25美元。他还购买了4个冰淇淋棒，每个0.50美元。他总共支付了多少美元？。",
+  "topic": "回答下面的数学问题：Peter purchased 20 popsicles at $0.25 each. He also purchased 4 ice cream bars at $0.50 each. How much did he pay in total in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

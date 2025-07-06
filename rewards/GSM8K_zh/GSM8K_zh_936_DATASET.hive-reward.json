@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉姆正在烤面包。他的橱柜里有200克面粉，厨房台面上有100克面粉，食品储藏室里有100克面粉。如果一条面包需要200克面粉，吉姆可以烤多少条面包？。",
+  "topic": "回答下面的数学问题：Jim is baking loaves of bread. He has 200g of flour in the cupboard, 100g of flour on the kitchen counter, and 100g in the pantry. If one loaf of bread requires 200g of flour, how many loaves can Jim bake?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

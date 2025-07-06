@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个合唱团里，女性成员的数量是男性成员的两倍。如果合唱团里一共有18名成员，那么女性成员有多少人？。",
+  "topic": "回答下面的数学问题：In a glee club, there are two times as many female than male members. How many female members are there if there are 18 members in the club?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布莱克去杂货店，花了40美元买橙子，50美元买苹果，60美元买芒果。如果他有300美元，他会得到多少零钱？。",
+  "topic": "回答下面的数学问题：Blake goes to the grocery store and spends $40 on oranges, $50 on apples, and $60 on mangoes. If he has $300, how much change was he given?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

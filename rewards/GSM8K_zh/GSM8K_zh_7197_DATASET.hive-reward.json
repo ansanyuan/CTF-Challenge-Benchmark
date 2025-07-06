@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Aren从纽约飞往夏威夷需要11小时20分钟。他花了2小时阅读，4小时看两部电影，30分钟吃晚餐，40分钟听收音机，以及1小时10分钟玩游戏。他还剩下多少时间来小睡？。",
+  "topic": "回答下面的数学问题：Aren’s flight from New York to Hawaii will take 11 hours 20 minutes.  He spends 2 hours reading, 4 hours watching two movies, 30 minutes eating his dinner, 40 minutes listening to the radio, and 1 hour 10 minutes playing games.  How many hours does he have left to take a nap?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

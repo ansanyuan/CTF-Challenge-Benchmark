@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾米为她的朋友烤松饼。周一，她带了1个松饼到学校分享。接下来的每一天，她都比前一天多带一个松饼到学校。如果在周六她数了一下，发现还剩7个松饼，她最初烤了多少个松饼？。",
+  "topic": "回答下面的数学问题：Amy bakes muffins for her friends. On Monday, she brings 1 muffin to school to share. Each day for the rest of the week she brings one more muffin to school than she did the day before. If on Saturday she counts that there are 7 muffins left, how many did she originally bake?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

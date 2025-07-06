@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一件连衣裙需要5.5码的布料。阿玛尔需要为婚礼制作4件连衣裙，她手头有7英尺的布料。她还需要多少英尺的布料来制作这些连衣裙？。",
+  "topic": "回答下面的数学问题：One dress requires 5.5 yards of fabric. Amare needs to make 4 dresses for the wedding and she has 7 feet of fabric. How many feet of fabric does Amare still need for the dresses?",
   "checkpoint": [
     {
-      "$\\boxed{59}$": 1
+      "\\boxed{59}": 1
     }
   ],
   "matchingmethod": [

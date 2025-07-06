@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡尔文每次理发后都会保存他的头发剪掉的部分，以制作一顶假发给他的狗。他已经理了8次发，知道他还需要2次才能达到他的目标。他离目标的百分比是多少？。",
+  "topic": "回答下面的数学问题：Calvin has been saving his hair clippings after each haircut to make a wig for his dog. He has gotten 8 haircuts and knows that he needs 2 more to reach his goal. What percentage towards his goal is he?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

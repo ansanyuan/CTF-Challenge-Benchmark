@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：波特是一位画家，他创作了美丽的野生动物油画。最近，他绘制了一幅描绘一群狼站在雪白的山坡下的壁画，月圆之夜。他将这幅画拍卖，卖出的价格比他上一幅画的收入多了1000美元。如果他最近的画作售价为44000美元，那么他上一幅画的售价是多少美元？。",
+  "topic": "回答下面的数学问题：Porter is a painter who creates beautiful paintings of wild animals.  Most recently, he painted a mural of a pack of wolves standing on a snowy-white mountainside underneath a full moon.  He put the painting up for auction and it sold for $1000 less than five times more than he had made on his previous painting.  If he received $44,000 for the sale of his most recent painting, how much, in dollars, did he make for selling his previous painting?",
   "checkpoint": [
     {
-      "$\\boxed{9000}$": 1
+      "\\boxed{9000}": 1
     }
   ],
   "matchingmethod": [

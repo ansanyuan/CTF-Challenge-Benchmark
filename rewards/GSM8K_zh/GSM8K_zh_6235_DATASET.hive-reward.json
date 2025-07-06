@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三只青蛙试图跳过马路。第一只青蛙跳的次数是第二只的4倍。第二只青蛙跳的次数是第三只的两倍。如果三只青蛙总共跳了99次，第二只青蛙跳了多少次才能过马路？。",
+  "topic": "回答下面的数学问题：Three frogs are trying to hop across the road. The first frog takes 4 times as many hops as the second.  The second frog takes twice as many as the third.  If the three frogs took a total of 99 hops, how many hops did it take the second frog to cross the road?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

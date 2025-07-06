@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿尔伯特在体育课上需要跑99米。操场一圈是9米。他已经跑了6圈。一旦他完成，他还需要再跑多少圈才能完成操场一圈？。",
+  "topic": "回答下面的数学问题：Albert has to run 99 meters in gym class. The track is 9 meters around. He has already run 6 times around it. Once he finishes, how many more complete laps will he have made around the track?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

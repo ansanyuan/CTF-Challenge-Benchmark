@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Erwin平时吃2块巧克力，周末吃1块巧克力。他总共吃了24块巧克力。他花了多少周时间吃完所有的巧克力？。",
+  "topic": "回答下面的数学问题：Erwin eats 2 chocolates on weekdays and 1 chocolate on weekends. He ate 24 chocolates in total. How many weeks did it take to finish all the chocolate?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

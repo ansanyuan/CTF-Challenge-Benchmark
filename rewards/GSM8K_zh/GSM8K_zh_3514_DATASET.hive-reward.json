@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯必须给他的飞机加油。以前加满油箱的费用是200美元。他又多买了一个油箱，以增加燃油容量。燃油价格也上涨了20%。现在他加油要支付多少钱？。",
+  "topic": "回答下面的数学问题：James has to refuel his plane.  It used to cost $200 to refill the tank.  He got an extra tank to double fuel capacity.  Fuel prices also went up by 20%.  How much does he pay now for fuel?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安托万的法式洋葱汤食谱需要2磅洋葱。他喜欢加倍这个量。他的汤可以供6人食用。洋葱目前正在促销，每磅2美元。他还需要2盒牛肉高汤，也在促销，每盒2美元。每份的成本是多少？（四舍五入到最接近的整数。）。",
+  "topic": "回答下面的数学问题：Antoine's french onion soup recipe calls for 2 pounds of onions. He likes to double that amount. His soup serves 6 people. The onions are currently on sale for $2.00 a pound. He also needs 2 boxes of beef stock, that are also on sale for $2.00 a box.  What is the cost per serving? (Round to the nearest integer.)",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

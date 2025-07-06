@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特每天在本月的前两周服用两种维生素片和3种钙补充剂。在本月的最后两周，她的钙补充剂不够了，每天只服用一种。珍妮特在这个月总共服用了多少片药？。",
+  "topic": "回答下面的数学问题：Janet takes two multivitamins and 3 calcium supplements every day for the first 2 weeks of the month. For the last two weeks of the month, she runs low on calcium supplements and only takes one per day. How many pills does Janet take in that month?",
   "checkpoint": [
     {
-      "$\\boxed{112}$": 1
+      "\\boxed{112}": 1
     }
   ],
   "matchingmethod": [

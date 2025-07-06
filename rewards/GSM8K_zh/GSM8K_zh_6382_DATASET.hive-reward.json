@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：标准贵宾犬比迷你贵宾犬高8英寸，而迷你贵宾犬比玩具贵宾犬高6英寸。如果标准贵宾犬高28英寸，那么玩具贵宾犬有多高（单位：英寸）？。",
+  "topic": "回答下面的数学问题：The standard poodle is 8 inches taller than the miniature poodle, and the miniature poodle is 6 inches taller than the toy poodle.  If the standard poodle in 28 inches tall, how tall is the toy poodle in inches?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

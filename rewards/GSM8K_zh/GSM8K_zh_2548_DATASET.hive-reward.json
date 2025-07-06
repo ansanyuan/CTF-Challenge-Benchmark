@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰购买了3卷100米的钓鱼线。他把它切成10米一段。他得到了多少段？。",
+  "topic": "回答下面的数学问题：John buys 3 reels of 100m fishing line.  He cuts it into 10m sections.  How many sections does he get?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

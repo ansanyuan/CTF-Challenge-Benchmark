@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰用4个25美分硬币、3个10美分硬币和1个5美分硬币买了一根糖果棒。他找回了4美分的零钱。糖果棒的价格是多少美分？。",
+  "topic": "回答下面的数学问题：John pays for a candy bar with 4 quarters, 3 dimes, and a nickel.  He got 4 cents back in change.  How many cents did the candy bar cost?",
   "checkpoint": [
     {
-      "$\\boxed{131}$": 1
+      "\\boxed{131}": 1
     }
   ],
   "matchingmethod": [

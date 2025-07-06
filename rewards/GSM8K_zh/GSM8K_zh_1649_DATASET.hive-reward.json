@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：肯尼想确保他每周做的跳跃俯卧撑比上周多。他记录下上周他总共做了324个跳跃俯卧撑。在本周的周六，他查看了他的记录，发现他在周日做了34个，周一做了20个，周二休息了一天，周三做了123个，周四做了64个，周五做了23个。为了确保他超过了上周的数字，他周六需要做多少个？。",
+  "topic": "回答下面的数学问题：Kenny wants to make sure he does more jumping jacks every week than he did the week before. He recorded that last week he did 324 total jumping jacks. On Saturday of this week, he looks at his records and sees that on Sunday he did 34. On Monday he did 20. On Tuesday he skipped a day. On Wednesday he did 123. On Thursday he did 64. On Friday he did 23. How many does he have to do on Saturday to make sure he beats last week's number?",
   "checkpoint": [
     {
-      "$\\boxed{61}$": 1
+      "\\boxed{61}": 1
     }
   ],
   "matchingmethod": [

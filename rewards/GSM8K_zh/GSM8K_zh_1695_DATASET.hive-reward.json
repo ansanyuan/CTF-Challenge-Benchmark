@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carson是一名夜间保安。他应该巡逻一个长600英尺，宽400英尺的仓库外部。如果Carson应该绕着仓库转10次，但他感到累了，跳过了2次，那么他一晚上走了多远？。",
+  "topic": "回答下面的数学问题：Carson is a night security guard. He's supposed to patrol the outside of a warehouse that's 600 feet long and 400 feet wide. If Carson is supposed to circle the warehouse 10 times, but gets tired and skips 2 times, how far does he walk in one night?",
   "checkpoint": [
     {
-      "$\\boxed{16000}$": 1
+      "\\boxed{16000}": 1
     }
   ],
   "matchingmethod": [

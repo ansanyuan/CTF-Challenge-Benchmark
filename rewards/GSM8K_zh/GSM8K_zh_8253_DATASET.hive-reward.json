@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Llesis一家开车和徒步走了6个小时到他们的度假地点。他们平均每小时开车50英里，徒步时的平均速度比开车时的速度少了一半再少5英里。如果他们花了1.5小时徒步，那么他们的度假地点有多远？。",
+  "topic": "回答下面的数学问题：The Llesis family drove and hiked 6 hours to their vacation spot. They drove an average of 50 miles per hour and hiked an average of 5 miles per hour less than half their speed when they drive. If it took them 1.5 hours to hike, how far was their vacation spot?",
   "checkpoint": [
     {
-      "$\\boxed{255}$": 1
+      "\\boxed{255}": 1
     }
   ],
   "matchingmethod": [

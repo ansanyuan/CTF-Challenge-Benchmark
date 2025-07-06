@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉姆决定要为即将到来的马拉松练习。他开始连续30天每天跑5英里。然后，他努力让自己每天跑10英里，持续30天。最后，随着马拉松日子临近，吉姆连续30天每天跑20英里。在这90天内，吉姆总共跑了多少英里？。",
+  "topic": "回答下面的数学问题：Jim decides he wants to practice for a marathon coming up.  He starts off by running 5 miles every day for 30 days straight.  He then pushes himself to run 10 miles a day for the next 30 days.  Finally, as marathon day gets closer Jim runs 20 miles a day for 30 days straight.  How many miles does Jim run in total during the 90 days?",
   "checkpoint": [
     {
-      "$\\boxed{1050}$": 1
+      "\\boxed{1050}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：花木兰有40美元。她的父亲给了她100美元。她买了两条牛仔裤，每条30美元，还买了一个20美元的包。花木兰还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Mulan has $40. Her father gave her $100. She buys two pairs of jeans at $30 each and a bag for $20. How much money does Mulan have left?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

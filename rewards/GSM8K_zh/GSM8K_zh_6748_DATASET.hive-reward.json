@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carson为他的五个朋友拼车。他们五个人共同支付所有汽油费用来补偿Carson的时间。他们的总通勤路程是单程21英里，汽油价格为每加仑2.50美元，Carson的汽车每加仑可行驶30英里，他们每周上班5天，一个月4周。每个人每月需要支付多少汽油费？。",
+  "topic": "回答下面的数学问题：Carson runs a carpool for five of his friends. The five of them cover all the gas expenses to compensate Carson for his time. Their total commute is 21 miles one way, gas costs $2.50/gallon, Carson's car gets 30 miles/gallon, and they commute to work 5 days a week, 4 weeks a month. How much does each person pay toward gas monthly?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

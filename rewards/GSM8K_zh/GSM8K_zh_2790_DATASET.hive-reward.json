@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽亚的考试成绩分别是80、70和90。她需要在第四次考试中获得多少分，才能使她四次考试的平均分正好是85？。",
+  "topic": "回答下面的数学问题：Maria's test scores are 80, 70, and 90. What score does she need to get on a fourth test so that her average score for the four tests is exactly 85?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

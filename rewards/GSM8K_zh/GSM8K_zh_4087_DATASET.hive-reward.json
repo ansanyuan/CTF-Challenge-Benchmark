@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：桑德琳洗的盘子数比查尔斯煮的香蕉数多10个。此外，查尔斯煮的香蕉数是他采摘的梨数的3倍。如果查尔斯采摘了50个梨，桑德琳洗了多少个盘子？。",
+  "topic": "回答下面的数学问题：The number of dishes Sandrine washed was 10 more than the number of bananas Charles cooked. Also, the number of bananas Charles cooked was 3 times the number of pears he picked. If Charles picked 50 pears, how many dishes did Sandrine wash?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

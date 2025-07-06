@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carly是一名宠物美容师。今天，她的任务是修剪狗爪上的四个指甲。她修剪了164个指甲，但有三只狗只有三条腿。Carly一共为多少只狗工作过？。",
+  "topic": "回答下面的数学问题：Carly is a pet groomer. Today, her task was trimming the four nails on dogs’ paws. She trimmed 164 nails, but three of the dogs had only three legs. How many dogs did Carly work on?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

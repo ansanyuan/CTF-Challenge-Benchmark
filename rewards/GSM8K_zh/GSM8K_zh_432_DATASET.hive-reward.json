@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈维尔有一个妻子和3个孩子。他们有2只狗和1只猫。包括哈维尔在内，哈维尔的家庭总共有多少条腿？。",
+  "topic": "回答下面的数学问题：Javier has a wife and 3 children. They have 2 dogs and 1 cat. Including Javier, how many legs are there in total in Javier’s household?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

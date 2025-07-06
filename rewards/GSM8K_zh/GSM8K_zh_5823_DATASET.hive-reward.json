@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个繁忙的餐厅正在统计他们周五的顾客数量，以便预测他们周六可能会有多少顾客。早餐时，他们有73位顾客。午餐时，他们有127位顾客。晚餐时，他们有87位顾客。如果他们预测周六的顾客数量是周五的两倍，他们预测他们将会有多少顾客？。",
+  "topic": "回答下面的数学问题：A busy restaurant is counting how many customers they had during that Friday to try to predict how many they might get on Saturday. During breakfast, they had 73 customers. During lunch, they had 127 customers. During dinner, they had 87 customers. If they predict they'll get twice the amount of customers on Saturday as they had on Friday, how many customers do they predict they will get?",
   "checkpoint": [
     {
-      "$\\boxed{574}$": 1
+      "\\boxed{574}": 1
     }
   ],
   "matchingmethod": [

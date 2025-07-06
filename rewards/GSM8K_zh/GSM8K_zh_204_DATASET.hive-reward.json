@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Benny买了2瓶每瓶4美元的软饮料和5块糖果。他总共花了28美元。每块糖果的价格是多少？。",
+  "topic": "回答下面的数学问题：Benny bought  2 soft drinks for$ 4 each and 5 candy bars. He spent a total of 28 dollars. How much did each candy bar cost?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

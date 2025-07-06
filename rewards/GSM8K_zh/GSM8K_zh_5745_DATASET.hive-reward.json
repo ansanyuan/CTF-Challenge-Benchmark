@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥利维亚和奈杰尔正在亚洲旅行。奥利维亚有112美元，奈杰尔有139美元。如果他们一起购买了六张每张票价为28美元的旅游景点的一日通行证，他们剩下多少钱？。",
+  "topic": "回答下面的数学问题：Olivia and Nigel are traveling in Asia.  Olivia has $112 and Nigel has $139. If together they buy six one day passes to a tourist attraction for $28 per ticket, how much money do they have left?",
   "checkpoint": [
     {
-      "$\\boxed{83}$": 1
+      "\\boxed{83}": 1
     }
   ],
   "matchingmethod": [

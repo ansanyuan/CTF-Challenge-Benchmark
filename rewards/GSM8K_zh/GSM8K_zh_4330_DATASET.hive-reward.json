@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Leif的苹果树有14个苹果，橙子树有2打橙子。他比苹果多了多少个橙子？。",
+  "topic": "回答下面的数学问题：Leif’s apple tree has 14 apples and his orange tree has 2 dozen oranges.  How many more oranges does he have than apples?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

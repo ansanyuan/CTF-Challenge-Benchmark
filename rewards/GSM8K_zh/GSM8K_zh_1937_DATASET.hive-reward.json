@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔希和7个朋友聚在一起。每个人包括他自己都往锅里放了5美元。第一名得到80%的钱。第二名和第三名分剩下的钱。第三名得到多少钱？。",
+  "topic": "回答下面的数学问题：Josh gets together with 7 friends.  Everyone including him puts 5 dollars into a pot.  First place gets 80% of the money.  Second and third place split the rest.  How much money does third place get?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

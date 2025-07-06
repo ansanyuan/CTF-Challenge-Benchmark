@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个冰淇淋车正在穿过一个社区。来自不同家庭的孩子们开始追逐这辆车，当车到达第一条街的尽头时，有5个孩子在追。在第二条街上，每个孩子都有另一个孩子加入，而在第三条街上，现有团体中的每个孩子都有另外两个孩子加入。最初的5个孩子随后放弃并离开了团体。现在有多少孩子在跟随这辆车？。",
+  "topic": "回答下面的数学问题：An ice cream truck is traveling through a neighborhood. Children from various homes have started chasing the truck and, by the time the truck has reached the end of the first street, there are 5 children it. On the second street, each child is joined by another child and on the third street, each child in the existing group is joined by another 2 children. The original 5 children then give up and leave the group. How many children are now following the truck?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sam有3只德国牧羊犬和4只法国斗牛犬。彼得想要买比Sam拥有的德国牧羊犬多3倍，以及比Sam拥有的法国斗牛犬多2倍。彼得想要拥有多少只狗？。",
+  "topic": "回答下面的数学问题：Sam has 3 German Shepherds and 4 French Bulldogs. Peter wants to buy 3 times as many German Shepherds as Sam has and 2 times as many French Bulldogs as Sam has. How many dogs does Peter want to have?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

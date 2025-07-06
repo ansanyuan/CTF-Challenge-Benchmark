@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽有一个神秘书库。她在年初开始有72本神秘书。她加入了一个书籍俱乐部，该俱乐部每个月都会给她寄送1本书。在年中的时候，她去书店买了5本书，然后在后来的庭院销售中买了2本书。她的女儿在她的生日时送给她一本书，她母亲在玛丽去看她的时候送给她一套4本书。她将12本她不想再读的书捐给了慈善商店，并将3本书卖给了旧书店。在年底她有多少本书？。",
+  "topic": "回答下面的数学问题：Mary has a mystery book library. She started with 72 mystery books at the beginning of the year. She joined a book club that sent her 1 book each month of the year. She went to a bookstore halfway through the year and bought 5 more books, then bought 2 books at yard sales later. Her daughter gave her another book for her birthday, and her mother gave her a series of 4 books when Mary visited her. She donated 12 books she didn't want to read again to a charity shop and sold 3 to a used book store. How many books did she have at the end of the year?",
   "checkpoint": [
     {
-      "$\\boxed{81}$": 1
+      "\\boxed{81}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mindy比等待她的电话留言少了7封邮件。如果她的邮件和电话留言总共有93封，她有多少封邮件？。",
+  "topic": "回答下面的数学问题：Mindy has 7 less than 9 times as many emails waiting for her as phone messages. If she has a total of 93 emails and phone messages combined, how many emails does she have?",
   "checkpoint": [
     {
-      "$\\boxed{83}$": 1
+      "\\boxed{83}": 1
     }
   ],
   "matchingmethod": [

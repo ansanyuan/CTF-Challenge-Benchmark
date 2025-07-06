@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Yeon的西瓜籽数量是Gwi的三倍。Gwi比Bom多40颗西瓜籽。如果Bom有300颗西瓜籽，他们一共有多少颗西瓜籽？。",
+  "topic": "回答下面的数学问题：Yeon has three times as many watermelon seeds as Gwi. Gwi has 40 more watermelon seeds than Bom. If Bom has 300 watermelon seeds, how many seeds do they have together?",
   "checkpoint": [
     {
-      "$\\boxed{1660}$": 1
+      "\\boxed{1660}": 1
     }
   ],
   "matchingmethod": [

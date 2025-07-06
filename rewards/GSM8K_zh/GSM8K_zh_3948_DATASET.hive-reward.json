@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比尔的坚果数量是哈里的6倍，而哈里的坚果数量是苏的两倍。如果苏有48颗坚果，比尔和哈里总共有多少颗坚果？。",
+  "topic": "回答下面的数学问题：Bill has 6 times as many nuts as Harry, and Harry has twice as many nuts as Sue. If Sue has 48 nuts, how many do Bill and Harry have combined?",
   "checkpoint": [
     {
-      "$\\boxed{672}$": 1
+      "\\boxed{672}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个重400克的蛋糕被分成八等份。娜塔莉吃了蛋糕的八分之一，皮埃尔吃了娜塔莉吃的两倍。皮埃尔吃了多少克？。",
+  "topic": "回答下面的数学问题：A cake of 400 grams is divided into eight equal parts. Nathalie eats one-eighth of the cake, and Pierre eats double what Nathalie ate. How much did Pierre eat, in grams?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

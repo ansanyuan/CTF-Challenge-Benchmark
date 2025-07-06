@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每天，西耶娜在她的浏览器上做研究时会收藏30个网页。如果现在西耶娜的书签库里有400个收藏的页面，到三月底她的书签库里会有多少页面？。",
+  "topic": "回答下面的数学问题：Every day in a week, Siena bookmarks 30 website pages from the research she does on her browser. If Siena has 400 bookmarked pages on her bookmarks library now, how many pages will she have in her bookmarks library at the end of March?",
   "checkpoint": [
     {
-      "$\\boxed{1330}$": 1
+      "\\boxed{1330}": 1
     }
   ],
   "matchingmethod": [

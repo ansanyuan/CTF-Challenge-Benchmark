@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰工作的工作提供绩效奖金。他一天赚80美元，工作8小时。他有选择努力工作以赚取额外的20美元奖金的选项，但额外的努力会导致工作时间延长2小时。如果他决定赚取奖金，约翰每小时赚多少钱？。",
+  "topic": "回答下面的数学问题：John works a job that offers performance bonuses.  He makes $80 a day and works for 8 hours.  He has the option of working hard to earn the performance bonus of an extra $20 a day, but the extra effort results in a 2-hour longer workday.  How much does John make per hour if he decides to earn the bonus?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

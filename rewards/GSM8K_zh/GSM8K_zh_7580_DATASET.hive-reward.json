@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰有3个盒子。每个盒子的尺寸是5英寸乘6英寸乘4英寸。墙壁厚1英寸。所有3个盒子的总内部体积是多少？。",
+  "topic": "回答下面的数学问题：John has 3 boxes.  Each box is 5 inches by 6 inches by 4 inches.  The walls are 1 inch thick.  What is the total inner volume of all 3 boxes?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

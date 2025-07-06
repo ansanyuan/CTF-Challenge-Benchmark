@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奶奶莫莉在前院制作了乌龟雕像。第一年，她制作了4个雕像并将它们放在她的草坪上。第二年，她将前院的雕像数量增加了四倍。第三年，她在前院又增加了12个雕像，但一场冰雹风暴摧毁了3个雕像，她把它们扔掉了。第四年，她增加的新雕像数量是前一年被摧毁的两倍。四年结束时，她的前院有多少只乌龟雕像？。",
+  "topic": "回答下面的数学问题：Grandma Molly created statues of turtles for her front lawn.  The first year, she created 4 statues and placed them on her lawn.  The second year, she quadrupled the number of statues on her front lawn.  In the third year, she added another 12 statues to the front lawn, but a hail storm broke 3 of the statues, which she threw away.  In the fourth year, she added twice as many new statues as had been broken the year before.  At the end of the four years, how many turtle statues were on her front lawn?",
   "checkpoint": [
     {
-      "$\\boxed{31}$": 1
+      "\\boxed{31}": 1
     }
   ],
   "matchingmethod": [

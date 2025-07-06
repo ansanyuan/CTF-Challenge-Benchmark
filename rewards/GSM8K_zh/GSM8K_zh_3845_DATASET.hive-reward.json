@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊丽莎白想从婚礼登记处购买牛排刀作为结婚礼物。这对夫妇登记了2套牛排刀，每套包含4把牛排刀。如果伊丽莎白购买了两套，每套80.00美元，那么每把单独的牛排刀的价格是多少？。",
+  "topic": "回答下面的数学问题：Elizabeth wants to buy the steak knives from a bridal registry as a wedding gift.  The couple registered for 2 steak knife sets and each set contains 4 steak knives.  If Elizabeth buys both sets and they cost $80.00 per set, how much does each single steak knife cost?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

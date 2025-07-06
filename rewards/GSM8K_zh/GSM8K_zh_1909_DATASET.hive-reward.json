@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：泰勒和他的朋友决定把他们的宠物聚在一起散步。他的三个朋友先到，每个人的宠物数量是泰勒的两倍。另外两个朋友每人有2只宠物。如果泰勒有4只宠物，他们一共有多少只宠物？。",
+  "topic": "回答下面的数学问题：Taylor and his friends decide to bring their pets together for a walk. 3 of his friends come first, each having twice as many pets as Taylor has. Another two of his friends have 2 pets each. If Taylor has 4 pets, what's the total number of pets they have together?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

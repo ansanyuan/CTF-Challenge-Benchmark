@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Aria的高中学分是Emily的两倍，而Emily的高中学分是Spencer的两倍。如果Emily有20个学分，那么三个人的高中学分总数的两倍是多少？。",
+  "topic": "回答下面的数学问题：Aria has twice as many high school credits as Emily, who has twice the number of high school credits as Spencer. If Emily has 20 credits, what's twice the total number of high school credits the three have?",
   "checkpoint": [
     {
-      "$\\boxed{140}$": 1
+      "\\boxed{140}": 1
     }
   ],
   "matchingmethod": [

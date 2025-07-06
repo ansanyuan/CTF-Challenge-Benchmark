@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：戴安是她弟弟威尔的两倍大。如果3年前威尔4岁，那么5年后他们两个的年龄总和是多少？。",
+  "topic": "回答下面的数学问题：Diane is twice as old as her brother, Will. If Will was 4 years old 3 years ago, what will the sum of their ages be in 5 years?",
   "checkpoint": [
     {
-      "$\\boxed{31}$": 1
+      "\\boxed{31}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汉娜每跑1公里需要喝60毫升的水。如果她的体育老师让她跑8圈，每圈是0.25公里，那么汉娜需要喝多少毫升的水？。",
+  "topic": "回答下面的数学问题：Hannah needs to drink 60 ml of water for each kilometer she runs. If her gym teacher tells her to run 8 laps and each lap is 0.25 km, how many milliliters of water will Hannah need to drink?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

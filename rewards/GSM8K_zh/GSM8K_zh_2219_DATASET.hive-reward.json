@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：东部响尾蛇的尾巴有6个节，而西部响尾蛇的尾巴有8个节。它们的尾巴大小有多大的百分比差异，以西部响尾蛇的尾巴大小为百分比？。",
+  "topic": "回答下面的数学问题：Eastern rattlesnakes have 6 segments in their tails, while Western rattlesnakes have 8 segments. What is the percentage difference in their tail size, expressed as a percentage of the Western rattlesnake's tail size?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

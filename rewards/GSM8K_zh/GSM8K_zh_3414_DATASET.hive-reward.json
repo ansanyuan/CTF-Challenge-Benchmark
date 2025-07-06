@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克正在公园喂鸟。他一边投掷种子一边数数。他向左边的鸟投掷了20颗种子。然后向右边更多的鸟群投掷了两倍的种子。还有一些鸟飞过来加入其他的午餐，迈克为它们再投掷了30颗种子。如果迈克还剩30颗种子来喂最后一群鸟，那么迈克最初有多少颗种子？。",
+  "topic": "回答下面的数学问题：Mike is feeding the birds at the park. He counts out the seeds as he throws them. He throws 20 seeds to the birds on the left. He throws twice as much to the bigger group of birds on the right. Some more birds flutter over to join the others for lunch and Mike throws 30 more seeds for them. If Mike has 30 seeds left to feed the last of the birds, how many seeds did Mike start with?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

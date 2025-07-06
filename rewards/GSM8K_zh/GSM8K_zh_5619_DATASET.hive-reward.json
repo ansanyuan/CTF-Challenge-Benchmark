@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈利在睡觉的小时数。星期一晚上，他睡了8个小时。星期二晚上，他睡了7个小时。星期三晚上，他睡了8个小时。星期四晚上，他睡了10个小时。星期五晚上，他睡了7个小时。哈利每晚平均睡多少小时？。",
+  "topic": "回答下面的数学问题：Harry is counting the hours that he sleeps. On Monday night, he sleeps for 8 hours. On Tuesday night, he sleeps for 7 hours. On Wednesday night, he sleeps for 8 hours. On Thursday night, he sleeps for 10 hours. On Friday night he sleeps for 7 hours. What is the average number of hours that Harry sleeps in one night?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

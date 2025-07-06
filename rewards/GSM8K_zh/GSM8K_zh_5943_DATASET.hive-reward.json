@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tyrah有Sarah的六倍多的铅笔。Tim有Sarah的八倍多的铅笔。如果Tyrah有12支铅笔，Tim有多少支铅笔？。",
+  "topic": "回答下面的数学问题：Tyrah has six times as many pencils as Sarah has. Tim has eight times as many pencils as Sarah. If Tyrah has 12 pencils, how many does Tim have?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：露西尔正在粉刷她的房间。她的两面墙宽3米，高2米。第三面墙宽5米，高2米。最后一面墙宽4米，高2米。如果每罐油漆可以覆盖2平方米，露西尔需要多少罐油漆？。",
+  "topic": "回答下面的数学问题：Lucille is painting her room. Two of her walls are 3 meters wide and 2 meters tall. The third wall is 5 meters wide and 2 meters tall. The final wall is 4 meters wide and 2 meters tall. If each can of paint covers 2 square meters, how many cans of paint does Lucille need?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰正在为学校旅行筹款。他已经向学校申请了帮助，学校决定承担旅行费用的一半。如果他有50美元，而旅行费用是300美元，那么约翰还缺多少钱？。",
+  "topic": "回答下面的数学问题：John is raising money for a school trip. He has applied for help from the school, which has decided to cover half the cost of the trip. How much money is John missing if he has $50 and the trip costs $300?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

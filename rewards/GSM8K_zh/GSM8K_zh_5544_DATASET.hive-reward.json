@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰买一送一的罐头汤。他买了30罐，原价是0.60美元一罐。他一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：John buys cans of soup for buy 1 get one free.  He gets 30 cans with a normal price of $0.60.  How much does he pay?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

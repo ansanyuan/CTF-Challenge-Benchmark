@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：瑞克开始了一次夏季的公路旅行。他前往了旅行的第一个目的地，然后从那里，他前往了第二个目的地的两倍距离。旅行的第三个点距离40英里，这是他从一开始到第一个目的地的距离的一半。最后一个目的地的驾驶距离是其他所有路段加起来的两倍。他在整个旅行中总共行驶了多少英里？。",
+  "topic": "回答下面的数学问题：Rick took off on a road trip for the summer.  He traveled to the first destination on his trip, and then from there, he traveled twice the distance to this second destination.  The third point on his trip was 40 miles away, which was half the distance he traveled from the beginning to his first destination.  The final destination took twice the amount of driving of all the other legs put together.  How many miles in total did he travel across all the legs of the trip?",
   "checkpoint": [
     {
-      "$\\boxed{560}$": 1
+      "\\boxed{560}": 1
     }
   ],
   "matchingmethod": [

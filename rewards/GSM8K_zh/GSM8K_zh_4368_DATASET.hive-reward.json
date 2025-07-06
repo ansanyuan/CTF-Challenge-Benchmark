@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：苏珊在玩一个有48个空格的棋盘游戏，从起始空格到游戏的获胜终点空格。在第一轮中，她向前移动了八个空格。在第二轮中，她向前移动了两个空格，但落在一个将她送回五个空格的空格上。在第三轮中，她再向前移动了六个空格。她还需要移动多少个空格才能到达终点空格并赢得游戏？。",
+  "topic": "回答下面的数学问题：Susan is playing a board game with 48 spaces from the starting space to the winning end space of the game. On the first turn, she moves forward eight spaces. On the second turn, she moves two spaces, but lands on a space that sends her back five spaces. On the third turn, she moves forward six more spaces. How many spaces does she have to move to reach the ending space and win the game?",
   "checkpoint": [
     {
-      "$\\boxed{37}$": 1
+      "\\boxed{37}": 1
     }
   ],
   "matchingmethod": [

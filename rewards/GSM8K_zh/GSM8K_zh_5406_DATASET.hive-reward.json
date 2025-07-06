@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Socorro正在为数学竞赛做准备。她需要总共训练5小时。每天，她先做10分钟的乘法问题，然后做20分钟的除法问题。她需要多少天才能完成她的训练？。",
+  "topic": "回答下面的数学问题：Socorro is preparing for a math contest. She needs to train for a total of 5 hours. Each day, she answers problems about multiplication for 10 minutes and then division problems for 20 minutes. How many days will it take for her to complete her training?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

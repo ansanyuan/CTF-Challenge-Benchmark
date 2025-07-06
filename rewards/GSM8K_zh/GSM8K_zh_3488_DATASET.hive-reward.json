@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰尼每天做他的招牌螃蟹菜肴40次。每次需要1.5磅的螃蟹肉。螃蟹肉售价为每磅8美元。如果他每周休息3天，那么他一周花费多少钱？。",
+  "topic": "回答下面的数学问题：Johnny makes his signature crab dish 40 times a day.  It uses 1.5 pounds of crab meat.  Crab meat sells for $8 per pound.  How much does he spend in a week if he is closed 3 days a week?",
   "checkpoint": [
     {
-      "$\\boxed{1920}$": 1
+      "\\boxed{1920}": 1
     }
   ],
   "matchingmethod": [

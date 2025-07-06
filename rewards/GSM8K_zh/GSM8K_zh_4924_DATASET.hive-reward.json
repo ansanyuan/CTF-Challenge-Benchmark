@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥斯汀和杰克同时从一栋建筑物的第9层开始下降。奥斯汀乘坐电梯，而杰克走楼梯，每秒下降3个台阶。每层楼梯有30个台阶。如果电梯需要一分钟到达地面，那么杰克将在多少秒后到达地面？。",
+  "topic": "回答下面的数学问题：Austin and Jake start descending from the 9th floor of a building at the same time. Austin uses the elevator and Jake uses the stairs, descending 3 steps every second. The stairs have 30 steps across each floor. If the elevator will take a minute to get to ground level, how many seconds later will Jake get to the ground floor?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

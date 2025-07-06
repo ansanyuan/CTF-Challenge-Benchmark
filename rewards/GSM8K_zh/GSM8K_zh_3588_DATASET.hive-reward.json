@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：初中舞会有140名学生。其中四分之一是舞者。舞者中有25名跳慢舞。有多少名舞者学生没有跳慢舞？。",
+  "topic": "回答下面的数学问题：There were 140 kids in the junior prom. Of those, a fourth of them were dancers. Of the dancers, 25 danced the slow dance. How many of the dancer students did not slow dance?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

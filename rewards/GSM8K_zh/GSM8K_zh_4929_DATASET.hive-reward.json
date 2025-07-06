@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每两年，丽塔池塘里的天鹅数量翻倍。目前，池塘里有15只天鹅。十年后会有多少只天鹅？。",
+  "topic": "回答下面的数学问题：Every 2 years, the number of swans at Rita's pond doubles. Currently, there are 15 swans in the pond. How many swans will there be in ten years?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

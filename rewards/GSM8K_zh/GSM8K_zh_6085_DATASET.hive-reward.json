@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史密斯老师的班上有15个女孩和10个男孩。她把375本书平均分给他们。所有女孩一共得到了多少本书？。",
+  "topic": "回答下面的数学问题：There are 15 girls and 10 boys in Ms. Smith's class. She divided 375 books equally among them. How many books did all the girls get combined?",
   "checkpoint": [
     {
-      "$\\boxed{225}$": 1
+      "\\boxed{225}": 1
     }
   ],
   "matchingmethod": [

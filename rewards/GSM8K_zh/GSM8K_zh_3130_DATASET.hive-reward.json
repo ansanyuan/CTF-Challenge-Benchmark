@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克以每棵75美元的价格购买了6棵玫瑰灌木，其中2棵是给他的朋友，其余的是给他自己。他还以每棵100美元的价格购买了2棵虎牙芦荟。他在自己的植物上花了多少钱？。",
+  "topic": "回答下面的数学问题：Mike buys 6 rose bushes at 75 dollars each, 2 of them are for his friend and the rest are for him.  He also buys 2 tiger tooth aloes for 100 dollars each.  How much money did he spend on plants for himself?",
   "checkpoint": [
     {
-      "$\\boxed{500}$": 1
+      "\\boxed{500}": 1
     }
   ],
   "matchingmethod": [

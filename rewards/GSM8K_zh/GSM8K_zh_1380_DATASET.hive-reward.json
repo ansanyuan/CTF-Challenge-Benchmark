@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lola的兔子每年春天都会生小兔子。在第一个春天，她的10只繁殖兔子生了10倍于Lola拥有的繁殖兔子数量的小兔子，其中一半的小兔子被领养。其中5只因重新安置问题而被送回Lola。在接下来的春天，她的10只繁殖兔子只生了总共60只小兔子，其中4只被领养。包括繁殖兔子在内，Lola家里有多少只兔子？。",
+  "topic": "回答下面的数学问题：Lola’s rabbits keep having kittens each spring. During the first spring, her 10 breeding rabbits had 10 times as many kittens as the number of breeding rabbits Lola has, and half of the kittens got adopted. 5 of them had to be returned to Lola due to re-homing problems. During the next spring, her 10 breeding rabbits only had a total of 60 kittens, with 4 of the kittens being adopted. Including the breeding rabbits, how many rabbits does Lola have in her house?",
   "checkpoint": [
     {
-      "$\\boxed{121}$": 1
+      "\\boxed{121}": 1
     }
   ],
   "matchingmethod": [

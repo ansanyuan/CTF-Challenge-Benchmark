@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰从他叔叔那里收到100美元，并给了他的妹妹珍娜其中的四分之一。他去买了价值40美元的杂货。约翰剩下多少钱？。",
+  "topic": "回答下面的数学问题：John receives $100 from his uncle and gives his sister Jenna 1/4 of that money. He goes and buys groceries worth $40. How much money does John have remaining?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

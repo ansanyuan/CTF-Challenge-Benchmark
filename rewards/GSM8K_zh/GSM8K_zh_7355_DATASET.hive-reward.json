@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Helen从三月开始修剪她的草坪，到十月才结束。她的割草机每4次修剪草坪就需要用2加仑的汽油。对于三月、四月、九月和十月，她每个月只修剪2次。在五月、六月、七月和八月，她每个月需要修剪4次。从三月到十月，她需要多少加仑的汽油来修剪她的草坪？。",
+  "topic": "回答下面的数学问题：Helen cuts her lawn starting in March and finishes in October.  Her lawn mower uses 2 gallons of gas every 4th time she cuts her lawn.  For March, April, September and October, she only cuts her law 2 times per month.  In May, June, July and August, she has to cut her lawn 4 times per month.  How many gallons of gas will she need to cut her lawn from March through October?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

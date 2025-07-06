@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史蒂夫有一个每年赚取10%利息的银行账户。他在账户中存入100美元，然后每年存入10美元。两年后账户里有多少钱？。",
+  "topic": "回答下面的数学问题：Steve has a bank account that earns 10% interest every year. He puts $100 in it, and then 10 each year. How much money is in it after two years?",
   "checkpoint": [
     {
-      "$\\boxed{142}$": 1
+      "\\boxed{142}": 1
     }
   ],
   "matchingmethod": [

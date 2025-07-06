@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gene用旧纪念T恤缝制一床被子。他每次度假都会有一件T恤。每件T恤都是自己的被子块。每一排都是由不同年份度假的块组成。他每年度假四次，从23岁开始度假，现在他34岁。他总共有多少个被子块？。",
+  "topic": "回答下面的数学问题：Gene is sewing a quilt out of old souvenir t-shirts. He has one shirt from each vacation he has been on. Every shirt is its own quilt block. Each row is made of blocks from a different year of vacations. He goes on four vacations a year and has been vacationing since he was 23 years old. He is now 34. How many quilt blocks does he have in total?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

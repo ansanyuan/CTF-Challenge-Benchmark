@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Judy在工作日每天教5节舞蹈课，在周六教8节课。如果每节课有15名学生，她每名学生收费15美元，那么她一周能赚多少钱？。",
+  "topic": "回答下面的数学问题：Judy teaches 5 dance classes, every day, on the weekdays and 8 classes on Saturday.  If each class has 15 students and she charges $15.00 per student, how much money does she make in 1 week?",
   "checkpoint": [
     {
-      "$\\boxed{7425}$": 1
+      "\\boxed{7425}": 1
     }
   ],
   "matchingmethod": [

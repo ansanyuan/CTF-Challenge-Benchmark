@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两年后，奥菲利亚的年龄是列侬的四倍。如果列侬目前8岁，奥菲利亚多大了？。",
+  "topic": "回答下面的数学问题：In two years, Ophelia will be four times as old as Lennon. If Lennon is currently eight years old, how old is Ophelia?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

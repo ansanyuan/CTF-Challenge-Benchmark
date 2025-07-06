@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Porche有3个小时来完成所有的家庭作业。她的数学作业花了她45分钟。她的英语作业花了她30分钟。她的科学作业花了她50分钟。她的历史作业花了她25分钟。她还有一个明天要交的特别项目。她还有多少时间来完成那个项目？。",
+  "topic": "回答下面的数学问题：Porche has 3 hours to get all her homework done. Her math homework takes her 45 minutes. Her English homework takes her 30 minutes. Her science homework takes her 50 minutes. Her history homework takes her 25 minutes. She also has a special project due the next day. How much time does she have left to get that project done?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克正在烤面包。他需要让面团发酵两次，每次需要120分钟。他还需要花10分钟揉面团和30分钟烘烤。马克完成制作面包需要多少分钟？。",
+  "topic": "回答下面的数学问题：Mark is baking bread. He has to let it rise for 120 minutes twice. He also needs to spend 10 minutes kneading it and 30 minutes baking it. How many minutes does it take Mark to finish making the bread?",
   "checkpoint": [
     {
-      "$\\boxed{280}$": 1
+      "\\boxed{280}": 1
     }
   ],
   "matchingmethod": [

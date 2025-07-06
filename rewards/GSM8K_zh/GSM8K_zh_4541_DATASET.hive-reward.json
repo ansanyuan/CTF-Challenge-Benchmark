@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：特蕾西每顿给她的两只狗喂1.5杯的食物。她每天喂狗三次。如果1磅等于2.25杯，她的两只狗一共消耗多少磅的食物？。",
+  "topic": "回答下面的数学问题：Tracy feeds each of her two dogs 1.5 cups of food per meal. She feeds her dogs thrice a day. How many pounds of food do her two dogs consume if 1 pound is equal to 2.25 cups?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

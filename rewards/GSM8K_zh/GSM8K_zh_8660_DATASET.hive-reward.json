@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sam在周一、周三和周五跑了3英里。周二和周四，Sam跑了5英里。Sam这周总共跑了多少英里？。",
+  "topic": "回答下面的数学问题：Sam ran 3 miles on Monday, Wednesday and Friday.  On Tuesday and Thursday, Sam ran 5 miles.  How many miles did Sam run this week?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

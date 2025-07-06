@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Seth失去了17.5磅。Jerome失去了比他多三倍的磅数，而Veronica比Seth多失去了1.5磅。这三个人总共失去了多少磅？。",
+  "topic": "回答下面的数学问题：Seth lost 17.5 pounds. Jerome lost three times that many pounds and Veronica lost 1.5 pounds more than Seth. How many pounds did the 3 people lose in total?",
   "checkpoint": [
     {
-      "$\\boxed{89}$": 1
+      "\\boxed{89}": 1
     }
   ],
   "matchingmethod": [

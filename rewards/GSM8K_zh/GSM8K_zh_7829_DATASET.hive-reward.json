@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Eddy的后院有三棵树。最矮的树高6英尺，第二棵树比最矮的树高出5英尺。最高的树的高度是另外两棵树高度总和的两倍。最高的树有多高？。",
+  "topic": "回答下面的数学问题：There are three trees in Eddy's backyard. The shortest tree has a height of 6 feet, and the second tree has a height of 5 feet more than the shortest tree. The height of the tallest tree is twice the height of the two trees combined. How tall is the tallest tree?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

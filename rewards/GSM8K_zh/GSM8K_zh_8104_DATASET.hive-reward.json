@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂芙尼正在测量有多少冲浪者能在不摔倒的情况下骑上大浪。她看到当一个超过30英尺的浪到来时，只有25%的冲浪者能保持直立。在这些冲浪者中，60%是女性。如果有100名冲浪者，有多少男性能在浪上保持直立？。",
+  "topic": "回答下面的数学问题：Tiffany is measuring how many surfers can ride a big wave without falling. She sees that when a wave over 30 feet arrives, only 25% of the riders can stay upright. Of these riders, 60% are women. If there are 100 riders, how many men can stay upright on the wave?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

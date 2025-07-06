@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰有200美元。他把他的钱的3/8给了他的母亲，3/10给了他的父亲。约翰剩下多少钱？。",
+  "topic": "回答下面的数学问题：John had $200. He gave 3/8 of his money to his mother and 3/10 to his father. How much money did John have left?",
   "checkpoint": [
     {
-      "$\\boxed{65}$": 1
+      "\\boxed{65}": 1
     }
   ],
   "matchingmethod": [

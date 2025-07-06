@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家公司决定带员工去参观一个古代遗址。员工被分成3组，每组200名员工。每组分配了7名导游。这次旅行总共有多少人？。",
+  "topic": "回答下面的数学问题：A company decided to take its employees on a tour to explore an ancient site. The employees were divided into 3 groups of 200 employees. Each group was assigned 7 tour guides. How many is the total number of people going on this tour?",
   "checkpoint": [
     {
-      "$\\boxed{621}$": 1
+      "\\boxed{621}": 1
     }
   ],
   "matchingmethod": [

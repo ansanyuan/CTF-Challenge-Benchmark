@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰在他12岁生日收到了20份礼物。他在13岁生日收到了少8份礼物。在这两个生日之间，他一共收到了多少份礼物？。",
+  "topic": "回答下面的数学问题：John received 20 gifts on his 12th birthday.  He received 8 fewer gifts on his 13th birthday.  How many total gifts did he receive between those two birthdays?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

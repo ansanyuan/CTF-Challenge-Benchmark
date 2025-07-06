@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在足球比赛中，踢球者在第一节比赛中进了2个球，在第二节比赛中进了第一节的两倍。另一支球队，蜘蛛队，在第一节比赛中进了踢球者的一半，第二节比赛中进了踢球者第二节的两倍。两支球队总共进了多少球？。",
+  "topic": "回答下面的数学问题：During the soccer match, The Kickers scored 2 goals in the first period and twice that amount in the second period.  The other team, The Spiders, scored half the amount that The Kickers scored in the first period and twice the amount that The Kickers scored in their second period.  What is the total amount of goals both teams scored?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

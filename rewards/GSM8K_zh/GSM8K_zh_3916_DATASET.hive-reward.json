@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔丹是一名曲棍球守门员。在比赛的第一节中，他挡住了四次射门。在第二节，他挡住了两倍于第一节的射门。在第三节，他比第二节少挡了三次射门。当比赛在第四节结束时，他总共挡住了21次射门。乔丹在第四节挡住了多少次射门？。",
+  "topic": "回答下面的数学问题：Jordan is a hockey goalie. In the first period of a game, he blocked four shots. In the second period, he blocked twice as many shots. In the third period, he blocked three fewer than in the second period. When the game ended after the fourth period, he had blocked 21 shots in all. How many did Jordan block in the fourth period?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

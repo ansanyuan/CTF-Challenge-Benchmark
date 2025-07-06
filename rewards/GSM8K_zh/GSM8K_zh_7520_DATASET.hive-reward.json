@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Candice在去咖啡店工作之前，她的钱包里放了80张便利贴。在去的路上，她在商店停下来买了一包便利贴；在工作中，她在220个不同的咖啡杯上各贴了一张便利贴。如果她总共剩下了23张便利贴，那么她买的那包便利贴里有多少张？。",
+  "topic": "回答下面的数学问题：Candice put 80 post-it notes in her purse before she headed out to her job at the coffee shop.  On her way, she stopped off at the store and purchased a package of Post-it notes;  At work, she placed a single Post-it note on each of 220 different cups of coffee.  If she had 23 post-it notes remaining overall, how many Post-it notes were in the package that she purchased?",
   "checkpoint": [
     {
-      "$\\boxed{163}$": 1
+      "\\boxed{163}": 1
     }
   ],
   "matchingmethod": [

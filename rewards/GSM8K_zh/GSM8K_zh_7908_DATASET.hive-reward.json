@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：自动售货机上的薯片售价为40美分，糖果条售价为75美分。乔治花了5美元买了3包薯片，并且还剩下了他钱的1%。他买了多少根糖果条？。",
+  "topic": "回答下面的数学问题：The vending machines sell chips for 40 cents and candy bars for 75 cents. George spent $5 and got 3 bags of chips and had 1% of his money left. How many candy bars did he buy?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：达芙妮在超市买了5公斤的土豆。如果2公斤的土豆售价为6美元，她将支付多少钱？。",
+  "topic": "回答下面的数学问题：Daphney buys 5 kg of potatoes at the supermarket. If 2 kg of potatoes costs $6, how much will she pay?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

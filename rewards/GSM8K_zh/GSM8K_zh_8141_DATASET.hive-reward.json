@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨拉的篮球比赛有4个节，每个节都是12分钟。在最后一个节中，比分打成平手，所以比赛延长了五分钟。整场比赛持续了多长时间？。",
+  "topic": "回答下面的数学问题：Sarah’s basketball games are 4 quarters that are each 12 minutes long. In the last quarter, there was a tie so the game was extended for five minutes. How long did the entire game last?",
   "checkpoint": [
     {
-      "$\\boxed{53}$": 1
+      "\\boxed{53}": 1
     }
   ],
   "matchingmethod": [

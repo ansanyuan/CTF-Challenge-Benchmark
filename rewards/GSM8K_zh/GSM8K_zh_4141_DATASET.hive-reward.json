@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔在学校篮球队的大三时期得了260分。在大四时期，他得了比之前多20%的分数。他两年内一共得了多少分？。",
+  "topic": "回答下面的数学问题：Michael scored 260 points during his junior year on the school basketball team. He scored 20% more points during his senior year. How many points did he score during both years?",
   "checkpoint": [
     {
-      "$\\boxed{572}$": 1
+      "\\boxed{572}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯汀和瑞秋去采草莓。她们想要做馅饼，每个馅饼需要3磅草莓。克里斯汀采摘了10磅草莓，瑞秋采摘的数量是克里斯汀的两倍。她们一共可以做多少个馅饼？。",
+  "topic": "回答下面的数学问题：Christine and Rachel went strawberry picking.  They want to make pies and need 3 pounds of strawberries per pie.  Christine picked 10 pounds of strawberries and Rachel picked twice as much as Rachel.  Together, how many pies can they make?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

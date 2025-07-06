@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：C型校车有13排座位，车中间有一条过道，将每排分成两个部分。如果学校只允许每个部分坐两名学生，那么校车上可以坐多少学生？。",
+  "topic": "回答下面的数学问题：A type C school bus contains 13 rows of seats, with an aisle running down the middle of the bus, splitting each row into two sections.  If the school only allowed two students to sit in each section, how many students could be seated on the bus?",
   "checkpoint": [
     {
-      "$\\boxed{52}$": 1
+      "\\boxed{52}": 1
     }
   ],
   "matchingmethod": [

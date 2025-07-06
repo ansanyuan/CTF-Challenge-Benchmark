@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯在一次意外中烧伤了手。他需要4周时间才能够康复到足够接受皮肤移植手术。然后，他需要比之前康复时间长50%的时间才能从皮肤移植手术中康复。他从头到尾一共需要多长时间来康复？。",
+  "topic": "回答下面的数学问题：James burned his hand in a freak accident.  It takes him 4 weeks to heal enough to get a skin graft.  After that it takes him 50% longer than that to heal from the skin graft.  How long did he take to recover from everything?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：路易吉买了四个披萨，花了80美元。每个披萨被切成5块。每块披萨的成本是多少美元？。",
+  "topic": "回答下面的数学问题：Luigi bought four pizzas for $80.  Each pizza was cut into 5 pieces.  How much did each piece of pizza cost, in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

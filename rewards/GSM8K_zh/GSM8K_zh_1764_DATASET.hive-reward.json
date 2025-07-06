@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：我和我弟弟有30分钟去学校，不能迟到。我们到学校大门需要15分钟，再花6分钟到学校楼。我们还有多少时间到我们的教室，不会迟到？。",
+  "topic": "回答下面的数学问题：My brother and I have thirty minutes to go to school, without being late. It takes us 15 minutes to arrive at the school gate, and another 6 minutes to get to the school building. How much time do we have to get to our room, without being late?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

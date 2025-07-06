@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有6盒蜡笔，每盒有8支橙色的蜡笔。有7盒蜡笔，每盒有5支蓝色的蜡笔。还有1盒有11支红色的蜡笔。总共有多少支蜡笔？。",
+  "topic": "回答下面的数学问题：There are 6 boxes of crayons that hold 8 orange crayons. There are 7 boxes of crayons that have 5 blue crayons. There is 1 box of 11 red crayons. How many crayons are there in total?",
   "checkpoint": [
     {
-      "$\\boxed{94}$": 1
+      "\\boxed{94}": 1
     }
   ],
   "matchingmethod": [

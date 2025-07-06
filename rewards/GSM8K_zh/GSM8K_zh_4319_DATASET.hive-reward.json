@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅尔去咖啡厅和朋友们共度时光。她点了两杯咖啡和一块蛋糕。她的两个朋友也点了一样的东西，但他们每人还买了一碗冰淇淋。一杯咖啡是4美元，一块蛋糕是7美元，一碗冰淇淋是3美元。梅尔和她的朋友们在咖啡厅一共需要支付多少钱？。",
+  "topic": "回答下面的数学问题：Mell went to a cafeteria to spend some time with her friends. She ordered two cups of coffee and one piece of cake. Two of her friends ordered the same, but each of them also bought a bowl of ice cream. One cup of coffee is $4, one piece of cake is $7, and a bowl of ice cream is $3. How much money did Mell and her friends need to pay at the cafeteria?",
   "checkpoint": [
     {
-      "$\\boxed{51}$": 1
+      "\\boxed{51}": 1
     }
   ],
   "matchingmethod": [

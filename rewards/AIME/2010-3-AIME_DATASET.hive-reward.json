@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $K$ be the product of all factors $(b-a)$ (not necessarily distinct) where $a$ and $b$ are integers satisfying $1\\le a < b \\le 20$ . Find the greatest positive integer $n$ such that $2^n$ divides $K$ .",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

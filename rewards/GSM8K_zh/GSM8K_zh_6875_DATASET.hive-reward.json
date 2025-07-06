@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mandy的手机数据套餐每月收取30美元。她的第一个月获得了正常价格的三分之一的促销价格。然而，在第四个月，她超出了数据限制，被收取了额外的15美元费用。Mandy在前6个月为数据支付了多少钱？。",
+  "topic": "回答下面的数学问题：Mandy’s phone data plan charges $30 per month for data. Her first month, she got a promotional rate of one-third the normal price. However, in the fourth month she went over her data limit and was charged an extra fee of $15. How much did Mandy pay in the first 6 months for data?",
   "checkpoint": [
     {
-      "$\\boxed{175}$": 1
+      "\\boxed{175}": 1
     }
   ],
   "matchingmethod": [

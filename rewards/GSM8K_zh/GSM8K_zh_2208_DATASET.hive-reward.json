@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：足球教练让他的球员上下看台跑40次。每次他们上下跑32级楼梯。如果每级楼梯燃烧2卡路里，每位球员在这项运动中燃烧了多少卡路里？。",
+  "topic": "回答下面的数学问题：The football coach makes his players run up and down the bleachers 40 times. Each time they run up and down 32 stairs one way. If each stair burns 2 calories, how many calories does each player burn during this exercise?",
   "checkpoint": [
     {
-      "$\\boxed{5120}$": 1
+      "\\boxed{5120}": 1
     }
   ],
   "matchingmethod": [

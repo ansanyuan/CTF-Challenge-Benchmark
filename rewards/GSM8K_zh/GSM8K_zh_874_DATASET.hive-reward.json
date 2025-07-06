@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格兰奇波瑟农场的果园种植了苹果树和桃树。果园有30棵每棵产150公斤苹果的苹果树和45棵每棵平均产65公斤水果的桃树。这个果园收获的水果总质量是多少？。",
+  "topic": "回答下面的数学问题：Apple and peach trees are planted in the orchard of the Grange Poser farm. The orchard has 30 apple trees that each give 150 kg of apples and 45 peach trees that each produce an average of 65 kg of fruit. What is the total mass of fruit harvested in this orchard?",
   "checkpoint": [
     {
-      "$\\boxed{7425}$": 1
+      "\\boxed{7425}": 1
     }
   ],
   "matchingmethod": [

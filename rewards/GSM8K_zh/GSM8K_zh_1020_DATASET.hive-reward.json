@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：爱丽丝和鲍勃决定在他们的第一次约会时烤饼干。爱丽丝烤了74块巧克力曲奇饼干，鲍勃烤了7块花生酱饼干。在不小心把一些扔到地板上后，爱丽丝又烤了5块饼干，鲍勃又烤了36块。如果最后他们有93块可食用的饼干，那么不小心扔到地板上的饼干有多少块？。",
+  "topic": "回答下面的数学问题：Alice and Bob decided to bake cookies for their first date. Alice baked 74 chocolate chip cookies and Bob baked 7 peanut butter cookies. After accidentally throwing some on the floor, Alice baked 5 more cookies and Bob baked 36 more. If they had 93 edible cookies at the end, how many were accidentally thrown on the floor?",
   "checkpoint": [
     {
-      "$\\boxed{29}$": 1
+      "\\boxed{29}": 1
     }
   ],
   "matchingmethod": [

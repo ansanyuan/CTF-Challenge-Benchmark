@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马特用右手每分钟可以写10个字，用左手每分钟可以写7个字。马特用右手写5分钟比用左手写多少个字？。",
+  "topic": "回答下面的数学问题：Matt can write 10 words a minute with his right hand and 7 words a minute with his left hand. How many words would Matt write in 5 minutes with his right hand than with his left?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

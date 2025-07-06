@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Vanessa的新业务蓬勃发展，她经常有订单需要寄出。她已经用完了包装花生米，现在想知道她寄出了多少订单。每个大订单需要200克的包装花生米，而小订单只需要50克的包装花生米。如果Vanessa总共用了800克的包装花生米，并且她知道她寄出了3个大订单，那么Vanessa一共寄出了多少个小订单？。",
+  "topic": "回答下面的数学问题：Vanessa's new business is thriving and she frequently has orders to post. She has run out of packing peanuts for the packages and is now wondering how many orders she has sent. Each large order needs 200g of packing peanuts while small orders need just 50g of packing peanuts. If Lisa has used a total of 800g of packing peanuts and she knows she has sent 3 large orders, how many small orders has Lisa sent?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

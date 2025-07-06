@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约瑟夫想要去波士顿进行一次公路旅行。如果他选择A路线，他需要5小时才能到达；但如果他选择B路线，只需要2小时就能到达目的地。如果他选择B路线去波士顿并返回家，他将节省多少时间？。",
+  "topic": "回答下面的数学问题：Joseph wants to go to Boston for a road trip. If he takes route A, it will take him 5 hours to arrive; but if he takes route B, it will only take him 2 hours to arrive at his destination. How much time will he save if he takes route B to Boston and back to his home?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

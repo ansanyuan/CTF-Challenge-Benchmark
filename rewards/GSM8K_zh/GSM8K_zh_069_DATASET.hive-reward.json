@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Elsa拥有的硬币与Amalie拥有的硬币的比例是10:45。如果她们总共有440枚硬币，而Amalie花费了她拥有的3/4在玩具上，她将剩下多少？。",
+  "topic": "回答下面的数学问题：The ratio of coins that Elsa has to that which Amalie has is 10:45. If the total number of coins they have is 440, and Amalie spends 3/4 of what she has on toys, how many will she remain with?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

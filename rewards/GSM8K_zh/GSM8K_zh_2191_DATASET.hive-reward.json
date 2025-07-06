@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮和她的5个朋友报名参加晚餐剧场。每个人支付50美元的门票和10美元的主菜费，一半的人还购买了30美元/人的无限饮料券。然后由于COVID的原因，晚餐剧场被取消，每个人获得了90%的退款。这六个朋友一共损失了多少钱？。",
+  "topic": "回答下面的数学问题：Jenny signs up for dinner theater with 5 of her friends. Each person pays $50 for the ticket and $10 for their entrée, and half the people also buy unlimited drink tickets for $30/person. Then the dinner theater is canceled due to COVID, and each person gets a 90% refund. How much money did the group of six friends lose?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

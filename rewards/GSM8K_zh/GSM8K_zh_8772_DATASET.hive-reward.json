@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贾斯汀有一个装满硬币的罐子。罐子里有32个25美分硬币，95个10美分硬币，120个5美分硬币和750个1美分硬币。罐子里的总金额是多少美元？。",
+  "topic": "回答下面的数学问题：Justin has a jar with many coins in it. The jar has 32 quarters, 95 dimes, 120 nickels, and 750 pennies. What is the total dollar amount in the jar?",
   "checkpoint": [
     {
-      "$\\boxed{31}$": 1
+      "\\boxed{31}": 1
     }
   ],
   "matchingmethod": [

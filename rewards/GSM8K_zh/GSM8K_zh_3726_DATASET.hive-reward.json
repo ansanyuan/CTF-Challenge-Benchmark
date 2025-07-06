@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在花生商店，花生每磅售价为3美元，最低购买量为15磅。如果巴克斯特花了105美元买花生，他超过最低购买量多少磅？。",
+  "topic": "回答下面的数学问题：At Peanut Emporium, peanuts cost $3 per pound with a 15-pound minimum. If Baxter spent $105 on peanuts, how many pounds over the minimum did he purchase?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

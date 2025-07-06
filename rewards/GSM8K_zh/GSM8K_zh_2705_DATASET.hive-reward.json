@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jocelyn 3年前以4000美元买了一辆车。如果车的价值减少了30%，请计算车的当前价值。。",
+  "topic": "回答下面的数学问题：Jocelyn bought a car 3 years ago at $4000. If the car's value has reduced by 30%, calculate the current value of the car.",
   "checkpoint": [
     {
-      "$\\boxed{2800}$": 1
+      "\\boxed{2800}": 1
     }
   ],
   "matchingmethod": [

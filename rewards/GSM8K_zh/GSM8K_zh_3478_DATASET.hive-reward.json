@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰逊先生正在组织学校的圣诞戏剧，并需要50名志愿者来帮助装饰礼堂。学校的6个数学班级中每个班级有5名学生自愿帮忙。此外，还有13名老师自愿帮忙。约翰逊先生还需要多少名志愿者？。",
+  "topic": "回答下面的数学问题：Mr. Johnson is organizing the school Christmas play and needs 50 volunteers to help with decorating the auditorium. 5 students from each of the school’s 6 math classes have volunteered to help. 13 teachers have also volunteered to help. How many more volunteers will Mr. Johnson need?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

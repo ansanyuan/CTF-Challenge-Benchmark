@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Willy有10只毛绒动物玩具。他妈妈在他生日时给了他2只毛绒动物玩具。在他生日后，如果他爸爸给他的毛绒动物玩具是他现有数量的3倍，Willy总共有多少只毛绒动物玩具？。",
+  "topic": "回答下面的数学问题：Willy has 10 stuffed animals. His mom gives him 2 more stuffed animals for his birthday. After his birthday, if his dad gives him 3 times more stuffed animals than he has, how many stuffed animals does Willy have in total?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

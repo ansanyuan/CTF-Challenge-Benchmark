@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡米尔在观鸟时看到了3只红衣主教和四倍于红衣主教数量的知更鸟。她还看到了比红衣主教数量的两倍还多的蓝松鸟，以及比红衣主教数量的三倍还多1只麻雀。卡米尔看到了多少只鸟？。",
+  "topic": "回答下面的数学问题：Camille saw 3 cardinals and four times as many robins as cardinals while bird watching. She also saw twice as many blue jays as cardinals and 1 more than three times as many sparrows as cardinals. How many birds did Camille see?",
   "checkpoint": [
     {
-      "$\\boxed{31}$": 1
+      "\\boxed{31}": 1
     }
   ],
   "matchingmethod": [

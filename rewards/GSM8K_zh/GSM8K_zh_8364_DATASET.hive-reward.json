@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史密斯太太的花园里有100株植物。她的植物中有四分之一是室内植物。剩余的三分之二是室外植物，其余的是开花植物。开花植物占植物的百分比是多少？。",
+  "topic": "回答下面的数学问题：There are 100 plants in Mrs. Smith's garden. One-fourth of her plants are indoor plants. Two-thirds of the remaining are outdoor plants while the rest are flowering plants. What percent of the plants are flowering plants?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

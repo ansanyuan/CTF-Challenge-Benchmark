@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：多萝西，朱莉娅和罗伯特去商店买学习用品。多萝西买的钢笔数量是朱莉娅的一半。朱莉娅买的钢笔数量是罗伯特的三倍。罗伯特买了4支钢笔。如果一支钢笔的价格是1.50美元，三位朋友总共在钢笔上花了多少钱？。",
+  "topic": "回答下面的数学问题：Dorothy, Julia, and Robert go to the store to buy school supplies. Dorothy buys half as many pens as Julia. Julia buys three times as many pens as Robert. Robert buys 4 pens. If one pen costs $1.50, how much money did the three friends spend in total on pens?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝茜和多诺万一起做了一顿饭。贝茜的部分比多诺万的部分多花了18分钟。整顿饭做了98分钟。贝茜的部分花了多少分钟？。",
+  "topic": "回答下面的数学问题：Betsy and Donovan made a meal together. Betsy's part took 18 minutes longer than Donovan's part. The meal was made in 98 minutes. How many minutes long was Betsy's part?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

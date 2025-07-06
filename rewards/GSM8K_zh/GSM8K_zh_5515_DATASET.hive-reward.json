@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：冷却器里装有24罐樱桃苏打和橙子汽水。如果橙子汽水的罐数是樱桃苏打的两倍，那么有多少罐樱桃苏打？。",
+  "topic": "回答下面的数学问题：A cooler is filled with 24 cans of cherry soda and orange pop. If there are twice as many cans of orange pop as there are of cherry soda, how many cherry sodas are there?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

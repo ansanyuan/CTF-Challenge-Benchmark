@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bridgette和Alex要结婚了。Bridgette邀请了84位客人，而Alex邀请了这个数量的三分之二的客人。他们雇了一个餐饮服务商为婚礼接待每位客人做一份盘餐。餐饮服务商总是多做十份盘餐以防万一。每份有蒜香牛排和芦笋，每份盘餐上会有8根芦笋。餐饮服务商总共需要多少根芦笋？。",
+  "topic": "回答下面的数学问题：Bridgette and Alex are getting married. Bridgette is inviting 84 guests, and Alex is inviting two thirds of that number of guests. They hired a caterer to make a plated meal for each guest at the wedding reception. The caterer always makes ten extra plates just in case something goes wrong. Each plate of steak and asparagus in garlic butter will have 8 asparagus spears on it. How many asparagus spears will the caterer need in all?",
   "checkpoint": [
     {
-      "$\\boxed{1200}$": 1
+      "\\boxed{1200}": 1
     }
   ],
   "matchingmethod": [

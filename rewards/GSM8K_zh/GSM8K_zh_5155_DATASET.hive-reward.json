@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托马斯6岁。他的姐姐莎伊比他大13岁，比他们的哥哥詹姆斯小5岁。到托马斯达到他目前的年龄时，詹姆斯多大了？。",
+  "topic": "回答下面的数学问题：Thomas is 6 years old. His older sister, Shay, is 13 years older than him and 5 years younger than their older brother, James. How old will James be by the time Thomas reaches his current age?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾伦正在烤面包。每个面团需要3小时发酵，然后再烤2小时。如果她连续做4个面团，然后在它们发酵完成后一个接一个地烤，需要多少小时？。",
+  "topic": "回答下面的数学问题：Ellen is baking bread. It takes 3 hours to rise 1 ball of dough, and then another 2 hours to bake it. If she makes 4 balls of dough one after another and then bakes them one after another when they're done rising, how many hours will it take?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：威廉的班级每周设定了要收集的食品罐头数量目标。第一天收集了20罐。然后每天增加5罐。如果他们每周收集5天以达到他们的目标，每周的食品罐头目标数量是多少？。",
+  "topic": "回答下面的数学问题：William's class set a goal each week of the number of cans of food that is to be collected. On the first day, 20 cans were collected. Then the number of cans increased by 5 each day. If they collected 5 days a week to reach their goal, how many cans of food was their goal per week?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

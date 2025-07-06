@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：水箱里有很多鱼。其中三分之一是蓝色的，而蓝色鱼中有一半有斑点。如果有10条蓝色有斑点的鱼，水箱里有多少条鱼？。",
+  "topic": "回答下面的数学问题：There are many fish in the tank. One third of them are blue, and half of the blue fish have spots. If there are 10 blue, spotted fish, how many fish are there in the tank?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

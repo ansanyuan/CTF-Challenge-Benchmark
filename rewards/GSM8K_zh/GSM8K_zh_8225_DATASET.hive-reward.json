@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：大猩猩冈瑟在蕨类植物的枝条下藏了48根香蕉。当冈瑟不注意时，黑猩猩阿诺德从堆里偷走了一半的香蕉。第二天，冈瑟又往他的堆里加了25根香蕉，但那天晚上，阿诺德又偷走了12根香蕉。第三天，冈瑟又往堆里加了6根香蕉，并开始数香蕉。冈瑟发现堆里有多少根香蕉？。",
+  "topic": "回答下面的数学问题：Gunther, the gorilla, had 48 bananas hidden under a fern branch.  When Gunther wasn't looking, Arnold, the chimpanzee, stole half of the bananas from the pile.  The next day, Gunther added another 25 bananas to his pile, but later that evening, Arnold stole another 12 of the bananas.  On the third day, Gunther added another 6 bananas to his pile and began counting bananas.  How many bananas did Gunther find were in the pile?",
   "checkpoint": [
     {
-      "$\\boxed{43}$": 1
+      "\\boxed{43}": 1
     }
   ],
   "matchingmethod": [

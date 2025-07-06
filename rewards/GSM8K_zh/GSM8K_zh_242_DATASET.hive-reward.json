@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：陆先生拥有一家电脑商店。上个月，他们销售的电脑中有一半是笔记本电脑，三分之一是上网本，其余的是台式电脑。如果陆先生的商店总共卖出了72台电脑，其中有多少台是台式电脑？。",
+  "topic": "回答下面的数学问题：Mr. Lu owns a computer store. For last month, half of their sales are laptops, one-third are netbooks, and the rest are desktop computers. If Mr. Lu's store was able to sell a total of 72 computers, how many of them are desktop computers?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克正在用乐高积木建桥。为了成功，他至少需要40块A型积木，以及一半数量的B型积木。总共，他需要使用150块积木。除了提到的类型，他将使用多少块其他类型的积木？。",
+  "topic": "回答下面的数学问题：Mike is building a bridge out of LEGO blocks. To be successful he needs at least 40 bricks of type A, and half that many of type B. In total, he needs to use 150 bricks. How many bricks of other types than mentioned is he going to use?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

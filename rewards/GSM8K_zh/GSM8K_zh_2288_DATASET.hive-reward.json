@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jason正在数经过他窗户的汽车数量。他数了绿色汽车的数量是红色汽车的四倍，比紫色汽车多6辆。如果他总共数了312辆车，其中有多少辆是紫色的？。",
+  "topic": "回答下面的数学问题：Jason is counting the number of cars that drive by his window. He counted four times as many green cars as red cars, and 6 more red cars than purple cars. If he counted 312 cars total, how many of them were purple?",
   "checkpoint": [
     {
-      "$\\boxed{47}$": 1
+      "\\boxed{47}": 1
     }
   ],
   "matchingmethod": [

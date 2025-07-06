@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈罗德每月从工作中赚取2500.00美元。他的房租是700.00美元，汽车付款是300.00美元，水电费用是汽车付款的一半，他在杂货上花费了50.00美元。他想把剩下的钱的一半存入养老账户。那会剩下多少钱？。",
+  "topic": "回答下面的数学问题：Harold makes $2500.00 a month from his job. His rent is $700.00, his car payment is $300.00, his utilities cost 1/2 the amount of his car payment and he spends $50.00 on groceries.  He wants to put half of the remaining money into a retirement account.  How much money will that leave him?",
   "checkpoint": [
     {
-      "$\\boxed{650}$": 1
+      "\\boxed{650}": 1
     }
   ],
   "matchingmethod": [

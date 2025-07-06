@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰委托一位艺术家为他制作一幅9乘13的画。这样大小的黑白画的价格是160美元。他想要一幅彩色画，所以价格贵50%。他一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：John commissions an artist to make him a 9 by 13 drawing.  A black and white drawing that size would cost $160.  He wants a color drawing so that is 50% more expensive.  How much did he pay?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

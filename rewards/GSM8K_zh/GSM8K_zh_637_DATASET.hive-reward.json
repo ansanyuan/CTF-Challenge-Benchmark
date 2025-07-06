@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：问题： 蒂娜正在做作业，突然发现她在笔记本电脑上打字很困难，因为很多键都很粘。尽管如此，她需要在晚餐前完成作业，所以她需要决定是否有时间先清洁键盘。蒂娜知道她的作业只需要10分钟完成。晚餐将在下午5:30准备好。蒂娜决定计时清除和清洁一个键需要多长时间，然后将该时间乘以她需要修复的键数。她数了有15个粘的键，清洁一个键需要3分钟。蒂娜已经清洁了一个键，所以她还剩下14个键需要清洁，每个键需要3分钟，14 x 3 = 42分钟来清洁所有键盘键。她的作业需要10分钟完成，所以她需要42分钟 + 10分钟 = 52分钟，在晚餐前总共需要52分钟。答案是：52。。",
+  "topic": "回答下面的数学问题：Tina is working on her homework when she realizes she's having a hard time typing out her answers on her laptop because a lot of the keys are sticky. She is trying to get her homework done before dinner, though, so she needs to decide if she has time to clean her keyboard first. Tina knows her assignment will only take 10 minutes to complete. Dinner will be ready at 5:30 p.m. Tina decides to time how long it takes to remove and clean one key and will then multiply that time by how many keys she needs to fix. She counts 15 keys that are sticky and times it to take 3 minutes to clean one. After Tina has cleaned one key, there are 14 left to clean. How many minutes total will it take for Tina to both clean the remaining keys and finish her assignment?",
   "checkpoint": [
     {
-      "$\\boxed{52}$": 1
+      "\\boxed{52}": 1
     }
   ],
   "matchingmethod": [

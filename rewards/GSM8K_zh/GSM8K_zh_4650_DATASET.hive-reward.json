@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一台机器每8分钟装满150罐油漆。这台机器需要多少分钟才能装满675罐油漆？。",
+  "topic": "回答下面的数学问题：A machine fills 150 cans of paint every 8 minutes. How many minutes does it take this machine to fill 675 cans?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

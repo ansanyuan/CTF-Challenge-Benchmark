@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯开了一家花店。他每周需要支付1200美元的租金，另外还需要支付租金的20%用于水电费，他每天营业16小时，每周5天，每个班次有2名员工。如果他支付每名员工12.50美元/小时，经营这家店的每周开销是多少？。",
+  "topic": "回答下面的数学问题：James opens up a flower shop.  He needs to pay rent of $1200 a week with an additional 20% of rent to pay for utilities and he has 2 employees per shift with the store open 16 hours a day for 5 days a week.  If he pays each employee $12.50 an hour, what are his weekly expenses to run the store?",
   "checkpoint": [
     {
-      "$\\boxed{3440}$": 1
+      "\\boxed{3440}": 1
     }
   ],
   "matchingmethod": [

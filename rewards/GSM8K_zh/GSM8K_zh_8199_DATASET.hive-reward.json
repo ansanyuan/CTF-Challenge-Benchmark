@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只猫在30分钟内吃了九根香肠。一只狗可以在猫吃的时间的2/3内吃掉相同数量的香肠。计算这两者吃香肠的平均时间。。",
+  "topic": "回答下面的数学问题：A cat eats nine sausages in 30 minutes. A dog can eat the same number of sausages in 2/3 the amount of time the cat takes. Calculate the average time the two take the eat the sausages.",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：李有10美元，他的朋友有8美元。他们去了一家餐厅，点了6美元的鸡翅和4美元的鸡沙拉。他们还买了2美元一瓶的苏打水。税费是3美元。他们总共应该收到多少找头？。",
+  "topic": "回答下面的数学问题：Lee had $10 and his friend had $8. They went to a restaurant where they ordered chicken wings for $6 and a chicken salad for $4. They also got 2 sodas for $1.00 each. The tax came to $3. How much change should they have received in total?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

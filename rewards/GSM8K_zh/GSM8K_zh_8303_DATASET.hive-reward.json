@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍里斯拥有一家巧克力工厂。他每个月生产5万条巧克力。鲍里斯第一周生产了8000条巧克力。第二周，鲍里斯只生产了第一周的一半。但是，第三周，鲍里斯生产了第一周的三倍。他第四周生产了多少条巧克力？。",
+  "topic": "回答下面的数学问题：Boris owns a chocolate factory. He produces 50,000 bars of chocolate each month. Boris produces 8,000 bars of chocolate the first week. The second week, Boris only produces half as much as the first week. But, the third week, Boris produces three times as much as the first week. How much does he produce the fourth week?",
   "checkpoint": [
     {
-      "$\\boxed{14000}$": 1
+      "\\boxed{14000}": 1
     }
   ],
   "matchingmethod": [

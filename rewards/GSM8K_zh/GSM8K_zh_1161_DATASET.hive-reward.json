@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个正常的日子，朱莉娅可以在10分钟内跑完一英里。然而，今天她决定穿上她的新鞋去跑步。这些鞋不舒服，使她的一英里时间延长到了13分钟。如果她穿着新鞋跑5英里，比穿旧鞋跑5英里需要多长时间？。",
+  "topic": "回答下面的数学问题：On a normal day, Julia can run a mile in 10 minutes. However, today she decided to wear her new shoes to run. They were uncomfortable and slowed her mile down to 13 minutes. How much longer would it take Julia to run 5 miles in her new shoes than if she wore her old ones?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

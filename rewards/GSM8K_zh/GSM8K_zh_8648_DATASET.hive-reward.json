@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托马斯从银行账户中取出1000美元，都是20美元的钞票。他在回家的路上丢失了10张钞票。之后，他用剩下的一半钞票支付了一笔账单。托马斯然后将他的钱翻了三倍。他随后将所有的钞票兑换成5美元的钞票。托马斯有多少张5美元的钞票？。",
+  "topic": "回答下面的数学问题：Thomas withdraws $1000 in 20 dollar bills from the bank account.  He loses 10 bills while getting home.  After that, he uses half of the remaining bills to pay for a bill.  Thomas then triples his money.  He then converts all his bills to 5 dollar bills.  How many 5 dollar bills does he have?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位心理医生有4名患者需要总共25次疗程。其中一名患者需要6次疗程。另一名患者需要比这多5次。剩下的患者需要多少次疗程？。",
+  "topic": "回答下面的数学问题：A psychiatrist has 4 patients that need 25 sessions in total. One of the patients needs 6 sessions. Another patient needs 5 more than that. How many sessions would the remaining patients need?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

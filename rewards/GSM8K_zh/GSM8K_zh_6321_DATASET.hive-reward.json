@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Aaron有四个兄弟。如果Bennett的兄弟数量比Aaron的兄弟数量的两倍少两个，那么Bennett的兄弟数量是多少？。",
+  "topic": "回答下面的数学问题：Aaron has four brothers. If the number of Bennett's brothers is two less than twice the number of Aaron's brothers, what is the number of Bennett's brothers?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

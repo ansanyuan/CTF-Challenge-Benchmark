@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一场演出首映，有200人购买了门票。第二场演出有三倍的人出现。如果每张票价值25美元，演出赚了多少钱？。",
+  "topic": "回答下面的数学问题：A show debut and 200 people buy tickets.  For the second showing three times as many people show up.  If each ticket cost $25 how much did the show make?",
   "checkpoint": [
     {
-      "$\\boxed{20000}$": 1
+      "\\boxed{20000}": 1
     }
   ],
   "matchingmethod": [

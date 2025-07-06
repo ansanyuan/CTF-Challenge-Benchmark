@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Pam和Fred去了一个嘉年华。Pam坐了2次过山车，而Fred坐了4次。之后，他们每人决定再坐2次雪橇。如果每次游乐设施需要6张票，那么他们那天一共用了多少张票？。",
+  "topic": "回答下面的数学问题：Pam and Fred went to a carnival. Pam rode the roller coaster 2 times while Fred rode it 4 times. After that, each of them decided to ride the luge 2 times. If each ride cost 6 tickets, how many tickets did they use that day?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

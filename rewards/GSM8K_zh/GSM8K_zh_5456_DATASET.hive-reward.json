@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hank在情人节给了他的妻子Delphine一盒24块巧克力。第一天，Delphine吃了4块巧克力。第二天，她吃的巧克力数量是第一天的两倍减3。第三天，她吃的巧克力数量比第一天少了两块。第四天，她比前一天少吃了一块。到了第五天，还剩下多少块巧克力没有吃？。",
+  "topic": "回答下面的数学问题：Hank gave his wife, Delphine, a box of 24 chocolates for Valentine's Day.  On the first day, Delphine ate 4 chocolates.  On the second day, she ate 3 less than twice as many chocolates as she ate the first day.  On the third day, she ate two less than the number she ate on the first day.  And on the fourth day, she ate one less than she ate the previous day.  On the fifth day, how many chocolates remained uneaten?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

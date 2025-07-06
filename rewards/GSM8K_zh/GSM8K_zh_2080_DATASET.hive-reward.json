@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kristy烤了一些饼干，因为她的朋友要来她家。她吃了其中的2个，给了她弟弟1个饼干。她的第一个朋友来了，拿了3个饼干。第二和第三个到达的朋友各拿了5个饼干。如果还剩下6个饼干，那么Kristy烤了多少个饼干？。",
+  "topic": "回答下面的数学问题：Kristy baked cookies because her friends are coming over to her house. She ate 2 of them and gave her brother 1 cookie. Her first friend arrived and took 3 cookies. The second and third friends to arrive took 5 cookies each. If there are 6 cookies left, how many cookies did Kristy bake?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

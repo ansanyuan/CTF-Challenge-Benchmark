@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚洲买了一件原价350美元的舞会礼服，打折后售价为140美元。她享受了多少折扣？。",
+  "topic": "回答下面的数学问题：Asia bought a homecoming dress on sale for $140. It was originally priced at $350. What percentage off did she get at the sale?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

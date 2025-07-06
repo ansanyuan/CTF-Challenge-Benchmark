@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个小披萨有4片，一个大披萨有8片。乔治购买了3个小披萨和2个大披萨。乔治想吃3片。他的朋友鲍勃想比乔治多吃一片。苏茜会比鲍勃少吃一半。比尔、弗雷德和马克每人想吃3片。会剩下多少片披萨？。",
+  "topic": "回答下面的数学问题：A small pizza can gives 4 slices, and a large pizza gives 8 slices.  George purchased 3 small and 2 large pizzas.  George would like to eat 3 pieces.  His friend Bob would like to eat one more piece than George.  Susie will eat half as many as Bob.  Bill, Fred and Mark would each like 3 pieces.  How many slices of pizza will be left over?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

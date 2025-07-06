@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Terez的农场上有44头奶牛。50%的奶牛是母牛，50%的母牛怀孕了。Terez有多少头怀孕的母牛？。",
+  "topic": "回答下面的数学问题：Terez has 44 cows on his farm.  50 percent of the cows are female, and 50 percent of the females are pregnant.  How many pregnant female cows does Terez have?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

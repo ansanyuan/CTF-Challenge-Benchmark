@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：How many different $4\\times 4$ arrays whose entries are all 1's and -1's have the property that the sum of the entries in each row is 0 and the sum of the entries in each column is 0?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰买了3大袋M&M巧克力豆，每袋重10盎司。如果每盎司有30颗M&M巧克力豆，他如果每个小袋装10颗，他能做多少个小袋？。",
+  "topic": "回答下面的数学问题：John packs M&M in small bags to eat.  He buys 3 large bags weighing 10 ounces each.  If an ounce of M&M has 30 M&M in it how many small bags can he make if he puts 10 in each small bag?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

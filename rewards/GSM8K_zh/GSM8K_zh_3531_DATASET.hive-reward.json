@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：沃尔特在一家快餐连锁店每周工作5天，每小时赚5美元。由于他是一名在校学生，他一天只能工作4小时，并且将他每周收入的3/4用于学费。他为学费分配了多少钱？。",
+  "topic": "回答下面的数学问题：Walter works 5 days a week in a fast-food chain and earns $5 per hour. Since he is a working student, he can only work 4 hours a day and allocates 3/4 of his weekly earning for his schooling. How much does he allocate for school?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

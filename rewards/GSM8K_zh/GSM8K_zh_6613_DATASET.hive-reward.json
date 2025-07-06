@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡米拉一生只去过7次徒步旅行。阿曼达去过的徒步旅行次数是卡米拉的8倍，史蒂文比阿曼达多徒步旅行了15次。如果卡米拉想说她徒步旅行的次数和史蒂文一样多，并计划每周徒步旅行4次，卡米拉需要多少周才能实现她的目标？。",
+  "topic": "回答下面的数学问题：Camila has only gone hiking 7 times in her life. Amanda has gone on 8 times as many hikes as Camila, and Steven has gone on 15 more hikes than Amanda. If Camila wants to say that she has hiked as many times as Steven and plans to go on 4 hikes a week, how many weeks would it take Camila to achieve her goal?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

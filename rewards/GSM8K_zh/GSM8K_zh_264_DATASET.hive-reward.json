@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰种了一个3*4的果树园。每棵树结5个苹果。他每个苹果卖0.5美元。他一共赚了多少钱，以美元计算？。",
+  "topic": "回答下面的数学问题：John plants a plot of 3 trees by 4 trees.  Each tree gives 5 apples.  He sells each apple for $.5.  How much money does he make, in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

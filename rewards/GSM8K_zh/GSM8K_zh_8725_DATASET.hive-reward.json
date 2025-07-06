@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：John需要5分钟来完成魔方的第一面。第二面和第三面各需要的时间是第一面的两倍。最后两面各需要的时间是第一面的一半，一旦完成了第五面，你就完成了所有六面。完成魔方需要多长时间？。",
+  "topic": "回答下面的数学问题：It takes John 5 minutes to get to the first side of the Rubik's cube.  The second and third sides each take twice that long.  The last 2 sides each take half as long as the first, and once you get the 5th side you have all 6 sides.  How long does the Rubik's cube take?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Vicki在她的高中计划了一场流行音乐会。演出将持续2小时。她允许每个团体2分钟上台，6分钟表演，然后2分钟离开舞台。如果她安排了10分钟的中场休息，那么有多少个团体可以在音乐会上表演？。",
+  "topic": "回答下面的数学问题：Vicki is planning a pop concert at her high school. The show will be 2 hours. She is allowing each group 2 minutes to get on stage, 6 minutes to perform, and then 2 minutes to exit the stage. If she allows a 10-minute intermission, how many groups can perform in the concert?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

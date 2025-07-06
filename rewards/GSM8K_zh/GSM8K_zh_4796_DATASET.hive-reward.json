@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯在教室周围做家务。有3间卧室，1间客厅和2间浴室需要打扫。每间卧室需要20分钟打扫。客厅需要的时间与3间卧室的时间相同。浴室需要的时间是客厅的两倍。他还清理了外面，需要的时间是打扫房子的两倍。他与两个和他一样快的兄弟分担家务。他一共工作了多长时间（以小时计）？。",
+  "topic": "回答下面的数学问题：James does chores around the class.  There are 3 bedrooms, 1 living room, and 2 bathrooms to clean.  The bedrooms each take 20 minutes to clean.  The living room takes as long as the 3 bedrooms combined.  The bathroom takes twice as long as the living room.  He also cleans the outside which takes twice as long as cleaning the house.  He splits the chores with his 2 siblings who are just as fast as him.  How long, in hours, does he work?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

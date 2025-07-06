@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：简在两小时内跑了3公里。她的速度是每分钟多少米？。",
+  "topic": "回答下面的数学问题：Jane runs 3 kilometers in two hours. What is her speed in meters per minute?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

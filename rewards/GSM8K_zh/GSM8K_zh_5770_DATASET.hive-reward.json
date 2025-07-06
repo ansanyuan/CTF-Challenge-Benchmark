@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Zara买了24头奶牛，7只羊，还有一些山羊。下周，她将把它们全部运到一个新农场，分成3组，每组48只动物。她拥有多少只山羊？。",
+  "topic": "回答下面的数学问题：Zara bought 24 cows, 7 sheep, and some goats. Next week, she will transport all of them to a new farm in 3 equally-sized groups of 48 animals per group. How many goats does she own?",
   "checkpoint": [
     {
-      "$\\boxed{113}$": 1
+      "\\boxed{113}": 1
     }
   ],
   "matchingmethod": [

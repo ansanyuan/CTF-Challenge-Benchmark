@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果Stu有9本书，而Albert有Stu的4倍书，那么Stu和Albert总共有多少本书？。",
+  "topic": "回答下面的数学问题：If Stu has 9 books and Albert has 4 times as many books as Stu, how many books do Stu and Albert have in total?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

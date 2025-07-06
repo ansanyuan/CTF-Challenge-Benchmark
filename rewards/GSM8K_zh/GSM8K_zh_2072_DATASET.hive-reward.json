@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jackie在10秒内可以做5个俯卧撑。如果她休息两次，每次休息8秒，那么她在一分钟内可以做多少个俯卧撑？。",
+  "topic": "回答下面的数学问题：Jackie can do 5 push-ups in 10 seconds. How many push-ups can she do in one minute if she takes two 8-second breaks?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

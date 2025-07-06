@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：简的母亲同意支付她每种种植的花球0.50美元。简种植了20个郁金香球和一半数量的鸢尾球。她还种植了30个水仙球和三倍数量的番红花球。简赚了多少钱？。",
+  "topic": "回答下面的数学问题：Jane's mother agreed to pay her $.50 for every flower bulb that Jane planted.  Jane planted 20 tulip bulbs and half that amount of iris bulbs.  She also planted 30 daffodil bulbs and three times that amount of crocus bulbs.  How much money did Jane earn?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

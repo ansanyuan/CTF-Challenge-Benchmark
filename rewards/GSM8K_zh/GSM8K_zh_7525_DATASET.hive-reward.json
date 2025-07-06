@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆的船每小时可以行驶10英里。他从下午1点航行到下午4点。然后他以每小时6英里的速度返回。他返回需要多长时间？。",
+  "topic": "回答下面的数学问题：Tom's ship can travel at 10 miles per hour.  He is sailing from 1 to 4 PM.  He then travels back at a rate of 6 mph.  How long does it take him to get back?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

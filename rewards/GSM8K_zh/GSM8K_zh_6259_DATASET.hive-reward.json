@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔丹在Spotify上有一首新的热门歌曲。今年还剩下3个月，她目前有60000次收听。如果每个月的收听次数翻倍，到年底这首歌将有多少次收听？。",
+  "topic": "回答下面的数学问题：Jordan has a new hit song on Spotify. 3 months are left in the year, and she currently has 60,000 listens. If the number of listens per month doubles, how many listens will the song have by the end of the year?",
   "checkpoint": [
     {
-      "$\\boxed{900000}$": 1
+      "\\boxed{900000}": 1
     }
   ],
   "matchingmethod": [

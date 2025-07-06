@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carrie和她妈妈去商场为上学买新衣服。Carrie买了4件衬衫，2条裤子和2件夹克。每件衬衫的价格是8美元。每条裤子的价格是18美元。每件夹克的价格是60美元。如果Carrie的妈妈支付所有衣服总费用的一半，Carrie支付了多少钱买衣服？。",
+  "topic": "回答下面的数学问题：Carrie and her mom go to the mall to buy new clothes for school. Carrie buys 4 shirts, 2 pairs of pants, and 2 jackets. Each shirt costs $8. Each pair of pants costs $18. Each jacket costs $60. If Carrie’s mom pays for half of the total cost of all the clothes, how much does Carrie pay for the clothes?",
   "checkpoint": [
     {
-      "$\\boxed{94}$": 1
+      "\\boxed{94}": 1
     }
   ],
   "matchingmethod": [

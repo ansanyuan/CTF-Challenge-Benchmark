@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：加布里埃尔卖鸡蛋。周一她卖了5箱鸡蛋。周二她卖的鸡蛋箱数是周一的两倍。周三她比周二少卖了2箱。周四她卖的鸡蛋箱数是周二的一半。她在这4天内总共卖了多少箱鸡蛋？。",
+  "topic": "回答下面的数学问题：Gabrielle sells eggs. On Monday she sells 5 crates of eggs. On Tuesday she sells 2 times as many crates of eggs as Monday. On Wednesday she sells 2 fewer crates than Tuesday. On Thursday she sells half as many crates of eggs as she sells on Tuesday. How many total crates of eggs does she sell for the 4 days?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

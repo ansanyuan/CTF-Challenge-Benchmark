@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Al比Ben重25磅。Ben比Carl轻16磅。如果Ed重146磅，比Al轻38磅，找出Carl的体重。。",
+  "topic": "回答下面的数学问题：Al is 25 pounds heavier than Ben. Ben is 16 pounds lighter than Carl. If Ed weighs 146 pounds and is 38 pounds lighter than Al, find the weight of Carl.",
   "checkpoint": [
     {
-      "$\\boxed{175}$": 1
+      "\\boxed{175}": 1
     }
   ],
   "matchingmethod": [

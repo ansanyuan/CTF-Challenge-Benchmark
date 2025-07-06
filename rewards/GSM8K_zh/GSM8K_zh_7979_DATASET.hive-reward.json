@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Frederick正在制作冰棍来出售，并且为了节省资金，他正在自制冰棍棒。他可以从一块2 x 4的木头中获得200根棍子，从一块2 x 8的木头中获得400根棍子。他有24美元用来购买制作棍子的木材。一块2 x 4的木材售价为4美元，一块2 x 8的木材售价为6美元。如果他购买最便宜的木材，他能制作的冰棍棒最多是多少根？。",
+  "topic": "回答下面的数学问题：Frederick is making popsicles to sell and to save money he is making his own popsicle sticks. He can get 200 sticks from a 2 x 4 piece of wood and 400 sticks from a 2 x 8 piece of wood. He has $24 to buy wood for sticks. A 2 x 4 costs $4. A 2 x 8 costs $6. What is the most popsicle sticks he can make if he buys the cheapest lumber?",
   "checkpoint": [
     {
-      "$\\boxed{1600}$": 1
+      "\\boxed{1600}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：特洛伊的家离学校有75米，而艾米丽的家离学校有98米。特洛伊和艾米丽每天都步行去学校和回家。艾米丽在五天内走了多少米更远？。",
+  "topic": "回答下面的数学问题：Troy's home is 75 meters away from school while Emily's home is 98 meters away from school. Troy and Emily walk to school and back home every day. How much farther does Emily walk to school and back in five days?",
   "checkpoint": [
     {
-      "$\\boxed{230}$": 1
+      "\\boxed{230}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一场MLB比赛中，失误的次数是击中次数的三倍。如果失误的次数是50，那么比赛中一共有多少次击中和失误？。",
+  "topic": "回答下面的数学问题：There are three times as many misses as hits in an MLB game. If the number of misses is 50, how many hits and misses are made in the game?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

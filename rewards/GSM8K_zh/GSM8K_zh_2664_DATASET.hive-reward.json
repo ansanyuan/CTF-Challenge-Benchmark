@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：尼基正在和吉尔交换棒球卡。如果尼基用价值每张8美元的两张卡换一张价值21美元的卡，他能赚多少美元？。",
+  "topic": "回答下面的数学问题：Nicky is trading baseball cards with Jill. If Nicky trades two cards worth $8 each for 1 card worth $21, how many dollars of profit does he make?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果您以每个巧克力饼干1美元的价格卖出220个巧克力饼干，以及以每个香草饼干2美元的价格卖出70个香草饼干，您赚了多少钱？。",
+  "topic": "回答下面的数学问题：How much money did you make if you sold 220 chocolate cookies at $1 per cookie and 70 vanilla cookies at $2 per cookie?",
   "checkpoint": [
     {
-      "$\\boxed{360}$": 1
+      "\\boxed{360}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个消防队员的软管每分钟可以输送20加仑的水。对于需要4000加仑水才能扑灭的建筑火灾，一个由5名消防队员组成的小组，每人都有自己的软管，需要多长时间（以分钟为单位）才能扑灭火灾？。",
+  "topic": "回答下面的数学问题：A firefighter's hose can deliver 20 gallons of water per minute.  For a building fire that requires 4000 gallons of water to put out, how long will it take, in minutes, for a team of 5 firefighters, each with their own hose, to put out the fire?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

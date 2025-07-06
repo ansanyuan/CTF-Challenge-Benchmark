@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个房地产经纪人在每则报纸广告上花费了5美元，并且在每则电视广告上花费了75美元。他买了50则报纸广告和15则电视广告。这位房地产经纪人购买所有广告花费了多少钱？。",
+  "topic": "回答下面的数学问题：A real estate agent has spent $5 on each newspaper ad and spent $75 on each television ad. He bought 50 newspaper ads and 15 television ads. How much did the real estate agent spend on buying all the ads?",
   "checkpoint": [
     {
-      "$\\boxed{1375}$": 1
+      "\\boxed{1375}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽买了14个苹果，9个橙子和6个蓝莓。玛丽吃了每种水果中的1个。她剩下多少水果？。",
+  "topic": "回答下面的数学问题：Mary bought 14 apples, 9 oranges, and 6 blueberries. Mary ate 1 of each. How many fruits in total does she have left?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

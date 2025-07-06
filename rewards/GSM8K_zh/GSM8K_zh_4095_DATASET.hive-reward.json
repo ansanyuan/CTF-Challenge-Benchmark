@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lidia有一堆书。她的收藏比她的朋友苏珊的收藏多四倍。苏珊和Lidia总共有3000本书。苏珊有多少本书在她的收藏中？。",
+  "topic": "回答下面的数学问题：Lidia has a collection of books. Her collection is four times bigger than the collection which her friend Susan has. In total Susan and Lidia, both have 3000 books. How many books does Susan have in her collection?",
   "checkpoint": [
     {
-      "$\\boxed{600}$": 1
+      "\\boxed{600}": 1
     }
   ],
   "matchingmethod": [

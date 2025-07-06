@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Danielle想要自己制作冰棒。她发现她需要冰棒棍、模具和果汁。她有10美元用于购买材料。她花3美元买了一套模具和1美元买了一包100根的冰棒棍。每瓶果汁可以制作20个冰棒，售价2美元。如果她尽可能多地制作冰棒，她将剩下多少根冰棒棍？。",
+  "topic": "回答下面的数学问题：Danielle wants to make her own popsicles. She finds out she needs popsicle sticks, molds, and juice. She has $10 for supplies. She buys one set of molds for $3 and a pack of 100 popsicle sticks for $1. Each bottle of juice makes 20 popsicles and costs $2. How many popsicle sticks will she be left with if she makes as many as she can?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

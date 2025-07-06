@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carmen正在为餐馆柜台上一排顾客准备晚餐盘。她喜欢在每个盘子上放几根欧芹作为装饰。然而，她的欧芹非常少，甚至没有足够的欧芹放在每个盘子上，所以她需要将几根欧芹梗分成两半，使它们变成两根较小的欧芹来延长使用。如果她用一整根欧芹装饰8个盘子，用1/2根欧芹分别装饰12个盘子，那么她开始有25根欧芹，如果她用了8 + 6 = 14根欧芹，她还剩下多少根欧芹？。",
+  "topic": "回答下面的数学问题：Carmen is preparing dinner plates for a row of customers at the counter in a diner. She likes to put a couple of sprigs of parsley on each plate for decoration. However, she is very low on parsley and doesn't have enough to even put 1 sprig on every plate, so she needs to break several of the parsley sprigs in two to make 2 smaller ones to stretch them out. If she decorates 8 plates with one whole parsley sprig and 12 plates with 1/2 a sprig each, how many sprigs of parsley does she have left if she started with 25?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

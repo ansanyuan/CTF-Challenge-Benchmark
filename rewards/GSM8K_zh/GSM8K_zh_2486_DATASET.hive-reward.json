@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carly每天练蝶泳3小时，每周4天，她的仰泳练习为每天2小时，每周6天。在一个有4周的月份里，她练习游泳花了多少时间？。",
+  "topic": "回答下面的数学问题：Carly practices her butterfly stroke for 3 hours a day, 4 days a week, and her backstroke for 2 hours a day, six days a week. How much time does she spend practicing swimming in a month with 4 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{96}$": 1
+      "\\boxed{96}": 1
     }
   ],
   "matchingmethod": [

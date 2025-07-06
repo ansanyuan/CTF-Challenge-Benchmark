@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Akeno花了2985美元来装修他的公寓。Lev花了这个金额的三分之一在他的公寓上，而Ambrocio比Lev少花了177美元。Akeno比其他两个人一共多花了多少美元？。",
+  "topic": "回答下面的数学问题：Akeno spent $2985 to furnish his apartment. Lev spent one-third of that amount on his apartment and Ambrocio spent $177 less than Lev. How many dollars more did Akeno spend than the other 2 people combined?",
   "checkpoint": [
     {
-      "$\\boxed{1172}$": 1
+      "\\boxed{1172}": 1
     }
   ],
   "matchingmethod": [

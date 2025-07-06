@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰开始了一档电视节目。他在第一季的前半部分每集支付1000美元。第二季的后半部分的剧集成本比较贵，贵120%。如果一共有22集，整个季度的成本是多少？。",
+  "topic": "回答下面的数学问题：John starts a TV show.  He pays $1000 per episode for the first half of the season.  The second half of the season had episodes that cost 120% more expensive.  If there are 22 episodes how much did the entire season cost?",
   "checkpoint": [
     {
-      "$\\boxed{35200}$": 1
+      "\\boxed{35200}": 1
     }
   ],
   "matchingmethod": [

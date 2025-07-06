@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卢克吃了2个热狗。托马斯吃的热狗是卢克的三倍。约翰吃了托马斯吃的一半。约翰比卢克多吃了多少个热狗？。",
+  "topic": "回答下面的数学问题：Luke ate 2 hot dogs. Thomas ate three times more hot dogs than Luke. John ate half the amount Thomas ate. How many more hot dogs did John eat than Luke?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

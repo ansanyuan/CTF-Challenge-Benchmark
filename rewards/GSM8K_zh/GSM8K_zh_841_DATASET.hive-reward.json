@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个营地有4只小狗和3只狗。每只狗吃的食物是小狗的两倍，但每只小狗吃的频率是狗的三倍。如果一只狗一天吃3次，每次吃4磅的食物，那么狗和小狗一天总共吃多少食物？。",
+  "topic": "回答下面的数学问题：There are 4 puppies and 3 dogs at a camp. Each dog eats twice as much food as a puppy, but each puppy eats three times as often as a dog. If a dog eats 4 pounds of food three times a day, what would be the total amount of food the dogs and puppies eat in a day?",
   "checkpoint": [
     {
-      "$\\boxed{108}$": 1
+      "\\boxed{108}": 1
     }
   ],
   "matchingmethod": [

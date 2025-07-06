@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mirasol账户里有50美元。她在咖啡豆上花了10美元，又在一个保温杯上花了30美元。她账户里还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Mirasol had $50 in her account. She spent $10 on coffee beans and $30 on a tumbler. How much is left in her account?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

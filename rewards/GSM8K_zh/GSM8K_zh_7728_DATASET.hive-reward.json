@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Shelly的3个孩子整天都在水上乐园。Mitchel滑水滑梯滑了30次。Anne比Mitchel少滑了30%，而Robert滑的次数是Anne的4倍。Robert一共滑了多少次水滑梯？。",
+  "topic": "回答下面的数学问题：Shelly's 3 kids spent all day at the water park.  Mitchel went down the water slide 30 times.  Anne went down the slide 30% less than Mitchel and Robert went down 4 times as much as Anne.  How many times did Robert go down the water slide?",
   "checkpoint": [
     {
-      "$\\boxed{84}$": 1
+      "\\boxed{84}": 1
     }
   ],
   "matchingmethod": [

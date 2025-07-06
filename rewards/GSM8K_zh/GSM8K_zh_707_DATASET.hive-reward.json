@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个游泳池有48块蓝色瓷砖和32块红色瓷砖。如果游泳池需要100块瓷砖才能完成，还需要多少块瓷砖？。",
+  "topic": "回答下面的数学问题：A pool has 48 blue tiles and 32 red tiles. If the pool needs 100 tiles to be completed, how many more tiles are needed?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

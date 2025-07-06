@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾曼纽尔将在12月份在关岛停留10天，期间他必须使用国际数据，每天的费用为3.50美元。艾曼纽尔一直在为他的常规套餐支付每月175美元。艾曼纽尔12月份的总费用将是多少？。",
+  "topic": "回答下面的数学问题：Emmanuel will stay in Guam in December for 10 days in which he has to use international data that would cost $3.50 per day. Emmanuel has been paying $175 per month for his regular plan. How much in all will be Emmanuel’s charges for December?",
   "checkpoint": [
     {
-      "$\\boxed{210}$": 1
+      "\\boxed{210}": 1
     }
   ],
   "matchingmethod": [

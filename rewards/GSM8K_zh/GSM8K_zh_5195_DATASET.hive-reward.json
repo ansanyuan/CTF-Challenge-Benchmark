@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：肖恩设计并销售徽章。他以100个为单位订购徽章，每个徽章的费用为1.25美元。如果他以每个12.00美元的价格卖出所有100个徽章，他的净利润是多少？。",
+  "topic": "回答下面的数学问题：Sean designs and sells patches.  He orders his patches in a unit of 100 and is charged $1.25 per patch.  If he turns around and sells all 100 patches for $12.00 each, what is his net profit?",
   "checkpoint": [
     {
-      "$\\boxed{1075}$": 1
+      "\\boxed{1075}": 1
     }
   ],
   "matchingmethod": [

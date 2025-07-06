@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两辆汽车在高速公路上行驶。第一辆车的平均速度是每小时60英里，当第二辆车以每小时70英里的速度超过它时。如果两辆车以相同的速度继续在高速公路上行驶，那么2小时后它们之间将相隔多少英里？。",
+  "topic": "回答下面的数学问题：Two cars are driving on a highway.  The first car is traveling at an average speed of 60 miles per hour when the second car passes it at an average speed of 70 miles per hour.  If both cars continue on the highway at the same speed, how many miles will separate them after 2 hours?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

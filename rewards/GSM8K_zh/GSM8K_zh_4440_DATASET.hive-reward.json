@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Corna想买一件衬衫。商店以20美元的价格购买衬衫，但要加收30%的利润。然而，这件衬衫打五折。现在的价格是多少？。",
+  "topic": "回答下面的数学问题：Corna wants to buy a shirt. The store buys the shirt for $20, but charges 30% for profit. However, the shirt is on sale for 50% off the selling price. What is the price now?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个生日派对上，有20个红色气球和15个绿色气球。在派对开始之前，3个红色和2个绿色气球爆炸了。剩下多少个气球？。",
+  "topic": "回答下面的数学问题：At a birthday party, there are 20 red balloons and 15 green balloons. Before the party started, 3 red and 2 green balloons burst. How many balloons are left?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

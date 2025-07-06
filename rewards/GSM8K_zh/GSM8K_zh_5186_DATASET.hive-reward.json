@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Shelly和Sam喜欢去深海捕鱼捕剑鱼。 每次他们去深海捕鱼，Shelly捕捉的剑鱼比五条少2条，Sam捕捉的剑鱼比Shelly少1条。 如果Sam和Shelly一共去了5次捕鱼，他们总共捕捉了多少剑鱼？。",
+  "topic": "回答下面的数学问题：Shelly and Sam love to go deep sea fishing for swordfish.  Each time they go deep sea fishing, Shelly catches 2 less than five swordfish, and Sam catches one less swordfish than Shelly.  If Sam and Shelly go fishing 5 times, how many swordfish do they catch in total?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：麦当劳计划开办一家向社区提供鸡蛋的农场。在他的当地社区，Saly每周需要10个鸡蛋，Ben每周需要14个鸡蛋，而Ked每周需要Ben所需鸡蛋数量的一半。在一个有4周的月份，麦当劳的农场应该生产多少鸡蛋？。",
+  "topic": "回答下面的数学问题：Mcdonald is planning to open up a farm that provides eggs to the community. In his local community, Saly needs 10 eggs, Ben needs 14 eggs, and Ked needs half of the number of eggs needed by Ben per week. In a month which has 4 weeks, how many eggs should Mcdonald's farm produce?",
   "checkpoint": [
     {
-      "$\\boxed{124}$": 1
+      "\\boxed{124}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Barbeck有Steve的两倍吉他，但Davey有Barbeck的三倍吉他。如果总共有27把吉他，Davey有多少把吉他？。",
+  "topic": "回答下面的数学问题：Barbeck has two times as many guitars as Steve, but Davey has three times as many guitars as Barbeck. If there are 27 guitars altogether, how many guitars does Davey have?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉娜选择她和她妹妹在Netflix上观看的节目的次数是她妹妹的3倍。如果她妹妹每周在Netflix上观看总共24个节目，每个节目的长度为50分钟，吉娜可以选择多少分钟的Netflix节目？。",
+  "topic": "回答下面的数学问题：Gina chooses what she and her sister will watch on Netflix three times as often as her sister does. If her sister watches a total of 24 shows on Netflix per week, and each show is 50 minutes long, how many minutes of Netflix does Gina get to choose?",
   "checkpoint": [
     {
-      "$\\boxed{900}$": 1
+      "\\boxed{900}": 1
     }
   ],
   "matchingmethod": [

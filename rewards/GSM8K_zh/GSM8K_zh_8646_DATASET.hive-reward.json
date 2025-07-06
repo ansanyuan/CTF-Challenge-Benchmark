@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alice喜欢在学校外面吃午饭时数天空中的云朵。周一她只数到了3朵云。但是之后的每一天，直到周五，她看到的云朵数量都是前一天的两倍。到周末时，她在午饭时间五天内总共数了多少朵云？。",
+  "topic": "回答下面的数学问题：Alice likes to count the puffs of clouds in the sky while she eats her lunch outside at school. On Monday she counts just 3 puffs of clouds. Each day after that through Friday, though, she sees double the number of clouds in the sky as the day before. At the end of the week, how many clouds will she have counted in the sky at lunch across all five days?",
   "checkpoint": [
     {
-      "$\\boxed{93}$": 1
+      "\\boxed{93}": 1
     }
   ],
   "matchingmethod": [

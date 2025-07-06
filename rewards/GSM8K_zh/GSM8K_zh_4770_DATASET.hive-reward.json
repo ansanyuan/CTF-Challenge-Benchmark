@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Corey从他的Netflix账户下载了两个电影系列，分别有12和14季。然而，在这周，他的电脑发生了机械故障，他失去了每个系列的每季两集。如果Corey下载的每个系列的每季都有16集，那么在电脑机械故障后剩下多少集？。",
+  "topic": "回答下面的数学问题：Corey downloaded two movie series from his Netflix account with 12 and 14 seasons per series, respectively. However, in the week, his computer got a mechanical failure, and he lost two episodes from each season for both series. If each season in the movie series that Corey downloaded had 16 episodes, how many episodes remained after the computer's mechanical failure?",
   "checkpoint": [
     {
-      "$\\boxed{364}$": 1
+      "\\boxed{364}": 1
     }
   ],
   "matchingmethod": [

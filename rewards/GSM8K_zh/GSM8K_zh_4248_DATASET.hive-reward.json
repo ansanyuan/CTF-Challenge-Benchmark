@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Patricia正在制作一个关于她篮球队的精彩片段。她录制了每个球员的视频，并计划将它们合并成一部更长的电影。她有130秒的控球后卫视频，145秒的得分后卫视频，85秒的小前锋视频，60秒的大前锋视频和180秒的中锋视频。平均每个球员会得到多少分钟的视频？。",
+  "topic": "回答下面的数学问题：Patricia is making a highlight film about her basketball team. She recorded video of every player and plans to put it all together in a longer movie. She has 130 seconds of the point guard, 145 seconds of the shooting guard, 85 seconds of the small forward, 60 seconds of the power forward, and 180 seconds of the center. How on average, how many minutes does each player get?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

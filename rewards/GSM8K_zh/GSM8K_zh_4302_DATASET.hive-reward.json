@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汉娜给她的孩子们的长统袜里装了4根糖果手杖，2只小绒毛玩具和1本书。如果她有3个孩子，她总共买了多少个长统袜的小礼物？。",
+  "topic": "回答下面的数学问题：Hannah fills her kids' stockings with 4 candy canes, 2 beanie babies and 1 book. If she has 3 kids, how many stocking stuffers does she buy total?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

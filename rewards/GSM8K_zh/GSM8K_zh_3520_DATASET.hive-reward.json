@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一盒冰淇淋棒售价7.50美元，里面有三根冰淇淋棒。6个朋友想吃每人2根冰淇淋棒。每人需要多少钱？。",
+  "topic": "回答下面的数学问题：A box of ice cream bars costs $7.50 and contains three bars.  6 friends want to each eat 2 bars.  How much money will that require per person?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

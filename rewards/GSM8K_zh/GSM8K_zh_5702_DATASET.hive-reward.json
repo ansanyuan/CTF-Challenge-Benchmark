@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alvin今年30岁，而Simon距离是Alvin年龄的一半还差5年。Simon今年多少岁？。",
+  "topic": "回答下面的数学问题：Alvin is 30 years old and Simon is 5 years away from being 1/2 the age of Alvin.  How old is Simon?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

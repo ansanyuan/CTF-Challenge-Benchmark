@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有82名学生，每台电脑有2名学生。如果再增加16名学生，为了继续每台电脑有2名学生，他们总共需要多少台电脑？。",
+  "topic": "回答下面的数学问题：With 82 students, there are 2 students for each computer. If there are 16 more students, how many computers must they have in total to continue with 2 students per computer?",
   "checkpoint": [
     {
-      "$\\boxed{49}$": 1
+      "\\boxed{49}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在染料制作过程中，一位年轻女士将20升水的3/5与18升醋的5/6混合在一起。得到多少升的混合物？。",
+  "topic": "回答下面的数学问题：In a dye-making process, a young lady mixes 3/5th of 20 liters of water with 5/6th of 18 liters of vinegar. How many liters of the mixture are obtained?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

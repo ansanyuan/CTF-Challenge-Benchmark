@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在这个城市里有一栋公寓楼。这栋楼有12层。一半的楼层有6套公寓，另一半有5套公寓。一套公寓最多可以容纳4名居民。这栋公寓楼最多可以容纳多少名居民？。",
+  "topic": "回答下面的数学问题：In the city, there is a block of flats. This block has 12 floors. Half of the floors have 6 apartments and the other half have 5 apartments. One apartment can accommodate a maximum of 4 residents. What is the maximum number of residents that can live in this block of flats?",
   "checkpoint": [
     {
-      "$\\boxed{264}$": 1
+      "\\boxed{264}": 1
     }
   ],
   "matchingmethod": [

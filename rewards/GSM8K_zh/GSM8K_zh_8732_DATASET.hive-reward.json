@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：电话套餐里有五部手机。主手机的费用是每部附加手机的两倍。如果主手机套餐费用是20美元，那么整个手机套餐的费用是多少？。",
+  "topic": "回答下面的数学问题：There are five phones on a phone plan. The main phone costs twice as much as each additional phone. If the main phone plan costs $20, how much does the whole phone plan cost?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

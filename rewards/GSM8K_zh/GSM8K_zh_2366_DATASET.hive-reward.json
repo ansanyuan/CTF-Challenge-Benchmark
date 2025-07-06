@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位考古学家在同一地区发现了三个不同时期的挖掘遗址。考古学家将第一个挖掘遗址的年代确定为比第二个挖掘遗址晚352年。第三个挖掘遗址的年代比第一个挖掘遗址晚3700年。第四个挖掘遗址的年代是第三个挖掘遗址的两倍。考古学家研究了第四个挖掘遗址的文物，并确定该遗址的年代为公元前8400年。考古学家将第二个挖掘遗址的年代确定为哪一年？。",
+  "topic": "回答下面的数学问题：An archaeologist discovered three dig sites from different periods in one area. The archaeologist dated the first dig site as 352 years more recent than the second dig site. The third dig site was dated 3700 years older than the first dig site. The fourth dig site was twice as old as the third dig site. The archaeologist studied the fourth dig site’s relics and gave the site a date of 8400 BC. What year did the archaeologist date the second dig site?",
   "checkpoint": [
     {
-      "$\\boxed{852}$": 1
+      "\\boxed{852}": 1
     }
   ],
   "matchingmethod": [

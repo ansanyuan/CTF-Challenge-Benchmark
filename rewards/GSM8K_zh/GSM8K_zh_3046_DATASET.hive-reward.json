@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了嘉年华，学校组织者订购了30卷门票。每卷门票有100张。四年级学生购买了30%的门票，而五年级学生购买了剩下门票的50%。然后六年级学生购买了总共100张门票。还剩下多少张门票没有卖出？。",
+  "topic": "回答下面的数学问题：For the funfair, the school organizers ordered 30 rolls of tickets. Each roll of tickets has 100 tickets. The 4th graders bought 30% of the tickets while the 5th graders bought 50% of the remaining tickets. Then the 6th graders bought a total of 100 tickets. How many tickets were left unsold?",
   "checkpoint": [
     {
-      "$\\boxed{950}$": 1
+      "\\boxed{950}": 1
     }
   ],
   "matchingmethod": [

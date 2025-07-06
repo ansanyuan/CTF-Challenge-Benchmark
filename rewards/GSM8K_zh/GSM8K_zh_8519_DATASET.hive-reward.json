@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三个人分了1920美元。第二个人比第一个人多拿了80美元，第三个人拿的是第二个人的两倍。计算第一个人的份额。。",
+  "topic": "回答下面的数学问题：Three people divided an amount of $1920. The second took $80 more than the first and the third took twice what the second took. Calculate the share of the first one.",
   "checkpoint": [
     {
-      "$\\boxed{420}$": 1
+      "\\boxed{420}": 1
     }
   ],
   "matchingmethod": [

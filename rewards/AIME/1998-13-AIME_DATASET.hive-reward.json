@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：If $\\{a_1,a_2,a_3,\\ldots,a_n\\}$ is a set of real numbers , indexed so that $a_1 < a_2 < a_3 < \\cdots < a_n,$ its complex power sum is defined to be $a_1i + a_2i^2+ a_3i^3 + \\cdots + a_ni^n,$ where $i^2 = - 1.$ Let $S_n$ be the sum of the complex power sums of all nonempty subsets of $\\{1,2,\\ldots,n\\}.$ Given that $S_8 = - 176 - 64i$ and $S_9 = p + qi,$ where $p$ and $q$ are integers, find $|p| + |q|.$",
   "checkpoint": [
     {
-      "$\\boxed{368}$": 1
+      "\\boxed{368}": 1
     }
   ],
   "matchingmethod": [

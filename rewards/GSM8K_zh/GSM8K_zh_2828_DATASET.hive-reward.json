@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：五年后，格兰特的年龄将是他被雇佣的医院年龄的2/3。如果格兰特目前25岁，那么医院现在多大？。",
+  "topic": "回答下面的数学问题：In five years, Grant will be 2/3 the age of the hospital that he is hired into. If Grant is currently 25 years old, how old is the hospital now?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

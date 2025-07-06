@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：五月中旬，流经莫兰德的河流有五英尺深。到了六月中旬，河流比五月中旬深了十英尺。到了七月中旬，河流比六月中旬深了三倍。到了七月中旬，河流有多少英尺深？。",
+  "topic": "回答下面的数学问题：In mid-May, the river flowing through Moreland is five feet deep. By mid-June, the river is 10 feet deeper than mid-May. By mid-July, the river is three times deeper than mid-June. How many feet deep is the river by mid-July?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

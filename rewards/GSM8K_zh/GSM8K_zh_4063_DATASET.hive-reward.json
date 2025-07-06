@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍娜想买一张售价181美元的音乐会门票，以及5张每张7美元的饮料券。如果珍娜每小时赚18美元，每周工作30小时，她将花费月薪的百分之多少在这次活动上？。",
+  "topic": "回答下面的数学问题：Jenna wants to buy a concert ticket that costs $181, plus five drink tickets for $7 each. If Jenna earns $18 an hour and works 30 hours a week, what percentage of her monthly salary will she spend on this outing?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

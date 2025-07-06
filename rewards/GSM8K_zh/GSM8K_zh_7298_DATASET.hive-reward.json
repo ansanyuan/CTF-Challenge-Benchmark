@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在家里收集了所有的旧电子产品后，劳林在eBay上卖掉这些物品赚了2000美元。如果她的朋友奥蕾利亚在出售她的旧电子产品后也赚了她在eBay上卖出的70%，请计算两位朋友在eBay上赚了多少钱。。",
+  "topic": "回答下面的数学问题：After collecting all the old electronics in their house, Lauryn made $2000 from selling the items on eBay. If her friend Aurelia also made 70% of what she sold on eBay after selling her used electronics, calculate the total amount of money the two friends made on eBay.",
   "checkpoint": [
     {
-      "$\\boxed{3400}$": 1
+      "\\boxed{3400}": 1
     }
   ],
   "matchingmethod": [

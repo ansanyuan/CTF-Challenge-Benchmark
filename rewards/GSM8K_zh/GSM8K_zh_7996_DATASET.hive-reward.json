@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：现在是Concetta奶奶农场摘草莓的时候。Tony每小时可以摘6夸脱草莓，而Bobby每小时比Tony少摘一个夸脱的草莓。Kathy每小时可以摘的草莓是Bobby的两倍，而Ricky每小时比Kathy少摘两夸脱草莓。那么Tony、Bobby、Ricky和Kathy每小时总共可以在Concetta奶奶的农场摘多少夸脱草莓？。",
+  "topic": "回答下面的数学问题：It's strawberry-picking time on Grandma Concetta's farm.  Tony can pick 6 quarts of strawberries per hour, while Bobby picks one less quart of strawberries per hour than Tony.  Kathy can pick twice as many strawberries per hour as Bobby, and Ricky picks two fewer quarts of strawberries per hour than does Kathy.  In total, how many quarts of strawberries can Tony, Bobby, Ricky, and Kathy pick per hour on Grandma Concetta's farm?",
   "checkpoint": [
     {
-      "$\\boxed{29}$": 1
+      "\\boxed{29}": 1
     }
   ],
   "matchingmethod": [

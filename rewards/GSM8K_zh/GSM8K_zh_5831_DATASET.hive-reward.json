@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hansel在Spotify上创建了一个包含25首歌曲的专辑，每首歌曲都是3分钟长。如果她再添加10首时长相同的歌曲到专辑中，她需要多少分钟来播放专辑中的所有歌曲？。",
+  "topic": "回答下面的数学问题：Hansel has a created album on Spotify that contains 25 songs and each song is 3 minutes long. If she adds 10 more songs to the album with the same duration, how many minutes will it take her to finish all the songs in the album?",
   "checkpoint": [
     {
-      "$\\boxed{105}$": 1
+      "\\boxed{105}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：帕克一家需要在下午5点前离开家去参加晚宴。帕克夫人在下午2:30等着使用浴室。她的大女儿使用了45分钟浴室，她的小女儿又使用了30分钟浴室。然后她的丈夫使用了20分钟浴室。帕克夫人需要使用多少时间的浴室才能按时离开？。",
+  "topic": "回答下面的数学问题：The Parker family needs to leave the house by 5 pm for a dinner party. Mrs. Parker was waiting to get into the bathroom at 2:30 pm. Her oldest daughter used the bathroom for 45 minutes and her youngest daughter used the bathroom for another 30 minutes. Then her husband used it for 20 minutes. How much time will Mrs. Parker have to use the bathroom to leave on time?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

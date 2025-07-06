@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kurt的旧冰箱每天的电费是0.85美元。他最近购买了一台新的节能冰箱，每天的电费只有0.45美元。Kurt用新冰箱在一个30天的月份里能省下多少钱？。",
+  "topic": "回答下面的数学问题：Kurt's old refrigerator cost $0.85 a day in electricity.  He recently bought a new energy-efficient refrigerator that only cost $0.45 a day in electricity.  How much money does Kurt save in a 30-day month with his new refrigerator?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jim的每两周的毛工资是1120美元。他自动将他工资的25%存入退休账户。他的工资单还会扣除100.00美元作为税款。在扣除退休金和税款后，Jim的工资单上会有多少钱？。",
+  "topic": "回答下面的数学问题：Jim’s bi-weekly gross pay is $1120.  He automatically has 25% of his paycheck go into his retirement account.  They also take $100.00 out of each paycheck for taxes.  After money is taken out for retirement and taxes, how much money will be on Jim’s paycheck?",
   "checkpoint": [
     {
-      "$\\boxed{740}$": 1
+      "\\boxed{740}": 1
     }
   ],
   "matchingmethod": [

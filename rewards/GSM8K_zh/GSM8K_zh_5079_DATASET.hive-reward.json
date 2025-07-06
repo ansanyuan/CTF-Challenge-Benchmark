@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅根买了2打鸡蛋。当她走向她的车时，她掉了一盘鸡蛋。有3个鸡蛋碎了，还有两倍多的鸡蛋裂了。那些仍然完好无损的鸡蛋和那些裂开的鸡蛋之间的差异是多少？。",
+  "topic": "回答下面的数学问题：Megan bought 2 dozen eggs. As she was walking to her car, she dropped a tray of eggs. 3 eggs broke, and twice as many cracked. What is the difference between the eggs that are still in perfect condition and those that are cracked?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

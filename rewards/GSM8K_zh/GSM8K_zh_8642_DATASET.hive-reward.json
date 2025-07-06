@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：红色的绳子是蓝色绳子长度的四倍。蓝色绳子比黄色绳子短7厘米。如果这3根绳子的总长度是37厘米，那么红色绳子的长度是多少厘米？。",
+  "topic": "回答下面的数学问题：The red rope was four times the length of the blue rope. The blue rope was 7 centimeters shorter than the yellow rope. If the 3 ropes had a combined length of 37 centimeters, what was the length of the red rope in centimeters?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一种叫做蜗鹞的鸟类以苹果螺为食。第一天，一只蜗鹞吃了3只螺。然后它比前一天多吃了2只螺。在5天内，一只蜗鹞一共吃了多少只苹果螺？。",
+  "topic": "回答下面的数学问题：A snail kite is a kind of bird that eats apple snails. On the first day, a snail kite ate 3 snails. Then it eats 2 more snails than it did the day before. How many apple snails in all did a snail kite eat for 5 days?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

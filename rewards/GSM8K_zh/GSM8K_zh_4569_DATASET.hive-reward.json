@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个赌场桌子在你的前两张牌中得到21点（黑杰克）时支付3:2。如果你得到了一个黑杰克并获得了60美元，那么你最初的赌注是多少？。",
+  "topic": "回答下面的数学问题：A casino table pays 3:2 if you get a blackjack with your first 2 cards. If you scored a blackjack and were paid $60, what was your original bet?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：诺亚得了30分赢得了一个碗，菲利普得了这个数字的两倍。汤姆和菲利普一共得了多少分赢得了这个碗？。",
+  "topic": "回答下面的数学问题：Noa scored 30 points to win a bowl, and Phillip scores twice that number. What is the total number of points Tom and Phillip scored to win the bowl?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

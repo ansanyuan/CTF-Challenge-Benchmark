@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Telegraph Road长162公里。Pardee Road长12000米。Telegraph Road比Pardee Road长多少公里？。",
+  "topic": "回答下面的数学问题：Telegraph Road goes through multiple states and is 162 kilometers long. Pardee Road is 12000 meters long. How many kilometers longer is Telegraph Road than Pardee Road?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

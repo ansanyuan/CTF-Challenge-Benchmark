@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：树在旱季开始之前有1000片叶子，当它脱落所有叶子。在旱季的第一周，树脱落了叶子的2/5。在第二周，它脱落了剩下叶子的40%。在第三周，树脱落的叶子是第二周的3/4倍。计算到第三周树还没有脱落的叶子数量。。",
+  "topic": "回答下面的数学问题：A tree had 1000 leaves before the onset of the dry season, when it sheds all its leaves. In the first week of the dry season, the tree shed 2/5 of the leaves. In the second week, it shed 40% of the remaining leaves.  In the third week, the tree shed 3/4 times as many leaves as it shed on the second week. Calculate the number of leaves the tree hadn't shed by the third week.",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

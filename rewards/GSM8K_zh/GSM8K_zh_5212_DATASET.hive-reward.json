@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jake制作了一种饮料，其中有2份可乐，1份雪碧和3份山露。如果饮料中含有6盎司的可乐，那么饮料有多少盎司？。",
+  "topic": "回答下面的数学问题：Jake makes a drink that is 2 parts Coke, 1 part Sprite and 3 parts Mountain Dew.  If the drink contains 6 ounces of Coke, how many ounces is the drink?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

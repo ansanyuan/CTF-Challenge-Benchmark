@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：球坑里有360个球。如果球坑里的四分之一是红色的，剩下的球中有五分之一是蓝色的。有多少个球既不是红色也不是蓝色的？。",
+  "topic": "回答下面的数学问题：There are 360 balls in the ball pit. If a quarter of the balls in the ball pit are red and a fifth of the remaining balls are blue. How many of the balls are neither red nor blue?",
   "checkpoint": [
     {
-      "$\\boxed{216}$": 1
+      "\\boxed{216}": 1
     }
   ],
   "matchingmethod": [

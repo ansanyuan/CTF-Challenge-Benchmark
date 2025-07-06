@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔的数据集中有200个数据点。然后他向数据集中再添加了20%的数据点。如果他减少了总数据点的四分之一，请计算数据集中包含的总数据点数。。",
+  "topic": "回答下面的数学问题：Joe had 200 data points on his dataset. He then added 20% more data points to the dataset. If he reduced the data points by 1/4 of the total data points, calculate the total number of data points the dataset contains.",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Talia正在和她的朋友踢足球。他们玩的公园离Talia的家有5英里。在比赛结束后，Talia计划去距离公园3英里、离她家8英里的杂货店。从Talia的家出发并返回，那天Talia一共开了多少英里？。",
+  "topic": "回答下面的数学问题：Talia is playing football with her friends. The park they're playing at is 5 miles from Talia's house. After their game, Talia is planning to go to the grocery store 3 miles away from the park and 8 miles from her home. Starting and ending at Talia's house, how many miles does Talia drive that day?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

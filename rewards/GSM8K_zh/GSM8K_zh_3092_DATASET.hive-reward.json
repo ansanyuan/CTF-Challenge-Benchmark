@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marcy冰箱里有22罐苏打水准备开派对。她的朋友Tina过来给了她12罐，再加上Marcy之前的苏打水数量的两倍。Marcy最后会有多少罐苏打水准备开派对？。",
+  "topic": "回答下面的数学问题：Marcy had 22 sodas in her fridge for a party. Her friend Tina came over and gave her 12 plus two times the number of sodas Marcy had before. How many sodas will Marcy have for the party?",
   "checkpoint": [
     {
-      "$\\boxed{78}$": 1
+      "\\boxed{78}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：2汤匙爆米花粒可以做4杯爆米花。电影之夜，琼尼想要3杯爆米花，米切尔想要4杯爆米花，迈尔斯和戴维斯说他们要分6杯爆米花，克利夫说他只吃3杯。他们需要多少汤匙的爆米花粒？。",
+  "topic": "回答下面的数学问题：2 tablespoons of popcorn kernels will make 4 cups of popcorn.  For movie night, Joanie wants 3 cups of popcorn, Mitchell wants 4 cups of popcorn, Miles and Davis said they would split 6 cups of popcorn and Cliff said he would only eat 3 cups.  How many tablespoons of popcorn kernels will they need?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jaime在托盘上放鸡蛋。每个托盘可以放24个鸡蛋。如果他有64个鸡蛋和2个托盘，他有多少个鸡蛋无法放在托盘上？。",
+  "topic": "回答下面的数学问题：Jaime places eggs on the tray. Each tray can hold 24 eggs. If he has 64 eggs and 2 trays, how many eggs won't he be able to place on the tray?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

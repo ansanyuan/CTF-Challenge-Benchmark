@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一所学校里，两个班级共有80名学生。每个班级的学生数量相同，每个班级有40%的学生是女生。每个班级有多少名男生？。",
+  "topic": "回答下面的数学问题：In a certain school, two classes have a total of 80 students. Each class has the same amount of students, and in each class 40% of the students are girls. How many boys are in each class?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

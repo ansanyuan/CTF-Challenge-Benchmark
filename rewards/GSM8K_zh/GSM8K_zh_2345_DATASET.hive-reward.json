@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥利维亚的保险费最初为每月50美元。每次事故增加10%，每张罚单增加5美元。如果她发生一次事故并得到3张罚单，她的新保险费是多少？。",
+  "topic": "回答下面的数学问题：Olivia's insurance premium starts out at $50/month. It goes up 10% for every accident and $5/month for every ticket. If she gets in one accident and gets 3 tickets, what's her new insurance premium?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

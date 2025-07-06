@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：宠物店老板原来有12只鸟，9只小狗，5只猫和15只蜘蛛。半数的鸟被卖掉了，3只小狗被领养了。然后，有人把蜘蛛的围栏打开，有7只蜘蛛逃走了。宠物店老板还剩下多少动物？。",
+  "topic": "回答下面的数学问题：A pet store owner had 12 birds, 9 puppies, 5 cats, and 15 spiders. Half the birds were sold and 3 puppies were adopted. Then, someone left the spider enclosure open and 7 of them went loose. How many animals does the pet store owner have left?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

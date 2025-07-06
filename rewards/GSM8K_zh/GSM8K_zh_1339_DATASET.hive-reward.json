@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：我的新房子有12个中等大小的吊灯，但我在其他房间看到了小型和大型吊灯。小型吊灯需要1个灯泡，中型吊灯需要2个，大型吊灯需要3个灯泡。如果我妻子说她看到的大型吊灯是中型吊灯的两倍，而小型吊灯比中型吊灯多了十个，那么我应该买多少个灯泡？。",
+  "topic": "回答下面的数学问题：My new house has 12 medium ceiling lights but I have seen small and large ceiling lights in other rooms. The small ones require 1 bulb, the medium ones require 2, and the large ones need 3 bulbs. How many bulbs should I buy if my wife says she saw twice as many large ceiling lights as medium ceiling lights and ten more small lights than medium ones?",
   "checkpoint": [
     {
-      "$\\boxed{118}$": 1
+      "\\boxed{118}": 1
     }
   ],
   "matchingmethod": [

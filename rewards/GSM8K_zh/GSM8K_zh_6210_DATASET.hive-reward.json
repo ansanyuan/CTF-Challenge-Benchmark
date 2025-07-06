@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉尔伯特在院子里种植香草用于烹饪。春天初，他种植了三株罗勒，一株欧芹和两种薄荷。到了春天中期，其中一株罗勒从花朵上掉下种子，长出了一株额外的罗勒植物。然而，兔子在春天快结束时来到花园，吃掉了所有的薄荷。春天结束时，吉尔伯特种植了多少种香草植物？。",
+  "topic": "回答下面的数学问题：Gilbert grows herbs in his yard to use in his cooking. At the beginning of the spring, he planted three basil bushes, a parsley plant, and two kinds of mint. Halfway through spring, one of the basil plants dropped seeds from a flower and made an extra basil plant grow. However, a rabbit came by the garden near the end of spring and ate all the mint. How many herb plants did Gilbert have when spring ended?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

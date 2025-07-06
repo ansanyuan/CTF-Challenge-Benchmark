@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位商人库存了55袋大米。她卖掉了一些袋大米，然后补充了132袋大米。如果她现在有164袋大米，她卖掉了多少袋大米？。",
+  "topic": "回答下面的数学问题：A trader has 55 bags of rice in stock. She sells off some bags of rice and restocks 132 bags of rice. How many bags of rice did she sell if she now has 164 bags of rice?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

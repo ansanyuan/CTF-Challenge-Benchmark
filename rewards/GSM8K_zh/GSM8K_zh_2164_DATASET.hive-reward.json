@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈尔斯是一名音乐家。他拥有的小号比他的手指少三个，比他的手多两把吉他。他还拥有比他的头多两个长号，比他的吉他少一个法国号。迈尔斯拥有的乐器总数是多少？。",
+  "topic": "回答下面的数学问题：Miles is a musician.  He owns three fewer trumpets than he has fingers, and two more guitars than he has hands.  He also owns two more trombones than he has heads, and one fewer French horn than he has guitars.  What is the total number of musical instruments that Miles owns?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

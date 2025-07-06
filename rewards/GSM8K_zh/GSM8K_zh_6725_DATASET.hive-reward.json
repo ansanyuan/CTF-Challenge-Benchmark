@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个由4个水果篮组成，前三个篮子里有9个苹果，15个橙子和14个香蕉，第四个篮子里的每种水果比前三个篮子少2个。一共有多少个水果？。",
+  "topic": "回答下面的数学问题：A group of 4 fruit baskets contains 9 apples, 15 oranges, and 14 bananas in the first three baskets and 2 less of each fruit in the fourth basket. How many fruits are there?",
   "checkpoint": [
     {
-      "$\\boxed{146}$": 1
+      "\\boxed{146}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克买了一件衬衫、一条裤子和一双鞋，共花了340美元。已知一件衬衫的价格是裤子价格的四分之三，一双鞋的价格比裤子的价格高10美元。裤子的价格是多少？。",
+  "topic": "回答下面的数学问题：Mark bought a shirt, pants, and shoes for $340. What is the price of the pants knowing that the price of a shirt is three-quarters of the price of the pants and that the price of a shoe is ten dollars more than the price of the pants?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

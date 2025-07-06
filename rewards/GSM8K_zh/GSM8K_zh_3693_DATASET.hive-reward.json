@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三个不同的六年级班级正在合并进行方块舞蹈单元。如果可能的话，老师们希望每个男学生在这个单元里与一个女学生搭档。第一个班有17名男生和13名女生，而第二个班有14名男生和18名女生，第三个班有15名男生和17名女生。当这些班级合并时，将有多少学生无法与异性学生搭档？。",
+  "topic": "回答下面的数学问题：Three different 6th grade classes are combining for a square dancing unit.  If possible, the teachers would like each male student to partner with a female student for the unit.  The first class has 17 males and 13 females, while the second class has 14 males and 18 females, and the third class has 15 males and 17 females.  When the classes are combined, how many students will be unable to partner with a student of the opposite gender?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

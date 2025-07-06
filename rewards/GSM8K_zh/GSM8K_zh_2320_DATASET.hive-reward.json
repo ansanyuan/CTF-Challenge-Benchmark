@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅耶先生每只柯基犬花费1000美元购买。他计划以30%的利润出售它们。如果他的一个朋友想买两只狗，他的朋友应该支付多少钱？。",
+  "topic": "回答下面的数学问题：Mr. Mayer bought Corgi dogs for $1000 each. He plans to sell them with a 30% profit. If one of his friends wants to buy two dogs, how much should his friend pay?",
   "checkpoint": [
     {
-      "$\\boxed{2600}$": 1
+      "\\boxed{2600}": 1
     }
   ],
   "matchingmethod": [

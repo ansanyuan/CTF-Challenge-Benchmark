@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：二十年前，谢恩的年龄是加勒特现在年龄的两倍。如果加勒特现在12岁，那么谢恩现在多大？。",
+  "topic": "回答下面的数学问题：Twenty years ago, Shane was 2 times older than Garret is now. If Garret is currently 12, how old is Shane now?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

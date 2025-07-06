@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰有一头驴和一头大象。大象重3吨（1吨等于2000磅）。驴的重量轻了90%。它们的总重量是多少磅？。",
+  "topic": "回答下面的数学问题：John has a donkey and an elephant.  The elephant weighs 3 tons (a ton is 2000 pounds).  The donkey weighs 90% less.  What is their combined weight in pounds?",
   "checkpoint": [
     {
-      "$\\boxed{6600}$": 1
+      "\\boxed{6600}": 1
     }
   ],
   "matchingmethod": [

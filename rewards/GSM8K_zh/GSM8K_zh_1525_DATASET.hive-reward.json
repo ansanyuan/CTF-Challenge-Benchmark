@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克斯在2年内上了40门大学课程。希德在同一时期上了马克斯的四倍大学课程。他们两个一共上了多少门大学课程？。",
+  "topic": "回答下面的数学问题：Max attended 40 college courses in 2 years. Sid attended four times as many college courses as Max in the same period. What's the total of college courses they both attended?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

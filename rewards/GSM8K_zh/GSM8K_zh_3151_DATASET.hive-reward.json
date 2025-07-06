@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Percy想存钱买一台新的PlayStation，价格为500美元。他生日时得到了200美元，圣诞节时得到了150美元。为了筹集剩下的钱，他打算卖掉他的旧PlayStation游戏，每个游戏售价为7.5美元。他需要卖多少个游戏才能达到他的目标？。",
+  "topic": "回答下面的数学问题：Percy wants to save up for a new PlayStation, which costs $500. He gets $200 on his birthday and $150 at Christmas. To make the rest of the money, he's going to sell his old PlayStation games for $7.5 each. How many games does he need to sell to reach his goal?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

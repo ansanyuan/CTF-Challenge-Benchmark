@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当乔安妮在她家的果园里采摘苹果时，她的妹妹出来帮忙。乔安妮从最高的树上采摘了30个苹果，从最矮的树上采摘了这个数量的一半，还从中等高度的树上采摘了更多的苹果。与乔安妮相比，她的妹妹从最高的树上采摘了两倍的苹果，从最矮的树上采摘了三倍的苹果。她没有从中等高度的树上采摘任何苹果。如果姐妹俩总共采摘了500个苹果，那么乔安妮从中等高度的树上采摘了多少个苹果？。",
+  "topic": "回答下面的数学问题：While Joanne is gathering apples from her family’s orchard, her sister comes outside to help her. Joanne gathers 30 apples from the tallest trees, half this amount from the shortest trees, and more apples from the average trees. Compared with Joanne, her sister gathers twice as many apples from the tallest trees and 3 times as many apples from the shortest trees. She doesn't take any from the average trees. If the sisters have gathered a combined total of 500 apples, how many apples did Joanne gather from the average trees?",
   "checkpoint": [
     {
-      "$\\boxed{350}$": 1
+      "\\boxed{350}": 1
     }
   ],
   "matchingmethod": [

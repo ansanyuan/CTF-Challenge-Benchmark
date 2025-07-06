@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯蒂的妈妈想在凯蒂的足球比赛后给所有孩子买燕麦棒吃。将有30个孩子参加足球比赛，包括凯蒂在内。凯蒂的妈妈想给每个孩子买2根燕麦棒，因为燕麦棒不是很大，她觉得孩子们会非常饿。每盒燕麦棒里有12根。凯蒂的妈妈应该买多少盒？。",
+  "topic": "回答下面的数学问题：Katie's mother wants to get granola bars for all the kids to eat after Katie's soccer game. There will be 30 kids playing soccer, including Katie. Katie's mother wants to get 2 granola bars for each kid, since the bars are not that big and she figures the kids will be very hungry. Each box of granola bars has 12 bars in it. How many boxes should Katie's mother buy?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

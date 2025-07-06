@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果Marcy在同一家公司工作40年，她将获得每年5万美元的年金。从20年开始，她每年有权获得年金价值的5%。如果她在30年后辞职，她的年金将是多少？。",
+  "topic": "回答下面的数学问题：If Marcy works for the same company for 40 years, she gets an annual pension of $50,000/year. Starting after 20 years, she becomes entitled to 5% of the value of the pension per year. If she quits after 30 years, what will her annual pension be?",
   "checkpoint": [
     {
-      "$\\boxed{25000}$": 1
+      "\\boxed{25000}": 1
     }
   ],
   "matchingmethod": [

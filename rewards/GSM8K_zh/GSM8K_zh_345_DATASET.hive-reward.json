@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿奇在外面玩弹珠。他把60%的弹珠丢到了街上。剩下的弹珠中，他的一半掉进了下水道。如果他还剩下20颗，他最初有多少颗弹珠？。",
+  "topic": "回答下面的数学问题：Archie is playing with his marbles outside. He loses 60% of them into the street. Of the remaining ones, he loses half down a sewer. If he has 20 left, how many did he start with?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

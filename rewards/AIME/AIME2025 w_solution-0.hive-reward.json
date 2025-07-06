@@ -2,7 +2,7 @@
   "topic": "请作答如下题目，并给出正确答案：Find the sum of all integer bases $b>9$ for which $17_b$ is a divisor of $97_b.$",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

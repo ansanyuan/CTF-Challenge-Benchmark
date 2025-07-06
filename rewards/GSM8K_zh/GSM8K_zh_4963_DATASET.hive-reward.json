@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kendra想要足够的衬衫，这样她每两周只需要洗一次衣服。她每个工作日穿一件衬衫去学校。每周三天，她在放学后换一件不同的衬衫。星期六，她整天穿一件衬衫。星期天，她去教堂时穿一件不同的衬衫，与她在其他时间穿的不同。她需要多少件衬衫才能每两周只需要洗一次衣服？。",
+  "topic": "回答下面的数学问题：Kendra wants enough shirts that she only has to do laundry once every two weeks. She wears one shirt to school for each of the five weekdays. Three days a week, she changes into a different shirt for an after-school club. On Saturday, she wears one shirt all day. On Sunday, she wears a different shirt to church than she does for the rest of the day. How many shirts does she need to be able to only do laundry once every two weeks?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

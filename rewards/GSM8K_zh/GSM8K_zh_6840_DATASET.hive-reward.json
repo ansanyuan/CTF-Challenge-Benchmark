@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rachel赚了200美元的保姆费。她花了四分之一的钱用于午餐。她花了一半的钱买了一张DVD。Rachel还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Rachel earned $200 babysitting. She spent 1/4 of the money on lunch. She spent 1/2 of the money on a DVD. How much did Rachel have left?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

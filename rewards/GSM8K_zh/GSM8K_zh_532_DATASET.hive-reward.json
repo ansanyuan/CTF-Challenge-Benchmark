@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：动物园逃跑了3只狮子和2只犀牛。如果每只动物恢复需要2小时，那么动物园花了多长时间来恢复动物？。",
+  "topic": "回答下面的数学问题：3 lions and 2 rhinos escape from the zoo.  If it takes 2 hours to recover each animal how long did the zoo spend recovering animals?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

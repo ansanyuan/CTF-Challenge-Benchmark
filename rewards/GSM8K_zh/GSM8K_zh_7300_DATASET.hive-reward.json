@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：秋天，一棵树在四天内每天掉落其初始叶子数量的十分之一，然后在第五天突然掉落剩下的叶子。如果在开始掉落之前它有340片叶子，第五天掉落了多少片叶子？。",
+  "topic": "回答下面的数学问题：In the fall, a tree drops a tenth of its initial quantity of leaves each day over the course of four days, then abruptly drops the rest on the fifth day. If it had 340 leaves before they started to fall, how many leaves does it drop on the fifth day?",
   "checkpoint": [
     {
-      "$\\boxed{204}$": 1
+      "\\boxed{204}": 1
     }
   ],
   "matchingmethod": [

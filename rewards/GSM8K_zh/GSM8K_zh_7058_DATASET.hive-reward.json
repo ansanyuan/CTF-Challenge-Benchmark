@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在学校的花园里，有不同颜色的花。总共有96朵花，有四种颜色：绿色，红色，蓝色和黄色。有9朵绿色的花和红色的花数量的三倍。蓝色的花占总花数的50%。有多少朵黄色的花？。",
+  "topic": "回答下面的数学问题：In a school garden, there are flowers in different colors. In total there are 96 flowers of four colors: green, red, blue, and yellow. There are 9 green flowers and three times more red flowers. Blue flowers make up to 50% of the total flower count. How many yellow flowers are there?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

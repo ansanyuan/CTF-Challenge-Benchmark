@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅丽莎总共花了24美元买了4包网球。每包里有3个网球。梅丽莎每个网球花了多少钱？。",
+  "topic": "回答下面的数学问题：Melissa bought 4 packs of tennis balls for $24 in total. Each pack contains 3 balls per pack. How much did it cost Melissa for each tennis ball?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

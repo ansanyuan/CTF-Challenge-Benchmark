@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当Fruity农场的草莓成熟可以收获时，米格尔向每位有兴趣的采摘者收取4美元的费用以进入草莓田。一旦进入，人们可以随意采摘草莓，然后将其带到米格尔那里进行称重和定价。今年，一磅草莓的标准价格是20美元。米格尔是一个非常慷慨的人。他从收获成本中扣除了入场费。莎莉、珍妮和摩西刚刚完成了他们的草莓采摘并准备回家。他们为他们的收获支付了128美元。他们采摘了多少磅的草莓？。",
+  "topic": "回答下面的数学问题：When the strawberries at Fruity Farm are ready for harvest, Miguel charges each interested picker $4 to access the strawberry fields. Once there, people pick as many strawberries as they wish, and then take them to Miguel for weighing and pricing. This year, the standard price of a pound of strawberries is $20. Miguel is a very generous man. He deducts the entrance charge from the cost of the harvest. Sally, Jenny and Moses have just finished their strawberry picking and are headed home. They paid $128 for their harvest. How many pounds of strawberry did they pick?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

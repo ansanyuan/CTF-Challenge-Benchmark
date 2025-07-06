@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰爬了3个楼梯。第一道楼梯有20个台阶。下一个楼梯的台阶数是第一个的两倍。最后一个楼梯比第二个楼梯少10个台阶。每个台阶是0.5英尺。他爬了多少英尺？。",
+  "topic": "回答下面的数学问题：John climbs 3 staircases.  The first staircase has 20 steps.  The next has twice as many steps as the first.  The final staircase has 10 fewer steps than the second one.  Each step is 0.5 feet.  How many feet did he climb?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

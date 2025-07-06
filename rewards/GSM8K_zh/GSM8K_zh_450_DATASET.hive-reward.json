@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只蜘蛛有八条腿。如果一群蜘蛛的数量比一只蜘蛛的腿的一半多10只，那么这群蜘蛛的总腿数是多少？。",
+  "topic": "回答下面的数学问题：A spider has eight legs.  If a group of spiders has 10 more spiders than half as many legs as a single spider has, what is the total number of spider legs in this group of spiders?",
   "checkpoint": [
     {
-      "$\\boxed{112}$": 1
+      "\\boxed{112}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克的海滩上有20座沙堡，每座沙堡有10座塔。杰夫的海滩上有马克海滩上沙堡数量的三倍，每座沙堡有5座塔。马克和杰夫的海滩上沙堡和塔的总数是多少？。",
+  "topic": "回答下面的数学问题：There are 20 sandcastles on Mark's beach, each with 10 towers. On Jeff's beach, there are three times as many castles as on Mark's beach, each with 5 towers. What is the combined total number of sandcastles and towers on Mark's and Jeff's beaches?",
   "checkpoint": [
     {
-      "$\\boxed{580}$": 1
+      "\\boxed{580}": 1
     }
   ],
   "matchingmethod": [

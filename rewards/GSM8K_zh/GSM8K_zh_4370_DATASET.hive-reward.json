@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗斯买了一盆打了9折的植物。如果原价是10美元，打折后罗斯支付了多少钱？。",
+  "topic": "回答下面的数学问题：Rose bought a plant with a 10% discount. If the price is $10, how much did Rose pay after the discount?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

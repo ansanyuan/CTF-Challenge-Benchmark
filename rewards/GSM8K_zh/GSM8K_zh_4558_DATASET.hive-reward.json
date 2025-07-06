@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个普通的柠檬树每年可以结出60个柠檬。吉姆有特别改良的柠檬树，每年可以多结出50%的柠檬。他有一个50棵乘以30棵的柠檬树林。在5年内他一共生产了多少个柠檬？。",
+  "topic": "回答下面的数学问题：A normal lemon tree produces 60 lemons per year.  Jim has specially engineered lemon trees that produce 50% more lemons per year.  He has a grove that is 50 trees by 30 trees.  How many lemons does he produce in 5 years?",
   "checkpoint": [
     {
-      "$\\boxed{675000}$": 1
+      "\\boxed{675000}": 1
     }
   ],
   "matchingmethod": [

@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：The function f is defined on the set of integers and satisfies $f(n)= \\begin{cases}  n-3 & \\mbox{if }n\\ge 1000 \\\\  f(f(n+5)) & \\mbox{if }n<1000 \\end{cases}$ Find $f(84)$ .",
   "checkpoint": [
     {
-      "$\\boxed{997}$": 1
+      "\\boxed{997}": 1
     }
   ],
   "matchingmethod": [

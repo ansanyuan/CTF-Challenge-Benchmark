@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个裁缝为衣服购买了纽扣。她买了90个绿色的纽扣，比绿色纽扣多了10个黄色的纽扣，比绿色纽扣少了5个蓝色的纽扣。裁缝购买了多少个纽扣？。",
+  "topic": "回答下面的数学问题：A tailor purchased buttons for the clothes. She bought 90 green buttons, 10 more yellow buttons than the green buttons, and 5 fewer blue buttons than the green buttons. How many buttons did the tailor purchase?",
   "checkpoint": [
     {
-      "$\\boxed{275}$": 1
+      "\\boxed{275}": 1
     }
   ],
   "matchingmethod": [

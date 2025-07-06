@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：村庄里三分之一的猫有斑点。村庄里有斑点的猫中四分之一是蓬松的。如果村庄里有120只猫，有多少只猫是有斑点且蓬松的？。",
+  "topic": "回答下面的数学问题：A third of all the cats in the village have spots. A quarter of the spotted cats in the village are fluffy. If there are 120 cats in the village, how many of the cats are spotted and fluffy?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

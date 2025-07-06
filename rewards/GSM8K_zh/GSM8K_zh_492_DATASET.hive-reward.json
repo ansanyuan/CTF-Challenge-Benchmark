@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在去上班之前，杰丝有一些杂事要处理。杰丝必须走11个街区到商店，6个街区到画廊，然后再走8个街区到达工作地点。如果杰丝已经走了5个街区，她还需要再走多少个街区才能到达工作地点？。",
+  "topic": "回答下面的数学问题：Before getting to work, Jess has a few errands to run. Jess has to walk 11 blocks to the store and 6 blocks to the gallery, before walking the final 8 blocks to arrive at work. If Jess has already walked 5 blocks, how many more blocks must she walk before arriving at work?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

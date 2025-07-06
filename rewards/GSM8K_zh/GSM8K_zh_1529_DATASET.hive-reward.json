@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gabby正在存钱买一套新的化妆品。这套化妆品的价格是65美元，她已经有35美元。Gabby的妈妈另外给了她20美元。Gabby需要多少钱才能买到这套化妆品？。",
+  "topic": "回答下面的数学问题：Gabby is saving money to buy a new makeup set. The makeup set costs $65 and she already has $35. Gabby’s mom gives her an additional $20. How much money does Gabby need to buy the set?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

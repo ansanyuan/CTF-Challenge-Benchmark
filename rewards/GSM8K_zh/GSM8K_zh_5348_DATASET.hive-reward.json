@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在某个乡村商店里，有三种瓶装饮料。可乐售价3美元，果汁售价1.5美元，水售价1美元一瓶。有一天，商店卖出了15瓶可乐，25瓶水和12瓶果汁。商店赚了多少钱？。",
+  "topic": "回答下面的数学问题：In a certain country store, there are three kinds of bottled drinks. A cola, which costs $3, a juice for $1.5, and water for $1 per bottle. One day the store was able to sell 15 bottles of cola, 25 bottles of water, and 12 bottles of juice. How much did the shop earn?",
   "checkpoint": [
     {
-      "$\\boxed{88}$": 1
+      "\\boxed{88}": 1
     }
   ],
   "matchingmethod": [

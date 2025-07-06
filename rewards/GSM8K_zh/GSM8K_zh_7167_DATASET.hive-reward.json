@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：夏天和乔利都上了同一所中学。然而，当他们大学毕业时，夏天比乔利多了五个学位。如果夏天总共有150个学位，他们两个一共有多少个学位？。",
+  "topic": "回答下面的数学问题：Summer and Jolly both went to the same middle school. However, when they finished college, Summer had five more degrees than Jolly. If Summer has a total of 150 degrees, what's the combined number of degrees they both have?",
   "checkpoint": [
     {
-      "$\\boxed{295}$": 1
+      "\\boxed{295}": 1
     }
   ],
   "matchingmethod": [

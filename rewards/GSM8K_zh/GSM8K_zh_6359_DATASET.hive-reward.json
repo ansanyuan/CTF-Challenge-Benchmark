@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮丝总共花了10美元买了五杯果汁和6美元买了两个三明治。如果她只买一杯果汁和一个三明治，她需要支付多少钱？。",
+  "topic": "回答下面的数学问题：Janice bought five juices for $10 in total and two sandwiches for $6 in total. How much would she need to pay, if she would only buy one sandwich and one juice?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马德琳每周在课堂上花费18小时。她每天花费4小时做作业。她每天睡觉8小时。她每周兼职工作20小时。马德琳剩下多少小时？。",
+  "topic": "回答下面的数学问题：Madeline spends 18 hours a week in class. She spends 4 hours per day working on homework. She spends 8 hours per day sleeping. She works part-time 20 hours per week. How many hours left over does Madeline have?",
   "checkpoint": [
     {
-      "$\\boxed{46}$": 1
+      "\\boxed{46}": 1
     }
   ],
   "matchingmethod": [

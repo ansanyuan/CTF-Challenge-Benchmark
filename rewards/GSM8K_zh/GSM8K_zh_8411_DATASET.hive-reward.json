@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：内特正在给他的牲畜喂草。每只山羊需要5磅，每只绵羊需要的草量是每只山羊的两倍减去3磅。如果有15只山羊和12只绵羊，内特需要多少磅的草？。",
+  "topic": "回答下面的数学问题：Nate is feeding his livestock hay. Each goat needs 5 pounds, and each sheep needs 3 pounds less than twice the amount each goat needs. If there are 15 goats and 12 sheep, how many pounds of hay does Nate need?",
   "checkpoint": [
     {
-      "$\\boxed{159}$": 1
+      "\\boxed{159}": 1
     }
   ],
   "matchingmethod": [

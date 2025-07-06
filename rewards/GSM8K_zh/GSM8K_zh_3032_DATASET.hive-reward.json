@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：高大的金枪鱼的鱼的数量是混蛋金枪鱼的两倍。如果混蛋金枪鱼有一百四十四条鱼，他们一共有多少条鱼？。",
+  "topic": "回答下面的数学问题：Tall Tuna has twice as many fish as Jerk Tuna. If Jerk Tuna has one hundred forty-four fish, how many fish do they have together?",
   "checkpoint": [
     {
-      "$\\boxed{432}$": 1
+      "\\boxed{432}": 1
     }
   ],
   "matchingmethod": [

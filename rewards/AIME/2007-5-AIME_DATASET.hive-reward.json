@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：The graph of the equation $9x+223y=2007$ is drawn on graph paper with each square representing one unit in each direction. How many of the $1$ by $1$ graph paper squares have interiors lying entirely below the graph and entirely in the first quadrant ?",
   "checkpoint": [
     {
-      "$\\boxed{888}$": 1
+      "\\boxed{888}": 1
     }
   ],
   "matchingmethod": [

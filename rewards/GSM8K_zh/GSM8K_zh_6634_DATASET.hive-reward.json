@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丹尼斯想要从商店购买4条裤子，每条裤子原价110.00美元，打7折，他还想购买2双袜子，每双袜子原价60.00美元，也打7折。在折扣后，丹尼斯购买所有想要的物品后，他总共需要花多少钱？。",
+  "topic": "回答下面的数学问题：Dennis wants to buy 4 pairs of pants from the store which cost $110.00 each with a 30% discount and he also wants to buy 2 pairs of socks which cost $60.00 with a 30% discount. How much money will Dennis have to spend in total after he bought all the items he wants after the discount?",
   "checkpoint": [
     {
-      "$\\boxed{392}$": 1
+      "\\boxed{392}": 1
     }
   ],
   "matchingmethod": [

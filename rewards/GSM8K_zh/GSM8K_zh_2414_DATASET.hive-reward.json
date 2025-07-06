@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Val有她的镍币数量的三倍那么多的一角硬币。如果她意外地在她哥哥的宝盒里找到了她自己的两倍数量的镍币，并把它们拿走，那么她现在有多少钱，以美元计算，如果她在找到来自她哥哥宝盒里的新镍币之前有20个镍币？。",
+  "topic": "回答下面的数学问题：Val has three times as many dimes as nickels. If she accidentally finds twice as many nickels as she has in her older brother's treasure box, and takes them for herself, what would be the value of money she has, in dollars, if she had 20 nickels before finding the new ones from her brother's treasure box?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

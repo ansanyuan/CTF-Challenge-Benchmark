@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：4个成人和8个孩子要分享8包巧克力棒。每包含有5根巧克力棒。如果每个成人得到6根巧克力棒，剩下的平均分给孩子们，每个孩子能得到多少根？。",
+  "topic": "回答下面的数学问题：4 adults and 8 children are to share 8 packets of chocolate bars. Each packet contains 5 chocolate bars. If each adult gets 6 chocolate bars and the rest are to be shared equally among the children, how many will each child get?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

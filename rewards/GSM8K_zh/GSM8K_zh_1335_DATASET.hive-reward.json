@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：瑞秋正在装信封。她有8个小时来完成任务，共有1500个信封。在第一个小时，瑞秋装了135个信封。第二个小时，她装了141个信封。瑞秋需要每小时装多少个信封才能完成任务？。",
+  "topic": "回答下面的数学问题：Rachel is stuffing envelopes. She has eight hours to complete the task, and there are 1,500 envelopes. In the first hour, Rachel stuffs 135 envelopes. The second hour she stuffs 141 envelopes. How many envelopes will Rachel need to stuff per hour to finish the job?",
   "checkpoint": [
     {
-      "$\\boxed{204}$": 1
+      "\\boxed{204}": 1
     }
   ],
   "matchingmethod": [

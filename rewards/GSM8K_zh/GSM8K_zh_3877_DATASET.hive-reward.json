@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周四，肉市场卖出了210公斤的碎牛肉。周五他们卖出了这个数量的两倍。周六他们只卖出了130公斤。周日他们卖出了周六的一半。如果他们最初计划只卖出500公斤，他们超出计划销售了多少肉？。",
+  "topic": "回答下面的数学问题：On Thursday the Meat Market sold 210kg of ground beef. On Friday they sold twice that amount. On Saturday they only sold 130kg. On Sunday they sold half of what they sold Saturday. If they originally planned to sell only 500kg, how much meat did they sell beyond their original plans?",
   "checkpoint": [
     {
-      "$\\boxed{325}$": 1
+      "\\boxed{325}": 1
     }
   ],
   "matchingmethod": [

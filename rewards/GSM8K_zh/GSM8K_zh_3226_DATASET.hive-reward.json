@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯以每张12美元的价格购买了8张DVD电影和每张18美元的价格购买了4张蓝光电影。他平均每部电影支付了多少钱？。",
+  "topic": "回答下面的数学问题：Chris bought 8 movies on DVD for $12 each and 4 movies on Blu-ray for $18 each. What is the average price he paid per movie?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

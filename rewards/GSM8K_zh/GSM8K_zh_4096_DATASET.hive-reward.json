@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Pulsar是一只扭动舞蹈的熊，Polly是一只粉红色的跳跃贵宾狗，Petra是一只自豪的肥胖的大象，他们是大顶马戏团的表演者。在一场表演中，Pulsar用他的两条后腿站立了总共10分钟。然后，Polly站在她的后腿上的时间是Pulsar的三倍。最后，Petra站在她的后腿上的时间是Polly的六分之一。三位表演者站在他们的后腿上的总时间是多少分钟？。",
+  "topic": "回答下面的数学问题：Pulsar, the shuffle-dancing bear, Polly, the pink prancing poodle, and Petra, the proud portly pachyderm, are entertainers at the Big Top Circus.  In one show, Pulsar stands on his two back legs for a total of 10 minutes.  Then, Polly stands on her back legs for three times as long as Pulsar.  And then, finally, Petra stands of his back legs for one-sixth as long as Polly.  What is the combined length of time, in minutes, that the three entertainers stand on their back legs?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

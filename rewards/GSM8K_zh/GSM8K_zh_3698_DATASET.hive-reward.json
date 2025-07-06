@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Opal在一场赛马比赛中赢得了100.00美元。她把一半的奖金存入储蓄，然后把另一半的奖金下注。这一次，她赚了60%的利润，然后再次把一半的收入存入储蓄。她一共存了多少钱？。",
+  "topic": "回答下面的数学问题：Opal won $100.00 betting on a horse race.  She put half of her winnings into savings and bet the other half of her winnings.  This time, she made a 60% profit and again, put half of her earnings into savings.  How much did she put into her savings?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

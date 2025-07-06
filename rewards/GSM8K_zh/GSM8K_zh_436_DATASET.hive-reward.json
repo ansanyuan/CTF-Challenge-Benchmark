@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽亚想买一辆全新的自行车。自行车店的零售价为600美元。她已经存了120美元用于购买。由于这还不够，她向母亲要求剩下的金额。她母亲提供了250美元，并告诉她她需要在假期期间工作赚取剩下的钱。玛丽亚需要赚多少钱才能买到她想要的自行车？。",
+  "topic": "回答下面的数学问题：Maria wants to buy a brand new bike. The retail price at the bike shop stands at $600. She saved $120 toward the purchase. As this was not enough, she asked her mother to give her the remaining amount. Her mother offered her $250 and told her that she needs to earn the rest working during the holidays. How much money must Maria earn to be able to buy the bike she wants?",
   "checkpoint": [
     {
-      "$\\boxed{230}$": 1
+      "\\boxed{230}": 1
     }
   ],
   "matchingmethod": [

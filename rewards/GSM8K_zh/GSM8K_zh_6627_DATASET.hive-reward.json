@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯打印了2本书。每本书有600页。他双面打印，每面4页。他用了多少张纸？。",
+  "topic": "回答下面的数学问题：James prints out 2 books.  They are each 600 pages long.  He prints out double-sided and 4 pages per side.  How many sheets of paper does he use?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

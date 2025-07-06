@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：劳尔有87美元可以花，所以他决定去书店。劳尔买了8本漫画，每本漫画的价格是4美元。劳尔还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Raul had $87 to spare so he decided to go to the bookshop. Raul bought 8 comics, each of which cost $4. How much money does Raul have left?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

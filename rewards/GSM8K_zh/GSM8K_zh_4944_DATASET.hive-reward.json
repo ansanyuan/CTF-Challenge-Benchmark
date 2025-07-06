@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Juan需要10个半加仑的牛奶来烤40块饼干。Juan需要多少个半加仑的牛奶来烤200打饼干？。",
+  "topic": "回答下面的数学问题：Juan needs 10 half-gallons of milk to bake 40 cookies with. How many half-gallons of milk does Juan need to bake 200 dozen cookies?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

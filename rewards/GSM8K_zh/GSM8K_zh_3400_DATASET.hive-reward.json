@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在美国国旗上，第一条条纹是红色，剩下的条纹中有一半也是红色。每面国旗有13条条纹。约翰买了10面国旗。有多少条红色条纹？。",
+  "topic": "回答下面的数学问题：On an American flag, the first stripe is red and half of the remaining stripes are also red. Each flag has 13 stripes.  John buys 10 flags.  How many red stripes are there?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

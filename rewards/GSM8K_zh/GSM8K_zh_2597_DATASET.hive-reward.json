@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亨利在地理考试中得了50分，在数学考试中得了70分，在英语考试中得了66分。如果他的历史考试分数是这3个科目的平均分，那么他在所有4个科目中的总分是多少？。",
+  "topic": "回答下面的数学问题：Henry scored 50 points on his Geography test, 70 on his Math test and 66 on his English test. If his History score is the average of these 3 scores, what was his total score across all 4 subjects?",
   "checkpoint": [
     {
-      "$\\boxed{248}$": 1
+      "\\boxed{248}": 1
     }
   ],
   "matchingmethod": [

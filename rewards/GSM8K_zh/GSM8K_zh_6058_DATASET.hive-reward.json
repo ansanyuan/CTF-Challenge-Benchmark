@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：农场上的一棵树有10个树枝。每个树枝有40个子树枝，每个子树枝有60片叶子。如果农场上的树的总数是4，它们叶子的总数相同，请计算所有树上叶子的总数。。",
+  "topic": "回答下面的数学问题：A tree on a farm has 10 branches. Each branch has 40 sub-branches with 60 leaves each. If the total number of trees on the farm is 4 and they have the same number of leaves, calculate the total number of leaves on all the trees.",
   "checkpoint": [
     {
-      "$\\boxed{96000}$": 1
+      "\\boxed{96000}": 1
     }
   ],
   "matchingmethod": [

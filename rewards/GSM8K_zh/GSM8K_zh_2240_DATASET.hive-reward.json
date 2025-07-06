@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：弗兰克和他的朋友贝蒂和比尔去了他们的农场摘橙子吃。贝蒂摘了15个橙子，比尔摘了12个橙子。弗兰克摘的橙子数量是贝蒂和比尔摘的总和的三倍。然后，弗兰克将他的每个橙子中的2颗种子种在地里，等待20年，每颗种子都长成了美丽的橙树。如果每棵橙树里有5个橙子供弗兰克的儿子菲利普摘，那么菲利普总共可以摘到多少个橙子？。",
+  "topic": "回答下面的数学问题：Frank and his friends Betty and Bill went to their farm and picked oranges to eat. Betty picked 15 oranges and Bill picked 12 oranges. Frank picked three times the number that Betty and Bill picked combined. Frank then planted 2 seeds from each of his oranges into the ground and waited 20 years for each seed to turn into a beautiful orange tree. If each orange tree contains 5 oranges for Frank's son Philip to pick, how many oranges are there for Philip to pick in total?",
   "checkpoint": [
     {
-      "$\\boxed{810}$": 1
+      "\\boxed{810}": 1
     }
   ],
   "matchingmethod": [

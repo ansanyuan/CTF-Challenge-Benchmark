@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：特蕾西、约翰和杰克的总体重为158千克。如果特蕾西的体重为52千克，而杰克的体重比特蕾西重8千克，他们的体重范围是多少？。",
+  "topic": "回答下面的数学问题：Tracy, John and Jake found their combined weight to be 158 kilograms. If Tracy weighs 52 kg and Jake weighs 8kg more than Tracy, what is the range of their weights?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

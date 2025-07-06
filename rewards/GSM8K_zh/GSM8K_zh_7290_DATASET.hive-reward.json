@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乌苏拉以每个1.50美元的价格买了五根热狗和每个2.50美元的价格买了三份沙拉。如果她有两张10美元的钞票，她会得到多少零钱？。",
+  "topic": "回答下面的数学问题：Ursula bought five hot dogs at $1.50 each and three salads at $2.50 each. If she had two $10 bills, how much change did she get back?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

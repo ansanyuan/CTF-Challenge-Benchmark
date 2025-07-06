@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Maddy在大学上了8个学期。她需要120学分才能毕业。如果每门课程是3学分，她每个学期需要上多少门课？。",
+  "topic": "回答下面的数学问题：Maddy is in college for 8 semesters. She needs 120 credits to graduate. If each class is 3 credits, how many classes does she need to take per semester?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

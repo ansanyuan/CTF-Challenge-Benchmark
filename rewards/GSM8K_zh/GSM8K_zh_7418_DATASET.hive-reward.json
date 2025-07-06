@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Max以每分钟2个的速度填满水球，填了30分钟。Max的朋友Zach以每分钟3个的速度填满水球，填了40分钟。在这个过程中，有10个水球在地上爆破了。Max和Zach总共有多少个填满的水球？。",
+  "topic": "回答下面的数学问题：Max fills up water balloons for 30 minutes at a rate of 2 water balloons every minute. Max’s friend Zach fills up water balloons for 40 minutes at a rate of 3 water balloons every minute. In the process, 10 of the water balloons pop on the ground. How many filled water balloons do Max and Zach have in total?",
   "checkpoint": [
     {
-      "$\\boxed{170}$": 1
+      "\\boxed{170}": 1
     }
   ],
   "matchingmethod": [

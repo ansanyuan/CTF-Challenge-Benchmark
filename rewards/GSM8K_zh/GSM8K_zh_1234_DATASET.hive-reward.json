@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯文跑步后想计算他跑了多远。他以每小时10英里的速度跑了半小时，以每小时20英里的速度跑了半小时，然后以每小时8英里的速度跑了15分钟。凯文跑了多少英里？。",
+  "topic": "回答下面的数学问题：Kevin has been for a run and wants to calculate how far he traveled. He ran at 10 miles per hour for half an hour, 20 miles per hour for half an hour, then ran at 8 miles per hour for 15 minutes. How many miles has Kevin run?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

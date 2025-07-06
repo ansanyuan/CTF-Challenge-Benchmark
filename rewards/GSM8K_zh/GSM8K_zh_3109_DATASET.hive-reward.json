@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安妮有120美元。隔壁的餐馆卖汉堡每个4美元。街对面的餐馆卖奶昔每个3美元。安妮买了8个汉堡和6杯奶昔。她还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Annie has $120. The restaurant next door sells hamburgers for $4 each. The restaurant across the street sells milkshakes for $3 each. Annie buys 8 hamburgers and 6 milkshakes. How much money, in dollars, does she have left?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

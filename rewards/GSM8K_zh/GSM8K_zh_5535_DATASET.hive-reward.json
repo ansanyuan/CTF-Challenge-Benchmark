@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：朱莉想在她最喜欢的表弟的生日时送他一辆价值2345美元的山地自行车。到目前为止，她已经存了1500美元。由于生日还有几周，朱莉有时间存更多的钱。她计划修剪20个草坪，投递600份报纸，遛24只邻居的狗。她每修剪一个草坪可以赚20美元，每份报纸可以赚40美分，每遛一只狗可以赚15美元。购买自行车后，朱莉还剩多少钱？。",
+  "topic": "回答下面的数学问题：Julie wants to give her favorite cousin a $2345 mountain bike for his birthday. So far, she has saved $1500. Since the birthday is still a few weeks away, Julie has time to save even more. She plans on mowing 20 lawns, delivering 600 newspapers, and walking 24 of her neighbors’ dogs. She is paid $20 for each lawn, 40 cents per newspaper, and $15 per dog. After purchasing the bike, how much money will Julie have left?",
   "checkpoint": [
     {
-      "$\\boxed{155}$": 1
+      "\\boxed{155}": 1
     }
   ],
   "matchingmethod": [

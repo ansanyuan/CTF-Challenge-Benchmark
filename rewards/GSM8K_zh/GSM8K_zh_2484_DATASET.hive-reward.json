@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Josie收到了50美元的礼物。她计划购买两盒售价各9美元的磁带和一套售价25美元的耳机。她会剩下多少钱？。",
+  "topic": "回答下面的数学问题：Josie received $50 as a gift. She plans to buy two cassette tapes that cost $9 each and a headphone set that costs $25. How much money will she have left?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Joshua和Justin分享了40美元。Joshua的份额是Justin的三倍。Joshua的份额是多少？。",
+  "topic": "回答下面的数学问题：Joshua and Justin shared $40. Joshua’s share was thrice as much as Justin’s. How much is Joshua's share?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

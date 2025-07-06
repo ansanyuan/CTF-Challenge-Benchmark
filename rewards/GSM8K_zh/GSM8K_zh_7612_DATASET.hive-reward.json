@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克昨天参加了一个包含75个问题的测试。他以每小时5个问题的速度完成测试。今天，他以相同的速度参加了另一个有100个问题的测试。如果马克有8小时完成第一次测试，有6小时完成第二次测试，他有多少问题没有完成？。",
+  "topic": "回答下面的数学问题：Mark took a test yesterday that consisted of 75 questions. He completed the test at a rate of 5 questions per hour. Today, he took another test of 100 questions at the same rate. If Mark had 8 hours to complete the first test and 6 hours to complete the second one, how many questions did he leave incomplete?",
   "checkpoint": [
     {
-      "$\\boxed{105}$": 1
+      "\\boxed{105}": 1
     }
   ],
   "matchingmethod": [

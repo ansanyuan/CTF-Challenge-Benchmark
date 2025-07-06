@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Celina喜欢在山上徒步旅行。由于缺乏适当的装备，她决定订购一双新靴子、一个手电筒和一件特制的连帽衫。连帽衫的价格是80美元，手电筒只有连帽衫价格的20%。靴子的价格是110美元，但由于特别促销，Celina能以打9折的价格购买。Celina在上述装备上总共花了多少钱？。",
+  "topic": "回答下面的数学问题：Celina enjoys hiking in the mountains. Due to a lack of proper equipment, she decided to order a new pair of boots, a flashlight, and a special hoodie. The hoodie cost $80 and the flashlight was only 20% of that price. The pair of boots cost was $110, but due to a special promotion, Celina was able to buy them 10% cheaper. How much did Celina spend in total on the above-mentioned equipment?",
   "checkpoint": [
     {
-      "$\\boxed{195}$": 1
+      "\\boxed{195}": 1
     }
   ],
   "matchingmethod": [

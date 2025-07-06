@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：保琳每年去她最喜欢的当地博物馆三次。一次参观的费用是2美元。5年后，一次参观的费用增加了150%，但保琳决定不放弃任何参观，并继续再去博物馆3年。保琳所有参观博物馆的费用总共是多少？。",
+  "topic": "回答下面的数学问题：Pauline visits her favorite local museum three times a year. The cost of one visit is $2. After 5 years, the cost of one visit has increased by 150%, but Pauline decided not to give up any visit and continued to go to the museum for 3 more years. How much did Pauline spend on all visits to the museum?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

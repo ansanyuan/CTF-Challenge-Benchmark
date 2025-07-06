@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮想要加热一道晚餐菜肴。在准备好吃之前，它需要达到100度。当她把它放进烤箱时，它的温度是20度，然后它每分钟升高5度。需要多少分钟才能准备好？。",
+  "topic": "回答下面的数学问题：Jenny wants to heat a dish for dinner.  It needs to be at 100 degrees before it is ready to eat.  It is 20 degrees when she places it in the oven, and it heats up 5 degrees every minute.  How many minutes will it take to be ready?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

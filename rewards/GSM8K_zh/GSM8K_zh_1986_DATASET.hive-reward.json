@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每秒有24加仑的水流下瀑布。如果你有一个可以容纳260加仑水的空水池。水池以每秒4加仑的速度漏水。从瀑布中用水填满水池需要多长时间（以秒为单位）？。",
+  "topic": "回答下面的数学问题：24 gallons per second of water flows down a waterfall. If you have an empty basin that can hold 260 gallons of water. The basin leaks water at 4 gallons per second. how long would it take to fill the basin with water from the waterfall in seconds?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

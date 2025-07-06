@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家珠宝店正在重新装货架。项链展架可以容纳12条项链，目前有5条项链。戒指展示架可以容纳30枚戒指，目前有18枚戒指。手镯展示架可以容纳15只手镯，目前有8只手镯。商店的供应商每条项链收取4美元，每枚戒指收取10美元，每只手镯收取5美元。填满展示架需要支付多少美元？。",
+  "topic": "回答下面的数学问题：A jewelry store is restocking its shelves. The necklace stand, which can hold 12 necklaces, currently holds 5 necklaces. The ring display, which can hold 30 rings, currently holds 18 rings. The bracelet display, which can hold 15 bracelets, currently holds 8 bracelets. The store’s supplier charges $4 per necklace, $10 per ring, and $5 per bracelet. How much, in dollars, will the store need to pay to fill the displays?",
   "checkpoint": [
     {
-      "$\\boxed{183}$": 1
+      "\\boxed{183}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校有100名学生。一半的学生是女孩，另一半是男孩。20%的女孩在家有狗，10%的男孩在家有狗。有多少学生拥有狗？。",
+  "topic": "回答下面的数学问题：A school has 100 students. Half of the students are girls, the other half are boys.  20% of the girls have dogs at home and 10% of the boys have dogs at home.  How many students own dogs?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

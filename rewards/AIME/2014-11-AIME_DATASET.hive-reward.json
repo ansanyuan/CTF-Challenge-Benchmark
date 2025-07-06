@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：In $\\triangle RED$ , $\\measuredangle DRE=75^{\\circ}$ and $\\measuredangle RED=45^{\\circ}$ . $RD=1$ . Let $M$ be the midpoint of segment $\\overline{RD}$ . Point $C$ lies on side $\\overline{ED}$ such that $\\overline{RC}\\perp\\overline{EM}$ . Extend segment $\\overline{DE}$ through $E$ to point $A$ such that $CA=AR$ . Then $AE=\\frac{a-\\sqrt{b}}{c}$ , where $a$ and $c$ are relatively prime positive integers, and $b$ is a positive integer. Find $a+b+c$ .",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

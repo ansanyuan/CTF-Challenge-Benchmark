@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：超级碗的商业间歇中有三个5分钟的广告和十一个2分钟的广告。商业间歇一共有多少分钟？。",
+  "topic": "回答下面的数学问题：During a commercial break in the Super Bowl, there were three 5-minute commercials and eleven 2-minute commercials. How many minutes was the commercial break?",
   "checkpoint": [
     {
-      "$\\boxed{37}$": 1
+      "\\boxed{37}": 1
     }
   ],
   "matchingmethod": [

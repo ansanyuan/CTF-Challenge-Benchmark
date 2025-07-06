@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Krystian在图书馆工作。他平均每天借阅40本书。每个星期五，他的借书数量比日常平均值高约40%。如果图书馆从星期一到星期五开放，他一周借了多少本书？。",
+  "topic": "回答下面的数学问题：Krystian works in the library. He borrows an average of 40 books every day. Every Friday, his number of borrowed books is about 40% higher than the daily average. How many books does he borrow in a week if the library is open from Monday to Friday?",
   "checkpoint": [
     {
-      "$\\boxed{216}$": 1
+      "\\boxed{216}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗宾喜欢为朋友和她的小狗诺斯烤杯子蛋糕。有一次罗宾自己吃了四个淋有巧克力酱的杯子蛋糕，以及两倍于此数量的奶油霜杯子蛋糕。罗宾一共吃了多少个杯子蛋糕？。",
+  "topic": "回答下面的数学问题：Robin likes to bake cupcakes for friends and to make her puppy North happy. Once Robin ate four cupcakes with chocolate sauce and twice as many cupcakes with buttercream frosting on her own. How many cupcakes did Robin eat?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯的水族箱底部有一只波比特虫隐藏着。它每天吃2条鱼。两周后，詹姆斯往水族箱里再加了8条鱼。一周后，他发现了波比特虫。如果水族箱一开始有60条鱼，詹姆斯发现波比特虫时水族箱里有多少条鱼？。",
+  "topic": "回答下面的数学问题：There's a Bobbit worm hiding in the bottom of James' aquarium. Every day it eats 2 fish. After two weeks, James adds 8 more fish to the aquarium. A week later, he discovers the Bobbit worm. If the aquarium had 60 fish to start with, how many does it have when James discovers the Bobbit worm?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

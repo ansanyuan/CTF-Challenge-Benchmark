@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个住在乡下的农民有一定数量的孩子。一天，他们跟着他去农场，每个人都带着一个袋子来收集收获的苹果。一天结束时，每个袋子里都装满了15个苹果。在回家的路上，有2个孩子各吃了4个苹果，另一个孩子卖掉了他的7个苹果。如果他们回家时还剩下60个苹果，那么农民有多少个孩子？。",
+  "topic": "回答下面的数学问题：A farmer living in the countryside has a certain number of children. One day, they followed him to the farm, each one with a bag to collect harvested apples. At the end of the day, each bag was filled with 15 apples each. On their way back home, 2 of the children have eaten 4 apples each and another child sold 7 of his apples. If they had a total of 60 apples left by the time they got home, how many children does the farmer have?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

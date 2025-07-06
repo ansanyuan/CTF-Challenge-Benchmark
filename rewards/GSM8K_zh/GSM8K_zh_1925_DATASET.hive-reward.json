@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：太郎和弗拉德一起参加了一个视频游戏比赛，每场胜利可以获得5分。在进行了30轮比赛后，太郎的得分比总分的3/5少4分。弗拉德一共得了多少分？。",
+  "topic": "回答下面的数学问题：Taro and Vlad play a video game competition together, earning 5 points for every win. After playing 30 rounds, Taro scored 4 points less than 3/5 of the total points scored. How many total points did Vlad score?",
   "checkpoint": [
     {
-      "$\\boxed{64}$": 1
+      "\\boxed{64}": 1
     }
   ],
   "matchingmethod": [

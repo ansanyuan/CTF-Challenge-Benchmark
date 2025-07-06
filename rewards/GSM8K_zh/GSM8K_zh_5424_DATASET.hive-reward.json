@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰滑板滑行了10英里，然后步行另外4英里到公园。然后他滑板一路回家。约翰总共滑了多少英里？。",
+  "topic": "回答下面的数学问题：John skateboarded for 10 miles and then walked another 4 miles to the park. He then skated all the way back home. How many miles has John skateboarded in total?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾莉森是一名YouTuber，她每天上传10个食品评论的一小时视频到她的频道。她在六月中旬以这个速度上传了视频，然后在剩下的日子里将上传的视频小时数加倍。到月底她一共上传了多少小时的视频？。",
+  "topic": "回答下面的数学问题：Allison, a YouTuber, uploads 10 one-hour videos of food reviews each day to her channel. She uploaded videos halfway through June,  at that pace,  and then doubled the number of video hours she uploaded on the remaining days. What's the total number of video hours she has uploaded at the end of the month?",
   "checkpoint": [
     {
-      "$\\boxed{450}$": 1
+      "\\boxed{450}": 1
     }
   ],
   "matchingmethod": [

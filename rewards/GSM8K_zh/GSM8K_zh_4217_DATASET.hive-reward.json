@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在金州队中，每个球员都得分。德雷蒙德得了12分，库里得分是德雷蒙德的两倍，凯利得了9分，杜兰特得分是凯利的两倍，克莱得分是德雷蒙德的一半。金州队总共得了多少分？。",
+  "topic": "回答下面的数学问题：In the Golden State Team, each player earned points. Draymond earned 12 points, Curry earned twice the points as Draymond, Kelly earned 9, Durant earned twice the points as Kelly, Klay earned half the points as Draymond. How many points did the Golden States have in total?",
   "checkpoint": [
     {
-      "$\\boxed{69}$": 1
+      "\\boxed{69}": 1
     }
   ],
   "matchingmethod": [

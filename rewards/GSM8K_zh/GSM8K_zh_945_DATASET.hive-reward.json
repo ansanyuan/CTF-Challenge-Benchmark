@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kylie有5朵雏菊。她的妹妹给了她另外9朵雏菊。Kylie然后把她的雏菊一半给了她的妈妈。Kylie剩下多少朵雏菊？。",
+  "topic": "回答下面的数学问题：Kylie has 5 daisies. Her sister gave her another 9 daisies. Kylie then gave half her daisies to her mother. How many daisies does Kylie have left?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

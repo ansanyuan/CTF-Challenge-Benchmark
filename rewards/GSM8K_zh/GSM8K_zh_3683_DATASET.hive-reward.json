@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：盖尔的钱包里有一些账单，总额为100美元。她有四张5美元的钞票和三张20美元的钞票，其余的是10美元的钞票。她的钱包里有多少张10美元的钞票？。",
+  "topic": "回答下面的数学问题：Gail has some bills in her wallet which amount to $100. She has four $5 bills and three $20 bills, and the rest are $10 bills. How many $10 bills are in her wallet?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

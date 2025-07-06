@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：弗兰克在后院种了一棵苹果树。树上有5个苹果，地上有8个掉下来了。如果弗兰克的狗吃掉了地上的3个苹果，还剩下多少个苹果？。",
+  "topic": "回答下面的数学问题：Frank has an apple tree in his backyard. 5 apples are hanging on the tree and 8 have fallen to the ground. If Frank's dog eats 3 of the apples off of the ground, how many apples are left?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Llesis先生有50公斤大米。他将其中的7/10存放起来，剩下的给了Everest先生。Llesis先生比Everest先生多留下多少公斤的大米？。",
+  "topic": "回答下面的数学问题：Mr. Llesis had 50 kilograms of rice. He kept 7/10 of it in storage and gave the rest to Mr. Everest. How many kilograms of rice did Mr. Llesis keep than Mr. Everest?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

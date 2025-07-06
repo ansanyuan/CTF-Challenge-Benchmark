@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Katerina制作设计师珠宝。她的专长是托帕石项链。她每条项链使用8颗托帕石宝石，并用纯银珠子填充宝石之间的空间。如果每颗托帕石宝石长一英寸，每颗纯银珠子长四分之一英寸，每条项链制作成总长25英寸，那么Katerina每条项链使用多少颗纯银珠子？。",
+  "topic": "回答下面的数学问题：Katerina makes designer jewelry.  Her specialty is topaz necklaces.  She uses 8 topaz gemstones per necklace, and fills the space between gemstones using sterling silver beads.  If each topaz gemstone is one inch long, each sterling silver bead is one-quarter of an inch long, and each necklace is made to a total length of 25 inches, how many sterling silver beads does Katerina use per necklace?",
   "checkpoint": [
     {
-      "$\\boxed{68}$": 1
+      "\\boxed{68}": 1
     }
   ],
   "matchingmethod": [

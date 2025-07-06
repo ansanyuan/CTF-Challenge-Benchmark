@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：厨房里五分之三的灯泡坏了。门厅里三分之一的灯泡也坏了。如果门厅里有10个灯泡坏了，厨房里有35个灯泡，那么门厅和厨房里一共有多少个灯泡是没有坏的？。",
+  "topic": "回答下面的数学问题：Three fifths of the light bulbs in the kitchen are broken. A third of the light bulbs in the foyer are also broken. If 10 light bulbs in the foyer are broken and there are 35 light bulbs in the kitchen, then how many light bulbs are not broken in both the foyer and kitchen?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

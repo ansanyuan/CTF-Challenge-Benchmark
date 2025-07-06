@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hansel每年赚30,000美元，刚刚获得了10%的加薪。Gretel和Hansel赚的金额相同，但是她获得了15%的加薪。Gretel相比Hansel将多赚多少钱？。",
+  "topic": "回答下面的数学问题：Hansel makes $30,000 a year and just received a 10% raise.  Gretel makes the same amount as Hansel but received a 15% raise.  How much more money will Gretel make compared to Hansel?",
   "checkpoint": [
     {
-      "$\\boxed{1500}$": 1
+      "\\boxed{1500}": 1
     }
   ],
   "matchingmethod": [

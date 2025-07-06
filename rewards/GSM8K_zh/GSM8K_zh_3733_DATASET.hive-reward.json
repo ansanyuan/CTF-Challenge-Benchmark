@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：大卫用了60分钟完成他的家庭作业。他在数学作业上花了15分钟，在拼写作业上花了18分钟。他用剩下的时间阅读了每日阅读记录。他阅读了多少分钟？。",
+  "topic": "回答下面的数学问题：David finished his homework in 60 minutes. He spent 15 minutes on his math homework and 18 minutes on his spelling homework. He spent the rest of the time reading for his daily reading log. How many minutes did he spend reading?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

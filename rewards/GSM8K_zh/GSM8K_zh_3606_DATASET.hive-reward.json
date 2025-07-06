@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：你的步行速度是哈里斯先生的两倍，哈里斯先生步行到商店用了2小时。如果你的目的地比哈里斯先生步行到的商店远3倍，那么你到达那里需要多少小时？。",
+  "topic": "回答下面的数学问题：You walk twice as fast as Mr. Harris, and Mr. Harris took 2 hours to walk to the store. If your destination is 3 times further away than the store Mr. Harris walked to, how many hours will it take you to get there?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯决定出售他80%的玩具。他以每个20美元的价格购买，以每个30美元的价格出售。如果他有200个玩具，与他购买之前相比，他赚了多少钱？。",
+  "topic": "回答下面的数学问题：James decides to sell 80% of his toys.  He bought them for $20 each and sells them for $30 each.  If he had 200 toys how much more money did he have compared to before he bought them?",
   "checkpoint": [
     {
-      "$\\boxed{800}$": 1
+      "\\boxed{800}": 1
     }
   ],
   "matchingmethod": [

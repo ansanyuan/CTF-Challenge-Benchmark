@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：母亲让比利去买番茄酱。她给了他10美元，并告诉他尽量找到最划算的番茄酱，并把所有的10美元都花在番茄酱上。他找到了一瓶10盎司的，每瓶1美元。他找到了一瓶16盎司的，每瓶2美元。他找到了一瓶25盎司的，每瓶2.5美元。他找到了一瓶50盎司的，每瓶5美元。最后，他找到了一瓶200盎司的，每瓶10美元。他买了多少瓶番茄酱？。",
+  "topic": "回答下面的数学问题：Billy's mom sends him to get ketchup. She gives him $10 and tells him to get the best deal on ketchup that he can and to spend all $10 on ketchup. He finds a bottle with 10 oz that cost $1 each. He finds a bottle that costs $2 that contains 16 ounces. He finds a bottle with 25 ounces that costs $2.5. He finds a $5 bottle that contains 50 ounces. Finally, he finds a $10 bottle with 200 ounces. How many bottles of ketchup does he buy?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

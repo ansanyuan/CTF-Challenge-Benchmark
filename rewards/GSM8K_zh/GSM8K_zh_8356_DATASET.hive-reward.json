@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kelly在超市购物，确保她的预算足以支付购物车里的物品。她的5包培根总共花费了10美元，她有6包鸡肉，每包的价格是一包培根的两倍。她还有3包草莓，每包价格4美元，以及7包苹果，每包价格是一包草莓的一半。如果Kelly的预算是65美元，那么她的预算还剩下多少美元？。",
+  "topic": "回答下面的数学问题：Kelly is grocery shopping at a supermarket and is making sure she has enough in her budget for the items in her cart. Her 5 packs of bacon cost $10 in total and she has 6 packets of chicken which each cost twice as much as a pack of bacon. She also has 3 packs of strawberries, priced at $4 each, and 7 packs of apples, each priced at half the price of a pack of strawberries. If Kelly’s budget is $65 then how much money, in dollars, does she have left in her budget?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

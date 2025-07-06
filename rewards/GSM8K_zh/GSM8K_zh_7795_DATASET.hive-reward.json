@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一本杂志的价格是一本书的一半。这本书的价格是4美元。一支笔的价格比一本杂志便宜1美元。这支笔多少钱？。",
+  "topic": "回答下面的数学问题：A magazine costs half as much as a book. The book costs $4. A pen costs $1 less than a magazine. How much is the pen?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mia正在为她的家人买圣诞礼物。她在她的3个兄弟姐妹身上花了30美元，其余的花费是给她的父母。如果Mia在圣诞礼物上总共花了150美元，而她的每个父母收到的礼物价值相同，她分别在每个父母的礼物上花了多少钱（以美元计）？。",
+  "topic": "回答下面的数学问题：Mia is buying Christmas gifts for her family. She has spent $30 on each of her 3 siblings, and the rest of her spending was for her parents. If Mia spent a total of $150 on Christmas gifts and each of her parents received gifts of equal value, how much money, in dollars, did she spend on each parent’s gift?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

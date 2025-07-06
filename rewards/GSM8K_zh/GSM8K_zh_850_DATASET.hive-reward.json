@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个热气球有200个气球正在充气。大约半个小时后，热气球中总气球数量的五分之一已经充气。再过一个小时，已经充气的气球数量的两倍也充气了。热气球中剩下多少个气球没有充气？。",
+  "topic": "回答下面的数学问题：A hot air balloon with 200 balloons is blowing up. After about half an hour, 1/5 of the total number of balloons in the hot air balloon have blown up. After another hour, twice the number of balloons that had already blown up also blow up. How many balloons in the hot air balloon remain intact?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

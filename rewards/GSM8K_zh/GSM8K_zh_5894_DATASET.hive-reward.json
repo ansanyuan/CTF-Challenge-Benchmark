@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽，杰斯和克里斯蒂娜想用气球装饰派对房间。每个人的充气速度不同，他们只有30分钟来尽可能多地充气气球。玛丽每分钟充气10个气球，杰斯每分钟充气7个气球，而克里斯蒂娜迟到了15分钟，充气速度最慢，每分钟只能充气4个气球。他们在用完时间之前能充气多少个气球？。",
+  "topic": "回答下面的数学问题：Mary, Jess, and Christina want to decorate a party room with balloons. Each person inflates balloons at different speeds, and they only have 30 minutes to inflate as many balloons as possible. Mary inflates 10 balloons per minute, Jess inflates 7 balloons per minute and Christina came 15 minutes late and was the slowest one inflating 4 balloons per minute. How many balloons can they inflate before running out of time?",
   "checkpoint": [
     {
-      "$\\boxed{570}$": 1
+      "\\boxed{570}": 1
     }
   ],
   "matchingmethod": [

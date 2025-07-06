@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿里有一家出售水果和蔬菜的商店。他把23公斤的红肾苹果，37公斤的金苹果和14公斤的加拿大苹果放在货架上。到中午，苹果卖出了36公斤。他剩下的苹果的质量是多少？。",
+  "topic": "回答下面的数学问题：Ali has a store that sells fruits and vegetables. He puts 23 kg of kidney apples, 37 kg of golden apples and 14 kg of Canada apples on the shelves. By noon, 36 kg of apples were sold. What is the mass of apples that he has left?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马库斯、亨弗里和达雷尔在观鸟。马库斯看到7只鸟，亨弗里看到11只鸟，达雷尔看到9只鸟。他们每个人平均看到多少只鸟？。",
+  "topic": "回答下面的数学问题：Marcus, Humphrey, and Darrel are bird watching. Marcus sees 7 birds, Humphrey sees 11 birds, and Darrel sees 9 birds. How many birds does each of them see on average?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

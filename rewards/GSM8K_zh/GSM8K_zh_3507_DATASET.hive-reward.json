@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rosie用1美元的钞票买了一块价值0.44美元的糖果。如果收银员给她尽可能少的硬币作为找零，Rosie会得到多少硬币作为找零？。",
+  "topic": "回答下面的数学问题：Rosie pays for a $.44 piece of candy with a $1 bill. If the cashier gives her the smallest number of coins possible as change, how many coins will Rosie get as change?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

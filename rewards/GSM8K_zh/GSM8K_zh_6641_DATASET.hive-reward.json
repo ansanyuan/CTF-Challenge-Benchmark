@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：诺亚非常爱他的奶奶，每周都给她打电话聊天。如果每次通话持续30分钟，而他每分钟通话收费0.05美元，那么如果他一年都打这些电话，他将被收取多少费用？。",
+  "topic": "回答下面的数学问题：Noah, who loves his Grammy, calls her every week to talk about his day. If each call lasts 30 minutes and he is charged $0.05 per call minute, how much would he be billed if he makes the calls for a year?",
   "checkpoint": [
     {
-      "$\\boxed{78}$": 1
+      "\\boxed{78}": 1
     }
   ],
   "matchingmethod": [

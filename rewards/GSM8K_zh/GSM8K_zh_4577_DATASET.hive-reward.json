@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡特是一名专业鼓手。每场演出他会用掉5套鼓棒。在每场演出结束后，他会向观众扔6套新的鼓棒。他连续做了30个晚上。他一共用了多少套鼓棒？。",
+  "topic": "回答下面的数学问题：Carter is a professional drummer.  He goes through 5 sets of drum sticks per show.  After the end of each show, he tosses 6 new drum stick sets to audience members.  He does this for 30 nights straight.  How many sets of drum sticks does he go through?",
   "checkpoint": [
     {
-      "$\\boxed{330}$": 1
+      "\\boxed{330}": 1
     }
   ],
   "matchingmethod": [

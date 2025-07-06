@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：夏季野餐有90人参加。有50罐苏打水，50瓶碳酸水和50瓶果汁。一半的客人喝了苏打水，三分之一的客人喝了碳酸水，四分之五的果汁被消耗掉。一共回收了多少可回收的罐子和瓶子？。",
+  "topic": "回答下面的数学问题：There were 90 people at the summer picnic.  There were 50 soda cans, 50 plastic bottles of sparkling water, and 50 glass bottles of juice.  One-half of the guests drank soda, one-third of the guests drank sparkling water, and four-fifths of the juices were consumed.  How many recyclable cans and bottles were collected?",
   "checkpoint": [
     {
-      "$\\boxed{115}$": 1
+      "\\boxed{115}": 1
     }
   ],
   "matchingmethod": [

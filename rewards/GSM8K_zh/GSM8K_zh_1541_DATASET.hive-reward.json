@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：山姆投资了10000美元，获得了3年复利的20%利息。然后他继续投资，直到他的投资额增加到原来的三倍。第二年，他的投资获得了15%的回报。他现在有多少钱？。",
+  "topic": "回答下面的数学问题：Sam invested $10,000 and earned 20% interest compounded for 3 years. He then invested more until he had three times as much invested. The next year, he got a 15% return on his investment. How much money does he have now?",
   "checkpoint": [
     {
-      "$\\boxed{59616}$": 1
+      "\\boxed{59616}": 1
     }
   ],
   "matchingmethod": [

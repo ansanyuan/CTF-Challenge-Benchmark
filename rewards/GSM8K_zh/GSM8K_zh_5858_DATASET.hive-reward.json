@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ella一天吃20磅的食物，她的狗吃每一磅Ella吃的食物就吃4磅。如果Ella每天吃20磅的食物，那么Ella和她的狗在10天内一共吃多少食物？。",
+  "topic": "回答下面的数学问题：In one day, Ella's dog eats 4 pounds of food for every one pound of food that Ella eats. How much food do Ella and her dog in 10 days if Ella eat 20 pounds of food each day?",
   "checkpoint": [
     {
-      "$\\boxed{1000}$": 1
+      "\\boxed{1000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cary身高72英寸。她的弟弟比她矮一半，她的妹妹Jan比比尔高6英寸。Jan有多高？。",
+  "topic": "回答下面的数学问题：Cary is 72 inches tall. Her younger brother Bill is half her height, and her younger sister Jan is 6 inches taller than Bill. How tall is Jan?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

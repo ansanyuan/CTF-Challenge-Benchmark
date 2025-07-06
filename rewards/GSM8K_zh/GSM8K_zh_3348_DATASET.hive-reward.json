@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Barbara有9个填充动物。 Trish有Barbara的两倍的填充动物。她们计划出售她们的填充动物，并将所有的钱捐赠给班级基金。Barbara每个填充动物卖2美元，而Trish每个填充动物卖1.50美元。她们将向班级基金捐赠多少钱？。",
+  "topic": "回答下面的数学问题：Barbara has 9 stuffed animals. Trish has two times as many stuffed animals as Barbara. They planned to sell their stuffed animals and donate all the money to their class funds. Barbara will sell her stuffed animals for $2 each while Trish will sell them for $1.50 each. How much money will they donate to their class funds?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

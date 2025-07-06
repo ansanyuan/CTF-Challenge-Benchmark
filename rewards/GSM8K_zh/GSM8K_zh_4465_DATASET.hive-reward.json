@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一些朋友正在拍一部小电影。他们雇了一些演员，花费了1200美元。他们还为在场的50人准备了食物。每个人的食物价值为3美元。设备租赁费用是食物和演员费用的两倍。他们以10000美元的价格出售了这部电影。他们赚了多少利润？。",
+  "topic": "回答下面的数学问题：A few friends are making a small movie.  They hire a few actors and that cost $1200.  They also get food for the 50 people there.  Each person gets $3 worth of food.  Equipment rental costs twice as much as food and actors combined.  They sold the movie for $10,000.  How much profit did they make?",
   "checkpoint": [
     {
-      "$\\boxed{5950}$": 1
+      "\\boxed{5950}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Damien每天只在工作日慢跑5英里。他在三周内跑了多少英里？。",
+  "topic": "回答下面的数学问题：Damien jogs 5 miles per day on weekdays only.  How many miles does he run over three weeks?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

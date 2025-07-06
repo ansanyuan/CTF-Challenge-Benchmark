@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰尼写了一篇150个字的文章。玛德琳写了一篇长度是约翰尼两倍的文章，蒂莫西写了一篇比玛德琳的文章多30个字。如果一页包含260个字，约翰尼、玛德琳和蒂莫西的文章共填满了多少页？。",
+  "topic": "回答下面的数学问题：Johnny wrote an essay with 150 words. Madeline wrote an essay that was double in length, and Timothy wrote an essay that had 30 words more than Madeline's. If one page contains 260 words, how many pages do Johnny, Madeline, and Timothy's essays fill?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

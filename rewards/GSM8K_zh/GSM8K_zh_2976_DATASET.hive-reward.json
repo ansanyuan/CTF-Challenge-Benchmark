@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈娜的橡皮擦数量是瑞秋的两倍。瑞秋比塔尼亚的红色橡皮擦数量少三个，而她的橡皮擦数量是塔尼亚的红色橡皮擦数量的一半。如果塔尼亚有20个橡皮擦，其中一半是红色的，那么哈娜有多少个橡皮擦？。",
+  "topic": "回答下面的数学问题：Hanna has twice as many erasers as Rachel.  Rachel has three less than one-half as many erasers as Tanya has red erasers.  If Tanya has 20 erasers, and half of them are red, how many erasers does Hanna have?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

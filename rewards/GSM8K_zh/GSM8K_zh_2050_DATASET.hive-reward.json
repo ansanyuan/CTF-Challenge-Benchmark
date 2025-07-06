@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mark和他的妹妹克里斯同时离开家去上学。Mark以与克里斯相同的速度行走，克里斯每小时走3英里。走了3英里后，Mark不得不掉头回家，因为他忘记了午餐。如果从他们家到学校的距离是9英里，Mark比克里斯多走了多少时间？。",
+  "topic": "回答下面的数学问题：Mark and his sister Chris both leave their house for school at the same time.  Mark travels at the same speed as Chris, who walks 3 miles per hour. After walking 3 miles Mark has to turn around and go home because he forgot his lunch. If the distance from their house to the school is 9 miles, how much longer does Mark spend walking than Chris?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

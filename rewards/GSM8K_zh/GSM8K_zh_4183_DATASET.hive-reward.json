@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：达里尔在路边卖甜瓜。他卖香瓜每个2美元，蜜瓜每个3美元。他一天开始时有30个香瓜和27个蜜瓜。他不小心掉了几个香瓜，还有三个蜜瓜变质了。一天结束时，他还剩8个香瓜和9个蜜瓜。他一共赚了多少钱？。",
+  "topic": "回答下面的数学问题：Darryl sells melons on the side of the road. He sells cantaloupes for $2 each and honeydews for $3. He started the day with 30 cantaloupes and 27 honeydews. He accidentally dropped a couple of cantaloupes and three of the honeydews turned out to be rotten. At the end of the day he had 8 cantaloupes and 9 honeydews left. How much money did he make?",
   "checkpoint": [
     {
-      "$\\boxed{85}$": 1
+      "\\boxed{85}": 1
     }
   ],
   "matchingmethod": [

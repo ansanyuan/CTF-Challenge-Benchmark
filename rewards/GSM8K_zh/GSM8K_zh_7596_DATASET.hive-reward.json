@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨迪周一睡了8小时。接下来的两天，因为她要完成一些作业，每天少睡了2小时。如果剩下的一周她每天比那两天多睡1小时，那么她整个星期总共睡了多少小时？。",
+  "topic": "回答下面的数学问题：Sadie slept 8 hours on Monday. For the next two days, she slept 2 hours less, each, because she had to complete some assignments. If the rest of the week she slept 1 hour more than those two days, how many hours did she sleep in total throughout the week?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥布里有一副有52张牌的牌组。然后她在牌组中添加了两张额外的牌。如果她将牌组平均分给自己和另外两名玩家，每名玩家有多少张牌？。",
+  "topic": "回答下面的数学问题：Aubrey has a deck of cards with 52 cards in it. She then adds two additional cards to the deck. If she splits the deck evenly among herself and two other players, how many cards does each player have?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰有3个孩子。他和妻子本应该为儿子们买笔记本，但他们无法就要买多少本达成一致。所以约翰为每个孩子买了2本笔记本，约翰的妻子为每个孩子买了5本笔记本。他们总共为孩子们买了多少本笔记本？。",
+  "topic": "回答下面的数学问题：John has 3 children. He and his wife are supposed to buy notebooks for their sons but they couldn't agree on how many to buy. So John bought 2 notebooks for each of his children and John's wife bought 5 notebooks for each of them. How many notebooks did they buy in total for their children?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

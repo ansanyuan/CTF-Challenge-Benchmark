@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯利预订了一个为期三周的假期去拜访亲戚。第一天，她花在旅行上。接下来的5天她在她祖父母家度过。接下来的一天，她又花在旅行上。然后，她在她哥哥家度过了接下来的5天。然后她花了两天的时间去她姐姐家，待在她姐姐家几天，然后又花了两天的时间回家。她在她姐姐家待了多少天？。",
+  "topic": "回答下面的数学问题：Kelly booked a three week vacation to visit relatives.  The first day, she spent traveling.  The next 5 days she spent at her Grandparents' house.  The next day, she spent traveling.  Then, she spends the next 5 days at her brother's house.  Then she spent two days traveling to her sister's house, spent several days at her sister's house, and then spent two more days traveling home.  How many days did she spend at her sister's house?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

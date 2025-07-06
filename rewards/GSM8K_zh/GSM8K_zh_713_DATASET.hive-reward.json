@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jimmy买了3支每支1美元的钢笔，4本每本3美元的笔记本和2个每个5美元的文件夹。如果他用一张50美元的钞票付款，他会得到多少零钱？。",
+  "topic": "回答下面的数学问题：Jimmy bought 3 pens for school for $1 each, 4 notebooks for $3 each and 2 folders for $5 each. If he paid with a $50 bill, how much change will he get back?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

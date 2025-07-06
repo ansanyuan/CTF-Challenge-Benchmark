@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：家庭团聚，彼得要买16磅带骨鸡肉，汉堡肉的数量是鸡肉的一半。他要比汉堡肉多买2磅热狗。他还要买一些配菜，重量是热狗的一半。他要买多少磅食物？。",
+  "topic": "回答下面的数学问题：For the family reunion, Peter is buying 16 pounds of bone-in chicken and half that amount in hamburgers.  He's going to buy 2 more pounds of hot dogs than hamburgers.  He's also going to buy several sides that will weigh half the amount of hot dogs.  How many pounds of food will he buy?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

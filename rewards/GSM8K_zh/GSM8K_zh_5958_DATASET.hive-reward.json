@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kendra跟踪他们在观鸟之旅中发现的不同鸟类。周一他们参观了5个地点，每个地点平均看到7只鸟。周二，Kendra参观了5个地点，每个地点平均看到5只鸟。周三参观了10个地点，每个地点平均看到8只鸟。平均每个地点Kendra看到了多少种不同的鸟？。",
+  "topic": "回答下面的数学问题：Kendra tracks the different species of birds they spot on their birdwatching trip. On Monday they visited 5 sites and saw an average of 7 birds at each site. On Tuesday, Kendra visited 5 sites and saw an average of 5 birds at each site. On Wednesday visited 10 sites and saw an average of 8 birds at each site. On average, how many different birds did Kendra see on each site?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

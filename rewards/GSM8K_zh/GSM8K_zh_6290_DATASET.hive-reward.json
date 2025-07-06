@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carly最近毕业了，正在寻找她学习的领域的工作。她向本州的公司发送了200份工作申请，向其他州的公司发送了两倍于此数量的申请。计算到目前为止她发送的工作申请总数。。",
+  "topic": "回答下面的数学问题：Carly recently graduated and is looking for work in a field she studied for. She sent 200 job applications to companies in her state, and twice that number to companies in other states. Calculate the total number of job applications she has sent so far.",
   "checkpoint": [
     {
-      "$\\boxed{600}$": 1
+      "\\boxed{600}": 1
     }
   ],
   "matchingmethod": [

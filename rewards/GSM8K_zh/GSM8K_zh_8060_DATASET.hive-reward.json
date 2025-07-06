@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汉娜需要为每燃烧200卡路里的能量喝100毫升的水。她花了2小时做有氧运动，每小时燃烧500卡路里的能量，还有1小时跑步，每小时燃烧600卡路里的能量。她需要喝多少毫升的水？。",
+  "topic": "回答下面的数学问题：Hannah needs to drink 100 ml of water for every 200 calories she burns. She spends 2 hours doing aerobics, which burns 500 calories/hour, and 1 hour running, which burns 600 calories/hour. How many ml of water does she need to drink?",
   "checkpoint": [
     {
-      "$\\boxed{800}$": 1
+      "\\boxed{800}": 1
     }
   ],
   "matchingmethod": [

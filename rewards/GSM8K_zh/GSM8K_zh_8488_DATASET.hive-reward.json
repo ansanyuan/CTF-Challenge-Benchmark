@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jamaar喜欢新鲜水果，他带着修剪草坪赚的10美元去商店。包括税在内，桃子和梨子每个0.5美元，苹果每个0.75美元，猕猴桃每个1美元，李子每个0.25美元。如果他已经购买了3个桃子、4个梨子、2个猕猴桃和5个苹果，他还能买多少个李子？。",
+  "topic": "回答下面的数学问题：Jamaar loves fresh fruit and is headed to the store with $10 he earned mowing lawns. Including tax, peaches and pears are $.5 each, apples are $.75 each, kiwis are $1, and plums cost $.25 each. If he has already purchased 3 peaches, 4 pears, 2 kiwis, and 5 apples, how many plums can he buy?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个出版社决定为新作家创建一个比赛，并将总共800美元的奖金颁发给得票最多的18部小说。第一名将获得200美元，第二名将获得150美元，第三名将获得120美元，其余奖金将用相同金额的钱支付。从第四名开始，每位作家将获得多少钱？。",
+  "topic": "回答下面的数学问题：A publishing house decides to create a contest for new writers and will award a total of $800 in prizes to the 18 novels with the most votes. First place will get $200, second place will get $150, third place $120 and the rest of the awards will be paid with the same amount of money. How much money will each writer earn from fourth place onwards?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

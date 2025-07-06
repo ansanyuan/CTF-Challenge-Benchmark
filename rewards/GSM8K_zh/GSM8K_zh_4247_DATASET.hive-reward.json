@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅贝尔种了4株番茄植物。一株番茄植物结了8个番茄，另一株比第一株多结了4个番茄。另外两株植物每株结的番茄数是前两株植物结的番茄数的三倍。梅贝尔一共有多少个番茄？。",
+  "topic": "回答下面的数学问题：Mabel planted 4 tomato plants. One tomato plant bore 8 tomatoes and another bore 4 more tomatoes than the first. The two remaining plants each bore three times the number of tomatoes as the first two plants combined. How many tomatoes does Mabel have?",
   "checkpoint": [
     {
-      "$\\boxed{140}$": 1
+      "\\boxed{140}": 1
     }
   ],
   "matchingmethod": [

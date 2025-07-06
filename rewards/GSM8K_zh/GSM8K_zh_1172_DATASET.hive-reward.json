@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克在三年后将拥有迈克尔现在手球奖杯数量的十倍。如果迈克尔现在有30个奖杯，并且他的奖杯数量在三年内增加了100个，那么三年后他们总共会有多少个奖杯？。",
+  "topic": "回答下面的数学问题：Jack will have ten times more handball trophies than Michael has right now in three years. If Michael has 30 trophies right now, and the number of his trophies increases by 100 in three years, what's the total number of trophies they'll have altogether after three years?",
   "checkpoint": [
     {
-      "$\\boxed{430}$": 1
+      "\\boxed{430}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一组5个孩子被带到一个游乐园。只有3个孩子足够勇敢去坐摩天轮，每个孩子的费用是5美元。每个人都尝试了旋转木马（每个孩子3美元）。在回家的路上，他们每人买了2个冰淇淋（每个冰淇淋8美元）。他们总共花了多少钱？。",
+  "topic": "回答下面的数学问题：A group of 5 children are taken to an amusement park. Only 3 of them were daring enough to get on the Ferris wheel which cost $5 per child. Everyone had a go at the merry-go-round (at $3 per child). On their way home, they bought 2 cones of ice cream each (each cone cost $8). How much did they spend altogether?",
   "checkpoint": [
     {
-      "$\\boxed{110}$": 1
+      "\\boxed{110}": 1
     }
   ],
   "matchingmethod": [

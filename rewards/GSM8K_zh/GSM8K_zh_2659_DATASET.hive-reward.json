@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Zander收集了100张贴纸。他把一些贴纸给了他的两个朋友，安德鲁和比尔。安德鲁收到了Zander的1/5的贴纸，而比尔收到了剩下的贴纸的3/10。安德鲁给了他的两个朋友多少张贴纸？。",
+  "topic": "回答下面的数学问题：Zander collected 100 stickers. He gave some of his stickers to his two friends, Andrew and Bill. Andrew received 1/5 of Zander's stickers, while Bill received 3/10 of the remaining stickers. How many stickers did Andrew give to his two friends?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：作为新年决心，Andy希望在他的生日7月19日之前减掉30磅。今天是12月31日。如果Andy需要燃烧3500卡路里才能减掉一磅，那么他每天需要达到多少卡路里赤字（燃烧的卡路里净量与摄入的卡路里之差）才能达到他的目标？。",
+  "topic": "回答下面的数学问题：For a New Year's resolution, Andy wants to lose 30 lbs. by his birthday, which is July 19th. Today is December 31st. If Andy needs to burn 3500 calories to lose a pound, how much of a calorie deficit (net amount of calories burned vs. calories consumed) does he need each day to reach his goal?",
   "checkpoint": [
     {
-      "$\\boxed{525}$": 1
+      "\\boxed{525}": 1
     }
   ],
   "matchingmethod": [

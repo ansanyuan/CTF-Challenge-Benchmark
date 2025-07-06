@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alvin拥有椰子树，每棵树产5个椰子。如果一颗椰子可以卖3美元，Alvin需要90美元，他需要收获多少棵椰子树？。",
+  "topic": "回答下面的数学问题：Alvin owns coconut trees that yield 5 coconuts each. If a coconut can be sold for $3 and Alvin needs $90, how many coconut trees does he have to harvest?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

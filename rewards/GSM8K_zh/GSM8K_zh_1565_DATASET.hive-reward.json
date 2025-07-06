@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Maddie本周观看了8集电视剧。每集大约有44分钟。她在周一观看了电视剧138分钟。周二和周三她没有看电视。周四她观看了21分钟。周五她观看了2集。她在周末观看了多少分钟？。",
+  "topic": "回答下面的数学问题：Maddie watches 8 episodes of a TV show this week. Each episode is about 44 minutes long. If she watches 138 minutes of the show on Monday. She does not watch any TV on Tuesday and Wednesday. On Thursday, she watches 21 minutes. On Friday, she watches 2 episodes. How many more minutes did she watch over the weekend?",
   "checkpoint": [
     {
-      "$\\boxed{105}$": 1
+      "\\boxed{105}": 1
     }
   ],
   "matchingmethod": [

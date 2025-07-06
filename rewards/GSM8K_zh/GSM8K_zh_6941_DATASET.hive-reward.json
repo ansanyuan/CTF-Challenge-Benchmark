@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个电视节目的播出时间的四分之一用于商业广告。如果有6个30分钟的节目，那么在这6个节目的整个播出时间中，用于商业广告的时间是多少分钟？。",
+  "topic": "回答下面的数学问题：One-fourth of the airing time of a television program is spent on commercials. If there are 6 thirty-minute programs, how many minutes are spent on commercials for the whole duration of the 6 programs?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：康纳有一辆越野车，他在沙漠中骑行。在平坦的沙滩上，它的速度可以达到每小时60英里。当在下坡路面行驶时，它的速度比在平坦的沙滩上快12英里每小时。当在上坡路面行驶时，它的速度比在平坦的沙滩上慢18英里每小时。如果康纳的越野车在平坦沙滩上骑行的时间占总时间的三分之一，在上坡路面骑行的时间占总时间的三分之一，在下坡路面骑行的时间占总时间的三分之一，那么他的平均速度是多少英里每小时？。",
+  "topic": "回答下面的数学问题：Conner has a dune buggy that he rides in the desert.  On flat sand, it can ride at a speed of 60 miles per hour.  When traveling on downhill slopes, it can race at 12 miles per hour faster than it can when it is on flat sand.  And when riding on an uphill inclined slow, it travels at a speed 18 miles per hour slower than when it is riding on flat sand.  If Conner rides his dune buggy one-third of the time on flat sand, one-third of the time on uphill slopes, and one-third of the time on downhill slopes, what is his average speed in miles per hour?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

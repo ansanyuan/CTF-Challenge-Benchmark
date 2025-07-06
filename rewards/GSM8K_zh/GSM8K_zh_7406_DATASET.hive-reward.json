@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿加莎有60美元用于购买一辆新自行车。她在车架上花了15美元，在前轮上花了25美元。她还剩下多少美元用于购买座椅和把手胶带？。",
+  "topic": "回答下面的数学问题：Agatha has $60 to spend on a new bike. She spends $15 on the frame, and $25 on the front wheel. What does she have left, in dollars, to spend on a seat and handlebar tape?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

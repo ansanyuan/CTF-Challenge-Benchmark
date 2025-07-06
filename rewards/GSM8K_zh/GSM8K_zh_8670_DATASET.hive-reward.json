@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿兰的妈妈买了5包红色的笔，还买了红色笔两倍数量的黑色笔。如果每包有5支笔，那么阿兰有多少支笔？。",
+  "topic": "回答下面的数学问题：Alain's mom bought 5 packs of red pens and also bought twice the amount of black pens than the red. If each pack has 5 pens, how many pens does Alain have?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

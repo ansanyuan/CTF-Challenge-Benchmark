@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Martha有20个苹果。她决定把它们分给她的朋友。简得到了5个苹果，詹姆斯比简多得到2个。玛莎需要再给出多少个苹果才能剩下4个？。",
+  "topic": "回答下面的数学问题：Martha has 20 apples. She decided to split them among her friends. Jane got 5 apples from her, and James got 2 more than Jane. How many more apples would Martha need to give away to be left with only 4 of them?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

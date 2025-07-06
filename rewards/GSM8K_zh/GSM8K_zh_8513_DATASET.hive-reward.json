@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉姆正在为他的特大号床做一床被子。他需要两块比床大2英尺长和2英尺宽的布料，床的尺寸是6英尺长8英尺宽。吉姆需要买多少平方英尺的布料？。",
+  "topic": "回答下面的数学问题：Jim is making a comforter for his king-sized bed. He needs two pieces of fabric that are 2 feet longer and 2 feet wider than the bed, which measures 6 feet long by 8 feet wide. How many square feet of fabric does Jim need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

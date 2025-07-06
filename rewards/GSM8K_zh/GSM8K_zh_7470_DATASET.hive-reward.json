@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Josh正在为一盒饼干存钱。为了筹集资金，他打算制作手链并出售。每条手链的材料成本是1美元，他每条手链卖1.5美元。如果他制作了12条手链，买了饼干后还剩下3美元，那么一盒饼干的价格是多少？。",
+  "topic": "回答下面的数学问题：Josh is saving up for a box of cookies. To raise the money, he is going to make bracelets and sell them. It costs $1 for supplies for each bracelet and he sells each one for $1.5. If he makes 12 bracelets and after buying the cookies still has $3, how much did the box of cookies cost?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

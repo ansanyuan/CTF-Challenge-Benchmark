@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰的年龄是玛丽的两倍，是托尼娅的一半。如果托尼娅是60岁，他们的平均年龄是多少？。",
+  "topic": "回答下面的数学问题：John is twice as old as Mary and half as old as Tonya. If Tanya is 60, what is their average age?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

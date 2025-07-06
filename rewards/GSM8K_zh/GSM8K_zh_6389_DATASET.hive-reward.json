@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂姆有一些汽水罐。杰夫过来，从蒂姆那里拿走了6罐汽水。然后蒂姆去买了剩下的一半汽水罐。如果蒂姆最后有24罐汽水，他一开始有多少罐汽水？。",
+  "topic": "回答下面的数学问题：Tim has some cans of soda. Jeff comes by, and takes 6 cans of soda from Tim. Tim then goes and buys another half the amount of soda cans he had left. If Tim has 24 cans of soda in the end, how many cans of soda did Tim have at first?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：芬莉去杂货店买了米、豆和猪肉用于家中。她煮猪肉比煮米多花了20分钟，而豆子的烹饪时间是猪肉和米的烹饪时间的一半。如果她煮米花了30分钟，那么煮所有食物共花了多少分钟？。",
+  "topic": "回答下面的数学问题：Finley went to the grocery store and bought rice, beans, and pork for use in their home. It took her 20 more minutes to cook pork than rice, while beans took half the combined cooking time of pork and rice. If it took her 30 minutes to cook rice, how long in minutes did it take to cook all the food?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个人花10小时解决一个数学问题。如果再加一个同样擅长数学的人，他们两个一起要花多长时间来解决同样的问题？。",
+  "topic": "回答下面的数学问题：It takes 1 person working 10 hours to figure out the solution to a math problem.  If you add a second person who's equally good at math, how long will the two of them have to work to solve the same problem?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

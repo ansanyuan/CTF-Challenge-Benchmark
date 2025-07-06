@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：弗兰克花费了他钱的五分之一来买杂货。然后他花了剩下的钱的四分之一来买一本杂志。如果他钱包里还剩360美元，他起初有多少钱？。",
+  "topic": "回答下面的数学问题：Frank spent 1/5 of his money to buy groceries. He then spent 1/4 of the remaining money to buy a magazine. If he had $360 left in his wallet, how much money did he have at first?",
   "checkpoint": [
     {
-      "$\\boxed{600}$": 1
+      "\\boxed{600}": 1
     }
   ],
   "matchingmethod": [

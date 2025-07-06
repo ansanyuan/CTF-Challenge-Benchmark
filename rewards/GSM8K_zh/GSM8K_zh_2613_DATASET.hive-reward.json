@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Janet每次花21美元购买45磅的猫砂容器。如果她的猫砂盒可以装15磅的猫砂，并且她每周更换一次猫砂，那么她购买足够的猫砂可以维持210天，这将花费多少美元？。",
+  "topic": "回答下面的数学问题：Janet buys 45-pound containers of cat litter for $21 each.  If her cat litter box holds 15 pounds of cat litter, and she changes out the litter weekly, how much will it cost, in dollars, for her to buy enough litter to last 210 days?",
   "checkpoint": [
     {
-      "$\\boxed{210}$": 1
+      "\\boxed{210}": 1
     }
   ],
   "matchingmethod": [

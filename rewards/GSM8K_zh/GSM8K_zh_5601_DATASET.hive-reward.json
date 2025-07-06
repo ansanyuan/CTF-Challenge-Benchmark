@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：查尔斯从人口为482,653的斯普林菲尔德搬到人口比斯普林菲尔德少119,666的格林维尔。斯普林菲尔德和格林维尔的总人口是多少？。",
+  "topic": "回答下面的数学问题：Charles is moving from Springfield, which has 482,653 people, to Greenville, which has 119,666 fewer people. What is the total population of Springfield and Greenville?",
   "checkpoint": [
     {
-      "$\\boxed{845640}$": 1
+      "\\boxed{845640}": 1
     }
   ],
   "matchingmethod": [

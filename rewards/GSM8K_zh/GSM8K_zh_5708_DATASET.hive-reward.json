@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Max有一套三种颜色的邮票：20张红色邮票，80张蓝色邮票和7张黄色邮票。他试图出售整套邮票。他已经以每张1.1美元的价格出售了20张红色邮票和每张0.8美元的价格出售了80张蓝色邮票。他需要为每张黄色邮票设定什么价格，才能从整个销售中赚取总共100美元？。",
+  "topic": "回答下面的数学问题：Max has a collection of stamps in three colors: 20 red stamps, 80 blue stamps and 7 yellow ones. He is trying to sell the whole collection. He already sold 20 red stamps for the price of $1.1 for each stamp and 80 blue stamps for the price of $0.8 for each stamp. What price did he need to set for each yellow stamp to be able to earn the total of $100 from the whole sale?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

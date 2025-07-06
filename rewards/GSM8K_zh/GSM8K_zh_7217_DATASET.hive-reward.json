@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯以前是他72英寸高的叔叔的2/3。他经历了一次生长突增，身高增加了10英寸。现在他的叔叔比詹姆斯高多少？。",
+  "topic": "回答下面的数学问题：James was 2/3s as tall as his uncle who is 72 inches. He gets a growth spurt that makes him gain 10 inches.  How much taller is his uncle than James now?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

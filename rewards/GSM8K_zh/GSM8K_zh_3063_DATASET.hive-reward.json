@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一份汤有1杯蔬菜和2.5杯高汤。8份汤需要多少品脱的蔬菜和高汤？。",
+  "topic": "回答下面的数学问题：One serving of soup has 1 cup of vegetables and 2.5 cups of broth. How many pints of vegetables and broth combined would be needed for 8 servings?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

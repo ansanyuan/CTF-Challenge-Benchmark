@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格兰特的假期是凯尔文上课次数的四倍。如果凯尔文上了90节课，那么格兰特和凯尔文总共有多少个假期和课程？。",
+  "topic": "回答下面的数学问题：Grant has four times as many vacations as Kelvin has classes. If Kelvin has 90 classes, how many vacations and classes do Grant and Kelvin have altogether?",
   "checkpoint": [
     {
-      "$\\boxed{450}$": 1
+      "\\boxed{450}": 1
     }
   ],
   "matchingmethod": [

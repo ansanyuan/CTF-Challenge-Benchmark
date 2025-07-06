@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：总共采摘了42个覆盆子、黑莓和蓝莓。如果所有浆果中有一半是覆盆子，三分之一是黑莓，那么其中有多少个是蓝莓？。",
+  "topic": "回答下面的数学问题：42 raspberries, blackberries, and blueberries were picked in total. If half of all the berries had been raspberries, and a third of the berries were blackberries, how many of them were blueberries?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Brandon有20张棒球卡收藏。Malcom比Brandon多8张卡。然而，Malcom把他的一半卡给了他的朋友Mark。Malcom剩下多少张卡？。",
+  "topic": "回答下面的数学问题：Brandon has a collection of 20 baseball cards.  Malcom has 8 more cards than Brandon.  However, then Malcom gives half of his cards to his friend Mark.  How many cards does Malcom have left?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

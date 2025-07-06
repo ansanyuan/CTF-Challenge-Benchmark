@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：面包店有8张室内桌和12张室外桌。每张室内桌有3把椅子，每张室外桌也有3把椅子。总共有多少把椅子？。",
+  "topic": "回答下面的数学问题：The bakery has 8 indoor tables and 12 outdoor tables. Each indoor table has 3 chairs and each outdoor table has 3 chairs. How many chairs are there in total?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

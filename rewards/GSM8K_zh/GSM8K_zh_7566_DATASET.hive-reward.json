@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾米丽有四个孩子，名字叫艾米、杰克逊、科里和詹姆斯。艾米比杰克逊大5岁，比科里小2岁。如果詹姆斯10岁，比科里小1岁，那么杰克逊多大了？。",
+  "topic": "回答下面的数学问题：Emily has 4 kids named Amy, Jackson, Corey, and James. Amy is 5 years older than Jackson and 2 years younger than Corey. If James is 10 and is 1 year younger than Corey, how old is Jackson?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰夫的游泳教练要求他在周末游98圈。周六，杰夫游了27圈。周日早上，他游了15圈，休息一下，然后在下午继续练习。杰夫休息时还剩下多少圈？。",
+  "topic": "回答下面的数学问题：Jeff’s swimming coach required him to swim 98 laps over the weekend. On Saturday, Jeff swam 27 laps. On Sunday morning, he swam 15 laps, took a break, then resumed practice in the afternoon. How many laps did Jeff have remaining when he took the break?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

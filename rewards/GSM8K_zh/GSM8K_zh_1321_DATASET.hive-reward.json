@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Shaniqua擅长做头发。每次理发她赚12美元，每次造型她赚25美元。如果她理了8次发型并做了5次造型，Shaniqua会赚多少美元？。",
+  "topic": "回答下面的数学问题：Shaniqua styles hair. For every haircut she makes $12 and for every style she makes $25. How many dollars would Shaniqua make if she gave 8 haircuts and 5 styles?",
   "checkpoint": [
     {
-      "$\\boxed{221}$": 1
+      "\\boxed{221}": 1
     }
   ],
   "matchingmethod": [

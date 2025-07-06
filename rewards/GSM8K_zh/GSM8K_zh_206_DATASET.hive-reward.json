@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Wickham正在举办一场盛大的圣诞派对。他邀请了30个人。每个人都参加了派对，其中一半的客人带了一个附加人。他计划为客人提供一顿三道菜的餐点。如果他每道菜都使用新的盘子，他总共需要多少个盘子？。",
+  "topic": "回答下面的数学问题：Wickham is throwing a huge Christmas party. He invites 30 people. Everyone attends the party, and half of the guests bring a plus one (one other person). He plans to serve a 3-course meal for the guests. If he uses a new plate for every course, how many plates does he need in total for his guests?",
   "checkpoint": [
     {
-      "$\\boxed{135}$": 1
+      "\\boxed{135}": 1
     }
   ],
   "matchingmethod": [

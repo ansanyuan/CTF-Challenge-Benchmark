@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡尔、瑞安和本喜欢收集贴纸。卡尔有25张贴纸。瑞恩比卡尔多20张贴纸。本比瑞恩少10张贴纸。他们把所有的贴纸都放在了一本贴纸册上。他们一共放了多少张贴纸？。",
+  "topic": "回答下面的数学问题：Karl, Ryan, and Ben are fond of collecting stickers. Karl has 25 stickers. Ryan has 20 more stickers than Karl. Ben has 10 fewer stickers than Ryan. They placed all their stickers in one sticker book. How many stickers did they place altogether?",
   "checkpoint": [
     {
-      "$\\boxed{105}$": 1
+      "\\boxed{105}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Aida的娃娃数量是Sophie的两倍，而Sophie的娃娃数量是Vera的两倍。如果Vera有20个娃娃，那么Aida、Sophie和Vera总共有多少个娃娃？。",
+  "topic": "回答下面的数学问题：Aida has twice as many dolls as Sophie, and Sophie has twice as many dolls as Vera. How many dolls do Aida, Sophie, and Vera have combined if Vera has 20 dolls?",
   "checkpoint": [
     {
-      "$\\boxed{140}$": 1
+      "\\boxed{140}": 1
     }
   ],
   "matchingmethod": [

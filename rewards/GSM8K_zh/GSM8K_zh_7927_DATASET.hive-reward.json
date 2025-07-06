@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹娜起初有8颗蓝宝石。她用3颗蓝宝石换取了两颗红宝石。如果蓝宝石的价值是800美元，红宝石的价值是1200美元，那么她所有的珠宝价值多少钱？。",
+  "topic": "回答下面的数学问题：Jenna starts out with 8 sapphires. She trades 3 sapphires for two rubies. If sapphires are worth $800 and rubies are worth $1200, how much money are all her jewels worth?",
   "checkpoint": [
     {
-      "$\\boxed{6400}$": 1
+      "\\boxed{6400}": 1
     }
   ],
   "matchingmethod": [

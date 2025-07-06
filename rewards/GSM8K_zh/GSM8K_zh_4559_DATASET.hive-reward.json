@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊夫和他的兄弟姐妹订了披萨，并要求将其切成16片。晚餐时，他们只吃了四分之一。第二天，伊夫吃了剩下的披萨的四分之一。然后他的两个兄弟姐妹各自吃了2片。还剩下多少片披萨？。",
+  "topic": "回答下面的数学问题：Yves and his siblings ordered pizza and asked to have it cut into 16 slices.  During dinner time, they only ate one-fourth of it. The next day, Yves ate one-fourth of the remaining pizza. Then his two siblings ate 2 slices each. How many slices of pizza were left?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：达里尔是一位发明家，他刚刚设计了一台新机器。他为构建这台机器支付了3600美元的零件费，以及在建造完成后申请专利的4500美元费用。如果这台机器售价为180美元，达里尔需要卖出多少台机器才能在成本后达到盈亏平衡？。",
+  "topic": "回答下面的数学问题：Darryl is an inventor who just designed a new machine. He had to pay $3600 for the parts to construct the machine, and $4500 for the patent he applied for once he built it. If the machine sells for $180, how many machines does Darryl need to sell to break even after the costs?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

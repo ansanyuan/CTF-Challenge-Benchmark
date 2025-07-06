@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比利和乔治在采蒲公英。起初，比利采了36朵，然后乔治采了比利的三分之一。当他们看到堆时，他们决定每人再多采10朵。他们平均采了多少朵？。",
+  "topic": "回答下面的数学问题：Billy and George are picking dandelions. At first, Billy picks 36 and then George picks 1/3 as many as Billy. When they see the pile, they each decide to pick 10 more each. How many have they picked on average?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

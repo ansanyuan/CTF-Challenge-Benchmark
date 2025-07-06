@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Teresa正在收集铅笔。她有14支彩色铅笔和35支黑色铅笔。她的三个年幼的兄弟需要铅笔上课，他们的爸爸让她分享她所有的铅笔，每个人都得到相同数量的铅笔，不管颜色。他告诉她可以留下10支给自己。每个兄弟得到多少支铅笔？。",
+  "topic": "回答下面的数学问题：Teresa is collecting pencils. She has 14 colored pencils and 35 black pencils. Her three younger siblings need pencils for class and their dad asks her to share all her pencils, giving each an equal number of pencils, regardless of color. He tells her she can keep 10 of them for herself. How many pencils does each sibling get?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

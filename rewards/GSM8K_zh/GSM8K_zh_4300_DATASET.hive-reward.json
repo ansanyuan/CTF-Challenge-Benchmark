@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kelsey带了她的2/5个托盘鸡蛋去Willa的派对。Stephanie也带了半个托盘的鸡蛋去派对，而Alayah比Kelsey和Stephanie的鸡蛋总数多40个。如果Willa已经有两个托盘的鸡蛋，计算派对上使用的鸡蛋总数。。",
+  "topic": "回答下面的数学问题：Kelsey had 2/5 of a tray of eggs that she had brought to Willa's party. Stephanie had also brought half a tray of eggs to the party, while Alayah brought 40 more eggs than Kelsey and Stephanie combined. If Willa had two trays of eggs already, calculate the total number of eggs that were used at the party.",
   "checkpoint": [
     {
-      "$\\boxed{154}$": 1
+      "\\boxed{154}": 1
     }
   ],
   "matchingmethod": [

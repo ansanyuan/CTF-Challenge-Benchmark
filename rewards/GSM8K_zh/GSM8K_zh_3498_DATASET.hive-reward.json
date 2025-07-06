@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Emma可以在20小时内跑完两个竞技场。如果Fernando跑完同样的距离需要的时间是Emma的两倍，那么他们一起跑完两个竞技场需要多长时间？。",
+  "topic": "回答下面的数学问题：Emma can run all-around two arenas in 20 hours. If it takes Fernando twice as long to run his course, what's the total time it takes both of them to run all around the two arenas?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

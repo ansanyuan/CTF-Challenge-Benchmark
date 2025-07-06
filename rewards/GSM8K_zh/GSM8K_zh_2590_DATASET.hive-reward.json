@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bob为他整个家庭摘了450个苹果。他的家庭有33个孩子，每个孩子吃了10个苹果。如果每个成年人吃了3个苹果，他的家庭有多少成年人？。",
+  "topic": "回答下面的数学问题：Bob picked 450 apples for his entire family to eat. There are 33 children in his family, and each of them ate 10 apples. If every adult ate 3 apples apiece, how many adults are in his family?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

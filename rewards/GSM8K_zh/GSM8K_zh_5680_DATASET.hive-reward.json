@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯利每周给她的孩子们的午餐里放5天的奶酪棒。她的大儿子每天想要2根，而她的小儿子每天只吃1根。每包奶酪棒有30根。凯利需要多少包奶酪棒才能在4周内给孩子们的午餐准备足够的奶酪棒？。",
+  "topic": "回答下面的数学问题：Kelly puts string cheeses in her kids lunches 5 days per week.  Her oldest wants 2 every day and her youngest will only eat 1.  The packages come with 30 string cheeses per pack.  How many packages of string cheese will Kelly need to fill her kids lunches for 4 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

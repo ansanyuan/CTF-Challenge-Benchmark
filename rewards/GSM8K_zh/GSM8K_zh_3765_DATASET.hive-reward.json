@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：林赛买了2根运动带来加强她的锻炼。每根带都能为她的锻炼增加额外的5磅阻力。如果她把两套带都加倍并绑在她的腿上，然后拿起一个10磅的哑铃，她将能深蹲多少重量？。",
+  "topic": "回答下面的数学问题：Lindsey bought 2 exercise bands to intensify her workout.  Each band adds an extra 5 pounds of resistance to her workout.  If she doubles up both sets of bands and places them around her legs and picks up a 10-pound dumbbell, how much weight will she squat?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

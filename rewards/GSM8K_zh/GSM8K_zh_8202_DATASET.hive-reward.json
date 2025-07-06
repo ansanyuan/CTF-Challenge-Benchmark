@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Candy有15个浅蓝色的线轴，45个深蓝色的线轴，40个浅绿色的线轴和50个深绿色的线轴。她的线轴中有多少百分比是蓝色的？。",
+  "topic": "回答下面的数学问题：Candy has 15 light blue spools of thread, 45 dark blue spools of thread, 40 light green spools of thread, and 50 dark green spools of thread. What percent of her spools are blue?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

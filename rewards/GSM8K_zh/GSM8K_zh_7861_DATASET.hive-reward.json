@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：橡皮擦一个2美元，铅笔一个3美元。6个橡皮擦和8支铅笔一共多少钱？。",
+  "topic": "回答下面的数学问题：An eraser costs $2 and a pencil costs $3. How much do 6 erasers and 8 pencils cost?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：农场里有2头奶牛，3头猪和6只山羊。农民计划再增加3头奶牛，5头猪和2只山羊。农场将会有多少动物？。",
+  "topic": "回答下面的数学问题：On a farm, there are 2 cows, 3 pigs, and 6 goats. The farmer planned on adding 3 cows, 5 pigs, and 2 goats. How many animals will there be on the farm?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

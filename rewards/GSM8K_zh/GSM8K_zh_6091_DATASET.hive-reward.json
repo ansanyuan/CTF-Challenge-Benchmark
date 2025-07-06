@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个健身房每个月向会员收取18美元两次。如果有300名会员，它每个月能赚多少钱？。",
+  "topic": "回答下面的数学问题：A gym charges its members $18 twice a month.  If it has 300 members how much does it make a month?",
   "checkpoint": [
     {
-      "$\\boxed{10800}$": 1
+      "\\boxed{10800}": 1
     }
   ],
   "matchingmethod": [

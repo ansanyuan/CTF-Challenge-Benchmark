@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：十个男孩每人带了15根冰棍。十二个女孩每人带了12根冰棍。女孩比男孩少带了多少根冰棍？。",
+  "topic": "回答下面的数学问题：Ten boys brought 15 popsicle sticks each. Twelve girls brought 12 popsicle sticks each. How many fewer popsicle sticks did the girls bring than the boys?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

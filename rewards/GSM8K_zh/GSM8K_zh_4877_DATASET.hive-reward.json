@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：MegaCorp被发现向供水系统泄漏致癌物质，被罚款其年利润的1%。MegaCorp每天从采矿中赚取300万美元，从炼油中赚取500万美元。其月度支出为3000万美元。MegaCorp的罚款金额是多少美元？。",
+  "topic": "回答下面的数学问题：MegaCorp got caught leaking carcinogens into the water supply and is being fined 1% of its annual profits. Every day MegaCorp earns $3,000,000 from mining and $5,000,000 from oil refining. Its monthly expenses are $30,000,000. How much is MegaCorp's fine in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{25600000}$": 1
+      "\\boxed{25600000}": 1
     }
   ],
   "matchingmethod": [

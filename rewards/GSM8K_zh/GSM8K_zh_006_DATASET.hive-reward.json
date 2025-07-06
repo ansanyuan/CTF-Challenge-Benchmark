@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mark有一个种满花朵的花园。他在花园里种了三种不同颜色的植物。其中有十朵是黄色的，紫色的比黄色的多80%。绿色的花的数量只有黄色和紫色花的25%。Mark的花园里有多少朵花？。",
+  "topic": "回答下面的数学问题：Mark has a garden with flowers. He planted plants of three different colors in it. Ten of them are yellow, and there are 80% more of those in purple. There are only 25% as many green flowers as there are yellow and purple flowers. How many flowers does Mark have in his garden?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

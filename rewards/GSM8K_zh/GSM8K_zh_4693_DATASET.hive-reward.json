@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：鲍勃和约翰尼有一个扫落叶的生意。他们每袋扫落叶收费4美元。星期一他们扫了5袋落叶。星期二他们扫了3袋落叶。星期三，他们数了数钱，发现他们三天总共有68美元。他们星期三扫了多少袋落叶？。",
+  "topic": "回答下面的数学问题：Bob and Johnny have a leaf raking business. They charge $4 for each bag of leaves they rake. On Monday they raked 5 bags of leaves. On Tuesday they raked 3 bags of leaves. On Wednesday, they counted their money and found they had $68 for all three days. How many bags of leaves did they rake on Wednesday?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

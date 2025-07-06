@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Javier正在和他的兄弟进行吃比赛。今晚是意大利馄饨之夜，有肉馄饨、南瓜馄饨和奶酪馄饨。肉馄饨每个重1.5盎司。南瓜馄饨每个重1.25盎司。奶酪馄饨每个重1盎司。Javier吃了5个肉馄饨，2个南瓜馄饨和4个奶酪馄饨。他的兄弟只吃了南瓜馄饨，吃了12个。获胜者总共吃了多少盎司？。",
+  "topic": "回答下面的数学问题：Javier is having an eating contest with his brother. It's ravioli night and there is meat ravioli, pumpkin ravioli, and cheese ravioli. The meat ravioli weighs 1.5 ounces each. The pumpkin ravioli is 1.25 ounces each. The cheese ravioli is one ounce. Javier eats 5 meat ravioli, 2 pumpkin ravioli, and 4 cheese ravioli. His brother just ate pumpkin ravioli and had 12 of them. What is the total amount of ounces eaten by the winner?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

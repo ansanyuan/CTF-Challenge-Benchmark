@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一张单程票的价格是2美元。一个30天通行证的价格是50美元。每个月你需要至少乘坐多少次车，以便30天通行证的每次乘车成本严格比单程票更便宜？。",
+  "topic": "回答下面的数学问题：A one-way ticket costs $2. A 30-day pass costs $50. What's the minimum number of rides you will need to take every month so that the 30-day pass is strictly cheaper per ride?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

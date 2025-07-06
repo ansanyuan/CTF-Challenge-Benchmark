@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰的车需要换发动机。人工费用为每小时75美元，共16小时。零件本身的成本为1200美元。维修总共花了多少钱？。",
+  "topic": "回答下面的数学问题：John's car needs a new engine.  The labor costs $75 an hour for 16 hours.  The part itself cost $1200.  How much did the repairs cost in total?",
   "checkpoint": [
     {
-      "$\\boxed{2400}$": 1
+      "\\boxed{2400}": 1
     }
   ],
   "matchingmethod": [

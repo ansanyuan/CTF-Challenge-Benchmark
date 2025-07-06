@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个炊火每小时燃烧三根木柴。最初用六根木柴搭建。如果每小时末尾再添加两根木柴，3小时后还剩下多少根木柴？。",
+  "topic": "回答下面的数学问题：A cookfire burns three logs every hour. It was built with six logs to start. If it gets two more logs added to it at the end of every hour, how many logs will be left after 3 hours?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

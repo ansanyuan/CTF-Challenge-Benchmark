@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈罗德每晚睡10个小时。他工作的时间比他睡觉的时间少2小时，他每天遛狗1小时。哈罗德每天剩余多少自由时间？。",
+  "topic": "回答下面的数学问题：Harold sleeps for 10 hours a night.  He works 2 hours less than he sleeps and he walks his dog for an hour each day.  How much free time does Harold have left in his day?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

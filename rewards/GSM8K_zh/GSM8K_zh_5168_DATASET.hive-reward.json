@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马尔科姆在一家公司工作，他们通常每天在一个箱子里装40个苹果，每天生产50个满箱。一周内的运营正常进行。但在下一周，他们每天少装了500个苹果。两周内装箱的苹果总数是多少？。",
+  "topic": "回答下面的数学问题：Malcolm works in a company where they normally pack 40 apples in a box, producing 50 full boxes per day. Operations went as normal in one week. But in the next week, they packed 500 fewer apples per day. What's the total number of apples packed in the two weeks?",
   "checkpoint": [
     {
-      "$\\boxed{24500}$": 1
+      "\\boxed{24500}": 1
     }
   ],
   "matchingmethod": [

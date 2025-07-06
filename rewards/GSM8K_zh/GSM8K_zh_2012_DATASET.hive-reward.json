@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥利弗邀请了4个朋友去游乐场参加派对。游戏代币的价格是30个代币1美元。每个游戏需要2个代币。如果他希望他的所有朋友每人都能玩60次游戏，这将花费多少钱？。",
+  "topic": "回答下面的数学问题：Oliver has 4 friends that he is inviting to a party at the arcade. Game tokens cost 30 for $1. Each game costs 2 tokens. If he wants all his friends to get to play 60 games each, how much will it cost?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

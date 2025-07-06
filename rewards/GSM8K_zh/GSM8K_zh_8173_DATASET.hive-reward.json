@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：盒子里有空间放20支铅笔。如果盒子里少了4支铅笔，那么盒子里有多少对铅笔？。",
+  "topic": "回答下面的数学问题：There is space for 20 pencils in the box. If there are 4 pencils missing from the box, how many pairs of pencils are in the box?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

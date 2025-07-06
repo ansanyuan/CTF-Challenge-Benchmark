@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：A mathematical organization is producing a set of commemorative license plates. Each plate contains a sequence of five characters chosen from the four letters in AIME and the four digits in $2007$ . No character may appear in a sequence more times than it appears among the four letters in AIME or the four digits in $2007$ . A set of plates in which each possible sequence appears exactly once contains N license plates. Find N/10.",
   "checkpoint": [
     {
-      "$\\boxed{372}$": 1
+      "\\boxed{372}": 1
     }
   ],
   "matchingmethod": [

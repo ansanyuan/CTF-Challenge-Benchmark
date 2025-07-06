@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡拉尼的卧室里有二十支蜡烛，是客厅蜡烛数量的两倍。她的弟弟多诺万带来了从蜡烛店买来的二十支蜡烛。房子里一共有多少支蜡烛？。",
+  "topic": "回答下面的数学问题：Kalani has twenty candles in her bedroom, twice the number of candles in the living room. Donovan, her brother, brings in 20 more candles he bought from the candle shop. What's the total number of candles in the house?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

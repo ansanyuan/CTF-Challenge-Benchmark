@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比亚斯的年龄的10倍减去40等于西耶拉的年龄的10倍加20。如果西耶拉目前30岁，比亚斯20年后多大？。",
+  "topic": "回答下面的数学问题：40 less than 10 times Diaz's age is 20 more than 10 times Sierra's age. If Sierra is currently 30 years old, how old will Diaz be 20 years from now?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

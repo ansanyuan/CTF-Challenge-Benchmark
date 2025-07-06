@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：冈瑟刚刚通过经销商为约翰迪尔拖拉机融资。如果他的月供是150.00美元，为期5年，没有利息，他为拖拉机融资了多少钱？。",
+  "topic": "回答下面的数学问题：Gunther just financed a John Deere tractor through the dealership.  If his monthly payment is $150.00 a month, for 5 years, with no interest, how much did he finance the tractor for?",
   "checkpoint": [
     {
-      "$\\boxed{9000}$": 1
+      "\\boxed{9000}": 1
     }
   ],
   "matchingmethod": [

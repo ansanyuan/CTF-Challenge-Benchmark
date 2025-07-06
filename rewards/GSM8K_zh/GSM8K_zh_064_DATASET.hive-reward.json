@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：肖娜的锻炼目标是30个仰卧起坐。周一，肖娜只能做12个仰卧起坐，所以她决定在周二弥补剩下的部分。然而，周二她只能做19个仰卧起坐。为了达到她的最低目标并弥补她没做的部分，肖娜周三需要做多少个仰卧起坐？。",
+  "topic": "回答下面的数学问题：Shawna's workout goal is 30 situps. On Monday, Shawna was only able to do 12 situps, so she decided that she would make up for the rest on Tuesday. However, she was only able to do 19 situps on Tuesday. How many situps would Shawna have to do on Wednesday to meet her minimum goal and make up for the ones she didn't do?",
   "checkpoint": [
     {
-      "$\\boxed{59}$": 1
+      "\\boxed{59}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：夏曼太太为早餐做了一打面包卷。喂了她的6个孩子每人一个之后，她把剩下的面包卷每个掰成8块喂给了鸡。她喂给鸡多少块面包卷？。",
+  "topic": "回答下面的数学问题：Mrs. Sherman made a dozen bread rolls for breakfast. After feeding her 6 children with one each, she broke each of the remaining rolls into 8 pieces and fed them to the chickens. How many pieces of rolls did she feed to the chickens?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

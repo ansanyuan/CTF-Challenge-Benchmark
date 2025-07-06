@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅正在剪发和染发。染发费用是40美元，剪发每英寸收费30美元。如果她的头发原来是10英寸，剪到了8英寸，她的剪发和染发总共花费了多少钱？。",
+  "topic": "回答下面的数学问题：May is getting her hair cut and colored. It costs $40 for the color and $30 per inch of haircut. If her hair started at 10 inches and ended at 8, how much did her cut and color cost?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

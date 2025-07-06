@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三个青少年在周末踢足球。第一个青少年Richie比Mark多进了20个球，比Anna多进了45个球。如果Richie进了80个球，那么这三个青少年总共进了多少球？。",
+  "topic": "回答下面的数学问题：Three teenagers are playing soccer on the weekend. Richie, the first teenager, scored 20 more goals than Mark and scored 45 more goals than Anna. If Richie scored 80 goals, how many goals did all three teenagers score?",
   "checkpoint": [
     {
-      "$\\boxed{175}$": 1
+      "\\boxed{175}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每一段实心的10英尺红木树木重400磅。白蚁吃掉了这棵红木30%的木头。如果这棵红木高200英尺，它的重量是多少？。",
+  "topic": "回答下面的数学问题：Each solid 10-foot section of a redwood tree weighs 400 pounds. Termites ate 30% of this redwood's wood. If the redwood is 200 feet tall, how much does it weigh?",
   "checkpoint": [
     {
-      "$\\boxed{5600}$": 1
+      "\\boxed{5600}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝丝去购物了。她买的豌豆罐头比她买的玉米罐头的两倍多15罐。如果她买了35罐豌豆，她买了多少罐玉米？。",
+  "topic": "回答下面的数学问题：Beth went shopping. She bought 15 more cans of peas than twice the number of cans of corn that she bought. If she bought 35 cans of peas, how many cans of corn did she buy?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

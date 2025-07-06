@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥纳姆湖比博斯特池多25条鳟鱼。博斯特池有75条鱼。里德尔池的鱼数量是奥纳姆湖的一半。这三个水域的鱼的平均数量是多少？。",
+  "topic": "回答下面的数学问题：Onum Lake has 25 more trout than Boast Pool.   There are 75 fish in Boast Pool.  Riddle Pond has half as many fish as Onum Lake.  What is the average number of fish in all three bodies of water?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

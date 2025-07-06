@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cary是负责为三名农民设计灌溉系统的工程师。Bob农民种植了3英亩玉米，9英亩棉花和12英亩豆类。Brenda农民种植了6英亩玉米，7英亩棉花和14英亩豆类。Bernie农民种植了2英亩玉米和12英亩棉花。如果玉米每英亩需要20加仑水，棉花每英亩需要80加仑水，而豆类需要的水是玉米的两倍，那么总用水量的百分之多少将用于Bob农民的农场？。",
+  "topic": "回答下面的数学问题：Cary is an engineer in charge of designing an irrigation system for three farmers. Farmer Bob grows 3 acres of corn, 9 acres of cotton, and 12 acres of beans. Farmer Brenda grows 6 acres of corn, 7 acres of cotton, and 14 acres of beans. Farmer Bernie grows 2 acres of corn and 12 acres of cotton. If corn takes 20 gallons of water an acre, cotton takes 80 gallons of water an acre, and beans take twice as much water as corn, what percentage of the total water used will go to Farmer Bob's farm?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

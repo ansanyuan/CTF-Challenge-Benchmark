@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡尔最喜欢的食物是奶酪。这周他每天午餐都吃一个三明治，每个三明治用了2片奶酪。他在一周的3天早餐吃奶酪和鸡蛋煎蛋，每个煎蛋比三明治多用一片奶酪。他做了一大盘通心粉和奶酪，足够他这周吃几顿晚餐，用了8片奶酪。他一共用了多少片奶酪？。",
+  "topic": "回答下面的数学问题：Carl’s favorite food is cheese. He ate a sandwich every day this week for lunch and used 2 slices of cheese on each sandwich. He ate cheese and egg omelets for breakfast 3 days in the week using one more slice per omelet than he did per sandwich. He made a big dish of macaroni and cheese to last him several dinners for the week and used 8 slices of cheese in it. How many slices of cheese did he use?",
   "checkpoint": [
     {
-      "$\\boxed{31}$": 1
+      "\\boxed{31}": 1
     }
   ],
   "matchingmethod": [

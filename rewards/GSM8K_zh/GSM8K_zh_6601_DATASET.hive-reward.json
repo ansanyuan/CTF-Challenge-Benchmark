@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米歇尔厨师做了切成4块的牧羊人派和切成5块的鸡肉馅饼给午餐客人。52位顾客订购了牧羊人派的块，80位顾客订购了鸡肉馅饼的块。米歇尔厨师总共卖出了多少个馅饼？。",
+  "topic": "回答下面的数学问题：Chef Michel made shepherd's pie cut into 4 pieces and chicken pot pie cut into 5 pieces for the lunch crowd.  52 customers ordered slices of shepherd's pie and 80 customers ordered slices of chicken pot pie. How many total pies did Chef Michel sell?",
   "checkpoint": [
     {
-      "$\\boxed{29}$": 1
+      "\\boxed{29}": 1
     }
   ],
   "matchingmethod": [

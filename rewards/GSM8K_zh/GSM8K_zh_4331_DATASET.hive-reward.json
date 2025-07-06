@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：西蒙比布鲁斯多20%的乐高积木，而布鲁斯比肯特多20个。如果肯特有40块乐高积木，那么西蒙有多少块？。",
+  "topic": "回答下面的数学问题：Simon has 20% more legos than Bruce, who has 20 more than Kent.  If Kent has 40 legos, how many does Simon have?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Miley为她的父母买了两部手机。每部手机的价格是800美元，但由于她购买了两部，她将获得总费用的5%折扣。Miley支付了多少钱？。",
+  "topic": "回答下面的数学问题：Miley bought two cellphones for her parents. Each cellphone costs $800 but, since she is buying two units, she will receive a 5% discount for the total cost. How much did Miley pay?",
   "checkpoint": [
     {
-      "$\\boxed{1520}$": 1
+      "\\boxed{1520}": 1
     }
   ],
   "matchingmethod": [

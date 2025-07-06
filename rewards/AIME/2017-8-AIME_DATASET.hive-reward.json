@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Find the number of positive integers $n$ less than $2017$ such that \\[1+n+\\frac{n^2}{2!}+\\frac{n^3}{3!}+\\frac{n^4}{4!}+\\frac{n^5}{5!}+\\frac{n^6}{6!}\\] is an integer.",
   "checkpoint": [
     {
-      "$\\boxed{134}$": 1
+      "\\boxed{134}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰家里有2把伞，车里有1把。如果它们每把都价值8美元，他总共支付了多少钱？。",
+  "topic": "回答下面的数学问题：John has 2 umbrellas in his house and 1 in the car.  If they cost $8 each, how much did he pay in total?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

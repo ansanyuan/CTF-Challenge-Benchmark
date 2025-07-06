@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个建筑有10层楼。上偶数层楼梯需要15秒，上奇数层楼梯需要9秒。这包括到达第一层。到达第10层需要多少分钟？。",
+  "topic": "回答下面的数学问题：A building has 10 floors. It takes 15 seconds to go up the stairs to the even-numbered floors and 9 seconds to go up to the odd-numbered floors.  This includes getting to the first floor. How many minutes does it take to get to the 10th floor?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

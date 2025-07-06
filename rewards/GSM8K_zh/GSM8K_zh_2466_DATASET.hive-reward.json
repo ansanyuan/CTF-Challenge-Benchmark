@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只鸟正在用树枝建造一个巢。这只鸟已经把十二根树枝放在一起做成了一个圆圈。对于它放入圆圈的每一根树枝，它想再编织进六根树枝来填满巢。它知道一棵树已经掉落了它所需要的三分之一的树枝。这只鸟还需要找到多少树枝来完成它的巢？。",
+  "topic": "回答下面的数学问题：A bird is building a nest from twigs. The bird has put twelve twigs together already to make a circle. For each twig it placed into the circle, it wants to weave in six more twigs to fill out the nest. It knows a tree that has dropped a third of the twigs it needs. How many twigs will the bird still need to find to finish its nest?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨拉和乔的身高加起来是120英寸。乔的身高是萨拉身高的两倍再加6英寸。乔的身高是多少？。",
+  "topic": "回答下面的数学问题：Sara and Joe have a combined height of 120 inches. Joe is 6 inches more than double Sara's height. How tall is Joe?",
   "checkpoint": [
     {
-      "$\\boxed{82}$": 1
+      "\\boxed{82}": 1
     }
   ],
   "matchingmethod": [

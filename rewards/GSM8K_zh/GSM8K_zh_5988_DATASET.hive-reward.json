@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marla正在考虑购买一个帆布购物袋，以避免在杂货店使用塑料袋。如果制作帆布袋释放了600磅二氧化碳，每个塑料袋释放了4盎司二氧化碳，Marla每次购物使用8个袋子，那么在帆布袋成为更低碳解决方案之前，她需要进行多少次购物？（1磅中有16盎司。）。",
+  "topic": "回答下面的数学问题：Marla is thinking about getting a canvas tote bag to avoid using plastic bags at the grocery store. If making the canvas bag released 600 pounds of carbon dioxide, each plastic bag released 4 ounces of carbon dioxide, and Marla uses eight bags per shopping trips, how many shopping trips will she have to make before the canvas bag is the lower-carbon solution? (There are 16 ounces in a pound.)",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

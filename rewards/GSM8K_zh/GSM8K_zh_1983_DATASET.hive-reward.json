@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊莱贾正在粉刷他的客厅，并决定购买遮光胶带使他的粉刷更整洁。他的两面墙宽4米，另外两面墙宽6米。伊莱贾需要足够的遮光胶带来覆盖每面墙的整个宽度，并且可以订购他需要的确切数量的遮光胶带。伊莱贾需要订购多少米的遮光胶带？。",
+  "topic": "回答下面的数学问题：Elijah is painting his living room and decides to buy masking tape to make his painting neater. 2 of his walls are 4 meters wide and the other 2 walls are 6 meters wide. Elijah needs enough masking tape to cover the entire width of each wall and can order the exact amount of masking tape he needs. How many meters of masking tape does Elijah need to order?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

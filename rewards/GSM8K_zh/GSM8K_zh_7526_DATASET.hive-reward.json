@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乌利亚的书包对他来说太重了。他需要减掉15磅。他的漫画书每本重1/4磅，他的玩具每个重1/2磅。如果他拿掉30本漫画书，他需要拿掉多少个玩具？。",
+  "topic": "回答下面的数学问题：Uriah's book bag is getting too heavy for him. He needs to remove 15 pounds from it. His comic books weigh 1/4 pound each and his toys weigh 1/2 pound each. If he removes 30 comic books, how many toys does he need to remove?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

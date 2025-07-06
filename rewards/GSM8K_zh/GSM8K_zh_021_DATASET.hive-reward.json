@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝拉在邮局买了邮票。一些邮票上有雪花设计，一些有卡车设计，一些有玫瑰设计。贝拉买了11张雪花邮票。她比雪花邮票多买了9张卡车邮票，比卡车邮票少买了13张玫瑰邮票。贝拉总共买了多少张邮票？。",
+  "topic": "回答下面的数学问题：Bella bought stamps at the post office. Some of the stamps had a snowflake design, some had a truck design, and some had a rose design. Bella bought 11 snowflake stamps. She bought 9 more truck stamps than snowflake stamps, and 13 fewer rose stamps than truck stamps. How many stamps did Bella buy in all?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marcy在她的办公桌旁放了一瓶2升的水。她每五分钟喝一口，每口40毫升。她喝完整瓶水需要多少分钟？。",
+  "topic": "回答下面的数学问题：Marcy keeps a 2-liter bottle of water by her desk. She takes a sip every five minutes, and each sip is 40 ml. How many minutes does it take her to drink the whole bottle of water?",
   "checkpoint": [
     {
-      "$\\boxed{250}$": 1
+      "\\boxed{250}": 1
     }
   ],
   "matchingmethod": [

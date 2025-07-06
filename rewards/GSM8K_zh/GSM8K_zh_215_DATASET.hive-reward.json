@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：贝拉和鲍勃将在6个月后庆祝他们的第4个周年纪念日。多少个月前他们庆祝了他们的第2个周年纪念日？。",
+  "topic": "回答下面的数学问题：In 6 months Bella and Bob will be celebrating their 4th anniversary.  How many months ago did they celebrate their 2nd anniversary?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

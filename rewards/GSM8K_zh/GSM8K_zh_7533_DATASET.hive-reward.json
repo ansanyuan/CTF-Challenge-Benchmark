@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个覆盆子灌木上有6簇，每簇有20个果实，灌木上还散落着67个单独的果实。总共有多少个覆盆子？。",
+  "topic": "回答下面的数学问题：A raspberry bush has 6 clusters of 20 fruit each and 67 individual fruit scattered across the bush. How many raspberries are there total?",
   "checkpoint": [
     {
-      "$\\boxed{187}$": 1
+      "\\boxed{187}": 1
     }
   ],
   "matchingmethod": [

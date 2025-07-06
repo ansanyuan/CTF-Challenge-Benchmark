@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一架飞机3小时内飞行了1200英里。以相同的速度，额外飞行2000英里需要多少额外的小时？。",
+  "topic": "回答下面的数学问题：A plane travels 1200 miles in 3 hours. At the same rate, how many additional hours would it take to travel an additional 2000 miles?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

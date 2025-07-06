@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个水箱可以容纳100升水。在雨季开始时，水箱已经有5分之2的水。在雨季的第一天，水箱收集了15升水。第二天，比第一天多收集了5升水。第三天，水箱已经满了。第三天收集了多少升水？。",
+  "topic": "回答下面的数学问题：A tank can hold 100 liters of water. At the beginning of the rainy season, the tank is 2/5 filled with water. On the first day of the rainy season, the tank collected 15 liters of water. On the second day, 5 liters more water was collected than on the first day. On the third day, the tank was already filled. How many liters of water were collected on the third day?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊莎亚娜比佐拉高4英寸，佐拉比布里克斯顿矮8英寸。如果佐拉身高为64英寸，与布里克斯顿一样高，请计算这四个人的平均身高。。",
+  "topic": "回答下面的数学问题：Itzayana is 4 inches taller than Zora, who is 8 inches shorter than Brixton. If Zara is 64 inches tall and has the same height as Brixton, calculate the average height of the four people.",
   "checkpoint": [
     {
-      "$\\boxed{61}$": 1
+      "\\boxed{61}": 1
     }
   ],
   "matchingmethod": [

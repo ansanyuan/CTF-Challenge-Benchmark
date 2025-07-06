@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯在上班路上买了2又半打甜甜圈，打算和同事分享。在开车的时候，他吃掉了甜甜圈的10%。一旦到了办公室，他又拿了另外4个甜甜圈作为下午茶。那么剩下多少个甜甜圈给他的同事？。",
+  "topic": "回答下面的数学问题：Chris buys 2 and a half dozen donuts on his way to work to share with his co-workers.  While driving, he eats 10% of the donuts.  Once inside, he grabs another 4 donuts for his afternoon snack.  How many donuts are left for his co-workers?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

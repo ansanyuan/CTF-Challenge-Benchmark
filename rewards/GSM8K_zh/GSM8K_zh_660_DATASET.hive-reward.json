@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊丽莎白用3.00美元的原料做了一袋格兰诺拉。她制作了20袋，然后在农贸市场以6.00美元一袋的价格出售。在关门前一个小时，她卖出了15袋，并将剩下的5袋标价4.00美元，然后不久就卖掉了。她的净利润是多少？。",
+  "topic": "回答下面的数学问题：Elizabeth uses $3.00 worth of ingredients to make a  bag of granola.  She makes 20 bags and sells them for $6.00 a bag at the farmer's market.  An hour before closing, she has sold 15 bags and marks the remaining 5 bags down to $4.00 and sells them soon after.  What is her net profit?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

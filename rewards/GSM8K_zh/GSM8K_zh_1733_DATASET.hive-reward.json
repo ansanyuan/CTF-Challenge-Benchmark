@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个冰淇淋盒装有10勺冰淇淋。玛丽有3盒冰淇淋，一盒巧克力口味，一盒草莓口味和一盒香草口味。伊桑想要一勺香草口味和一勺巧克力口味。卢卡斯、丹尼和康纳都想要2勺巧克力口味。奥利维亚想要一勺香草口味和一勺草莓口味。香农想要奥利维亚的两倍。剩下多少勺冰淇淋？。",
+  "topic": "回答下面的数学问题：A carton of ice cream contains 10 scoops each.  Mary has 3 cartons of ice cream, one chocolate, one strawberry and one vanilla.  Ethan wants one scoop of vanilla and one of chocolate.  Lucas, Danny and Connor all want 2 scoops of chocolate.  Olivia would like a scoop of vanilla and one of strawberry.  Shannon wants twice as much as Olivia.  How many scoops of ice cream will be left?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

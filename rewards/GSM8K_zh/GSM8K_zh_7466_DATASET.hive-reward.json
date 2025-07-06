@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯决定增肌。他体重120公斤，肌肉增加了体重的20%，脂肪增加了肌肉增加的四分之一。他现在的体重是多少？。",
+  "topic": "回答下面的数学问题：James decides to bulk up.  He weighs 120 kg and gains 20% of his body weight in muscle and 1 quarter that much in fat.  How much does he weigh now?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

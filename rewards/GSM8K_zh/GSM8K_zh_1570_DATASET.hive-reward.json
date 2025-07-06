@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰决定开始划船绕着一个正方形湖。湖的每一边都是15英里。杰克划船的速度是他游泳速度的两倍。他游泳1英里需要20分钟。划完整个湖需要多长时间（以小时为单位）？。",
+  "topic": "回答下面的数学问题：John decided to start rowing around a square lake.  Each side of the lake is 15 miles.  Jake can row at twice the speed he can swim.  It takes him 20 minutes to swim 1 mile.  How long, in hours, does it take to row the lake?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

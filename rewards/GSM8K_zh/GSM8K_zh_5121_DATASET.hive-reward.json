@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marcy花了12分钟抚摸她的猫，其中的1/3时间是梳理它。她总共花了多少分钟和她的猫在一起？。",
+  "topic": "回答下面的数学问题：Marcy spends 12 minutes petting her cat and 1/3 of that time combing it. How many minutes does she spend with her cat in total?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：你画了一个宽度为7英寸的矩形。它的长度是宽度的4倍。这个矩形的面积是多少？。",
+  "topic": "回答下面的数学问题：You draw a rectangle that is 7 inches wide. It is 4 times as long as it is wide. What is the area of the rectangle?",
   "checkpoint": [
     {
-      "$\\boxed{196}$": 1
+      "\\boxed{196}": 1
     }
   ],
   "matchingmethod": [

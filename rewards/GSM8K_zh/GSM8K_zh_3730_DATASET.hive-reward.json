@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Stan为下次跑步制作了一个播放列表。他的播放列表中有10首3分钟的歌曲和15首2分钟的歌曲。他整个跑步花了100分钟。如果Stan希望播放列表覆盖他整个跑步，他的播放列表还需要多少分钟的歌曲？。",
+  "topic": "回答下面的数学问题：Stan makes a playlist for the next time he goes running. He has 10 3-minute songs and 15 2-minute songs on his playlist. His entire run takes 100 minutes. If Stan wants a playlist to cover his entire run, how many more minutes of songs will he need in his playlist?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

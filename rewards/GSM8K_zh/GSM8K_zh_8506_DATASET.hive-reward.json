@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：爷爷喜欢吃果冻豆，但他能吃多少果冻豆取决于豆子的大小。填饱爷爷需要75颗大果冻豆。他能吃的中等大小的豆子是大豆子的两倍。吃3颗小豆子相当于吃1颗中等大小的豆子。爷爷能吃多少颗小果冻豆？。",
+  "topic": "回答下面的数学问题：Grandpa loves to eat jelly beans, but how many jelly beans he can eat depends on the size of the beans.  It takes 75 large jelly beans to fill Grandpa up. He can eat twice as many medium-sized beans as large beans.  And eating 3 small beans is the same as eating 1 medium-sized bean.  How many small beans can Grandpa eat?",
   "checkpoint": [
     {
-      "$\\boxed{450}$": 1
+      "\\boxed{450}": 1
     }
   ],
   "matchingmethod": [

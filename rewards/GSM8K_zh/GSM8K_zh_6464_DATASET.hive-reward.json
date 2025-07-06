@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玩具车工厂昨天制造了60辆车。今天，他们制造的车辆数量是昨天的两倍。工厂制造了多少玩具车？。",
+  "topic": "回答下面的数学问题：A toy car factory made 60 cars yesterday. Today, they made twice the number of cars than yesterday. How many toy cars did the factory make?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

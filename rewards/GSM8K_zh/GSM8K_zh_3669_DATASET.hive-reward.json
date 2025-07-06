@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安德森为水疗护理制作泥膜。在他混合的每一批泥中，他添加三棵薄荷，每棵薄荷添加两片绿茶叶。他不得不换一种不同的泥，这使得他添加的其他成分的效果减半。安德森应该在新一批泥中添加多少绿茶叶才能获得与以前相同的功效？。",
+  "topic": "回答下面的数学问题：Anderson makes mud masks for spa treatments. In every batch of mud that he mixes, he adds three sprigs of mint, and he adds two green tea leaves for every sprig of mint. He had to switch to a different kind of mud, which makes the other ingredients he adds half as effective. How many green tea leaves should Anderson add to a new batch of mud to get the same efficacy as before?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

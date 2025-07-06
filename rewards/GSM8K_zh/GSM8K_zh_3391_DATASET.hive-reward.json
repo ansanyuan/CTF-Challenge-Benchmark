@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Piazzanos Pizzeria在三层芝士披萨上有买一送一的特价优惠，而在肉类爱好者披萨上有买二送一的特价优惠。如果一张披萨的标准价格是5美元，使用特价优惠购买10张三层芝士披萨和9张肉类爱好者披萨总共需要多少美元？。",
+  "topic": "回答下面的数学问题：Piazzanos Pizzeria has a buy-1-get-1-free special on triple cheese pizzas, and a buy-2-get-1-free special on meat lovers pizzas.  If the standard price for a pizza is $5, how much does it cost, in dollars, to purchase 10 triple cheese and 9 meat lovers pizzas using the special pricing?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

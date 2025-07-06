@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：位于河边的山丘的底部距海床300米。如果这个深度是河床和山丘顶峰之间垂直距离的四分之一，山丘有多高？。",
+  "topic": "回答下面的数学问题：The base of a hill located beside a river is 300m above the seabed. If this depth is a quarter of the vertical distance between the riverbed and the peak of the hill, how high is the hill?",
   "checkpoint": [
     {
-      "$\\boxed{900}$": 1
+      "\\boxed{900}": 1
     }
   ],
   "matchingmethod": [

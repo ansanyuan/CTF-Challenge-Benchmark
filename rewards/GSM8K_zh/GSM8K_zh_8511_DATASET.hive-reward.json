@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：帕尔马干酪每磅的价格是11美元。莫扎里拉奶酪每磅6美元。Amor买了2磅帕尔马干酪和3磅莫扎里拉奶酪。如果她手头有50美元现金，她还剩多少钱可以买肉（单位：美元）？。",
+  "topic": "回答下面的数学问题：The price of Parmesan cheese is $11 per pound. Mozzarella cheese is $6 per pound.  Amor buys 2 pounds of Parmesan and 3 pounds of mozzarella cheese.  Is she starts with $50 cash, how much money, in dollars, will she have left to buy meat?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

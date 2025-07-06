@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Amber为她的池塘购买了7条孔雀鱼。几天后，她看到3打小孔雀鱼在游动。两天后，她又看到9条小孔雀鱼。现在她有多少条孔雀鱼？。",
+  "topic": "回答下面的数学问题：Amber buys 7 guppies for her pond.  Several days later, she sees 3 dozen baby guppies swimming around.  Two days after that, she sees 9 more baby guppies.  How many guppies does she have now?",
   "checkpoint": [
     {
-      "$\\boxed{52}$": 1
+      "\\boxed{52}": 1
     }
   ],
   "matchingmethod": [

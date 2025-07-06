@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Katherine有5个吊篮需要填满。在每个篮子里她想加3朵牵牛花和2根甘薯藤。每朵牵牛花的成本是3.00美元，每根甘薯藤的成本是2.50美元。她填满所有5个吊篮需要花费多少钱？。",
+  "topic": "回答下面的数学问题：Katherine has 5 hanging baskets to fill.  In each basket she wants to add 3 petunias and 2 sweet potato vines.  The petunias cost $3.00 apiece and the sweet potato vines cost $2.50 apiece.  How much will she spend filling all 5 hanging baskets?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

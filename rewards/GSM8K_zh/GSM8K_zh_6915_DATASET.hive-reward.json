@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Billy想在YouTube上观看一些有趣的内容，但不知道要看什么。他让网站为他生成了15个建议，但在观看每一个之后，他都不喜欢。Billy非常挑剔，所以他总共这样做了5次，直到最后找到一个他认为值得观看的视频。然后他选择了最后一个建议列表上的第5个节目。Billy一共观看了多少个视频？。",
+  "topic": "回答下面的数学问题：Billy wants to watch something fun on YouTube but doesn't know what to watch.  He has the website generate 15 suggestions but, after watching each in one, he doesn't like any of them.  Billy's very picky so he does this a total of 5 times before he finally finds a video he thinks is worth watching.  He then picks the 5th show suggested on the final suggestion list.  What number of videos does Billy watch?",
   "checkpoint": [
     {
-      "$\\boxed{65}$": 1
+      "\\boxed{65}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一辆校车以每小时50英里的速度行驶了42分钟。校车行驶的距离是多少英里？。",
+  "topic": "回答下面的数学问题：A school bus traveled for 42 minutes at a speed of 50 mph. What is the distance the bus traveled in miles?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

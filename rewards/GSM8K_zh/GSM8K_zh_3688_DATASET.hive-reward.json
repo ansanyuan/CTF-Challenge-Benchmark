@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅森有3盒蓝莓，每盒有200颗。他用每个松饼10颗蓝莓做尽可能多的松饼。然后他做了60个肉桂松饼。他做的所有松饼中有多少百分比是蓝莓味的？。",
+  "topic": "回答下面的数学问题：Mason has 3 cartons of 200 blueberries. He makes as many muffins as he can with 10 blueberries per muffin. Then he makes 60 cinnamon muffins. What percentage of all the muffins he made have blueberries?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

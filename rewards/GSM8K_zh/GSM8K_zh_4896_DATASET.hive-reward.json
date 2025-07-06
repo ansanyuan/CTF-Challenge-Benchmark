@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯蒂娜和她的朋友正在穿越这个州。当克里斯蒂娜开车时，速度限制是每小时30英里。当她的朋友开车时，速度限制是每小时40英里。这次旅行总共210英里。如果她的朋友开了3个小时的车，并且两人都按照速度限制行驶，克里斯蒂娜将开多少分钟的车？。",
+  "topic": "回答下面的数学问题：Christina and her friend are driving across the state. When Christina is driving the speed limit is 30 miles per hour. When her friend is driving, the speed limit is 40 miles per hour. The drive is 210 miles total. If her friend drives for 3 hours and both drive at the speed limit, how many minutes will Christina drive?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

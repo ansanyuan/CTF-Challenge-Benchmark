@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家教堂有100名成员自愿为当地城镇的无家可归者烤饼干。如果每个成员烤了10张饼干，每张饼干有16块，计算教堂成员总共烤了多少块饼干？。",
+  "topic": "回答下面的数学问题：A church has 100 members who've volunteered to bake cookies for the homeless in their local town. If each member baked 10 sheets of cookies, and each sheet has 16 cookies, calculate the total number of cookies the church members baked?",
   "checkpoint": [
     {
-      "$\\boxed{16000}$": 1
+      "\\boxed{16000}": 1
     }
   ],
   "matchingmethod": [

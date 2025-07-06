@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯想要建一把梯子爬一棵非常高的树。每个梯级的长度为18英寸，它们相距6英寸。如果他需要爬50英尺，他需要多少英尺的木头来制作梯级？。",
+  "topic": "回答下面的数学问题：James wants to build a ladder to climb a very tall tree.  Each rung of the ladder is 18 inches long and they are 6 inches apart.  If he needs to climb 50 feet how many feet of wood will he need for the rungs?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

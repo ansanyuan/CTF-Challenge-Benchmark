@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯每周向他的银行账户投资2000美元。当年初他的账户里有250,000美元。年底时，他得到了一笔价值比他银行账户多50%的意外收入。他一共有多少钱？。",
+  "topic": "回答下面的数学问题：James invests $2000 a week into his bank account.  He had $250,000 in his account when the year started.  At the end of the year, he gets a windfall that is worth 50% more than what he has in his bank account.   How much money does he have?",
   "checkpoint": [
     {
-      "$\\boxed{885000}$": 1
+      "\\boxed{885000}": 1
     }
   ],
   "matchingmethod": [

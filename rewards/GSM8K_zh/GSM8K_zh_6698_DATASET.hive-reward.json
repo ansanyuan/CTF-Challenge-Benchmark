@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Renne每个月赚4000美元，想要存下她每月收入的一半来购买价值16000美元的梦想车辆。她需要存钱多少个月才能购买这辆车？。",
+  "topic": "回答下面的数学问题：Renne earns $4000 per month and wants to save half of her monthly earnings to buy the vehicle of her dreams worth $16000. How many months of saving will it take her to buy the vehicle?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

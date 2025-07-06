@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一部电视节目第一季每集成本为10万美元，而其他每一季的成本是第一季的两倍。第一季有12集，之后的每一季的集数比前一季多50%，最后一季有24集。这部节目共有5季。制作所有集的成本是多少？。",
+  "topic": "回答下面的数学问题：A TV show costs $100,000 per episode for the first season and twice that much for every other season.  The first season had 12 episodes, and every season after that had 50% more episodes except the last season, which had 24 episodes.  The show had 5 seasons.  How much did it cost to produce all the episodes?",
   "checkpoint": [
     {
-      "$\\boxed{16800000}$": 1
+      "\\boxed{16800000}": 1
     }
   ],
   "matchingmethod": [

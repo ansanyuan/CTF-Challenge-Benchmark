@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个人喜欢徒步旅行。他知道每徒步一英里需要携带大约0.5磅的物资。他计划进行一次非常长的徒步旅行。他知道在徒步旅行中可以进行一次补给，补给的大小将是他第一次携带物资的25%。他的徒步速度为2.5英里/小时。他打算每天徒步8小时，持续5天。他第一次携带多少磅的物资？。",
+  "topic": "回答下面的数学问题：A man loves to go hiking.  He knows that he has to pack about .5 pounds of supplies for every mile he hikes.  He plans to go for a very long hike.  He knows that he can get 1 resupply during the hike that will be 25% as large as his first pack.  He can hike at a rate of 2.5 mph.  He is going to hike 8 hours a day for 5 days.  How much does he need to bring with his first pack?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

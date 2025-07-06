@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ernie的收入是她以前的4/5，Jack的收入现在是Ernie以前的两倍。如果Ernie以前的收入是6000美元，他们两个的总收入是多少？。",
+  "topic": "回答下面的数学问题：Ernie's income is 4/5 of what it used to be and Jack's income is now twice what Ernie used to make. How much do they earn combined if Ernie used to make $6000?",
   "checkpoint": [
     {
-      "$\\boxed{16800}$": 1
+      "\\boxed{16800}": 1
     }
   ],
   "matchingmethod": [

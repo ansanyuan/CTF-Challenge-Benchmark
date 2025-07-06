@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在她学校举办的一个拼写比赛中，德鲁答对了20道题，赢得了比赛。她答错了6道题，而她的竞争对手卡拉答对了14道题，答错的题目数是德鲁答错题目数的两倍。如果每个参赛者被问了不同的问题，那么比赛中一共问了多少道题？。",
+  "topic": "回答下面的数学问题：In a spelling contest held in her school, Drew got 20 questions correct, winning her the competition. She got six questions wrong, and her competitor Carla got 14 questions correct, and twice as many questions wrong as the number of questions Drew got wrong. If each competitor was asked a different question, how many questions were asked in the competition?",
   "checkpoint": [
     {
-      "$\\boxed{52}$": 1
+      "\\boxed{52}": 1
     }
   ],
   "matchingmethod": [

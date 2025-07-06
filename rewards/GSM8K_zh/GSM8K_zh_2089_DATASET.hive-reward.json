@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sam要晚餐上意大利面和肉丸。 每盒意大利面1.00美元，一罐酱2.00美元，一磅肉丸5.00美元。 他希望这顿饭能分成8份。 每份饭的成本是多少？。",
+  "topic": "回答下面的数学问题：Sam is serving spaghetti and meatballs for dinner.  The pasta costs $1.00 per box, a jar of sauce is $2.00 and 1 pound of meatballs is $5.00.  He wants to stretch this meal into 8 servings.  How much does each serving cost?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

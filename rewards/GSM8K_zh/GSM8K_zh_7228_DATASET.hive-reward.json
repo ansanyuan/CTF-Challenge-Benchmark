@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伊丽莎白有20美元，想要买钢笔和铅笔。每支铅笔的价格是1.60美元，每支钢笔的价格是2美元。如果她想要买6支钢笔，她可以用她的20美元买多少支铅笔？。",
+  "topic": "回答下面的数学问题：Elizabeth has 20 dollars and wants to buy pens and pencils. Each pencil costs $1.60 and each pen cost 2 dollars. How many pencils can she buy with her 20 dollars if she wants 6 pens?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

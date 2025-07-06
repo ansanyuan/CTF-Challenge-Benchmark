@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在詹姆斯开始力量训练周期之前，他的力量举总数为245磅的体重下达到了2200磅。他设法在总数上增加了15%，体重增加了8磅。他的举重总数与体重的比值是多少？。",
+  "topic": "回答下面的数学问题：Before James starts the strength phase training of his cycle he has a powerlifting total of 2200 pounds at a bodyweight of 245 pounds.  He manages to gain 15% on his total and 8 pounds of body weight.  What is the ratio of his lifting total to bodyweight?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jill以每秒9英尺的速度上山，以每秒12英尺的速度下山。她跑上下一个900英尺的山坡需要多长时间？。",
+  "topic": "回答下面的数学问题：Jill can run up a hill at 9 feet/second and down a hill at 12 feet/second. How long does it take her to run up and down a 900 foot hill?",
   "checkpoint": [
     {
-      "$\\boxed{175}$": 1
+      "\\boxed{175}": 1
     }
   ],
   "matchingmethod": [

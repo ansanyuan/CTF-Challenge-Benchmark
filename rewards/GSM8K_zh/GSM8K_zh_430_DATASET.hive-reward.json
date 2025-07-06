@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校图书馆里有2300本不同的书。所有书的80%是英文的，但只有这些书中的60%是在本国出版的。有多少本英文书是在国外出版的？。",
+  "topic": "回答下面的数学问题：In the school's library, there are 2300 different books. 80% of all the books are in English, but only 60% of these books were published in the country. How many English-language books have been published outside the country?",
   "checkpoint": [
     {
-      "$\\boxed{736}$": 1
+      "\\boxed{736}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰刚开始看一部新节目。每集时长20分钟，总集数是每集分钟数的一半。如果他看完所有集数，约翰会花多少分钟来观看这个节目？。",
+  "topic": "回答下面的数学问题：John just started watching a new show.  Each episode is 20 minutes long, and there are half as many episodes in total as there are minutes per episode.  How many minutes will John spend watching the show if he watches every episode?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Justice家里有3盆蕨类植物，5盆棕榈树和7盆多肉植物。如果她想在家里总共有24盆植物，她还需要多少盆植物？。",
+  "topic": "回答下面的数学问题：Justice has 3 ferns, 5 palms, and 7 succulent plants in her house. If she wants a total of 24 plants in her home, how many more plants does she need?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

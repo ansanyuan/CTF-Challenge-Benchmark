@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rick举办了一场筹款活动，他正在计算还有谁欠钱。他在一张表上标记了每个人承诺捐款的金额，但忘记了有些人实际支付了多少。总共，每个人承诺捐款400美元，而Rick实际收到了285美元。莎莉、艾米、德里克和卡尔都还欠钱。莎莉和卡尔都欠相同的金额，艾米欠30美元，德里克欠的金额是艾米的一半。莎莉和卡尔各欠多少美元？。",
+  "topic": "回答下面的数学问题：Rick held a fundraiser and is figuring out who still owes money. He marked on a sheet how much everyone has promised to contribute, but he forgot to note how much some people had actually paid. Altogether, everyone has promised to contribute $400, and Rick has actually received $285.  Sally, Amy, Derek, and Carl all still owe money. Sally and Carl both owe equal amounts, Amy owes $30, and Derek owes half as much as Amy. How much, in dollars, do Sally and Carl each owe?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

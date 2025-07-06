@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Coral正在阅读一本长600页的书。她在第一周读了一半，第二周剩下的页面的30%。为了完成这本书，她第三周必须读多少页？。",
+  "topic": "回答下面的数学问题：Coral is reading a book that is 600 pages long.  She reads half of it in the first week, and 30 percent of the remaining pages the second week. How many pages must she read the third week in order to finish the book?",
   "checkpoint": [
     {
-      "$\\boxed{210}$": 1
+      "\\boxed{210}": 1
     }
   ],
   "matchingmethod": [

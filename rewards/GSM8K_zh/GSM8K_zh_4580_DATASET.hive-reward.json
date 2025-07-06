@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个窗户由8块玻璃板组成。每块玻璃板的长度为12英寸，宽度为8英寸。窗户的面积是多少？。",
+  "topic": "回答下面的数学问题：A window is made up of 8 glass panes. Each pane has a length of 12 inches and a width of 8 inches. What is the area of the window?",
   "checkpoint": [
     {
-      "$\\boxed{768}$": 1
+      "\\boxed{768}": 1
     }
   ],
   "matchingmethod": [

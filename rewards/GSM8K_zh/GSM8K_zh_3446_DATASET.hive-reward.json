@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在汉堡小屋，你可以买一个汉堡价值5美元，薯条价值3美元，软饮料价值3美元。如果你点一个特别的汉堡套餐，你可以得到这3种食物，价格是9.50美元。一个儿童汉堡是3美元，儿童薯条是2美元，儿童果汁盒是2美元。他们还有一个儿童套餐，包括这3种儿童食物，价格是5美元。帕克先生为他和他的妻子购买了2份汉堡套餐。他还为他的4个孩子购买了2份汉堡套餐和2份儿童套餐。相比购买单独的食物，帕克先生通过购买6份套餐节省了多少钱？。",
+  "topic": "回答下面的数学问题：At the burger hut, you can buy a burger for $5, french fries for $3, and a soft drink for $3.  If you order a special burger meal, you get all 3 of these food items for $9.50. A kid’s burger is $3, a kid’s french fries are $2, and a kid's juice box is $2.  They also have a kids meal of all 3 kids' food items for $5. Mr. Parker buys 2 burger meals for his wife and himself.  He also buys 2 burger meals and 2 kid's meals for his 4 children.  How much money does Mr. Parker save by buying the 6 meals versus buying the individual food items?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

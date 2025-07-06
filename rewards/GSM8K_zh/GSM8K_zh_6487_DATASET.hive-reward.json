@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特需要从家开车向东行驶30英里去看皮肤科医生，然后又需要向西行驶50英里回家去看妇科医生。如果她在同一天与两位医生都有预约，她开车去两个预约地点并返回家中，她需要使用多少加仑的汽油？假设她的汽车每加仑可以行驶20英里。。",
+  "topic": "回答下面的数学问题：Janet has to drive 30 miles east from home to see her dermatologist and 50 miles west from home to see her gynecologist. If she has appointments with both doctors on the same day, how many gallons of gas does she use driving to both appointments and back home again, if her car gets 20 miles per gallon?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

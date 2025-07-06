@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kiki为茶话会做了10份黄瓜三明治和8份鸡蛋三明治。每份黄瓜三明治被切成4个三角形。每份鸡蛋三明治被切成2个长方形。如果她的客人吃了28个三角形和12个长方形，他们一共吃了多少片面包？。",
+  "topic": "回答下面的数学问题：Kiki made 10 cucumber sandwiches and 8 egg sandwiches for the tea party.  Each cucumber sandwich was cut into 4 triangles.  Each egg sandwich was cut into 2 rectangles.  If her guests ate 28 triangles and 12 rectangles, how many slices of bread did they eat?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

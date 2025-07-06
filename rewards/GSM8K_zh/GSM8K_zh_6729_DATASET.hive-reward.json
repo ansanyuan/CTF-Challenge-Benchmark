@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔有42美元。他的兄弟有17美元。迈克尔把一半的钱给了他的兄弟。然后他的兄弟买了价值3美元的糖果。最后，他的兄弟有多少钱？。",
+  "topic": "回答下面的数学问题：Michael has $42. His brother has $17. Michael gives away half the money to his brother. His brother then buys 3 dollars worth of candy. How much money, in dollars, did his brother have in the end?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

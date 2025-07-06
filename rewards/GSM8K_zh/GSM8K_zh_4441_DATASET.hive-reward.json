@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sherry正在为义卖会做香蕉面包。她想做99个面包。她的食谱可以做3个面包的面糊。食谱需要1根香蕉。Sherry需要多少根香蕉？。",
+  "topic": "回答下面的数学问题：Sherry is making banana bread for a bake sale. She wants to make 99 loaves. Her recipe makes enough batter for 3 loaves. The recipe calls for 1 banana. How many bananas does Sherry need?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克带着100美元去了一家超市，买了4瓶水。然后他妈妈打电话给他，要求他买的瓶数是他已经买的两倍。每瓶水的价格是2美元。最后，他还买了半磅奶酪，1磅奶酪的价格是10美元。杰克剩下多少钱？。",
+  "topic": "回答下面的数学问题：Jack went to a supermarket with $100 and bought 4 bottles of water. Then his mother called him and asked him to buy twice as many bottles as he already bought. Each bottle cost $2. Finally, he also bought half a pound of cheese and 1 pound of cheese costs $10. How much money does Jack have remaining?",
   "checkpoint": [
     {
-      "$\\boxed{71}$": 1
+      "\\boxed{71}": 1
     }
   ],
   "matchingmethod": [

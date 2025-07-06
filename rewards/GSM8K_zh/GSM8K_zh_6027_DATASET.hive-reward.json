@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰买了3盒墨西哥卷饼。他把其中的三分之一送给了他的朋友。每盒有20个墨西哥卷饼。他连续吃了10天，每天吃3个卷饼。他还剩下多少个墨西哥卷饼？。",
+  "topic": "回答下面的数学问题：John buys 3 boxes of burritos.  He gives away a 3rd of them to his friend.  Each box has 20 burritos.  He eats 3 burritos per day for 10 days.  How many burritos does he have left?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

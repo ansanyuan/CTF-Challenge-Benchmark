@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮能在用完之前削5次铅笔。她需要每1.5小时使用一次铅笔。她已经有十支铅笔，需要写105小时。一支新铅笔的价格是2美元。她需要花多少钱购买更多的铅笔，以便能够写105小时？。",
+  "topic": "回答下面的数学问题：Jenine can sharpen a pencil 5 times before it runs out. She needs to sharpen a pencil for every 1.5 hours of use. She already has ten pencils and needs to write for 105 hours. A new pencil costs $2. How much does she need to spend on more pencils to be able to write for 105 hours?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

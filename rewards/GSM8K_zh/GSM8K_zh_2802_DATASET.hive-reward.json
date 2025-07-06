@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Borgnine想在动物园看到1100条腿。他已经看过12只黑猩猩、8只狮子和5只蜥蜴。接下来他要去看蜘蛛。他需要看多少只蜘蛛才能达到他的目标？。",
+  "topic": "回答下面的数学问题：Borgnine wants to see 1100 legs at the zoo. He has already seen 12 chimps, 8 lions, and 5 lizards. He is next headed to see the tarantulas. How many tarantulas does he need to see to meet his goal?",
   "checkpoint": [
     {
-      "$\\boxed{125}$": 1
+      "\\boxed{125}": 1
     }
   ],
   "matchingmethod": [

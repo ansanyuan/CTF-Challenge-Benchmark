@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hezekiah先生在某一天从他的商店派出了20辆卡车，向他家乡的不同农民供应化肥。每辆卡车装载了20吨袋装化肥。卡车出发两小时后，Hezekiah先生得知派出的卡车中有四分之一在路上发生了机械故障，无法将化肥送达农民。计算当天实际送达农民的化肥总吨数是多少？。",
+  "topic": "回答下面的数学问题：Mr Hezekiah had 20 trucks from his store supplying fertiliser to different farmers in his hometown dispatched for delivery on a particular day. Each truck was carrying 20 tons of fertiliser packed in bags. Two hours after the trucks had departed for delivery, Mr Hezekiah got the news that a quarter of the number of lorries dispatched for delivery had mechanical failures on the road and could not deliver the fertilisers to the farmers. Calculate the total number of tons of fertiliser that reached the farmers that day?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

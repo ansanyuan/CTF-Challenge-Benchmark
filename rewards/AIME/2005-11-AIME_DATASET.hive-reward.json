@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $m$ be a positive integer, and let $a_0, a_1,\\ldots,a_m$ be a sequence of reals such that $a_0 = 37, a_1 = 72, a_m = 0,$ and $a_{k+1} = a_{k-1} - \\frac 3{a_k}$ for $k = 1,2,\\ldots, m-1.$ Find $m.$",
   "checkpoint": [
     {
-      "$\\boxed{889}$": 1
+      "\\boxed{889}": 1
     }
   ],
   "matchingmethod": [

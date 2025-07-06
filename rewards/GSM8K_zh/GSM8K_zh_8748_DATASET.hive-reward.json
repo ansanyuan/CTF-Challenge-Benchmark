@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个家庭，包括父母和一个孩子去看电影。成人票的费用是12美元，儿童票是8美元。然后他们买了两个爆米花，每个3美元。他们总共支付了多少美元？。",
+  "topic": "回答下面的数学问题：A family of parents and a child go to the cinema. The cost of an adult ticket is $12 and a child ticket is $8. Then they buy 2 popcorns for $3 each. How many dollars do they pay in total?",
   "checkpoint": [
     {
-      "$\\boxed{38}$": 1
+      "\\boxed{38}": 1
     }
   ],
   "matchingmethod": [

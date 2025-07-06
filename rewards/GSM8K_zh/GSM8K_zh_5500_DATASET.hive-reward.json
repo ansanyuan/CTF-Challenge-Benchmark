@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格雷森以25英里/小时的速度驾驶摩托艇1小时，然后以20英里/小时的速度驾驶0.5小时。鲁迪以10英里/小时的速度划船3小时。与鲁迪相比，格雷森驾驶摩托艇比鲁迪多走了多少英里？。",
+  "topic": "回答下面的数学问题：Grayson drives a motorboat for 1 hour at 25 mph and then 0.5 hours for 20 mph. Rudy rows in his rowboat for 3 hours at 10 mph. How much farther, in miles, does Grayson go in his motorboat compared to Rudy?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

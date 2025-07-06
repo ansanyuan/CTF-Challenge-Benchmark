@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：桑迪购买了100万个Safe Moon代币。她有4个兄弟姐妹。她想留一半给自己，然后将剩下的代币分给她的兄弟姐妹。在分配后，她比任何一个兄弟姐妹多多少个代币？。",
+  "topic": "回答下面的数学问题：Sandy bought 1 million Safe Moon tokens. She has 4 siblings. She wants to keep half of them to herself and divide the remaining tokens among her siblings. After splitting it up, how many more tokens will she have than any of her siblings?",
   "checkpoint": [
     {
-      "$\\boxed{375000}$": 1
+      "\\boxed{375000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校商店的铅笔打折销售。十名学生购买了铅笔。前两名学生每人买了2支铅笔。接下来的六名学生每人买了三支铅笔，最后两名学生每人只买了一支铅笔。一共卖出了多少支铅笔？。",
+  "topic": "回答下面的数学问题：The school store had a sale on pencils. Ten students bought pencils. The first two students bought 2 pencils each. The next six students bought three pencils each and the last two students only bought one pencil each. How many pencils were sold?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

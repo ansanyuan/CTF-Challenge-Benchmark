@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉姆用2小时跑了16英里，而弗兰克用2小时跑了20英里。弗兰克比吉姆每小时多跑了多少英里？。",
+  "topic": "回答下面的数学问题：Jim ran 16 miles in 2 hours while Frank ran 20 miles in 2 hours. How many more miles did Frank run than Jim in an hour?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

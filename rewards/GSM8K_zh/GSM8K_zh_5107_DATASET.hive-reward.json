@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克莱德和格蕾丝正在搭积木塔。格蕾丝的塔高是克莱德的8倍，为40英寸。格蕾丝的塔比克莱德的塔高多少英寸？。",
+  "topic": "回答下面的数学问题：Clyde and Grace are building block towers. Grace’s tower is 8 times the size of Clyde’s at 40 inches tall. How many inches taller is Grace’s tower than Clyde’s?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

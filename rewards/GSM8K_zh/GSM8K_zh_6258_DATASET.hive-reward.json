@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Droid拥有一家咖啡店。他每天早上使用3袋咖啡豆，下午使用的数量是早上的三倍，晚上使用的数量是早上的两倍。他每周使用多少袋咖啡豆？。",
+  "topic": "回答下面的数学问题：Droid owns a coffee shop. He uses 3 bags of coffee beans every morning, he uses triple that number in the afternoon than in the morning, and he uses twice the morning number in the evening. How many bags of coffee beans does he use every week?",
   "checkpoint": [
     {
-      "$\\boxed{126}$": 1
+      "\\boxed{126}": 1
     }
   ],
   "matchingmethod": [

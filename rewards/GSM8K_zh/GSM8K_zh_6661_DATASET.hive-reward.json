@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯在学校的食堂发起了一场食物战，学校管理部门要求他以最低工资（8美元）来偿还他浪费的所有食物的成本。詹姆斯必须支付浪费的20磅肉的费用，每磅5美元；15磅水果和蔬菜的费用，每磅4美元；60磅面包制品的费用，每磅1.50美元；以及10小时的加班费给清洁工，他们通常每小时赚10美元。詹姆斯需要工作多少小时来支付所有费用？。",
+  "topic": "回答下面的数学问题：James started a food fight in his school's cafeteria, and the school administration is making him work off the cost of all the food he wasted at minimum wage ($8). James has to pay for 20 wasted pounds of meat at $5/pound, 15 wasted pounds of fruits and vegetables at $4/pound, 60 wasted pounds of bread products at $1.50/pound, and 10 hours of time-and-a-half pay for the janitorial staff, who normally make $10/hour. How many hours will James have to work to pay for everything?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

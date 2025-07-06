@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡尔正在为他的新业务举办一个开放日。他知道会有50个人出现，并希望另外40个人会随机出现。他为前10个参观他店铺的人准备了10个豪华礼品袋。他为20个人准备了普通礼品袋，但需要为所有参观者准备足够的礼品袋。他还需要制作多少个礼品袋？。",
+  "topic": "回答下面的数学问题：Carl is hosting an open house for his new business.  He knows 50 people will show up and hopes that another 40 people will randomly show up.  He’s created 10 extravagant gift bags for the first 10 people who visit his shop.  He’s made average gift bags for 20 people but needs to make enough for everyone who visits to have one.  How many more bags does he need to make?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

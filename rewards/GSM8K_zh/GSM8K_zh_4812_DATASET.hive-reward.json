@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在剧院里有100个人。如果这些人中有19个人有蓝色的眼睛，一半的人有棕色的眼睛，四分之一的人有黑色的眼睛，其余的人有绿色的眼睛，那么有多少人有绿色的眼睛？。",
+  "topic": "回答下面的数学问题：There are 100 people in a theater. If 19 of these people have blue eyes, half of them have brown eyes, a quarter have black eyes, and the rest have green eyes, how many of them have green eyes?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

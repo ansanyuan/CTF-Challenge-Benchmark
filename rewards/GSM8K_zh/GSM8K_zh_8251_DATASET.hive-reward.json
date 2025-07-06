@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克决定他想用数字版本替换他的电影收藏。他有600部电影。三分之一的电影是各种系列电影，他知道他只需购买整个系列，就可以用正常电影成本的6美元来获得这些电影。剩余电影中有40%是老电影，每部5美元。如果一部普通电影的成本是10美元，那么替换这些电影的成本是多少？。",
+  "topic": "回答下面的数学问题：Mike decides he wants to replace his movie collection with digital versions.  He has 600 movies.  A third of the movies are in various series and he knows he can get those for only $6 of the cost of a normal movie by just buying the series together.  40% of the remaining movies are older movies which are $5.  How much does replacing the movies cost if a normal movie costs $10?",
   "checkpoint": [
     {
-      "$\\boxed{4400}$": 1
+      "\\boxed{4400}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marcia的头发在学年初是24英寸长。她剪掉了一半的头发，让头发再长4英寸。然后她又剪掉了2英寸的头发。她的头发有多长？。",
+  "topic": "回答下面的数学问题：Marcia's hair is 24\" long at the beginning of the school year.  She cuts half of her hair off and lets it grow out 4 more inches.  She then cuts off another 2\" of hair.  How long is her hair?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

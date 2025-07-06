@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：上周，阿曼以每小时10美元的工资工作了5天，共计35小时。本周，如果他能工作40小时，他的时薪将增加0.5美元。假设他本周能工作40小时，阿曼连续工作两周将获得多少报酬？。",
+  "topic": "回答下面的数学问题：Last week, Arman worked 35 hours for 5 days at $10 per hour. This week, he will receive an increase of $0.5 per hour if he can work for 40 hours. Suppose he can work for 40 hours this week, how much will Arman receive for working two weeks?",
   "checkpoint": [
     {
-      "$\\boxed{770}$": 1
+      "\\boxed{770}": 1
     }
   ],
   "matchingmethod": [

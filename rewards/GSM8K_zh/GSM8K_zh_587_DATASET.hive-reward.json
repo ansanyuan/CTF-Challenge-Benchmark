@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈维和他的朋友山姆决定在学校的田径场上进行一场赛跑，看看谁更擅长跑步。在比赛中，哈维比他的朋友山姆多跑了8英里，而山姆总共跑了12英里。计算两位朋友一共跑了多少英里。。",
+  "topic": "回答下面的数学问题：Harvey and his friend Sam decided to run a footrace in their school track field to see who was better at running. While at it, Harvey runs 8 miles more than his friend Sam, who runs a total of 12 miles. Calculate the total number of miles the two friends run together.",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

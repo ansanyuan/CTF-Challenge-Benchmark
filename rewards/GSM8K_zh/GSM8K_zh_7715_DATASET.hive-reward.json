@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：多莉有两本书。潘多拉有一本。如果多莉和潘多拉互相阅读对方的书以及自己的书，那么最后他们总共会读多少本书？。",
+  "topic": "回答下面的数学问题：Dolly has two books. Pandora has one. If both Dolly and Pandora read each others' books as well as their own, how many books will they collectively read by the end?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

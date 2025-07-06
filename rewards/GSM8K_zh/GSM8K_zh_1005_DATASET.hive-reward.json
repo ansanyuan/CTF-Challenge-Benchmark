@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kamil想要翻新家里的厨房。为此，他雇了两名专业人士，他们每天为他工作6小时，共工作7天。如果其中一名专业人士每小时工作的报酬是15美元，那么雇佣这些专业人士对Kamil的费用是多少？。",
+  "topic": "回答下面的数学问题：Kamil wants to renovate his kitchen at home. For this purpose, he hired two professionals who work for him 6 hours a day for 7 days. What does it cost Kamil to hire these professionals if one of them is paid $15 per hour of work?",
   "checkpoint": [
     {
-      "$\\boxed{1260}$": 1
+      "\\boxed{1260}": 1
     }
   ],
   "matchingmethod": [

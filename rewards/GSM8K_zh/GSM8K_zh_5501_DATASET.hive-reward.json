@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Perry想要购买一套新的现代卧室套装，价格为2000美元。他在假期收到了价值200美元的礼品卡，可以用来购买这套套装。商店目前提供整套套装85折的优惠。如果他申请商店信用卡并用它购买套装，他还可以在打折后再额外享受10%的折扣。这套套装的最终价格是多少？。",
+  "topic": "回答下面的数学问题：Perry wants to buy a new modern bedroom set for $2000.  He received $200.00 in gift cards over the holidays that he can use toward the set.  The store is currently offering the entire set at 15% off.  If he signs up for the store credit card and uses it to buy the set, he will save an additional 10% off on the discounted set.  What is the final price of the set?",
   "checkpoint": [
     {
-      "$\\boxed{1330}$": 1
+      "\\boxed{1330}": 1
     }
   ],
   "matchingmethod": [

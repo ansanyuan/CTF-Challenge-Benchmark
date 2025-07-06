@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克劳迪娅有122盎司的水，正在倒水到杯子里。她有8盎司杯子，5盎司杯子和4盎司杯子。如果她用了六个5盎司杯和四个8盎司杯，她剩下的水可以倒满多少个4盎司杯？。",
+  "topic": "回答下面的数学问题：Claudia has 122 ounces of water and is filling up cups. She has 8-ounce glasses, 5-ounce glasses, and 4-ounce glasses. If she fills six 5 ounce glasses and four 8 ounce glasses, how many 4 ounce glasses can she fill with the remaining water?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

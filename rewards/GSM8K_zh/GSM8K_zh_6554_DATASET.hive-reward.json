@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Elois需要4根香蕉来做1条香蕉面包。周一，她做了3条香蕉面包。周二，她做的香蕉面包是周一的两倍。她做所有香蕉面包用了多少根香蕉？。",
+  "topic": "回答下面的数学问题：Elois needs 4 bananas to make 1 loaf of banana bread.  On Monday, she makes 3 loaves of banana bread.  On Tuesday, she makes twice as many loaves of banana bread as Monday.  How many bananas did she use to make all the banana bread?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

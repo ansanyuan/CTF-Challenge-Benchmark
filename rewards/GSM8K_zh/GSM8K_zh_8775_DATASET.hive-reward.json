@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：兰迪有9块燕麦饼干，4块巧克力碎片饼干和5块糖饼干。他早些时候吃了3块饼干，每种口味各一块。午餐时他又吃了2块燕麦饼干。他给朋友们了2块糖饼干。然后，晚餐时他又烤了每种口味的4块饼干。现在他有多少块饼干？。",
+  "topic": "回答下面的数学问题：Randy has 9 oatmeal cookies, 4 chocolate chip cookies, and 5 sugar cookies. He ate 3 cookies for an early day snack, one of each flavor. He ate 2 oatmeal cookies for lunch. He gives 2 sugar cookies to his friends. Then, he bakes 4 of each flavor for dinner. How many cookies does he have now?",
   "checkpoint": [
     {
-      "$\\boxed{23}$": 1
+      "\\boxed{23}": 1
     }
   ],
   "matchingmethod": [

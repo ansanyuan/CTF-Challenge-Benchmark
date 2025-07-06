@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tabitha有25美元。她给了妈妈8美元，并投资了剩下的一半在货币市场。她花了一些钱买了5件每件50美分的物品。Tabitha还剩多少钱？。",
+  "topic": "回答下面的数学问题：Tabitha has 25 dollars. She gives her mom 8 dollars and invests half what is left in a money market. She spends some money on 5 items that costs 50 cents each. How much money does Tabitha have left?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

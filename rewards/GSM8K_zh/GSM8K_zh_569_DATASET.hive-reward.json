@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰支付了抚养一个孩子成本的一半。孩子的前8年每年花费1万美元，然后每年的费用翻倍，直到孩子18岁。大学学费是25万美元。总共花了多少钱？。",
+  "topic": "回答下面的数学问题：John pays for half the cost of raising a child.  It cost $10,000 a year for the first 8 years and then twice that much per year until the child is 18.  University tuition then costs $250,000.  How much did it cost?",
   "checkpoint": [
     {
-      "$\\boxed{265000}$": 1
+      "\\boxed{265000}": 1
     }
   ],
   "matchingmethod": [

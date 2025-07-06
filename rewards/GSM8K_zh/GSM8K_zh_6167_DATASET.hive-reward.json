@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两只刺猬找到了三个篮子，每个篮子里有900个草莓。然后两只刺猬各吃了相等数量的草莓。如果所有草莓中有2/9剩下，计算每只刺猬总共吃了多少草莓。。",
+  "topic": "回答下面的数学问题：Two hedgehogs found three baskets, each with 900 strawberries. The hedgehogs then each ate an equal number of strawberries. If 2/9 of the strawberries were remaining out of all the strawberries that were there, calculate the total number of strawberries that each hedgehog ate.",
   "checkpoint": [
     {
-      "$\\boxed{1050}$": 1
+      "\\boxed{1050}": 1
     }
   ],
   "matchingmethod": [

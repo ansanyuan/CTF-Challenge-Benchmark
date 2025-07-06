@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家糖果店以每磅2.50美元的价格出售了20磅的软糖，以每个1.50美元的价格出售了5打巧克力松露，以每个2.00美元的价格出售了3打巧克力覆盖的椒盐棒。这家糖果店赚了多少钱？。",
+  "topic": "回答下面的数学问题：A candy store sold 20 pounds of fudge for $2.50/pound, 5 dozen chocolate truffles for $1.50 each and 3 dozen chocolate-covered pretzels at $2.00 each.  How much money did the candy store make?",
   "checkpoint": [
     {
-      "$\\boxed{212}$": 1
+      "\\boxed{212}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：热带风暴莎莉给德克萨斯南部带来了3天的降雨。第一天下了4英寸的雨。第二天下了第一天的5倍，第三天下了比前两天的总和少6英寸。第三天下了多少英寸的雨？。",
+  "topic": "回答下面的数学问题：Tropical Storm Sally brings 3 days of rain to southern Texas.  The first day it rained 4 inches.  The second day it rained 5 times as much as the first day, and the third day it rained 6 inches less than the sum of the first two days.  How much did it rain on the third day?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

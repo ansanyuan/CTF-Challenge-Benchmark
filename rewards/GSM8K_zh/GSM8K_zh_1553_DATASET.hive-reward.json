@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lauryn拥有一家雇佣男性和女性在公司不同职位的电脑公司。如果Lauryn雇佣了180人，那么他雇佣了多少男性，如果男性的数量比女性少20人？。",
+  "topic": "回答下面的数学问题：Lauryn owns a computer company that employs men and women in different positions in the company. How many men does he employ if there are 20 fewer men than women and 180 people working for Lauryn?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

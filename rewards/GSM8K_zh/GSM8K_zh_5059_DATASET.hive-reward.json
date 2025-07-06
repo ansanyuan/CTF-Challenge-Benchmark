@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校每年都会进行植树活动。今年，四年级学生共种植了30棵树，而五年级学生种植的树是四年级的两倍。六年级学生种植的树比五年级学生种植的树的三倍少30棵。他们总共种植了多少棵树？。",
+  "topic": "回答下面的数学问题：A school does a yearly tree planting activity. This year, the 4th graders planted a total of 30 trees while 5th graders planted twice as many. The 6th graders planted 30 fewer than thrice the number of trees planted by the 5th graders. How many trees did they plant altogether?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Vaishali有4顶帽子，每顶帽子上有三条条纹。她还有三顶带有四条条纹的帽子，六顶没有条纹的帽子，还有另外两顶带有五条条纹的帽子。Vaishali所有帽子上的条纹总数是多少？。",
+  "topic": "回答下面的数学问题：Vaishali has 4 hats, each with three stripes.  She also has three hats with four stripes each, six hats with no stripes, and another two hats with 5 stripes each.  What is the combined total number of stripes Vaishali has on all of her hats?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

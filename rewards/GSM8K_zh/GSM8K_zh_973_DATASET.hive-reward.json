@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：电梯在第9层。它下降了7层，然后上升了3层，然后上升了8层。如果电梯在顶层，建筑物有多少层？。",
+  "topic": "回答下面的数学问题：An elevator is on the 9th floor. It goes down 7 floors, then up 3  floors, then up 8 floors. If the elevator is on the top floor, how many floors are there in the building?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

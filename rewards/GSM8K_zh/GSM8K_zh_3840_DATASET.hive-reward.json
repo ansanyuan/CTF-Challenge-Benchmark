@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Quentavious有5个镍币。他的朋友给了他一些口香糖，每个镍币可以换两块口香糖。如果Quentavious带着2个镍币离开，他得到了多少块口香糖？。",
+  "topic": "回答下面的数学问题：Quentavious has 5 nickels. His friend offers him some gum and will give him two pieces per nickel. If Quentavious leaves with 2 nickels, how many pieces of gum did he get?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

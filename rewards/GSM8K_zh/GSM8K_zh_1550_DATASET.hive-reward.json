@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅兰妮在农贸市场做每周的购物。她首先买了一个8盎司的布里奶酪。接下来是一磅的面包。她买了一磅的番茄和两磅的西葫芦。之后，她买了1.5磅的鸡胸肉，并给自己买了8盎司的新鲜覆盆子和8盎司的新鲜蓝莓。她总共买了多少磅的食物？。",
+  "topic": "回答下面的数学问题：Melanie does her weekly shopping at the farmer's market.  She starts with an 8-ounce wheel of brie cheese.  Next is a 1 pound loaf of bread.  She grabs a pound of tomatoes and 2 pounds of zucchini.  After that, she grabs 1 1/2 pounds of chicken breasts and treats herself to 8 ounces of fresh raspberries and 8 ounces of fresh blueberries.  How many pounds of food does she buy?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛蒂尔达买了一部手机花了300美元。然后她决定她不会使用它，以255美元的价格卖掉了。她损失了初始成本的百分之多少？。",
+  "topic": "回答下面的数学问题：Matilda bought a smartphone for $300. Then she decided she wouldn't use it anyway and sold it for $255. What percentage of the initial cost did she lose?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

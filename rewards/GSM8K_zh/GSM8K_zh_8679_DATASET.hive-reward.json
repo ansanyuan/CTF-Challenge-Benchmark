@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bernie有4条狗。它们每天都需要一定量的运动。第一条需要走1英里。第二条需要走4英里。第三条需要走3英里。平均来说，它们每天需要走3英里。最后一条狗需要走多少英里？。",
+  "topic": "回答下面的数学问题：Bernie has 4 dogs. They each need a certain amount of exercise per day. The first needs to walk 1 mile. The second needs to walk 4 miles. The third needs to walk 3 miles. On average, they need to walk 3 miles per day. How many miles does the last dog need?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

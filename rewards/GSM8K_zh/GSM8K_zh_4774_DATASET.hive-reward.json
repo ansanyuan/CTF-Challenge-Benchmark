@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：医院有11名医生和18名护士。如果有5名医生和2名护士离职，还剩下多少名医生和护士？。",
+  "topic": "回答下面的数学问题：The hospital has 11 doctors and 18 nurses. If 5 doctors and 2 nurses quit, how many doctors and nurses are left?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

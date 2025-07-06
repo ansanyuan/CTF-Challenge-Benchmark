@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰买了一副耳机，价格为200美元。如果税率为15%，税后他支付了多少钱？。",
+  "topic": "回答下面的数学问题：John buys a pair of earbuds that cost $200.  If tax was 15%, how much did he pay after tax?",
   "checkpoint": [
     {
-      "$\\boxed{230}$": 1
+      "\\boxed{230}": 1
     }
   ],
   "matchingmethod": [

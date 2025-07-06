@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在早上8点，有5000人在一个投票站排队等着在选举日投票。到中午时，2/5的人已经投票了，到下午4点时，剩余人数中有2/3的人已经投票了。到下午4点时，还有多少人没有投票？。",
+  "topic": "回答下面的数学问题：At 8:00, 5000 people lined up at a polling station to cast their vote on election day. By midday 2/5 of the people had voted and by 16:00 2/3 of the remaining people had voted. What's the number of those who had not voted by 16:00?",
   "checkpoint": [
     {
-      "$\\boxed{1000}$": 1
+      "\\boxed{1000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bogan为她的宠物甲壳虫摆出了10只蛆。甲壳虫只吃了1只，Bogan不得不扔掉剩下的。当天晚些时候，她再次尝试喂食，甲壳虫吃了3只。如果Bogan总共提供了20只蛆，她第二次尝试喂食时提供了多少只蛆？。",
+  "topic": "回答下面的数学问题：Bogan laid out 10 maggots for her pet beetle. The beetle only ate 1 and Bogan had to throw out the rest. Later that day, she tried feeding again and the beetle ate 3. If Bogan served 20 maggots in total, how many did she attempt to feed the beetle the second time?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

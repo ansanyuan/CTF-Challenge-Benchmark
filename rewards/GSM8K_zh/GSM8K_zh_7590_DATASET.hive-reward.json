@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Katy按照糖和水的比例7:13制作咖啡。如果她总共使用了120茶匙的糖和水，计算她使用了多少茶匙的糖。。",
+  "topic": "回答下面的数学问题：Katy makes coffee using teaspoons of sugar and cups of water in the ratio of 7:13. If she used a total of 120 teaspoons of sugar and cups of water, calculate the number of teaspoonfuls of sugar she used.",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

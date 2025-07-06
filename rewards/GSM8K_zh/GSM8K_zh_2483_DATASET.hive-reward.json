@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍娜正在给她的毕业舞会礼服做褶边。礼服的褶边长3英尺。珍娜每做一针的长度是1/4英寸。如果珍娜每分钟做24针，她需要多少分钟来完成礼服的褶边？。",
+  "topic": "回答下面的数学问题：Jenna is hemming her prom dress. The dress's hem is 3 feet long. Each stitch Jenna makes is 1/4 inch long. If Jenna makes 24 stitches per minute, how many minutes does it take Jenna to hem her dress?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

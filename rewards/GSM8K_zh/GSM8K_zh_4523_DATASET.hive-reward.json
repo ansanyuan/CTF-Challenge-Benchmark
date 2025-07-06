@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：蒂姆拥有出租物业。他决定更换所有的锁，并需要为每把锁配备3把钥匙。他拥有两个公寓大楼，每个大楼有12套公寓。他需要制作多少把钥匙？。",
+  "topic": "回答下面的数学问题：Tim owns rental properties.  He decides to replace all the locks and needs to get 3 keys per lock.  He owns two apartment complexes which each have 12 apartments.  How many keys does he need to make?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

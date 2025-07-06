@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆找到了10个25美分的硬币，3个10美分的硬币，4个5美分的硬币和200个1美分的硬币。用美元表示，他找到了多少钱？。",
+  "topic": "回答下面的数学问题：Tom finds 10 quarters, 3 dimes, and 4 nickels and 200 pennies. In dollars, how much money did he find?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

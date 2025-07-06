@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bob正在耕种他的花园。这块地110英尺宽，120英尺长。他的耕耘机每次耕作的宽度为2英尺，他可以在大约2秒内耕作1英尺的土地。他要耕整块地需要多长时间，以分钟为单位？。",
+  "topic": "回答下面的数学问题：Bob is tilling a plot of his garden. The plot is 110 feet wide by 120 feet long. His tiller digs a swath two feet wide, and he can till 1 foot of ground in about 2 seconds. How long will it take him to till this plot of land, in minutes?",
   "checkpoint": [
     {
-      "$\\boxed{220}$": 1
+      "\\boxed{220}": 1
     }
   ],
   "matchingmethod": [

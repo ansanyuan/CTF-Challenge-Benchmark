@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Trace有五个购物袋，它们的重量与Gordon的两个购物袋相同。Gordon的一个购物袋重3磅，另一个重7磅。Trace的购物袋都重量相同。Trace的一个购物袋重多少磅？。",
+  "topic": "回答下面的数学问题：Trace has five shopping bags that weigh the same amount as Gordon’s two shopping bags. One of Gordon’s shopping bags weighs three pounds and the other weighs seven. Trace’s shopping bags all weigh the same amount. How many pounds does one of Trace’s bags weigh?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

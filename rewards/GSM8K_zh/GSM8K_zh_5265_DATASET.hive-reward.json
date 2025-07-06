@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了教堂筹款活动，朱莉娅每天烤了少于5个蛋糕，一共烤了6天。不幸的是，每隔一天，朱莉娅的弟弟克利福德会悄悄溜进朱莉娅的房子，吃掉一个蛋糕。6天结束时，朱莉娅还剩下多少个蛋糕？。",
+  "topic": "回答下面的数学问题：In preparation for the church fundraiser, Julia bakes one less than 5 cakes per day for 6 days.  Unfortunately, every other day, Julia's brother, Clifford, sneaks into Julia's house and eats one of Julia's cakes.  At the end of 6 days, how many cakes does Julia have remaining?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

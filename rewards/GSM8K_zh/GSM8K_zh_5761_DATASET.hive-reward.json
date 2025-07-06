@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：商店正在举行周年庆促销。一桶冰淇淋的价格比原价12美元便宜2美元，果汁以5罐2美元的价格出售。如果你买了两桶冰淇淋和10罐果汁，你将支付多少钱？。",
+  "topic": "回答下面的数学问题：A store is having an anniversary sale. A tub of ice cream costs $2 less than its original price of $12 and the juice is sold at $2 for 5 cans. How much will you pay if you buy two tubs of ice cream and 10 cans of juice?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

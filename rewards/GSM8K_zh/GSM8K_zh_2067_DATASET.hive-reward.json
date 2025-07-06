@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家餐厅在一天内举办了一场筹款活动，他们承诺每位顾客捐款10美元，餐厅将捐赠2美元。平均每位顾客捐款3美元，那天有40位顾客。餐厅捐赠了多少钱？。",
+  "topic": "回答下面的数学问题：A restaurant is offering a fundraiser one day where they donate $2 for every $10  donated by customers. The average customer donates 3 and there are 40 customers that day. How much does the restaurant donate?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

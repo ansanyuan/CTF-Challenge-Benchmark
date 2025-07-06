@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：沃尔特从商店买了60个苹果。他吃掉了2/5，然后又给了他妹妹剩下的25%。如果他随后以每个3美元的价格把剩下的苹果卖给了他的叔叔，他收到了多少钱？。",
+  "topic": "回答下面的数学问题：Walter bought 60 apples from the store. He ate 2/5 of them and gave his sister 25% of the remaining number. If he then sold the remaining apples to his uncle at $3 each, how much money did he receive?",
   "checkpoint": [
     {
-      "$\\boxed{81}$": 1
+      "\\boxed{81}": 1
     }
   ],
   "matchingmethod": [

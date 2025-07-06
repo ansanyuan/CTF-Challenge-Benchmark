@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Donna试图弄清楚她的卡车是否超过了特定桥梁的重量限制。这座桥可以承受20000磅的重量。Donna的空车重12000磅。她装载了20箱每箱重50磅的苏打水，3台每台重3000磅的烘干机，以及新鲜农产品的重量是苏打水的两倍。Donna的满载卡车重多少磅？。",
+  "topic": "回答下面的数学问题：Donna is trying to figure out if her truck is over a particular bridge's weight limit. The bridge can hold 20,000 pounds. Donna's empty truck weighs 12,000 pounds. She's carrying 20 crates of soda that each weigh 50 pounds, 3 dryers that each weigh 3000 pounds, and twice as much weight in fresh produce as in soda. How much does Donna's fully loaded truck weigh?",
   "checkpoint": [
     {
-      "$\\boxed{24000}$": 1
+      "\\boxed{24000}": 1
     }
   ],
   "matchingmethod": [

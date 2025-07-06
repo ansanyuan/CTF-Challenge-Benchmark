@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：今天杂货店的买家比昨天多了40人。昨天的买家数量是前一天的一半，前一天有50名买家。没有人在同一天访问了商店。在这三天里访问商店的买家总数是多少？。",
+  "topic": "回答下面的数学问题：There are 40 more buyers in the grocery store today than yesterday. There were half the number of buyers yesterday as there were the day before, and the day before had 50 buyers. Nobody visited the store on more than one day. What's the total number of buyers who've visited the store in the three days?",
   "checkpoint": [
     {
-      "$\\boxed{140}$": 1
+      "\\boxed{140}": 1
     }
   ],
   "matchingmethod": [

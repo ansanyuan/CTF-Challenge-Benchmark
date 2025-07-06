@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特正在收集赫伯特·胡佛小学年度标准化考试的结果。500名三年级学生中有340名通过了考试，100名四年级学生中有40名通过了考试。400名五年级学生的通过率是四年级通过率的两倍。这所学校的总体通过率是多少？。",
+  "topic": "回答下面的数学问题：Janet is collecting the results of Herbert Hoover Elementary School's annual standardized test. 340 out of 500 third-graders passed, along with 40 out of 100 fourth graders. The 400 fifth graders had a pass rate that was twice the fourth grades' pass rate. What is the school's overall pass rate?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

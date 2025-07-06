@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安正在烘烤饼干。她烤了三打燕麦葡萄干饼干，两打糖饼干和四打巧克力片饼干。安送出了两打燕麦葡萄干饼干，1.5打糖饼干和2.5打巧克力片饼干。她留下了多少个饼干？。",
+  "topic": "回答下面的数学问题：Ann is baking cookies. She bakes three dozen oatmeal raisin cookies, two dozen sugar cookies, and four dozen chocolate chip cookies. Ann gives away two dozen oatmeal raisin cookies, 1.5 dozen sugar cookies, and 2.5 dozen chocolate chip cookies. How many total cookies does she keep?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

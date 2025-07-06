@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三只蜗牛在雨淋湿的人行道上比赛。第一只蜗牛的速度为每分钟2英尺。第二只蜗牛的速度是第一只蜗牛的两倍。第三只蜗牛的速度是第二只蜗牛的五倍。如果第一只蜗牛花了20分钟才跑完整条人行道，第三只蜗牛需要多长时间（以分钟为单位）才能跑完整条人行道？。",
+  "topic": "回答下面的数学问题：Three snails raced across a rain-soaked sidewalk.  The first snail raced at a speed of 2 feet per minute.  The second snail raced at twice the speed of the first snail.  And the third snail traveled at five times the rate of speed as the second snail.  If it took the first snail 20 minutes to race all the way up the sidewalk, how long, in minutes, did it take for the third snail to race all the way up the sidewalk?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

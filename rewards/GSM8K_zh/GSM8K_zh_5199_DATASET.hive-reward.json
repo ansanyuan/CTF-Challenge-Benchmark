@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lisa正在收集袜子捐赠给无家可归者收容所。她在一家折扣店买了12双袜子。她的朋友桑德拉过来，带了20双袜子。她的表弟带来了桑德拉买的袜子数量的五分之一。下班后，Lisa的妈妈带来了比Lisa开始买的数量的三倍多8双袜子。Lisa最终有多少双袜子？。",
+  "topic": "回答下面的数学问题：Lisa was collecting socks to donate to a homeless shelter. She bought 12 pairs at a discount store. Sandra, her friend, came over and brought her 20 pairs of socks. Her cousin showed up with one-fifth the number of pairs that Sandra bought. After work, Lisa’s mom brought 8 more than three times the number of pairs Lisa started with. How many pairs of socks did Lisa end up with?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

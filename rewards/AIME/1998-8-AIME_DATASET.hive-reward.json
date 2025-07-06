@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Except for the first two terms, each term of the sequence $1000, x, 1000 - x,\\ldots$ is obtained by subtracting the preceding term from the one before that.  The last term of the sequence is the first negative term encountered.  What positive integer $x$ produces a sequence of maximum length?",
   "checkpoint": [
     {
-      "$\\boxed{618}$": 1
+      "\\boxed{618}": 1
     }
   ],
   "matchingmethod": [

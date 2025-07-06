@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Daragh有20只填充玩具熊。她拿出了她最喜欢的8只熊，然后将其他熊平均分给了她的3个姐妹。Daragh最小的妹妹伊甸已经有10只填充玩具熊。现在伊甸有多少只填充玩具熊？。",
+  "topic": "回答下面的数学问题：Daragh had 20 stuffed bears. She took out her favorite 8 bears and then equally divided the other bears among her 3 sisters. Daragh's youngest sister, Eden, already had 10 stuffed bears. How many stuffed bears does Eden have now?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

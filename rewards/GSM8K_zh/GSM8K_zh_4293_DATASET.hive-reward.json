@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔丹和佩里在周一早上乘船去湖上钓鱼。乔丹钓到4条鱼，佩里钓到乔丹的两倍。在返回岸边的路上，船翻了，他们损失了总钓到的鱼的四分之一。剩下多少条鱼？。",
+  "topic": "回答下面的数学问题：Jordan and Perry took a boat out to the lake to go fishing on a Monday morning. Jordan caught 4 fish and Perry caught double what Jordan caught. On the way back to shore, the boat tipped over and they lost one-fourth of their total catch. How many fish remain?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

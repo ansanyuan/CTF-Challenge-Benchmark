@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jonessa的工资的10%用于缴税。如果她的工资是500美元，她的实发工资是多少？。",
+  "topic": "回答下面的数学问题：Ten percent of Jonessa's pay goes to paying tax. If her pay is $500, how much is her take-home pay?",
   "checkpoint": [
     {
-      "$\\boxed{450}$": 1
+      "\\boxed{450}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：商店在店内的任何商品上每10美元购买可享受2美元的折扣。卡塔莱娅去商店买了400个每个卖40美分的桃子。计算她在商店购买水果的总金额。。",
+  "topic": "回答下面的数学问题：A store offers a $2 discount for every $10 purchase on any item in the store. Kataleya went to the store and bought 400 peaches sold at forty cents each. Calculate the total amount of money she paid at the store for the fruits.",
   "checkpoint": [
     {
-      "$\\boxed{128}$": 1
+      "\\boxed{128}": 1
     }
   ],
   "matchingmethod": [

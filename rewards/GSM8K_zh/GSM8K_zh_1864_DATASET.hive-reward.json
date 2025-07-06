@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：埃德蒙顿位于雷德迪尔以北220公里。卡尔加里位于雷德迪尔以南110公里。如果以每小时110公里的速度行驶，从埃德蒙顿到卡尔加里需要多长时间？。",
+  "topic": "回答下面的数学问题：Edmonton is 220 kilometers north of Red Deer. Calgary is 110 kilometers south of Red Deer. If you travel at 110 kilometers per hour, how long will it take to get from Edmonton to Calgary?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

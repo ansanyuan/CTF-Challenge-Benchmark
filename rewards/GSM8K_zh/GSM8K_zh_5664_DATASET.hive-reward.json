@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：修剪草坪的费用是每小时14美元。大卫每天修剪2小时，一周7天。然后他用修剪草坪赚的钱的一半买了一双鞋，并把剩下的一半给了他妈妈。他还剩下多少钱？。",
+  "topic": "回答下面的数学问题：The rate for mowing a lawn is $14 per hour. David mowed for 2 hours a day for a week. He then spent half of the money he made from mowing a lawn on a pair of shoes and gave half of the remaining money to his mom. How much money did he have left?",
   "checkpoint": [
     {
-      "$\\boxed{49}$": 1
+      "\\boxed{49}": 1
     }
   ],
   "matchingmethod": [

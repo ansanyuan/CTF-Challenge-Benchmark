@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每年，塔比莎都会给头发染一种新颜色。她从15岁开始这个传统，那一年她给头发染了第二种颜色。三年后，塔比莎的头发将有8种不同的颜色。目前，塔比莎多大了？。",
+  "topic": "回答下面的数学问题：Every year, Tabitha adds a new color to her hair.  She started this tradition when she was 15 years old, which was the year she added her second hair color.  In three years, Tabitha will have 8 different colors in the hair.  Currently, how old is Tabitha?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

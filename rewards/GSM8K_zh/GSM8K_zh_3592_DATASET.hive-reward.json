@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Pima在以太坊上投资了400美元。在第一周，它增值了25%。在第二周，它在之前的基础上再增值了50%。她的投资现在价值多少？。",
+  "topic": "回答下面的数学问题：Pima invested $400 in Ethereum. In the first week, it gained 25% in value. In the second week, it gained an additional 50% on top of the previous gain. How much is her investment worth now?",
   "checkpoint": [
     {
-      "$\\boxed{750}$": 1
+      "\\boxed{750}": 1
     }
   ],
   "matchingmethod": [

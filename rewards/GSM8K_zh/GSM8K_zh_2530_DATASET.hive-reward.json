@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个热狗吃比赛中，第一个参赛者每分钟可以吃10个热狗。第二个参赛者可以比第一个参赛者多吃3倍，而第三个参赛者可以比第二个参赛者多吃两倍。第三个参赛者在5分钟后可以吃多少个热狗？。",
+  "topic": "回答下面的数学问题：In a hotdog eating competition, the first competitor can eat 10 hot dogs per minute. The second competitor can eat 3 times more than the first competitor, while the third competitor can eat twice as much as the second competitor. How many hotdogs can the third competitor eat after 5 minutes?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

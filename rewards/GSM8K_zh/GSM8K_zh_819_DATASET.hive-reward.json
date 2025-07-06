@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Trey打算在星期天在家里做一些家务。首先，他想列一个待办事项清单，计算他当天要做多少事情以及需要多长时间。他在“打扫房子”、“洗澡”和“做晚餐”下有几项事情。打扫房子总共有7件事情要做；洗澡有1件事情要做；做晚餐有4件事情要做。如果Trey清单上的每件事情都需要10分钟，那么完成Trey的清单总共需要多长时间？。",
+  "topic": "回答下面的数学问题：On Sunday Trey is going to do some chores at home. First, he wants to make a To Do list and count up how many things he has to do that day and how long it should take. He has several items under 'clean the house,' 'take a shower' and then 'make dinner.' In total there are 7 things to do to clean the house; 1 thing to do to take a shower; and 4 things to do to make dinner. If everything on Trey's list takes 10 minutes to do, how many hours total will it take to complete Trey's list?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

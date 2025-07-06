@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Gertrude这只鸡有10只跳蚤。另一只鸡Maud的跳蚤数量是Olive的5倍。最后一只鸡Olive的跳蚤数量是Gertrude的一半。一共有多少只跳蚤？。",
+  "topic": "回答下面的数学问题：Gertrude the chicken has 10 fleas.  The other chicken, Maud has 5 times the amount of fleas as Olive.  The final chicken, Olive has half the amount of flees as Gertrude.  How many fleas are there?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

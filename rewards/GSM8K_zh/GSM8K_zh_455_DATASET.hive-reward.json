@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：半小时的新闻节目包括12分钟的国内新闻，5分钟的国际新闻，5分钟的体育新闻和2分钟的天气预报。其余时间是广告。新闻节目中有多少分钟的广告？。",
+  "topic": "回答下面的数学问题：The half-hour newscast includes 12 minutes of national news, 5 minutes of international news, 5 minutes of sports, and 2 minutes of weather forecasts. The rest is advertisements. How many minutes of advertising are in the newscast?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

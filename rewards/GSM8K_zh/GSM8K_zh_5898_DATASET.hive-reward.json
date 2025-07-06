@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥拉夫收集多彩的玩具车。起初，他的收藏包括150辆车。他的家人知道他的爱好后，决定送他一些玩具车。爷爷给了奥拉夫的玩具车是叔叔的两倍。爸爸给了奥拉夫10辆玩具车，比妈妈少5辆。阿姨给了奥拉夫6辆玩具车，比叔叔多1辆。收到所有这些礼物后，奥拉夫总共有多少辆玩具车？。",
+  "topic": "回答下面的数学问题：Olaf collects colorful toy cars. At first, his collection consisted of 150 cars. His family, knowing his hobby, decided to give him some toy cars. Grandpa gave Olaf twice as many toy cars as the uncle. Dad gave Olaf 10 toy cars, 5 less than Mum. Auntie gave Olaf 6 toy cars, 1 more than the uncle. How many toy cars does Olaf have in total, after receiving all these gifts?",
   "checkpoint": [
     {
-      "$\\boxed{196}$": 1
+      "\\boxed{196}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨莉发现这周她没有收到全额工资。她的银行账户在本周开始时有200美元，现在有420美元。她这周没有收到其他任何钱进她的银行账户。如果她的周薪应该是300美元，那么萨莉的工资被扣留了多少美元？。",
+  "topic": "回答下面的数学问题：Sally has realized she did not receive a full wage this week. Her bank account, which held $200 at the start of the week, now holds $420. She has received no other money into her bank account this week. If her weekly wage should be $300, how many dollars were withheld from Sally’s wage?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

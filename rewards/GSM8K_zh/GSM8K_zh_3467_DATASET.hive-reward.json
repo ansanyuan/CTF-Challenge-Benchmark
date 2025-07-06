@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：佛罗里达大学进入了全国锦标赛。为了进入锦标赛，他们在之前的24场比赛中总共得分720分。然而，在锦标赛中，他们的对手比他们之前遇到的任何其他球队都要强大，他们的得分比之前24场比赛中的一半还少2分。他们的对手只输了2分。他们的对手得了多少分？。",
+  "topic": "回答下面的数学问题：UF got into the national championship. For them to get into the championship, they scored a total of 720 points during their previous 24 games.  In the championship game, however, their opponent was much stronger than any other team they had previously gone against and they scored 2 points less than half as much as they had previously scored in each of the 24 games. Their opponent only lost by 2 points.  How many points did their opponent score?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

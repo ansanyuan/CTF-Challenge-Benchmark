@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：路易莎开车去杂货店10英里，去商场6英里，去宠物店5英里，然后回家9英里。一加仑汽油可以行驶15英里。如果一加仑汽油的价格是3.50美元，路易莎整个行程的汽油总成本是多少？。",
+  "topic": "回答下面的数学问题：Luisa drives 10 miles to the grocery store, 6 miles to the mall, 5 miles to the pet store, then 9 miles back home. One gallon of gas can be used to drive 15 miles. If one gallon of gas costs $3.50, what is the total cost of the gas for Luisa’s entire trip?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

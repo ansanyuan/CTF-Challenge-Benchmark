@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰买了5个每个价格为3美元的玩具。他获得了20%的折扣。他一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：John buys 5 toys that each cost $3.  He gets a 20% discount.  How much did he pay for everything?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

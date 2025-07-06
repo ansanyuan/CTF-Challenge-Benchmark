@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Evergreen小学有100名四年级、五年级和六年级的学生。四年级有30名学生，五年级有35名学生。六年级有多少学生？。",
+  "topic": "回答下面的数学问题：Evergreen Elementary school has 100 students in Grades 4, 5, and 6. There are 30 students in Grade 4 and 35 students in Grade 5. How many students are in Grade 6?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

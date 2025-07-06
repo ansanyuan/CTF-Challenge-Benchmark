@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Zig写的书是Flo的四倍。如果Zig写了60本书，他们总共写了多少本书？。",
+  "topic": "回答下面的数学问题：Zig wrote four times as many books as Flo. If Zig wrote 60 books, how many books did they write altogether?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

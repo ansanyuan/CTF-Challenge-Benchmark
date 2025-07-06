@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰瑞被他妈妈要求去购物。他需要购买2升芥末油，每升13美元，3磅无麸质通心粉，每磅4美元，和1磅意大利面酱，每磅5美元。如果杰瑞在购物后可以留下50美元，他将会有多少钱？。",
+  "topic": "回答下面的数学问题：Jerry was asked by her mom to do grocery shopping. He needs to buy 2 liters of mustard oil that costs $13 per liter, 3 pounds of gluten-free penne pasta that costs $4 per pound, and 1  pound of pasta sauce that costs $5. If Jerry can keep the rest of the $50 after grocery shopping, how much money will he have?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

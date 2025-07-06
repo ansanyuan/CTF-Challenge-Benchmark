@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个4000升的储罐（最初是满的）的三分之一的油被倒入一个20000升容量的油罐，后者已经有3000升的油。还需要多少升的油才能使大油罐装满一半？。",
+  "topic": "回答下面的数学问题：Three-quarters of the oil from a 4000-liter tank (that was initially full) was poured into a 20000-liter capacity tanker that already had 3000 liters of oil. How many more liters of oil would be needed to make the large tanker half-full?",
   "checkpoint": [
     {
-      "$\\boxed{4000}$": 1
+      "\\boxed{4000}": 1
     }
   ],
   "matchingmethod": [

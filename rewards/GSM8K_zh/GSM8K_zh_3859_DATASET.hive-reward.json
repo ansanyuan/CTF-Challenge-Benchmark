@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三年前，贝瑟尼的年龄是她妹妹的两倍。五年后，她妹妹将是16岁。贝瑟尼现在多大了？。",
+  "topic": "回答下面的数学问题：Three years ago, Bethany was twice the age of her younger sister. In 5 years, her younger sister will be 16. How old is Bethany now?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

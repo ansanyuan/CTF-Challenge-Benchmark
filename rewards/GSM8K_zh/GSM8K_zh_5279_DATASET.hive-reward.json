@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个箱子里有2打水瓶，比水瓶多半打苹果瓶。箱子里有多少瓶？。",
+  "topic": "回答下面的数学问题：A box has 2 dozen water bottles and half a dozen more apple bottles than water bottles. How many bottles are in the box?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

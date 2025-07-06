@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mancino正在照料三个花园，每个花园的尺寸为16英尺乘以5英尺。他的妹妹Marquita正在为两个花园耕种，每个花园的尺寸为8英尺乘以4英尺。所有花园总共有多少平方英尺？。",
+  "topic": "回答下面的数学问题：Mancino is tending 3 gardens that each measure 16 feet by 5 feet. His sister, Marquita, is tilling the soil for two gardens that each measure 8 feet by 4 feet. How many square feet combined are in all their gardens?",
   "checkpoint": [
     {
-      "$\\boxed{304}$": 1
+      "\\boxed{304}": 1
     }
   ],
   "matchingmethod": [

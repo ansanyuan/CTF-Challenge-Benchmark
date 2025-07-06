@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两个分别容量为80和50的装橙子的箱子分别装了3/4和3/5的橙子。计算这两个箱子一共有多少个橙子。。",
+  "topic": "回答下面的数学问题：Two boxes for carrying oranges with a capacity of 80 and 50 were filled with 3/4 and 3/5 of the way full with oranges, respectively. Calculate the total number of oranges the boxes have together.",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

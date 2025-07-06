@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆和蒂姆都带了4个六面骰子到学校。总共有多少个面？。",
+  "topic": "回答下面的数学问题：Tom and Tim both brought 4, six-sided dice to school. How many total sides are there?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

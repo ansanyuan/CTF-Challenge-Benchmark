@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯尔以19.50美元买了去年最畅销的书。这是从原价打了25%的折扣。这本书的原价是多少？。",
+  "topic": "回答下面的数学问题：Kyle bought last year's best-selling book for $19.50. This is with a 25% discount from the original price. What was the original price of the book?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

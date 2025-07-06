@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰送他的儿子去预备学校。每个学期的费用是20000美元。一年有2个学期。送孩子上13年的学费是多少？。",
+  "topic": "回答下面的数学问题：John sends his son to prep school.  It cost $20,000 per semester.  There are 2 semesters in the year.  How much does it cost to send the kid to 13 years of school?",
   "checkpoint": [
     {
-      "$\\boxed{520000}$": 1
+      "\\boxed{520000}": 1
     }
   ],
   "matchingmethod": [

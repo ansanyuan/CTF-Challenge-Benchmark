@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Justin想在当晚8点观看一部电影。他的父母同意，只要他在电影开始前完成家庭作业和家务。由于棒球训练，他直到下午5点才能回家。他知道晚饭需要45分钟，他估计他的家庭作业需要30分钟完成。他需要打扫房间，需要30分钟；然后倒垃圾，大约需要5分钟；清理洗碗机，需要另外10分钟。Justin最晚可以在几点开始家务和家庭作业，以便在8点前完成并观看电影？。",
+  "topic": "回答下面的数学问题：Justin wanted to watch a movie that came on at 8 pm that night.  His parents agreed as long as he finished his homework and chores before the movie started.  He wouldn't be home until 5 pm because of baseball practice.  He knew dinner would take 45 minutes, and he figured his homework would take 30 minutes to finish.  He needed to clean his room, which would take 30 minutes; then take out the trash, which would take about 5 minutes; and empty the dishwasher,  which would take another 10 minutes.  What was the latest time that Justin could start his chores and homework to be done by 8 pm to watch his movie?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

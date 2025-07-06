@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $x=\\frac{\\sum\\limits_{n=1}^{44} \\cos n^\\circ}{\\sum\\limits_{n=1}^{44} \\sin n^\\circ}$ . What is the greatest integer that does not exceed $100x$ ?",
   "checkpoint": [
     {
-      "$\\boxed{241}$": 1
+      "\\boxed{241}": 1
     }
   ],
   "matchingmethod": [

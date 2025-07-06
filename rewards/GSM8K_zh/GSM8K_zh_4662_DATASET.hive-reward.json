@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：要升级她的厨房，阿曼达正在更换门把手/拉手。她要更换18个橱柜把手，每个价格为2.50美元，以及8个抽屉拉手，每个价格为4.00美元。厨房升级将花费她多少钱？。",
+  "topic": "回答下面的数学问题：To upgrade her kitchen, Amanda is changing out the doorknobs/pulls.  She’s replacing 18 cabinet knobs, which cost $2.50 each and 8 drawer pulls which cost $4.00.  How much will the kitchen upgrade cost her?",
   "checkpoint": [
     {
-      "$\\boxed{77}$": 1
+      "\\boxed{77}": 1
     }
   ],
   "matchingmethod": [

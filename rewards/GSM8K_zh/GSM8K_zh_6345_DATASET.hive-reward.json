@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丹尼尔有5罐每罐含2升的果汁。他想在派对上给每个人倒满一杯果汁。他知道每个杯子最多可以装250毫升的果汁。他可以给多少个满杯的果汁？。",
+  "topic": "回答下面的数学问题：Daniel has 5 jars of juice containing 2 liters each. He wants to serve a full glass of juice to each person at a party. He knows that each glass can hold up to 250 milliliters of juice. How many full glasses can he give?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

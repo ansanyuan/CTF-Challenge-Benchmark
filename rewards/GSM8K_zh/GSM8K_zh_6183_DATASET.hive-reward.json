@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾伦数了办公室的餐厅有多少把椅子。有2张圆桌和2张长方形桌。每张圆桌有6把椅子，每张长方形桌有7把椅子。总共有多少把椅子？。",
+  "topic": "回答下面的数学问题：Alan counted how many chairs the office canteen has. It has 2 round tables and 2 rectangular tables. Each round table has 6 chairs, and each rectangular table has 7 chairs. How many chairs are there in all?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

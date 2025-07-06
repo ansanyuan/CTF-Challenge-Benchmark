@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯蒂娜、约翰、克拉丽莎和莎拉想在母亲的生日时送她一本相册。克里斯蒂娜带了7张照片，约翰带了10张照片，莎拉带了9张照片。如果相册有40个空位，克拉丽莎需要带多少照片才能完成相册？。",
+  "topic": "回答下面的数学问题：Cristina, John, Clarissa and Sarah want to give their mother a photo album for her birthday. Cristina brings 7 photos, John brings 10 photos and Sarah brings 9 photos. If the photo album has 40 slots available, how many photos does Clarissa need to bring in order to complete the photo album?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

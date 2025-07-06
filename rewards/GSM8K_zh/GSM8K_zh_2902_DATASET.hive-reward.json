@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮试图说服她的猫用绳子遛弯。猫花了二十分钟抗拒。然后珍妮哄着猫以每分钟8英尺的速度走了64英尺。整个过程需要多少分钟？。",
+  "topic": "回答下面的数学问题：Jenny is trying to convince her cat to walk on a leash. The cat spends twenty minutes resisting. Then Jenny coaxes the cat to walk 64 feet at a rate of 8 feet/minute. How many minutes does this whole process take?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

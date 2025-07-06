@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ryan制作模型野马汽车。一辆全尺寸野马汽车长240英寸。Ryan制作的中等尺寸模型是全尺寸的1/10，而他制作的最小模型是中等模型的一半。最小模型野马汽车长多少英寸？。",
+  "topic": "回答下面的数学问题：Ryan builds model mustang cars.  A full size mustang is 240 inches long.  The mid-size model that Ryan creates is 1/10th the size, and the smallest model that Ryan creates is half the size of the mid-size model.  How many inches long is the smallest model mustang?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

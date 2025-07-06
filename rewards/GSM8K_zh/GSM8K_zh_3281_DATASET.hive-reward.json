@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔纳决定建立一个水族箱。他一开始有14条小鱼。他又添加了2条，但在他能把它们拿回商店之前，它们吃掉了他原来的6条鱼。他把它们换成了3条新鱼。现在乔纳有多少条鱼？。",
+  "topic": "回答下面的数学问题：Jonah decided to set up an aquarium. He started with 14 small fish. He added 2 more, but they ate 6 of his original fish before he could remove them and take them back to the store. He exchanged them for 3 new fish. How many fish does Jonah have now?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

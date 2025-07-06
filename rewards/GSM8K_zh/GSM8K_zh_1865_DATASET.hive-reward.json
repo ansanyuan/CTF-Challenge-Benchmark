@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：五年后，瑞文的年龄将是菲比的4倍。如果菲比目前10岁，瑞文多大了？。",
+  "topic": "回答下面的数学问题：In 5 years, Raven will be 4 times as old as Phoebe. If Phoebe is currently 10 years old, how old is Raven?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

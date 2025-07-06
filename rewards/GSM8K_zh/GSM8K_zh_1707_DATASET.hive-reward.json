@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：东高中高三年级有400名学生。52%的学生参加体育运动。参加体育运动的学生中，12.5%参加足球。有多少学生参加足球？。",
+  "topic": "回答下面的数学问题：There are 400 students in the senior class at East High School. 52% of the students play sports. Of the students that play sports, 12.5% play soccer. How many students play soccer?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Julia的互联网速度是20MBps（每秒兆字节）。如果每首歌的大小是5MB，她在半小时内可以下载多少首歌？。",
+  "topic": "回答下面的数学问题：Julia's internet speed is 20 MBps (megabytes per second). How many songs she can download in half an hour if the size per song is 5MB?",
   "checkpoint": [
     {
-      "$\\boxed{7200}$": 1
+      "\\boxed{7200}": 1
     }
   ],
   "matchingmethod": [

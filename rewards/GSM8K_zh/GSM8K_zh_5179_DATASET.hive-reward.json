@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾琳每天与她的狗分享半个小苹果。一个小苹果大约重1/4磅。她目前可以以每磅2.00美元的价格购买苹果。她将花费多少钱，以便她和她的狗有足够的苹果可以持续两周？。",
+  "topic": "回答下面的数学问题：Irene shares half of a small apple with her dog every day.  A small apple weighs about 1/4 of a pound.  She can currently buy apples for $2.00 a pound.  How much will she spend so that she and her dog have enough apples to last for 2 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

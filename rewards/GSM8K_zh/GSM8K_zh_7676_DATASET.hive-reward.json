@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Josie在她的10英亩农场种植葡萄。每英亩每年产出5吨葡萄，每吨葡萄可以酿造2桶葡萄酒。她的农场每年能生产多少桶葡萄酒？。",
+  "topic": "回答下面的数学问题：Josie grows grapes on her 10-acre farm.  Each acre produces 5 tons of grapes per year, and each ton of grapes makes 2 barrels of wine.  How many barrels of wine does her farm produce per year?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

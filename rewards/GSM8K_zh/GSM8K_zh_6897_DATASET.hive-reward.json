@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：辛迪和奥拉夫制作了15个招牌苹果，每个售价2美元，以及12个招牌葡萄，每个售价1.5美元。如果他们把所有东西都卖掉，他们将赚多少钱？。",
+  "topic": "回答下面的数学问题：Cindy and Olaf made 15 candied apples which they will be selling for $2 each, and 12 candied grapes which they will be selling for $1.5. How much will they earn if they sell everything?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

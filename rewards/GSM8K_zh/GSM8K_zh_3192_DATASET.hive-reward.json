@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Vermont在他的网络浏览器上打开了4个网页，在第一个网页上找到了12个广告，在第二个网页上找到的广告数量是第一个网页的两倍。当他打开第三个网页时，他发现的广告比第二个网页上的广告数量多了24个。如果第四个网页上的广告数量是第二个网页的3/4，计算Vermont点击的广告总数，如果他点击了其中的2/3。。",
+  "topic": "回答下面的数学问题：Vermont opened up 4 web pages on his web browser and found 12 ads on the first web page and twice as many ads on the second web page as the first web page. When he opened the third web page, he found 24 more ads than the number of ads on the second web page. If the fourth web page had 3/4 times as many ads as the second web page, calculate the total number of ads Vermont clicked on if he clicked on 2/3 of them.",
   "checkpoint": [
     {
-      "$\\boxed{68}$": 1
+      "\\boxed{68}": 1
     }
   ],
   "matchingmethod": [

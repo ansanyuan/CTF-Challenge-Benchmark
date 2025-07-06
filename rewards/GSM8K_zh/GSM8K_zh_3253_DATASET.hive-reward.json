@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：管弦乐队中有11名男性和12名女性，乐队中的人数是管弦乐队的两倍。合唱团中有12名男性和17名女性。如果每位音乐家只参加一个团体，那么管弦乐队、乐队和合唱团一共有多少音乐家？。",
+  "topic": "回答下面的数学问题：There are 11 males & 12 females in the orchestra and twice that number in the band. There are 12 males & 17 females in the choir. If each musician only participates in one group, how many musicians total are there in the orchestra, the band, and the choir?",
   "checkpoint": [
     {
-      "$\\boxed{98}$": 1
+      "\\boxed{98}": 1
     }
   ],
   "matchingmethod": [

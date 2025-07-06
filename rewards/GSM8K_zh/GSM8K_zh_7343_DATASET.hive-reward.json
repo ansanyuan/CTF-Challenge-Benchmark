@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：你最喜欢的“任何物品10美元”零售商正在举行特价活动。如果你买1件衬衫，你需要支付10美元。如果你买2件，第二件可以享受50%的折扣。如果你买3件，第三件可以享受60%的折扣。如果你买了3件衬衫，你一共省了多少钱？。",
+  "topic": "回答下面的数学问题：There's a sale at your favorite \"Any item $10\" retailer. If you buy 1 shirt you pay $10. If you buy 2, you get the second one at a 50% discount. If you buy 3, you get the third one at a 60% discount. How much money did you save if you bought 3 shirts?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：从亚伯尔的家到艾丽斯的家的路程是35英里，分成5个相等的部分。亚伯尔以每小时40英里的速度驾驶。在行驶了0.7小时后，他已经走了多少部分的旅程？。",
+  "topic": "回答下面的数学问题：The journey from Abel's house to Alice's house is 35 miles and is divided into 5 equal portions. Abel is driving at a speed of 40 miles per hour. After traveling for 0.7 hours, how many portions of the journey has he covered?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

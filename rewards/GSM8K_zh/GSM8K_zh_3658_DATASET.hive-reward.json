@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：坦帕湾海盗队有13名橄榄球运动员和16名啦啦队队员。如果有10名橄榄球运动员和4名啦啦队队员离开了，还剩下多少名橄榄球运动员和啦啦队队员？。",
+  "topic": "回答下面的数学问题：The Tampa Bay Bucs have 13 football players and 16 cheerleaders. If 10 football players and 4 cheerleaders quit, how many football players and cheerleaders are left?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰需要更换鞋子，所以他决定买一双150美元的耐克鞋和一双120美元的工作靴。税率是10%。他一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：John needs to replace his shoes so he decides to buy a $150 pair of Nikes and a $120 pair of work boots.  Tax is 10%.  How much did he pay for everything?",
   "checkpoint": [
     {
-      "$\\boxed{297}$": 1
+      "\\boxed{297}": 1
     }
   ],
   "matchingmethod": [

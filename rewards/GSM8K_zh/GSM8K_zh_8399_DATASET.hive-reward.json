@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个游泳池里有10000加仑的水。使用水泵，安东尼和他的父亲用游泳池里一半的水量灌满了一个水箱。他们用水箱里的水来浇灌他们的菜园。如果水箱以每天500加仑的速度被排空，那么6天后水箱里还剩多少加仑的水？。",
+  "topic": "回答下面的数学问题：There are 10000 gallons of water in a pool. Using a water pump, Anthony and his father fill a tank with half the amount of water in the pool. They use water from the tank to water their vegetable garden. If the tank is emptied at a rate of 500 gallons of water per day, how many gallons of water will be remaining in the tank after 6 days?",
   "checkpoint": [
     {
-      "$\\boxed{2000}$": 1
+      "\\boxed{2000}": 1
     }
   ],
   "matchingmethod": [

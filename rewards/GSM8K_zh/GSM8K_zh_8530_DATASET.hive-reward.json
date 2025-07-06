@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格雷格每周要给4张单人床和1张特大号床换上干净的床单。他的洗衣机一次只能洗2套单人床单和1套特大号床单。他一年要洗多少次衣物？。",
+  "topic": "回答下面的数学问题：Greg puts clean sheets on 4 twin beds and 1 king size bed every week.  His laundry machine will only allow him to wash 2 twin sets of sheets at a time and 1 king set of sheets at a time.  How many loads of laundry does he do in a year?",
   "checkpoint": [
     {
-      "$\\boxed{156}$": 1
+      "\\boxed{156}": 1
     }
   ],
   "matchingmethod": [

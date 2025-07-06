@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡罗尔是一名航空工程师，正在决定一架喷气机需要加多少燃料。空飞机每英里需要20加仑的燃料。每位乘客增加3加仑的燃料消耗，每个行李增加2加仑的燃料消耗。如果有30名乘客和5名机组人员，每人带了两个行李，那么飞行400英里需要多少加仑的燃料？。",
+  "topic": "回答下面的数学问题：Carol is an aviation engineer deciding how much fuel to put in a jet. The empty plane needs 20 gallons of fuel per mile. Each person on the plane increases this amount by 3 gallons per mile, and each bag increases it by 2 gallons per mile. If there are 30 passengers and 5 flight crew, and each person brought two bags, how many gallons of fuel does the plane need for a 400-mile trip?",
   "checkpoint": [
     {
-      "$\\boxed{106000}$": 1
+      "\\boxed{106000}": 1
     }
   ],
   "matchingmethod": [

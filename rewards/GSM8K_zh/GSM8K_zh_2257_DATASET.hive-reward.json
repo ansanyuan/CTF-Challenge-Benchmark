@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carson要在游乐园度过4个小时。过山车的等待时间是30分钟，旋转木马的等待时间是60分钟，巨型滑梯的等待时间是15分钟。如果Carson坐了4次过山车和1次旋转木马，他可以坐多少次巨型滑梯？（等待时间包括实际乘坐的时间。）。",
+  "topic": "回答下面的数学问题：Carson is going to spend 4 hours at a carnival. The wait for the roller coaster is 30 minutes, the wait for the tilt-a-whirl is 60 minutes, and the wait for the giant slide is 15 minutes. If Carson rides the roller coaster 4 times and the tilt-a-whirl once, how many times can he ride the giant slide? (Wait times include the time actually spent on the ride.)",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：伏地魔吃完晚餐后吃了一块蛋糕，含有110卡路里。他还吃了一包含310卡路里的薯片和喝了一瓶含215卡路里的500毫升可乐。他的早餐和午餐的热量摄入分别为560和780卡路里。如果他每天的热量摄入限制为2500卡路里，他还能摄入多少卡路里？。",
+  "topic": "回答下面的数学问题：Voldemort had his dinner and ate a piece of cake that has 110 calories. He also ate 1 pack of chips that contained 310 calories and drank a 500 ml bottle of coke that has 215 calories. His caloric intake for breakfast and lunch is 560 and 780 calories, respectively. If he has a 2500 calorie intake limit per day, how many calories can he still take?",
   "checkpoint": [
     {
-      "$\\boxed{525}$": 1
+      "\\boxed{525}": 1
     }
   ],
   "matchingmethod": [

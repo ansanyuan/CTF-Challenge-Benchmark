@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Monroe为她的家人做了200块燕麦棒。她和她的丈夫吃了80块，剩下的平均分给了她的孩子。如果每个孩子收到20块燕麦棒，那么家里有多少个孩子？。",
+  "topic": "回答下面的数学问题：Monroe made 200 granola bars for her family. She and her husband ate 80, and the rest was divided equally among her children. If each child received 20 granola bars, how many children are in the family?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

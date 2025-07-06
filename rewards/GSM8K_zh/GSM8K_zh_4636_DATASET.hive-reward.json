@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰尼为他的班级买了15盒彩色铅笔。每盒里面有一支红色、一支黄色和一支绿色的铅笔。当他回家后，他注意到有3盒多了两支红色铅笔。约翰尼买了多少支红色铅笔？。",
+  "topic": "回答下面的数学问题：Johnny buys 15 packs of colored pencils for his class. Each pack has a red, yellow, and green pencil inside. When he gets home he notices that 3 of the packs have two extra red pencils inside. How many red colored pencils did Johnny buy?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

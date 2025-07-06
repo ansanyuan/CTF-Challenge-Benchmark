@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：彼得有4个盒子，每个盒子里有相同数量的巧克力条，而玛莎有7个盒子，每个盒子里也有相同数量的巧克力条。如果彼得和玛莎分别总共有64条和56条巧克力，那么彼得的每个盒子里比玛莎的多了多少条巧克力？。",
+  "topic": "回答下面的数学问题：Peter has 4 boxes with the same number of chocolate bars in each, while Martha has 7 boxes with the same number of chocolate bars in each. If Peter and Martha have totals of 64 and 56 chocolate bars respectively, how many more chocolate bars does Peter have in each box than Martha?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

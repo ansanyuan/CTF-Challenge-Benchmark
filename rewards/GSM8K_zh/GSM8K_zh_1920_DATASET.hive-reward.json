@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗杰以10万美元的价格买了一栋房子。他能支付20%的首付，他的父母又支付了剩余余额的30%。罗杰还欠房子多少钱？。",
+  "topic": "回答下面的数学问题：Roger bought a house for $100,000.  He was able to pay 20% down, and his parents paid off an additional 30% of the remaining balance.  How much money does Roger still owe on his house?",
   "checkpoint": [
     {
-      "$\\boxed{56000}$": 1
+      "\\boxed{56000}": 1
     }
   ],
   "matchingmethod": [

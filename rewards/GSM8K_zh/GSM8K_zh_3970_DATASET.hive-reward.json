@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：老师决定在成绩单日奖励他的学生额外的休息时间，如果他们取得了好成绩。学生通常有20分钟的休息时间。他告诉学生，每个A可以让他们额外获得2分钟的休息时间。每个B可以让他们额外获得1分钟。每个C可以让他们获得零分钟的额外时间，但每个D可以让他们减少1分钟。当成绩单出来时，有10个A，12个B，14个C和5个D。那天学生总共会得到多少休息时间？。",
+  "topic": "回答下面的数学问题：The teacher decided to rewards his students with extra recess on report card day if they got good grades. Students normally get 20 minutes for recess. He told the students that every A got them 2 extra minutes of recess. Every B got them one extra minute. Every C got them zero extra minutes, but every D got them 1 less minute. When report cards came out there were 10 As, 12 Bs, 14Cs, and 5Ds. In total, how much recess would the students get that day?",
   "checkpoint": [
     {
-      "$\\boxed{47}$": 1
+      "\\boxed{47}": 1
     }
   ],
   "matchingmethod": [

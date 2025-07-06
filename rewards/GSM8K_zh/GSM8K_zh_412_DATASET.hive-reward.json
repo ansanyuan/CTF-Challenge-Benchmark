@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克斯有8个孩子，他的每个孩子的孩子数量与他一样，只有2个孩子有5个孩子。他有多少个孙子孙女？。",
+  "topic": "回答下面的数学问题：Max has 8 children and each of his children has the same number of children as he does except for 2 who have 5 children each. How many grandchildren does he have?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jenny每周买一袋饼干。这袋饼干有36块，她每周5天在儿子的午餐盒里放4块饼干。她丈夫每天吃1块饼干，一周7天。Jenny吃剩下的饼干。Jenny吃了多少块饼干？。",
+  "topic": "回答下面的数学问题：Jenny buys 1 bag of cookies a week.  The bag has 36 cookies and she puts 4 cookies in her son's lunch box 5 days a week.  Her husband eats 1 cookie a day for 7 days.  Jenny eats the rest of the cookies.  How many cookies does Jenny eat?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

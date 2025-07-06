@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚当去商店买一些食物作为他的旅程准备。他买了3个三明治，每个3美元，还有一瓶水，价格为2美元。亚当一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：Adam went to a shop to buy some food for his journey. He bought 3 sandwiches, for $3 each, and a bottle of water for $2. How much did Adam pay for all the shopping?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

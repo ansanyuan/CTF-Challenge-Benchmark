@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lisa是一个有52名成员的合唱团的一部分，其中50%是男孩，50%是女孩。合唱团决定只用女性成员进行表演。然而，在表演当天，因为他们的巴士抛锚，一半的表演者没能到达演出地点。合唱团的3位老师随后决定和她们一起唱歌。表演中有多少人唱歌？。",
+  "topic": "回答下面的数学问题：Lisa is part of a choir that has 52 members, 50% of which are boys and 50% of which are girls.  The choir decides to perform with just its female members.  On the day of the performance, however, half the people performing can't make it to the show because their bus breaks down.  The choir's 3 teachers then decide to sing with them. How many people sang in the performance?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

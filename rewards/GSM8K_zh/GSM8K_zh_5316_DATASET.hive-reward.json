@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sam早上去跑步。下午，他去购物，走的距离是早上跑步的两倍。那天晚上，他和家人骑自行车骑了12英里。总共，他那天走了18英里。Sam早上跑了多少英里？。",
+  "topic": "回答下面的数学问题：Sam went for a run in the morning. In the afternoon, he went grocery shopping and walked twice the distance through the store as he had run that morning. That evening, he went on a bike ride with his family and biked for 12 miles. In all, he went 18 miles that day. How many miles was Sam’s morning run?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

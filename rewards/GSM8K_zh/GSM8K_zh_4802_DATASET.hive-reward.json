@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆决定每周跑步5天来减肥。他每天跑步1.5小时。他的速度是8英里/小时。他每周跑多少英里？。",
+  "topic": "回答下面的数学问题：Tom decides to start running 5 days a week to lose weight.  He runs 1.5 hours each day.  He runs at a speed of 8 mph.  How many miles does he run a week?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

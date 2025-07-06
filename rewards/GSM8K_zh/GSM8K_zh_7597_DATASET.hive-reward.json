@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rosie能以每小时10英里的速度跑3小时。之后，她以每小时5英里的速度跑。她在7小时内能跑多少英里？。",
+  "topic": "回答下面的数学问题：Rosie can run 10 miles per hour for 3 hours. After that, she runs 5 miles per hour. How many miles can she run in 7 hours?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

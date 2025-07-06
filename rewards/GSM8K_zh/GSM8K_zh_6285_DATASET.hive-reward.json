@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lola和Tara决定比赛，看谁先爬到一个20层楼的顶部。Tara乘电梯，Lola跑上楼梯。Lola每10秒可以爬一层楼。电梯每8秒可以上一层楼，但在每层楼都停留3秒。谁会花更长的时间到达顶层？。",
+  "topic": "回答下面的数学问题：Lola and Tara decide to race to the top of a 20 story building. Tara takes the elevator and Lola runs up the stairs. Lola can run up 1 story in 10 seconds. The elevator goes up a story in 8 seconds but stops for 3 seconds on every single floor. How long would it take for the slower one of Lola and Tara to reach the top floor?",
   "checkpoint": [
     {
-      "$\\boxed{220}$": 1
+      "\\boxed{220}": 1
     }
   ],
   "matchingmethod": [

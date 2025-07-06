@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mamou的国家最近发生的洪水使许多家庭失去了食物和住所。为了帮助他们，Mamou自愿分发1360份餐食给受影响的家庭。她在周五分发了64份餐食，在周六分发了30份，在周日分发了48份。她还剩多少份餐食需要分发？。",
+  "topic": "回答下面的数学问题：The recent floods in Mamou’s country have left many families without food or shelter. To help, Mamou has volunteered to distribute 1,360 meals to the affected families. She gave out 64 meals on Friday, 30 meals on Saturday, and 48 meals on Sunday. How many meals does she have left to distribute?",
   "checkpoint": [
     {
-      "$\\boxed{1218}$": 1
+      "\\boxed{1218}": 1
     }
   ],
   "matchingmethod": [

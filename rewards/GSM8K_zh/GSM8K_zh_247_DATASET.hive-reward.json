@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个家庭中男孩和女孩的比例是5:7。这个家庭中孩子的总数是180。如果男孩们共享3900美元，每个男孩会收到多少钱？。",
+  "topic": "回答下面的数学问题：The ratio of boys to girls in a family is 5:7. The total number of children in the family is 180. If the boys are given $3900 to share, how much money does each boy receive?",
   "checkpoint": [
     {
-      "$\\boxed{52}$": 1
+      "\\boxed{52}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：保罗在一所大学工作。他参与了一个大型项目，总共有70位科学家参与。其中一半来自欧洲，五分之一来自加拿大。其余的来自美国。在这个项目中有多少科学家来自美国？。",
+  "topic": "回答下面的数学问题：Paul is working at a university. He is part of a big project, which involves 70 scientists in total. Half of them are from Europe and one-fifth are from Canada. The rest are from the USA. How many scientists in this project are from the USA?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

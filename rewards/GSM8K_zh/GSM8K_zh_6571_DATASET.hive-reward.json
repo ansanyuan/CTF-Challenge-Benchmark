@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯正在建立一个战锤40k模型的军队。他花20分钟来涂一只宇宙海军陆战队员，70分钟来涂一只死亡机甲。如果他涂了6只宇宙海军陆战队员和2只死亡机甲，他总共花了多少时间来涂色？。",
+  "topic": "回答下面的数学问题：James is building an army of Warhammer 40k figurines. It takes him 20 minutes to paint a space marine and 70 minutes to paint a dreadnought. If he paints 6 space marines and 2 dreadnoughts, how long does he spend painting total?",
   "checkpoint": [
     {
-      "$\\boxed{260}$": 1
+      "\\boxed{260}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jangshe在7件衣服上花了610美元。其中一件是49美元，另一件是81美元。如果其他衣服的价格都一样，那么另一件衣服是多少美元？。",
+  "topic": "回答下面的数学问题：Jangshe spent $610 on 7 pieces of clothing. One piece was $49 and another piece was $81. If the other pieces were all the same price, how many dollars was one of the other pieces?",
   "checkpoint": [
     {
-      "$\\boxed{96}$": 1
+      "\\boxed{96}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：新生的大象比小河马多十只。如果整个兽群一开始有20只大象和35只河马，而母河马的数量是总河马数量的5/7，每只母河马生5只新的小河马，找出总共有多少动物？。",
+  "topic": "回答下面的数学问题：There are ten more newborn elephants than baby hippos. If an entire herd starts with 20 elephants and 35 hippos, and the female hippos, whose number is 5/7 of the total number of hippos, give birth to 5 new baby hippos each, find the number of animals that are there altogether?",
   "checkpoint": [
     {
-      "$\\boxed{315}$": 1
+      "\\boxed{315}": 1
     }
   ],
   "matchingmethod": [

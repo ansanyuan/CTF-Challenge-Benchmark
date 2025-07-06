@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ziggy是一名俱乐部DJ。通常，Ziggy每晚会收到30首歌曲的请求。其中一半的歌曲请求是电子流行音乐。其中三分之一的数量是舞曲的请求。五首歌曲的请求是摇滚音乐，而老歌的请求数量比摇滚音乐的请求少三首。Ziggy播放DJ自选歌曲的次数是他播放老歌曲的次数的一半。Ziggy有时也会收到说唱歌曲的请求。通常，Ziggy每晚会收到多少首说唱歌曲的请求？。",
+  "topic": "回答下面的数学问题：Ziggy is a club DJ. Typically, Ziggy gets 30 song requests every night. Half the songs requested are electropop. A third of that amount are requests for dance music. Five song requests are rock music, and song requests for oldies are three less in number than rock requests. Ziggy plays a DJ’s choice song half the number of times he plays an oldie. Ziggy also sometimes gets rap song requests. Typically, how many rap songs does Ziggy get requested every night?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

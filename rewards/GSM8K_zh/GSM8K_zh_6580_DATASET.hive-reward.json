@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅根是一名女演员。她在80%的作品中担任女主角。总共，梅根参与了100部戏剧。梅根不是女主角的次数是多少？。",
+  "topic": "回答下面的数学问题：Megan is an actress. She was the lead actress in 80% of her work. In total, Megan participated in 100 plays. How many times Megan was not the lead actress?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Lance想在3天内完成阅读一本100页的书。昨天，他开始阅读了35页。今天，他比昨天少读了5页。他明天应该阅读多少页才能完成这本书？。",
+  "topic": "回答下面的数学问题：Lance wants to finish reading a 100 page book in 3 days. Yesterday, he started to read 35 pages. Today, he read 5 fewer pages than yesterday. How many pages should he read tomorrow to finish the book?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

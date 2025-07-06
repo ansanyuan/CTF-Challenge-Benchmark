@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉姆花了8个小时潜水。在这段时间里，他发现了一个有100枚金币的宝箱。他还发现了2个小袋子，每个小袋子的金币数量是宝箱的一半。他每小时找到多少金币？。",
+  "topic": "回答下面的数学问题：Jim spends 8 hours scuba diving.  In that time he finds a treasure chest with 100 gold coins in it.  He also finds 2 smaller bags that have half as much gold each.  How much gold does he find per hour?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

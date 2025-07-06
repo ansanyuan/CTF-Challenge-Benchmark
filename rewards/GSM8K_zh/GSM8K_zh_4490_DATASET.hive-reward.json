@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔有50美元。他想在母亲节给他妈妈一个惊喜，买一个20美元的蛋糕，一个36美元的花束和一个5美元的气球套装。迈克尔还需要多少钱才能买到所有这些？。",
+  "topic": "回答下面的数学问题：Michael has $50. He wants to surprise his mom on Mother's day by buying a cake for $20, a bouquet for $36, and a set of balloons for $5. How much more money does Michael need to buy all those?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

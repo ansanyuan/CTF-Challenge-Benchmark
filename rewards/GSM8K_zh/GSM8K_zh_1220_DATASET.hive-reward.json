@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：维克多在Clucks Delux餐厅工作，该餐厅专门提供鸡肉菜品。一份鸡肉意面需要2块鸡肉，一份烤鸡肉需要3块鸡肉，而一份家庭份量的炸鸡晚餐需要8块鸡肉。今晚，维克多有2份炸鸡晚餐订单，6份鸡肉意面订单和3份烤鸡肉订单。他需要多少块鸡肉才能满足所有订单？。",
+  "topic": "回答下面的数学问题：Victor works at Clucks Delux, a restaurant specializing in chicken. An order of Chicken Pasta uses 2 pieces of chicken, an order of Barbecue Chicken uses 3 pieces of chicken, and a family-size Fried Chicken Dinner uses 8 pieces of chicken. Tonight, Victor has 2 Fried Chicken Dinner orders, 6 Chicken Pasta orders, and 3 Barbecue Chicken orders. How many pieces of chicken does he need for all the orders?",
   "checkpoint": [
     {
-      "$\\boxed{37}$": 1
+      "\\boxed{37}": 1
     }
   ],
   "matchingmethod": [

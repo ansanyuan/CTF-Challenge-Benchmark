@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罐子里有70块饼干。一周后只剩下28块饼干，保罗每天取出相同数量的饼干，他在四天内取出了多少块饼干？。",
+  "topic": "回答下面的数学问题：There are 70 cookies in a jar. If there are only 28 cookies left after a week, and Paul took out the same amount each day, how many cookies did he take out in four days?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：菲比有两个比萨要和她的三个朋友分享。一个是意大利辣香肠比萨，另一个是奶酪比萨。它们都有16片。他们都吃了相同的量。一个朋友只吃了意大利辣香肠，而其他人每种比萨的片数相等。最后，还剩一片意大利辣香肠和7片奶酪，每个人吃了多少片？。",
+  "topic": "回答下面的数学问题：Phoebe has two pizzas to share with her and three friends. One has pepperoni and the other has cheese. They both have 16 slices. They all eat the same amount. One friend eats only pepperoni, while the rest have an equal number of slices of each. At the end, there is one slice of pepperoni left and 7 slices of cheese, how many slices does each person eat?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

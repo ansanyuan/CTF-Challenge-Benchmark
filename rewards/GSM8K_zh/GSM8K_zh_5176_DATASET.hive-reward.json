@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯登斯家庭成员的总年龄是200岁。如果凯登斯的父亲60岁，凯登斯的母亲比凯登斯的父亲小2岁，凯登斯的兄弟是凯登斯父亲年龄的一半，而凯登斯的姐姐40岁，那么凯登斯多大了？。",
+  "topic": "回答下面的数学问题：The total age of the people in Kaydence's family is 200. If Kaydence's father is 60 years old, Kaydence's mother 2 years younger than Kaydence's father, Kaydence's brother 1/2 the age of Kaydence's father, and Kaydence's sister 40 years old, how old is Kaydence?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个篮球队在他们参加的50场比赛中赢了35场。他们还剩下25场比赛要打完整个赛季。为了使整个赛季的胜率达到64%，他们还必须赢得剩下的比赛中的多少场？。",
+  "topic": "回答下面的数学问题：A basketball team won 35 out of the 50 games that they have played. They still have 25 games left to play for the season. How many of the remaining games must they win so that their percentage of wins in the entire season is 64%?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

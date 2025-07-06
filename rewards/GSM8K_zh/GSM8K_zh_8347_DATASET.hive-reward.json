@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：大卫有12.48美元，想要从五金店的货架上买16个螺栓。每个螺栓的成本是0.03美元。大卫买完螺栓后还剩多少钱？。",
+  "topic": "回答下面的数学问题：David has $12.48 and wants to buy 16 bolts from a bin at the hardware store. Each bolt costs $0.03. How much money does David have left after paying for the bolts?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

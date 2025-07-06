@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿里和萨拉一共吃了80个小苹果。阿里吃的苹果数量是萨拉的4倍。萨拉吃了多少个苹果？。",
+  "topic": "回答下面的数学问题：Ali and Sara ate 80 small apples combined. Ali ate 4 times more apples than Sara. How many apples did Sara eat?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

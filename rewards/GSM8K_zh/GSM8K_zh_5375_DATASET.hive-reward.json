@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个装满弹珠的罐子放在桌子上。一半的弹珠是蓝色，四分之一是红色，27个是绿色，14个是黄色。罐子里有多少个弹珠？。",
+  "topic": "回答下面的数学问题：A jar full of marbles is sitting on a table. Half of the marbles are blue, a quarter of them are red, 27 of them are green, and 14 of them are yellow. How many marbles are in the jar?",
   "checkpoint": [
     {
-      "$\\boxed{164}$": 1
+      "\\boxed{164}": 1
     }
   ],
   "matchingmethod": [

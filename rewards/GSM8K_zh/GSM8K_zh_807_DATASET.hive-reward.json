@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个瓷花瓶原价为200美元，但打了25%的折扣。如果唐娜买了这个瓷花瓶并支付了10%的销售税，她总共支付了多少钱？。",
+  "topic": "回答下面的数学问题：A porcelain vase was originally priced at $200 but went on sale for 25% off. If Donna bought the porcelain vase and paid 10% sales tax, how much did she pay in total?",
   "checkpoint": [
     {
-      "$\\boxed{165}$": 1
+      "\\boxed{165}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Helga是斯洛文尼亚所有人中最快的木鞋舞者。双手在身侧时，她能以每分钟300次的速度敲击右脚，同时以每分钟250次的速度敲击左脚。当她举起双臂时，她每只脚的敲击速度减慢到每分钟200次。如果她总共跳舞5分钟，其中只有2分钟是举着双臂的，她两只脚的总敲击次数是多少？。",
+  "topic": "回答下面的数学问题：Helga was the fastest clog dancer in all of Slovenia. With both hands at her sides, she could tap her right foot at a rate of 300 taps per minute, while simultaneously tapping her left foot at a rate of 250 taps per minute.  When she raised her arms, her tap rate slowed down to 200 taps per minute with each foot.  If she dances a total of 5 minutes, with her arms raised during only 2 of those minutes, what would be the combined total number of times that she taps both of her feet?",
   "checkpoint": [
     {
-      "$\\boxed{2450}$": 1
+      "\\boxed{2450}": 1
     }
   ],
   "matchingmethod": [

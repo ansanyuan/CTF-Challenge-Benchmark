@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rachel是一位艺术家。她每周在她的Instagram账号上发布一个速画视频来推广她的作品。为了节省时间，她一次性绘制并录制4个视频。她大约需要1小时来准备绘画用品和摄像机。然后她每幅画绘制1小时。她又花了1小时来清理。每个视频需要1.5小时来编辑和发布。Rachel制作一个速画视频需要多长时间？。",
+  "topic": "回答下面的数学问题：Rachel is an artist. She posts a speed painting video each week on her Instagram account to promote her work. To save time, she paints and records 4 videos at a time. It takes her about 1 hour to set up her painting supplies and her camera. Then she records herself painting for 1 hour per painting. She takes another 1 hour to clean up. Each video takes 1.5 hours to edit and post. How long does it take Rachel to produce a speed painting video?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个杯子里有480粒米。如果半杯是8汤匙，而一汤匙是3茶匙，那么一茶匙有多少粒米？。",
+  "topic": "回答下面的数学问题：There are 480 grains of rice in one cup. If half a cup is 8 tablespoons and one tablespoon is 3 teaspoons, how many grains of rice are in a teaspoon?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

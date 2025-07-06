@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：戴夫为他的篮球队买了3包白色T恤和2包蓝色T恤。白色T恤是6件一包，蓝色T恤是4件一包。戴夫总共买了多少件T恤？。",
+  "topic": "回答下面的数学问题：Dave bought 3 packs of white T-shirts and 2 packs of blue T-shirts for his basketball team. The white T-shirts come in packs of 6, and the blue T-shirts come in packs of 4. How many T-shirts did Dave buy in all?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

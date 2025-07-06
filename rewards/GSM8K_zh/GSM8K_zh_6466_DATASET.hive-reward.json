@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托马斯正在为他的科学项目记录五月份的降雨量。第一天降雨量为26厘米。第二天降雨量为34厘米。第三天降雨量比第二天少12厘米。通常，五月份的前三天的平均降雨量在正常年份是140厘米。今年的降雨量比平均少多少？。",
+  "topic": "回答下面的数学问题：Thomas is keeping track of the rainfall in May for his science project. On the first day, 26 cm of rain fell. On the second day, 34 cm fell. On the third day, 12 cm less than the second day fell. The average rainfall for the first three days of May is usually 140 cm across all three days, in a normal year. How much less is it raining this year than average?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

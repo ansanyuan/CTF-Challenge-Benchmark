@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮在花掉她的钱的3/7后还剩下24美元。她原来的钱数的一半是多少？。",
+  "topic": "回答下面的数学问题：Jenny had $24 left after spending 3/7 of her money. How much is half of her original amount of money?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

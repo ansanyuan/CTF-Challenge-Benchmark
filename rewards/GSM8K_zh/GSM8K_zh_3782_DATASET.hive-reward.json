@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：琼有180只袜子。三分之二的袜子是白色，其余的袜子是蓝色。琼有多少只蓝色袜子？。",
+  "topic": "回答下面的数学问题：Joan has 180 socks. Two thirds of the socks are white, and the rest of the socks are blue. How many blue socks does Joan have?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

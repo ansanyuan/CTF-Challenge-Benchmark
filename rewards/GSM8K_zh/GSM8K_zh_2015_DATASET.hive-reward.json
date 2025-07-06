@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮弗正在建造用来养金鱼的鱼缸。她建造了3个可以容纳15条鱼的鱼缸，并且加热并灌满了水。她计划建造其余的鱼缸，并且它们将配备加热器，每个鱼缸可以容纳10条鱼。如果她需要建造足够的鱼缸来容纳总共75条鱼，她还需要建造多少个鱼缸？。",
+  "topic": "回答下面的数学问题：Jennifer is building tanks to hold her goldfish. She built 3 tanks that will hold 15 fish each, heated, and filled them. She plans to build the rest of the tanks equipped with heaters, and they will hold 10 fish each. If she needs to build enough tanks to house a total of 75 fish, how many more will she need to build?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

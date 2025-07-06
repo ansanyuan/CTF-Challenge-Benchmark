@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一盒常规的100个洗碗机荚的价格是12美元。目前有一种同样价格的特殊尺寸盒子，里面多了20%的荚。如果每次洗涤使用1个荚，那么用新盒子你可以用1美元进行多少次洗涤循环？。",
+  "topic": "回答下面的数学问题：A regular box of 100 dishwasher pods costs $12. There's currently a special size box for the same price that has 20% more pods. How many dishwashing cycles with the new box can you run for $1 if you use 1 pod per cycle?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

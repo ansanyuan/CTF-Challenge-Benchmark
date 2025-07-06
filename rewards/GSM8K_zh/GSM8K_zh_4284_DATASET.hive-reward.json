@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾迪一天可以烤3个馅饼。他的妹妹一天可以烤6个馅饼，而他的母亲一天可以烤8个馅饼。他们7天内能烤多少个馅饼？。",
+  "topic": "回答下面的数学问题：Eddie can bake 3 pies a day. His sister can bake 6 pies while his mother can bake 8 pies a day. How many pies will they be able to bake in 7 days?",
   "checkpoint": [
     {
-      "$\\boxed{119}$": 1
+      "\\boxed{119}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kim梦游，为了监控她的睡眠时间，她在房间里安装了一个摄像头。Kim通常在晚上10点睡觉，早上6点醒来。她是个梦游者。有一天，在查看摄像头后，她发现那天她在凌晨2:15到2:38之间醒来并开始梦游。而且那天她比平时早5分钟醒来去洗手间。那天她在床上睡了多少分钟？。",
+  "topic": "回答下面的数学问题：Kim sleepwalks, to monitor her sleeping hours, she installs a camera in her room. Kim usually goes to sleep at 10 p.m. and wakes up at 6 a.m. She is a sleepwalker. One day, after reviewing the cameras, she finds that she woke up that day and was sleepwalking from 2:15 to 2:38 am.  Also, that day she woke up 5 minutes earlier than usual to go to the bathroom. How many minutes did she sleep on her bed that day?",
   "checkpoint": [
     {
-      "$\\boxed{452}$": 1
+      "\\boxed{452}": 1
     }
   ],
   "matchingmethod": [

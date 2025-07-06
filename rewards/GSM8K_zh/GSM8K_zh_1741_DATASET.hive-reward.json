@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布雷迪一年比德韦恩多赚450美元。如果德韦恩一年赚1500美元，那么布雷迪和德韦恩一年总共会赚多少钱？。",
+  "topic": "回答下面的数学问题：Brady will make $450 more in a year than Dwayne. If Dwayne makes $1,500 in a year, how much will Brady and Dwayne make combined in a year?",
   "checkpoint": [
     {
-      "$\\boxed{3450}$": 1
+      "\\boxed{3450}": 1
     }
   ],
   "matchingmethod": [

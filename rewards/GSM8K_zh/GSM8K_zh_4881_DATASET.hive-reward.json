@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉姆和他的表兄在餐厅用餐。他们各自点了一个奶酪汉堡和奶昔。他们还一起分享了一份奶酪薯条。一个奶酪汉堡3美元。一个奶昔5美元。奶酪薯条8美元。他们花了他们总共钱的80%。如果吉姆带了20美元，他的表兄带了多少钱？。",
+  "topic": "回答下面的数学问题：Jim and his Cousin are out at a restaurant. They each order a cheeseburger and milkshake. They also split an order to cheese fries. A cheeseburger is $3. A milkshake is $5. Cheese fries are $8. They spend 80% of their combined money. If Jim brought $20 how much did his cousin bring?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

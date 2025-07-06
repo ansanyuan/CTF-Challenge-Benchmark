@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carrie在她的农场收获了200个番茄和350个胡萝卜。如果她能卖掉一个番茄1美元，一个胡萝卜1.50美元，那么如果她卖掉所有的番茄和胡萝卜，她能赚多少钱？。",
+  "topic": "回答下面的数学问题：Carrie harvested 200 tomatoes and 350 carrots on her farm. If she can sell a tomato for $1 and a carrot for $1.50, how much money can she make if she sells all of her tomatoes and carrots?",
   "checkpoint": [
     {
-      "$\\boxed{725}$": 1
+      "\\boxed{725}": 1
     }
   ],
   "matchingmethod": [

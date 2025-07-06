@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Every positive integer $k$ has a unique factorial base expansion $(f_1,f_2,f_3,\\ldots,f_m)$ , meaning that $k=1!\\cdot f_1+2!\\cdot f_2+3!\\cdot f_3+\\cdots+m!\\cdot f_m$ , where each $f_i$ is an integer, $0\\le f_i\\le i$ , and $0<f_m$ . Given that $(f_1,f_2,f_3,\\ldots,f_j)$ is the factorial base expansion of $16!-32!+48!-64!+\\cdots+1968!-1984!+2000!$ , find the value of $f_1-f_2+f_3-f_4+\\cdots+(-1)^{j+1}f_j$ .",
   "checkpoint": [
     {
-      "$\\boxed{495}$": 1
+      "\\boxed{495}": 1
     }
   ],
   "matchingmethod": [

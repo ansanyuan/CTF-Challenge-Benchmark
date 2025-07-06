@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一架飞机沿美国东海岸进行了一次旅行。在旅行中，飞机在山区时间盘旋了3小时，在中部时间盘旋了4小时，在东部时间盘旋了2小时。第二天，它在前一天经过的每个地方再盘旋了2小时。计算飞机在两天内在山区时间，中部时间和东部时间上盘旋的总时间。。",
+  "topic": "回答下面的数学问题：An airplane took a trip along the Eastern Coast of the USA. During the trip, the plane hovered in Mountain time for 3 hours, Central time for 4 hrs, and Eastern time for 2 hrs. The next day it took 2 more hours to hover in each of the places it passed through the previous day. Calculate the total time it took the plane to hover over Mountain time, Central time, and Eastern time in the two days.",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三个朋友一起观看了411个短视频。凯尔西观看的视频比Ekon多43个。Ekon比Uma少17个。凯尔西观看了多少个视频？。",
+  "topic": "回答下面的数学问题：Together 3 friends watched 411 short videos. Kelsey watched 43 more than Ekon. Ekon watched 17 less than Uma. How many videos did Kelsey watch?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

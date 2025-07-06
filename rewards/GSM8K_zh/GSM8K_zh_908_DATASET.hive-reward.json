@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个商店收到20托盘的纸制品进行库存。一半的托盘是纸巾，四分之一是面巾纸，五分之一是纸盘。其余的是纸杯。商店收到了多少托纸杯？。",
+  "topic": "回答下面的数学问题：A store received 20 pallets of paper products to stock. Half the pallets were paper towels, a quarter were tissues, and a fifth were paper plates. The rest were paper cups. How many pallets of paper cups did the store receive?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

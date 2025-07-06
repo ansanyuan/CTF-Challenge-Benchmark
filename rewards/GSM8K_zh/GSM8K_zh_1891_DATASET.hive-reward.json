@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：简，凯拉和安东尼在一个度假胜地有暑期工作。他们的任务是叠客人的毛巾。简可以在5分钟内叠3条毛巾。凯拉可以在10分钟内叠5条毛巾，而安东尼可以在20分钟内叠7条毛巾。如果他们一起叠毛巾，他们可以在一个小时内叠多少条毛巾？。",
+  "topic": "回答下面的数学问题：Jane, Kyla, and Anthony have summer jobs in a resort. Their task is to fold guests' towels. Jane can fold 3 towels in 5 minutes. Kyla can fold 5 towels in 10 minutes, and Anthony can fold 7 towels in 20 minutes. If they all fold towels together, how many towels can they fold in one hour?",
   "checkpoint": [
     {
-      "$\\boxed{87}$": 1
+      "\\boxed{87}": 1
     }
   ],
   "matchingmethod": [

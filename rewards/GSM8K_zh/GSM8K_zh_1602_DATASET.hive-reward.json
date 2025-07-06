@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：班级中个子矮的学生人数是总学生人数的2/5。如果有90名个子高的学生，班级有400名学生，计算个子中等的学生总人数。。",
+  "topic": "回答下面的数学问题：The number of short students in a class is 2/5 of the total number of students. If there are 90 tall students, and the class has 400 students, calculate the total number of students with average height.",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

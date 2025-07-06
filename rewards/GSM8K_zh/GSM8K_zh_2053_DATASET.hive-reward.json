@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：简有一本500页的书要读。简以每天10页的速度读完了书的前半部分，然后以每天5页的速度读完了书的后半部分。简一共花了多少天来读完这本书？。",
+  "topic": "回答下面的数学问题：Jane had a 500 page book to read. The first half of the book Jane read with a speed of 10 pages per day, and the second half with a speed of 5 pages a day. How many days did Jane spend reading this book?",
   "checkpoint": [
     {
-      "$\\boxed{75}$": 1
+      "\\boxed{75}": 1
     }
   ],
   "matchingmethod": [

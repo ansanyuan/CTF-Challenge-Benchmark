@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cole女士在学校教授三个级别的数学课。Cole女士的四年级数学课的学生人数是她六年级数学课学生人数的四倍。她七年级数学课的学生人数是四年级数学课学生人数的两倍。如果Cole女士的六年级班有40名学生，那么Cole女士一共教了多少名数学学生？。",
+  "topic": "回答下面的数学问题：Ms. Cole teaches math in three levels of classes in her school. There are four times as many students in Ms. Cole's fourth-level math class as in her sixth-level math class. The number of students in her seventh-level math class is twice that in the fourth-level math class.  If Ms. Cole's sixth-level class has 40 students, how many math students does Ms. Cole teach?",
   "checkpoint": [
     {
-      "$\\boxed{520}$": 1
+      "\\boxed{520}": 1
     }
   ],
   "matchingmethod": [

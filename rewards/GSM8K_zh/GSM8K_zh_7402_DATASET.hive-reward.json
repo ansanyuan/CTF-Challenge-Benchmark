@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Finnegan先生有3个容量分别为7000加仑、5000加仑和3000加仑的水箱。如果他将第一个水箱填满到3/4，第二个水箱填满到容量的4/5，第三个水箱填满到容量的一半，那么水箱里总共有多少加仑的水？。",
+  "topic": "回答下面的数学问题：Mr. Finnegan has 3 tanks with a capacity of 7000 gallons, 5000 gallons, and 3000 gallons, respectively. If he fills the first tank up to 3/4 full, the second tank with water up to 4/5 of its capacity, and the third tank up to half of its capacity, how many gallons in total are in the tanks?",
   "checkpoint": [
     {
-      "$\\boxed{10850}$": 1
+      "\\boxed{10850}": 1
     }
   ],
   "matchingmethod": [

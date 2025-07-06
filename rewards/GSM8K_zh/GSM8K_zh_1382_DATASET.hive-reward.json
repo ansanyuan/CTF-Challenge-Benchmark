@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥利弗想知道他的浴缸能装多少水。于是他拿了一个能装120盎司的桶开始往浴缸里倒水。当浴缸装满时，他发现他倒了14次。然后他想知道他用了多少洗澡水，于是他开始拿走桶，直到水位降到他想要的高度。他需要拿走3个桶才能做到这一点。最后，他想知道他每周洗澡用了多少水，因为他每天都洗澡。他每周用了多少水？。",
+  "topic": "回答下面的数学问题：Oliver wonders how much water his bathtub can hold. So he takes a bucket that holds 120 ounces and starts filling the bathtub. When it reaches the top, he sees that he filled it 14 times. Then he wonders how much bathwater he uses, so he starts taking away buckets until it gets to the level he puts it at. He needs to take away 3 buckets to do this. Finally, he wonders how much water he uses in a week for his baths, which he takes every day. How much water does he use each week?",
   "checkpoint": [
     {
-      "$\\boxed{9240}$": 1
+      "\\boxed{9240}": 1
     }
   ],
   "matchingmethod": [

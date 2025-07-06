@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在工作的第一个小时，马诺洛以每4分钟制作一个口罩的速度工作。此后，他以每6分钟制作一个口罩的速度工作。马诺洛在一个四小时的工作时间内制作了多少口罩？。",
+  "topic": "回答下面的数学问题：For the first hour of work, Manolo can make face-masks at the rate of one every four minutes. Thereafter, he can make face-masks at the rate of one every six minutes. How many face-masks does Manola make in a four-hour shift?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克决定做更多引体向上来增强他攀岩的力量。他使用了“润滑槽”技术，每次他进入特定的房间就做2个引体向上。他决定使用他的办公室。他每天进去5次。一周内他做了多少个引体向上？。",
+  "topic": "回答下面的数学问题：Mike decides to do more pull-ups to increase his strength for climbing.  He uses the greasing the groove technique where every time he goes into a certain room he does 2 pull-ups.  He decides to use his office.  He goes in there 5 times a day every day.  How many pull-ups does he do a week?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

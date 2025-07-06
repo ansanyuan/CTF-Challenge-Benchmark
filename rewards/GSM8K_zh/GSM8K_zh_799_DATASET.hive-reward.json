@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Patsy准备好迎接本周末的毕业典礼。她需要为她的30位客人准备6份开胃菜。她正在做3打魔鬼蛋、2打猪肉卷和2打烤肉串。她还需要再做多少打开胃菜？。",
+  "topic": "回答下面的数学问题：Patsy is gearing up for this weekend’s graduation.  She needs to have 6 appetizers per each of her 30 guests.  She’s making 3 dozen deviled eggs, 2 dozen pigs in a blanket and 2 dozen kebabs.  How many more dozen appetizers does she need to make?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

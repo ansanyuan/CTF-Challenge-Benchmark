@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：40个人中有7个人穿格子衬衫。其余的人穿竖条纹和横条纹。穿横条纹的人数是穿格子衬衫的4倍。穿竖条纹的人有多少？。",
+  "topic": "回答下面的数学问题：7 out of 40 people in a cafeteria are wearing checkered shirts. The rest of the people are wearing vertical stripes and horizontal stripes. The number of people wearing horizontal stripes is 4 times as many as the people wearing checkered shirts. How many people are wearing vertical stripes?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

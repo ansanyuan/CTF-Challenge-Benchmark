@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽去商店买水果。苹果1美元，橙子2美元，香蕉3美元。每买5个水果，商店就会提供1美元的折扣。玛丽买了5个苹果，3个橙子和2个香蕉。她要支付多少钱？。",
+  "topic": "回答下面的数学问题：Mary went to the store to buy fruit. Apples cost $1, oranges cost $2, and bananas cost $3. For every 5 fruits that customers buy, the store offers a $1 discount. Mary buys 5 apples, 3 oranges, and 2 bananas. How much will she pay?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

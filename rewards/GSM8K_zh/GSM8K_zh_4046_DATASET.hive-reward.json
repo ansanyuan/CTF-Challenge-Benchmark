@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Laura去公园六次。每次旅行，她在公园里呆了2个小时，另外还要花30分钟往返于公园。Laura在去公园的旅行中，她在公园里度过了总时间的百分之多少？。",
+  "topic": "回答下面的数学问题：Laura took six trips to park.  On each trip, she spent 2 hours at the park and an additinal 30 minutes walking to and from the park.  What percentage of the total time she took for her trips to the park did Laura spend in the park?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

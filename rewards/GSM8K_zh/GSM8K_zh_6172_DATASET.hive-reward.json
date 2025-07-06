@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ted需要购买5根香蕉和10个橙子。如果香蕉每根2美元，橙子每个1.50美元。Ted购买5根香蕉和10个橙子需要多少钱？。",
+  "topic": "回答下面的数学问题：Ted needs to purchase 5 bananas and 10 oranges.  If bananas cost $2 each and oranges cost $1.50 each.  How much money does Ted need to purchase 5 bananas and 10 oranges?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

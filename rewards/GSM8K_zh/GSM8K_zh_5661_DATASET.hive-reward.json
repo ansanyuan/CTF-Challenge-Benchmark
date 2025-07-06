@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：威尔森先生星期一制作家具工作了3/4小时。星期二，他工作了半小时。然后他星期三工作了2/3小时，星期四工作了5/6小时。如果他星期五工作了75分钟，那么他从星期一到星期五一共工作了多少小时？。",
+  "topic": "回答下面的数学问题：Mr. Willson worked on making his furniture for 3/4 an hour on Monday. On Tuesday, he worked for half an hour. Then he worked for 2/3 an hour on Wednesday and 5/6 of an hour on Thursday. If he worked for 75 minutes on Friday, how many hours in all did he work from Monday to Friday?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

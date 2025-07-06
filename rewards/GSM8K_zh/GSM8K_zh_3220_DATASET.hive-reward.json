@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：科里买了一张露台桌和4把椅子，花了135美元。露台桌的价格是55美元。如果每把椅子的价格相同，每把椅子的价格是多少？。",
+  "topic": "回答下面的数学问题：Cory bought a patio table and 4 chairs for $135. The patio table cost $55. If each chair cost the same amount, how much did each chair cost?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

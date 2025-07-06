@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marty和Biff都在竞选学生会主席。进行了一项民意调查，以了解候选人的竞选活动进展如何。45%的受访者表示他们将投票给Biff，8%的人表示他们还没有决定。其余的人表示他们将投票给Marty。如果有200人接受了调查，有多少人表示他们将投票给Marty？。",
+  "topic": "回答下面的数学问题：Marty and Biff were both running for student council president. A poll was taken to see how the candidate’s campaigns were going. 45% of the people polled said they were voting for Biff and 8% were undecided. The rest said they are voting for Marty. If 200 people were polled, how many said they are voting for Marty?",
   "checkpoint": [
     {
-      "$\\boxed{94}$": 1
+      "\\boxed{94}": 1
     }
   ],
   "matchingmethod": [

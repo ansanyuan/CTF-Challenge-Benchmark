@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰和詹姆斯决定进行一场舞蹈比赛。 约翰跳了3个小时，然后休息1小时后又跳了5个小时。 詹姆斯在约翰跳舞和休息的时候一直跳舞，然后又多跳了1/3的时间。 他们的总共跳舞时间（不包括约翰的休息时间）是多长？。",
+  "topic": "回答下面的数学问题：John and James decided to have a dance-off.  John danced for 3 hours and then another 5 hours after taking a 1-hour break.  James danced the whole time John was dancing and resting, and then another 1/3 times more hours.  How long was their combined dancing time without including  John's break time?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布什和马特是兄弟。布什比马特小3岁。今年布什将12岁。10年后马特多大？。",
+  "topic": "回答下面的数学问题：Bush and Matt are brothers. Bush is younger than Matt by 3 years. This year Bush will be 12 years old. What will be Matt's age 10 years from now?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

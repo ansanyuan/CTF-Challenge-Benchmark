@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ella通过遛狗3小时赚了33美元。如果她以相同的速率继续遛狗，那么她在12小时后会赚多少钱？。",
+  "topic": "回答下面的数学问题：Ella earned $33 for 3 hours of dog walking. If she continues to walk dogs at the same rate, how much would she earn after 12 hours?",
   "checkpoint": [
     {
-      "$\\boxed{132}$": 1
+      "\\boxed{132}": 1
     }
   ],
   "matchingmethod": [

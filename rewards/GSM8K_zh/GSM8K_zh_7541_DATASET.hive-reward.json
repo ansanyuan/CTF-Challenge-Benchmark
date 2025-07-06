@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个寻宝者发现了一个装满宝石的埋藏宝箱。里面有175颗钻石，红宝石比钻石少35颗，绿宝石的数量是红宝石的两倍。宝箱里总共有多少宝石？。",
+  "topic": "回答下面的数学问题：A treasure hunter found a buried treasure chest filled with gems. There were 175 diamonds, 35 fewer rubies than diamonds, and twice the number of emeralds than the rubies.   How many of the gems were there in the chest?",
   "checkpoint": [
     {
-      "$\\boxed{595}$": 1
+      "\\boxed{595}": 1
     }
   ],
   "matchingmethod": [

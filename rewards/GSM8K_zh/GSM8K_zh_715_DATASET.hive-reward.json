@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰经营一个网站，每个月有30000次访问，一个正常的30天月份。他每次访问得到0.01美元。他每天赚多少钱？。",
+  "topic": "回答下面的数学问题：John runs a website that gets 30000 visits a month, for a normal 30 day month.  He gets $.01 per visit.  How much does he make per day?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

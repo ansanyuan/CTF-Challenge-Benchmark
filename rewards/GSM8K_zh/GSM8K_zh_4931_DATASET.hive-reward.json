@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯决定砍一些树。在头两天，他每天砍20棵树。接下来的3天，他的两个兄弟帮他砍树。他们每天比詹姆斯少砍20%的树。总共砍了多少棵树？。",
+  "topic": "回答下面的数学问题：James decides to cut down some trees.  In the first 2 days, he cuts down 20 trees each day.  For the next 3 days his 2 brothers help him cut down trees.  They cut 20% fewer trees per day than James.  How many total trees were cut down?",
   "checkpoint": [
     {
-      "$\\boxed{196}$": 1
+      "\\boxed{196}": 1
     }
   ],
   "matchingmethod": [

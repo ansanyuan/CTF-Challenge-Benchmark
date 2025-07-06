@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯教了40年。他的伴侣教了少了10年。他们的总教学经验有多长？。",
+  "topic": "回答下面的数学问题：James spends 40 years teaching.  His partner has been teaching for 10 years less.  How long is their combined experience?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

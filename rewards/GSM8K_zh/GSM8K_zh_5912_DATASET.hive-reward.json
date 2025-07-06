@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个建筑有20层。每层高3米，除了最后两层。最后两层每层高0.5米。建筑有多高？。",
+  "topic": "回答下面的数学问题：A building has 20 floors. Each floor is 3 meters high, except for the last two floors. The last two floors are each 0.5 meters higher. How tall is the building?",
   "checkpoint": [
     {
-      "$\\boxed{61}$": 1
+      "\\boxed{61}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莉莲的花园里没有任何鸟食器，所以她想添加一些。她自己制作了3个，并且又买了3个。每个鸟食器似乎会吸引20只鸟整天停留，直到莉莲注意到鸟儿似乎更喜欢她自己制作的鸟食器，每个比买来的多吸引10只鸟。如果每天都有相同数量的鸟儿来到她的鸟食器，莉莲每天可以期待在她的花园里看到多少只鸟？。",
+  "topic": "回答下面的数学问题：Lillian's garden doesn't have any bird feeders in it so she wants to add some. She builds 3 and buys 3 others. Each bird feeder seems to attract 20 birds throughout the day until Lillian notices that the birds seem to prefer the feeders she made herself which attract 10 more birds each than the store-bought ones. How many birds can Lillian expect to see in her garden each day if the same amount keep coming to her bird feeders?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

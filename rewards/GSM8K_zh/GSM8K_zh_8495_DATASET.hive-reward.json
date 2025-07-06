@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一份60道题的测验中，40%的题目是简单的，其余的题目平均分为中等和困难题。如果白羊座确信她能答对75%的简单题，以及一半的中等和困难题，她能确信自己能得到多少分？。",
+  "topic": "回答下面的数学问题：In a 60-item quiz, 40% of the questions are easy, and the rest are equally divided as average and difficult questions. If Aries is sure to get 75% of the easy questions, and half of the average and difficult questions correctly, how many points is she sure to get?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

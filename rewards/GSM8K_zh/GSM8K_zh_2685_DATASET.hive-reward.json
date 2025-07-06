@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个州级博览会门票价格为5美元。购买门票的人中有三分之二会购买价值8美元的炸鲜食品，四分之一会花4美元玩游乐设施，八分之一会花15美元购买纪念品。博览会从门票上赚取了2520美元。他们总共赚取了多少美元？。",
+  "topic": "回答下面的数学问题：A state fair charges $5 for a ticket. Two-thirds of the people who buy a ticket will buy deep-fried fair food for $8, one quarter will go on a ride for $4, and one eighth will spend $15 on a souvenir. The fair made $2520 from tickets. How many dollars did they make in all?",
   "checkpoint": [
     {
-      "$\\boxed{6657}$": 1
+      "\\boxed{6657}": 1
     }
   ],
   "matchingmethod": [

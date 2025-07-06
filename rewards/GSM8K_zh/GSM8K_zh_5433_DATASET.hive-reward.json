@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果第一和第五名最快的狗的平均年龄，第一名最快的狗是10岁，第二名最快的狗比第一名最快的狗小2岁，第三名最快的狗比第二名最快的狗大4岁，第四名最快的狗是第三名最快的狗年龄的一半，第五名最快的狗比第四名最快的狗大20岁，那么第一和第五名最快的狗的平均年龄是多少？。",
+  "topic": "回答下面的数学问题：What is the average age of the 1st and 5th fastest dogs if the 1st fastest dog is 10 years old, the 2nd fastest dog is 2 years younger than the first fastest dog, the 3rd fastest dog is 4 years older than the 2nd fastest dog, the 4th fastest dog is half the age of the 3rd fastest dog, and the 5th fastest dog is 20 years older than the 4th fastest dog?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

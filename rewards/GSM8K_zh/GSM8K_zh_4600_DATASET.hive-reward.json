@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个店主买了150包牛奶。每包牛奶含250毫升。如果1液体盎司等于30毫升，他买了多少盎司的牛奶？。",
+  "topic": "回答下面的数学问题：A shopkeeper bought 150 packets of milk. Each packet contained 250 ml of milk. If one fluid ounce is equal to 30 ml, how many ounces of milk did he buy?",
   "checkpoint": [
     {
-      "$\\boxed{1250}$": 1
+      "\\boxed{1250}": 1
     }
   ],
   "matchingmethod": [

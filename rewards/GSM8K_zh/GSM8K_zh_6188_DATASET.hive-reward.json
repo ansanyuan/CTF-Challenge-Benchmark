@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：道琼斯工业平均指数今天下跌了2%。道琼斯在收盘时为8722。市场开盘前道琼斯指数是多少？。",
+  "topic": "回答下面的数学问题：The Dow Jones Industrial Average fell 2% today. The Dow ended the day at 8,722. What was the Dow in the morning before the markets opened?",
   "checkpoint": [
     {
-      "$\\boxed{8900}$": 1
+      "\\boxed{8900}": 1
     }
   ],
   "matchingmethod": [

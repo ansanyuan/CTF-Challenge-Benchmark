@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：朱莉操作收银机的速度是她经验较少的同事朱尔的两倍。朱尔每天处理50位顾客。如果他们一周七天都工作，两人一周的总处理顾客数是多少？。",
+  "topic": "回答下面的数学问题：Julie operates the cash register exactly twice as fast as her less-experienced colleague Jewel. Daily, Jewel processes 50 customers. What is the total weekly production for the two if they work all days of the week?",
   "checkpoint": [
     {
-      "$\\boxed{1050}$": 1
+      "\\boxed{1050}": 1
     }
   ],
   "matchingmethod": [

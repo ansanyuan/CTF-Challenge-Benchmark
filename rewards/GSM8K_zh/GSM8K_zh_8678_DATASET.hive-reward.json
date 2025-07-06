@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：二十名游客在一家购物中心的停车场发现了700个贝壳。他们分成三组，Alphas、The finders和Gogetters，以找到尽可能多的贝壳。如果Alphas队找到了40%的贝壳，The finders队找到了剩余贝壳的60%，那么Gogetters队找到了多少个贝壳？。",
+  "topic": "回答下面的数学问题：Twenty tourists discovered 700 shells in a strip mall parking lot. They had divided into three groups, Alphas, The finders, and Gogetters to find as many shells as possible. If team Alphas found 40% of the shells, and team The finders found 60% of the remaining shells, how many shells did team Gogetters find?",
   "checkpoint": [
     {
-      "$\\boxed{168}$": 1
+      "\\boxed{168}": 1
     }
   ],
   "matchingmethod": [

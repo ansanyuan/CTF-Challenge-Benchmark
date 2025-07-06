@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jessica每月有一个基本的有线电视服务，价格为15美元。如果她添加电影频道，每月将额外花费12美元。体育频道的价格比电影频道低3美元。如果Jessica添加电影频道和体育频道，她的总月费用将是多少？。",
+  "topic": "回答下面的数学问题：Jessica has a basic cable television service for $15 per month. If she adds the movie channels, it will cost an additional $12 per month. The sports channels cost $3 less per month than the movie channels. If Jessica adds the movie channels and the sports channels, what will her total monthly payment be?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

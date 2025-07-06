@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：唐娜平时每天可以看8集剧集。在周末的每一天，她可以看平时的三倍剧集。她一周可以看多少集剧集？。",
+  "topic": "回答下面的数学问题：Donna can watch 8 episodes each day during weekdays. On each weekend day, she can watch three times the number of episodes she can watch on the weekdays. How many episodes can she watch in a week?",
   "checkpoint": [
     {
-      "$\\boxed{88}$": 1
+      "\\boxed{88}": 1
     }
   ],
   "matchingmethod": [

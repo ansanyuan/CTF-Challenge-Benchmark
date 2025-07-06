@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆开了一个游乐园。最初开业的成本是10万美元。每天的运营成本也是这个数的1%。他每天卖150张票，每张票10美元。他需要多长时间才能收回成本？。",
+  "topic": "回答下面的数学问题：Tom opens an amusement park.  It cost $100,000 to open initially.  It also cost 1% of that to run per day.  He sells 150  tickets a day for $10 each.  How long will it take to make back his money?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

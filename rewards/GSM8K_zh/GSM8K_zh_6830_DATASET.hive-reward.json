@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Karen想出去买一些快餐。她开车到了驶入式快餐店，并点了一份5美元的汉堡。然后她儿子大喊着要一份4美元的三明治，所以这也被加到了订单中。Karen随后决定再点一些饮料，并选择了两份4美元的冰沙。Karen的快餐订单总共多少钱？。",
+  "topic": "回答下面的数学问题：Karen wanted to go out to get some fast food. She pulls up to the drive-through and orders a 5-dollar burger. Her son then yelled out that he wanted a 4-dollar sandwich, so it was added to the order. Karen then decided to order some drinks and opted for two 4-dollar smoothies. What is the total cost of Karen's fast-food order?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莉安娜在当地建立了一个食品银行，收集食物给当地的无家可归者。在第一周，当地人捐赠了40磅的食物给食品银行。在第二周，捐赠的食物数量是第一周的两倍。如果她在第三周将捐赠的食物的70%分发给了无家可归者，请计算食品银行中剩余的食物数量。。",
+  "topic": "回答下面的数学问题：Lyanna set up a food bank to collect food to give to the homeless in her local town. In the first week, 40 pounds of food were donated to the food bank by the people of her local town. In the second week, donations were twice as high as the first week. If she gave out 70% of the donated food to the homeless in the third week, calculate the amount of food remaining in the food bank.",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯托弗在他的咖啡里使用1包糖代用品。他一天喝2杯咖啡。每盒有30包，售价4.00美元。他要购买足够的糖代用品让他使用90天，这将花费他多少钱？。",
+  "topic": "回答下面的数学问题：Christopher uses 1 packet of a sugar substitute in his coffee.  He has 2 coffees a day.  The packets come 30 to a box and cost $4.00 a box.  How much will it cost him to have enough sugar substitutes to last him 90 days?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

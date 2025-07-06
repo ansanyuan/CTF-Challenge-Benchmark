@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jose是一位收藏优质葡萄酒的人。他的私人酒窖目前存放着2400瓶进口葡萄酒，以及与进口葡萄酒数量相等一半的国产葡萄酒。如果Jose举办派对，客人喝掉了他所有葡萄酒的三分之一，那么他的酒窖里还剩下多少瓶酒？。",
+  "topic": "回答下面的数学问题：Jose is a collector of fine wines.  His private cellar currently holds 2400 bottles of imported wine and half as many bottles of domestic wine as imported wine.  If Jose holds a party and the guests drink one-third of all his wine, how many bottles will remain in his cellar?",
   "checkpoint": [
     {
-      "$\\boxed{2400}$": 1
+      "\\boxed{2400}": 1
     }
   ],
   "matchingmethod": [

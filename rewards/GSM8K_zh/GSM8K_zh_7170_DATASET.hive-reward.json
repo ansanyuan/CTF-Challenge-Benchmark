@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在农场的一天里，安妮采摘了八品蓝莓。凯瑟琳比安妮多采摘了两品，本比凯瑟琳少采摘了三品。他们三个总共采摘了多少品蓝莓？。",
+  "topic": "回答下面的数学问题：During a day at the farm, Annie picked eight pints of blueberries. Kathryn picked two pints more than Annie, and Ben picked three pints fewer than Kathryn. How many pints, in total, did the three pick together?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

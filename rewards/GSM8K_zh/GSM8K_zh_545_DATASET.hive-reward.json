@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Elise正在购买更多的狗粮。她买了一个15公斤的袋子，然后又买了一个10公斤的袋子，现在她有40公斤的狗粮。Elise已经有多少公斤的狗粮？。",
+  "topic": "回答下面的数学问题：Elise is buying more dog food. She buys a 15kg bag then another 10kg bag, and she now has 40kg of dog food. How many kilograms of dog food did Elise already have?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

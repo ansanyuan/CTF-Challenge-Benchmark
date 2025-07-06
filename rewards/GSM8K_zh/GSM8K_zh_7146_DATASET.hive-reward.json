@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克制作了一个纯金的立方体。每边长6厘米。金的密度为每立方厘米19克。他以每克60美元的价格购买金。他以金价的1.5倍出售。他的利润是多少？。",
+  "topic": "回答下面的数学问题：Mark constructs a cube of pure gold.  The cube is 6 cm on each side.  The density of gold is 19 grams per cubic centimeter.  He buys the gold for $60 per gram.  He sells it for 1.5 times its gold value.  What was the profit?",
   "checkpoint": [
     {
-      "$\\boxed{123120}$": 1
+      "\\boxed{123120}": 1
     }
   ],
   "matchingmethod": [

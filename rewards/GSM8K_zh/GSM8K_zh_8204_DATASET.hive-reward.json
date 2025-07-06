@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：帕克每天嚼4片口香糖。一包口香糖里有15片。他需要多少包口香糖才能够用30天？。",
+  "topic": "回答下面的数学问题：Parker chews 4 pieces of gum a day.  A pack of gum has 15 pieces of chewing gum per pack.  How many packs of gum will he need to last him 30 days?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

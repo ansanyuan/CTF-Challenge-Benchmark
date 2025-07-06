@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰喝了2罐能量饮料。其中一罐是12盎司，含有250克咖啡因。第二罐饮料每盎司含有前者的3倍咖啡因，但只有2盎司。然后他服用了一颗咖啡因片，其咖啡因含量等同于他两罐饮料的总和。他总共摄入了多少咖啡因？。",
+  "topic": "回答下面的数学问题：John drinks 2 energy drinks. 1 of them is a 12-ounce drink with 250 grams of caffeine.  The second drink is 3 times more caffeinated per ounce but only 2 ounces.  He then takes a caffeine pill that has as much caffeine as his 2 drinks combined.  How much caffeine did he consume?",
   "checkpoint": [
     {
-      "$\\boxed{750}$": 1
+      "\\boxed{750}": 1
     }
   ],
   "matchingmethod": [

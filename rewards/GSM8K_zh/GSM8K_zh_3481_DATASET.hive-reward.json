@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：切尔西为义卖会做了4批纸杯蛋糕。每批纸杯蛋糕烘烤需要20分钟，每批需要30分钟来上糖衣。切尔西制作纸杯蛋糕花了多长时间？。",
+  "topic": "回答下面的数学问题：Chelsea made 4 batches of cupcakes for the bake sale. The cupcakes took 20 minutes to bake and 30 minutes to ice per batch. How long did it take Chelsea to make the cupcakes?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

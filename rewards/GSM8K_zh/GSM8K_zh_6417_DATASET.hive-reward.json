@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：弗兰克正在练习一种新的舞步。他先向后退5步，然后向前迈10步，然后向后2步，然后再向前迈双倍的步数。弗兰克距离他最初的起点有多少步？。",
+  "topic": "回答下面的数学问题：Frank is practicing a new dance move.  It starts with him take 5 steps back, and then 10 steps forward, and then 2 steps back, and then double that amount forward.  How many steps forward is Frank from his original starting point?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

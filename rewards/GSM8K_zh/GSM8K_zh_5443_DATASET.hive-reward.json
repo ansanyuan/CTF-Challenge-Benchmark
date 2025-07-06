@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：弗朗西斯的家里有2把尤克里里琴，4把吉他和一定数量的小提琴。每把尤克里里琴有4根弦。每把吉他有6根弦。每把小提琴有4根弦。如果尤克里里琴、吉他和小提琴的总弦数是40根，那么弗朗西斯的家里有多少把小提琴？。",
+  "topic": "回答下面的数学问题：Francis' family has 2 ukuleles, 4 guitars, and a certain number of violins. Each ukulele has 4 strings. Each guitar has 6 strings. Each violin has 4 strings. If the total number of strings among the ukuleles, guitars, and violins is 40 strings, how many violins does Francis' family have?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

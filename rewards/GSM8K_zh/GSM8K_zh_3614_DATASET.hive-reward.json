@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：帕姆的银行账户余额在一年内翻了三倍。年底时，帕姆取出了250美元。如果她当前的余额是950美元，那么她一年初的银行账户余额是多少？。",
+  "topic": "回答下面的数学问题：The balance of Pam's bank account tripled during the year. At the end of the year, Pam withdrew $250. If her current balance is $950, how much did she have in the bank account at the beginning of the year?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

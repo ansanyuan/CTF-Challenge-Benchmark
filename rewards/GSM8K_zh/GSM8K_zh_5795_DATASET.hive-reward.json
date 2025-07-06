@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托德向他的兄弟借了100美元来开一个雪糕摊。他必须尽快还给他110美元。托德花了75美元买雪糕的原料。他以每个0.75美元的价格卖出了200个雪糕。在他还给他兄弟之后，托德还剩多少钱？。",
+  "topic": "回答下面的数学问题：Todd borrowed $100 from his brother to start a snow-cone stand. He has to repay him $110 as soon as he can. Todd spent $75 on ingredients for the snow cones. He sells 200 of them for $.75 each. After he pays back his brother, how much money does Todd have?",
   "checkpoint": [
     {
-      "$\\boxed{65}$": 1
+      "\\boxed{65}": 1
     }
   ],
   "matchingmethod": [

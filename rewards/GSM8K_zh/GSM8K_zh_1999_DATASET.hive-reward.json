@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈罗德有100颗弹珠。他留下20颗弹珠，然后将剩下的平均分给他的5个朋友。每个朋友得到了多少颗弹珠？。",
+  "topic": "回答下面的数学问题：Harold had 100 marbles. He kept 20 marbles and shared the rest evenly among his 5 friends. How many marbles did each friend get?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

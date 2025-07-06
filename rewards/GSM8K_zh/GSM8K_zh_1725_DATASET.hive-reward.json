@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Parker的剪贴簿里有18张邮票。如果Addie把她的72张邮票的四分之一放在Parker的剪贴簿里，那么他现在有多少张邮票？。",
+  "topic": "回答下面的数学问题：There were 18 stamps in Parker’s scrapbook. If Addie put one fourth of her 72 stamps in Parker’s scrapbook, how many stamps does he have now?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

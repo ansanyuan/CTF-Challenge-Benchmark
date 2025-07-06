@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克尔经营着一个面包店，他需要为5个桃子馅饼、4个苹果馅饼和3个蓝莓馅饼准备订单。每个馅饼的食谱都需要3磅水果。在市场上，蓝莓和苹果的水果每磅售价为1.00美元。每磅桃子的售价为2.00美元。迈克尔在市场上购买水果为他的馅饼订单将花费多少钱？。",
+  "topic": "回答下面的数学问题：Michael ran a bakeshop and had to fill an order for 5 peach pies, 4 apple pies and 3 blueberry pies.  Each pie recipe called for 3 pounds of fruit each.  At the market, produce was on sale for $1.00 per pound for both blueberries and apples.  The peaches each cost $2.00 per pound.  How much will Michael spend at the market buying the fruit for his pie order?",
   "checkpoint": [
     {
-      "$\\boxed{51}$": 1
+      "\\boxed{51}": 1
     }
   ],
   "matchingmethod": [

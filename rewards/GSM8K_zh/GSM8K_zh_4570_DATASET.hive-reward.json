@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个牧场主拥有8只羊和5头牛，它们在他的土地上吃草。在一般的一年里，牧场主会让他的动物在牧场上尽可能长时间地吃草，直到草吃完。草吃完后，他必须购买每袋10美元的饲料玉米。每头牛每个月吃2英亩的草，每只羊每个月吃1英亩的草。此外，一袋饲料玉米可以喂养每头牛1个月，每只羊2个月。如果牧场主的牧场有144英亩的草，牧场主每年需要花多少钱来购买饲料玉米来喂养他的动物？。",
+  "topic": "回答下面的数学问题：A rancher owns a mixture of 8 sheep and 5 cattle that graze on his land.  In a typical year, the rancher will allow his animals to feed off his pastures for as long as possible before they run out of grass.  After the pastures run out of grass, he must buy feed corn for $10 per bag.  Each cow eats 2 acres of grass per month, and each sheep eats 1 acre of grass per month.  Additionally, a bag of feed corn can feed each cow for 1 month and each sheep for 2 months.   If the rancher's pasture contains 144 acres of grass, how much will the rancher need to spend on feed corn to feed his animals each year?",
   "checkpoint": [
     {
-      "$\\boxed{360}$": 1
+      "\\boxed{360}": 1
     }
   ],
   "matchingmethod": [

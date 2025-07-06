@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：你可以用相同的价格买4个苹果或1个西瓜。你买了36个水果，均匀分布在橙子、苹果和西瓜之间，而1个橙子的价格是0.50美元。如果你的总账单是66美元，那么1个苹果的价格是多少？。",
+  "topic": "回答下面的数学问题：You can buy 4 apples or 1 watermelon for the same price. You bought 36 fruits evenly split between oranges, apples and watermelons, and the price of 1 orange is $0.50. How much does 1 apple cost if your total bill was $66?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

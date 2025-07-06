@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只狗跑过一片田野，然后有一群4只猫加入。每只猫有2只兔子加入，每只兔子有3只野兔加入。田野上有多少动物？。",
+  "topic": "回答下面的数学问题：A dog runs through a field and is joined by a group of 4 cats. 2 rabbits join each cat and 3 hares join each rabbit. How many animals are running through the field?",
   "checkpoint": [
     {
-      "$\\boxed{37}$": 1
+      "\\boxed{37}": 1
     }
   ],
   "matchingmethod": [

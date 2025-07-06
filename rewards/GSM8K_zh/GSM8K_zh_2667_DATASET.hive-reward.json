@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果吉姆有20个苹果，简有60个苹果，杰瑞有40个苹果，那么吉姆的苹果数量可以装入该组中每个人的平均苹果数量多少次？。",
+  "topic": "回答下面的数学问题：If Jim has 20 apples, and Jane has 60 apples, and Jerry has 40 apples, how many times can Jim's number of apples fit into the average amount of apples for a person in the group?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

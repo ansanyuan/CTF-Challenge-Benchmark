@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛莎正在计划她的圣诞派对。她邀请了2个家庭，每个家庭有6人，以及3个家庭，每个家庭有4人。有8人因病无法参加，1/4的人有先前的约定。有多少人出席了玛莎的派对？。",
+  "topic": "回答下面的数学问题：Martha is planning her Christmas party. She invited 2 families with 6 people and 3 families with 4 people. 8 people couldn't come due to illness, and 1/4 that number had previous commitments. How many people show up for Martha's party?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

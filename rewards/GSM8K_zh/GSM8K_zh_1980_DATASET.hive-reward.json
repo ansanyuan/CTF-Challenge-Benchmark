@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：瓦尔把一个西瓜切成40片，每片有20颗黑籽和20颗白籽。一个西瓜总共有多少颗籽？。",
+  "topic": "回答下面的数学问题：Val cuts a single watermelon into 40 slices, and each slice has 20 black seeds and 20 white seeds. What is the total number of seeds in a watermelon?",
   "checkpoint": [
     {
-      "$\\boxed{1600}$": 1
+      "\\boxed{1600}": 1
     }
   ],
   "matchingmethod": [

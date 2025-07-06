@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔治把他月收入的一半捐给了慈善机构，并从另一半中花了20美元购买杂货。如果他现在还剩100美元，他的月收入是多少？。",
+  "topic": "回答下面的数学问题：George donated half his monthly income to charity and spent $20 from the other half on groceries. If he now has $100 left, how much was his monthly income?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

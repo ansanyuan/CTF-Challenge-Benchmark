@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：明天，将有42位成人和15位婴儿参加Mia餐厅的一个活动。餐厅的普通椅子是高椅的5倍。如果有8把高椅，她还需要准备多少把椅子？。",
+  "topic": "回答下面的数学问题：Tomorrow, 42 adults and 15 babies will be attending a function at Mia’s restaurant. The restaurant has 5 times as many regular chairs as high chairs. If there are 8 high chairs, how many more chairs does she have to get?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

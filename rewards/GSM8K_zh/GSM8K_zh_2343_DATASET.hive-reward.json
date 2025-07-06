@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个互联网提供商在每个月的25号之前支付的话，会给予5%的折扣。如果每月的互联网费用是50美元，如果客户每个月的25号支付，那么他在4个月内总共支付了多少钱？。",
+  "topic": "回答下面的数学问题：An internet provider gives a 5% discount if the customer pays before the 25th day of the month. If the monthly internet rate is $50, how much did the customer pay in all for 4 months if he paid every 25th of the month?",
   "checkpoint": [
     {
-      "$\\boxed{190}$": 1
+      "\\boxed{190}": 1
     }
   ],
   "matchingmethod": [

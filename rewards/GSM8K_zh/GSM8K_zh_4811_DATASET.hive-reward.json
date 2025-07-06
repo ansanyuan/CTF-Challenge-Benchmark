@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Dawn每年以12个相等的月付款赚取48,000美元。每个月，她会存下她工资的10%。她每个月存下多少钱？。",
+  "topic": "回答下面的数学问题：Dawn earns 48,000 a year in 12 equal monthly payments. Each month, she saves 10% of her salary. How much does she save each month?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

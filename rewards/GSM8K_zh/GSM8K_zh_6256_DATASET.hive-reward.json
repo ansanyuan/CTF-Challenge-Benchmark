@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rich正在阅读一本372页的书。他已经读了这本书的125页。如果他跳过了16页的地图，他还剩下多少页要读才能完成这本书？。",
+  "topic": "回答下面的数学问题：Rich is reading a 372-page book. He has already read 125 pages of the book. If he skipped the 16 pages of maps, how many more pages does he have left to read to finish the book?",
   "checkpoint": [
     {
-      "$\\boxed{231}$": 1
+      "\\boxed{231}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一块巧克力花费1.50美元，可以分成3块来做3个棉花糖。罗恩在后院为15名童子军举办露营活动。他希望确保每个人都有足够的巧克力花费做2个棉花糖。他将花费多少钱买巧克力？。",
+  "topic": "回答下面的数学问题：1 chocolate bar costs $1.50 and can be broken into 3 sections to make 3 s'mores.  Ron is hosting a boy scout camp out in his backyard for 15 scouts.  He wants to make sure that there are enough chocolate bars for everyone to have 2 s'mores each.  How much will he spend on chocolate bars?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

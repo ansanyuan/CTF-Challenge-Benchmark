@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：两堵砖墙正在建造中。每堵墙一排有30块砖，每堵墙有50排。用来建造两堵墙需要多少块砖？。",
+  "topic": "回答下面的数学问题：Two brick walls are being built. Each wall has 30 bricks in a single row and there are 50 rows in each wall. How many bricks will be used to make both walls?",
   "checkpoint": [
     {
-      "$\\boxed{3000}$": 1
+      "\\boxed{3000}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有些人在终点站上了公交车。在第一个车站，又有5个人上车。然后在第二个车站，有7个人下车，又有8个人上车。如果一共有20个人前往第三站，那么有多少人在终点站上了公交车？。",
+  "topic": "回答下面的数学问题：Some people got on a bus at the terminal. At the first bus stop, 5 more people got in. Then at the second bus stop, 7 people got down and 8 more got in. If there were a total of 20 people heading to the third stop, how many people got on the bus at the terminal?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

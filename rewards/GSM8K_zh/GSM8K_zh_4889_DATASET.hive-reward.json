@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Patrick一直在存钱买一辆价值150美元的自行车。他存了一半的钱，但后来借了50美元给他的朋友。现在Patrick有多少钱？。",
+  "topic": "回答下面的数学问题：Patrick has been saving money to buy a bicycle that costs $150. He saved half the price but he then lent $50 to his friend. How much money does Patrick have now?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

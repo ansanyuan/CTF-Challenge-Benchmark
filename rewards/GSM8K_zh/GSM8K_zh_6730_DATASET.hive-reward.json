@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：生产一块巧克力需要1.5克糖。公司每分钟生产36块巧克力。公司在两分钟内会使用多少克糖？。",
+  "topic": "回答下面的数学问题：To produce one chocolate bar, a company needs 1.5 grams of sugar. Every minute the company produces 36 chocolate bars. How many grams of sugar will the company use in two minutes?",
   "checkpoint": [
     {
-      "$\\boxed{108}$": 1
+      "\\boxed{108}": 1
     }
   ],
   "matchingmethod": [

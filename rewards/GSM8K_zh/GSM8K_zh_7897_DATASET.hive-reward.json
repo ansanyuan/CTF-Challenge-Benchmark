@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Cole想为舞蹈比赛买新牛仔裤。在商店里，他无法决定是买破烂牛仔裤还是慢跑牛仔裤。由于牛仔裤正在打折，他决定两种都买。破烂牛仔裤的价格是28美元，而慢跑牛仔裤的价格比破烂牛仔裤便宜6美元。他总共省了6美元。如果他从慢跑牛仔裤的总节省中省下了1/3，其余的从破烂牛仔裤中省下，慢跑牛仔裤的原价比破烂牛仔裤贵多少钱？。",
+  "topic": "回答下面的数学问题：Cole wanted to buy new jeans for a dance contest. At the store, he couldn't decide between tattered jeans and jogger jeans. Since the jeans were on sale, he decided to buy them both. The tattered jeans cost $28 while the jogger jeans cost $6 less than the tattered jeans. He saved a total of $6. If he saved 1/3 of the total savings from the jogger jeans and the rest from the tattered jeans, how much more do jogger jeans originally cost than the tattered jeans?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jackie每天工作8小时，锻炼3小时，睡觉8小时。Jackie有多少空闲时间？。",
+  "topic": "回答下面的数学问题：Jackie spends 8 hours working, 3 hours of exercise and spends 8 hours of sleep per day. How much free time does Jackie have?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：何塞拥有一个游泳池。他对儿童收费3美元，对成人收费是儿童费用的两倍。如果每天有8个儿童和10个成人在他的游泳池游泳，他每周能赚多少钱？。",
+  "topic": "回答下面的数学问题：Jose owns a swimming pool. He charges $3 for kids and twice that amount for adults. If 8 kids and 10 adults swim in his swimming pool per day, how much money will he earn per week?",
   "checkpoint": [
     {
-      "$\\boxed{588}$": 1
+      "\\boxed{588}": 1
     }
   ],
   "matchingmethod": [

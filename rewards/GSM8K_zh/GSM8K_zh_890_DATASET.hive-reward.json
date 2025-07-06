@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carrie想买一部新的iPhone。新的iPhone售价为800美元。她可以用240美元的价格交易她的三星Galaxy手机。她可以每周做保姆工作赚80美元。她需要工作多少周才能购买这部iPhone？。",
+  "topic": "回答下面的数学问题：Carrie wants to buy a new iPhone. The new iPhone costs $800. She can trade in her Samsung Galaxy for $240. She can make $80 per week babysitting. How many weeks does she have to work before she can purchase the iPhone?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

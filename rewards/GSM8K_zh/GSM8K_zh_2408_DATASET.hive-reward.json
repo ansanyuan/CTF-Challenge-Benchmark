@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：简带了75%的面包和零食来喂动物园里的活宠物。旺达带了简的一半零食和三倍的面包。如果旺达带了90块面包，旺达和简一共带了多少块面包和零食到动物园？。",
+  "topic": "回答下面的数学问题：Jane brings 75% as many pieces of bread as treats to feed the live pets at the zoo. Wanda brings half as many treats as Jane and three times as many pieces of bread as treats. If Wanda brings 90 pieces of bread, what is the total number of pieces of bread and treats that Wanda and Jane brought to the zoo?",
   "checkpoint": [
     {
-      "$\\boxed{225}$": 1
+      "\\boxed{225}": 1
     }
   ],
   "matchingmethod": [

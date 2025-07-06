@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮比查理大五岁，而查理比鲍比大三岁。当珍妮的年龄是鲍比的两倍时，查理多大了？。",
+  "topic": "回答下面的数学问题：Jenny is older than Charlie by five years, while Charlie is older than Bobby by three years. How old will Charlie be when Jenny becomes twice as old as Bobby?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

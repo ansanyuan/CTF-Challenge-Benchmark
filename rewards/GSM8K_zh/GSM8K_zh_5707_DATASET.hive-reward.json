@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：佩吉买了3个文件夹，分别是红色、绿色和蓝色。她在每个文件夹里放了10张纸，然后在每张纸上贴了星形贴纸。在红色文件夹中，每张纸上贴3个贴纸。在绿色文件夹中，每张纸上贴2个贴纸，在蓝色文件夹中，每张纸上贴1个贴纸。佩吉一共使用了多少个贴纸？。",
+  "topic": "回答下面的数学问题：Peggy buys 3 folders, one each in the colors red, green, and blue.  She puts ten sheets of paper in each folder, and then, she puts star-shaped stickers on each sheet of paper.  In the red folder, each sheet of paper gets 3 stickers.  In the green folder, each sheet of paper gets 2 stickers, and in the blue folder, each sheet gets 1 sticker.  What is the total number of stickers Peggy uses?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

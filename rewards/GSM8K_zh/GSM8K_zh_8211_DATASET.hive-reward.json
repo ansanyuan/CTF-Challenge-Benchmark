@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：彼得想用32盎司的水制作不同大小的冰块。他可以制作每个冰块使用4盎司的巨型冰块，每个使用2盎司的中型冰块，以及每个使用1/2盎司的小型冰块。如果他制作了3个巨型冰块，7个中型冰块和8个小型冰块，他还剩下多少盎司的水？。",
+  "topic": "回答下面的数学问题：Peter wants to make different sized ice cubes with 32 ounces of water. He can make giant cubes that use 4 ounces per cube, medium cubes that use 2 ounces, and small cubes that use 1/2 an ounce. If he makes 3 giant cubes, 7 medium cubes, and 8 small cubes, how many ounces of water does he have left?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

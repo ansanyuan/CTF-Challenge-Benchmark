@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Nova要给100个足球充气，其中40%有破洞无法充气，而剩下的球中有20%充气过度爆炸了。成功充气并可以使用的足球有多少个？。",
+  "topic": "回答下面的数学问题：Of the 100 soccer balls that Nova went to inflate, 40 percent had holes in them and could not inflate, while 20% of the remaining balls were overinflated and exploded. How many balls were inflated successfully and could be used?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

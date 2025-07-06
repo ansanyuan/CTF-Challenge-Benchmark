@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰以4美元的价格购买爆米花袋，然后以8美元的价格出售。他卖出30袋，他能获得多少利润？。",
+  "topic": "回答下面的数学问题：John buys bags of popcorn for $4 and sells them for $8.  How much profit does he get by selling 30 bags?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

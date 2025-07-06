@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾莉带着她的小弟弟到池塘教他如何跳石头。在他扔第一次后，她给了他一些建议来改善他的技术。他的第二次扔比第一次多跳了两次。他的第三次扔比第二次多跳了两倍。他的第四次扔比第三次少跳了3次。他的第五次扔比第四次多跳了一次。如果他的第五次扔在水面上跳了8次，那么他在所有扔石头的次数总共跳了多少次？。",
+  "topic": "回答下面的数学问题：Ellie takes her little brother down to the pond to teach him how to skip stones. After he takes his first throw, she gives him pointers to improve his technique. His second throw skips two more times across the water than his first. His third throw skips twice as many times as his second. His fourth throw skips 3 fewer times than his third throw. His fifth throw skips one more time than the fourth throw. If his fifth throw skipped 8 times across the water, how many skips did he make in total between all of his throws?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

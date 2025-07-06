@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个植树活动中，男孩和女孩的数量之差为400。如果活动中有600名男孩，而女孩的数量比男孩多，那么活动中男孩和女孩的总人数的60%是多少？。",
+  "topic": "回答下面的数学问题：The difference between the number of boys and girls in a tree planting event is 400. If there are 600 boys at the event, and the number of girls is more than the number of boys, what's 60% of the total number of boys and girls at the event?",
   "checkpoint": [
     {
-      "$\\boxed{960}$": 1
+      "\\boxed{960}": 1
     }
   ],
   "matchingmethod": [

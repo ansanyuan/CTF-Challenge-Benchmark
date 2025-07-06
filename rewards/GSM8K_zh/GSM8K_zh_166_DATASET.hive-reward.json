@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Manex是一名旅游巴士司机。他必须驾驶55英里到达目的地，然后返回起点的另一条路程，距离更远10英里。如果他每分钟可以驾驶1英里，并在目的地停留2小时，那么整个旅程将花费司机多长时间（以小时为单位）？。",
+  "topic": "回答下面的数学问题：Manex is a tour bus driver. He has to drive 55 miles to the destination and drive going back to the starting point on a different way that is 10 miles farther. If he can drive 1 mile for 2 minutes and stayed 2 hours at the destination, how long will it take the bus driver to do the entire tour in hours?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

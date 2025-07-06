@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：吉姆一开始有2排4棵树。当他10岁时，他决定在他的生日那天每年种植一排新的树。在他15岁生日后，他的树的数量翻了一番。他一共有多少棵树？。",
+  "topic": "回答下面的数学问题：Jim has 2 rows of 4 trees to start.  When he turns 10 he decides to plant a new row of trees every year on his birthday.  On his 15th birthday after he doubles the number of trees he has.  How many trees does he have?",
   "checkpoint": [
     {
-      "$\\boxed{56}$": 1
+      "\\boxed{56}": 1
     }
   ],
   "matchingmethod": [

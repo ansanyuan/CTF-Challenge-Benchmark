@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jamie收集玻璃球。他有16个红色的球和两倍多的蓝色球。后来，他丢失了6个红球，所以他决定购买一些黄色球来填补他的收藏。如果最终他总共有74个球，他买了多少个黄色球？。",
+  "topic": "回答下面的数学问题：Jamie collects glass balls. He had 16 red balls and two times more blue balls. Later on, he lost 6 of the red balls, so he decided to buy some yellow balls to fill up his collection. How many yellow balls did he buy if, after all, he had 74 balls in total?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

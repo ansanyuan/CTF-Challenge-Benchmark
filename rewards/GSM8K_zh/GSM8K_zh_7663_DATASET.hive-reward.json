@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三个朋友在三张游乐园门票上花费了20.25美元。他们在食物上的花费比门票少了4.50美元。他们还玩了两个不同的游乐设施，每个设施的费用是33美元。如果他们同意平均分摊所有费用，那么他们每个人付了多少钱？。",
+  "topic": "回答下面的数学问题：Three friends spent $20.25 on 3 tickets to the fair. They also spent $4.50 less on food than on the tickets. They also went on 2 different rides which costs $33 for each ride. If they agreed to split all the costs evenly, how much did each of them pay?",
   "checkpoint": [
     {
-      "$\\boxed{34}$": 1
+      "\\boxed{34}": 1
     }
   ],
   "matchingmethod": [

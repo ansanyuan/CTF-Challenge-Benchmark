@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：兰迪、彼得和昆西都画了图片。 彼得画了8张图片。 昆西比彼得多画了20张图片。 如果他们总共画了41张图片，兰迪画了多少张？。",
+  "topic": "回答下面的数学问题：Randy, Peter, and Quincy all drew pictures. Peter drew 8 pictures. Quincy drew 20 more pictures than Peter. If they drew 41 pictures altogether, how many did Randy draw?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

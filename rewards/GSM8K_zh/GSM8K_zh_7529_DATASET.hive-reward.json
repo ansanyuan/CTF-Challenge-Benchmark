@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jean有30个棒棒糖。Jean吃了2个棒棒糖。用剩下的棒棒糖，Jean想每袋装2个棒棒糖。Jean可以装满多少袋？。",
+  "topic": "回答下面的数学问题：Jean has 30 lollipops. Jean eats 2 of the lollipops. With the remaining lollipops, Jean wants to package 2 lollipops in one bag. How many bags can Jean fill?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

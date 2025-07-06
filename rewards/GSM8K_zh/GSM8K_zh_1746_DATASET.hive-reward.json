@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有两个保姆，名叫米拉和艾格妮丝。米拉每小时赚10美元，而艾格妮丝每小时赚15美元。艾格妮丝每周工作8小时。米拉需要工作多少小时才能赚到和艾格妮丝一个月一样多的钱？。",
+  "topic": "回答下面的数学问题：There are two babysitters named Mila and Agnes. Mila makes $10 an hour while Agnes makes $15 an hour. Agnes works 8 hours each week. How many hours does Mila need to work to earn as much as Agnes in a month?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

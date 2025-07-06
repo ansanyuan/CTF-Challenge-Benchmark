@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一所学校，40%的学生可以免费享用午餐。这些午餐是通过确保付费学生支付的价格足以支付每个人的餐费而支付的。如果为50名学生提供午餐的费用是210美元，那么付费学生午餐费用是多少？。",
+  "topic": "回答下面的数学问题：At a school, 40% of the students receive a free lunch. These lunches are paid for by making sure the price paid by the paying students is enough to cover everyone's meal. If it costs $210 to feed 50 students, how much do the paying students pay for lunch?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

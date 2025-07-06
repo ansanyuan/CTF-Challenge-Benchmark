@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔西和她的家人去了一次野生动物园，看到了不同的动物在吃草和一起玩耍的激动人心的时刻。她决定数一数她看到的每种动物并计算它们的总数。她数了80只羚羊，比羚羊多34只兔子，比羚羊和兔子的总数少42只鬣狗，比鬣狗多50只野狗，而豹的数量是兔子数量的一半。乔西数了多少动物的总数？。",
+  "topic": "回答下面的数学问题：Josie and her family went on a safari and had an exciting time watching different animals grazing and playing together. She decided to count each animal she saw and calculated their total number. She counted 80 antelopes, 34 more rabbits than antelopes, 42 fewer hyenas than the total number of antelopes and rabbits combined, 50 more wild dogs than hyenas, and the number of leopards was half the number of rabbits. What the total number of animals that Josie counted?",
   "checkpoint": [
     {
-      "$\\boxed{605}$": 1
+      "\\boxed{605}": 1
     }
   ],
   "matchingmethod": [

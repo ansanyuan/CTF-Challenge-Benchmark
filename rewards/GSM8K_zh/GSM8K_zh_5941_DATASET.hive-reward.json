@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Erica在一个馅饼自助餐厅买甜点，所有的馅饼都是相同大小。她拿了1/5个苹果馅饼和3/4个樱桃馅饼。Erica拿了整个馅饼的什么比例，用百分数表示？。",
+  "topic": "回答下面的数学问题：Erica is getting dessert at a pie buffet where all the pies are the same size. She takes 1/5 of an apple pie and 3/4 of a cherry pie. What fraction of a whole pie did Erica take, expressed as a percentage?",
   "checkpoint": [
     {
-      "$\\boxed{95}$": 1
+      "\\boxed{95}": 1
     }
   ],
   "matchingmethod": [

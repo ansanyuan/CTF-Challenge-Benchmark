@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：凯特想给她的朋友买一支特别的钢笔作为礼物。这支钢笔的价格是30美元，而凯特只有这个金额的三分之一。她还需要多少钱才能买到这支钢笔？。",
+  "topic": "回答下面的数学问题：Kate wants to buy a special pen as a gift for her friend. The pen costs $30, and Kate only has money for a third of that amount. How much more money does she need to buy the pen?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

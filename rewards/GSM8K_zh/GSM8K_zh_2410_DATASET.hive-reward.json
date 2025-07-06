@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Vivian每天播放10首Spotify歌曲。她的好朋友Clara每天播放的歌曲少2首。如果在六月份他们只有周末不播放任何歌曲，而六月份有8个周末，那么他们两个在那个月总共听了多少首歌？。",
+  "topic": "回答下面的数学问题：Vivian plays 10 Spotify songs every day. Her best friend Clara plays 2 fewer songs each day. If in June they didn't play any song during the weekends only, and there were 8 weekend days in June, what's the total number of songs they both listened to in that month?",
   "checkpoint": [
     {
-      "$\\boxed{396}$": 1
+      "\\boxed{396}": 1
     }
   ],
   "matchingmethod": [

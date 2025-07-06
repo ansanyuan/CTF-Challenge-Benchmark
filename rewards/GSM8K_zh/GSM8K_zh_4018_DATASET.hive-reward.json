@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆摔断了腿，需要去看医生。看病的费用是300美元，石膏的费用是200美元。如果保险覆盖了60%，汤姆的自付费用是多少？。",
+  "topic": "回答下面的数学问题：Tom broke his leg and needed to go to the doctor.  The visit cost $300 and the cast cost $200.  If insurance covered 60% how much was Tom's out-of-pocket cost?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

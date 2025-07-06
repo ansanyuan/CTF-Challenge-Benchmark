@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆把2个苹果切成了每个8片。汤姆把苹果片的3/8分之一给了他的朋友杰瑞，然后吃掉了剩下片的一半。汤姆剩下多少苹果片？。",
+  "topic": "回答下面的数学问题：Tom split 2 apples into 8 slices each. Tom gave 3/8ths of the apple slices to his friend Jerry, then ate half of the remaining slices. How many apple slices does Tom have left?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

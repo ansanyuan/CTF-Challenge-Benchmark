@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Manny正在为晚餐和他的四个朋友Lisa、Raphael、Aaron和Kai做千层面。他需要知道要切成多少块才能分食。Manny只想吃一块。Aaron不太喜欢千层面，可能只会吃大蒜面包和沙拉。Kai总是很饿，会吃的比Manny多一倍。Raphael总是吃Manny的一半，但他的妹妹Lisa喜欢千层面，会吃两块，再加上Raphael剩下的那块。Manny应该把千层面切成多少块？。",
+  "topic": "回答下面的数学问题：Manny is making lasagna for dinner with his four friends, Lisa, Raphael, Aaron, and Kai. He needs to know how many pieces to cut the lasagna into to serve it. Manny only wants one piece. Aaron doesn't like lasagna much and will probably only eat garlic bread and salad. Kai is always hungry and will eat twice as much as Manny. Raphael always eats half the amount Manny does, but his sister Lisa loves lasagna and will eat two pieces, plus any Raphael has left of his piece. How many pieces should Manny cut his lasagna into?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

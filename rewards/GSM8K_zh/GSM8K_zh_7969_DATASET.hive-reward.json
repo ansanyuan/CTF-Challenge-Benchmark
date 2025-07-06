@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Charisma每天工作8小时。她有一个定时器，提醒她每工作一小时就起来走5分钟。在办公室工作5天后，她走了多少分钟？。",
+  "topic": "回答下面的数学问题：Charisma works for 8 hours every day.  She has a timer to remind her to get up and walk for 5 minutes every hour she’s at work.  After 5 days at the office, how many minutes has she walked?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

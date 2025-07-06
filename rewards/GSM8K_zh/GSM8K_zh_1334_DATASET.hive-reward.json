@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：路易丝正在为一个聚会烤蛋糕。她总共需要60个蛋糕，已经做了一半。今天，她计算了她还需要做多少蛋糕，并烤了剩下数量的一半。第二天，她再次计算了她还需要做多少蛋糕，并烤了剩下数量的三分之一。路易丝还需要再烤多少个蛋糕？。",
+  "topic": "回答下面的数学问题：Louise is baking cakes for a gathering. She needs 60 cakes in total, and has already produced half this many. Today, she calculates how many cakes she has left to make and bakes half this amount. The next day, she again calculates how many cakes she has left to make and bakes a third of this amount. How many more cakes does Louise need to bake?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

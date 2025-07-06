@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：泰森在学校操场打篮球。他投进三分球15次，两分球12次。他还投进一分球若干次。如果他总共得了75分，他投进一分球多少次？。",
+  "topic": "回答下面的数学问题：Tyson played basketball on the schoolyard. He scored three points fifteen times, and two points twelve times. He also scored one point some number of times. How many times did he score one point, if in total he scored 75 points?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

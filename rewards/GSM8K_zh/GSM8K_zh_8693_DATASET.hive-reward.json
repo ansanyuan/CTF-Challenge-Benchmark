@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰是一名木匠。为他的朋友阿里，他制作了4张木桌，每张20美元，和2个屋顶框架，每个10美元。阿里得付给约翰多少钱？。",
+  "topic": "回答下面的数学问题：John is a carpenter. For his friend Ali, he manufactured 4 wooden tables for $20 each and 2 roof frames for $10 each. How much does Ali have to pay John?",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

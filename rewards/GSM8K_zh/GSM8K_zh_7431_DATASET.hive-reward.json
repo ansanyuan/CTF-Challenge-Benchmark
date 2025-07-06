@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：公园里有50张长凳，每张长凳可容纳4个人。一个星期天下午，有80人坐在长凳上。在长凳的承载能力达到最大之前，其他人可以坐的空位数量是多少？。",
+  "topic": "回答下面的数学问题：A park has 50 benches with a capacity of 4 people each. On a Sunday afternoon, 80 people were sitting on the benches. What's the number of available spaces on the benches that other people can sit on before the carrying capacity of the benches is full?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

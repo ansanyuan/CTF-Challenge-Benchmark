@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：保琳有一个种植蔬菜的花园。在花园里，保琳种植了3种番茄 - 每种5个，5种黄瓜 - 每种4个，以及30个土豆。整个花园有10排，每排有15个空间可以种植任何蔬菜。保琳在她的花园里还能种植多少蔬菜？。",
+  "topic": "回答下面的数学问题：Pauline has a garden with vegetables. In it, Pauline has planted 3 kinds of tomatoes - 5 of each kind, 5 kinds of cucumbers - 4 of each kind, and 30 potatoes. In the whole garden, there are 10 rows with 15 spaces in each to plant any vegetable. How many more vegetables could Pauline plant in her garden?",
   "checkpoint": [
     {
-      "$\\boxed{85}$": 1
+      "\\boxed{85}": 1
     }
   ],
   "matchingmethod": [

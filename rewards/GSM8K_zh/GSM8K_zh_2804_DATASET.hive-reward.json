@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：托德有20美元。他买了4块每块2美元的糖果。托德还剩下多少美元？。",
+  "topic": "回答下面的数学问题：Todd has $20. He buys 4 candy bars that cost $2 each. How much money in dollars does Todd have left?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

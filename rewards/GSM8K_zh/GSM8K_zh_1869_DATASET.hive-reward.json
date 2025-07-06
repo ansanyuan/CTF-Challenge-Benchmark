@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚历克斯和马克斯正在进行一场比赛。比赛开始时，他们相互之间相距200英尺。然后亚历克斯领先马克斯300英尺。接着马克斯领先亚历克斯170英尺。亚历克斯突然加速，领先马克斯440英尺。如果他们比赛的道路长度为5000英尺，马克斯还需要多少英尺才能赶上亚历克斯？。",
+  "topic": "回答下面的数学问题：Alex and Max are running a race against each other. At the beginning of the race they are even with each other for 200 feet. Then Alex gets ahead of Max by 300 feet. Then Max gets ahead of Alex by 170 feet. Alex gets a burst of speed and gets ahead of Max by 440 feet. If the road they're running on is 5000 feet long, how many feet are there left for Max to catch up to Alex?",
   "checkpoint": [
     {
-      "$\\boxed{3890}$": 1
+      "\\boxed{3890}": 1
     }
   ],
   "matchingmethod": [

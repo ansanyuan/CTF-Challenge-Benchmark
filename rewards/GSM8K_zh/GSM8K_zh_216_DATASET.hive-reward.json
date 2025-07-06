@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：教堂有120名成员。40%是成年人。其余是孩子。比成年人多多少孩子？。",
+  "topic": "回答下面的数学问题：A church has 120 members. 40% are adults. The rest are children. How many children more children are there than adults?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

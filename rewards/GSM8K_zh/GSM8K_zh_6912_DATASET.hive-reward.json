@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家药房正在购买足够的容器来制作本周的处方。他们已经在库存中剩下20个容器，但他们本周需要总共100个容器。在他们还需要购买的容器中，他们从一个新供应商那里购买了四分之一，然后决定去他们通常的供应商那里购买剩下的。药房将从通常的供应商那里购买多少个容器？。",
+  "topic": "回答下面的数学问题：A pharmacy is buying enough tubs for them to make their prescriptions this week. They already have 20 tubs left in storage but they need a total of 100 tubs for the week. Of the tubs they still need to buy, they buy a quarter from a new vendor then decide to go to their usual vendor for the rest. How many tubs is the pharmacy going to buy from the usual vendor?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

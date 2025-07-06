@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个人以12%的利率借了一笔钱一年。如果总利息是1500美元，原借款金额是多少？。",
+  "topic": "回答下面的数学问题：A person borrowed an amount of money for a year at an interest rate of 12%. If the total interest is $1500, what was the original borrowed amount?",
   "checkpoint": [
     {
-      "$\\boxed{12500}$": 1
+      "\\boxed{12500}": 1
     }
   ],
   "matchingmethod": [

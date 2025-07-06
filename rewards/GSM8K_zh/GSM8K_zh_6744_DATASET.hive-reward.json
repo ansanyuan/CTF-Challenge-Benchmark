@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯以4万美元购买了100头牛。喂养它们的成本比购买它们的成本高出20%。每头牛的重量为1000磅，售价为每磅2美元。他赚了多少利润？。",
+  "topic": "回答下面的数学问题：Jame's buys 100 head of cattle for $40,000.  It cost 20% more than that to feed them.  They each weigh 1000 pounds and sell for $2 per pound.  How much profit did he make?",
   "checkpoint": [
     {
-      "$\\boxed{112000}$": 1
+      "\\boxed{112000}": 1
     }
   ],
   "matchingmethod": [

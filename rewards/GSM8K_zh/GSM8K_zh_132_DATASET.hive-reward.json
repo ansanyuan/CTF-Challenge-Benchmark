@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米切尔在准备考试时，在下午4点之前已经读完了一本书的前十章。当时刚好是4点，米切尔已经读了她正在学习的书的第11章的20页。4点后，她没有读完第十一章的剩余页数，而是继续读了书的另外两章。如果这本书的每一章有40页，计算米切尔总共读了多少页？。",
+  "topic": "回答下面的数学问题：Studying for her test, Mitchell had read ten chapters of a book before 4 o'clock. When it clocked 4, Mitchell had read 20 pages of the 11th chapter of the book she was studying from. After 4 o'clock, she didn't read the remaining pages of chapter eleven but proceeded and read 2 more chapters of the book. If each chapter in the book had 40 pages, calculate the total number of pages that Mitchell had read altogether?",
   "checkpoint": [
     {
-      "$\\boxed{500}$": 1
+      "\\boxed{500}": 1
     }
   ],
   "matchingmethod": [

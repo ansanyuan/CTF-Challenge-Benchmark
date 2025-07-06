@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安娜的妈妈给了她10.00美元，让她从糖果店买任何她想要的东西。安娜买了3包口香糖，每包1.00美元，5块巧克力棒，每块1美元，和2根大糖果杖，每根0.50美元。安娜还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Anna's mom gave her $10.00 to buy anything she wanted from the candy store.  Anna bought 3 packs of chewing gum for $1.00 each, 5 chocolate bars at $1 each and 2 large candy canes for $0.50 each.  How much money did Anna have left?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

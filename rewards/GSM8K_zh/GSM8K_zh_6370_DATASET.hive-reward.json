@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一根绳子的长度为200米。斯特凡将绳子切成四等份，将切好的一半给了他的母亲，并将剩下的部分再分成两等份。每份的长度是多少？。",
+  "topic": "回答下面的数学问题：A rope has a length of 200 meters. Stefan cuts the rope into four equal parts, gives his mother half of the cut pieces, and subdivides the remaining pieces into two more equal parts. What's the length of each piece?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

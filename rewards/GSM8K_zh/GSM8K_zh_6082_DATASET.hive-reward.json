@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔卖饼干的价格比制作成本高出20%。如果他卖了50个饼干，赚了60美元，那么制作饼干的成本是多少？。",
+  "topic": "回答下面的数学问题：Joe sells cookies for 20% more than it costs to make them. If he sold 50 cookies and earned $60, how much do the cookies cost to make?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

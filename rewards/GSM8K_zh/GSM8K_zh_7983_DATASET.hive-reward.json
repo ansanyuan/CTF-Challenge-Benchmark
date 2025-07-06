@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：索菲亚和罗丝一起去市场买洋葱和土豆。罗丝买的洋葱和土豆是索菲亚买的4倍。如果罗丝买了12个洋葱和4个土豆，那么索菲亚在市场上总共买了多少个洋葱和土豆？。",
+  "topic": "回答下面的数学问题：Sophia and Rose went together to the market to buy onions and potatoes. Rose bought 4 times the number of onions and potatoes Sophia bought. If Rose bought 12 onions and 4 potatoes, how many onions and potatoes in total did Sophia buy at the market?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

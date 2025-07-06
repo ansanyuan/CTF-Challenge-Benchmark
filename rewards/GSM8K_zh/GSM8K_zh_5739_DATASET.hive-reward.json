@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个足球队有三名守门员和十名后卫。球队的中场球员是后卫的两倍，其余球员是前锋。如果球队有40名球员，那么球队中有多少名前锋？。",
+  "topic": "回答下面的数学问题：A soccer team has three goalies and ten defenders. The team also has twice as many midfielders as defenders, and the rest of the players are strikers. If the team has 40 players, how many strikers are in the team?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

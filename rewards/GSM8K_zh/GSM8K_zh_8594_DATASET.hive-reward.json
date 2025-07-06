@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰一个月去看望他的父母两次。他以每小时70英里的速度开车去那里需要2小时。考虑到往返，他一个月去看望父母时开车多少英里？。",
+  "topic": "回答下面的数学问题：John visits his parents twice a month.  It takes him 2 hours to drive there at a speed of 70 mph.  Considering the round trip, how many miles a month does he drive when visiting his parents?",
   "checkpoint": [
     {
-      "$\\boxed{560}$": 1
+      "\\boxed{560}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Adrianne收集不同种类的珠子来制作手链。她的妈妈给了她20颗金属珠子。她的姐姐给了她比妈妈多十颗珠子，她的朋友给了她妈妈给的两倍。Adrianne总共有多少颗珠子？。",
+  "topic": "回答下面的数学问题：Adrianne is collecting different kinds of beads for making bracelets. Her mother gave her 20 metallic beads. Her sister gave her ten more beads than her mother, and her friend gave her twice as many as her mother gave.  How many beads did Adrianne have altogether?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

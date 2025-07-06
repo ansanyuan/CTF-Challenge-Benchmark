@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sally需要制作一块长102英寸，宽54英寸的桌布。她还需要制作8块尺寸为6乘7英寸的餐巾。Sally需要多少平方英寸的材料来制作桌布和8块餐巾？。",
+  "topic": "回答下面的数学问题：Sally needs to make a tablecloth that measures 102 inches by 54 inches. She also needs to make 8 napkins that are 6 by 7 inches. How many square inches of material will Sally need to make the tablecloth and the 8 napkins?",
   "checkpoint": [
     {
-      "$\\boxed{5844}$": 1
+      "\\boxed{5844}": 1
     }
   ],
   "matchingmethod": [

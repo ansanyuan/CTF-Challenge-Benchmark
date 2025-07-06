@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一次100道题的考试中，洛维拉答对了35%的问题。帕梅拉比洛维拉多答对了20%，曼迪的分数是帕梅拉的两倍。曼迪的分数是多少？。",
+  "topic": "回答下面的数学问题：In a 100-item exam, Lowella got 35% of the questions correctly. Pamela got 20% more correct answers than Lowella and Mandy got twice Pamela's score. What is Mandy’s score?",
   "checkpoint": [
     {
-      "$\\boxed{84}$": 1
+      "\\boxed{84}": 1
     }
   ],
   "matchingmethod": [

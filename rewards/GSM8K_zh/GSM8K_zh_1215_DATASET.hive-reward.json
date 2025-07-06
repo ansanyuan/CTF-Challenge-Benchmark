@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Adlai有2只狗和1只鸡。总共有多少只动物腿？。",
+  "topic": "回答下面的数学问题：Adlai has 2 dogs and 1 chicken. How many animal legs are there in all?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

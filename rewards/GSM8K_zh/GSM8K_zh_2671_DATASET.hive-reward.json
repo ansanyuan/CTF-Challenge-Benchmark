@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个人数统计站，第一天统计的人数是第二天统计的人数的两倍。如果第二天统计了500人，那么两天一共统计了多少人？。",
+  "topic": "回答下面的数学问题：At a people counting station, the number of people counted on the first day was twice the total number counted on the second day. If 500 people were counted on the second day, how many people were counted on the two days?",
   "checkpoint": [
     {
-      "$\\boxed{1500}$": 1
+      "\\boxed{1500}": 1
     }
   ],
   "matchingmethod": [

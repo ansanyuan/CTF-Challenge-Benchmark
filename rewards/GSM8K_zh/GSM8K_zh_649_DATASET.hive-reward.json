@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校乐队有30首曲目。乐队在他们的第一套曲目中演奏了5首歌，在第二套曲目中演奏了7首歌。乐队将在安可中演奏2首歌。假设乐队演奏了他们全部的曲目，那么他们在第三和第四套曲目中平均会演奏多少首歌？。",
+  "topic": "回答下面的数学问题：The school band has 30 songs in their repertoire. The band played 5 songs in their first set and 7 in their second set. The band will play 2 songs for their encore. Assuming the band plays through their entire repertoire, how many songs will they play on average in the third and fourth sets?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

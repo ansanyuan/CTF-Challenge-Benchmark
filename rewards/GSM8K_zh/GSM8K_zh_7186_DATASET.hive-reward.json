@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Avery在他的农场上有20只鸡。每只鸡每天下6个蛋。他想用这些鸡蛋填满蛋盒。如果每个蛋盒可以装一打（12个鸡蛋），Avery可以填满多少个蛋盒？。",
+  "topic": "回答下面的数学问题：Avery has 20 chickens on his farm. Each chicken lays 6 eggs. He wants to fill up egg cartons with eggs. If each egg carton can hold a dozen (12 eggs), how many egg cartons can Avery fill?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

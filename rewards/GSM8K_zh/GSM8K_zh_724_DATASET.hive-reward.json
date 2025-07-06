@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰晚餐吃了一袋薯片，然后晚餐后吃了两倍的数量。他吃了多少袋薯片？。",
+  "topic": "回答下面的数学问题：John eats a bag of chips for dinner and then eats twice as many after dinner.  How many bags of chips did he eat?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

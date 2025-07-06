@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Janet住在一个建有网格系统的城市。她向北走了3个街区，然后向西走了七倍的街区。然后她转身向南走了8个街区，再向东走了两倍的街区，朝着她的家。如果Janet每分钟可以走2个街区，她回家需要多长时间？。",
+  "topic": "回答下面的数学问题：Janet lives in a city built on a grid system.  She walks 3 blocks north, then seven times as many blocks west. Then she turns around and walks 8 blocks south and twice as many blocks east in the direction of her home. If Janet can walk 2 blocks/minute, how long will it take her to get home?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

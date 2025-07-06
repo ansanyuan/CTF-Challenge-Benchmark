@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marvin今天练习的数学问题数量是昨天解决的问题数量的三倍。他的朋友Arvin每天练习的数学问题是Marvin的两倍。如果Marvin昨天解决了40个数学问题，那么他们总共练习了多少个数学问题？。",
+  "topic": "回答下面的数学问题：The number of math problems that Marvin practiced today is three times as many as the number of problems he solved yesterday. His friend, Arvin, has practiced twice as many math problems on each day. How many math problems have they practiced altogether if Marvin solved 40 math problems yesterday?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

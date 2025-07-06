@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Joel收集了一个装满旧玩具的箱子要捐赠。通过询问他的朋友，他能够收集到18个填充动物玩具，42个动作人物玩具，2个棋盘游戏和13个拼图。他的妹妹从她的壁橱里给了他一些她的旧玩具，然后Joel从他自己的壁橱里添加了两倍于妹妹的数量的玩具。总共，Joel能够捐赠108个玩具。捐赠的玩具中有多少是Joel的？。",
+  "topic": "回答下面的数学问题：Joel collected a bin of old toys to donate. By asking his friends, he was able to collect 18 stuffed animals, 42 action figures, 2 board games, and 13 puzzles. His sister gave him some of her old toys from her closet, and then Joel added twice as many toys from his own closet as his sister did from hers. In all, Joel was able to donate 108 toys. How many of the donated toys were Joel’s?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

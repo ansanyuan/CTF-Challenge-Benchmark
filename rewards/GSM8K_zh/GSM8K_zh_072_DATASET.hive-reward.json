@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在跳蚤市场，希拉里以每件手工艺品12美元的价格出售。今天，希拉里卖出3件手工艺品，并得到一位感激的顾客额外给了她7美元。随后，希拉里将今天的利润中存入银行18美元。在存款后，希拉里还剩下多少美元？。",
+  "topic": "回答下面的数学问题：At a flea market, Hillary sells handmade crafts for 12 dollars per craft. Today, Hillary sells 3 crafts and is given an extra 7 dollars from an appreciative customer. Later on, Hillary deposits 18 dollars from today's profits into her bank account. How many dollars is Hillary left with after making the deposit?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

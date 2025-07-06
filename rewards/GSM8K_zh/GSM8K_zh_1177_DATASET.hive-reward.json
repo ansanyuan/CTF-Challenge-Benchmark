@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Paula想要坐一次碰碰车和四次碰碰车。坐碰碰车需要4张票，坐碰碰车需要5张票。Paula需要多少张票？。",
+  "topic": "回答下面的数学问题：Paula wants to ride the go-karts 1 time and the bumper cars 4 times. It costs 4 tickets to ride the go-karts and 5 tickets to ride the bumper cars. How many tickets does Paula need?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

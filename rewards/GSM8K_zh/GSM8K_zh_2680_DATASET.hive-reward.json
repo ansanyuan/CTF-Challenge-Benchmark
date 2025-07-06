@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格雷琴、米兹和贝丝一起去打保龄球。格雷琴打了120分。米兹打了113分。贝丝打了85分。他们的保龄球平均分是多少？。",
+  "topic": "回答下面的数学问题：Gretchen, Mitzi, and Beth went bowling together. Gretchen bowled a 120. Mitzi bowled a 113. Beth bowled an 85. What was their average bowling score?",
   "checkpoint": [
     {
-      "$\\boxed{106}$": 1
+      "\\boxed{106}": 1
     }
   ],
   "matchingmethod": [

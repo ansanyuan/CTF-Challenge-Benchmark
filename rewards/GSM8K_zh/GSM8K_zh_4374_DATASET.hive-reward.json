@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：露西尔和她妈妈达成协议，她在妈妈的花园里每拔一棵杂草就能赚6美分。花坛里有11棵杂草，菜园里有14棵，果树周围的草地上有32棵。露西尔在休息前拔了花坛、菜园和一半的草地的杂草。她用一部分收入在休息时买了一罐99美分的苏打。露西尔还剩下多少美分？。",
+  "topic": "回答下面的数学问题：Lucille made an agreement with her mom that she would earn six cents for every weed she pulled in her mom's garden. There are eleven weeds in the flower bed, fourteen in the vegetable patch, and thirty-two in the grass around the fruit trees. Lucille weeded the flower bed, the vegetable patch, and half the grass before she took a break. She bought a soda for 99 cents on her break with some of her earnings. How many cents does Lucille have left?",
   "checkpoint": [
     {
-      "$\\boxed{147}$": 1
+      "\\boxed{147}": 1
     }
   ],
   "matchingmethod": [

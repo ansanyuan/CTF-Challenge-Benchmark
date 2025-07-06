@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：梅洛迪有三只狗。每只狗每天吃1/2磅狗粮，一天吃两次。如果梅洛迪买了30磅狗粮，一周后还剩下多少磅狗粮？。",
+  "topic": "回答下面的数学问题：Melody has three dogs. Each dog eats 1/2 of a pound of dog food twice a day. If Melody bought 30 pounds of dog food, how many pounds of dog food are left after a week?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

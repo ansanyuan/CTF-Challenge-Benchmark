@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bennett卖窗纱。他在二月份卖出的窗纱数量是上个月的两倍。在二月份，Bennett卖出了三月份销量的四分之一。如果Bennett在三月份卖出了8800块窗纱，那么Bennett从一月到三月卖出了多少块窗纱？。",
+  "topic": "回答下面的数学问题：Bennett sells window screens. He sold twice as many window screens in February as he sold last month. In February, Bennett sold a fourth of what he sold in March. If Bennet sold 8800 window screens in March, how many screens did Bennett sell from January to March?",
   "checkpoint": [
     {
-      "$\\boxed{12100}$": 1
+      "\\boxed{12100}": 1
     }
   ],
   "matchingmethod": [

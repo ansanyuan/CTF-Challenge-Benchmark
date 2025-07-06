@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：戴尔拥有4辆跑车。红色的车的速度是绿色车的两倍，但绿色车的速度是蓝色车的8倍。黄色车坏了，完全不能动。如果蓝色车的速度是每小时80英里，红色车的速度是多少英里每小时？。",
+  "topic": "回答下面的数学问题：Dale owns 4 sports cars. The red one can travel at twice the speed of the green one, but the green one can travel at 8 times the speed of the blue one.  The yellow one is broken and cannot move at all.  If the blue one can travel at a speed of 80 miles per hour, at what speed, in miles per hour, can the red car travel?",
   "checkpoint": [
     {
-      "$\\boxed{1280}$": 1
+      "\\boxed{1280}": 1
     }
   ],
   "matchingmethod": [

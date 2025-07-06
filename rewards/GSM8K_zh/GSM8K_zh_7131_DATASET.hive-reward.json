@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bethany在Joe's Gym的前台工作。她开始上班时有一些人在举重。然后又有5个人进来开始在跑步机上跑步，2个人离开了。现在健身房里有19个人。Bethany上班开始时有多少人在举重？。",
+  "topic": "回答下面的数学问题：Bethany is working at the front desk at Joe’s Gym. There were some people lifting weights when she started her shift. Then 5 more people came in and started running on the treadmill and 2 people left. There are now 19 people in the gym. How many people were lifting weights at the start of Bethany’s shift?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

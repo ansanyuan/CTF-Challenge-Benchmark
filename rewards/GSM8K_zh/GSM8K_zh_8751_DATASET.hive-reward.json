@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mia和Emma的年龄相差16岁。如果年纪较小的Mia是40岁，那么他们的平均年龄是多少？。",
+  "topic": "回答下面的数学问题：Mia and Emma are currently 16 years apart in age. If Mia, who is younger than Emma, is 40 years old, what's the average of their ages?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

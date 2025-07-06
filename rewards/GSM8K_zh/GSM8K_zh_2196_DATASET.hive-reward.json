@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每天上学时，沙恩总共开车10英里。在80天的学期里，他从家到学校再返回一共开了多少英里？。",
+  "topic": "回答下面的数学问题：Every day, while going to school, Shane drives a total of 10 miles. Calculate the total distance he drives in an 80 day semester from home to school and back.",
   "checkpoint": [
     {
-      "$\\boxed{1600}$": 1
+      "\\boxed{1600}": 1
     }
   ],
   "matchingmethod": [

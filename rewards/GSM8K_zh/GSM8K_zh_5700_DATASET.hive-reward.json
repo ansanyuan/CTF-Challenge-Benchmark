@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Yanna买了60个苹果。她给了Zenny18个苹果。她又给了Andrea6个苹果，剩下了多少个苹果？。",
+  "topic": "回答下面的数学问题：Yanna bought 60 apples. She gave eighteen apples to Zenny. She gave six more apples to Andrea and kept the rest. How many apples did she keep?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

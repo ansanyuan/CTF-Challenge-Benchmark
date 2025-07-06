@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥利弗正在尝试在两个不同大小的通心粉和奶酪盒子之间做出决定。他想知道哪个更划算，所以他不只是看总价格，而是看每盎司的价格。较大的盒子是30盎司，较小的盒子是20盎司。较大的盒子价格为4.80美元。较小的盒子价格为3.40美元。哪个盒子的每盎司价格更划算（每盎司价格最低）？。",
+  "topic": "回答下面的数学问题：Oliver is trying to decide between two different sized boxes of macaroni and cheese. He wants to know which is the better value, so instead of just looking at the overall price, he looks at the price per ounce. The larger box is 30 ounces and the smaller box is 20 ounces. The larger box costs $4.80. The smaller box costs $3.40. What is the price per ounce in cents of the box with the better value (lowest price per ounce)?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

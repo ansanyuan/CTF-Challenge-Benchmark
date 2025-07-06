@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：多年来，丹尼尔收养了他在路边看到的任何流浪动物。他现在有2匹马，5只狗，7只猫，3只乌龟和1只山羊。所有动物都非常健康。他的动物总共有多少条腿？。",
+  "topic": "回答下面的数学问题：Over several years, Daniel has adopted any stray animals he sees on the side of the road.  He now has 2 horses, 5 dogs, 7 cats, 3 turtles, and 1 goat.  All of the animals are perfectly healthy.  In total, how many legs do his animals have?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

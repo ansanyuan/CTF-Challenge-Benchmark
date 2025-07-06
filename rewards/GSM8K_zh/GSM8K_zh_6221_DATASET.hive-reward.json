@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莉莉买了一个俄罗斯套娃作为纪念品。最大的娃娃高243厘米，每个娃娃的尺寸是包含它的娃娃的2/3。第六大的娃娃有多大？。",
+  "topic": "回答下面的数学问题：Lily bought a Russian nesting doll as a souvenir. The biggest doll is 243 cm tall, and each doll is 2/3rd the size of the doll that contains it. How big is the 6th biggest doll?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

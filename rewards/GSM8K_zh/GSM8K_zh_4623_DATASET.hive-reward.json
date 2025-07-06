@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安妮去了一家清仓大甩卖，买了5台每台50美元的电视。她还购买了10个小雕像。如果安妮总共花了260美元，那么一个小雕像的价格是多少美元？。",
+  "topic": "回答下面的数学问题：Annie went to a liquidation sale and bought 5 televisions that each cost $50. She also purchased 10 figurines. If Annie spent $260 in total, how much did a single figurine cost in dollars?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

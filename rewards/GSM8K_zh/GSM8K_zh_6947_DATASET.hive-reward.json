@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一艘船离开了一个港口，向西航行，携带了400磅的食物作为旅程的补给。船员在船上使用了2/5的补给后，航行了一天。在另外两天的航行后，船员使用了剩下补给的3/5。计算船上剩下的补给数量，以供船员使用直到他们靠岸。。",
+  "topic": "回答下面的数学问题：A ship left a port and headed due west, having 400 pounds of food for the journey's supply. After one day of sailing, 2/5 of the supplies had been used by the sailors in the ship. After another two days of sailing, the sailors used 3/5 of the remaining supplies. Calculate the number of supplies remaining in the ship to last the sailors until they dock.",
   "checkpoint": [
     {
-      "$\\boxed{96}$": 1
+      "\\boxed{96}": 1
     }
   ],
   "matchingmethod": [

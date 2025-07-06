@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：餐具抽屉里有6把叉子。叉子比叉子多9把刀，汤匙的数量是刀的两倍，茶匙的数量是叉子的一半。在抽屉里添加了每种餐具2个后，总共有多少件餐具？。",
+  "topic": "回答下面的数学问题：There are 6 forks in the cutlery drawer. There are 9 more knives than forks, and there are twice as many spoons as knives and half as many teaspoons as forks. After 2 of each cutlery is added to the drawer, how many pieces of cutlery are there in all?",
   "checkpoint": [
     {
-      "$\\boxed{62}$": 1
+      "\\boxed{62}": 1
     }
   ],
   "matchingmethod": [

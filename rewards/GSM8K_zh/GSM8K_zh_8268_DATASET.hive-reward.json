@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个动物园管理员正在计算围栏里有多少只狮子。她数了12只雌狮，雄狮的数量是雌狮的一半，还有14只狮子幼崽。围栏里总共有多少只狮子？。",
+  "topic": "回答下面的数学问题：A zookeeper is counting how many lions are in their enclosure. She counts 12 female lions, half as many male lions, and 14 lion cubs. How many lions are in the enclosure?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marcus收到了尽可能多的绘画委托。Marcus计划安排他的绘画，以便他的客户尽快收到一些绘画，但这仍然需要很长时间。第一天，他绘制了2幅画。然后他每天都绘画，每天的绘画数量是前一天的两倍。如果他连续绘画5天，他总共会绘制多少幅画？。",
+  "topic": "回答下面的数学问题：Marcus has received a commission for as many paintings as possible. Marcus plans out his drawings so that his client can receive some of the paintings as soon as possible but it is still going to take a long time. On the first day, he paints 2 paintings. He then paints every day and each day, he paints twice as many paintings as he painted the day before. If he paints for 5 days, how many paintings will he have painted in total?",
   "checkpoint": [
     {
-      "$\\boxed{62}$": 1
+      "\\boxed{62}": 1
     }
   ],
   "matchingmethod": [

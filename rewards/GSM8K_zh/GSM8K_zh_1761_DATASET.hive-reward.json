@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Aleesia每周减少1.5磅，持续10周。Alexei每周减少2.5磅，持续8周。这两位朋友一共减少了多少磅？。",
+  "topic": "回答下面的数学问题：Aleesia lost 1.5 pounds each week for 10 weeks. Alexei lost 2.5 pounds each week for 8 weeks. How many pounds did the two friends combine to lose?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一场篮球比赛有10000名观众。其中有7000名是男性。在剩下的观众中，儿童的数量是女性的5倍。有多少儿童？。",
+  "topic": "回答下面的数学问题：There were 10000 spectators at a basketball match. 7000 of them were men. Of the remaining spectators, there were 5 times as many children as women. How many children were there?",
   "checkpoint": [
     {
-      "$\\boxed{2500}$": 1
+      "\\boxed{2500}": 1
     }
   ],
   "matchingmethod": [

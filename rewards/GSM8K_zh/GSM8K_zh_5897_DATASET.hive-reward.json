@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校剧场有6个女孩和8个男孩。如果每个孩子的父母都参加首映式，那么剧场里会有多少位家长？。",
+  "topic": "回答下面的数学问题：There are 6 girls and 8 boys in the school play. If both parents of each kid attend the premiere, how many parents will be in the auditorium?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

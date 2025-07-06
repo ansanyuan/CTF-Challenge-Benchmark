@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jeremy喜欢玩Scrabble。他曾经在三倍字数得分上玩了一个三个字母的单词，得了30分。如果在单词得分被三倍之前，第一个和第三个字母各自价值一分，那么在单词得分被三倍之前，中间的字母价值是多少？。",
+  "topic": "回答下面的数学问题：Jeremy loves to play Scrabble.  He once played a three-letter word on a triple word score to earn thirty points.  If before the word score was tripled, the first and third letters were each valued at one point apiece, how much was the middle letter valued at before the word score was tripled?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

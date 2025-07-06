@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位商人在一周的销售后获得了960美元的利润。为了筹集610美元支付下一批货物的费用，她将利润平分一半，并向家人和朋友请求捐款。如果她总共收到310美元的捐款，并将其加到她利润的一半中，她超过目标赚了多少钱？。",
+  "topic": "回答下面的数学问题：A trader made a profit of $960 after a week of sales. To raise $610 to pay for her next shipment of wares, she splits the profit in half and solicits donations from her family and friends. If she received a total donation of $310 and adds it to one-half of her profit, how much money did she make above her goal?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

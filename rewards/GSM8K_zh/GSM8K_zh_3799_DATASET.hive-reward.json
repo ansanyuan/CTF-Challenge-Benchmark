@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰和他家里的其他3名成员加入了一个乡村俱乐部。加入的费用是每人4000美元。此外，每人每月还有1000美元的费用。约翰支付了一半的费用。约翰在第一年支付了多少钱？。",
+  "topic": "回答下面的数学问题：John joins a country club with 3 other members of his family.  The fee to join is $4000 per person.  There is also a monthly cost of $1000 per person.  John pays half the cost.  How much does John pay for the first year?",
   "checkpoint": [
     {
-      "$\\boxed{32000}$": 1
+      "\\boxed{32000}": 1
     }
   ],
   "matchingmethod": [

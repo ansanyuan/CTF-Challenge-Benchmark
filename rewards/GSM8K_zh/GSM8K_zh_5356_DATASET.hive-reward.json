@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：丽迪娅有80株植物。她的植物中有40%是开花植物。丽迪娅想把她四分之一的开花植物放在门廊上。如果每株开花植物能产生5朵花，门廊上总共有多少朵花？。",
+  "topic": "回答下面的数学问题：Lydia has 80 plants. 40% of her plants are flowering plants. Lydia wants to place a fourth of her flowering plants on the porch. If each flowering plant produces 5 flowers, how many flowers are there in total on the porch?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

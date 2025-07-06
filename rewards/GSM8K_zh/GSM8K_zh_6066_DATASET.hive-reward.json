@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安娜有50支铅笔，哈里有安娜铅笔数量的两倍，但他丢失了19支。哈里还剩下多少支铅笔？。",
+  "topic": "回答下面的数学问题：Anna has 50 pencils and Harry has twice the number of Anna’s Pencils but he lost 19 of them. How many pencils are left with Harry?",
   "checkpoint": [
     {
-      "$\\boxed{81}$": 1
+      "\\boxed{81}": 1
     }
   ],
   "matchingmethod": [

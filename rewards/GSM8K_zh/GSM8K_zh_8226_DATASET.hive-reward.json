@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jenna有4个室友。每个月的电费是100美元。如果他们平均分摊，每个室友每年要为电费支付多少钱？。",
+  "topic": "回答下面的数学问题：Jenna has 4 roommates. Each month the electricity bill is $100. How much will each roommate pay per year for electricity, if they divide the share equally?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

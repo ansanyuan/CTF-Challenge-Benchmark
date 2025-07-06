@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆打了9轮高尔夫球。他平均每个洞打4杆。每个洞的标准杆是3杆。他超过标准杆多少杆？。",
+  "topic": "回答下面的数学问题：Tom plays 9 rounds of golf.  He takes an average of 4 strokes per hole.  The par value per hole is 3.  How many strokes over par was he?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ralph购物车里的商品总价值为54.00美元。在收银台，他询问是否可以对一个有小问题的商品享受20%的折扣。这件商品原价为20.00美元。他们同意了。Ralph还有一张10%的购物券，他在享受了有小问题的商品20%折扣后使用了这张购物券。他所有商品的总价是多少？。",
+  "topic": "回答下面的数学问题：Ralph has $54.00 worth of products in his cart.  At the register, he asks if he could have a 20% discount on an item with a small issue.  This item is $20.00 to start.  They agree.   Ralph also has a 10% coupon on his purchase, which he uses after the 20% discount on the item with the small issue.  How much will all of his items cost?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

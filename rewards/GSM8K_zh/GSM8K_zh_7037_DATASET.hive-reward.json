@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：德博拉比梅丽莎多12条裙子。梅丽莎的裙子数量是艾米莉的一半。如果艾米莉有16条裙子，她们三个人总共有多少条裙子？。",
+  "topic": "回答下面的数学问题：Debora has 12 more dresses than Melissa. Melissa has half the number of dresses Emily has. If Emily has 16 dresses, how many dresses do the three of them have in total?",
   "checkpoint": [
     {
-      "$\\boxed{44}$": 1
+      "\\boxed{44}": 1
     }
   ],
   "matchingmethod": [

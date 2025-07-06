@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史蒂夫作为一名教师，一年赚取40000美元。他失去了20%的税收，10%的医疗保健费用，以及800美元的地方工会会费。史蒂夫带回家多少钱？。",
+  "topic": "回答下面的数学问题：Steve makes 40000$ a year as a teacher.  He loses 20 percent to taxes, 10 percent to healthcare, and 800$ to local union dues.  How much money does Steve take home?",
   "checkpoint": [
     {
-      "$\\boxed{27200}$": 1
+      "\\boxed{27200}": 1
     }
   ],
   "matchingmethod": [

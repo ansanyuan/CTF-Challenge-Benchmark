@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个杆子长20米。它被切割后变短了30%。现在杆子有多长？。",
+  "topic": "回答下面的数学问题：A pole is 20 meters long. It got cut in a way that left it 30% shorter. How long is the pole?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

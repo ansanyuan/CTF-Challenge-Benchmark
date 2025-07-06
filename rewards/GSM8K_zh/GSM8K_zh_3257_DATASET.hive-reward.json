@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bert为了旅行做了12个三明治。第一天，他吃掉了他做的三明治的一半。第二天他少吃了2个三明治。在这两天之后，Bert还剩下多少个三明治？。",
+  "topic": "回答下面的数学问题：Bert made 12 sandwiches for his trip. On the first day, he ate half of the sandwiches he made. The next day he ate 2 sandwiches less. How many sandwiches does Bert have left after these two days?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

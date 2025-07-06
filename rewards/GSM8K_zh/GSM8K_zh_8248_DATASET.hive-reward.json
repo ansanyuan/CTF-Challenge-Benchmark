@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克决定去参观一个离家150英里的博物馆。他去那里和回来的速度都是每小时75英里。他在博物馆里待了6个小时。他离家多久了？。",
+  "topic": "回答下面的数学问题：Jack decides to visit a museum 150 miles from home.  He drives 75 mph there and back.  He spends 6 hours at the museum.  How long is he gone from home?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

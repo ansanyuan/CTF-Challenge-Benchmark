@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：制作酸奶，公司需要牛奶和水果。牛奶的购买价格为每升1.5美元，水果的价格为每公斤2美元。为了制作一批酸奶，公司需要10升牛奶和3公斤水果。公司生产三批酸奶的成本是多少？。",
+  "topic": "回答下面的数学问题：To make yogurt, the company needs milk and fruit. Milk is bought at $1.5 per liter and fruit at $2 per kilogram. To make one batch of yogurt, the company needs 10 liters of milk, and 3 kilograms of fruit. How much does it cost the firm to produce three batches of yogurt?",
   "checkpoint": [
     {
-      "$\\boxed{63}$": 1
+      "\\boxed{63}": 1
     }
   ],
   "matchingmethod": [

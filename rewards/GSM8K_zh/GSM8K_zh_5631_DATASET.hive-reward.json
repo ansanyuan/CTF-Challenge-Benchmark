@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莎拉拿到了她两周工作的第一份工资支票。她每周工作40小时，时薪11.50美元。她做的第一件事是为她的车买了一套新轮胎，价格为410美元。她还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Sara got her first paycheck of two weeks of work. She had worked 40 hours a week at $11.50 per hour. The first thing she did was buy a new set of tires for her car for $410. How much money was she left with?",
   "checkpoint": [
     {
-      "$\\boxed{510}$": 1
+      "\\boxed{510}": 1
     }
   ],
   "matchingmethod": [

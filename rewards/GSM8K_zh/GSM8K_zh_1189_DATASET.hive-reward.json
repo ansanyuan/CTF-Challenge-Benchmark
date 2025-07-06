@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：普雷斯顿有一家三明治店。他每份三明治收费5美元。他还收取20美元的送货费。阿布拉公司从普雷斯顿那里订购了18份三明治，并给了他10%的小费。普雷斯顿总共收到了多少美元？。",
+  "topic": "回答下面的数学问题：Preston has a sandwich shop. He charges $5 for each sandwich. He also charges $20 for a delivery fee. Abra Company orders 18 sandwiches from Preston and also tips him 10%. How much total, in dollars, did Preston receive?",
   "checkpoint": [
     {
-      "$\\boxed{121}$": 1
+      "\\boxed{121}": 1
     }
   ],
   "matchingmethod": [

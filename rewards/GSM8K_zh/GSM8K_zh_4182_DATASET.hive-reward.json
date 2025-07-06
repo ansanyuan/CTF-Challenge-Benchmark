@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汉娜想在五个星期内存80美元。在第一周，她存了4美元，并计划比上一周的存款多一倍。她将在第五周存多少钱才能达到她的目标？。",
+  "topic": "回答下面的数学问题：Hannah wants to save $80 for five weeks. In the first week, she saved $4 and she plans to save twice as much as her savings as the previous week. How much will she save in the fifth week to reach her goal?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

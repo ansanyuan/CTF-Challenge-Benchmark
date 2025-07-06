@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：哈德利喜欢在当地图书馆做志愿工作。某一天，她整齐地将100本书摆放在书架上。到了午餐时间，有一定数量的书被借走。她又在同一书架上增加了40本书。到了晚上，又有30本书被借走。如果到了晚上书架上还剩60本书，那么到了午餐时间之前有多少本书被借走？。",
+  "topic": "回答下面的数学问题：Hadley loves to do volunteer work at the local library. On a certain day, she neatly arranges 100 books on the shelf. By lunchtime, a certain number of books had been borrowed. She added 40 more books to the same shelf. By evening, 30 more books had been borrowed. If the shelf had 60 books remaining by the evening, how many books had been borrowed by lunchtime?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

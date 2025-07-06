@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克在商店里花了5美元买了一张他最喜欢的电影DVD。迈克的朋友史蒂夫看到了，也决定买一张同样的DVD，但已经卖光了。他需要在网上订购，价格是商店价格的两倍。此外，他还需要支付80%的电影价格作为运费。史蒂夫总共支付了多少钱来买到这张DVD？。",
+  "topic": "回答下面的数学问题：Mike bought a DVD of his favorite movie. He paid $5 for it at the store. A friend of Mike's, Steve, saw this and also decided to buy a DVD of the movie, but it was already sold out. He needed to order it online, which cost him twice as much. And in addition, he needed to pay the shipping costs which were 80% of the price of the film he ordered. How much did Steve pay to get the DVD in total?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

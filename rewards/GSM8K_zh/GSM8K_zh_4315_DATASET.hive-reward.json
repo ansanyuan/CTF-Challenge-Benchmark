@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carla需要在中午之前干洗80件衣服。如果她早上8点开始工作，她每小时需要清洗多少件衣服？。",
+  "topic": "回答下面的数学问题：Carla needs to dry-clean 80 pieces of laundry by noon. If she starts work at 8 AM, how many pieces of laundry does she need to clean per hour?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

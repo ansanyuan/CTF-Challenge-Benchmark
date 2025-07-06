@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰喜欢在早餐、午餐和晚餐时喝一杯水。最后，他在睡觉前也要喝一杯。约翰每个工作日都这样做，但周末他喜欢放松一下，晚餐时喝苏打水。约翰一周喝多少杯水？。",
+  "topic": "回答下面的数学问题：John likes to have a glass of water with breakfast, lunch and dinner.  Finally, he has one before he goes to bed as well.  John does this every weekday, but on the weekends he likes to relax and have a soda with dinner instead.  How many glasses of water does John drink in a week?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

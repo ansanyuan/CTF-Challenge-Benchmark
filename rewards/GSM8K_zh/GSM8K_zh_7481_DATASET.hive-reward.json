@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carla正在下载一个200GB的文件。通常她可以以每分钟2GB的速度下载，但在下载过程中完成了40%时，Windows强制重启以安装更新，这花了20分钟。然后Carla不得不从头开始重新下载。下载这个文件需要多长时间？。",
+  "topic": "回答下面的数学问题：Carla is downloading a 200 GB file. Normally she can download 2 GB/minute, but 40% of the way through the download, Windows forces a restart to install updates, which takes 20 minutes. Then Carla has to restart the download from the beginning. How load does it take to download the file?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

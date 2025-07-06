@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kimberly喜欢口香糖，几乎可以用她拥有的任何东西来交换。一个朋友知道Kim有一堆她喜欢的闪亮新耳环。她同意每对耳环给Kim 9颗口香糖。第一天，Kim带了3对耳环。第二天，她带了两倍多。第三天，她比第二天带的少1对。如果Kim每天吃3颗口香糖，口香糖可以持续多少天？。",
+  "topic": "回答下面的数学问题：Kimberly loves gumballs and will trade almost anything she owns for them. A friend knows that Kim has a bunch of shiny new earrings that she loves. She agrees to give Kim 9 gumballs for each pair of earrings. On the first day, Kim brings her 3 pairs of earrings. On the second she brings her twice as many. On the third day, she brings 1 less than she brought on the second day. If Kim eats 3 gumballs a day, how many days will the gumballs last?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

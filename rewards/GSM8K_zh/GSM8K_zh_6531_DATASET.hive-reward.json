@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：查尔斯买了20张纸来画画。今天查尔斯画了6幅画。昨天上班前他画了6幅画，下班后又画了一些画。知道他还剩2张纸，那么下班后查尔斯画了多少幅画？。",
+  "topic": "回答下面的数学问题：Charles bought 20 papers to draw. Today Charles drew 6 pictures. Yesterday he drew 6 pictures before going to work and some pictures when he came back. How many pictures did Charles draw when he came back from work knowing that he has 2 papers left?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

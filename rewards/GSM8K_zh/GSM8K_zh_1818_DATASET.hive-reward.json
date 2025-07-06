@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carson正在给他的轮胎加气。每个轮胎可以容纳500立方英寸的空气。两个轮胎完全瘪平并且是空的。一个轮胎是40%满的，最后一个轮胎是70%满的。如果Carson每次泵入50立方英寸的空气，他需要多少次泵才能把所有轮胎充满？。",
+  "topic": "回答下面的数学问题：Carson is refilling his tires. Each tire can hold 500 cubic inches of air. Two of the tires are completely flat and empty. One tire is 40% full and the last tire is 70% full. If Carson injects 50 cubic inches of air with each pump, how many pumps will it take him to fill all the tires?",
   "checkpoint": [
     {
-      "$\\boxed{29}$": 1
+      "\\boxed{29}": 1
     }
   ],
   "matchingmethod": [

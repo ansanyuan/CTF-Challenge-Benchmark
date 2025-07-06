@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Benjamin每天收集6打鸡蛋。Carla收集的鸡蛋数量是Benjamin收集数量的3倍。Trisha比Benjamin少收集4打。三人总共收集了多少打鸡蛋？。",
+  "topic": "回答下面的数学问题：Benjamin collects 6 dozen eggs a day. Carla collects 3 times the number of eggs that Benjamin collects.  Trisha collects 4 dozen less than Benjamin.  How many dozen eggs do the three collect total?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个自行车店老板每周增加3辆自行车到她的库存。一个月后，她卖出了18辆自行车，但库存中仍有45辆自行车。她最初有多少辆自行车？。",
+  "topic": "回答下面的数学问题：A bicycle shop owner adds 3 bikes to her stock every week. After 1 month, she had sold 18 bikes but still had 45 bikes in stock. How many bikes did she have originally?",
   "checkpoint": [
     {
-      "$\\boxed{51}$": 1
+      "\\boxed{51}": 1
     }
   ],
   "matchingmethod": [

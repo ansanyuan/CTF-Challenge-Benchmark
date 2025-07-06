@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：西奥恩的船每小时可以航行15海里，而雅拉的船每小时可以航行30海里。如果他们的目的地距离90海里，雅拉将领先西奥恩多少小时？。",
+  "topic": "回答下面的数学问题：Theon's ship can move 15 nautical miles per hour while Yara's ship can move 30 nautical miles per hour. If their destination is 90 nautical miles away, how many hours ahead will Yara be ahead of Theon?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

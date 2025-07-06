@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克莱尔的母亲给了她47美元去商店。克莱尔买了4条面包和2盒牛奶。每条面包的价格是2美元，每盒牛奶的价格是2美元。克莱尔剩下多少钱？。",
+  "topic": "回答下面的数学问题：Clare's mother gave her $47 to go to the store. Clare bought 4 loaves of bread and 2 cartons of milk. Each loaf of bread cost $2 and each carton of milk cost $2. How much money does Clare have left?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

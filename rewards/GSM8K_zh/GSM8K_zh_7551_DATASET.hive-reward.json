@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果雷蒙德做的洗衣服数量是莎拉的一半，而莎拉做的洗衣服数量是大卫的4倍，如果莎拉洗了400磅的衣服，计算雷蒙德和大卫做的洗衣服数量的差异。。",
+  "topic": "回答下面的数学问题：If Raymond does half as much laundry as Sarah, and Sarah does 4 times as much laundry as David, calculate the difference in the amount of laundry Raymond and David do if Sarah does 400 pounds of laundry.",
   "checkpoint": [
     {
-      "$\\boxed{100}$": 1
+      "\\boxed{100}": 1
     }
   ],
   "matchingmethod": [

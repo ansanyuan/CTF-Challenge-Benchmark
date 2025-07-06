@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在博物馆，贝瑟尼看到的静物画比肖像画多4倍。如果她总共看了80幅画，她看了多少幅肖像画？。",
+  "topic": "回答下面的数学问题：At the museum, Bethany saw 4 times more still lifes than portraits. If she saw 80 paintings total, how many portraits did she see?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

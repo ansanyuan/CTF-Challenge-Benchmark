@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jason和Jeremy想把他们的墙涂成白色，并同意分担油漆的费用。一加仑油漆的价格是45美元，可以覆盖多达400平方英尺。如果他们的墙总面积为1600平方英尺，并且需要第二遍涂料，他们每个人将为油漆的费用贡献多少？。",
+  "topic": "回答下面的数学问题：Jason and Jeremy want to paint their wall white and agreed to split the cost of the paint. A gallon of paint costs $45 and can cover up to 400 square feet. How much will each of them contribute to the cost of the paint if their walls have a total area of 1600 square feet and will need a second coat?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

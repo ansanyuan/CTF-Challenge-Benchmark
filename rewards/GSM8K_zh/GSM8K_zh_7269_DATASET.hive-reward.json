@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bodhi先生正在使用游艇横渡一条河流运送一些动物。他有20头奶牛，15只狐狸和比狐狸多三倍的斑马。为了平衡游艇，确保它顺利横渡河流，游艇上的动物总数需要达到100。如果他决定添加羊到游艇上，使得游艇适合航行，他添加了多少只羊到游艇上？。",
+  "topic": "回答下面的数学问题：Mr. Bodhi is transporting some animals using a yacht across a river. He has 20 cows, 15 foxes and three times as many zebras as foxes. To balance the yacht to ensure a smooth sail across the river, the total number of animals in the yacht needs to be 100. If he decides to add sheep to the yacht to make the yacht sail-worthy, how many sheep did he add to the yacht?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

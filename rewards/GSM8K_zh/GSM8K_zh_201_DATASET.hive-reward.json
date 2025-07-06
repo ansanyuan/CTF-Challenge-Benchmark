@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：桑莎是一位著名的艺术家，她可以根据肖像的大小来出售。她以5美元的价格出售8英寸的肖像，以8英寸的肖像的两倍价格出售16英寸的肖像。如果她每天卖出三张8英寸的肖像和五张16英寸的肖像，她每3天能赚多少钱？。",
+  "topic": "回答下面的数学问题：Sansa is a famous artist, she can draw a portrait and sell it according to its size. She sells an 8-inch portrait for $5, and a 16-inch portrait for twice the price of the 8-inch portrait. If she sells three 8-inch portraits and five 16-inch portraits per day, how many does she earns every 3 days?",
   "checkpoint": [
     {
-      "$\\boxed{195}$": 1
+      "\\boxed{195}": 1
     }
   ],
   "matchingmethod": [

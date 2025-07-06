@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：周五，玛基莎为她的童子军团募款活动卖出了30盒饼干。周六，她卖出了周五的两倍。周日，她比周六少卖了15盒。她在这三天内一共卖出了多少盒饼干？。",
+  "topic": "回答下面的数学问题：On Friday, Markeesha sold 30 boxes of crackers for her scout troop's fundraiser. On Saturday, she sold twice as many as on Friday. On Sunday, she sold 15 fewer than Saturday. How many boxes did she sell over the three days?",
   "checkpoint": [
     {
-      "$\\boxed{135}$": 1
+      "\\boxed{135}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马特和汤姆一起走上图书馆的楼梯。马特每分钟上楼梯20步。汤姆比马特每分钟多上5步。如果马特已经走了220步，那么到那时汤姆会走多少步？。",
+  "topic": "回答下面的数学问题：Matt and Tom both walk up the stairs of the library. Matt goes up the stairs 20 steps per minute. Tom goes up the stairs 5 steps per minute more than Matt. If Matt has reached 220 steps above the entrance, how many steps will Tom have gone up by that time?",
   "checkpoint": [
     {
-      "$\\boxed{275}$": 1
+      "\\boxed{275}": 1
     }
   ],
   "matchingmethod": [

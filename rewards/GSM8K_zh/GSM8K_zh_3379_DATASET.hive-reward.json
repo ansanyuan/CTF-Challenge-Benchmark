@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：克里斯塔开始养鸡。她有10只下蛋的母鸡。她以每打3美元的价格出售鸡蛋。在四周内，她卖了价值120美元的鸡蛋。如果她卖掉了她的母鸡所下的所有鸡蛋，每只母鸡每周会下多少个鸡蛋？。",
+  "topic": "回答下面的数学问题：Krista started raising chickens. She has 10 hens who lay eggs. She sells the eggs for $3 a dozen. In four weeks, she sold $120 worth of eggs. If she sold all the eggs her hens laid, how many eggs does each hen lay a week?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

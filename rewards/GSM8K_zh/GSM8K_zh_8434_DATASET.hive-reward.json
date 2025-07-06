@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一群海盗在地图上标记为X的岛上挖掘埋藏的宝藏。他们第一天挖了十个洞，第二天挖了十三个洞，第三天挖了八个洞。第三天他们提早停止挖掘，填补了两个海盗们不断跌入的洞。到了第四天挖掘时，他们发现了一个装满金子、珠宝和一顶陈旧帽子的宝箱。那时岛上的洞是第一天结束时的四倍。海盗们在找到宝藏之前第四天挖了多少个洞？。",
+  "topic": "回答下面的数学问题：A pirate crew is digging for buried treasure on the island marked X on a map. They dug ten holes the first day, thirteen holes the second day, and eight holes the third day. They stopped digging early on the third day to fill in two holes the pirates kept falling in. On the fourth day of digging, they unearthed a treasure chest full of gold, jewels, and an aged hat. The island had four times as many holes by then as it did at the end of the first day. How many holes did the pirates dig on the fourth day before finding the treasure?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

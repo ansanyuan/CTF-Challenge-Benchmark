@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Santana有7个兄弟。其中3个在三月份生日，1个在十月份生日，1个在十一月份生日，另外2个在十二月份生日。如果Santana总是给她的每个兄弟买生日礼物和圣诞礼物，她在下半年比上半年需要再买多少份礼物？。",
+  "topic": "回答下面的数学问题：Santana has 7 brothers. 3 of them have birthdays in March, 1 of them has a birthday in October, 1 has a birthday in November, and another 2 of them were born in December. If Santana always buys each of her brothers a birthday present and a Christmas present, how many more presents does she have to buy in the second half of the year than the first half of the year?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

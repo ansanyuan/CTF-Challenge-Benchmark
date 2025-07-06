@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果娜塔莎超速行驶10英里/小时，并且她花了1小时才到达距离60英里的目的地，那么速度限制是多少？。",
+  "topic": "回答下面的数学问题：If Natasha was going 10 mph over the speed limit and it took her an hour to arrive at her destination that was 60 miles away, what was the speed limit?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

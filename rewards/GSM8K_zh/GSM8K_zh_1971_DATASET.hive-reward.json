@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个家庭买了1盒披萨，切成16片。家庭只吃了四分之三的披萨。还剩下多少片披萨？。",
+  "topic": "回答下面的数学问题：A family bought 1 box of pizza that is cut into 16 slices. Only three-fourths of the pizza was eaten by the family. How many slices of pizza were left?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

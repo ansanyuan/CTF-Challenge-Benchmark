@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ellen和她的妹妹Lani去商场给她们妈妈买礼物。Ellen买了一条裤子花了100美元和一个相框5美元。Lani买了一副太阳镜30美元和两件浴袍，每件100美元。她们总共花了多少钱？。",
+  "topic": "回答下面的数学问题：Ellen and her sister, Lani, went to the mall to buy presents for their mom. Ellen bought a pair of leggings for $100 and a photo frame for $5. Lani bought a pair of sunglasses at $30 and two bathrobes at $100 each. How much did they spend in all?",
   "checkpoint": [
     {
-      "$\\boxed{335}$": 1
+      "\\boxed{335}": 1
     }
   ],
   "matchingmethod": [

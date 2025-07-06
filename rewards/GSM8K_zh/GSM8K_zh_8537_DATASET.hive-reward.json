@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：James每天收到80封电子邮件。其中20%的邮件不需要任何回复。他回复了剩下的邮件。在一个5天的工作周里，他回复了多少封电子邮件？。",
+  "topic": "回答下面的数学问题：James gets 80 emails a day.  20% of those emails don't require any response.  He responds to the rest of them.  How many emails does he respond to in a 5 day work week?",
   "checkpoint": [
     {
-      "$\\boxed{320}$": 1
+      "\\boxed{320}": 1
     }
   ],
   "matchingmethod": [

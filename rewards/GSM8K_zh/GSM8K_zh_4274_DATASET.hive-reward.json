@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Brinley的老师带六年级的学生去圣地亚哥动物园观看和学习动物。在动物园里，Brinley数了100条蛇，80只北极狐和20只豹。她还看到比豹多十倍的蜂虎，比蛇少一半的猎豹，比北极狐和豹的总数多两倍的鳄鱼。Brinley在动物园里数了多少动物？。",
+  "topic": "回答下面的数学问题：Brinley's teacher took the grade six students to the San Diego Zoo to watch and learn about animals. While at the zoo, Brinley counted 100 snakes, 80 arctic foxes, and 20 leopards. She also saw ten times more bee-eaters than leopards, half as many cheetahs as snakes, and twice as many alligators as the total number of Arctic foxes and leopards. What's the total number of animals Brinley counted at the zoo?",
   "checkpoint": [
     {
-      "$\\boxed{670}$": 1
+      "\\boxed{670}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：上周星期二，里奥在Sudsy Laundry交了10条裤子和一些衬衫。他收到了一张账单，每件衬衫5美元，每条裤子9美元，总共140美元。昨天他去取衣服时，服务员坚持说他只交了2件衬衫。里奥向经理报告了这件事，经理命令服务员寻找里奥剩下的衬衫。缺少多少件衬衫？。",
+  "topic": "回答下面的数学问题：On Tuesday last week, Leo dropped off 10 pairs of trousers and some shirts at Sudsy Laundry. He was given a bill of $140, charged at $5 per shirt and $9 for each pair of trousers. When he went to pick up his clothes yesterday, the attendant insisted that he had only dropped off 2 shirts. Leo reported the matter to the manager, who ordered the attendant to search for the rest of Leo’s shirts. How many shirts were missing?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

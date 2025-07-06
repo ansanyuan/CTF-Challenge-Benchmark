@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：九月的温度在一周内剧烈波动。他们从周日的40度开始，然后周一升至50度，周二升至65度，周三降至36度，周四升至82度，周五升至72度，并在周六结束时降至26度。那周的平均温度是多少？。",
+  "topic": "回答下面的数学问题：September's temperature fluctuated severely in 1 week.  They started off with 40 degrees on Sunday then hit 50 on Monday, 65 on Tuesday, 36 on Wednesday, 82 on Thursday, 72 on Friday and ended the week at 26 on Saturday.  What was the average temperature for that week?",
   "checkpoint": [
     {
-      "$\\boxed{53}$": 1
+      "\\boxed{53}": 1
     }
   ],
   "matchingmethod": [

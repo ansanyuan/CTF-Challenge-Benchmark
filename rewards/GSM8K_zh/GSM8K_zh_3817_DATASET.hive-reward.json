@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Goldie每小时做宠物照料赚5美元。上周，她工作了20小时，而这周，她工作了30小时。Goldie在两周内做宠物照料赚了多少钱？。",
+  "topic": "回答下面的数学问题：Goldie makes $5 an hour for pet-sitting. Last week, she worked for 20 hours while this week, she worked for 30 hours. How much did Goldie earn in two weeks for pet-sitting?",
   "checkpoint": [
     {
-      "$\\boxed{250}$": 1
+      "\\boxed{250}": 1
     }
   ],
   "matchingmethod": [

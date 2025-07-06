@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Emily喜欢养宠物，因此她家有4只狗。每只狗每天吃250克的食物。她需要度假14天。她应该为她的4只狗买多少公斤的食物，这样她外出期间它们不会挨饿？。",
+  "topic": "回答下面的数学问题：Emily loves to have pets and for that reason, she has 4 dogs in her home. Each one eats 250 grams of food per day. She has to go on vacation for 14 days. How many kilograms of food should she buy for her 4 dogs so they don't starve while she is out?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

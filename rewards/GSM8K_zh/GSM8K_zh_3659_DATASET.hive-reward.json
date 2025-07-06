@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：二十个人以每张155美元的价格预购了飞机票。三十个人在门口购买了他们的飞机票，每人支付200美元。门口购买的人为他们的机票支付的美元比预购的乘客多了多少？。",
+  "topic": "回答下面的数学问题：Twenty people pre-bought plane tickets at a price of $155 per ticket. Thirty people bought their plane tickets at the gate and they each paid $200 for their ticket. How many more dollars did the people at the gate pay for their tickets than those passengers that pre-bought their tickets?",
   "checkpoint": [
     {
-      "$\\boxed{2900}$": 1
+      "\\boxed{2900}": 1
     }
   ],
   "matchingmethod": [

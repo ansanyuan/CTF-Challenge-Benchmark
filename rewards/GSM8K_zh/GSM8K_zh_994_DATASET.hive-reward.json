@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rick有130张卡片。他决定只留下15张卡片，所以他把一些卡片给了米格尔。然后，他见到了8个朋友，决定给他们每人12张卡片，剩下的卡片平均分给了他的2个姐妹。如果Rick的每个姐妹都得到了3张卡片，那么Rick给了米格尔多少张卡片？。",
+  "topic": "回答下面的数学问题：Rick has 130 cards. He decided to only keep 15 cards and so he gave Miguel some of the cards. Then, he saw 8 friends and decided to give them 12 cards each, and the remaining cards were given equally to his 2 sisters. If each of Rick's sisters got 3 cards, how many cards did Rick give to Miguel?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

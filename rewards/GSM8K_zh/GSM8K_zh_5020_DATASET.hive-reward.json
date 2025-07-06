@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：西耶娜给了贝利一半的棒棒糖。詹吃了一半，然后把剩下的给了莫莉。莫莉吃了2个，然后把剩下的给了哈蒙尼。哈蒙尼留下3个，把剩下的给了泰勒。泰勒吃了一个，然后把最后的5个给了卡莉。詹吃了多少个棒棒糖？。",
+  "topic": "回答下面的数学问题：Sienna gave Bailey half of her suckers. Jen ate half and gave the rest to Molly. Molly ate 2 and gave the rest to Harmony. Harmony kept 3 and passed the remainder to Taylor. Taylor ate one and gave the last 5 to Callie. How many suckers did Jen eat?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

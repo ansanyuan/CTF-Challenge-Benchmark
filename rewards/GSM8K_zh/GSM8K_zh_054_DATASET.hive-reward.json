@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Caleb买了10盒冰淇淋和4盒冷冻酸奶。每盒冰淇淋的成本是4美元，每盒冷冻酸奶的成本是1美元。Caleb在冰淇淋上比在冷冻酸奶上多花了多少钱？。",
+  "topic": "回答下面的数学问题：Caleb bought 10 cartons of ice cream and 4 cartons of frozen yoghurt. Each carton of ice cream cost $4 and each carton of frozen yoghurt cost $1. How much more did Caleb spend on ice cream than on frozen yoghurt?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

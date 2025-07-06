@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：轮到伊维特请她自己和她的三个最好的朋友吃一轮冰淇淋圣代了。艾丽西亚点了花生酱圣代，价格为7.50美元。布兰特点了皇家香蕉分蛋糕圣代，价格为10.00美元。乔什点了死亡巧克力圣代，价格为8.50美元，伊维特点了樱桃庆典圣代，价格为9.00美元。她给侍者留下了20%的小费。她最终的账单会是多少？。",
+  "topic": "回答下面的数学问题：It's Yvette's turn to treat herself and her three best friends to a round of ice cream sundaes.  Alicia orders the peanut butter sundae for $7.50.  Brant orders the Royal banana split sundae for $10.00.  Josh orders the death by chocolate sundae for $8.50 and Yvette orders the cherry jubilee sundae for $9.00.  She leaves her waiter a 20% tip.  How much will her final bill be?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Circles $\\mathcal{C}_{1}$ and $\\mathcal{C}_{2}$ intersect at two points, one of which is $(9,6)$ , and the product of the radii is $68$ . The x-axis and the line $y = mx$ , where $m > 0$ , are tangent to both circles. It is given that $m$ can be written in the form $a\\sqrt {b}/c$ , where $a$ , $b$ , and $c$ are positive integers, $b$ is not divisible by the square of any prime, and $a$ and $c$ are relatively prime. Find $a + b + c$ .",
   "checkpoint": [
     {
-      "$\\boxed{282}$": 1
+      "\\boxed{282}": 1
     }
   ],
   "matchingmethod": [

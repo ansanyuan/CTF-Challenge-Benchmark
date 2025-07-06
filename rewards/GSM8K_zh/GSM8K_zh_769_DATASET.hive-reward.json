@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在她的第一个任期内，桑多瓦尔州长发表的毕业典礼演讲数量是霍金斯州长的两倍。斯隆州长在同样的时间内比桑多瓦尔州长多发表了十场毕业典礼演讲。如果桑多瓦尔州长发表了12场毕业典礼演讲，他们三个总共发表了多少场毕业典礼演讲？。",
+  "topic": "回答下面的数学问题：In her first term, Governor Sandoval gave twice as many commencement addresses as Governor Hawkins. Governor Sloan gave ten more commencement addresses than Governor Sandoval in the same amount of time. If Governor Sandoval gave 12 commencement addresses, how many commencement addresses did the three of them give altogether?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

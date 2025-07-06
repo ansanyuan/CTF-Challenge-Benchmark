@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个26英里的环形马拉松赛道内有四个检查点。第一个检查点距离起点1英里，最后一个检查点距离终点1英里。这些检查点之间的间距相等。起点和终点之间连续的检查点相距多少英里？。",
+  "topic": "回答下面的数学问题：A 26-mile circular marathon has four checkpoints inside it. The first is one mile from the start line, and the last checkpoint is one mile from the finish line. The checkpoints have equal spacing between them. How many miles apart are each of the consecutive checkpoints between the start-finish line?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

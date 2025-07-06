@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽本周用了15加仑的燃料。上周她用了少20%。她在两周内总共用了多少燃料？。",
+  "topic": "回答下面的数学问题：Mary used 15 gallons of fuel this week. Last week she used 20% less. How much fuel did she use in total for the two weeks?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

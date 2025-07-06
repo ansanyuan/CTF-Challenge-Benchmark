@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮和马克在扔瓶盖。珍妮的瓶盖直飞了18英尺，然后弹开了一个路灯，再飞了已经飞行距离的1/3。马克的瓶盖向前飞了15英尺，然后弹开了一个窗户，再飞了已经飞行距离的两倍。马克的瓶盖比珍妮的瓶盖多飞了多少？。",
+  "topic": "回答下面的数学问题：Jenny and Mark are throwing bottle caps. Jenny's bottlecap flies 18 feet straight, then bounces off a street light and flies another 1/3 of the distance it already went. Mark's bottle cap flies 15 feet forward, then bounces off a window and flies twice as far as it already did. How much further did Mark's bottle cap go than Jenny's?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

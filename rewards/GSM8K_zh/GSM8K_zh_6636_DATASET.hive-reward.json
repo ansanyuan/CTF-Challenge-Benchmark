@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莎拉走路去学校，背着一个装有25个苹果的袋子。在学校，她给每个她见到的老师一个苹果。她还给了她最亲密的5个朋友每人一个苹果。在回家的路上，她还吃了一个苹果。当她回家时，袋子里还剩下3个苹果。她给老师多少个苹果？。",
+  "topic": "回答下面的数学问题：Sarah walked to school carrying a bag containing 25 apples. At school, she gave each teacher she saw an apple. She also gave a single apple to each of 5 of her closest friends. And while she walked home, she also ate one of the apples. If she had three apples left in the bag when she got home, how many apples had she given away to teachers?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

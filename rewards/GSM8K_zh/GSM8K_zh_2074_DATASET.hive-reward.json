@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Alex有36盎司的软糖豆。他吃了6盎司。然后他将剩下的平均分成3堆。每堆重多少？。",
+  "topic": "回答下面的数学问题：Alex had 36 ounces of jelly beans. He ate 6 ounces. Then he divided the rest equally into 3 piles. How much does each pile weigh?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

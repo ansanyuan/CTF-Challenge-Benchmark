@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奶奶想为她的每个孙子女的开学第一天订购5个个性化背包。这些背包是20%折扣的，原价为20.00美元，而在背包上刺绣他们的名字将花费12.00美元。这些背包将花费多少钱？。",
+  "topic": "回答下面的数学问题：Grandma wants to order 5 personalized backpacks for each of her grandchildren's first days of school.  The backpacks are 20% off of $20.00 and having their names monogrammed on the back pack will cost $12.00 each.  How much will the backpacks cost?",
   "checkpoint": [
     {
-      "$\\boxed{140}$": 1
+      "\\boxed{140}": 1
     }
   ],
   "matchingmethod": [

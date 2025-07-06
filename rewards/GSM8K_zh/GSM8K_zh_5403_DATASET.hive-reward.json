@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一架飞机在早上6点起飞，从纽约飞往芝加哥飞行了4个小时。飞机在芝加哥停留了1小时，然后起飞飞往迈阿密。如果飞机飞往迈阿密的时间是飞往纽约到芝加哥的时间的三倍，计算从纽约到迈阿密的总旅行时间。。",
+  "topic": "回答下面的数学问题：A plane takes off at 6:00 a.m. and flies for 4 hours from New York City to Chicago. The plane stays at the port in Chicago for 1 hour and then departs for Miami. If the aircraft took three times as many hours to fly to Miami than it took to fly from New York to Chicago, calculate the total time to travel from New York to Miami.",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

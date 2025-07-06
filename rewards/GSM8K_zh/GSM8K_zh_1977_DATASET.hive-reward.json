@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：麦迪逊做了30只纸船并让它们漂流。20%被鱼吃掉，麦迪逊用火箭射掉了其他两只。还剩下多少只船？。",
+  "topic": "回答下面的数学问题：Madison makes 30 paper boats and sets them afloat. 20% are eaten by fish and Madison shoots two of the others with flaming arrows. How many boats are left?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

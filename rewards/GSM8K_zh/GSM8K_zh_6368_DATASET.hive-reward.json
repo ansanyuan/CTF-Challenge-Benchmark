@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bert有一个花园商店。他在仓库购买产品，然后在他的商店里以比仓库价格高10美元的价格出售。每次销售，他必须支付商品价值的10%作为税金。一天，一位客户来到他的商店，购买了一个桶，售价为90美元。Bert在这次销售中赚了多少钱？。",
+  "topic": "回答下面的数学问题：Bert has a garden shop. He buys his products in a warehouse and sells them for $10 more in his shop. From each sale, he has to pay 10% of the value in tax. One day a client came to his shop and bought a barrel for $90. How Much money did Bert make on this sale?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

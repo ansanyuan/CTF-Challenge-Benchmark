@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Baez有25颗弹珠。有一天她失去了其中的20%。然后一个朋友看到她，给了她失去的数量的两倍。Baez最后有多少颗弹珠？。",
+  "topic": "回答下面的数学问题：Baez has 25 marbles. She loses 20% of them one day. Then a friend sees her and gives her double the amount that Baez has after she lost them. How many marbles does Baez end up with?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

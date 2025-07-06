@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史密斯先生有两个农场，农场X和农场Y。他在农场X有55只山羊，在农场Y有45只山羊。他从农场X卖了10只山羊，从农场Y卖了两倍多的山羊。两个农场总共剩下多少只山羊？。",
+  "topic": "回答下面的数学问题：Mr. Smith has two farms, Farm X and Farm Y. He has 55 goats in Farm X and 45 goats in Farm Y. He sold 10 goats from Farm X and twice as many goats from Farm Y. How many goats are left in the two farms altogether?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

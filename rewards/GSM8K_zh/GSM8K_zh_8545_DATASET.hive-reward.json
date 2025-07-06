@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kayla在电影院举办她的生日派对。租用剧院的费用是20人的派对125美元，每增加一位宾客加收6美元。Kayla邀请了她的25个同学和她舞蹈班的7个女孩，以及13位家庭成员。只有4人说他们不能来。这个派对要花费多少钱？。",
+  "topic": "回答下面的数学问题：Kayla is having her birthday party at a movie theater. The fee to rent the theater is $125 for a party of 20, plus $6 for each additional guest. Kayla invited her 25 classmates and the 7 girls in her dance class, as well as 13 family members. Only 4 people said they could not come. How much will the party cost?",
   "checkpoint": [
     {
-      "$\\boxed{251}$": 1
+      "\\boxed{251}": 1
     }
   ],
   "matchingmethod": [

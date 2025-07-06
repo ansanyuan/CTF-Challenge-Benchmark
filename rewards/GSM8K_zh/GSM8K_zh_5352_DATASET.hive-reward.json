@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾伦负责一个高尔夫比赛的停车工作。一旦主要停车场满了，她必须指挥车辆停在溢出停车场。她必须使用高尔夫球车将停在溢出停车场的顾客运送到主要停车场。艾伦可以在高尔夫球车中容纳3名顾客。有12名乘车而来的顾客和27名乘坐巴士的顾客在溢出停车场等候。艾伦需要多少辆高尔夫球车来运送他们？。",
+  "topic": "回答下面的数学问题：Ellen is in charge of parking at a golf tournament. Once the main lot is full, she must direct cars to park in the overflow lot. She must transport the patrons who parked in the overflow lot up to the main lot using a golf cart. Ellen can fit 3 patrons in a golf cart. There are 12 patrons who came in cars and 27 from a bus waiting in the overflow parking lot. How many golf carts does Ellen need to transport them?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

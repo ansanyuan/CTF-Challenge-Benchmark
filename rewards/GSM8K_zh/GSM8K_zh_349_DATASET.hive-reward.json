@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布莱恩在水下只能屏住呼吸10秒。他想变得更好，所以开始练习。一个星期后，他的时间翻了一番。再过一个星期，他的时间比上一周翻了一番。最后一个星期，他的时间比上一周增加了50%。现在布莱恩能屏住呼吸多久了？。",
+  "topic": "回答下面的数学问题：Brian can only hold his breath underwater for 10 seconds.  He wants to get better, so he starts practicing.  After a week, he's doubled the amount of time he can do it.  After another week, he's doubled it again from the previous week.  The final week, he's increased it by 50% from the previous week.  How long can Brian hold his breath for now?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

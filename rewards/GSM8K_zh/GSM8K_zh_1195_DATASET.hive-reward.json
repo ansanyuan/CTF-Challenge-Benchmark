@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：文森特有72英寸长的绳子，他想用于一个项目，但他需要先把它切成小块。他把它切成12个等长的小块，但后来他意识到这样太短了，所以他把三块绳子系在一起。然后每块绳子变短了1英寸。经过这一切后，他的绳子有多长？。",
+  "topic": "回答下面的数学问题：Vincent has 72 inches of rope that he wants to use for a project, but he needs to cut it into smaller pieces first. He cuts it into 12 equal length pieces, but then he realizes it's too short, so he ties three pieces together. The knots then make each piece 1 inch shorter. How long are his pieces of rope after all this?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

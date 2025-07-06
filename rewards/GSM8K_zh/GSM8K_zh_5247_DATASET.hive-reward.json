@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Greg有自己的遛狗生意。他每只狗收费20美元，另外每只狗每分钟遛狗收费1美元。如果他遛一只狗10分钟，两只狗7分钟，三只狗9分钟，他一共赚了多少美元？。",
+  "topic": "回答下面的数学问题：Greg has his own dog walking business. He charges $20 per dog plus $1 per minute per dog for walking the dog. If he walks one dog for 10 minutes, two dogs for 7 minutes and three dogs for 9 minutes, how much money, in dollars, does he earn?",
   "checkpoint": [
     {
-      "$\\boxed{171}$": 1
+      "\\boxed{171}": 1
     }
   ],
   "matchingmethod": [

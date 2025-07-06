@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛吉中了一张奖金为12006美元的彩票，并希望在用于任何有趣的事情之前明智地花一些钱。她用一半的奖金金额支付了奖金税，然后用剩下的钱的三分之一还了学生贷款。她存了1000美元，并投资了其中的五分之一在股市。她还剩下多少钱用于娱乐？。",
+  "topic": "回答下面的数学问题：Marge had a winning lottery ticket for $12006 and wanted to spend some of it wisely before using on any fun things. She paid half of the lottery amount for the taxes on her winnings, then put a third of the leftover money towards her student loans. She put $1000 in savings and invested a fifth of that amount in the stock market. How many dollars does she have left for fun?",
   "checkpoint": [
     {
-      "$\\boxed{2802}$": 1
+      "\\boxed{2802}": 1
     }
   ],
   "matchingmethod": [

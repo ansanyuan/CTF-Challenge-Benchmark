@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：肯、戴夫和杰瑞在佛罗里达一起度假时玩了桨式滑板相互比赛。肯比戴夫多赢了5场比赛，而戴夫比杰瑞多赢了3场比赛。如果杰瑞赢了7场比赛，他们一共玩了多少场比赛？。",
+  "topic": "回答下面的数学问题：Ken, Dave, and Jerry played shuffleboard against one another while together vacationing in Florida.  Ken won 5 more games than Dave, and Dave won 3 more games than Jerry.  If Jerry won 7 games, what was the total number of games they played?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

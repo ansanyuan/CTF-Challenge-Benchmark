@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：碗里有19颗弹珠，其中5颗是黄色的。其余的弹珠按3:4的比例分成蓝色弹珠和红色弹珠。红色弹珠比黄色弹珠多多少？。",
+  "topic": "回答下面的数学问题：There are 19 marbles in a bowl, 5 of which are yellow. The remainder are split into blue marbles and red marbles in the ratio 3:4 respectively. How many more red marbles than yellow marbles are there?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

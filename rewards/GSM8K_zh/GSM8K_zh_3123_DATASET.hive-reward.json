@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马修和他的兄弟肖恩玩游泳池篮球。每个篮子值3分。马修得了9分。肖恩得了6分。在这场比赛中，一共投了多少个篮子？。",
+  "topic": "回答下面的数学问题：Matthew and his brother Shawn played swimming-pool-basketball. Each basket was worth 3 points. Matthew scored 9 points. Shawn scored 6 points. What is the total number of baskets made during this game?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

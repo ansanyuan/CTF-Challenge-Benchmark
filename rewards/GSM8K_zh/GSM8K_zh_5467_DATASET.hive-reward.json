@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：格雷迪有20个红色编号的立方体和15个蓝色编号的立方体。他给了他的朋友盖奇他的红色编号立方体的2/5和蓝色编号立方体的1/3。如果盖奇最初有10个红色编号的立方体和12个蓝色编号的立方体，找出盖奇总共有多少个立方体？。",
+  "topic": "回答下面的数学问题：Grady has 20 red numbered cubes and 15 blue numbered cubes. He gives his friend Gage 2/5 of his red numbered cubes and 1/3 of the blue numbered cubes. If Gage had 10 red numbered cubes and 12 blue numbered cubes, find the total number of cubes Gage has?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：冈瑟需要打扫他的公寓。他用45分钟来吸尘地毯，60分钟来擦拭家具，30分钟来拖地板，还需要5分钟来梳理每只猫，而他有三只猫。如果他有3小时的空闲时间，并且他利用这段时间来打扫公寓，那么在打扫公寓后，他还有多少分钟的空闲时间？。",
+  "topic": "回答下面的数学问题：Gunther needs to clean his apartment.  It takes him 45 minutes to vacuum the carpets, 60 minutes to dust the furniture, 30 minutes to mop the floors in his kitchen, and 5 minutes to brush each cat, and he has three cats.  If he has 3 hours of free time available, and he uses this time to clean his apartment, how many minutes of free time will he have left after he cleans the apartment?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

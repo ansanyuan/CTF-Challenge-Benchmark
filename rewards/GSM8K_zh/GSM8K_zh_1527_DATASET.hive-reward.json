@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Dana Point海滩的鲨鱼数量是Newport海滩的四倍。如果Newport海滩有22条鲨鱼，那么两个海滩总共有多少条鲨鱼？。",
+  "topic": "回答下面的数学问题：Dana Point beach has four times the number of sharks as Newport Beach. If Newport Beach has 22 sharks, how many sharks are there in total on the two beaches?",
   "checkpoint": [
     {
-      "$\\boxed{110}$": 1
+      "\\boxed{110}": 1
     }
   ],
   "matchingmethod": [

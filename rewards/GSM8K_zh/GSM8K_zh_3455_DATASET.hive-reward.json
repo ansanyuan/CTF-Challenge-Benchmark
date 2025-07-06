@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个当地的大学正在提供德语课程，目前有8名学生报名。通过广告，另外8名学生对此产生了兴趣，但其中四分之一在一天内就退出了。另外2人感到沮丧离开了。然后班级团结起来展示课程实际上是多么简单，并且将班级已有学生的数量增加了5倍，但由于时间冲突，有2人不得不退出。最后一次集会后，又有6人报名了。随着时间的推移，班级的一半最终退出了，剩下的学生中有一半毕业了。现在还有多少人在上课？。",
+  "topic": "回答下面的数学问题：A local college is offering German lessons and currently has 8 students enrolled. Through advertising, 8 more became interested but a fourth of these dropped out within a day. 2 more got frustrated and left. The class then rallied to show how simple the course actually is and increased enrollment by 5 times the amount of students already enrolled in the class, but 2 had to drop it because of scheduling conflicts. After one last rally, 6 more people enrolled. As the days passed, half of the class eventually dropped, and half of the remaining students graduated. How many are still enrolled?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

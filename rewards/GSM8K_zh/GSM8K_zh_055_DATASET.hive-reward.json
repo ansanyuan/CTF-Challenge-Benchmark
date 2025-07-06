@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Leah在附近做零工赚了28美元。她花了其中的七分之一买了一杯奶昔，并把剩下的一半存入了她的储蓄账户。她把剩下的钱留在了钱包里。她的狗拿到了她的钱包，把里面的钱都撕烂了，只剩下1美元。Leah失去了多少美元？。",
+  "topic": "回答下面的数学问题：Leah earned $28 working odd jobs around the neighborhood. She spent a seventh of it on a milkshake and put half of the rest in her savings account. She left the remaining money in her wallet. Her dog got ahold of her wallet and shredded all the money inside but $1. How many dollars did Leah lose?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿温和艾隆德采了一些花。阿温能够得到20朵郁金香，而艾隆德得到的郁金香是阿温的两倍。他们总共能得到多少郁金香？。",
+  "topic": "回答下面的数学问题：Arwen and Elrond picked some flowers. Arwen was able to get 20 tulips and Elrond was able to get twice as many tulips as Arwen did. How many tulips were they able to get in total?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

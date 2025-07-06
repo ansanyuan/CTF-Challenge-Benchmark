@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Triangles $\\triangle ABC$ and $\\triangle A'B'C'$ lie in the coordinate plane with vertices $A(0,0)$ , $B(0,12)$ , $C(16,0)$ , $A'(24,18)$ , $B'(36,18)$ , $C'(24,2)$ . A rotation of $m$ degrees clockwise around the point $(x,y)$ where $0<m<180$ , will transform $\\triangle ABC$ to $\\triangle A'B'C'$ . Find $m+x+y$ .",
   "checkpoint": [
     {
-      "$\\boxed{108}$": 1
+      "\\boxed{108}": 1
     }
   ],
   "matchingmethod": [

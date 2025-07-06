@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Berry想确保他平均每天阅读50页。本周他在星期日读了43页，在星期一读了65页，在星期二读了28页。星期三他有足球比赛，早早就睡着了，所以什么也没读。星期四他读了70页，星期五他读了56页。为了达到他的目标，他星期六还要读多少页？。",
+  "topic": "回答下面的数学问题：Berry wants to make sure he reads an average of 50 pages a day. This week he read 43 pages on Sunday, 65 pages on Monday, and 28 pages on Tuesday. He had a soccer game and fell asleep early on Wednesday so he read nothing. On Thursday he read 70 pages, and on Friday he read 56 pages. How many pages does he have to read on Saturday to reach his goal?",
   "checkpoint": [
     {
-      "$\\boxed{88}$": 1
+      "\\boxed{88}": 1
     }
   ],
   "matchingmethod": [

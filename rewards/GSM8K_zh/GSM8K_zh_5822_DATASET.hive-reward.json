@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯受伤了，决定去看他的全科医生。他的全科医生要求300美元的诊疗费用，詹姆斯的保险覆盖80%。詹姆斯的自费费用是多少？。",
+  "topic": "回答下面的数学问题：James hurts himself and decides to go to his primary care doctor.  His primary care doctor charges $300 for the visit and James's insurance covers 80%.  What is James's out-of-pocket cost?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

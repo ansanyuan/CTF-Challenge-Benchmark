@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kerry准备庆祝他的生日，并希望在三个蛋糕上各有他年龄的蜡烛。蜡烛是以每盒12个的形式出售，每盒售价2.5美元。如果蜡烛的总成本是5美元，那么Kerry多大了？。",
+  "topic": "回答下面的数学问题：Kerry is ready to celebrate his birthday and wants to have three cakes with his age in candles on each of them. Candles come in boxes of 12 and cost $2.5 a box. If the candles cost $5, how old is Kerry?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Geric比Kyla多两倍的票据，而Kyla比Jessa少2张票据。在给Geric 3张票据后，Jessa剩下7张票据。Geric一开始有多少张票据？。",
+  "topic": "回答下面的数学问题：Geric had twice as many bills as Kyla who has 2 fewer bills than Jessa.  After giving 3 bills to Geric, Jessa has 7 bills left. How many bills did Geric have at the beginning?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

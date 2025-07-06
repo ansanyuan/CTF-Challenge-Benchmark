@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一袋米重50公斤，售价为50美元。如果大卫以每公斤1.20美元的价格出售，他的利润将是多少？。",
+  "topic": "回答下面的数学问题：A sack of rice, which is 50 kilograms,  costs $50. If David sells it for $1.20 per kilogram, how much will be his profit?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

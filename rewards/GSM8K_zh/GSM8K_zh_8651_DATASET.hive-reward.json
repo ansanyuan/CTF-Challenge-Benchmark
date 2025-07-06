@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Albert老师的班级由12个男孩和12个女孩组成。三分之一的女孩和四分之一的男孩是校队成员。有多少学生不是校队成员？。",
+  "topic": "回答下面的数学问题：Miss Albert's class is composed of 12 boys and 12 girls. One-third of the girls and one-fourth of the boys are on varsity. How many students are not on varsity?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

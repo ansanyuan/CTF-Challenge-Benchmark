@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽亚正在为莎莉烘烤饼干。莎莉说她希望她的饼干中有1/4含坚果，40%含巧克力豆，其余含坚果和巧克力豆。当她在饼干中加入坚果时，她每个饼干使用2颗坚果。如果她做了60个饼干，她需要多少坚果？。",
+  "topic": "回答下面的数学问题：Maria is baking cookies for Sally. Sally says that she wants 1/4 of her cookies to have nuts in them, 40% to have chocolate chips in them, and the remainder to have nuts and chocolate chips in them. When she adds nuts to the cookies, she uses 2 nuts per cookie. If she makes 60 cookies, how many nuts does she need?",
   "checkpoint": [
     {
-      "$\\boxed{72}$": 1
+      "\\boxed{72}": 1
     }
   ],
   "matchingmethod": [

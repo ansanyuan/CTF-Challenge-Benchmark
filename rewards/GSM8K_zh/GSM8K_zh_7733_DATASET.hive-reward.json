@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安德里亚的苹果比贾马尔多8个，香蕉只有贾马尔的一半。贾马尔的香蕉比苹果多4个。如果安德里亚有52个苹果，那么总共有多少个水果？。",
+  "topic": "回答下面的数学问题：Andrea has 8 more apples than Jamal and half as many bananas as Jamal. Jamal has 4 more bananas than apples. How many fruits are there if Andrea has 52 apples?",
   "checkpoint": [
     {
-      "$\\boxed{168}$": 1
+      "\\boxed{168}": 1
     }
   ],
   "matchingmethod": [

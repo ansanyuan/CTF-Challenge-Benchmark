@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Scott有7双鞋。安东尼比斯科特多3倍的鞋子，吉姆比安东尼少2双。安东尼比吉姆多多少双鞋？。",
+  "topic": "回答下面的数学问题：Scott has 7 pairs of shoes.  Anthony has 3 times as many pairs of shoes as Scott, and Jim has 2 less pairs than Anthony.  How many more pairs of shoes does Anthony have compared to Jim?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

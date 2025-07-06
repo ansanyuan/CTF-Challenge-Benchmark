@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一所中学，20%的学生参加了乐队。如果有168名学生参加了乐队，那么这所中学有多少学生？。",
+  "topic": "回答下面的数学问题：At a middle school, 20% of the students are in the band. If 168 students are in the band, how many students go to the middle school?",
   "checkpoint": [
     {
-      "$\\boxed{840}$": 1
+      "\\boxed{840}": 1
     }
   ],
   "matchingmethod": [

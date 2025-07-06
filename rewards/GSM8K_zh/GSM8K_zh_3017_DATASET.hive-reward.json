@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：加里正在为他的长方形游泳池购买氯，游泳池长10英尺，宽8英尺，深6英尺。加里需要为他的游泳池中的每120立方英尺水购买一夸脱氯。如果氯的价格是每夸脱3美元，加里在氯上花了多少钱？。",
+  "topic": "回答下面的数学问题：Gary is buying chlorine for his rectangular pool, which is 10 feet long, 8 feet wide, and 6 feet deep. Gary needs to buy one quart of chlorine for every 120 cubic feet of water in his pool. If chlorine costs $3 a quart, how much does Gary spend on chlorine?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

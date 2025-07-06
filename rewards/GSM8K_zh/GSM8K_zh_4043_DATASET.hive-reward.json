@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卡尔森购买了价值8000美元的土地和额外的价值4000美元的土地。他最初拥有300平方米的土地。如果他购买的土地每平方米20美元，那么购买新土地后他的土地有多大？。",
+  "topic": "回答下面的数学问题：Carlson bought land that cost $8000 and additional land that cost $4000. He initially owned 300 square meters of land. If the land he bought costs $20 per square meter, how big is his land after buying the new land?",
   "checkpoint": [
     {
-      "$\\boxed{900}$": 1
+      "\\boxed{900}": 1
     }
   ],
   "matchingmethod": [

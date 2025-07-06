@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Patricia和Geoffrey去钓鱼来喂养他们的露营者团队。他们捕到一条重8磅的鳟鱼，六条重2磅的鲈鱼和两条重12磅的鲑鱼。如果每个人会吃2磅的鱼，他们能喂多少个露营者？。",
+  "topic": "回答下面的数学问题：Patricia and Geoffrey went fishing to feed their group of campers. They caught an eight-pound trout, six two-pound bass, and two twelve-pound salmon. If each person will eat two pounds of fish, how many campers can they feed?",
   "checkpoint": [
     {
-      "$\\boxed{22}$": 1
+      "\\boxed{22}": 1
     }
   ],
   "matchingmethod": [

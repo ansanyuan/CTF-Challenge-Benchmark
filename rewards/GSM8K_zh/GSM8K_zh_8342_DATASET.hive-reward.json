@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一盒三盎司的调味果冻粉可以做10个小果冻杯。Greg想为他儿子的户外生日派对做小果冻杯。将会有30个孩子，他希望每个孩子都能有4个果冻杯。果冻目前的促销价是1.25美元。他将花费多少钱购买果冻？。",
+  "topic": "回答下面的数学问题：A three-ounce box of flavored jello makes 10 small jello cups.  Greg wants to make small jello cups for his son's outdoor birthday party.  There will be 30 kids and he wants to have enough so that each kid can have 4 jello cups.  Jello is currently on sale for $1.25.  How much will he spend on jello?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

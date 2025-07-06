@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marcus正在考虑他是否真的需要做作业。明天有50%的几率会有一位代课老师，代课老师不会收作业。即使正常的老师来了，也有40%的几率她会给大家延期。即使全班没有得到延期，Marcus有20%的几率能说服老师他的狗吃了他的作业并获得个人延期。Marcus明天实际上必须交作业的几率是多少百分比？。",
+  "topic": "回答下面的数学问题：Marcus is trying to decide whether he really needs to do his homework. There's a 50% chance that tomorrow he'll have a substitute teacher who won't collect the homework. Even if the normal teacher comes in, there's a 40% chance she'll give everyone an extension. Even if the whole class doesn't get an extension, there's a 20% chance Marcus can convince the teacher his dog ate his assignment and get a personal extension. What is the percentage chance that Marcus will actually have to turn in his homework tomorrow?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

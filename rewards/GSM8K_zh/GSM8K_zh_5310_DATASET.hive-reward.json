@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Vivian负责确保她的学生每天有2次15分钟的休息时间，30分钟的午餐和另外20分钟的休息时间。她的学生在课外会花费多少时间？。",
+  "topic": "回答下面的数学问题：Vivian is responsible for making sure her students get 2 15-minute recess breaks a day, a 30-minute lunch and another 20-minute recess break.  How much time do her students spend outside of class?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

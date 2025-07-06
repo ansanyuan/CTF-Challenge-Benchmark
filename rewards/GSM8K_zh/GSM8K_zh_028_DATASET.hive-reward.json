@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：布伦南正在研究他的学校项目，并不得不从互联网上下载文件到他的电脑上用作参考。在下载了800个文件之后，他删除了其中70%的文件，因为它们没有帮助。他又下载了400个文件，但又意识到其中3/5是无关的。在删除他在第二轮下载的无关文件后，他剩下多少有价值的文件？。",
+  "topic": "回答下面的数学问题：Brennan was researching his school project and had to download files from the internet to his computer to use for reference. After downloading 800 files, he deleted 70% of them because they were not helpful. He downloaded 400 more files but again realized that 3/5 of them were irrelevant. How many valuable files was he left with after deleting the unrelated files he downloaded in the second round?",
   "checkpoint": [
     {
-      "$\\boxed{400}$": 1
+      "\\boxed{400}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽安可以在6分钟内打开一副廉价手铐的锁，而在8分钟内打开一副昂贵手铐的锁。如果玛丽安需要解救三个朋友，他们手上戴着昂贵的手铐，脚踝上戴着廉价的手铐，她需要多长时间才能解救所有人？。",
+  "topic": "回答下面的数学问题：Maryann can pick the lock on a cheap pair of handcuffs in 6 minutes and on an expensive pair of handcuffs in 8 minutes. If Maryann needs to rescue three of her friends who have expensive handcuffs on their hands and cheap handcuffs on their ankles, how long will it take for her to free all of them?",
   "checkpoint": [
     {
-      "$\\boxed{42}$": 1
+      "\\boxed{42}": 1
     }
   ],
   "matchingmethod": [

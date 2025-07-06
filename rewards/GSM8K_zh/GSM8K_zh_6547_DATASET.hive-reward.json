@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰举办派对并邀请了30个人。他邀请的人中有20%没有出席。出席的人中有75%的人点了牛排，其余的点了鸡肉。点鸡肉的人有多少？。",
+  "topic": "回答下面的数学问题：John has a party and invites 30 people.  Of the people he invited 20% didn't show up.  75% of the people who show up get steak and the rest get chicken.  How many people ordered chicken?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

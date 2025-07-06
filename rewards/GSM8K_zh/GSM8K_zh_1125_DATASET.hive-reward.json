@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当她所有的衣服都洗好并放在衣柜里时，布莉有12件衬衫，6条裙子和8条裤子。今天在她的篮子里，她有她衬衫的75%，裙子的50%和裤子的25%。她需要把多少件衣服放进洗衣机？。",
+  "topic": "回答下面的数学问题：When all her clothes are washed and in her closet, Brie has 12 blouses, 6 skirts, and 8 slacks.  Today in her hamper, she has 75% of her blouses, 50% of her skirts, and 25% of her slacks.  How many pieces of clothing will she need to put in the washer?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

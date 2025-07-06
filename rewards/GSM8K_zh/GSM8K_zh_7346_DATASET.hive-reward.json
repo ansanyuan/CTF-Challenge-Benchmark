@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只猫花时间捕鸟。白天，猫捉到8只鸟，晚上是白天的两倍。猫总共捉到多少只鸟？。",
+  "topic": "回答下面的数学问题：A cat spends its time hunting birds.  The cat catches 8 birds during the day and twice this many at night. In total, how many birds did the cat catch?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莎拉6个月前向她的兄弟借了钱。她每个月还10美元给她的兄弟。目前，她能够还清她借的一半的钱。从现在算起，4个月后她还将欠她的兄弟多少钱？。",
+  "topic": "回答下面的数学问题：Shara borrowed money from her brother 6 months ago. She returned $10 per month to her brother. Currently, she was able to return half of the money she borrowed. How much will she still owe her brother 4 months from now?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

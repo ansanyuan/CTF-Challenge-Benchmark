@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个干草农场主去年每个月从5英亩的草地收获了560捆干草。今年，他又种了额外的7英亩草地。如果农场主还拥有9匹马，每匹马每天消耗3捆干草，如果他从9月1日开始喂马今年的干草，到12月底他还剩下多少捆干草？。",
+  "topic": "回答下面的数学问题：A hay farmer harvested 560 bales of hay from 5 acres of grass per month last year. This year, he planted an additional 7 acres of grass. If the farmer also owns 9 horses and each horse consumes 3 bales of hay a day, how many bales of hay would the farmer have left by the end of December if he starts feeding them this year's hay beginning the first day of September?",
   "checkpoint": [
     {
-      "$\\boxed{12834}$": 1
+      "\\boxed{12834}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carla在她的鸡场上有400只鸡。然而，由于某种疾病，有40%的鸡死亡。如果她购买的鸡的数量是死于疾病的鸡的十倍，那么她有多少只鸡？。",
+  "topic": "回答下面的数学问题：Carla had 400 chickens on her chicken farm. However, 40% of the chicken died due to a certain disease. How many chickens were there if she bought ten times as many chickens as the number that died due to disease?",
   "checkpoint": [
     {
-      "$\\boxed{1840}$": 1
+      "\\boxed{1840}": 1
     }
   ],
   "matchingmethod": [

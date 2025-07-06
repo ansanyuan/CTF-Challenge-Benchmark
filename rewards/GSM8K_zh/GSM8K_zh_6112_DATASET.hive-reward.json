@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tara周末进行了一次公路旅行。她连续驾驶了两天，每次在需要时都会从空到满加满油箱。她总共访问了4个不同的加油站，每个加油站的汽油价格分别为3美元、3.50美元、4美元和4.50美元。如果Tara的汽车有一个12加仑的油箱，她的公路旅行花费了多少钱？。",
+  "topic": "回答下面的数学问题：Tara's taking a road trip for the weekend.  She drives for two days, stopping to fill up her gas tank each time from empty to full when she needs it.  She visits 4 different gas stations in total, with the price of gas being $3, $3.50, $4, and $4.50 respectively at each.  If Tara's car has a 12-gallon tank, how much does she spend on gas for her road trip?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

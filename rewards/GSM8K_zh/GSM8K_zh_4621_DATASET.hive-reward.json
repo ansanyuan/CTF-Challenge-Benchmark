@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一辆汽车需要5个人来举起，一辆卡车需要两倍于汽车的人数。需要多少人来举起6辆汽车和3辆卡车？。",
+  "topic": "回答下面的数学问题：It takes 5 people to lift a car and twice as many people to lift a truck. How many people are needed to lift 6 cars and 3 trucks?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

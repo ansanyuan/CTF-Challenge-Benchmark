@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克所在地区40%的蚊子携带疟疾。20%的蚊子携带寨卡病毒。在没有疫苗的情况下，被感染蚊子叮咬后感染疟疾或寨卡病毒的几率为50%。杰克正在接受一种实验性的疟疾疫苗，可以将被感染蚊子叮咬后感染的几率降低50%。如果杰克被一只随机蚊子叮咬，他患上寨卡病毒或疟疾的百分比几率是多少？。",
+  "topic": "回答下面的数学问题：40% of the mosquitos in Jack's area are infected with malaria. 20% of the mosquitos are infected with Zika virus. Without a vaccine, the chances of getting infected with either virus after getting bitten by an infected mosquito are 50%. Jack is taking an experimental malaria vaccine that reduces the chances of getting infected after getting bitten by 50%. If Jack gets bitten by a random mosquito, what is the percentage chance he catches either Zika virus or malaria?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

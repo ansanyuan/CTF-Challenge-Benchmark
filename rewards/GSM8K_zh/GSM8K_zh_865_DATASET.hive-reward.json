@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家咖啡店在工作日每小时冲泡10杯咖啡，在周末总共冲泡了120杯咖啡。如果这家咖啡店每天每天营业5小时，那么一周内会冲泡多少杯咖啡？。",
+  "topic": "回答下面的数学问题：A coffee shop brews 10 coffee cups per hour on a weekday and 120 coffee cups in total over the weekend. If the coffee shop is open 5 hours a day every single day, how many coffee cups are brewed in 1 week?",
   "checkpoint": [
     {
-      "$\\boxed{370}$": 1
+      "\\boxed{370}": 1
     }
   ],
   "matchingmethod": [

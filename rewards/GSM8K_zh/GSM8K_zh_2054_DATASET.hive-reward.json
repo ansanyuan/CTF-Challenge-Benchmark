@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚当有一个果园。每天30天，他从果园摘4个苹果。一个月后，亚当收集了所有剩下的苹果，共230个。亚当总共从果园里收集了多少个苹果？。",
+  "topic": "回答下面的数学问题：Adam has an orchard. Every day for 30 days he picks 4 apples from his orchard. After a month, Adam has collected all the remaining apples, which were 230. How many apples in total has Adam collected from his orchard?",
   "checkpoint": [
     {
-      "$\\boxed{350}$": 1
+      "\\boxed{350}": 1
     }
   ],
   "matchingmethod": [

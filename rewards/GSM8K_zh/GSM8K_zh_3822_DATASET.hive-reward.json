@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安娜花了她的四分之一的钱，现在她还剩下24美元。她最初有多少钱？。",
+  "topic": "回答下面的数学问题：Anna spent 1/4 of her money, and now she has $24 left. How much did she have originally?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

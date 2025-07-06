@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一颗蒲公英种子飘落到米德尔顿夫人的草坪上，落在肥沃的土壤上并开始生长。一个月后，蒲公英植物长到了正常大小并开出了一朵花。第二个月末，花变成了50朵蓬松的白色种子，飘落到了草坪上。只有其中一半的种子落在了肥沃的土壤上，发芽并开始生长，就像第一颗种子一样。如果每一颗这些新的幼苗植物在相同的时间内产生相同数量的种子，那么这些最新植物在两个月内总共会产生多少颗种子？。",
+  "topic": "回答下面的数学问题：One dandelion seed floated onto Mrs. Middleton's lawn, landed on good soil, and began to grow.  After one month, the dandelion plant had grown to full size and developed a flower.  At the end of the second month, the flower turned to 50 fluffy, white seeds, which blew onto the lawn.  Only half of these seeds landed onto good soil, germinated, and began to grow, just as the first seed had done.  If each of these new seedling plants produces the same number of seeds in the same amount of time as the original plant, what is the total number of seeds that these newest plants will produce in two months' time?",
   "checkpoint": [
     {
-      "$\\boxed{1250}$": 1
+      "\\boxed{1250}": 1
     }
   ],
   "matchingmethod": [

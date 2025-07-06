@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mckenna从上午8:00开始一天的工作。她在办公室工作到上午11:00，然后加入她的开发团队在会议室讨论项目，直到下午1:00，然后再工作两个小时，然后回家。Mckenna在工作中待了多少个小时？。",
+  "topic": "回答下面的数学问题：Mckenna starts her day at 8:00 a.m. She works in her office up to 11:00 a.m. then joins her team of developers at the conference room to talk about projects up to 13:00, from which she works for another two hours and then heads home. How many hours does Mckenna stay at work?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰里米在他们的后院看到了12只鸟，扔了一块石头吓跑了其中的1/3。几分钟后，又有20只鸟加入了那些无畏的鸟。现在后院有多少只鸟？。",
+  "topic": "回答下面的数学问题：Jeremy saw 12 birds in their backyard and threw a stone at them, scaring away 1/3 of that number. A few minutes later, 20 more birds joined the fearless birds. How many birds are now in the backyard?",
   "checkpoint": [
     {
-      "$\\boxed{28}$": 1
+      "\\boxed{28}": 1
     }
   ],
   "matchingmethod": [

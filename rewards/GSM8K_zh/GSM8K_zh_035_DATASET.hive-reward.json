@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：山姆先生在他的两个儿子肯和托尼之间分享了一定金额的钱。如果肯得到了1750美元，而托尼得到的是肯的两倍，那么分享的金额是多少？。",
+  "topic": "回答下面的数学问题：Mr. Sam shared a certain amount of money between his two sons, Ken and Tony. If Ken got $1750, and Tony got twice as much as Ken, how much was the money shared?",
   "checkpoint": [
     {
-      "$\\boxed{5250}$": 1
+      "\\boxed{5250}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯有用来储存水的桶。它们的储存量比一个大木桶多3加仑。如果他有4个桶，一个木桶可以储存20加仑，他可以储存多少水？。",
+  "topic": "回答下面的数学问题：James has barrels that he uses to store water.  They store 3 gallons more than twice as much as a large cask.  If he has 4 barrels and a cask stores 20 gallons, how much water can he store?",
   "checkpoint": [
     {
-      "$\\boxed{172}$": 1
+      "\\boxed{172}": 1
     }
   ],
   "matchingmethod": [

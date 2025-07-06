@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果爱丽丝购买了3600个橡子，价格是鲍勃支付的九倍，而鲍勃支付了6000美元购买他的橡子，那么爱丽丝每个橡子支付了多少钱？。",
+  "topic": "回答下面的数学问题：If Alice purchased 3600 acorns for nine times the price Bob paid, and Bob paid $6000 for his acorns, how much money did Alice pay for each acorn?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

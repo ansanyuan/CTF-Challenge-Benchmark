@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯把他的500块乐高积木全部倒在地板上，开始用它们搭建一座城堡。他在完成之前使用了一半的积木，并被告知把剩下的放回原处。他把所有剩下的积木放回了盒子里，除了5块找不到的。最后盒子里有多少块乐高积木？。",
+  "topic": "回答下面的数学问题：James dumps his whole collection of 500 Legos on the floor and starts building a castle out of them.  He uses half the pieces before finishing and is told to put the rest away.  He puts all of the leftover pieces back in the box they came from, except for 5 missing pieces that he can't find.  How many Legos are in the box at the end?",
   "checkpoint": [
     {
-      "$\\boxed{245}$": 1
+      "\\boxed{245}": 1
     }
   ],
   "matchingmethod": [

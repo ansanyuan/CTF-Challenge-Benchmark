@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一周内，杰克可以吃3个木瓜，他的兄弟可以吃5个木瓜，他的父亲可以吃4个木瓜。为了四周，杰克需要从农贸市场购买多少木瓜？。",
+  "topic": "回答下面的数学问题：In one week, Jake can eat 3 papayas, his brother can eat 5 papayas, and his father can eat 4 papayas.  To account for 4 weeks, how many papayas does Jake need to buy from the farmer’s market?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

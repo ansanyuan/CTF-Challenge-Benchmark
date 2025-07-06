@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮特在面包店买了一些松饼。每个松饼75美分。珍妮特支付了20美元，找回了11美元。珍妮特买了多少个松饼？。",
+  "topic": "回答下面的数学问题：Janet bought some muffins at the bakery. Each muffin is 75 cents. Janet paid $20 and got $11 in change back. How many muffins did Janet buy?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

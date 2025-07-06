@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Smaug龙囤积了100枚金币，60枚银币和33枚铜币。如果每枚银币价值8枚铜币，每枚金币价值3枚银币，Smaug的财富总价值表示为铜币的数量是多少？。",
+  "topic": "回答下面的数学问题：Smaug the dragon hoards 100 gold coins, 60 silver coins, and 33 copper coins. If each silver coin is worth 8 copper coins, and each gold coin is worth 3 silver coins, what is the total value of Smaug's hoard expressed as a number of copper coins?",
   "checkpoint": [
     {
-      "$\\boxed{2913}$": 1
+      "\\boxed{2913}": 1
     }
   ],
   "matchingmethod": [

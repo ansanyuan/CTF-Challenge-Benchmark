@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：米凯尔的生日是明天。他将比三岁时大三倍。在他的生日那天，他的父母给他每岁5美元。他们会给他多少钱？。",
+  "topic": "回答下面的数学问题：Mikail's birthday is tomorrow. He will be 3 times older than he was when he was three. On his birthday, his parents give him $5 for every year old he is. How much money will they give him?",
   "checkpoint": [
     {
-      "$\\boxed{45}$": 1
+      "\\boxed{45}": 1
     }
   ],
   "matchingmethod": [

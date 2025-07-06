@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kira正在为自己做早餐。她先煎了3根香肠，然后炒了6个鸡蛋，每种食物都是分开烹饪的。如果每根香肠需要5分钟煎熟，每个鸡蛋需要4分钟炒熟，那么Kira做早餐用了多长时间（以分钟为单位）？。",
+  "topic": "回答下面的数学问题：Kira is making breakfast for herself. She fries 3 sausages then scrambles 6 eggs and cooks each item of food separately. If it takes 5 minutes to fry each sausage and 4 minutes to scramble each egg then how long, in minutes, did it take for Kira to make her breakfast?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Hallie以每小时10美元的工资当服务生。周一，她工作了7个小时，收到18美元的小费。周二，她工作了5个小时，收到12美元的小费。周三，她工作了7个小时，收到20美元的小费。从周一到周三，她总共赚了多少钱？。",
+  "topic": "回答下面的数学问题：Hallie is working as a waitress for $10/hour. On Monday, she works for 7 hours, and she receives $18 in tips. On Tuesday she works for 5 hours, and she receives $12 in tips. On Wednesday she works for 7 hours, and she receives $20 in tips. How much money does she earn in total from Monday to Wednesday?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

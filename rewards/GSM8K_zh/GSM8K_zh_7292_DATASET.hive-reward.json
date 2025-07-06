@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一卷25米的电线重5公斤。一卷75米的电线重多少公斤？。",
+  "topic": "回答下面的数学问题：A roll of 25 m wire weighs 5 kg. How much does a 75 m roll weigh?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

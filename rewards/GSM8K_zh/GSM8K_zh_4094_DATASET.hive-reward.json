@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位法官监督了十七个法庭案件。其中两个立即被法庭驳回。剩下的案件中三分之二被判无罪，一项裁决被推迟到以后的日期，其余的被判有罪。法官对多少案件判有罪？。",
+  "topic": "回答下面的数学问题：A judge oversaw seventeen court cases. Two were immediately dismissed from court. Two-thirds of the remaining cases were ruled innocent, one ruling was delayed until a later date, and the rest were judged guilty. On how many cases did the judge rule guilty?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

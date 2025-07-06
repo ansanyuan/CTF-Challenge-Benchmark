@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：从三月到八月，山姆做了23小时的园艺工作，赚了460美元。然而，从九月到二月，山姆只能工作8小时。如果山姆正在存钱买一个售价为600美元的视频游戏主机，并且已经花了340美元修理他的车，他还需要工作多少小时才能买到视频游戏主机？。",
+  "topic": "回答下面的数学问题：From March to August, Sam made $460 doing 23 hours of yard work. However, from September to February, Sam was only able to work for 8 hours. If Sam is saving up to buy a video game console that costs $600 and has already spent $340 to fix his car, how many more hours does he need to work before he can buy the video game console?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

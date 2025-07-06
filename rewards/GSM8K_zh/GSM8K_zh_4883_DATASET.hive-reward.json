@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在All Goods Available商店，有5/8的购物者更喜欢在周末避开结账队伍，而是选择通过快速通道。如果商店里的购物者数量为480，请计算选择在结账通道付款的购物者数量。。",
+  "topic": "回答下面的数学问题：5/8 of shoppers at All Goods Available store prefer to avoid the check-out line on weekends and instead go through the express lane. If the number of shoppers in the store is 480, calculate the number of shoppers who pay at the check-out lane.",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

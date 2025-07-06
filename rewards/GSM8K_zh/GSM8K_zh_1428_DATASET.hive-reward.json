@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：动物救助中心的狗的总数是200。救助中心的经理坦纳先生接到一个电话，另一个救助中心因天气问题需要转移100只狗。他同意把这些狗带到他的救助中心，一周后，他为领养送出了40只动物。一个月后，又有60只狗被爱狗人士领养。最后一次领养后，领养中心剩下的动物总数是多少？。",
+  "topic": "回答下面的数学问题：The total number of dogs at an animal rescue center is 200. Mr. Tanner, the manager at the rescue center, gets a call that 100 dogs at another rescue center are to be moved because of weather problems. He agrees to bring the dogs to his rescue center, and after one week, gives out 40  animals for adoption. After a month, 60 more dogs were adopted by dog lovers. What's the total number of remaining animals in the adoption center after the last adoptions?",
   "checkpoint": [
     {
-      "$\\boxed{200}$": 1
+      "\\boxed{200}": 1
     }
   ],
   "matchingmethod": [

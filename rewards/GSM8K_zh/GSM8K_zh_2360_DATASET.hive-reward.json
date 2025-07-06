@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：乔舒亚花了12.50美元买了25个橙子。如果他每个橙子卖60美分，他每个橙子会赚多少利润？。",
+  "topic": "回答下面的数学问题：Joshua bought 25 oranges for $12.50. If he sells each one for 60c, how much profit in cents will he make on each orange?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

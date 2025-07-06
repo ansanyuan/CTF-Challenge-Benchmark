@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Avery需要为她的节日晚餐购买一套三件式餐具（晚餐盘、沙拉盘和碗）。她要请12位客人来吃晚餐。如果每个晚餐盘的成本是6.00美元，每个碗的成本是5.00美元，沙拉盘的成本是4.00美元，她将花费多少钱购买餐具？。",
+  "topic": "回答下面的数学问题：Avery needs to buy a 3 piece place setting (dinner & salad plate and a bowl) for her holiday dinner.  She’s having 12 people over for dinner.  If the dinner plates cost $6.00 each and bowls each cost $5.00 and the salad plates cost $4.00, how much will she spend on place settings?",
   "checkpoint": [
     {
-      "$\\boxed{180}$": 1
+      "\\boxed{180}": 1
     }
   ],
   "matchingmethod": [

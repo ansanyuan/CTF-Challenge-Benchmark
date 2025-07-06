@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一排房子共享一个社区空间，他们在那里晾晒衣服。每栋房子的街道上都有2条晾衣绳。在这条街上，一共有11个孩子和20个成年人。每个孩子目前在晾衣绳上有4件衣服，每个成年人目前在晾衣绳上有3件衣服。如果每条晾衣绳可以挂2件衣服，并且所有晾衣绳都挂满了衣服，那么这条街上有多少栋房子？。",
+  "topic": "回答下面的数学问题：A row of houses all share a community space where they put up their clotheslines. There are 2 clotheslines for every house on the street. On the street, there are a total of 11 children and 20 adults. Each child currently has 4 items of clothing on the clotheslines and each adult currently has 3 items of clothing on the clotheslines. If each clothesline can hold 2 items of clothing and all of the clotheslines are full, how many houses are on the street?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Faith的社区共有20栋房屋，决定安装太阳能电池板。每个房屋需要10块能满足他们的用电需求的电池板。电池板的供应商比所需数量少了50块。邻居们同意只安装到他们能完成的地方。有多少栋房屋安装了他们的电池板？。",
+  "topic": "回答下面的数学问题：Faith's neighborhood, with a total of 20 homes, decided to install solar panels. Each home needed 10 panels capable of providing their power needs. The supplier of the panels brought 50 panels less than the required amount. The neighbors agreed to only install the panels up to where they'd be finished. How many homes had their panels installed?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿曼达需要12颗弹珠才能比卡特琳娜多一倍的弹珠，而梅贝尔比卡特琳娜多5倍的弹珠。如果梅贝尔有85颗弹珠，那么梅贝尔比阿曼达多多少颗弹珠？。",
+  "topic": "回答下面的数学问题：Amanda needs 12 more marbles to have twice as many marbles as Katrina, and Mabel has 5 times as many marbles as Katrina. If Mabel has 85 marbles, how many more marbles does Mabel have than Amanda?",
   "checkpoint": [
     {
-      "$\\boxed{63}$": 1
+      "\\boxed{63}": 1
     }
   ],
   "matchingmethod": [

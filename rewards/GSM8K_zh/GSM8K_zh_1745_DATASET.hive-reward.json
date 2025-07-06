@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个农民收获了250个土豆。他将它们捆成25个一捆，每捆售价1.90美元。他还收获了320个胡萝卜，将它们捆成20个一捆，每捆售价2美元。如果农民将他所有收获的作物都卖掉了，他总共赚了多少钱？。",
+  "topic": "回答下面的数学问题：A farmer harvested 250 potatoes. He bundled them in twenty-five's and sold each bundle for $1.90. He also harvested 320 carrots and bundled them in twenty's and sold each bundle for $2. If the farmer sold all his harvested crops, how much did he get in all?",
   "checkpoint": [
     {
-      "$\\boxed{51}$": 1
+      "\\boxed{51}": 1
     }
   ],
   "matchingmethod": [

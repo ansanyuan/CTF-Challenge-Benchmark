@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Zoe去商店给自己和她的5个家庭成员买苏打和比萨。每瓶苏打水的价格是半美元，每块比萨的价格是1美元。在她离开家之前，她带了足够的钱来支付她的购买。Zoe带了多少钱？。",
+  "topic": "回答下面的数学问题：Zoe goes to the store to buy soda and pizza for herself and her 5 family members. Each bottle of soda costs half a dollar and each slice of pizza costs $1. Before she leaves her house she takes just enough money to pay for her purchase. How much money did Zoe take?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆邀请他的父母和3个兄弟姐妹到他家。 他们每个人每天吃3顿饭。 如果每个人每餐用2个盘子，那么在他们在那里呆了4天的时候，汤姆和他的客人一共用了多少个盘子？。",
+  "topic": "回答下面的数学问题：Tom invites his parents and 3 siblings to his house.  They each eat 3 times a day.  How many plates do Tom and his guests use while they are there for the 4 days if each person uses 2 plates per meal?",
   "checkpoint": [
     {
-      "$\\boxed{144}$": 1
+      "\\boxed{144}": 1
     }
   ],
   "matchingmethod": [

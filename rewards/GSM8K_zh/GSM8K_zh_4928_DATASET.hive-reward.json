@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jackie喜欢爬树。她爬了一棵高1000英尺的树。然后她爬了两棵比第一棵树矮一半的树。最后，她爬了一棵比她第一棵树高200英尺的树。Jackie爬的树的平均高度是多少？。",
+  "topic": "回答下面的数学问题：Jackie loves to climb trees.  She climbed a 1000 foot tall tree.  Then she climbed 2 trees that were half as tall as the first tree.  She finished by climbing a tree that was 200 feet taller than her first tree.  What was the average height of the trees that Jackie climbed?",
   "checkpoint": [
     {
-      "$\\boxed{800}$": 1
+      "\\boxed{800}": 1
     }
   ],
   "matchingmethod": [

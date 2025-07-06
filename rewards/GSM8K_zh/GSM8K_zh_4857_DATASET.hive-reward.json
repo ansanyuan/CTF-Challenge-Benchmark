@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在滑冰场最后一天开放时，有40人来滑冰。当所有40人同时滑冰时，地板上有多少个轮子？。",
+  "topic": "回答下面的数学问题：On the last night that roller skate rink was open, 40 people showed up to roller skate one last time.  When all 40 people skated at one time, how many wheels were on the floor?",
   "checkpoint": [
     {
-      "$\\boxed{320}$": 1
+      "\\boxed{320}": 1
     }
   ],
   "matchingmethod": [

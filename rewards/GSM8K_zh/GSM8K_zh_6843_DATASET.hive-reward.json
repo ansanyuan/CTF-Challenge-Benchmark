@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个可容纳500人的礼堂中有五分之二的座位已经被占据。发现有十分之一的座位是坏的。还有多少个座位是可用的？。",
+  "topic": "回答下面的数学问题：Two-fifths of the seats in an auditorium that holds 500 people are currently taken. It was found that 1/10 of the seats are broken. How many seats are still available?",
   "checkpoint": [
     {
-      "$\\boxed{250}$": 1
+      "\\boxed{250}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位教练将15个网球和5个足球分别放入5个篮子中。他让5名学生在短时间内尽可能多地从篮子中取出球。其中3名学生每人取出8个球，另外2名学生每人取出一定数量的球。如果篮子里还剩下56个球，那么另外2名学生每人各取出多少个球？。",
+  "topic": "回答下面的数学问题：A coach placed 15 tennis balls and 5 soccer balls each into 5 baskets. He gave 5 of his students a short period of time to remove as many balls each from a basket as they could. 3 of them removed 8 balls each and the other 2 removed a certain number of balls each. If a total of 56 balls are still in the baskets, how many balls did the other 2 students each remove?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

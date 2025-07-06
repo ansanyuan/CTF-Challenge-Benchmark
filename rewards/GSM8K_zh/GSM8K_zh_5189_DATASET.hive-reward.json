@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当地一所高中有325名学生。40%的学生戴眼镜，没有戴眼镜的学生有多少人？。",
+  "topic": "回答下面的数学问题：There are 325 students in a local high school.  40 percent of the students have glasses, how many students do not have glasses?",
   "checkpoint": [
     {
-      "$\\boxed{195}$": 1
+      "\\boxed{195}": 1
     }
   ],
   "matchingmethod": [

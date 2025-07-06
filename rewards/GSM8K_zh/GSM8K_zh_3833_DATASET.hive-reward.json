@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个花店正在为周末制作花束。花店使用红色、黄色、橙色和紫色的花，每束花包含任意颜色组合的9朵花。这周他为每种颜色的花种植了125颗种子。不幸的是，一种真菌杀死了45朵红色花，61朵黄色花，30朵橙色花和40朵紫色花。花店这个周末可以制作多少束花？。",
+  "topic": "回答下面的数学问题：A florist is making bouquets for the weekend. The florist uses red, yellow, orange, and purple flowers, and each bouquet contains 9 flowers of any color combinations. This week he planted 125 seeds for each color of flower. Unfortunately, a fungus killed 45 red flowers, 61 yellow, 30 orange, and 40 purple flowers. How many bouquets can the florist make this weekend?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

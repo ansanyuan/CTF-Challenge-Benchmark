@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一本书有248页。乔安娜每小时可以读16页。周一，她读了3小时。周二，她读了6.5小时。她还需要多少小时才能读完这本书？。",
+  "topic": "回答下面的数学问题：There are 248 pages in a book. Joanna can read 16 pages per hour. On Monday, she reads for 3 hours. On Tuesday, she reads for 6.5 hours. How many more hours does she need to read to finish the book?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

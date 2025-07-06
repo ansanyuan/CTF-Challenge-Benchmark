@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ray每次遛狗时总是走相同的路线。首先，他走4个街区到公园。然后他走7个街区到高中。最后，他走11个街区回家。Ray每天遛狗3次。Ray的狗每天走多少个街区？。",
+  "topic": "回答下面的数学问题：Ray always takes the same route when he walks his dog. First, he walks 4 blocks to the park. Then he walks 7 blocks to the high school. Finally, he walks 11 blocks to get back home. Ray walks his dog 3 times each day. How many blocks does Ray's dog walk each day?",
   "checkpoint": [
     {
-      "$\\boxed{66}$": 1
+      "\\boxed{66}": 1
     }
   ],
   "matchingmethod": [

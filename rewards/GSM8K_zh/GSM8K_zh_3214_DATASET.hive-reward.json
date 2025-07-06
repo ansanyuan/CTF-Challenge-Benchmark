@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在她的面包店里，蒂尔出售南瓜派和奶油派的一块。南瓜派被切成8块。奶油派被切成6块。南瓜派一块5美元。奶油派一块6美元。如果蒂尔卖出4个南瓜派和5个奶油派，她的销售额是多少？。",
+  "topic": "回答下面的数学问题：In her bakery, Teal sells pumpkin pie and custard pie by the slice.  The pumpkin pie is cut into 8 pieces.  The custard pie is cut into 6 pieces.  Pumpkin pie is $5 a slice.  Custard pie is $6 a slice.  If Teal sells 4 pumpkin pies and 5 custard pies, how much money does she make from her sales?",
   "checkpoint": [
     {
-      "$\\boxed{340}$": 1
+      "\\boxed{340}": 1
     }
   ],
   "matchingmethod": [

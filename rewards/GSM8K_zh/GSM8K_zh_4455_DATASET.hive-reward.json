@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯正在建造一个镜子大厅。其中三面墙将完全被玻璃覆盖。如果其中两面墙是30英尺乘12英尺，第三面墙是20英尺乘12英尺，他需要多少平方英尺的玻璃？。",
+  "topic": "回答下面的数学问题：James is building a hall of mirrors. Three of the walls will be completed covered with glass. If two of those walls are 30 feet by 12 feet and the third is 20 feet by 12 feet, how many square feet of glass does he need?",
   "checkpoint": [
     {
-      "$\\boxed{960}$": 1
+      "\\boxed{960}": 1
     }
   ],
   "matchingmethod": [

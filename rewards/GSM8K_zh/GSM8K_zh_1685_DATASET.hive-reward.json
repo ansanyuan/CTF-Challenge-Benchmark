@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：便利店一个月卖出了100袋薯片。第一周卖出了15袋薯片。第二周卖出了三倍于第一周的薯片。第三周和第四周卖出的薯片数量相等。第三周和第四周各卖出了多少袋薯片？。",
+  "topic": "回答下面的数学问题：A convenience store sold 100 bags of chips in a month. In the first week, 15 bags of chips were sold. In the second week, thrice as many bags of chips were sold. There was an equal number of chips sold in the third and fourth week. How many chips was each sold in the third and fourth week?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

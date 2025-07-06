@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍妮丝每分钟可以打6个句子。今天在工作中，珍妮丝继续写她昨天开始打字的一篇论文。她打了20分钟，休息了一下，然后又打了15分钟。接着，她不得不擦掉她打错的40个句子。开会后，她又打了18分钟。最后，今天结束时，论文共有536个句子。她今天一开始有多少个句子？。",
+  "topic": "回答下面的数学问题：Janice can type 6 sentences per minute. Today at work, Janice continued working on a paper she started typing yesterday. She typed for 20 minutes, took a break, and typed 15 minutes longer. She then had to erase 40 sentences she had typed incorrectly. After a meeting, she typed for 18 minutes more. In all, the paper had 536 sentences by the end of today. How many sentences did she start with today?",
   "checkpoint": [
     {
-      "$\\boxed{258}$": 1
+      "\\boxed{258}": 1
     }
   ],
   "matchingmethod": [

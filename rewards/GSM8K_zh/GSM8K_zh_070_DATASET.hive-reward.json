@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carly收集了7只有5只触手的海星和1只有14只触手的海星。她收集的动物总共有多少只触手？。",
+  "topic": "回答下面的数学问题：Carly collected 7 starfish with 5 arms each and one seastar with 14 arms. How many arms do the animals she collected have in total?",
   "checkpoint": [
     {
-      "$\\boxed{49}$": 1
+      "\\boxed{49}": 1
     }
   ],
   "matchingmethod": [

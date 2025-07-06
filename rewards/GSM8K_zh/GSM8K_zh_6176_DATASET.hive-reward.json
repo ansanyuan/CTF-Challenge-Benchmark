@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果莱拉在四场曲棍球比赛中攻入104个进球，克里斯汀在同样的四场比赛中攻入少24个进球，计算两人的平均进球数。。",
+  "topic": "回答下面的数学问题：If Layla scored 104 goals in four hockey games and Kristin scored 24 fewer goals in the same four games, calculate the average number of goals the two scored.",
   "checkpoint": [
     {
-      "$\\boxed{92}$": 1
+      "\\boxed{92}": 1
     }
   ],
   "matchingmethod": [

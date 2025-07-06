@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Samantha每晚平均睡8小时。她的妹妹睡的时间是Samantha的2.5倍。因为她父亲照看妹妹太累了，所以每小时妹妹睡觉，他就睡30分钟。她父亲一周睡多少小时？。",
+  "topic": "回答下面的数学问题：Samantha sleeps an average of 8 hours a night. Her baby sister sleeps 2.5 times as much as Samantha does. Because her father is so tired from watching the baby, for every hour the baby sleeps, he sleeps 30 minutes. How many hours does her father sleep in a week?",
   "checkpoint": [
     {
-      "$\\boxed{70}$": 1
+      "\\boxed{70}": 1
     }
   ],
   "matchingmethod": [

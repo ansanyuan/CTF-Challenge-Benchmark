@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Benny看到了一条10英尺长的鲨鱼，身上附着2条6英寸长的鳐鱼。鳐鱼的总长度占鲨鱼身体长度的百分比是多少？。",
+  "topic": "回答下面的数学问题：Benny saw a 10-foot shark with 2 6-inch remoras attached to it. What percentage of the shark's body length is the combined length of the remoras?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Andy在网球度假村的专卖店工作，他每小时赚9美元。除此之外，他每次重新穿线网球拍可以得到15美元，更换网球拍的嵌环可以得到10美元，给网球拍线上涂色可以得到1美元。如果他在8小时的班次中重新穿线了7个网球拍，更换了2套嵌环，还给5个网球拍线上涂色，他在班次结束前（税前）赚了多少钱？。",
+  "topic": "回答下面的数学问题：Andy works in the pro shop at a tennis resort, where he earns $9 an hour. In addition to this, he gets paid $15 for each racquet he restrings, $10 for changing out the grommets on a racquet, and $1 for painting a stencil on the racquet strings. How much does he earn (before taxes) during an 8-hour shift if he strings 7 racquets, changes 2 sets of grommets, and paints 5 stencils?",
   "checkpoint": [
     {
-      "$\\boxed{202}$": 1
+      "\\boxed{202}": 1
     }
   ],
   "matchingmethod": [

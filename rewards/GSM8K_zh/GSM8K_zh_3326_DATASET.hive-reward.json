@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比利的家人喜欢在他们不使用自行车时将它们存放在车库里。他们总共拥有4辆自行车。每辆自行车的车轮有10个辐条。车库里有多少个辐条？。",
+  "topic": "回答下面的数学问题：Billy's family likes to keep their bicycles stored in the garage when they're not being used.  They own a total of 4 bicycles.  Each bicycle wheel has 10 spokes.  How many spokes are inside the garage?",
   "checkpoint": [
     {
-      "$\\boxed{80}$": 1
+      "\\boxed{80}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个装满水果的碗里，有2个香蕉，两倍于苹果的数量，还有一些橙子。碗里总共有12个水果。碗里有多少个橙子？。",
+  "topic": "回答下面的数学问题：In a bowl of fruit, there are 2 bananas, twice as many apples, and some oranges. In total there are 12 fruits in the bowl. How many oranges are in the bowl?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

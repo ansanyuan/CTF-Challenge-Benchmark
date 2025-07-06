@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当丹学习丝网印刷T恤以在手工艺品展销会上销售时，他在第一个小时的速度是每12分钟制作一件T恤。然后，在第二个小时，他以每6分钟制作一件的速度。在这两个小时内，他制作了多少件T恤？。",
+  "topic": "回答下面的数学问题：As Dan is learning to screen-print t-shirts to sell at the craft fair, he makes t-shirts, over the first hour, at the rate of one every 12 minutes. Then, in the second hour, he makes one at the rate of every 6 minutes. How many t-shirts does he make over the course of those two hours?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

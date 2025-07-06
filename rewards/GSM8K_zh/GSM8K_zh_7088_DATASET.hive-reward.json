@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：为了获得飞行员执照，桑吉塔需要飞行1500小时。她已经完成了50小时的日间飞行，9小时的夜间飞行和121小时的长途飞行。为了在6个月内准确达到她的目标，桑吉塔每个月需要飞多少小时？。",
+  "topic": "回答下面的数学问题：To earn an airplane pilot certificate, Sangita is required to fly 1,500 hours. She has already completed 50 hours of day flying, 9 hours of night flying, and 121 hours flying cross-country. To meet her goal in exactly 6 months, how many hours per month must Sangita fly?",
   "checkpoint": [
     {
-      "$\\boxed{220}$": 1
+      "\\boxed{220}": 1
     }
   ],
   "matchingmethod": [

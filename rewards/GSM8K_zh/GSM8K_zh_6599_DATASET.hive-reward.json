@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ariel在收集鱼。她有45条鱼。其中2/3是公鱼。她有多少条母鱼？。",
+  "topic": "回答下面的数学问题：Ariel is collecting fish. She has 45 fish. 2/3 are male. How many female fish does she have?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

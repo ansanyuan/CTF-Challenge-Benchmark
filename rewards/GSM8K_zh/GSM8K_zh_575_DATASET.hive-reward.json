@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Pauline要做玉米卷作为晚餐。她买了一盒价值5美元的玉米卷壳，4个每个1.5美元的甜椒，和每磅3美元的肉2磅。她总共花了多少钱？。",
+  "topic": "回答下面的数学问题：Pauline will make tacos for dinner. She bought a box of taco shells that cost $5, 4 bell peppers that cost $1.5 each, and 2 pounds of meat that cost $3 per pound.  How much did she spend in all?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

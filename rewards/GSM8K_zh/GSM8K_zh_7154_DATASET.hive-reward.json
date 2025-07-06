@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克需要更换他的汽车散热器。工作需要2小时，机械师每小时收费75美元。零件费用为150美元。他一共支付了多少钱？。",
+  "topic": "回答下面的数学问题：Mark needs to replace the radiator in his car.  The work takes 2 hours and the mechanic charges $75 an hour.  The part cost $150.  How much did he pay?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

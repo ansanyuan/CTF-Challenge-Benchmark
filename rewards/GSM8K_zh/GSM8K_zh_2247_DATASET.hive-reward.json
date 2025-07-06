@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：仓鼠的寿命比蝙蝠少6年。青蛙的寿命是仓鼠的4倍。这些动物的寿命总共是30年。蝙蝠的寿命是多少？。",
+  "topic": "回答下面的数学问题：The lifespan of a hamster is 6 years less than that of a bat. The lifespan of a frog is 4 times that of a hamster. Altogether, the lifespan of the animals is 30 years. What is the lifespan of the bat?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

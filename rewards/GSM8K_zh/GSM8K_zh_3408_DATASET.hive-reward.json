@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：彼得和安德鲁喜欢早上跑步。 彼得比安德鲁多跑了3英里。 5天后，他们俩一共跑了多少英里？。",
+  "topic": "回答下面的数学问题：Peter and Andrew like to run in the morning.  Peter runs 3 miles more than Andrew's 2 miles.  After 5 days, how many miles have they both run?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

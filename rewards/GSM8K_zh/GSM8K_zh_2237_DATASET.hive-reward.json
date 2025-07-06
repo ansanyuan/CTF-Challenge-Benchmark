@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Evie在海滩上捡贝壳。每天她都会收集她最喜欢的10个贝壳。在6天结束时，她把2个贝壳给了她的弟弟。她还剩下多少贝壳？。",
+  "topic": "回答下面的数学问题：Evie is collecting seashells while at the beach.  Each day she collects her favorite 10 shells.  At the end of 6 days, she gives 2 shells to her brother.  How many shells does she have left?",
   "checkpoint": [
     {
-      "$\\boxed{58}$": 1
+      "\\boxed{58}": 1
     }
   ],
   "matchingmethod": [

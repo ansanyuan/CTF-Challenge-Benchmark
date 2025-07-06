@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在我的学校，今年学生人数增加了20%。今年的学生人数是960。去年有多少学生？。",
+  "topic": "回答下面的数学问题：In my school, the number of students has increased by 20% this year. The number of students this year is 960. How many students were there last year?",
   "checkpoint": [
     {
-      "$\\boxed{800}$": 1
+      "\\boxed{800}": 1
     }
   ],
   "matchingmethod": [

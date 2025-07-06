@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果你买一打甜甜圈，价格是8美元；但如果你买2打，价格是14美元。买3组2打甜甜圈比买6组1打甜甜圈能省多少钱？。",
+  "topic": "回答下面的数学问题：If you buy a dozen of doughnuts, it costs $8; but if you buy 2 dozens, it costs $14. How much will you save from buying 3 sets of 2 dozens than buying 6 sets of 1 dozen?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

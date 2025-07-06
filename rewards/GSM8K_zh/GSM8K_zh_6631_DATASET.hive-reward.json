@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果林每年向一个私人组织捐赠240美元，其中1/3用于社区食品储藏项目，1/2用于当地危机基金，剩下的1/4用于生计项目基金，其余用于应急基金。有多少钱用于应急基金？。",
+  "topic": "回答下面的数学问题：If Lyn donates $240 to a private organization each year where 1/3 of it goes to the community pantry project, 1/2 goes to the local crisis fund, 1/4 of the remaining goes to livelihood project funds, and the rest is for contingency funds. How much goes to contingency fund?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

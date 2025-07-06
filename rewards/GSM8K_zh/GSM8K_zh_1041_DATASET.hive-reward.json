@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：农场有66只山羊，两倍于鸡的数量。如果鸭子的数量是山羊和鸡的总数的一半，猪的数量是鸭子数量的三分之一，那么山羊的数量比猪的数量多多少？。",
+  "topic": "回答下面的数学问题：There are 66 goats at a farm and twice as many chickens. If the number of ducks is half of the total of the goats and chickens, and the number of pigs is a third of the number of ducks, how many more goats are there than pigs?",
   "checkpoint": [
     {
-      "$\\boxed{33}$": 1
+      "\\boxed{33}": 1
     }
   ],
   "matchingmethod": [

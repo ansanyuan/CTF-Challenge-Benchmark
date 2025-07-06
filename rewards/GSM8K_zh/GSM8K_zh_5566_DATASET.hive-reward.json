@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Angstadt先生在整个学校日里有120名学生。其中一半学生选修统计课。在统计课的学生中，90%是高三学生。Angstadt先生的学生中有多少名高三学生选修了统计课？。",
+  "topic": "回答下面的数学问题：Mr. Angstadt has 120 students throughout the school day.  Half of them are enrolled in Statistics.  Of the students in Statistics, 90 percent are seniors.  How many of Mr. Angstadt's students are seniors enrolled in Statistics?",
   "checkpoint": [
     {
-      "$\\boxed{54}$": 1
+      "\\boxed{54}": 1
     }
   ],
   "matchingmethod": [

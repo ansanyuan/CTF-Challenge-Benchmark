@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carla需要给她的动物带水。每匹马需要的水是猪的两倍，而鸡喝的水来自一个需要30加仑水的水箱。如果她有8头猪和10匹马，每头猪需要3加仑水，Carla需要带多少加仑的水？。",
+  "topic": "回答下面的数学问题：Carla needs to bring water to her animals. Each horse needs twice as much water as a pig, and the chickens drink from one tank that needs 30 gallons. How many gallons of water does Carla need to bring if she has 8 pigs and 10 horses and each pig needs 3 gallons of water?",
   "checkpoint": [
     {
-      "$\\boxed{114}$": 1
+      "\\boxed{114}": 1
     }
   ],
   "matchingmethod": [

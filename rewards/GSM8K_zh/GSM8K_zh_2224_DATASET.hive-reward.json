@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Elyse有100块口香糖。她把一半给了她的弟弟瑞克。他把一半给了他的朋友Shane。Shane嚼了11块口香糖。Shane还剩下多少块口香糖？。",
+  "topic": "回答下面的数学问题：Elyse had 100 pieces of gum. She gave half to her brother Rick. He gave half of his to his friend Shane. Shane chewed 11 pieces of gum. How many pieces does Shane have left?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

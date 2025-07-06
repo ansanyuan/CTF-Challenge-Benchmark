@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：A positive integer is called ascending if, in its decimal representation, there are at least two digits and each digit is less than any digit to its right. How many ascending positive integers are there? ",
   "checkpoint": [
     {
-      "$\\boxed{502}$": 1
+      "\\boxed{502}": 1
     }
   ],
   "matchingmethod": [

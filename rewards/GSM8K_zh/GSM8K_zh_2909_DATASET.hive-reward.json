@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安德鲁举办烘焙义卖筹集慈善基金。义卖总共赚了400美元。安德鲁留下100美元用于支付成本。他将剩下的一半捐赠给当地的无家可归者收容所，另一半捐给当地的食品银行。安德鲁还决定从自己的存钱罐中捐赠10美元给当地的无家可归者收容所。安德鲁总共向无家可归者收容所捐赠了多少钱？。",
+  "topic": "回答下面的数学问题：Andrew holds a bake sale to fundraise for charity. The bake sale earns a total of $400. Andrew keeps $100 to cover the cost of ingredients. He donates half of the remaining total to the local homeless shelter, and the other half to the local food bank. Andrew also decides to donate $10 from his own piggy bank to the local homeless shelter. How much money in total does Andrew donate to the homeless shelter?",
   "checkpoint": [
     {
-      "$\\boxed{160}$": 1
+      "\\boxed{160}": 1
     }
   ],
   "matchingmethod": [

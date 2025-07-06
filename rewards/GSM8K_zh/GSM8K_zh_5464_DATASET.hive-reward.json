@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rosa Parks小学五年级班正在举行食品捐赠活动。佩雷斯女士班级中一半的学生每人收集了12罐头，有两名学生没有收集任何罐头，剩下的13名学生每人收集了4罐头。如果佩雷斯女士的班级有30名学生，他们总共收集了多少罐头？。",
+  "topic": "回答下面的数学问题：The fifth grade class at Rosa Parks Elementary School is holding a food drive. Half the students in Ms. Perez's class collected 12 cans each, two students didn't collect any, and the remaining 13 students students each collected 4 cans. If Ms. Perez's class has 30 students, how many cans did they collect total?",
   "checkpoint": [
     {
-      "$\\boxed{232}$": 1
+      "\\boxed{232}": 1
     }
   ],
   "matchingmethod": [

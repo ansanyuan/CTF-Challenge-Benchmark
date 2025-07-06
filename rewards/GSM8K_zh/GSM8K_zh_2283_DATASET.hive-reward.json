@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马库斯想买一双新鞋。他决定不超过130美元买鞋。他找到一双售价为120美元的鞋，打了30%的折扣。他买这双鞋而不是花最多130美元，他能省下多少钱？。",
+  "topic": "回答下面的数学问题：Marcus wants to buy a new pair of shoes. He decided to pay not more than $130 for them. He found a pair for $120, on which he got a discount of 30%. How much money will he manage to save by buying these shoes and not spending the assumed maximum amount?",
   "checkpoint": [
     {
-      "$\\boxed{46}$": 1
+      "\\boxed{46}": 1
     }
   ],
   "matchingmethod": [

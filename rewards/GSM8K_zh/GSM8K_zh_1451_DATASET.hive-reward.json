@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Caroline有40双袜子。她在自助洗衣店丢失了4双袜子。在剩下的袜子中，她将三分之二捐给了二手商店。然后她购买了10双新袜子，并从她爸爸那里收到了3双新袜子作为礼物。Caroline总共有多少双袜子？。",
+  "topic": "回答下面的数学问题：Caroline has 40 pairs of socks. She loses 4 pairs of socks at the laundromat. Of the remaining pairs of socks, she donates two-thirds to the thrift store. Then she purchases 10 new pairs of socks, and she receives 3 new pairs of socks as a gift from her dad. How many pairs of socks does Caroline have in total?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果粉刷一座房子需要20分钟，那么你可以在3小时内粉刷多少座房子？。",
+  "topic": "回答下面的数学问题：If it takes 20 minutes to paint a house, how many houses can you paint in 3 hours?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

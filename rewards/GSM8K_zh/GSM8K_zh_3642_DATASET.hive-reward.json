@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：早餐时，鲍比想要吃煎饼。盒子上的食谱可以做21个煎饼。当他吃了5个煎饼时，他的狗跳了起来，在被抓住之前吃了7个。鲍比还剩下多少个煎饼？。",
+  "topic": "回答下面的数学问题：Bobby wanted pancakes for breakfast.  The recipe on the box makes 21 pancakes.  While he ate 5 pancakes, his dog jumped up and was able to eat 7 before being caught.  How many pancakes does Bobby have left?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

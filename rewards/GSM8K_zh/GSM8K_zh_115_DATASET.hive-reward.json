@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ed有2只狗，3只猫，以及猫和狗数量的两倍的鱼。Ed总共有多少宠物？。",
+  "topic": "回答下面的数学问题：Ed has 2 dogs, 3 cats and twice as many fish as cats and dogs combined. How many pets does Ed have in total?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

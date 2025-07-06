@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安妮每周在国际象棋俱乐部花费2小时，在戏剧俱乐部花费8小时，在欢乐俱乐部花费3小时。每学期有12周，安妮在学期中的前两周请病假，那么期中考试前她参加了多少小时的课外活动？。",
+  "topic": "回答下面的数学问题：Annie spends 2 hours a week on chess club, 8 hours a week on drama club, and 3 hours a week on glee club. If there are 12 weeks in each semester and Annie takes the first two weeks off sick, how many hours of extracurriculars does she do before midterms?",
   "checkpoint": [
     {
-      "$\\boxed{52}$": 1
+      "\\boxed{52}": 1
     }
   ],
   "matchingmethod": [

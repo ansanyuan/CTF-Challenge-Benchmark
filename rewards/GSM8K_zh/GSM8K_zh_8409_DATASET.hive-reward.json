@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Fern在考虑是购买Widgeteer 3000，它每小时可以制造60个组件，还是购买WidgetMaster 9000，它每小时可以制造45个组件。每个组件的售价为6美元。如果每天运行24小时，一个月30天，Fern使用Widgeteer 3000比使用WidgetMaster 9000能赚多少更多的钱？。",
+  "topic": "回答下面的数学问题：Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?",
   "checkpoint": [
     {
-      "$\\boxed{64800}$": 1
+      "\\boxed{64800}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰逊拥有一块面积为公顷的玉米田，每两个月可以产出80个玉米，而他的邻居拥有一块两公顷的玉米田，每公顷的产量是约翰逊的两倍。在六个月后，他们总共可以收获多少玉米？。",
+  "topic": "回答下面的数学问题：Johnson owns a hectare cornfield that can yield 80 corn every two months, while his neighbor owns a two-hectare cornfield and each hectare can yield twice the amount as Johnson. How much corn can they harvest altogether after six months?",
   "checkpoint": [
     {
-      "$\\boxed{1200}$": 1
+      "\\boxed{1200}": 1
     }
   ],
   "matchingmethod": [

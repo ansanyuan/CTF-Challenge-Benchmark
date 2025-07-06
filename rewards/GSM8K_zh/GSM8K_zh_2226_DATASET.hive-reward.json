@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马里奥的薪水今年增加了40%，达到了4000美元。鲍勃去年的薪水等于今年马里奥薪水的三倍。如果鲍勃今年的薪水比去年多20%，那么他现在的薪水是多少？。",
+  "topic": "回答下面的数学问题：Mario's salary increased by 40% to $4000 this year. Bob's salary from last year was equal to three times Mario's salary this year. If Bob's current salary is 20% more than his salary last year, what is his current salary?",
   "checkpoint": [
     {
-      "$\\boxed{14400}$": 1
+      "\\boxed{14400}": 1
     }
   ],
   "matchingmethod": [

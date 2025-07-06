@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：卢克开始拼一个1000块的拼图。第一天，他拼了其中的10%。第二天，他又拼了剩下的20%。第三天，他又拼了剩下的30%。第三天结束后，还剩下多少块需要拼？。",
+  "topic": "回答下面的数学问题：Luke started working on a 1000-piece jigsaw puzzle. The first day he worked on it, he put together 10% of the pieces. On the second day, he put together another 20% of the remaining pieces from the first day. On the third day, he put together 30% of the remaining pieces from the previous day. How many pieces does he have left to complete after the third day?",
   "checkpoint": [
     {
-      "$\\boxed{504}$": 1
+      "\\boxed{504}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆决定租一辆车。他在周一、周三、周五和周日开车50英里，而在其他日子他开车100英里。他每开一英里要支付0.1美元。此外，他还需要支付每周100美元的租金。他一年需要支付多少钱？。",
+  "topic": "回答下面的数学问题：Tom decides to lease a car.  He drives 50 miles on Monday, Wednesday, and Friday, and Sunday for the rest of the days he drives 100 miles.  He has to pay $.1 per mile he drives.  He also has to pay a weekly fee of $100.  How much does he have to pay in a year.",
   "checkpoint": [
     {
-      "$\\boxed{7800}$": 1
+      "\\boxed{7800}": 1
     }
   ],
   "matchingmethod": [

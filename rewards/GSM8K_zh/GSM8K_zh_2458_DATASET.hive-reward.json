@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一群蜜蜂最多可以有80000只。在冬天，它们更容易死亡，如果冬天真的很冷，蜜蜂可能会开始慢慢死去。如果这个群体开始每天失去1200只蜜蜂，那么多少天会过去，直到群体中的蜜蜂数量达到初始数量的四分之一？。",
+  "topic": "回答下面的数学问题：A colony of bees can contain up to 80000 individuals. In winter they are more exposed to death, and if the winter is really cold the bees can begin to die slowly. If the colony starts to lose 1200 bees per day, how many days will pass until the number of bees in the colony reaches a fourth of its initial number?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：停车场停放了10辆汽车，每辆车里面的顾客数量相同。每位顾客只购买了1件商品。如果体育用品店的销售额为20笔，音乐店的销售额为30笔，每辆车里有多少位顾客？。",
+  "topic": "回答下面的数学问题：There are 10 cars parked in a mall’s parking lot, each with the same number of customers inside. Each customer only makes 1 purchase. If the sports store makes 20 sales and the music store makes 30 sales, how many customers are in each of the cars?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

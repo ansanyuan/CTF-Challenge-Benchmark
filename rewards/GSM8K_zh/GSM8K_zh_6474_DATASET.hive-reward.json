@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bobby买了两包糖果。他从周一到周五每天吃两颗糖果，剩下的日子每天吃一颗。如果他需要3个这样的星期才能吃完这两包糖果，那么一包糖果里有多少颗？。",
+  "topic": "回答下面的数学问题：Bobby buys two packets of candy. He eats two candies every day from Monday through Friday and takes one each during the remaining days of the week. If it takes him 3 such weeks to finish the 2 packets, how many candies are in a packet?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：扎克正在存钱买一辆价值100美元的全新自行车。他每周的零用钱是5美元。他的父母会额外支付他10美元来割草。他的邻居会支付他7美元每小时来照看他们的儿子。他已经存了65美元。他将在星期五收到零用钱，他计划在割完草后的这个星期六照看邻居的儿子2个小时。在扎克能买到自行车之前，他还需要赚多少钱？。",
+  "topic": "回答下面的数学问题：Zach is saving his money to buy a brand new bike that costs $100.  His weekly allowance is $5.  His parent will pay him an extra $10 to mow the lawn.  His neighbor will pay him $7 per hour to babysit their son.  He has already saved up $65.  He'll receive his allowance on Friday and he's planning on babysitting for 2 hours this Saturday after he mows the lawn.  How much more money does Zach need to earn before he can buy the bike?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

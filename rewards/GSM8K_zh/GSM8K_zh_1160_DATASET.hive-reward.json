@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Erwan去购物。他以200美元购买了一双鞋，但打了30%的折扣，还买了两件每件80美元的衬衫。结账时，收银员说还有额外5%的折扣。在所有折扣后，他一共花了多少钱？。",
+  "topic": "回答下面的数学问题：Erwan went on shopping. He purchased a pair of shoes at $200 but discounted 30%, and two shirts at $80 each. Upon checkout, the cashier said that there is an additional 5% discount. How much did he spend after all the discounts?",
   "checkpoint": [
     {
-      "$\\boxed{285}$": 1
+      "\\boxed{285}": 1
     }
   ],
   "matchingmethod": [

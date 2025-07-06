@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Elvis每月的储蓄目标是1125美元。在四月份，他想在月份的后半部分每天储蓄的金额是前半部分的两倍，以达到他的目标。他在月份的后半部分每天需要储蓄多少钱？。",
+  "topic": "回答下面的数学问题：Elvis has a monthly saving target of $1125. In April, he wants to save twice as much daily in the second half as he saves in the first half in order to hit his target. How much does he have to save for each day in the second half of the month?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

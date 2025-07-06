@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：恩里克每售出一件衣物可以获得15%的佣金。一天内，他卖出了2件售价为700.00美元的西装，6件售价为50.00美元的衬衫和2双售价为150.00美元的便鞋。恩里克一共赚取了多少佣金？。",
+  "topic": "回答下面的数学问题：Enrique earns a 15% commission on every piece of clothing item he sells.  In one day he sells 2 $700.00 suits, 6 shirts that cost $50.00 each and 2 pairs of loafers that are $150.00 each.  How much commission does Enrique earn?",
   "checkpoint": [
     {
-      "$\\boxed{300}$": 1
+      "\\boxed{300}": 1
     }
   ],
   "matchingmethod": [

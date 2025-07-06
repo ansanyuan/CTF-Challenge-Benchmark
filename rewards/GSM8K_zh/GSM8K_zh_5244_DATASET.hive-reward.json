@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sara用她的储蓄买了两本书：一本5.5英镑，一本6.5英镑。她给了售货员一张20英镑的钞票。她会得到多少零钱？。",
+  "topic": "回答下面的数学问题：With her savings, Sara bought two books: a book for 5.5£ and a book for 6.5£. She gives a 20£ bill to the seller. How much change does she get back?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰将他的公寓转租给3个人，每人每月支付400美元。他每月租金为900美元。他一年能赚多少利润？。",
+  "topic": "回答下面的数学问题：John sublets his apartment to 3 people who each pay $400 per month.  He rents the apartment for $900 a month.  How much profit does he make in a year?",
   "checkpoint": [
     {
-      "$\\boxed{3600}$": 1
+      "\\boxed{3600}": 1
     }
   ],
   "matchingmethod": [

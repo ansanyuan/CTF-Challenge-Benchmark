@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：史蒂夫决定成为一名面包师。在周一、周三和周五，他烤苹果派。在周二和周四，他烤樱桃派。如果他每天烤12个派，那么他一周内烤的苹果派比樱桃派多多少个？。",
+  "topic": "回答下面的数学问题：Steve has decided to become a baker. On Mondays, Wednesdays and Fridays, he bakes apple pies. On Tuesdays and Thursdays, he bakes cherry pies. If he bakes 12 pies per day, how many more apple pies does he bake than cherry pies in one week?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

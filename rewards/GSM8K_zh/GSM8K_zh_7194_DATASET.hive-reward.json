@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汉娜想在即将到来的数学考试中获得班级最高分。因为她在考试当天生病了，她提前了解了她需要超越的最高分。她发现有一个学生在考试中得了95%。另一个学生在40道题中只错了3道。为了在班级中获得最高分，她需要答对多少道题？。",
+  "topic": "回答下面的数学问题：Hannah wants to get the highest grade in the class on the upcoming math test. Because she is out sick the day of the test, she learns ahead of time the top scores she has to beat. She finds out that one student got a 95% on the exam. Another student only got 3 wrong out of 40. How many questions does she have to get right to have the highest score in the class?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

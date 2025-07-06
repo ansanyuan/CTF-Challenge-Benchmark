@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：水箱上的标尺显示水箱的水为1/3满。为了填满水箱，需要添加16加仑的水。水箱满时容纳多少加仑的水？。",
+  "topic": "回答下面的数学问题：The gauge on a water tank shows that the tank is 1/3 full of water. To fill the tank, 16 gallons of water are added. How many gallons of water does the tank hold when full?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

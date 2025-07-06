@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：How many positive integer multiples of 1001 can be expressed in the form $10^{j} - 10^{i}$ , where $i$ and $j$ are integers and $0\\leq i < j \\leq 99$ ?",
   "checkpoint": [
     {
-      "$\\boxed{784}$": 1
+      "\\boxed{784}": 1
     }
   ],
   "matchingmethod": [

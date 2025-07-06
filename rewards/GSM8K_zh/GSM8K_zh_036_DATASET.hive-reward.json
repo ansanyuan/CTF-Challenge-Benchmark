@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：桑切斯先生发现他五年级学生中有40%的学生最终成绩低于B。如果他有60名五年级学生，有多少学生的最终成绩是B及以上？。",
+  "topic": "回答下面的数学问题：Mr. Sanchez found out that 40% of his Grade 5  students got a final grade below B. How many of his students got a final grade of B and above if he has 60 students in Grade 5?",
   "checkpoint": [
     {
-      "$\\boxed{36}$": 1
+      "\\boxed{36}": 1
     }
   ],
   "matchingmethod": [

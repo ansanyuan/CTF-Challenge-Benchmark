@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迪米特里每天吃3个汉堡。每个汉堡总共有20卡路里。两天后他会得到多少卡路里？。",
+  "topic": "回答下面的数学问题：Dimitri eats 3 burgers per day. Each burger has a total of 20 calories. How many calories will he get after two days?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

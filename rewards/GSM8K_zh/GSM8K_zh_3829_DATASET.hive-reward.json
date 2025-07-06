@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一场电影放映共有50位观众，其中一半是女性，15位是男性，其余是儿童。在电影中途，1/5的男性和4名儿童离开了。有多少人留下来了？。",
+  "topic": "回答下面的数学问题：There were a total of 50 guests in a movie screening of which half of the guests are women, 15 are men, and the rest are children. In the middle of the movie, 1/5 of the men and 4 children left. How many people stayed?",
   "checkpoint": [
     {
-      "$\\boxed{43}$": 1
+      "\\boxed{43}": 1
     }
   ],
   "matchingmethod": [

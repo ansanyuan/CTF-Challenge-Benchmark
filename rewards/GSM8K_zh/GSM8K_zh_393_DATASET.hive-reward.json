@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：娜奥米正在洗衣服。首先，她将不同类型的衣服分成一堆毛巾，一堆床单和一堆需要在轻柔模式下洗涤的衣服。衣服需要30分钟洗涤。毛巾需要的时间是衣服的两倍。床单需要的时间比毛巾少15分钟。娜奥米总共需要多少时间来洗涤所有衣物？。",
+  "topic": "回答下面的数学问题：Naomi is doing the wash. First she makes piles of different types, with one pile for towels, one for sheets, and one for clothes that need to be washed on the gentle cycle. The clothes take 30 minutes to wash. The towels take twice as long as the clothes to wash. The sheets take 15 minutes less time to wash than the towels. How many minutes total will it take for Naomi to wash everything?",
   "checkpoint": [
     {
-      "$\\boxed{135}$": 1
+      "\\boxed{135}": 1
     }
   ],
   "matchingmethod": [

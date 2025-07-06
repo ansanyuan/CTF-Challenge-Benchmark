@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾琳正在观看《傲慢与偏见》的迷你剧。这部剧一共有6集，每集50分钟。如果艾琳一次性地观看所有剧集，一个接着一个地观看，没有休息，她将花费多少小时观看这部剧？。",
+  "topic": "回答下面的数学问题：Erin is watching a TV mini series of Pride and Prejudice. There are 6 episodes that are each 50 minutes long. If Erin watches all of the episodes in one sitting, one after the other with no breaks, how many hours will she spend watching the series?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

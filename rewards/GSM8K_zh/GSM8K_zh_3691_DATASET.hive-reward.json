@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：桑迪的月手机账单开销等于她现在年龄的十倍。两年后，桑迪的年龄将是金的三倍。如果金目前10岁，请计算桑迪的月手机账单开销。。",
+  "topic": "回答下面的数学问题：Sandy's monthly phone bill expense is equal to ten times her age now. In two years, Sandy will be three times as old as Kim. If Kim is currently 10 years old, calculate Sandy's monthly phone bill expense.",
   "checkpoint": [
     {
-      "$\\boxed{340}$": 1
+      "\\boxed{340}": 1
     }
   ],
   "matchingmethod": [

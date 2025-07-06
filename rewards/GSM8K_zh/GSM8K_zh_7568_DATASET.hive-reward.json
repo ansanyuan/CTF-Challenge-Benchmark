@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个社区里，宠物兔的数量比宠物狗和猫的总数少12只。如果每只狗对应有两只猫，而狗的数量是60只，那么这个社区总共有多少宠物？。",
+  "topic": "回答下面的数学问题：In a neighborhood, the number of rabbits pets is twelve less than the combined number of pet dogs and cats. If there are two cats for every dog, and the number of dogs is 60, how many pets in total are in the neighborhood?",
   "checkpoint": [
     {
-      "$\\boxed{348}$": 1
+      "\\boxed{348}": 1
     }
   ],
   "matchingmethod": [

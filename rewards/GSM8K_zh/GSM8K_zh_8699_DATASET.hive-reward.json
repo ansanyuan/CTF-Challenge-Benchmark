@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Carly为她的美术课制作纸杯蛋糕和布朗尼。她做的布朗尼是纸杯蛋糕的三倍减去2个。如果Carly的班上有五个人，每个人得到两份甜点，那么Carly做了多少个纸杯蛋糕？。",
+  "topic": "回答下面的数学问题：Carly is making cupcakes and brownies for her art class. She makes 2 less than three times as many brownies as cupcakes. If Carly's class has five people and each person gets two treats, how many cupcakes did Carly make?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

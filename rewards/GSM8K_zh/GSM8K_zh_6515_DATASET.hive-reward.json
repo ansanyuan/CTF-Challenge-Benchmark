@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当地一所高中有500名学生。40%是11年级学生。11年级学生中70%参加体育运动。有多少名11年级学生参加体育运动？。",
+  "topic": "回答下面的数学问题：There are 500 students in a local high school.  40 percent are juniors.  70 percent of juniors are involved in sports.  How many juniors are involved in sports?",
   "checkpoint": [
     {
-      "$\\boxed{140}$": 1
+      "\\boxed{140}": 1
     }
   ],
   "matchingmethod": [

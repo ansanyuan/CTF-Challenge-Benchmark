@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个艺术家每张大画布需要使用3盎司的油漆，每张小画布需要使用2盎司的油漆。他完成了3幅大画和4幅小画。他一共使用了多少盎司的油漆？。",
+  "topic": "回答下面的数学问题：An artist uses 3 ounces of paint for every large canvas they cover, and 2 ounces of paint for every small canvas they cover.  They have completed 3 large paintings and 4 small paintings.  How many ounces of paint have they used?",
   "checkpoint": [
     {
-      "$\\boxed{17}$": 1
+      "\\boxed{17}": 1
     }
   ],
   "matchingmethod": [

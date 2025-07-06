@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Crystal想在关门前把她糕点课上剩下的所有东西卖掉。她把她3.00美元的杯子蛋糕和2.00美元的饼干减半。如果她卖掉了最后的16个杯子蛋糕和8个饼干，她赚了多少钱？。",
+  "topic": "回答下面的数学问题：Crystal wanted to sell everything left in her pastry class before closing for the night.  She reduced her $3.00 cupcakes and her $2.00 cookies by half.  How much money did she make if she sold the last 16 cupcakes and 8 cookies?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

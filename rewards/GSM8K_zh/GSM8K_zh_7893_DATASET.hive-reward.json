@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：斯坦利站在山的一侧，海拔10000英尺的地方，一阵气流吹走了他口袋里的梳子，导致梳子掉落4000英尺到下面的一个岩架上。斯坦利的弟弟奥利弗也在山上，但他的海拔是3000英尺。斯坦利用手机给奥利弗打电话，让奥利弗找到斯坦利的梳子。奥利弗必须爬升多少英尺才能到达斯坦利梳子的海拔？。",
+  "topic": "回答下面的数学问题：Stanley was standing on the side of the mountain, at an elevation of 10,000 feet, when a gust air blew the comb out of his pocket, causing the comb to fall 4,000 feet to a ledge below.  Stanley's brother, Oliver, was also on the mountain, but he was at an elevation of 3,000 feet.  Stanley called Oliver on his cellphone and asked Oliver to find Stanley's comb.  How many feet must Oliver climb to reach the elevation of Stanley's comb?",
   "checkpoint": [
     {
-      "$\\boxed{3000}$": 1
+      "\\boxed{3000}": 1
     }
   ],
   "matchingmethod": [

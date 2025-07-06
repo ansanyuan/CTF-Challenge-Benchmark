@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mobius是意大利最快的骡子。当她没有任何负载要携带时，她的最高速度为每小时13英里；当她携带典型负载时，她的最高速度为每小时11英里。如果她携带典型负载以最高速度从意大利的佛罗伦萨到罗马行驶了143英里，然后以她通常的最高速度返回佛罗伦萨，而在行程的每半程中她都休息了两次，每次休息30分钟，那么整个行程需要多长时间（以小时计）？。",
+  "topic": "回答下面的数学问题：Mobius is the fastest mule in Italy.  She can run at a top speed of 13 miles per hour when she is without any load to carry, and she can travel at 11 miles per hour as her top speed when she carries a typical load.  If she travels the 143 miles from Florence, Italy to Rome, Italy at top speed while carrying a typical load, then returns to Florence at her usual top speed without carrying a load, how long, in hours, will the trip take if she takes two 30-minute rest stops during each half of the trip?",
   "checkpoint": [
     {
-      "$\\boxed{26}$": 1
+      "\\boxed{26}": 1
     }
   ],
   "matchingmethod": [

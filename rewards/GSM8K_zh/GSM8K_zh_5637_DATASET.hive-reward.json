@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Dakota和Ben点了3美元的鸡蛋，2美元的煎饼，以及每个2美元的2杯可可。税金是1美元。后来，Ben决定再点一份煎饼和一杯可可，因为他还很饿。他们从15美元应该得到多少找零？。",
+  "topic": "回答下面的数学问题：Dakota and Ben order eggs for $3, pancakes for $2, and 2 mugs of cocoa for $2 each. The tax is $1. Later, Ben then decides to order 1 more batch of pancakes and 1 more mug of cocoa as he is still hungry. How much change should they get from $15?",
   "checkpoint": [
     {
-      "$\\boxed{1}$": 1
+      "\\boxed{1}": 1
     }
   ],
   "matchingmethod": [

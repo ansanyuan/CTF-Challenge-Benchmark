@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：沃森夫人正在为她的美国历史课批改120份期末考试。周一，她批改了60%的考试。周二，她批改了剩下考试的75%。周三，她还需要批改多少份考试？。",
+  "topic": "回答下面的数学问题：Mrs. Watson is grading 120 final exams from her American History class.  On Monday, she grades 60% of the exams.  On Tuesday, she grades 75% of the remaining exams.  On Wednesday, how many more exams does she need to grade?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

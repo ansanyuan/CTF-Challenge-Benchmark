@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：扎克的储物柜是蒂莫西储物柜的一半大。彼得的储物柜是扎克储物柜的1/4大。如果彼得的储物柜是5立方英寸，那么蒂莫西的储物柜有多大（单位：立方英寸）？。",
+  "topic": "回答下面的数学问题：Zack's locker is half as big as Timothy's locker. Peter's locker is 1/4 as big as Zack's locker. If Peter's locker is 5 cubic inches, how big is Timothy's locker in cubic inches?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

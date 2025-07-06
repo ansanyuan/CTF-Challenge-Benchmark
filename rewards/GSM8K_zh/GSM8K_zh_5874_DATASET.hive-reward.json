@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：学校校长决定每个一年级班级都要有相等数量的男孩和女孩。有4个教室。有56个男孩和44个女孩。每个教室总共有多少学生？。",
+  "topic": "回答下面的数学问题：The school principal decided that she wanted every class to have an equal number of boys and girls in each first-grade classroom. There are 4 classrooms. There are 56 boys and 44 girls. How many total students are in each classroom?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

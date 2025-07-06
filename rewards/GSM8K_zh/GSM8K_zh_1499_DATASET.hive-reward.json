@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kristy，一名销售代表，每小时的基本工资为7.50美元，再加上她所售商品总额的16%佣金。这个月，她工作了160小时，销售了价值25000美元的商品。她每月用于食品、服装、房租、交通、账单和储蓄的预算是她总月收入的95%，其余部分将用于保险。她分配了多少钱给保险？。",
+  "topic": "回答下面的数学问题：Kristy, a sales representative earns a basic salary of $7.50 per hour plus a 16% commission on everything she sells. This month, she worked for 160 hours and sold $25000 worth of items. Her monthly budget for food, clothing, rent, transportation, bills and savings is 95% of her total monthly earnings and the rest will be put towards insurance. How much did she allocate to insurance?",
   "checkpoint": [
     {
-      "$\\boxed{260}$": 1
+      "\\boxed{260}": 1
     }
   ],
   "matchingmethod": [

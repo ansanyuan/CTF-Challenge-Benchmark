@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一组6名学生组织了一场筹款活动，以便在夏天前往尼加拉瓜。为了让他们参加这次旅行，每个人至少需要450美元。此外，他们还需要3000美元用于杂项集体开支。在筹款活动的第一天，他们收到了600美元。第二天，他们收到了900美元，第三天收到了400美元。在接下来的4天里，他们只收到了前3天筹集金额的一半。为了达到他们的目标，每个人还需要筹集多少钱？。",
+  "topic": "回答下面的数学问题：A group of 6 students organized a fundraiser to go to Nicaragua for the summer. For them to go on the trip, each of them needs at least $450. On top of that, they need $3000 for their miscellaneous collective expenses. On the first day of their fundraiser, they receive $600. On the second day, they receive $900, and on the third day, they receive $400. For the next 4 days, they receive only half of what they raised on the first 3 days. How much more money does each person need to raise for them to reach their goal?",
   "checkpoint": [
     {
-      "$\\boxed{475}$": 1
+      "\\boxed{475}": 1
     }
   ],
   "matchingmethod": [

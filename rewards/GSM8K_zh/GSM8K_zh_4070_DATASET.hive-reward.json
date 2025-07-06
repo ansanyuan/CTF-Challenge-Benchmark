@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：屠夫山姆用10磅辣肉混合物磨制香肠，装入管状肠衣，制成了一串40根香肠。然后，她把一串香肠挂在冷藏室里。晚上，山姆的金毛猎犬布兰迪闯入冷藏室，吃掉了12根香肠。布兰迪大餐后，剩下的香肠里还有多少盎司的香肠肉？。",
+  "topic": "回答下面的数学问题：Sam the butcher made sausage by grinding up 10 pounds of spicy meat mix, loading it into a tube casing, and creating a string of 40 sausage links. Then, she hung up the string of sausage links in her cooler.  Later that evening, Brandy, Sam’s Golden Retriever, broke into the cooler and ate 12 links of sausage.  After Brandy’s feast, how many ounces of sausage meat were contained in the remaining links?",
   "checkpoint": [
     {
-      "$\\boxed{112}$": 1
+      "\\boxed{112}": 1
     }
   ],
   "matchingmethod": [

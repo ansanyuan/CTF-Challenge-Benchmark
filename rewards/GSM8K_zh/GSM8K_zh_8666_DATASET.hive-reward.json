@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jen每天工作7.5小时，一周工作6天。她的时薪是1.5美元。如果Jen全勤，她还会额外获得10美元。假设Jen在四月份没有缺勤，而四月份正好有4周，她将收到多少钱？。",
+  "topic": "回答下面的数学问题：Jen works for 7.5 hours a day 6 days a week. Her hourly rate is $1.5. Jen also receives an additional $10 if she has complete attendance. Suppose Jen did not incur any absences for  April, and there are exactly 4 weeks in April, how much will she receive?",
   "checkpoint": [
     {
-      "$\\boxed{280}$": 1
+      "\\boxed{280}": 1
     }
   ],
   "matchingmethod": [

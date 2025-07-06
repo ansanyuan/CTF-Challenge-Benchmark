@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三个朋友一共吃了8磅水果。马里奥吃了8盎司的橙子，而莉迪亚吃了24盎司的苹果。尼古拉吃了桃子。尼古拉吃了多少磅的桃子？。",
+  "topic": "回答下面的数学问题：Three friends ate a total of 8 pounds of fruit. Mario had 8 ounces of oranges, while Lydia ate 24 ounces of apples. Nicolai ate peaches. How many pounds of peaches did Nicolai eat?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

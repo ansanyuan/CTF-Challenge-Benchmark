@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Josh有100英尺长的绳子。他把绳子剪成两半，然后拿其中一半再次剪成两半。他拿其中一块剩下的绳子再次剪成五等分。他现在手里拿着最近剪的一段绳子。它有多长？。",
+  "topic": "回答下面的数学问题：Josh has 100 feet of rope.  He cuts the rope in half, and then takes one of the halves and cuts it in half again.  He grabs one of the remaining pieces and cuts it into fifths.  He's stuck holding one length of the rope he's most recently cut.  How long is it?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

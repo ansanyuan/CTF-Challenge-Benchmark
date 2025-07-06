@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Rich在3小时36分钟内跑完了24英里的马拉松。平均来说，Rich在比赛中跑一英里需要多长时间（以分钟为单位）？。",
+  "topic": "回答下面的数学问题：Rich ran a 24-mile marathon in 3 hours and 36 minutes. On average, how long, in minutes, did it take Rich to run a mile during the race?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：塔比莎每晚在每杯茶中加入1份蜂蜜。她通常在睡前喝2杯茶。她购买的蜂蜜是16盎司的容器。如果每盎司有6份蜂蜜，她能在睡前的茶中享用多少个晚上的蜂蜜？。",
+  "topic": "回答下面的数学问题：Tabitha adds 1 serving of honey per cup of tea in the evening.  She usually has 2 cups of tea before bed.  She buys her honey in a 16-ounce container.  If there are 6 servings of honey per ounce, how many nights will she be able to enjoy honey in her tea before bed?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

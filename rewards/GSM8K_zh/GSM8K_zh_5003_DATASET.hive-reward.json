@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯比乔丹拥有的奥利奥饼干数量多2倍加3。如果总共有36块奥利奥饼干，乔丹有多少块？。",
+  "topic": "回答下面的数学问题：James has 3 more than 2 times the number of Oreos Jordan has.  If there are 36 Oreos total, how many does Jordan have?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

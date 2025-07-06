@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在踢足球的第一年，塔拉的爸爸参加了她踢的比赛的90%。在她踢足球的第二年，塔拉的爸爸参加的比赛比前一年少了4场。如果塔拉每年踢20场比赛，那么她踢足球的第二年，塔拉的爸爸参加了多少场比赛？。",
+  "topic": "回答下面的数学问题：During her first year playing soccer, Tara's dad attended 90% of the games she played.  In her second year playing soccer, Tara's dad attended 4 fewer games than he did in the previous year.  If Tara played 20 games each year, how many games did Tara's dad attend in her second year playing soccer?",
   "checkpoint": [
     {
-      "$\\boxed{14}$": 1
+      "\\boxed{14}": 1
     }
   ],
   "matchingmethod": [

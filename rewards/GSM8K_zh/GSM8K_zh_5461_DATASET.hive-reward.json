@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：奥马尔每天上班路上买一杯12盎司的咖啡。在上班路上，他喝掉了杯子的四分之一。当他到达办公室时，他又喝掉了杯子的一半。一旦他开始工作，他就忘记喝剩下的咖啡，当他记起咖啡时，他只喝了1盎司因为它已经凉了。之后杯子里还剩下多少盎司？。",
+  "topic": "回答下面的数学问题：Omar buys a 12-ounce cup of coffee every morning on the way to work. On the way to work, he drinks one-quarter of the cup. When he gets to his office, he drinks another half of the cup. He forgets to drink any more of his coffee once he starts working, and when he remembers his coffee, he only drinks 1 ounce of the remaining amount because it is cold. How many ounces will be left in the cup afterward?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

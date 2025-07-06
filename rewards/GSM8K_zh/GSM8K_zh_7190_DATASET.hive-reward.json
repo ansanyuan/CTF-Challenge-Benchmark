@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：班级里有11个男孩和13个女孩。如果再增加1个男孩到班级，班级里女孩的百分比是多少？。",
+  "topic": "回答下面的数学问题：There are 11 boys and 13 girls in a class. If 1 boy is added to the class, what percentage of the class are girls?",
   "checkpoint": [
     {
-      "$\\boxed{52}$": 1
+      "\\boxed{52}": 1
     }
   ],
   "matchingmethod": [

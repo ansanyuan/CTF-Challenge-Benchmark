@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：汤姆粉刷了一个有5面墙的房间。每面墙是2米乘3米。约翰可以在10分钟内粉刷1平方米。他有10小时的时间来完成所有工作。他还有多少小时的时间可以用来休息？。",
+  "topic": "回答下面的数学问题：Tom paints a room that has 5 walls.  Each wall is 2 meters by 3 meters.  John can paint 1 square meter every 10 minutes.  He has 10 hours to paint everything.  How many hours does he have to spare?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jason正在做沙拉。生菜有30卡路里，黄瓜有80卡路里，12块油炸面包丁每块有20卡路里。沙拉中有多少卡路里？。",
+  "topic": "回答下面的数学问题：Jason is making a salad. The lettuce has 30 calories, the cucumber has 80 calories, and the 12 croutons have 20 calories each. How many calories are in the salad?",
   "checkpoint": [
     {
-      "$\\boxed{350}$": 1
+      "\\boxed{350}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽以每盒6美元的价格购买了5盒饮料，以及每盒14美元的价格购买了10盒比萨，用于她的比萨派对。她总共支付了200美元。她找回了多少零钱？。",
+  "topic": "回答下面的数学问题：Mary bought 5 boxes of drinks at $6 each box and 10 boxes of pizzas at $14 each box for her pizza party. She paid $200 for all the items. How much change did she get back?",
   "checkpoint": [
     {
-      "$\\boxed{30}$": 1
+      "\\boxed{30}": 1
     }
   ],
   "matchingmethod": [

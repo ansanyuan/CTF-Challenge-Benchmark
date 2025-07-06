@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Uncle Bradley有一张1000美元的钞票，他想把它换成小面额的钞票，这样他就可以把它们给他的侄子侄女。他想把3/10的钱换成50美元的钞票，剩下的换成100美元的钞票。Uncle Bradley总共会有多少张钞票？。",
+  "topic": "回答下面的数学问题：Uncle Bradley has a $1000 bill that he wants to change into smaller bills so he could give them to his nieces and nephews. He wants to change 3/10 of the money into $50 bills while the rest into $100 bills. How many pieces of bills will Uncle Bradley have in all?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

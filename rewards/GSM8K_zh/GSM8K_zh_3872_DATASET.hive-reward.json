@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个班级正在完成一个艺术项目。30名学生中的每一位被分配到一个单独的小组，并需要从22盒标记笔中取出标记笔。第一组有10名学生，每人将有2支标记笔，第二组有15名学生，每人将有4支标记笔。最后一组拿走剩下的标记笔并平均分配。如果每盒标记笔包含5支标记笔，最后一组的每位学生将收到多少支标记笔？。",
+  "topic": "回答下面的数学问题：A class is completing an art project. Each of the 30 students is assigned to a separate group and will need to take markers from the 22 boxes of markers. The first group has 10 students who will have 2 markers each and the second group has 15 students who will have 4 markers each. The last group takes the remaining markers and divides them equally. If each box of markers contains 5 markers, how many markers does each of the students in the last group receive?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

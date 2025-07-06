@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bill正在交易所购买医疗保险。他想要的计划的正常月费用是500美元。政府将根据Bill的收入支付部分费用：如果他的收入低于10000美元，支付90%；如果他的收入在10001到40000美元之间，支付50%；如果他的收入超过50000美元，支付20%。Bill每小时赚25美元，每周工作30小时，每月工作4周。Bill一年要花多少钱购买医疗保险？。",
+  "topic": "回答下面的数学问题：Bill is buying healthcare on an exchange. The normal monthly price of the plan he wants is $500. The government will pay for part of this cost depending on Bill's income: 90% if he makes less than $10,000, 50% if he makes between $10,001 and $40,000, and 20% if he makes more than $50,000. Bill earns $25/hour and works 30 hours per week, four weeks per month. How much will Bill spend for health insurance in a year?",
   "checkpoint": [
     {
-      "$\\boxed{3000}$": 1
+      "\\boxed{3000}": 1
     }
   ],
   "matchingmethod": [

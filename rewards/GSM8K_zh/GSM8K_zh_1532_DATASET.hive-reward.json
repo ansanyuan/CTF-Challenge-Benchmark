@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个人决定在他还年轻和身体足够健康的时候尝试完成他的人生目标清单。他的其中一个目标是攀登七大洲最高峰。他意识到他首先需要健身两年才能足够健康去攀登。然后他花了两倍于此的时间学习如何成为一名技术娴熟的登山者。之后，他从清单中最简单的山开始攀登，然后攀登了所有的山。他花了5个月的时间攀登每座山。之后，他花了13个月学习潜水，并在两年内潜水穿越了他想要的所有洞穴。完成所有这些目标总共花了多少时间？。",
+  "topic": "回答下面的数学问题：A man decides to try and do everything off his bucket list while he is still young and fit enough to finish it all.  One of his goals was to climb the seven summits.  He realizes first he has to get in shape to do it and it takes him 2 years of working out to get healthy enough to take up mountain climbing.  He then spends twice that long learning how to be a technically proficient mountain climber.  After that he starts with the simplest mountain on the list and climbs them all.  He spends 5 months climbing each mountain.  After that he takes 13 months learning to dive and dives through all the caves he wants in 2 years.  How much time did it take to get through all these goals?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

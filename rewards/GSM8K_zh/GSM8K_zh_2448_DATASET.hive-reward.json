@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当Nathan感到寒冷时，他在床上加了一条额外的毯子。每条毯子可以让他感到温暖3度。一天晚上，他感到很冷，他在床上加了他衣柜里一半的14条毯子。这些毯子让Nathan感到温暖了多少度？。",
+  "topic": "回答下面的数学问题：When Nathan is cold, he adds an extra blanket to his bed. Each blanket warms him up by 3 degrees. One night, he was cold enough that he added half of the 14 blankets in his closet on his bed. How many degrees did the blankets warm Nathan up?",
   "checkpoint": [
     {
-      "$\\boxed{21}$": 1
+      "\\boxed{21}": 1
     }
   ],
   "matchingmethod": [

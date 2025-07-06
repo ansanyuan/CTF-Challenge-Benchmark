@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰比他的兄弟快60%读书。如果他的兄弟读一本书需要8小时，那么约翰读3本书需要多长时间？。",
+  "topic": "回答下面的数学问题：John can read a book 60% faster than his brother.  If his brother takes 8 hours to read a book, how long would it take John to read 3 books?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

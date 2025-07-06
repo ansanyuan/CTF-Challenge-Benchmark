@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：纳丁的狗在泥浆中打滚。她花了10分钟在外面冲洗他，然后给他洗了三次澡，每次需要15分钟。她总共花了多长时间给她的狗清洁？。",
+  "topic": "回答下面的数学问题：Nadine's dog rolls around in the mud. She spends 10 minutes hosing him off outside, then shampoos him three times, which takes 15 minutes per shampoo. How long does she spend cleaning her dog total?",
   "checkpoint": [
     {
-      "$\\boxed{55}$": 1
+      "\\boxed{55}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：爱丽丝和艾米丽在农贸市场卖橙子。爱丽丝卖的橙子数量是艾米丽的两倍。总共，她们卖出了180个橙子。爱丽丝卖了多少个橙子？。",
+  "topic": "回答下面的数学问题：Alice and Emily are selling oranges at the farmer's market. Alice sold twice as many oranges as Emily did. In total, they sold 180 oranges. How many oranges did Alice sell?",
   "checkpoint": [
     {
-      "$\\boxed{120}$": 1
+      "\\boxed{120}": 1
     }
   ],
   "matchingmethod": [

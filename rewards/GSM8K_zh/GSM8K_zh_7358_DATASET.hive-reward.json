@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jason正在制作沙画。他想用蓝色沙子填充一个6英寸乘7英寸的矩形区域，用红色沙子填充一个5英寸乘5英寸的正方形区域。如果填充一个平方英寸需要3克沙子，Jason需要多少克沙子？。",
+  "topic": "回答下面的数学问题：Jason is making sand art. He wants to fill a rectangular patch 6 inches by 7 inches with blue sand, and a square path 5 inches by 5 inches with red sand. If it takes 3 grams of sand to fill one square inch, how many grams of sand does Jason need?",
   "checkpoint": [
     {
-      "$\\boxed{201}$": 1
+      "\\boxed{201}": 1
     }
   ],
   "matchingmethod": [

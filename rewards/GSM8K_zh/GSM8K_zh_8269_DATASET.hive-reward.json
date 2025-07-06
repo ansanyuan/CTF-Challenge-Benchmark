@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mike需要一条新牛仔裤。当他到达商场时，他看到他最喜欢的牛仔裤打了25%的折扣。牛仔裤的原价是40美元。如果他用一张50.00美元的钞票支付，Mike还会剩下多少钱？。",
+  "topic": "回答下面的数学问题：Mike needed a new pair of jeans.  When he got to the mall he saw that his favorite jeans were advertised 25% off.  The original price of the jeans was $40.  How much money will Mike have left over if he pays with a $50.00 bill?",
   "checkpoint": [
     {
-      "$\\boxed{20}$": 1
+      "\\boxed{20}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：走3公里，本花了2小时。以相同的速度继续，走12公里需要多少时间（以分钟为单位）？。",
+  "topic": "回答下面的数学问题：To make 3 km, Ben walked for 2 hours. Continuing at the same speed, how much time in minutes would it take him to travel 12 km?",
   "checkpoint": [
     {
-      "$\\boxed{480}$": 1
+      "\\boxed{480}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莫妮卡在举办晚宴时每人收费25.00美元。对于老顾客，她提供10%的折扣。菲比是一位老顾客，她要举办一个20人的晚宴。莫妮卡将从这个晚宴中赚取多少钱？。",
+  "topic": "回答下面的数学问题：Monica charges $25.00 per person when catering a dinner party.  For repeat customers, she offers a 10% discount.  Phoebe is a repeat customer who is having a dinner party for 20 guests.  How much will Monica make from the party?",
   "checkpoint": [
     {
-      "$\\boxed{450}$": 1
+      "\\boxed{450}": 1
     }
   ],
   "matchingmethod": [

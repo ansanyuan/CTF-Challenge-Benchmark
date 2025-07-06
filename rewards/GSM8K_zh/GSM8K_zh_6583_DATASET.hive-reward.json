@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一本新版的几何书有450页，比旧版的页数少230页。旧版的几何书有多少页？。",
+  "topic": "回答下面的数学问题：A new edition Geometry book has 450 pages which are 230 pages less than twice as many pages as the old edition. How many pages did the old edition Geometry book have?",
   "checkpoint": [
     {
-      "$\\boxed{340}$": 1
+      "\\boxed{340}": 1
     }
   ],
   "matchingmethod": [

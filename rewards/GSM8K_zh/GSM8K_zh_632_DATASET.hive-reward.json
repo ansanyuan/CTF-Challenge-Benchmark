@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽和罗斯去购物买礼物。她们花了相同的金额。玛丽买了两副太阳镜，每副50美元，和一条100美元的牛仔裤。罗斯买了一双150美元的鞋和两副篮球卡。一副篮球卡的价格是多少？。",
+  "topic": "回答下面的数学问题：Mary and Rose went shopping to buy presents. They spent the same amount. Mary bought two pairs of sunglasses for $50 each and a pair of jeans for $100.  Rose bought a pair of shoes at $150 and two decks of basketball cards. How much did one deck of basketball cards cost?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一家公司以每加仑3.5美元的价格向Marcellus先生的商店出售了4000加仑装在罐子里的牛奶。然而，Marcellus先生后来意识到他购买的牛奶有2/5已经过了保质期，不能出售。他将变质的牛奶退还给公司并要求退款。计算他得到了多少退款。。",
+  "topic": "回答下面的数学问题：A company sold 4000 gallons of milk in jars to Mr. Marcellus' store at the cost of $3.5 per gallon. However, Mr. Marcellus later realized 2/5 of the amount of milk he purchased had passed the expiry date and could not be sold. He returned the sour milk to the company and ordered a refund. Calculate how much he got in refunds.",
   "checkpoint": [
     {
-      "$\\boxed{5600}$": 1
+      "\\boxed{5600}": 1
     }
   ],
   "matchingmethod": [

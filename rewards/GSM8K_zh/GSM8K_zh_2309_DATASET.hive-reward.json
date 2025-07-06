@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Peggy从自行车上摔下来，擦伤了膝盖。她的左膝需要两块创可贴，右膝需要三块创可贴。在Peggy擦伤膝盖之前，盒子里的创可贴比两打创可贴少8块，Peggy贴完创可贴后盒子里还剩下多少块创可贴？。",
+  "topic": "回答下面的数学问题：Peggy fell off her bike and skinned her knees.  She needed two bandages on her left knee and three bandages on her right knee.  If the box of bandages had 8 less than two dozen bandages before Peggy skinned her knees, how many bandages were left in the box after Peggy finished putting bandages on her knees?",
   "checkpoint": [
     {
-      "$\\boxed{11}$": 1
+      "\\boxed{11}": 1
     }
   ],
   "matchingmethod": [

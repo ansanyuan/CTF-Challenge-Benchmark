@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Honey每天赚80美元。每天，她花掉一部分工资，剩下的存起来。工作20天后，她花了1360美元。Honey在20天内存了多少钱？。",
+  "topic": "回答下面的数学问题：Honey earned $80 a day. Every day, she spent part of her pay and saved the rest. After 20 days of work, she spent $1360. How much did Honey save in 20 days?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

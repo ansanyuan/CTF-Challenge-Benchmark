@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：昨晚坎农晚餐吃了3个苹果，一个香蕉和4个橙子。今天她计划比昨晚多吃4个苹果，比昨晚多吃10倍的香蕉，以及今天她将吃的苹果数量的两倍的橙子。到目前为止，她两顿饭一共吃了多少水果？。",
+  "topic": "回答下面的数学问题：Last night Kannon had 3 apples, a banana, and 4 oranges for dinner. Today she is planning to have 4 more apples than last night, 10 times as many bananas as she ate last night, and twice as many oranges as apples she'll have today. How many fruits would she have eaten so far in the two meals?",
   "checkpoint": [
     {
-      "$\\boxed{39}$": 1
+      "\\boxed{39}": 1
     }
   ],
   "matchingmethod": [

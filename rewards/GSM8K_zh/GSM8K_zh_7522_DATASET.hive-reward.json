@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tracy用了一根4英尺长的电线来支撑花园里的番茄植株。电线被切成了6英寸长的小段。她得到了多少段？。",
+  "topic": "回答下面的数学问题：Tracy used a piece of wire 4 feet long to support tomato plants in the garden. The wire was cut into pieces 6 inches long. How many pieces did she obtain?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

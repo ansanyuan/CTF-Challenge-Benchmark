@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨姆威尔拥有一家家电商店。这周，他们销售的四分之一是智能电视，八分之一是模拟电视，其余的是OLED电视。如果他们总共卖出了40台电视，那么他们卖出了多少台OLED电视？。",
+  "topic": "回答下面的数学问题：Samwell owns an appliances store. For this week, one-fourth of their sales are smart TVs, one-eighth are analog TVs, and the rest are OLED TVs. If they were able to sell a total of 40 TVs, how many OLED TVs were they able to sell?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

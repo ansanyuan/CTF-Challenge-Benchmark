@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一位公职人员想要为两所学校的每个班级捐赠5个新足球。每所学校有4个小学班和5个中学班。这位公职人员总共会捐赠多少个足球？。",
+  "topic": "回答下面的数学问题：A public official wants to donate 5 new soccer balls per each class in two schools. Each school has 4 elementary school classes and 5 middle school classes.  How many soccer balls would the public official donate in all?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

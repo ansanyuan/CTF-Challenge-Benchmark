@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：阿纳金和洛辛今天去了海滩。阿纳金抓到了10只海星、6只海马和3只小丑鱼。而洛辛抓到的海星比阿纳金少5只，海马少3只，小丑鱼多2只。他们总共抓到了多少条鱼？。",
+  "topic": "回答下面的数学问题：Anakin and Locsin went to the beach today. Anakin caught 10 starfish, 6 sea horses, and 3 clownfish. While Locsin caught 5 fewer starfish than Anakin, 3 fewer sea horses than Anakin, and 2 more clownfish than Anakin. How many fish were they able to catch?",
   "checkpoint": [
     {
-      "$\\boxed{32}$": 1
+      "\\boxed{32}": 1
     }
   ],
   "matchingmethod": [

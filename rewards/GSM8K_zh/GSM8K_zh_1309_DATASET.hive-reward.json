@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：杰克正在观看一部新节目，并担心自己花在观看上的时间。他在周一花了一天的一半时间观看节目，在周二花了4小时观看节目，在周三花了一天的四分之一时间观看节目，而在周四，他花的时间是前几天的总和的一半。最终，他在周五完成了观看。如果整部节目共有52小时，那么杰克在周五观看了多少小时？。",
+  "topic": "回答下面的数学问题：Jake is watching a new show, and is worried about how much time he has spent watching it. He spent half the day on Monday watching his show, 4 hours on Tuesday watching his show, a quarter of the day on Wednesday watching his show, and he spent half as much time watching the show on Thursday as he had done in total throughout the previous few days. On Friday, he finally finished watching it. If the entire show is 52 hours long, how many hours did Jake watch on Friday?",
   "checkpoint": [
     {
-      "$\\boxed{19}$": 1
+      "\\boxed{19}": 1
     }
   ],
   "matchingmethod": [

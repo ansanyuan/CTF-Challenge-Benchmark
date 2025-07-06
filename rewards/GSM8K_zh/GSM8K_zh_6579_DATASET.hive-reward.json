@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：图书馆有9900本书。在夏天期间，他们卖掉了一些书。如果只剩下六分之四的书，他们卖了多少本书？。",
+  "topic": "回答下面的数学问题：The library has 9,900 books. Over the summer, they sold some books. If only four sixths of the books are left, how many did they sell?",
   "checkpoint": [
     {
-      "$\\boxed{3300}$": 1
+      "\\boxed{3300}": 1
     }
   ],
   "matchingmethod": [

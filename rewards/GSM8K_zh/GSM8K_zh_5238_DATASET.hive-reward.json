@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：早上，旺达陪女儿走0.5英里的路上学，然后再走0.5英里回家。下午放学后，她再重复这个过程。她每周陪女儿上学5天。4周后，旺达一共走了多少英里？。",
+  "topic": "回答下面的数学问题：Wanda walks her daughter .5 miles to school in the morning and then walks .5 miles home.  She repeats this when she meets her daughter after school in the afternoon.  They walk to school 5 days a week.  How many miles does Wanda walk after 4 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

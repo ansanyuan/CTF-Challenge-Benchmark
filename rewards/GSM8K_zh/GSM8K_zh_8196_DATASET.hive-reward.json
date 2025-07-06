@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ron对他家前面的坑洼感到厌烦。如果不修复，它将对他的汽车造成价值450美元的损害。不幸的是，市议会拒绝修复它，并且如果Ron自己修理，将对他处以120美元的未经授权的道路维护罚款。Ron还需要购买3桶沥青，每桶成本25美元。Ron通过自己修补坑洼节省了多少钱？。",
+  "topic": "回答下面的数学问题：Ron is fed up with the pothole in front of his house. If it doesn't get fixed, it's going to do $450 worth of damage to his car. Unfortunately, the city council refuses to fix it, and will fine Ron $120 for unauthorized road maintenance if he fixes it himself. Ron will also have to buy 3 buckets of asphalt that each cost $25. How much money does Ron save by fixing the pothole?",
   "checkpoint": [
     {
-      "$\\boxed{255}$": 1
+      "\\boxed{255}": 1
     }
   ],
   "matchingmethod": [

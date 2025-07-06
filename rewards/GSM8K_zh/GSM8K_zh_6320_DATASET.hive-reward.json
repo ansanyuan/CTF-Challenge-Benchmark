@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：珍需要购买10条新裤子。商店正在打折，打8折。如果裤子的正常零售价是每条45美元，她在支付10%的税后需要支付多少钱？。",
+  "topic": "回答下面的数学问题：Jean needs to buy 10 new pairs of pants.  A store is running a sale for 20% off.  If the pants normally retail for $45 each how much will she need to pay for all of them after paying a 10% tax?",
   "checkpoint": [
     {
-      "$\\boxed{396}$": 1
+      "\\boxed{396}": 1
     }
   ],
   "matchingmethod": [

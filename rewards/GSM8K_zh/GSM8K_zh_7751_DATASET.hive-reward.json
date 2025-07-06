@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Matthew挖一个小灌木洞需要3分钟，挖一个大树洞需要10分钟。他挖30个小洞和15个大洞需要多少小时？。",
+  "topic": "回答下面的数学问题：It takes Matthew 3 minutes to dig a small hole for shrubs and 10 minutes to dig a large hole for trees.  How many hours will it take him to dig 30 small holes and 15 large holes?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

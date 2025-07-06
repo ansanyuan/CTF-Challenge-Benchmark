@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果八张电影票的价格是一个橄榄球比赛门票价格的两倍，每张电影票售价为30美元，那么如果钱德勒购买八张电影票和五张橄榄球比赛门票，他将支付的总金额是多少？。",
+  "topic": "回答下面的数学问题：If eight movie tickets cost 2 times as much as one football game ticket, and each movie ticket is sold at $30, calculate the total amount of money Chandler will pay if he buys eight movie tickets and five football game tickets.",
   "checkpoint": [
     {
-      "$\\boxed{840}$": 1
+      "\\boxed{840}": 1
     }
   ],
   "matchingmethod": [

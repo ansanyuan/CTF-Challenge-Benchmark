@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：彼得去商店买苏打。苏打的价格是每盎司0.25美元。他带了2美元，离开时还剩下0.50美元。他买了多少盎司的苏打？。",
+  "topic": "回答下面的数学问题：Peter goes to the store to buy a soda. The soda costs $.25 an ounce. He brought $2 with him and leaves with $.50. How many ounces of soda did he buy?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

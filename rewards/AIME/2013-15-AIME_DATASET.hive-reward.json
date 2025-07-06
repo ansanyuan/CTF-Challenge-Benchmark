@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $A,B,C$ be angles of an acute triangle with \\begin{align*} \\cos^2 A + \\cos^2 B + 2 \\sin A \\sin B \\cos C &= \\frac{15}{8} \\text{ and} \\\\ \\cos^2 B + \\cos^2 C + 2 \\sin B \\sin C \\cos A &= \\frac{14}{9} \\end{align*} There are positive integers $p$ , $q$ , $r$ , and $s$ for which \\[\\cos^2 C + \\cos^2 A + 2 \\sin C \\sin A \\cos B = \\frac{p-q\\sqrt{r}}{s},\\] where $p+q$ and $s$ are relatively prime and $r$ is not divisible by the square of any prime.  Find $p+q+r+s$ .",
   "checkpoint": [
     {
-      "$\\boxed{222}$": 1
+      "\\boxed{222}": 1
     }
   ],
   "matchingmethod": [

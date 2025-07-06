@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bethany喜欢骑马。她每周一、三、五放学后骑1小时。周二和周四骑30分钟，周六可以骑2小时。在两周内，她一共骑了多少小时？。",
+  "topic": "回答下面的数学问题：Bethany loved riding horses.  She rode 1 hour after school every Monday, Wednesday, and Friday.  On Tuesday and Thursday, she rode for 30 min and on Saturdays, she could ride for 2 hours.  How many hours in total did she ride over a 2 week period?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

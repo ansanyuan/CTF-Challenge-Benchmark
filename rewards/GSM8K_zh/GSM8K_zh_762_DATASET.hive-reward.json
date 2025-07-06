@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：琼在杂货店。她总共有60美元要花。她要购买2罐鹰嘴豆泥，每罐5美元。她要购买价值20美元的鸡肉，价值10美元的培根和价值10美元的蔬菜。她想购买每个2美元的苹果。用她剩下的钱，她可以购买多少个苹果？。",
+  "topic": "回答下面的数学问题：Joan is at the grocery store. She has a total of $60 to spend. She is going to purchase 2 containers of hummus, which are $5 each. She is going to purchase chicken for $20, bacon for $10, and vegetables for $10. She wants to purchase apples which are $2 each. With her remaining money, how many apples can she purchase?",
   "checkpoint": [
     {
-      "$\\boxed{5}$": 1
+      "\\boxed{5}": 1
     }
   ],
   "matchingmethod": [

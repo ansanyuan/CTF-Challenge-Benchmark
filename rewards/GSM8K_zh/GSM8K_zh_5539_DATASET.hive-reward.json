@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在谷仓里，母牛和公牛的比例是10:27。如果农场上有555头牛，那么农场上有多少头公牛？。",
+  "topic": "回答下面的数学问题：The ratio of cows to bulls in a barn is 10:27. If there are 555 cattle on the farm, how many bulls are on the farm?",
   "checkpoint": [
     {
-      "$\\boxed{405}$": 1
+      "\\boxed{405}": 1
     }
   ],
   "matchingmethod": [

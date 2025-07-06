@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗得岛州有40名法官。10%的法官年龄在30岁以下。60%的法官年龄在30-50岁之间。其余的法官年龄在50岁以上。有多少法官年龄在50岁以上？。",
+  "topic": "回答下面的数学问题：There are 40 Judges in the state of Rhode Island.  10 percent of Judges are under 30 years old.  60 percent of Judges are 30-50 years old.  The rest of the Judges are over 50 years old.  How many Judges are over 50 years old?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [

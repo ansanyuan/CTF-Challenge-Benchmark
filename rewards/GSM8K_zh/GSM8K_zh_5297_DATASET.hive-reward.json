@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Bob每天以0.75美元的价格订购一打松饼，然后以每个1.5美元的价格出售。他每周赚取多少利润？。",
+  "topic": "回答下面的数学问题：Bob orders a dozen muffins a day for $0.75 each and sells them for $1.5 each.  How much profit does he make a week?",
   "checkpoint": [
     {
-      "$\\boxed{63}$": 1
+      "\\boxed{63}": 1
     }
   ],
   "matchingmethod": [

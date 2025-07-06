@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：三年级的学生们正在进行一场测验。如果他们的平均分高于75%，他们将得到一个披萨派对。班上有25名学生。一名学生因故缺席，必须在第二天补考。参加测验的学生的平均分是77%。缺席学生为了班上仍然能得到披萨派对，最低可以得到多少分？。",
+  "topic": "回答下面的数学问题：Ms. Mitsuko told the class that if the average score on their quiz is higher than 75% then they will get a pizza party. There are 25 students in the class. One student is absent and has to take the test the next day. The average score of the students who took the test was 77%. What is the lowest grade the absent student can get for the class to still get a pizza party?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

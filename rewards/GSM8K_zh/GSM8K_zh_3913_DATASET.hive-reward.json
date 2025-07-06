@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Quincy刚刚购买了一辆汽车，使用了一笔为期5年的无息贷款。他支付了5000.00美元的首付，使得他的月供为250.00美元。汽车的价格是多少？。",
+  "topic": "回答下面的数学问题：Quincy just bought a car using a 5 year loan with no interest.  He put $5,000.00 down as a down payment making his monthly payment $250.00.  What is the price of the car?",
   "checkpoint": [
     {
-      "$\\boxed{20000}$": 1
+      "\\boxed{20000}": 1
     }
   ],
   "matchingmethod": [

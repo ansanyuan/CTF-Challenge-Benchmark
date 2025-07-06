@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Jeff想租一间公寓，在接下来的5年里住下，直到他完成学业。他在学校附近找到了一间不错的公寓，业主要求Jeff每个月支付300美元，Jeff同意了，前3年一切顺利，但后来业主想每个月涨到350美元。Jeff再次同意并继续支付，直到他毕业。Jeff最终为这间公寓支付了多少钱？。",
+  "topic": "回答下面的数学问题：Jeff wanted to rent an apartment to live in for the next 5 years until he finishes his studies. He found a nice apartment next to his school, the owner asks Jeff to pay $300 each month, Jeff agreed, and for the first 3 years everything went fine, but then the owner wanted to raise the price for each month to $350. Jeff agreed again and continued paying until he graduated. How much did Jeff end up paying for the apartment throughout the 5 years?",
   "checkpoint": [
     {
-      "$\\boxed{19200}$": 1
+      "\\boxed{19200}": 1
     }
   ],
   "matchingmethod": [

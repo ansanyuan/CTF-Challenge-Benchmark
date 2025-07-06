@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Sharon想要购买厨房用品。她很喜欢安吉拉的厨房用品，其中包括20个锅，比盘子的数量多6个，盘子的数量是锅的3倍，餐具的数量是盘子的一半。Sharon想要购买的锅是安吉拉的一半，比安吉拉的盘子数量的3倍少20个，比安吉拉的餐具数量多一倍。Sharon想要购买的厨房用品的总数是多少？。",
+  "topic": "回答下面的数学问题：Sharon wants to get kitchen supplies. She admired Angela's kitchen supplies which consist of 20 pots, 6 more than three times as many plates as the pots, and half as many cutlery as the plates. Sharon wants to buy half as many pots as Angela, 20 less than three times as many plates as Angela, and twice as much cutlery as Angela. What is the total number of kitchen supplies Sharon wants to buy?",
   "checkpoint": [
     {
-      "$\\boxed{254}$": 1
+      "\\boxed{254}": 1
     }
   ],
   "matchingmethod": [

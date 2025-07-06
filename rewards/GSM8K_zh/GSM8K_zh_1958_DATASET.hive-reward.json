@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰购买了500份报纸。每份报纸售价为2美元。他卖出了其中的80%。他购买这些报纸的价格比他卖出的价格便宜了75%。他赚了多少利润？。",
+  "topic": "回答下面的数学问题：John buys 500 newspapers.  Each newspaper sells for $2.  He sells 80% of them.  He buys them all for 75% less than the price at which he sells them.  How much profit does he make?",
   "checkpoint": [
     {
-      "$\\boxed{550}$": 1
+      "\\boxed{550}": 1
     }
   ],
   "matchingmethod": [

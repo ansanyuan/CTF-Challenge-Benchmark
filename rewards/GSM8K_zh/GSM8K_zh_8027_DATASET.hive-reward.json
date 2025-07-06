@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：比尔想弄清楚他的派对需要买多少瓶水。他开始时有2箱水，每箱有24瓶。他将有70位客人到来，他想为每位客人准备2瓶水。他还需要额外购买多少瓶水？。",
+  "topic": "回答下面的数学问题：Bill is trying to figure out how many water bottles he needs to buy for his party.  He started out with 2 cases of water which have 24 bottles each. He has 70 guests that will be arriving, and he wants to have 2 bottles of water for each guest. How many additional bottles of water will he need to buy?",
   "checkpoint": [
     {
-      "$\\boxed{92}$": 1
+      "\\boxed{92}": 1
     }
   ],
   "matchingmethod": [

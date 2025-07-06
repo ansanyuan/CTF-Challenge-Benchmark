@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Tracy，Michelle和Kati进行了一次总里程为1000英里的公路旅行。Tracy比Michelle多开了20英里，而Michelle开的里程是Kati的3倍。Michelle开了多少英里？。",
+  "topic": "回答下面的数学问题：Tracy, Michelle, and Kati take a road trip that is a total of 1000 miles.  Tracy drives 20 miles more than twice Michelle, and Michelle drives 3 times the amount that Katie drives. How many miles does Michelle drive?",
   "checkpoint": [
     {
-      "$\\boxed{294}$": 1
+      "\\boxed{294}": 1
     }
   ],
   "matchingmethod": [

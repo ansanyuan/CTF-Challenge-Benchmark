@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Quinten在市中心看到三座建筑，决定估算它们的高度。他从一本关于当地建筑的书中得知，中间的建筑高100英尺。左边的建筑看起来是中间建筑高度的80%。右边的建筑看起来比左边和中间的建筑叠加在一起要矮20英尺。Quinten估计它们的总高度是多少？。",
+  "topic": "回答下面的数学问题：Quinten sees three buildings downtown and decides to estimate their heights. He knows from a book on local buildings that the one in the middle is 100 feet tall. The one on the left looks like it is 80% of the height of the middle one. The one on the right looks 20 feet shorter than if the building on the left and middle were stacked on top of each other. How tall does Quinten estimate their total height to be?",
   "checkpoint": [
     {
-      "$\\boxed{340}$": 1
+      "\\boxed{340}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Wendi带回了4只鸡。几天后，她又带回了足够多的鸡，使她拥有的鸡的数量翻倍。然后，邻居的狗吃掉了她的一只鸡。最后，Wendi又找到了比十只鸡少4只的鸡，也带回了家。在此之后，Wendi有多少只鸡？。",
+  "topic": "回答下面的数学问题：Wendi brought home 4 chickens.  After a few days, she brought home enough additional chickens to double the number of chickens she owned.  Then, a neighbor's dog ate one of her chickens.  Finally, Wendi found an additional 4 less than ten chickens and brought them home too.  After this, how many chickens does Wendi have?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

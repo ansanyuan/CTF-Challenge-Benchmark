@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：艾米正在参加一场历史考试。她正确回答了80%的选择题，90%的判断题，以及60%的简答题。选择题和判断题每题1分，简答题每题5分。如果有10道选择题，20道判断题和5道简答题，艾米得了多少分？。",
+  "topic": "回答下面的数学问题：Amy is taking a history test. She correctly answers 80% of the multiple-choice questions, 90% of the true/false questions, and 60% of the long-answer questions. The multiple-choice and true/false questions are worth 1 point each, and the long answer questions are worth 5 points each. How many points does Amy score if there are 10 multiple-choice questions, 20 true/false questions, and 5 long answer questions?",
   "checkpoint": [
     {
-      "$\\boxed{41}$": 1
+      "\\boxed{41}": 1
     }
   ],
   "matchingmethod": [

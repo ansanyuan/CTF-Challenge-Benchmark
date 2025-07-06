@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽在她的农场上有400只羊。她把四分之一的羊给了她的妹妹，然后把剩下的羊的一半给了她的兄弟。玛丽还剩下多少只羊？。",
+  "topic": "回答下面的数学问题：Mary has 400 sheep on her farm. She gave a quarter of her sheep to her sister, and half of the remaining sheep to her brother. How many sheep remain with Mary?",
   "checkpoint": [
     {
-      "$\\boxed{150}$": 1
+      "\\boxed{150}": 1
     }
   ],
   "matchingmethod": [

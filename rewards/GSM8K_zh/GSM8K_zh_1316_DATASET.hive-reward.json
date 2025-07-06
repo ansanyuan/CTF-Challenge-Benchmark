@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Marcus一次可以在烤箱里放5个馅饼。他烤了7批馅饼，然后滑倒把其中8个摔了。还剩下多少个馅饼？。",
+  "topic": "回答下面的数学问题：Marcus can fit 5 pies in his oven at once. He bakes 7 batches of pies, then slips and drops 8 of them. How many pies are left?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

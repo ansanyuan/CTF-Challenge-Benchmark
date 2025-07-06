@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Isaac先生以每小时10英里的速度骑自行车30分钟。如果他再骑15英里，休息30分钟，然后骑剩下的20英里，整个旅程总共花了多少时间（以分钟计）？。",
+  "topic": "回答下面的数学问题：Mr. Isaac rides his bicycle at the rate of 10 miles per hour for 30 minutes. If he rides for another 15 miles, rests for 30 minutes, and then covers the remaining distance of 20 miles, what's the total time in minutes took to travel the whole journey?",
   "checkpoint": [
     {
-      "$\\boxed{270}$": 1
+      "\\boxed{270}": 1
     }
   ],
   "matchingmethod": [

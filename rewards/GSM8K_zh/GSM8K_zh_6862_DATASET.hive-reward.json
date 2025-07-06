@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：罗纳德和他的朋友马克斯想买一款新发布的视频游戏。这款游戏售价60美元。为了赚钱，他们开始在自家院子里卖冰淇淋，每个冰淇淋售价5美元。他们需要卖多少个冰淇淋才能一起买得起这款游戏？。",
+  "topic": "回答下面的数学问题：Ronald and his friend Max want to buy a new video game that was just released. The game costs $60. To earn money, they started selling ice cream in their yard, and they sell each ice cream for $5. How many ice creams will they need to sell for both to be able to afford to buy the game?",
   "checkpoint": [
     {
-      "$\\boxed{24}$": 1
+      "\\boxed{24}": 1
     }
   ],
   "matchingmethod": [

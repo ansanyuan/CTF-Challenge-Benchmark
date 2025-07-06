@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在阅读有关不同城镇历史的资料时，贾里德得知尤斯顿的马车比诺福克多20辆。诺里奇有100辆马车，而飞行苏格兰人比诺里奇多20辆马车。如果尤斯顿有130辆马车，那么总共有多少辆马车？。",
+  "topic": "回答下面的数学问题：While reading about the history of different towns, Jared learned that Euston had 20 more carriages than Norfolk. Norwich had 100 carriages, and Flying Scotsman had 20 more carriages than Norwich. If Euston had 130 carriages, how many carriages are there in all?",
   "checkpoint": [
     {
-      "$\\boxed{460}$": 1
+      "\\boxed{460}": 1
     }
   ],
   "matchingmethod": [

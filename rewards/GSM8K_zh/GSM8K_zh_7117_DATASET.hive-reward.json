@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：玛丽是一位糖果师，她制作了12个巧克力蛋，每个重10盎司。然后她将相等数量的蛋装在4个不同的礼品盒中。不幸的是，她把其中一个盒子留在了厨房的窗台上，下午的阳光把所有的东西都融化了。她把那个盒子扔掉了。剩下的巧克力蛋的总重量是多少盎司？。",
+  "topic": "回答下面的数学问题：Marie, the confectioner, makes 12 chocolate eggs, each weighing 10 ounces. She then packs an equal number of the eggs in 4 different gift boxes. Unfortunately, she leaves one of the boxes by the kitchen window and the afternoon sun melts everything. She tosses that box out. What is the total weight, in ounces, of the remaining chocolate eggs?",
   "checkpoint": [
     {
-      "$\\boxed{90}$": 1
+      "\\boxed{90}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Harper需要为她孩子的老师购买教师感恩礼物。她儿子有3位不同的老师，她女儿有4位。如果她在礼物上花了70美元，每份礼物的价格是多少？。",
+  "topic": "回答下面的数学问题：Harper needs to buy teacher appreciation gifts for her children’s teachers.  Her son has 3 different teachers and her daughter has 4.  If she spent $70 on gifts, how much did each gift cost?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

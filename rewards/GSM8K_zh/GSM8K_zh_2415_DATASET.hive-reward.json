@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果阿曼达可以在2小时内跑完长度为2000米的足球场，以相同的速度跑完长度为10000米的跑道需要多长时间？。",
+  "topic": "回答下面的数学问题：If Amanda can run the length of a football field 2000 meters in length in 2 hours, how long would it take her to run the length of a 10000-meter track at the same speed?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

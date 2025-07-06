@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Kenny上周打了10个小时的篮球。他跑步的时间是打篮球时间的两倍，他练习吹小号的时间是跑步时间的两倍。Kenny上周练习吹小号了多少小时？。",
+  "topic": "回答下面的数学问题：Kenny played 10 hours of basketball last week. He ran for twice as long as he played basketball, and he practiced on the trumpet for twice as long as he ran. How many hours did Kenny practice on the trumpet last week?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

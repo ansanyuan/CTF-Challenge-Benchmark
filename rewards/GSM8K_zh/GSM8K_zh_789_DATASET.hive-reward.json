@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Karen的存钱罐里有32个25美分硬币。她的哥哥克里斯托弗的存钱罐里有64个25美分硬币。克里斯托弗比Karen多多少钱？。",
+  "topic": "回答下面的数学问题：Karen has 32 quarters in her piggy bank.  Her older brother Christopher has 64 quarters in his piggy bank.  How much more money does Christopher have?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

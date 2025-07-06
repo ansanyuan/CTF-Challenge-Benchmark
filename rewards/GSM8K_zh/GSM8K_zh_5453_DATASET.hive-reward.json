@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：按月计算，埃斯佩兰萨的房租是600美元，她在食物上花费的钱是房租的3/5，她的抵押账单的费用是她在食物上花费的三倍。如果她存了2000美元，并且还支付相当于她储蓄的2/5的税，计算她的每月总收入。。",
+  "topic": "回答下面的数学问题：On a monthly basis, Esperanza pays $600 in rent, 3/5 as much money on food as she pays on rent and her mortgage bill costs three times the amount of money she spends on food. If she saves $2000 and also pays the equivalent of 2/5 of her savings in taxes, calculate her gross monthly salary.",
   "checkpoint": [
     {
-      "$\\boxed{4840}$": 1
+      "\\boxed{4840}": 1
     }
   ],
   "matchingmethod": [

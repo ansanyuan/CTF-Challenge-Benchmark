@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：五名成人和两名儿童去看电影，购买了12美元的零食。他们的整个行程的总花费是76美元。如果每张儿童票价为7美元，那么成人票价是多少美元？。",
+  "topic": "回答下面的数学问题：Five adults and two children go to see a movie and buy $12 worth of concessions. The total cost of their trip is $76. If each child's ticket is $7, how much, in dollars, are the adult tickets?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

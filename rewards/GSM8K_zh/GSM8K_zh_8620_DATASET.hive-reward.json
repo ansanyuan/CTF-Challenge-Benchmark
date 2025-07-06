@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：亚当有100美元，想用它来开一个卖石头的摊位。他可以每块石头花费5美元买进，然后每块以7美元卖出。如果他把所有的钱都投资在石头摊位上，但只卖出了60%的库存，他会亏多少钱？。",
+  "topic": "回答下面的数学问题：Adam has $100 and wants to spend it to open a rock stand. He can buy rocks for $5 each and sell them for $7 each. If he invests all his money in the rock stand but only sells 60% of his inventory, how much money does he lose?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

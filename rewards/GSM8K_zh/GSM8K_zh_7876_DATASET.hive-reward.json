@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：马克正在制作四倍份量的布朗尼。正常食谱需要3杯面粉和1杯牛奶。如果面粉是2杯一袋卖的，牛奶是2杯一瓶卖的，马克需要买多少袋面粉比瓶牛奶多？。",
+  "topic": "回答下面的数学问题：Mark is making a quadruple batch of brownies. The normal recipe calls for 3 cups of flour and 1 cup milk. If flour is sold in 2-cup bags and milk is sold in 2-cup bottles, how many more bags of flour than bottles of milk does Mark have to buy?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

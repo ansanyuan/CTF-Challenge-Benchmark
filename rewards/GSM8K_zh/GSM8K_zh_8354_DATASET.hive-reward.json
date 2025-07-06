@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨拉有一根20米长的绳子。她的朋友想以每米2美元的价格买这根绳子。萨拉计划用这笔利润去买一根新绳子，商店里的价格是每米1.5美元。她买了新绳子后还剩下多少钱？。",
+  "topic": "回答下面的数学问题：Sarah has a rope that is 20 meters long. Her friend wants to buy the rope for $2 a meter. Sarah plans to use the profit to buy a new rope, which at the store costs $1.5 a meter. How much money will she have left over after she buys the new rope?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

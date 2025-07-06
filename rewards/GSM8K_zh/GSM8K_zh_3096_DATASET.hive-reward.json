@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在动物园里，有不同的动物。有5只长颈鹿和两倍多的企鹅。企鹅占动物园所有动物的20%。如果大象占所有动物的4%，那么动物园里有多少只大象？。",
+  "topic": "回答下面的数学问题：In a Zoo, there are different animals. There are 5 giraffes and twice as many penguins. Penguins make up 20% of all the animals in the Zoo. How many elephants are there in the Zoo if they make up 4% of all the animals?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

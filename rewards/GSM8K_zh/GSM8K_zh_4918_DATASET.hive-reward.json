@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：莉齐需要运送540磅的鱼，这些鱼被装在每个30磅的板条箱中。如果每个板条箱的运输费用是1.5美元，莉齐将支付多少运输费用？。",
+  "topic": "回答下面的数学问题：Lizzy has to ship 540 pounds of fish that are packed into 30-pound crates. If the shipping cost of each crate is $1.5, how much will Lizzy pay for the shipment?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：公交车司机每天平均开车2小时，一周5天。从周一到周三，他以平均时速12公里每小时行驶，从周四到周五以平均时速9公里每小时行驶。在这5天内，司机行驶了多少公里？。",
+  "topic": "回答下面的数学问题：The bus driver drives an average of 2 hours each day, 5 days a week. From Monday to Wednesday he drove at an average speed of 12 kilometers per hour, and from Thursday to Friday at an average speed of 9 kilometers per hour. How many kilometers did the driver travel during these 5 days?",
   "checkpoint": [
     {
-      "$\\boxed{108}$": 1
+      "\\boxed{108}": 1
     }
   ],
   "matchingmethod": [

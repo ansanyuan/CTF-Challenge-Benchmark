@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：七瓶苏打水的成本是21美元，而四瓶水的成本是8美元。如果大卫想买三瓶苏打水和两瓶水，那么需要花费多少钱？。",
+  "topic": "回答下面的数学问题：Seven bottles of soda cost $21.00 while 4 bottles of water cost $8. If David wants to buy 3 bottles of soda and 2 bottles of water, how much will that cost?",
   "checkpoint": [
     {
-      "$\\boxed{13}$": 1
+      "\\boxed{13}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个电子产品卖家以每部700美元的价格买了5部手机，并给了卖家4000美元的纸币。卖家会找回多少零钱？。",
+  "topic": "回答下面的数学问题：An electronics seller bought 5 phones for $700 each and gives the seller $4000 in dollar bills. How much will the seller give back in change?",
   "checkpoint": [
     {
-      "$\\boxed{500}$": 1
+      "\\boxed{500}": 1
     }
   ],
   "matchingmethod": [

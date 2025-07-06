@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Elly正在整理她父母给她买的新书架上的书。中间的两个架子每个可以放10本书。底层架子的容量是中间架子的两倍。顶层架子的容量比底层架子少5本书。如果她有110本书，她需要多少个书架来放下所有的书？。",
+  "topic": "回答下面的数学问题：Elly is organizing her books on the new bookcases her parents bought her. Each of the middle 2 shelves can hold 10 books. The bottom shelf can hold twice as many books as a middle shelf. The top shelf can hold 5 fewer books than the bottom shelf. If she has 110 books, how many bookcases does she need to hold all of them?",
   "checkpoint": [
     {
-      "$\\boxed{2}$": 1
+      "\\boxed{2}": 1
     }
   ],
   "matchingmethod": [

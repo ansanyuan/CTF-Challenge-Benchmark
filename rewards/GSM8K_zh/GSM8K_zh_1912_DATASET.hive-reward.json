@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果布鲁克将他现有的12个气球增加8个，而特蕾西将她现有的6个气球增加24个，如果特蕾西的一半气球爆破了，他们总共会有多少个气球？。",
+  "topic": "回答下面的数学问题：If Brooke adds eight balloons to his current 12, and Tracy adds 24 to her current 6, how many balloons will they have in total if Tracy pops half of her balloons?",
   "checkpoint": [
     {
-      "$\\boxed{35}$": 1
+      "\\boxed{35}": 1
     }
   ],
   "matchingmethod": [

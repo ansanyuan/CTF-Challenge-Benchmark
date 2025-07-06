@@ -2,7 +2,7 @@
   "topic": "作答以下题目，并给出正确答案：Let $N$ be the largest positive integer with the following property: reading from left to right, each pair of consecutive digits of $N$ forms a perfect square. What are the leftmost three digits of $N$ ? ",
   "checkpoint": [
     {
-      "$\\boxed{816}$": 1
+      "\\boxed{816}": 1
     }
   ],
   "matchingmethod": [

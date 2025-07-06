@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Ashley想在她的婚礼上举行香槟祝酒。她想给她的120位婚礼宾客每人倒2杯香槟。1瓶香槟有6份。她需要多少瓶香槟？。",
+  "topic": "回答下面的数学问题：Ashley wants a champagne toast at her wedding.  She wants to serve 2 glasses of champagne to each of her 120 wedding guests.  1 bottle of champagne has 6 servings.  How many bottles of champagne will she need?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：约翰每隔一天洗一次澡，每次洗澡用时10分钟，持续4周。如果他的淋浴器每分钟使用2加仑的水，那么在这4周内他使用了多少水？。",
+  "topic": "回答下面的数学问题：John takes a 10-minute shower every other day for 4 weeks. If his shower uses 2 gallons of water per minute.  How much water does he use in those 4 weeks?",
   "checkpoint": [
     {
-      "$\\boxed{280}$": 1
+      "\\boxed{280}": 1
     }
   ],
   "matchingmethod": [

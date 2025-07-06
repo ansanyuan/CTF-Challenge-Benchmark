@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：戴尔和安德鲁在一家咖啡馆吃早餐。一片吐司的价格是1英镑，鸡蛋的价格是3英镑一个。戴尔吃了2片吐司和2个鸡蛋。安德鲁吃了1片吐司和2个鸡蛋。他们的早餐一共花了多少钱？。",
+  "topic": "回答下面的数学问题：Dale and Andrew had breakfast at a cafe. A slice of toast costs £1, and eggs cost £3 each. Dale had 2 slices of toast and 2 eggs. Andrew had 1 slice of toast and 2 eggs. How much did their breakfast cost?",
   "checkpoint": [
     {
-      "$\\boxed{15}$": 1
+      "\\boxed{15}": 1
     }
   ],
   "matchingmethod": [

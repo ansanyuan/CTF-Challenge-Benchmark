@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：每过1年，人类变老1岁，而狗变老7岁。当马克斯3岁时，他3岁的狗会比他老多少岁？。",
+  "topic": "回答下面的数学问题：For every 1 year a human ages, a dog ages 7 years.  When Max is 3, how much older, in dog years, will his 3-year-old dog be?",
   "checkpoint": [
     {
-      "$\\boxed{18}$": 1
+      "\\boxed{18}": 1
     }
   ],
   "matchingmethod": [

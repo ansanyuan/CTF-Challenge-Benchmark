@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在复活节星期天，Cindy去市公园参加复活节彩蛋寻找活动，最后她的篮子里装满了彩蛋。她有5个绿色的，蓝色的是绿色的两倍，粉色的比蓝色的少一个，黄色的是粉色的三分之一。Cindy总共有多少个彩蛋？。",
+  "topic": "回答下面的数学问题：On Easter Sunday Cindy went to the city park to participate in the Easter Egg Hunt, and ended up with a basket full of eggs. She had 5 green ones, twice as many blue ones as green ones, one fewer pink eggs than blue eggs, and one-third as many yellow eggs as pink eggs. How many eggs did Cindy have altogether?",
   "checkpoint": [
     {
-      "$\\boxed{27}$": 1
+      "\\boxed{27}": 1
     }
   ],
   "matchingmethod": [

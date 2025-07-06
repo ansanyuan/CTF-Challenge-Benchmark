@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：五家食品公司赞助了当地的食品银行。福斯特农场捐赠了45只装扮的鸡；美国高峰公司捐赠的瓶装水数量是福斯特农场捐赠的装扮鸡数量的两倍；霍尔默公司捐赠的装扮鸡数量是福斯特农场的三倍；布丁屠夫公司捐赠的装扮鸡数量是霍尔默公司捐赠数量的三分之一；德尔蒙特食品公司捐赠的瓶装水比美国高峰公司少30瓶。这些公司总共捐赠了多少食品物品？。",
+  "topic": "回答下面的数学问题：Five food companies sponsored a local food bank. Foster Farms donated 45 dressed chickens; American Summits donated twice the number of bottled water than the number of dressed chicken donated by Foster Farms; Hormel donated three times the number of dressed chickens that Foster Farms donated; Boudin Butchers donated one-third of the number of dressed chickens that Hormel donated; Del Monte Foods donated 30 fewer bottles of water than American Summits. How many food items did the companies donate in total?",
   "checkpoint": [
     {
-      "$\\boxed{375}$": 1
+      "\\boxed{375}": 1
     }
   ],
   "matchingmethod": [

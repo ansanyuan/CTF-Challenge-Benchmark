@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：有48人乘坐一辆公交车。在第一站，有8名乘客下车，然后有下车人数5倍的乘客上车。在第二站，有21名乘客下车，上车的乘客是下车乘客的三分之一。在第二站之后，有多少乘客仍在公交车上？。",
+  "topic": "回答下面的数学问题：48 people are riding a bus. On the first stop, 8 passengers get off, and 5 times as many people as the number who got off from the bus get into the bus. On the second stop 21, passengers get off and 3 times fewer passengers get on. How many passengers are riding the bus after the second stop?",
   "checkpoint": [
     {
-      "$\\boxed{66}$": 1
+      "\\boxed{66}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：詹姆斯的电脑上有两个浏览器。在每个浏览器中，他打开了三个窗口，每个窗口有十个标签。他在所有浏览器中一共打开了多少个标签？。",
+  "topic": "回答下面的数学问题：James had two browsers on his computer. In each browser, he opened three windows, each with ten tabs. What's the total number of tabs he opened in all the browsers together?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

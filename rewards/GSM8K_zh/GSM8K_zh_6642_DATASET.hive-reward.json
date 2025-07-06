@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一只巨大的蜘蛛被发现。它的重量是之前最大的蜘蛛的2.5倍，之前最大的蜘蛛重6.4盎司。它的每条腿的横截面积为0.5平方英寸。每条腿承受多少盎司每平方英寸的压力？。",
+  "topic": "回答下面的数学问题：A giant spider is discovered.  It weighs 2.5 times the previous largest spider, which weighed 6.4 ounces.  Each of its legs has a cross-sectional area of .5 square inches.  How much pressure in ounces per square inch does each leg undergo?",
   "checkpoint": [
     {
-      "$\\boxed{4}$": 1
+      "\\boxed{4}": 1
     }
   ],
   "matchingmethod": [

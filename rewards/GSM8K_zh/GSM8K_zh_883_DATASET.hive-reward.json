@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个不寻常的自行车前轮有20个辐条，后轮的辐条数是前轮的两倍。这辆自行车有多少个辐条？。",
+  "topic": "回答下面的数学问题：An unusual bicycle has 20 spokes on the front wheel and twice as many spokes on the back wheel. How many spokes does the bicycle have?",
   "checkpoint": [
     {
-      "$\\boxed{60}$": 1
+      "\\boxed{60}": 1
     }
   ],
   "matchingmethod": [

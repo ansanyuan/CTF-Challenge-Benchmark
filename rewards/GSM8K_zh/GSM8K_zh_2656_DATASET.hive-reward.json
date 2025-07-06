@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Trey正在他的房子周围挂墙饰。他用了三分之二的饰物每个用一个钉子，剩下的三分之二用了两分之一的图钉，其他的用了粘条。他用了15根粘条。Trey用了多少个钉子？。",
+  "topic": "回答下面的数学问题：Trey is hanging wall decorations around his house. He uses a nail for each of two-thirds of them, a thumbtack for each of two-fifths of the rest, and a sticky strip for each of the other decorations. He used 15 sticky strips. How many nails did Trey use?",
   "checkpoint": [
     {
-      "$\\boxed{50}$": 1
+      "\\boxed{50}": 1
     }
   ],
   "matchingmethod": [

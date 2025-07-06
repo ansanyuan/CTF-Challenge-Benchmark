@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：肖恩收集了40块普通的卵石。他把9块卵石涂成了红色，13块卵石涂成了蓝色。然后他把剩下的卵石平均分成3组，并把它们涂成了紫色、黄色和绿色。蓝色卵石和黄色卵石的数量之间的差异是多少？。",
+  "topic": "回答下面的数学问题：Shawn collected 40 plain pebbles. He painted 9 pebbles red and 13 pebbles blue. He then divided the remaining pebbles equally into 3 groups, and painted them purple, yellow, and green. What is the difference between the number of blue and yellow pebbles?",
   "checkpoint": [
     {
-      "$\\boxed{7}$": 1
+      "\\boxed{7}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：医生告诉巴里要连续服用180天的维生素D3来帮助保护他免受感染。药房只出售含有60粒胶囊的维生素D3瓶装，每日服用量为2粒。巴里需要购买多少瓶才能有足够的服用量持续180天？。",
+  "topic": "回答下面的数学问题：The doctor told Barry to take vitamin D3 for 180 days to help protect him from infections. The pharmacy only sold vitamin D3 in bottles containing 60 capsules, with a daily serving size of 2 capsules.  How many bottles would Barry need to buy to have enough servings to last for 180 days?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

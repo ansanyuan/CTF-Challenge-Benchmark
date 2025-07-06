@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一个面包师正在比较当天的销售额和他的日常平均销售额。他通常卖出20个糕点和10个面包。今天，他卖出了14个糕点和25个面包。如果糕点售价为2美元，面包售价为4美元，面包师的日常平均销售额和今天的总销售额之间的差额是多少美元？。",
+  "topic": "回答下面的数学问题：A baker is comparing the day’s sales to his daily average. He usually sells 20 pastries and 10 loaves of bread. Today, he sells 14 pastries and 25 loaves of bread. If pastries are sold for $2 and loaves of bread are sold for $4, what is the difference, in dollars, between the baker’s daily average and total for today?",
   "checkpoint": [
     {
-      "$\\boxed{48}$": 1
+      "\\boxed{48}": 1
     }
   ],
   "matchingmethod": [

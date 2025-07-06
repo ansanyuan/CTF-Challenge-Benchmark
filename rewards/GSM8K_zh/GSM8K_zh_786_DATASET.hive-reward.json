@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一个特定的星期，法蒂玛的餐厅为25人提供了食物和饮料，其中3/5的人来买咖啡。餐厅里有多少人没有买咖啡？。",
+  "topic": "回答下面的数学问题：On a particular week, Fatima's restaurant served 25 people food and drinks, and 3/5 of that number came to buy coffee. How many people did not buy coffee in the restaurant?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

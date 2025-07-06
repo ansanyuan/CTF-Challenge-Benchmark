@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：萨拉想给自己买一件新夹克和两双鞋。她想要的夹克价格是30美元，每双鞋的价格是20美元。萨拉四次照看邻居的孩子，每次照看他们赚5美元。她的父母每次给她割草时支付4美元。如果萨拉在开始照顾孩子之前已经存了10美元，那么在她能买得起夹克和鞋子之前，她必须割多少次草？。",
+  "topic": "回答下面的数学问题：Sara wants to buy herself a new jacket and 2 pairs of shoes. The jacket she wants costs $30 and each pair of shoes cost $20. Sara babysits the neighbor's kids 4 times, earning $5 each time she babysits them. Her parents pay her $4 each time she mows the lawn. If Sara already had $10 saved before she started babysitting, how many times must she mow the lawn before she can afford the jacket and shoes?",
   "checkpoint": [
     {
-      "$\\boxed{10}$": 1
+      "\\boxed{10}": 1
     }
   ],
   "matchingmethod": [

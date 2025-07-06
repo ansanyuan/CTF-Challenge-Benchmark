@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：一份爆米花有30粒。贾里德可以吃90粒爆米花，他的另外三个朋友每人可以吃60粒爆米花。贾里德应该为他们所有人订购多少份爆米花？。",
+  "topic": "回答下面的数学问题：There are 30 pieces of popcorn in a serving. Jared can eat 90 pieces of popcorn and his three other friends can each eat 60 pieces of popcorn. How many servings of popcorn should Jared order for all of them?",
   "checkpoint": [
     {
-      "$\\boxed{9}$": 1
+      "\\boxed{9}": 1
     }
   ],
   "matchingmethod": [

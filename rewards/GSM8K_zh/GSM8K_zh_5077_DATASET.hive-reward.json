@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：在一场拍卖活动中，一台电视的价格为500美元，其价格增加了其初始价格的2/5倍。一部手机的价格为400美元，也比其原价增加了40%。如果贝瑟尼把这两件物品带到拍卖会上，计算她在拍卖会上出售物品后收到的总金额。。",
+  "topic": "回答下面的数学问题：At an auction event, the price of a TV, whose cost was $500, increased by 2/5 times its initial price. The price of a phone, which was $400, also increased by 40% from its original price. If Bethany had taken both items to the auction, calculate the total amount she received for the items after the sale at the auction.",
   "checkpoint": [
     {
-      "$\\boxed{1260}$": 1
+      "\\boxed{1260}": 1
     }
   ],
   "matchingmethod": [

@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Miguel每周用2个画图本。如果一个画图本有30张纸，那么他每个月用多少张纸？。",
+  "topic": "回答下面的数学问题：Miguel uses 2 pads of paper a week for his drawing. If there are 30 sheets of paper on a pad of paper, how many sheets of paper does he use every month?",
   "checkpoint": [
     {
-      "$\\boxed{240}$": 1
+      "\\boxed{240}": 1
     }
   ],
   "matchingmethod": [

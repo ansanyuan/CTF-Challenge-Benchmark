@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：安妮的母猫重2千克。她的公猫重她的两倍。如果安妮要抱着它们两只，她一共抱着多少千克？。",
+  "topic": "回答下面的数学问题：Anne's female cat weighs 2 kilograms. Her male cat is two times heavier.  If Anne is going to carry both of them, how many kilograms is she carrying?",
   "checkpoint": [
     {
-      "$\\boxed{6}$": 1
+      "\\boxed{6}": 1
     }
   ],
   "matchingmethod": [

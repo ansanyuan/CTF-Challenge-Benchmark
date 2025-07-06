@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Stephanie正在计划一周要做的晚餐，并需要计算她应该在杂货店购买多少每种食材。她要做三道食谱，其中低钠酱油是主要食材。一瓶低钠酱油容量为16盎司。1杯等于8盎司。Stephanie要做的第一道食谱需要2杯低钠酱油。第二道食谱需要1杯。第三道食谱需要3杯。如果Stephanie只能购买1整瓶酱油，无论她确切需要多少，Stephanie应该购买多少瓶低钠酱油以满足所有三道食谱的需要？。",
+  "topic": "回答下面的数学问题：Stephanie is planning dinners to cook for the week and needs to figure out how much of each ingredient she should buy at the grocery store. She is making three recipes that call for lower sodium soy sauce as a main ingredient. One bottle of lower sodium soy sauce holds 16 ounces. There are 8 ounces in 1 cup. The first recipe Stephanie is going to cook calls for 2 cups of lower sodium soy sauce. The second recipe calls for 1 cup. The third recipe calls for 3 cups. If Stephanie can only buy 1 whole bottle of soy sauce no matter how much she needs exactly, how many bottles of lower sodium soy sauce should Stephanie buy to allow for all three recipes?",
   "checkpoint": [
     {
-      "$\\boxed{3}$": 1
+      "\\boxed{3}": 1
     }
   ],
   "matchingmethod": [

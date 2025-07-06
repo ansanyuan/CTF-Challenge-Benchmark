@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：迈克本周总共赚了160美元的工资。他先收到了第一份工作的工资，然后后来收到了他第二份工作的工资，他在第二份工作中每周工作12小时。如果他的第二份工作每小时支付9美元，那么迈克从他的第一份工作中收到了多少美元？。",
+  "topic": "回答下面的数学问题：Mike has earned a total of $160 in wages this week. He received the wages for his first job, then later received the wages from his second job where he works 12 hours a week. If his second job pays $9 per hour then how much money, in dollars, did Mike receive from his first job?",
   "checkpoint": [
     {
-      "$\\boxed{52}$": 1
+      "\\boxed{52}": 1
     }
   ],
   "matchingmethod": [

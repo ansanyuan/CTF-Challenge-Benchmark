@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：佛罗里达高尔夫球场上有4只鳄鱼。如果鳄鱼数量每六个月翻一番，一年后会有多少只鳄鱼？。",
+  "topic": "回答下面的数学问题：There are 4 alligators living on a golf course in Florida. If the number of alligators doubles every six months, how many alligators will there be at the end of a year?",
   "checkpoint": [
     {
-      "$\\boxed{16}$": 1
+      "\\boxed{16}": 1
     }
   ],
   "matchingmethod": [

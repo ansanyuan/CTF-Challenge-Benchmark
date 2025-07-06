@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：Mack想要数数，决定在接下来的一周内数数看天空中有多少只鸟。在第一天和第二天，Mack总共看到了50只鸟。第三天他一只也没看到。第四天和第五天，他看到了120只鸟。第六天他看到了20只，第七天他看到了90只。平均每天Mack看到了多少只鸟？。",
+  "topic": "回答下面的数学问题：Mack wants to count things and decided to count how many birds there are in the sky over the next week. On days one and two, Mack saw a total of 50 birds. On day three he saw none. On days four and five, he saw 120 birds. On day six he saw 20 and on day seven he saw 90. On average, how many birds did Mack see in a day?",
   "checkpoint": [
     {
-      "$\\boxed{40}$": 1
+      "\\boxed{40}": 1
     }
   ],
   "matchingmethod": [

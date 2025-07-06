@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：如果比利和珍妮各点一份20美元的牛排和一杯5美元的饮料，如果他想支付两人总消费的20%小费的80%，比利需要支付多少小费？。",
+  "topic": "回答下面的数学问题：If Billy and Jenny each order a $20 steak along with a $5 drink, how much will Billy have to pay in tips if he wants to cover 80% of a 20% tip for the two of them?",
   "checkpoint": [
     {
-      "$\\boxed{8}$": 1
+      "\\boxed{8}": 1
     }
   ],
   "matchingmethod": [

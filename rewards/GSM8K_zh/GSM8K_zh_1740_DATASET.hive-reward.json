@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：班级计划去动物园参加实地考察。租一辆校车的费用是100美元。每名学生的门票费用是10美元。老师可以免费进入。如果班级有350美元的预算，可以有多少学生参加实地考察？。",
+  "topic": "回答下面的数学问题：The class plans to take a field trip to the zoo. The cost to rent a school bus is $100. The cost of admission is $10 per student. The teacher is allowed in for free. If the class has a budget of $350, how many students can go on the field trip?",
   "checkpoint": [
     {
-      "$\\boxed{25}$": 1
+      "\\boxed{25}": 1
     }
   ],
   "matchingmethod": [

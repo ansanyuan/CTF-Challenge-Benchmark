@@ -1,8 +1,8 @@
 {
-  "topic": "回答下面的数学问题：当弗雷达把罐装西红柿煮成酱汁时，它们会失去一半的体积。她使用的每个16盎司的西红柿罐头里含有三个西红柿。弗雷达上一次做的番茄酱制成了32盎司的酱汁。弗雷达用了多少个西红柿？。",
+  "topic": "回答下面的数学问题：When Freda cooks canned tomatoes into sauce, they lose half their volume. Each 16 ounce can of tomatoes that she uses contains three tomatoes. Freda’s last batch of tomato sauce made 32 ounces of sauce. How many tomatoes did Freda use?",
   "checkpoint": [
     {
-      "$\\boxed{12}$": 1
+      "\\boxed{12}": 1
     }
   ],
   "matchingmethod": [
