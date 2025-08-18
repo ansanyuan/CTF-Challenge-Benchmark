@@ -17,7 +17,7 @@
             "(dq*e=1+k(q-1))|(dq\\s*\\*\\s*e\\s*≡\\s*1\\s*mod\\s*(q-1))|(Bézout\\s*identity\\s*for\\s*dq)": 0.1
         },
         {
-            "(在[1,e)的范围遍历k)|(iterate\\s*k\\s*from\\s*1\\s*to\\s*e\\-1)|(search\\s*k\\s*in\\s*range\\s*\\[1,\\s*e\\))": 0.2
+            "(在\\[1,e\\)的范围遍历k)|(iterate\\s*k\\s*from\\s*1\\s*to\\s*e\\-1)|(search\\s*k\\s*in\\s*range\\s*\\[1,\\s*e\\))": 0.2
         }
     ],
     "matchingmethod": [
