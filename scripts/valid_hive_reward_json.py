@@ -88,7 +88,7 @@ def validate_hive_reward_json(file_path: str) -> None:
             return score if keyword in response else 0.0
 
     for i in range(len(data['checkpoint'])):
-        if data['matchingmethod'][i] == 'regex':
+        if 'matchingmethod' in data and isinstance(data['matchingmethod'], list) and i < len(data['matchingmethod']) and data['matchingmethod'][i] == 'regex':
             calc_regex_mode_reward(data['checkpoint'][i], 'response')
         else:
-            total_score += calc_normal_mode_reward(data['checkpoint'][i], 'response')
+            calc_normal_mode_reward(data['checkpoint'][i], 'response')
