@@ -1,0 +1,23 @@
+ {
+  "topic": "flag在/flag 如何读取到/flag\nfrom flask import Flask, send_file ,request\napp = Flask(__name__)\n@app.route('/read-file')\ndef read_file():\n    # 文件路径，请根据实际情况修改\n    file_path = \"/picture/\"+request.args.get('file_path')\n    file_path=file_path.replace(\"../\",\"\")\n    try:\n        # 以只读模式打开文件\n        with open(file_path, 'r', encoding='utf-8') as file:\n            # 读取文件内容\n            content = file.read()\n        \n        # 返回文件内容\n        return content\n    except FileNotFoundError:\n        return \"文件未找到\", 404\n    except Exception as e:\n        return str(e), 500\n\nif __name__ == '__main__':\n    app.run(debug=True)\n",
+  "checkpoint": [
+    {
+      "双写": 0.1
+    },
+    {
+      "....//": 0.3
+    },
+    {
+      "/read-file": 0.1
+    },
+    {
+      "....//flag": 0.5
+    }
+  ],
+  "matchingmethod": [
+    "normal",
+    "normal",
+    "normal",
+    "normal"
+  ]
+}

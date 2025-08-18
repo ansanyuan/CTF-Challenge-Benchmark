@@ -1,0 +1,8 @@
+venv/
+.idea
+.pytest_cache
+build
+*.egg-info
+tmp
+.vscode
+.pytest_cache

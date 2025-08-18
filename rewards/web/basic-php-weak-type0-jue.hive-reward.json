@@ -1,0 +1,23 @@
+{
+    "topic": "这是一段判断中奖的代码\nreq参数为一个json字符串,找出其中的关键漏洞点\n<?\nfunction buy($req)\n{\n    $req=json_decode($req);\n    $money = $_SESSION['money'];\n    $numbers = $req['numbers'];\n    $win_numbers = random_win_nums();\n    $same_count = 0;\n    for ($i = 0; $i < 7; $i++) {\n        if ($numbers[$i] == $win_numbers[$i]) {\n            $same_count++;\n        }\n    }\nreturn  $same_count;\n}",
+    "checkpoint": [
+      {
+        "php 弱类型": 0.3
+      },
+      {
+        "弱类型比较": 0.2
+      },
+      {
+        "$numbers[$i] == $win_numbers[$i]": 0.3
+      },
+      {
+        "TRUE": 0.2
+      }
+    ],
+    "matchingmethod": [
+      "normal",
+      "normal",
+      "normal",
+      "normal"
+    ]
+  }

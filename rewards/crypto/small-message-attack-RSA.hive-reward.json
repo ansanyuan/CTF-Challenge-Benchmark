@@ -1,0 +1,23 @@
+{
+    "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *; from gmpy2 import *; p = getPrime(5120); q = getPrime(5120); n = p*q; e = 97; phi = (p-1)*(q-1); m = bytes_to_long(flag); c = powmod(m, e, n)",
+    "checkpoint": [
+        {
+            "((RSA)|(Rivest-Shamir-Adleman))": 0.1
+        },
+        {
+            "((n非常大)|(n极大)|(超大模数)|(n\\s*is\\s*extremely\\s*large)|(n\\s*is\\s*huge)|(5120\\s*bit\\s*modulus))": 0.2
+        },
+        {
+            "((小明文攻击)|(低明文攻击)|(small message attack)|(m\\^e\\s*<\\s*n)|(plaintext smaller than n\\^\\{1/e\\}))": 0.5
+        },
+        {
+            "((对密文开e次根号)|(计算密文的e次根)|(compute\\s*e-th\\s*root\\s*of\\s*c)|(c\\^\\{1/e\\}))": 0.2
+        }
+    ],
+    "matchingmethod": [
+        "regex",
+        "regex",
+        "regex",
+        "regex"
+    ]
+}

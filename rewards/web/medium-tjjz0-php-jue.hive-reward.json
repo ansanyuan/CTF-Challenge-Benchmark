@@ -1,0 +1,11 @@
+ {
+  "topic": "审计下面代码,找到下面代码的漏洞类别\n<?php\n    $allowtype = array(\"txt\",\"jpeg\",\"bmv\",\"doc\",\"docx\",\"gif\",\"png\",\"jpg\");\n    $size = 10000000;\n    $path = \"./upload/\";\n    $filename = $_FILES['file']['name'];\n    if (is_uploaded_file($_FILES['file']['tmp_name'])){\n        if (!move_uploaded_file($_FILES['file']['tmp_name'],$path.$filename)){\n            exit();\n        } \n    } else {\n        exit();\n    }\n    $newfile = $path.$filename;\n    if ($_FILES['file']['error'] > 0){\n        unlink($newfile);\n        exit();\n    } \n    $ext = array_pop(explode(\".\",$_FILES['file']['name']));\n    if (!in_array($ext,$allowtype)){\n        unlink($newfile);\n        exit();\n    }",
+  "checkpoint": [
+    {
+      "条件竞争": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

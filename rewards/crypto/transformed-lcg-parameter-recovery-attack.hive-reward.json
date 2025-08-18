@@ -1,0 +1,27 @@
+{
+    "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *; flag = b'flag{******}'; class LCG:; def __init__(self, seed, a, b, m):; self.seed = seed; self.a = a; self.b = b; self.m = m; def generate(self):; self.seed = self.a * (self.seed - self.b) % self.m; return self.seed; lcg = LCG(bytes_to_long(flag), getPrime(256), getPrime(256), getPrime(256)); for i in range(getPrime(16)):; lcg.generate(); print(lcg.generate()); print(lcg.generate()); print(lcg.generate()); print(lcg.generate()); print(lcg.generate())",
+    "checkpoint": [
+        {
+            "((LCG)|(Linear Congruential Generator))": 0.1
+        },
+        {
+            "((转化为标准LCG|把-ab当作整体)|(convert to standard LCG form)|(treat -ab as a single constant)|(transform to X_{i+1} = aX_i + c mod m))": 0.2
+        },
+        {
+            "((利用m|((X_(i+2) - X_(i+1))*(X_(i) - X_(i -1)) - (X_(i+1) - X_i)^2)的关系求解m的倍数)|(derive multiple of m using ((X_{i+2} - X_{i+1})(X_i - X_{i-1}) - (X_{i+1} - X_i)^2) ≡ 0 mod m)|(solve for m using LCG output differences))": 0.5
+        },
+        {
+            "((消除m倍数的因子)|(remove factors from m multiple)|(reduce multiple to find m))": 0.1
+        },
+        {
+            "((还原其他参数)|(recover remaining parameters)|(derive a and b from m))": 0.1
+        }
+    ],
+    "matchingmethod": [
+        "regex",
+        "regex",
+        "regex",
+        "regex",
+        "regex"
+    ]
+}

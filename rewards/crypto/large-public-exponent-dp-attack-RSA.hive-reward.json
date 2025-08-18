@@ -1,0 +1,43 @@
+{
+    "topic": "请分析以下ctf题目: from Crypto.Util.number import *; flag = b'flag{******}' + b'1'*80; p = getPrime(512); q = getPrime(512); n = p*q; e = getPrime(128); d = inverse(e, (p-1)*(q-1)); dp = d % (p-1); m = bytes_to_long(flag); c = pow(m, e, n)",
+    "checkpoint": [
+        {
+            "(RSA)|(Rivest-Shamir-Adleman)": 0.1
+        },
+        {
+            "(dp泄漏)|(dp\\s*disclosure)|(private\\s*exponent\\s*mod\\s*(p-1)\\s*leak)": 0.1
+        },
+        {
+            "(有e)|(public\\s*exponent\\s*available)|(e\\s*=\\s*getPrime\\(128\\))": 0.1
+        },
+        {
+            "(dp泄漏攻击)|(RSA\\s*dp\\s*attack)|(private\\s*key\\s*recovery\\s*via\\s*dp)": 0.1
+        },
+        {
+            "(e比较大)|(large\\s*public\\s*exponent)|(e\\s*is\\s*128-bit)": 0.1
+        },
+        {
+            "(选取一个数)|(choose\\s*a\\s*random\\s*integer)|(select\\s*a\\s*∈\\s*Z)": 0.01
+        },
+        {
+            "(a^e*dp≡a^e*dpmodp−1≡a(modp))|(a\\^e\\s*\\*\\s*dp\\s*≡\\s*a\\s*mod\\s*p)|(RSA\\s*dp\\s*property)": 0.3
+        },
+        {
+            "(a^e*dp−a)整除p|((a^e*dp−a)|p)|(p\\s*divides\\s*(a\\^e\\s*\\*\\s*dp\\s*-\\s*a))": 0.18
+        },
+        {
+            "(求(a^e*dp−a)与n的公因数)|(compute\\s*gcd\\((a\\^e\\s*\\*\\s*dp\\s*-\\s*a),\\s*n\\))|(factor\\s*recovery\\s*via\\s*gcd)": 0.01
+        }
+    ],
+    "matchingmethod": [
+        "regex",
+        "regex",
+        "regex",
+        "regex",
+        "regex",
+        "regex",
+        "regex",
+        "regex",
+        "regex"
+    ]
+}

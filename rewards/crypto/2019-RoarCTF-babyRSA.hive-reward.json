@@ -1,0 +1,19 @@
+{
+    "topic": "请帮我分析如下ctf题目 :  import sympy; import random; def myGetPrime():; A= getPrime(513); print(A); B=A-random.randint(1e3,1e5); print(B); return sympy.nextPrime((B!)%A); p=myGetPrime(); q=myGetPrime(); r=myGetPrime(); n=p*q*r; c=pow(flag,e,n)",
+    "checkpoint": [
+        {
+            "(RSA)|(Rivest-Shamir-Adleman)": 0.1
+        },
+        {
+            "(威尔逊定理)|(Wilson's theorem)|((p-1)! ≡ -1 mod p)": 0.5
+        },
+        {
+            "(A-2)*⋯*(B!)≡1(mod  A)|(A-2)! ≡ 1/B! mod A|(factorial modular inversion using Wilson's theorem)": 0.4
+        }
+    ],
+    "matchingmethod": [
+        "regex",
+        "regex",
+        "regex"
+    ]
+}

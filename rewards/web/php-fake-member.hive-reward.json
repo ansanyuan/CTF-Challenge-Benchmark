@@ -1,0 +1,11 @@
+ {
+  "topic": "绕过 __wakeup\nclass Test {\n    private $a;\n    private $b;\n    \n    public function __wakeup() {\n        exit(\"aaa\");\n    }\n}\n",
+  "checkpoint": [
+    {
+      "伪属性绕过": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

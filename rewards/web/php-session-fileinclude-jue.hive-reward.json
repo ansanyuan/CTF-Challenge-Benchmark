@@ -1,0 +1,23 @@
+ {
+  "topic": "审计下面代码如何获取服务器shell\n<?php\nini_set('session.save_path','/tmp/session');\nsession_start();\n$sess=$_GET[\"sess\"];\n\n$incl=$_GET[\"incl\"];\n\ninclude($incl);\n$_SESSION[\"sess\"]=$sess;",
+  "checkpoint": [
+    {
+      "ini_set('session.save_path','/tmp/session');": 0.3
+    },
+    {
+      "eval": 0.1
+    },
+    {
+      "?incl=/tmp/session": 0.5
+    },
+    {
+      "session": 0.1
+    }
+  ],
+  "matchingmethod": [
+    "normal",
+    "normal",
+    "normal",
+    "normal"
+  ]
+}

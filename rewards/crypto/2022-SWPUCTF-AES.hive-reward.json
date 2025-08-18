@@ -1,0 +1,19 @@
+{
+    "topic": "请帮我分析如下ctf题目 : import base64; from Crypto.Cipher import AES; from flag import getflag; iv = '1229002635654321'; key = 'nssctfneedcrypto'; data = getflag(); def pad(data):; pad_data = data; for i in range(0, 16 - len(data)):; pad_data = pad_data + ' '; return pad_data; def AES_en(key, data):; if len(data) < 16:; data = pad(data); AES_obj = AES.new(key.encode(\"utf-8\"), AES.MODE_CBC, iv.encode(\"utf-8\")); AES_en_str = AES_obj.encrypt(data.encode(\"utf-8\")); AES_en_str = base64.b64encode(AES_en_str); AES_en_str = AES_en_str.decode(\"utf-8\"); return AES_en_str; data = AES_en(key, data); print(data)",
+    "checkpoint": [
+        {
+            "((AES)|(Advanced Encryption Standard))": 0.1
+        },
+        {
+            "((pad部分用空格补全解密时用rstrip()删除末尾空格)|(space padding with rstrip() for decryption)|(remove trailing spaces via rstrip()))": 0.2
+        },
+        {
+            "((AES-CBC)|(AES in CBC mode)|(Cipher Block Chaining mode for AES))": 0.7
+        }
+    ],
+    "matchingmethod": [
+        "regex",
+        "regex",
+        "regex"
+    ]
+}
