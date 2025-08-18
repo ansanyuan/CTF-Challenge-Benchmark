@@ -1,4 +1,4 @@
- {
+{
   "topic": "from flask import Flask,request\n\napp = Flask(__name__)\nconfig = {'SECRET_KEY': 'f0ma7_t3st'}\n\nclass s:\n    def __init__(self):\n        self.times=0\n\ntimes = s()\n@app.route('/')\ndef py():\n    query = request.args.get('name')\n    times.times+=1\n    return (query+\"hi {t.times}\").format(t=times)\n\nif __name__ == '__main__':\n    app.run(debug=True)\n",
   "checkpoint": [
     {

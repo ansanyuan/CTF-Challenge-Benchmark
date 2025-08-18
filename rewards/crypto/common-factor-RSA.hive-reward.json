@@ -8,7 +8,7 @@
             "(共享|相同)素数|shared\\s*prime|common\\s*prime|n\\d+\\s*=\\s*[^*]+\\*q.*?n\\d+\\s*=\\s*[^*]+\\*q": 0.4
         },
         {
-            "(最大|公)公因数|greatest\\s*common\\s*divisor|gcd\\s*\\([^)]+\\)|\\gcd\\s*\\([^)]+\\)": 0.5
+            "(最大|公)公因数|greatest\\s*common\\s*divisor|gcd\\s*\\([^)]+\\)|gcd\\s*\\([^)]+\\)": 0.5
         }
     ],
     "matchingmethod": [
