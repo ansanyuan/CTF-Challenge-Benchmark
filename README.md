@@ -1,4 +1,4 @@
-# HIVE-REWARD-DATASET
+# CTF-CHALLENGE-BENCHMARK
 
 此项目为`HIVE-0`大模型的子项目，意在以真实ctf题目来通过RL(强化学习)对`HIVE-0`进行矫正，并在其中选取适量题目作为`CTF-CHALLENGE BENCHMARK`测试基准集开源发布。
 
