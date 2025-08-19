@@ -1,6 +1,8 @@
 
 # Ctf Challenge Benchmark
 
+![](img/2025-08-19-17-06-44.png)
+
 CTFChallenge Benchmark is a comprehensive evaluation suite designed to assess large language models (LLMs) in the domain of cybersecurity. The benchmark leverages high-quality, real-world CTF (Capture The Flag) challenges collected from past competitions across the internet, ensuring a rigorous and practical test of a model's security reasoning capabilities.
 
 Unlike traditional objective scoring methods—which rely on exact answer matching and are prone to "answer surfing" (where models exploit memorization rather than demonstrate genuine understanding)—this benchmark employs a subjective scoring system. Evaluations are conducted by human experts who assess the reasoning process, methodology, and partial progress, minimizing the risk of models achieving high scores through rote memorization.
