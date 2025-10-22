@@ -1,7 +1,29 @@
 # pyproject.toml
+[project]
+name = "CTF-Challenge-Benchmark"
+version = "0.1.0"
+description = "一个基于CTF的LLM Benchmark"
+readme = "README.md"
+requires-python = ">=3.6"
+authors = [{name = "stupidfish001"}]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "loguru>=0.7.3",
+    "openai>=0.8.0",
+    "pydantic>=1.7.4",
+    "tqdm>=4.64.1",
+    "typer>=0.10.0",
+]
 [build-system]
 requires = [
     "setuptools",
     "setuptools_scm[toml]>=6.2.0"
 ]
 build-backend = "setuptools.build_meta"
+
+[project.scripts]
+ccb = "setup.main:entry"

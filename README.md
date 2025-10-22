@@ -11,6 +11,19 @@ CTF problems are chosen as the foundation of this benchmark because they natural
 
 By focusing on CTF challenges, CTFChallenge Benchmark provides a more objective, meaningful, and realistic assessment of a language model’s true cybersecurity proficiency.
 
+## start
+
+```shell
+uv venv
+source .venv/bin/activate
+uv pip install .
+```
+
+then
+
+```shell
+ccb --base-url <base_url> --api-key <api_key> --model-name <model_name> --max-concurrent-requests 25
+```
 
 ## Badges
 
