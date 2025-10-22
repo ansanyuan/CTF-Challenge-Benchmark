@@ -6,3 +6,4 @@ build
 tmp
 .vscode
 .pytest_cache
+*.pyc
