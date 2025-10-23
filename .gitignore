@@ -7,3 +7,4 @@ tmp
 .vscode
 .pytest_cache
 *.pyc
+dump.json
