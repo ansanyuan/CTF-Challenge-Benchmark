@@ -47,7 +47,7 @@ async def chat_to_conversation(
         **kwargs: Any
 ) -> None:
     """
-    使用 LLM 对 conversation.hive_reward_dataset.topic 进行提问，
+    使用 llm(AsyncOpenAI) 对 conversation.hive_reward_dataset.topic 进行提问，
     将生成的回复写入 conversation.response（原地修改）。
 
     Args:

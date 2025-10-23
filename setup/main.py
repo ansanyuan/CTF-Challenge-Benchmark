@@ -19,7 +19,7 @@ app = typer.Typer(
 
 @app.command()
 def benchmark(
-        datasets_path: Path = Path("../rewards"),
+        datasets_path: Path = Path("rewards"),
         model_name: str = "hive",
         api_key: str = typer.Option(..., envvar="OPENAI_API_KEY"),
         base_url: Optional[str] = typer.Option(None),
@@ -47,7 +47,7 @@ def benchmark(
         )
     )
     evaluate(conversations)
-    with open("../dump.json", "w", encoding="utf-8") as f:
+    with open("dump.json", "w", encoding="utf-8") as f:
         json.dump(conversations.model_dump(), f, ensure_ascii=False, indent=2)
     eva_score = 0
     for conversation in conversations.conversations:
