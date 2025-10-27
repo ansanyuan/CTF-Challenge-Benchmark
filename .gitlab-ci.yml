@@ -1,6 +1,6 @@
 include:
   - project: 'kxb/ci_template'
-    ref: 'main'
+    ref: ${CI_COMMIT_REF_NAME}
     file: 'docker/kaniko.yml'
 variables:
   REGISTRY_PROJECT_PATH: "gitlab/CCB"
