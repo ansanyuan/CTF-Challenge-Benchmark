@@ -11,13 +11,4 @@ variables:
   IMAGE_TAG: $CI_COMMIT_SHORT_SHA
   REGISTRY_HOST_IP: "10.10.3.14"
   CACHE_REPO: "$CI_REGISTRY/$REGISTRY_PROJECT_PATH/cache"
-  KANIKO_EXTRA_ARGS: "--build-arg FUCKCACHE=$CI_PIPELINE_ID"
 
-build-image-k8s:
-  before_script:
-    - |
-      if [ -n "$SSH_PRI_KEY" ]; then
-        mkdir -p ci
-        echo "$SSH_PRI_KEY" > ci/id_rsa
-      fi
- 
