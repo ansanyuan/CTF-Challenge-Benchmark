@@ -17,6 +17,6 @@ variables:
   REGISTRY_PASSWORD: $CI_REGISTRY_PASSWORD        # 使用GitLab内置密码
   IMAGE_TAG: $CI_COMMIT_SHORT_SHA                 # 使用提交短SHA作为标签
   REGISTRY_HOST_IP: "10.10.3.14"                 # 私有仓库IP地址(这里k8s中没配置dns 所以目前需要写hosts)
-  CACHE_REPO: "$CI_REGISTRY/$REGISTRY_PROJECT_PATH/cache"  # 缓存仓库路径
+  CACHE_REPO: "docker.cat/$REGISTRY_PROJECT_PATH/cache"  # 缓存仓库路径
 
 
