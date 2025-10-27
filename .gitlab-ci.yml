@@ -8,8 +8,8 @@ stages:
 
 variables:
   # 必需变量
-  REGISTRY_PROJECT_PATH: "gitlab/quiz-evaluator"  # 目标仓库路径
-  FINAL_IMAGE_NAME: "quiz-evaluator"              # 镜像名称
+  REGISTRY_PROJECT_PATH: "gitlab/ccb"  # 目标仓库路径
+  FINAL_IMAGE_NAME: "ccb"              # 镜像名称
   
   # 显式设置变量（一定要保留！模板中没有声明）
   REGISTRY: $Docker_CI_REGISTRY                   
