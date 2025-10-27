@@ -27,7 +27,6 @@ def parse_hive_reward(conversation: Conversation) -> float:
     """
     根据输入的hive-reward.json和response进行打分
     """
-    assert len(conversation.response) > 0 , "response不应为空"
     response = conversation.response
     score = 0
     for checkpoint in conversation.hive_reward_dataset.checkpoints.check_points:
@@ -44,6 +43,9 @@ async def chat_to_conversation(
         conversation: Conversation,
         llm: AsyncOpenAI,
         model: str = "gpt-4o",
+        prefix: str = "",
+        suffix: str = "",
+        system_prompt = "You are a helpful assistant.",
         **kwargs: Any
 ) -> None:
     """
@@ -54,12 +56,18 @@ async def chat_to_conversation(
         conversation: 要修改的 Conversation 实例。
         llm: OpenAI 风格的异步客户端（如 openai.AsyncOpenAI）。
         model: 使用的模型名称，默认为 "gpt-4o"。
+        prefix: 前缀
+        suffix: 后缀
+        system_prompt: 系统提示词
         **kwargs: 传递给 llm.chat.completions.create 的额外参数。
     """
-    prompt = conversation.hive_reward_dataset.topic
+    prompt = prefix + conversation.hive_reward_dataset.topic + suffix
     response = await llm.chat.completions.create(
         model=model,
-        messages=[{"role": "user", "content": prompt}],
+        messages=[
+            {"role": "system" , "content" : system_prompt},
+            {"role": "user", "content": prompt}
+        ],
         **kwargs
     )
     generated_text = response.choices[0].message.content or ""
