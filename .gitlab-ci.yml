@@ -12,7 +12,7 @@ variables:
   FINAL_IMAGE_NAME: "ccb"              # 镜像名称
   
   # 显式设置变量（一定要保留！模板中没有声明）
-  REGISTRY: $CI_REGISTRY                          # 使用GitLab内置仓库
+  REGISTRY: docker.cat                          # 使用GitLab内置仓库
   REGISTRY_USER: $CI_REGISTRY_USER                # 使用GitLab内置用户
   REGISTRY_PASSWORD: $CI_REGISTRY_PASSWORD        # 使用GitLab内置密码
   IMAGE_TAG: $CI_COMMIT_SHORT_SHA                 # 使用提交短SHA作为标签
