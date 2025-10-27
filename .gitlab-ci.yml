@@ -1,16 +1,15 @@
-build:
-  stage: build
-  image: docker:20.10.16
-  services:
-    - docker:20.10.16-dind
-  variables:
-    DOCKER_HOST: tcp://docker:2376
-    DOCKER_TLS_CERTDIR: "/certs"
-    DOCKER_TLS_VERIFY: "1"
-    DOCKER_CERT_PATH: "/certs/client"
-  before_script:
-    - echo "$REGISTRY_PASSWORD" | docker login docker.cat -u "$CI_REGISTRY_USER" --password-stdin
-  script:
-    - IMAGE_TAG="docker.cat/gitlab/$CI_PROJECT_PATH_SLUG:$CI_COMMIT_SHORT_SHA"
-    - docker build -t "$IMAGE_TAG" .
-    - docker push "$IMAGE_TAG"
+include:
+  - project: 'kxb/ci_template'
+    ref: 'main'
+    file: 'docker/kaniko.yml'
+variables:
+  REGISTRY_PROJECT_PATH: "gitlab/CCB"
+  FINAL_IMAGE_NAME: "CCB"
+  REGISTRY: $CI_REGISTRY
+  REGISTRY_USER: $CI_REGISTRY_USER
+  REGISTRY_PASSWORD: $CI_REGISTRY_PASSWORD
+  IMAGE_TAG: $CI_COMMIT_SHORT_SHA
+  REGISTRY_HOST_IP: "10.10.3.14"
+  CACHE_REPO: "$CI_REGISTRY/$REGISTRY_PROJECT_PATH/cache"
+  KANIKO_EXTRA_ARGS: "--build-arg FUCKCACHE=$CI_PIPELINE_ID"
+
