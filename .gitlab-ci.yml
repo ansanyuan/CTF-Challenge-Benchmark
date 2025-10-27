@@ -3,8 +3,8 @@ include:
     ref: main
     file: 'docker/kaniko.yml'
 variables:
-  REGISTRY_PROJECT_PATH: "gitlab/CCB"
-  FINAL_IMAGE_NAME: "CCB"
+  REGISTRY_PROJECT_PATH: "gitlab/ccb"
+  FINAL_IMAGE_NAME: "ccb"
   REGISTRY: $CI_REGISTRY
   REGISTRY_USER: $CI_REGISTRY_USER
   REGISTRY_PASSWORD: $CI_REGISTRY_PASSWORD
