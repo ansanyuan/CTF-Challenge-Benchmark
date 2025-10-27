@@ -1,21 +1,22 @@
 include:
   - project: 'kxb/ci_template'
-    ref: main
+    ref: 'main'
     file: 'docker/kaniko.yml'
-variables:
-  REGISTRY_PROJECT_PATH: "gitlab/ccb"
-  FINAL_IMAGE_NAME: "ccb"
-  REGISTRY: $CI_REGISTRY
-  REGISTRY_USER: $CI_REGISTRY_USER
-  REGISTRY_PASSWORD: $CI_REGISTRY_PASSWORD
-  IMAGE_TAG: $CI_COMMIT_SHORT_SHA
-  REGISTRY_HOST_IP: "10.10.3.14"
-  CACHE_REPO: "$CI_REGISTRY/$REGISTRY_PROJECT_PATH/cache"
 
-build-image-k8s:
-  before_script:
-    - |
-      if [ -n "$SSH_PRI_KEY" ]; then
-        mkdir -p ci
-        echo "$SSH_PRI_KEY" > ci/id_rsa
-      fi
+stages:
+  - build
+
+variables:
+  # 必需变量
+  REGISTRY_PROJECT_PATH: "gitlab/ccb"  # 目标仓库路径
+  FINAL_IMAGE_NAME: "ccb"              # 镜像名称
+  
+  # 显式设置变量（一定要保留！模板中没有声明）
+  REGISTRY: $CI_REGISTRY                          # 使用GitLab内置仓库
+  REGISTRY_USER: $CI_REGISTRY_USER                # 使用GitLab内置用户
+  REGISTRY_PASSWORD: $CI_REGISTRY_PASSWORD        # 使用GitLab内置密码
+  IMAGE_TAG: $CI_COMMIT_SHORT_SHA                 # 使用提交短SHA作为标签
+  REGISTRY_HOST_IP: "10.10.3.14"                 # 私有仓库IP地址(这里k8s中没配置dns 所以目前需要写hosts)
+  CACHE_REPO: "$CI_REGISTRY/$REGISTRY_PROJECT_PATH/cache"  # 缓存仓库路径
+
+
