@@ -20,3 +20,4 @@ build-image-k8s:
         mkdir -p ci
         echo "$SSH_PRI_KEY" > ci/id_rsa
       fi
+ 
