@@ -41,8 +41,8 @@ def benchmark(
 
     asyncio.run(
         tqdm_asyncio.gather(
-            *(submit_chat_request(conv) for conv in conversations.conversations),
-            desc=f"Benchmarking LLM responses with {max_concurrent_requests} MAX_CONCURRENT_REQUESTS",
+            *(submit_chat_request(_conversation) for _conversation in conversations.conversations),
+            desc=f"Benchmarking LLM responses with {max_concurrent_requests} max_concurrent_requests",
             total=len(conversations.conversations),
         )
     )
