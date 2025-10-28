@@ -41,7 +41,7 @@ def parse_hive_reward(conversation: Conversation) -> float:
 
 async def chat_to_conversation(
         conversation: Conversation,
-        llm: AsyncOpenAI,
+        llm_client: AsyncOpenAI,
         model: str = "gpt-4o",
         prefix: str = "",
         suffix: str = "",
@@ -54,7 +54,7 @@ async def chat_to_conversation(
 
     Args:
         conversation: 要修改的 Conversation 实例。
-        llm: OpenAI 风格的异步客户端（如 openai.AsyncOpenAI）。
+        llm_client: OpenAI 风格的异步客户端（如 openai.AsyncOpenAI）。
         model: 使用的模型名称，默认为 "gpt-4o"。
         prefix: 前缀
         suffix: 后缀
@@ -62,7 +62,7 @@ async def chat_to_conversation(
         **kwargs: 传递给 llm.chat.completions.create 的额外参数。
     """
     prompt = prefix + conversation.hive_reward_dataset.topic + suffix
-    response = await llm.chat.completions.create(
+    response = await llm_client.chat.completions.create(
         model=model,
         messages=[
             {"role": "system" , "content" : system_prompt},

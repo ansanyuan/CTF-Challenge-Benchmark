@@ -23,7 +23,7 @@ def benchmark(
         model_name: str = "hive",
         api_key: str = typer.Option(..., envvar="OPENAI_API_KEY"),
         base_url: Optional[str] = typer.Option(None),
-        MAX_CONCURRENT_REQUESTS: int = 10
+        max_concurrent_requests: int = 10
 ):
     llm = AsyncOpenAI(api_key=api_key, base_url=base_url)
     conversations = Conversations(conversations=[])
@@ -33,16 +33,16 @@ def benchmark(
             response='',
             total_score=0
         ))
-    semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
+    semaphore = asyncio.Semaphore(max_concurrent_requests)
 
-    async def limited_chat(convo: Conversation):
+    async def submit_chat_request(_conversation: Conversation):
         async with semaphore:
-            await chat_to_conversation(convo, llm, model=model_name)
+            await chat_to_conversation(_conversation, llm, model=model_name)
 
     asyncio.run(
         tqdm_asyncio.gather(
-            *(limited_chat(conv) for conv in conversations.conversations),
-            desc=f"Benchmarking LLM responses with {MAX_CONCURRENT_REQUESTS} MAX_CONCURRENT_REQUESTS",
+            *(submit_chat_request(conv) for conv in conversations.conversations),
+            desc=f"Benchmarking LLM responses with {max_concurrent_requests} MAX_CONCURRENT_REQUESTS",
             total=len(conversations.conversations),
         )
     )
