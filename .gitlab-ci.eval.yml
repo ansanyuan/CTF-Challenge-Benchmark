@@ -1,5 +1,3 @@
-variables:
-  TAG_NAME: latest  # 默认值
 evaluate:
   stage: evaluate
   image: "docker.cat/gitlab/ccb:$TAG_NAME"
