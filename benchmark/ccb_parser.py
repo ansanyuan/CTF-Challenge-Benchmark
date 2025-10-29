@@ -70,6 +70,7 @@ async def chat_to_conversation(
             {"role": "system" , "content" : system_prompt},
             {"role": "user", "content": prompt}
         ],
+        max_tokens=8192,
         extra_body={
             "top_k": 20,
             "chat_template_kwargs": {"enable_thinking": enable_thinking},
