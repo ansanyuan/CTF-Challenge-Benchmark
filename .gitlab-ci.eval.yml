@@ -5,10 +5,10 @@ evaluate:
   image: "docker.cat/gitlab/ccb:$TAG_NAME"
   variables:
     TAG_NAME: ${CI_COMMIT_SHORT_SHA}  # 如果 CI_COMMIT_SHORT_SHA 有值，会覆盖外层的 'latest'
-    MODEL_NAME: "HIVE"
+    MODEL_NAME: "HIVE0-36B-1029-sft"
     API_KEY: "meow"
     DATASETS_PATH: "rewards"
-    BASE_URL: "http://127.0.0.1:8000/v1"
+    BASE_URL: "http://100.64.0.8:8000/v1"
     MAX_CONCURRENT_REQUESTS: 100
   script:
     - ccb --datasets-path $DATASETS_PATH --model-name $MODEL_NAME --api-key $API_KEY --base-url $BASE_URL --max-concurrent-requests $MAX_CONCURRENT_REQUESTS
