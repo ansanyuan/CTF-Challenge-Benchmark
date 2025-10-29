@@ -46,6 +46,7 @@ async def chat_to_conversation(
         prefix: str = "",
         suffix: str = "",
         system_prompt = "You are a helpful assistant.",
+        enable_thinking: bool = False,
         **kwargs: Any
 ) -> None:
     """
@@ -59,6 +60,7 @@ async def chat_to_conversation(
         prefix: 前缀
         suffix: 后缀
         system_prompt: 系统提示词
+        enable_thinking: 是否启用思考模式
         **kwargs: 传递给 llm.chat.completions.create 的额外参数。
     """
     prompt = prefix + conversation.hive_reward_dataset.topic + suffix
@@ -68,6 +70,10 @@ async def chat_to_conversation(
             {"role": "system" , "content" : system_prompt},
             {"role": "user", "content": prompt}
         ],
+        extra_body={
+            "top_k": 20,
+            "chat_template_kwargs": {"enable_thinking": enable_thinking},
+        },
         **kwargs
     )
     generated_text = response.choices[0].message.content or ""
