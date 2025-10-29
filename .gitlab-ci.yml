@@ -2,25 +2,21 @@ include:
   - project: 'kxb/ci_template'
     ref: 'main'
     file: 'docker/kaniko.yml'
+  - local: '.gitlab-ci.eval.yml'
 
 stages:
   - build
+  - evaluate
 
 variables:
   # 必需变量
-  REGISTRY_PROJECT_PATH: "gitlab/ccb"  # 目标仓库路径
-  FINAL_IMAGE_NAME: "ccb"              # 镜像名称
+  REGISTRY_PROJECT_PATH: "gitlab/ccb"
+  FINAL_IMAGE_NAME: "ccb"
   
   # 显式设置变量（一定要保留！模板中没有声明）
   REGISTRY: $Docker_CI_REGISTRY                   
   REGISTRY_USER: $Docker_CI_REGISTRY_USER         
   REGISTRY_PASSWORD: $Docker_CI_REGISTRY_PASSWORD 
-  IMAGE_TAG: $CI_COMMIT_SHORT_SHA                 # 使用提交短SHA作为标签
-  REGISTRY_HOST_IP: "10.10.3.14"                 # 私有仓库IP地址(这里k8s中没配置dns 所以目前需要写hosts)
-  CACHE_REPO: "$Docker_CI_REGISTRY/$REGISTRY_PROJECT_PATH/cache"  # 缓存仓库路径
-  
-  # 可选变量 - Kaniko额外参数
-  # KANIKO_EXTRA_ARGS: "--build-arg ENV=production --build-arg VERSION=1.0.0"  # 传递构建参数
-  # KANIKO_EXTRA_ARGS: "--skip-tls-verify"                                      # 跳过TLS验证（不推荐用于生产环境）
-  # KANIKO_EXTRA_ARGS: "--single-snapshot --cleanup"                           # 使用单快照模式并清理
-  # KANIKO_EXTRA_ARGS: "--reproducible"                                         # 启用可重现构建
+  IMAGE_TAG: $CI_COMMIT_SHORT_SHA
+  REGISTRY_HOST_IP: "10.10.3.14"
+  CACHE_REPO: "$Docker_CI_REGISTRY/$REGISTRY_PROJECT_PATH/cache"
