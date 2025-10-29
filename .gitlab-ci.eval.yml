@@ -12,5 +12,7 @@ evaluate:
     MAX_CONCURRENT_REQUESTS: 100
   script:
     - ccb --datasets-path $DATASETS_PATH --model-name $MODEL_NAME --api-key $API_KEY --base-url $BASE_URL --max-concurrent-requests $MAX_CONCURRENT_REQUESTS
-
+  artifacts:
+    paths:
+      - dump.json
 
