@@ -1,7 +1,10 @@
+variables:
+  TAG_NAME: latest  # 默认值
 eval:
   stage: evaluate
-  image: "docker.cat/gitlab/ccb:${CI_COMMIT_SHORT_SHA:-latest}"
+  image: "docker.cat/gitlab/ccb:$TAG_NAME"
   variables:
+    TAG_NAME: ${CI_COMMIT_SHORT_SHA}  # 如果 CI_COMMIT_SHORT_SHA 有值，会覆盖外层的 'latest'
     MODEL_NAME: "HIVE"
     API_KEY: "meow"
     DATASETS_PATH: "rewards"
