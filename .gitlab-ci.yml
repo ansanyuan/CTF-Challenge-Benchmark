@@ -1,7 +1,7 @@
 include:
   - project: 'kxb/ci_template'
     ref: 'main'
-    file: 'docker/kaniko.yml'
+    file: 'docker/docker.yml'
   - local: '.gitlab-ci.eval.yml'
 
 stages:
