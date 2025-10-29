@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：For $\\{1, 2, 3, \\ldots, n\\}$ and each of its nonempty subsets a unique alternating sum is defined as follows. Arrange the numbers in the subset in decreasing order and then, beginning with the largest, alternately add and subtract succesive numbers. For example, the alternating sum for $\\{1, 2, 3, 6,9\\}$ is $9-6+3-2+1=5$ and for $\\{5\\}$ it is simply $5$ . Find the sum of all such alternating sums for $n=7$ .",
+  "checkpoint": [
+    {
+      "\\boxed{448}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

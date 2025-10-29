@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Let $\\triangle ABC$ have circumcenter $O$ and incenter $I$ with $\\overline{IA}\\perp\\overline{OI}$, circumradius $13$, and inradius $6$. Find $AB\\cdot AC$.",
+  "checkpoint": [
+    {
+      "\\boxed{468}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

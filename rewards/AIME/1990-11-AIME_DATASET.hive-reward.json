@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Someone observed that $6! = 8 \\cdot 9 \\cdot 10$ .  Find the largest positive integer $n^{}_{}$ for which $n^{}_{}!$ can be expressed as the product of $n - 3_{}^{}$ consecutive positive integers.",
+  "checkpoint": [
+    {
+      "\\boxed{23}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

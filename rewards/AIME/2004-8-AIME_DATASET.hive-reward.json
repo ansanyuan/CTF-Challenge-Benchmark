@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：How many positive integer divisors of $2004^{2004}$ are divisible by exactly 2004 positive integers?",
+  "checkpoint": [
+    {
+      "\\boxed{54}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

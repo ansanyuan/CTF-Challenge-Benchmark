@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Find the number of second-degree polynomials $f(x)$ with integer coefficients and integer zeros for which $f(0)=2010$ .",
+  "checkpoint": [
+    {
+      "\\boxed{163}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

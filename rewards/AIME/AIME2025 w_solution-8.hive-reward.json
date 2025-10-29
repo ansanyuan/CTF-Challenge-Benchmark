@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：The parabola with equation $y = x^2 - 4$ is rotated $60^\\circ$ counterclockwise around the origin. The unique point in the fourth quadrant where the original parabola and its image intersect has $y$-coordinate $\\\frac{a - \\sqrt{b}}{c}$, where $a$, $b$, and $c$ are positive integers, and $a$ and $c$ are relatively prime. Find $a + b + c$.",
+  "checkpoint": [
+    {
+      "\\boxed{62}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

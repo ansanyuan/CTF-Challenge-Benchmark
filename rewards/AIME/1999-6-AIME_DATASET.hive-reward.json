@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：A transformation of the first quadrant of the coordinate plane maps each point $(x,y)$ to the point $(\\sqrt{x},\\sqrt{y}).$ The vertices of quadrilateral $ABCD$ are $A=(900,300), B=(1800,600), C=(600,1800),$ and $D=(300,900).$ Let $k_{}$ be the area of the region enclosed by the image of quadrilateral $ABCD.$ Find the greatest integer that does not exceed $k_{}.$",
+  "checkpoint": [
+    {
+      "\\boxed{314}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

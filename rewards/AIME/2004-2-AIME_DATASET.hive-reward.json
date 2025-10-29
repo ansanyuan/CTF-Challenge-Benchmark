@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：A jar has 10 red candies and 10 blue candies. Terry picks two candies at random, then Mary picks two of the remaining candies at random. Given that the probability that they get the same color combination, irrespective of order, is $m/n,$ where $m$ and $n$ are relatively prime positive integers, find $m+n.$",
+  "checkpoint": [
+    {
+      "\\boxed{441}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

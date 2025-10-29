@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：There exist $r$ unique nonnegative integers $n_1 > n_2 > \\cdots > n_r$ and $r$ integers $a_k$ ( $1\\le k\\le r$ ) with each $a_k$ either $1$ or $- 1$ such that \\[a_13^{n_1} + a_23^{n_2} + \\cdots + a_r3^{n_r} = 2008.\\] Find $n_1 + n_2 + \\cdots + n_r$ .",
+  "checkpoint": [
+    {
+      "\\boxed{21}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

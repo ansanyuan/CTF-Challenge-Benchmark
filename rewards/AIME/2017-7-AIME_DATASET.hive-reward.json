@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Find the number of integer values of $k$ in the closed interval $[-500,500]$ for which the equation $\\log(kx)=2\\log(x+2)$ has exactly one real solution.",
+  "checkpoint": [
+    {
+      "\\boxed{501}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

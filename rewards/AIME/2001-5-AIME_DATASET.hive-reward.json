@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：A set of positive numbers has the $triangle~property$ if it has three distinct elements that are the lengths of the sides of a triangle whose area is positive. Consider sets $\\{4, 5, 6, \\ldots, n\\}$ of consecutive positive integers, all of whose ten-element subsets have the triangle property. What is the largest possible value of $n$ ?",
+  "checkpoint": [
+    {
+      "\\boxed{253}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

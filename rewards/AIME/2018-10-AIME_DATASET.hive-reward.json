@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Find the number of functions $f(x)$ from $\\{1, 2, 3, 4, 5\\}$ to $\\{1, 2, 3, 4, 5\\}$ that satisfy $f(f(x)) = f(f(f(x)))$ for all $x$ in $\\{1, 2, 3, 4, 5\\}$ .",
+  "checkpoint": [
+    {
+      "\\boxed{756}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

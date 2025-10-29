@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Find the value of $a_2+a_4+a_6+a_8+\\ldots+a_{98}$ if $a_1$ , $a_2$ , $a_3\\ldots$ is an arithmetic progression with common difference 1, and $a_1+a_2+a_3+\\ldots+a_{98}=137$ .",
+  "checkpoint": [
+    {
+      "\\boxed{93}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

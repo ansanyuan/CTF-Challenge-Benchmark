@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：In triangle $ABC^{}_{}$ , $A'$ , $B'$ , and $C'$ are on the sides $BC$ , $AC^{}_{}$ , and $AB^{}_{}$ , respectively. Given that $AA'$ , $BB'$ , and $CC'$ are concurrent at the point $O^{}_{}$ , and that $\\frac{AO^{}_{}}{OA'}+\\frac{BO}{OB'}+\\frac{CO}{OC'}=92$ , find $\\frac{AO}{OA'}\\cdot \\frac{BO}{OB'}\\cdot \\frac{CO}{OC'}$ .",
+  "checkpoint": [
+    {
+      "\\boxed{94}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

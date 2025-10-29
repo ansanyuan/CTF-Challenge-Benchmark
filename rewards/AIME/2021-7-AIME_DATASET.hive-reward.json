@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Let $a, b, c,$ and $d$ be real numbers that satisfy the system of equations \\begin{align*} a + b &= -3, \\\\ ab + bc + ca &= -4, \\\\ abc + bcd + cda + dab &= 14, \\\\ abcd &= 30. \\end{align*} There exist relatively prime positive integers $m$ and $n$ such that \\[a^2 + b^2 + c^2 + d^2 = \\frac{m}{n}.\\] Find $m + n$ .",
+  "checkpoint": [
+    {
+      "\\boxed{145}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

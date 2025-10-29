@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Triangle $ABC^{}_{}$ has $AB=9^{}_{}$ and $BC: AC=40: 41^{}_{}$ . What's the largest area that this triangle can have?",
+  "checkpoint": [
+    {
+      "\\boxed{820}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

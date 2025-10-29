@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Consider the paper triangle whose vertices are $(0,0), (34,0),$ and $(16,24).$ The vertices of its midpoint triangle are the midpoints of its sides.  A triangular pyramid is formed by folding the triangle along the sides of its midpoint triangle.  What is the volume of this pyramid?",
+  "checkpoint": [
+    {
+      "\\boxed{408}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

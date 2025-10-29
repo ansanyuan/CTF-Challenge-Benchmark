@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Two mathematicians take a morning coffee break each day.  They arrive at the cafeteria independently, at random times between 9 a.m. and 10 a.m., and stay for exactly $m$ minutes.  The probability that either one arrives while the other is in the cafeteria is $40 \\%,$ and $m = a - b\\sqrt {c},$ where $a, b,$ and $c$ are positive integers , and $c$ is not divisible by the square of any prime .  Find $a + b + c.$",
+  "checkpoint": [
+    {
+      "\\boxed{87}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

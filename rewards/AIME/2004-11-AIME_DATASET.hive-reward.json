@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：A right circular cone has a base with radius 600 and height $200\\sqrt{7}.$ A fly starts at a point on the surface of the cone whose distance from the vertex of the cone is 125, and crawls along the surface of the cone to a point on the exact opposite side of the cone whose distance from the vertex is $375\\sqrt{2}.$ Find the least distance that the fly could have crawled.",
+  "checkpoint": [
+    {
+      "\\boxed{625}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

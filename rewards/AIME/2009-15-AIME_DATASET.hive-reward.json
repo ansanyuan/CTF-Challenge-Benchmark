@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Let $\\overline{MN}$ be a diameter of a circle with diameter $1$ . Let $A$ and $B$ be points on one of the semicircular arcs determined by $\\overline{MN}$ such that $A$ is the midpoint of the semicircle and $MB=\\dfrac 35$ . Point $C$ lies on the other semicircular arc. Let $d$ be the length of the line segment whose endpoints are the intersections of diameter $\\overline{MN}$ with the chords $\\overline{AC}$ and $\\overline{BC}$ . The largest possible value of $d$ can be written in the form $r-s\\sqrt t$ , where $r$ , $s$ , and $t$ are positive integers and $t$ is not divisible by the square of any prime. Find $r+s+t$ .",
+  "checkpoint": [
+    {
+      "\\boxed{14}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

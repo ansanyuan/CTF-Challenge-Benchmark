@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：There is a positive real number $x$ not equal to either $\\tfrac{1}{20}$ or $\\tfrac{1}{2}$ such that \\[\\log_{20x} (22x)=\\log_{2x} (202x).\\] The value $\\log_{20x} (22x)$ can be written as $\\log_{10} (\\tfrac{m}{n})$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+  "checkpoint": [
+    {
+      "\\boxed{112}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Rectangles $ABCD$ and $EFGH$ are drawn such that $D,E,C,F$ are collinear. Also, $A,D,H,G$ all lie on a circle. If $BC=16$,$AB=107$,$FG=17$, and $EF=184$, what is the length of $CE$?",
+  "checkpoint": [
+    {
+      "\\boxed{104}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

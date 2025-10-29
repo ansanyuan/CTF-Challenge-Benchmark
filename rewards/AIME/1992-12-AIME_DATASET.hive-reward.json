@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：In a game of Chomp , two players alternately take bites from a 5-by-7 grid of unit squares. To take a bite, a player chooses one of the remaining squares, then removes (\"eats\") all squares in the quadrant defined by the left edge (extended upward) and the lower edge (extended rightward) of the chosen square. For example, the bite determined by the shaded square in the diagram would remove the shaded square and the four squares marked by $\\times.$ (The squares with two or more dotted edges have been removed from the original board in previous moves.) AIME 1992 Problem 12.png The object of the game is to make one's opponent take the last bite. The diagram shows one of the many subsets of the set of 35 unit squares that can occur during the game of Chomp. How many different subsets are there in all? Include the full board and empty board in your count.",
+  "checkpoint": [
+    {
+      "\\boxed{792}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

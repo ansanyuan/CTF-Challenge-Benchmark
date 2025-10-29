@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Let $P$ be a point chosen uniformly at random in the interior of the unit square with vertices at $(0,0), (1,0), (1,1)$ , and $(0,1)$ . The probability that the slope of the line determined by $P$ and the point $\\left(\\frac58, \\frac38 \\right)$ is greater than or equal to $\\frac12$ can be written as $\\frac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+  "checkpoint": [
+    {
+      "\\boxed{171}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

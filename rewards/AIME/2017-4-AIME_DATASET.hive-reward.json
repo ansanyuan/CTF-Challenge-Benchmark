@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Find the number of positive integers less than or equal to $2017$ whose base-three representation contains no digit equal to $0$ .",
+  "checkpoint": [
+    {
+      "\\boxed{222}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：In Pascal's Triangle, each entry is the sum of the two entries above it. The first few rows of the triangle are shown below. \\[\\begin{array}{c@{\\hspace{8em}} c@{\\hspace{6pt}}c@{\\hspace{6pt}}c@{\\hspace{6pt}}c@{\\hspace{4pt}}c@{\\hspace{2pt}} c@{\\hspace{2pt}}c@{\\hspace{2pt}}c@{\\hspace{2pt}}c@{\\hspace{3pt}}c@{\\hspace{6pt}} c@{\\hspace{6pt}}c@{\\hspace{6pt}}c} \\vspace{4pt} \\text{Row 0: } &    &    &     &     &    &    & 1 &     &     &    &    &    &  \\\\\\vspace{4pt} \\text{Row 1: } &    &    &     &     &    & 1 &    & 1  &     &    &    &    &  \\\\\\vspace{4pt} \\text{Row 2: } &    &    &     &     & 1 &    & 2 &     & 1  &    &    &    &  \\\\\\vspace{4pt} \\text{Row 3: } &    &    &     &  1 &    & 3 &    & 3  &     & 1 &    &    &  \\\\\\vspace{4pt} \\text{Row 4: } &    &    & 1  &     & 4 &    & 6 &     & 4  &    & 1 &    &  \\\\\\vspace{4pt} \\text{Row 5: } &    & 1 &     & 5  &    &10&    &10 &     & 5 &    & 1 &  \\\\\\vspace{4pt} \\text{Row 6: } & 1 &    & 6  &     &15&    &20&     &15 &    & 6 &    & 1 \\end{array}\\] In which row of Pascal's Triangle do three consecutive entries occur that are in the ratio $3: 4: 5$ ?",
+  "checkpoint": [
+    {
+      "\\boxed{62}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

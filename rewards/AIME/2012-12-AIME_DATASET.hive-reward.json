@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：For a positive integer $p$ , define the positive integer $n$ to be $p$ -safe if $n$ differs in absolute value by more than $2$ from all multiples of $p$ . For example, the set of $10$ -safe numbers is $\\{ 3, 4, 5, 6, 7, 13, 14, 15, 16, 17, 23, \\ldots\\}$ . Find the number of positive integers less than or equal to $10,000$ which are simultaneously $7$ -safe, $11$ -safe, and $13$ -safe.",
+  "checkpoint": [
+    {
+      "\\boxed{958}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

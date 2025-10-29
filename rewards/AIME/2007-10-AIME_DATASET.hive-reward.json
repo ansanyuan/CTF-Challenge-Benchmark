@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Let $S$ be a set with six elements . Let $\\mathcal{P}$ be the set of all subsets of $S.$ Subsets $A$ and $B$ of $S$ , not necessarily distinct, are chosen independently and at random from $\\mathcal{P}$ . The probability that $B$ is contained in one of $A$ or $S-A$ is $\\frac{m}{n^{r}},$ where $m$ , $n$ , and $r$ are positive integers , $n$ is prime , and $m$ and $n$ are relatively prime . Find $m+n+r.$ (The set $S-A$ is the set of all elements of $S$ which are not in $A.$ ) ",
+  "checkpoint": [
+    {
+      "\\boxed{710}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

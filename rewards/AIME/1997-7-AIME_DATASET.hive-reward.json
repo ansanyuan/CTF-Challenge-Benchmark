@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：A car travels due east at $\\frac 23$ miles per minute on a long, straight road. At the same time, a circular storm, whose radius is $51$ miles, moves southeast at $\\frac 12\\sqrt{2}$ miles per minute. At time $t=0$ , the center of the storm is $110$ miles due north of the car. At time $t=t_1$ minutes, the car enters the storm circle, and at time $t=t_2$ minutes, the car leaves the storm circle. Find $\\frac 12(t_1+t_2)$ .",
+  "checkpoint": [
+    {
+      "\\boxed{198}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

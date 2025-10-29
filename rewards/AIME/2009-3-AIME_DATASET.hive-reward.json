@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：In rectangle $ABCD$ , $AB=100$ . Let $E$ be the midpoint of $\\overline{AD}$ . Given that line $AC$ and line $BE$ are perpendicular, find the greatest integer less than $AD$ .",
+  "checkpoint": [
+    {
+      "\\boxed{141}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：In trapezoid $ABCD$ , leg $\\overline{BC}$ is perpendicular to bases $\\overline{AB}$ and $\\overline{CD}$ , and diagonals $\\overline{AC}$ and $\\overline{BD}$ are perpendicular. Given that $AB=\\sqrt{11}$ and $AD=\\sqrt{1001}$ , find $BC^2$ .",
+  "checkpoint": [
+    {
+      "\\boxed{110}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}
