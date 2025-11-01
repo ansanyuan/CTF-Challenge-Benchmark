@@ -9,7 +9,7 @@ from openai import AsyncOpenAI
 from tqdm import tqdm
 from tqdm.asyncio import tqdm_asyncio
 
-from benchmark.ccb_parser import Conversations, evaluate, chat_to_conversation, Conversation
+from benchmark.ccb_parser import Conversations, evaluate_single_conversation, chat_to_conversation, Conversation
 from benchmark.hive_reward import read
 
 app = typer.Typer(
@@ -46,7 +46,7 @@ def benchmark(
             total=len(conversations.conversations),
         )
     )
-    evaluate(conversations)
+    evaluate_single_conversation(conversations)
     with open("dump.json", "w", encoding="utf-8") as f:
         json.dump(conversations.model_dump(), f, ensure_ascii=False, indent=2)
     eva_score = 0

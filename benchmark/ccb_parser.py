@@ -19,7 +19,7 @@ class Conversation(BaseModel):
 class Conversations(BaseModel):
     conversations: List[Conversation]
 
-def evaluate(conversations: Conversations):
+def evaluate_single_conversation(conversations: Conversations):
     for conversation in tqdm(conversations.conversations,desc="Evaluating..."):
         conversation.total_score = parse_hive_reward(conversation)
 
