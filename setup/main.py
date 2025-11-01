@@ -10,7 +10,7 @@ from tqdm import tqdm
 from tqdm.asyncio import tqdm_asyncio
 
 from benchmark.ccb_parser import Conversations, evaluate_single_conversation, chat_to_conversation, Conversation
-from benchmark.hive_reward import read
+from benchmark.dataset_models import read
 
 app = typer.Typer(
     no_args_is_help=True
