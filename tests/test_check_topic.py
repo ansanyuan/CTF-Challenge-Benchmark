@@ -2,7 +2,7 @@ import os
 import pytest
 from pathlib import Path
 
-from scripts.valid_hive_reward_json import validate_hive_reward_json
+from scripts.validate import validate_hive_reward_json
 
 
 def find_project_root(start_path: Path) -> Path:
