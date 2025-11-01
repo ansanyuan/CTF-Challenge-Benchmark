@@ -1,27 +1,27 @@
 {
-    "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *; p1 = getPrime(512); p2 = getPrime(512); q = getPrime(512); n1 = p1*q; n2 = p2*q; e = 65537; m = bytes_to_long(flag); c1 = pow(m, e, n1); c2 = pow(m, e, n2)",
-    "checkpoint": [
-        {
-            "((RSA)|(Rivest-Shamir-Adleman))": 0.1
-        },
-        {
-            "((e和q-1不互素但又不完全满足e∣(q−1))|(e\\s*not\\s*coprime\\s*to\\s*q-1\\s*but\\s*e\\s*does\\s*not\\s*divide\\s*(q-1))|(gcd(e,\\s*q-1)\\s*>\\s*1\\s*and\\s*(q-1)\\s*%\\s*e\\s*!=\\s*0))": 0.1
-        },
-        {
-            "((AMM求mp)|(compute\\s*mp\\s*with\\s*AMM)|(Adaptive\\s*Multiplicative\\s*Masking\\s*for\\s*mp))": 0.3
-        },
-        {
-            "((把m^7当作整体AMM求mq)|(treat\\s*m^7\\s*as\\s*a\\s*unit\\s*to\\s*compute\\s*mq\\s*with\\s*AMM)|(AMM\\s*algorithm\\s*for\\s*mq\\s*using\\s*m^7\\s*as\\s*an\\s*entity))": 0.4
-        },
-        {
-            "((mp和mq的集合两两CRT)|(pairwise\\s*CRT\\s*on\\s*mp\\s*and\\s*mq\\s*sets)|(Chinese\\s*Remainder\\s*Theorem\\s*applied\\s*to\\s*mp\\s*and\\s*mq\\s*pairs))": 0.1
-        }
-    ],
-    "matchingmethod": [
-        "regex",
-        "regex",
-        "regex",
-        "regex",
-        "regex"
-    ]
+  "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *\n p1 = getPrime(512)\n p2 = getPrime(512)\n q = getPrime(512)\n n1 = p1*q\n n2 = p2*q\n e = 65537\n m = bytes_to_long(flag)\n c1 = pow(m, e, n1)\n c2 = pow(m, e, n2)",
+  "checkpoint": [
+    {
+      "((RSA)|(Rivest-Shamir-Adleman))": 0.1
+    },
+    {
+      "((e和q-1不互素但又不完全满足e∣(q−1))|(e\\s*not\\s*coprime\\s*to\\s*q-1\\s*but\\s*e\\s*does\\s*not\\s*divide\\s*(q-1))|(gcd(e,\\s*q-1)\\s*>\\s*1\\s*and\\s*(q-1)\\s*%\\s*e\\s*!=\\s*0))": 0.1
+    },
+    {
+      "((AMM求mp)|(compute\\s*mp\\s*with\\s*AMM)|(Adaptive\\s*Multiplicative\\s*Masking\\s*for\\s*mp))": 0.3
+    },
+    {
+      "((把m^7当作整体AMM求mq)|(treat\\s*m^7\\s*as\\s*a\\s*unit\\s*to\\s*compute\\s*mq\\s*with\\s*AMM)|(AMM\\s*algorithm\\s*for\\s*mq\\s*using\\s*m^7\\s*as\\s*an\\s*entity))": 0.4
+    },
+    {
+      "((mp和mq的集合两两CRT)|(pairwise\\s*CRT\\s*on\\s*mp\\s*and\\s*mq\\s*sets)|(Chinese\\s*Remainder\\s*Theorem\\s*applied\\s*to\\s*mp\\s*and\\s*mq\\s*pairs))": 0.1
+    }
+  ],
+  "matchingmethod": [
+    "regex",
+    "regex",
+    "regex",
+    "regex",
+    "regex"
+  ]
 }

@@ -1,19 +1,19 @@
 {
-    "topic": "请帮我分析如下ctf题目 :from Crypto.Util.number import *; from gmpy2 import *; import random; flag = b'******'; flag = bytes_to_long(flag); nl = []; cl = []; def getn(bits):; n = 1; while n.bit_length() < bits:; n *= random.choice(sieve_base); return n; for i in range(8):; n = getn(flag.bit_length()); c = pow(flag, 7, n); nl.append(n); cl.append(c); print(nl); print(cl)",
-    "checkpoint": [
-        {
-            "((RSA)|(Rivest-Shamir-Adleman))": 0.1
-        },
-        {
-            "((低加密指数广播攻击)|(广播攻击)|(small\\s*exponent\\s*broadcast\\s*attack)|(Hastad\\s*broadcast\\s*attack))": 0.2
-        },
-        {
-            "((不互素的CRT)|(非互素模数CRT)|(CRT\\s*with\\s*non-coprime\\s*moduli)|(模不互素的中国剩余定理))": 0.7
-        }
-    ],
-    "matchingmethod": [
-        "regex",
-        "regex",
-        "regex"
-    ]
+  "topic": "请帮我分析如下ctf题目 :from Crypto.Util.number import *\n from gmpy2 import *\n import random\n flag = b'******'\n flag = bytes_to_long(flag)\n nl = []\n cl = []\n def getn(bits):\n n = 1\n while n.bit_length() < bits:\n n *= random.choice(sieve_base)\n return n\n for i in range(8):\n n = getn(flag.bit_length())\n c = pow(flag, 7, n)\n nl.append(n)\n cl.append(c)\n print(nl)\n print(cl)",
+  "checkpoint": [
+    {
+      "((RSA)|(Rivest-Shamir-Adleman))": 0.1
+    },
+    {
+      "((低加密指数广播攻击)|(广播攻击)|(small\\s*exponent\\s*broadcast\\s*attack)|(Hastad\\s*broadcast\\s*attack))": 0.2
+    },
+    {
+      "((不互素的CRT)|(非互素模数CRT)|(CRT\\s*with\\s*non-coprime\\s*moduli)|(模不互素的中国剩余定理))": 0.7
+    }
+  ],
+  "matchingmethod": [
+    "regex",
+    "regex",
+    "regex"
+  ]
 }

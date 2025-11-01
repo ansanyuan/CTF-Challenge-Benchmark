@@ -1,19 +1,19 @@
 {
-    "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import getPrime; from libnum import s2n; from secret import flag; p = getPrime(256); a = getPrime(256); b = getPrime(256); E = EllipticCurve(GF(p),[a,b]); m = E.random_point(); G = E.random_point(); k = getPrime(256); K = k * G; r = getPrime(256); c1 = m + r * K; c2 = r * G; cipher_left = s2n(flag[:len(flag)//2]) * m[0]; cipher_right = s2n(flag[len(flag)//2:]) * m[1]; print(f\"p = {p}\"); print(f\"a = {a}\"); print(f\"b = {b}\"); print(f\"k = {k}\"); print(f\"E = {E}\"); print(f\"c1 = {c1}\"); print(f\"c2 = {c2}\"); print(f\"cipher_left = {cipher_left}\"); print(f\"cipher_right = {cipher_right}\")",
-    "checkpoint": [
-        {
-            "((ECC)|(Elliptic Curve Cryptography))": 0.1
-        },
-        {
-            "((根据给出的参数定义椭圆曲线)|(define elliptic curve with given parameters)|(E: y² = x³ + ax + b mod p))": 0.3
-        },
-        {
-            "((在曲线上计算m = c1 - k * c2)|(compute m = c1 - k * c2 on curve)|(recover point m from ciphertexts))": 0.6
-        }
-    ],
-    "matchingmethod": [
-        "regex",
-        "regex",
-        "regex"
-    ]
+  "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import getPrime\n from libnum import s2n\n from secret import flag\n p = getPrime(256)\n a = getPrime(256)\n b = getPrime(256)\n E = EllipticCurve(GF(p),[a,b])\n m = E.random_point()\n G = E.random_point()\n k = getPrime(256)\n K = k * G\n r = getPrime(256)\n c1 = m + r * K\n c2 = r * G\n cipher_left = s2n(flag[:len(flag)//2]) * m[0]\n cipher_right = s2n(flag[len(flag)//2:]) * m[1]\n print(f\"p = {p}\")\n print(f\"a = {a}\")\n print(f\"b = {b}\")\n print(f\"k = {k}\")\n print(f\"E = {E}\")\n print(f\"c1 = {c1}\")\n print(f\"c2 = {c2}\")\n print(f\"cipher_left = {cipher_left}\")\n print(f\"cipher_right = {cipher_right}\")",
+  "checkpoint": [
+    {
+      "((ECC)|(Elliptic Curve Cryptography))": 0.1
+    },
+    {
+      "((根据给出的参数定义椭圆曲线)|(define elliptic curve with given parameters)|(E: y² = x³ + ax + b mod p))": 0.3
+    },
+    {
+      "((在曲线上计算m = c1 - k * c2)|(compute m = c1 - k * c2 on curve)|(recover point m from ciphertexts))": 0.6
+    }
+  ],
+  "matchingmethod": [
+    "regex",
+    "regex",
+    "regex"
+  ]
 }

@@ -1,31 +1,31 @@
 {
-    "topic": "请帮我分析如下ctf题目 : from fastecdsa.curve import P521 as Curve; from fastecdsa.point import Point; from Crypto.Util.number import bytes_to_long, isPrime; from os import urandom; from random import getrandbits; def gen_rsa_primes(G):; urand = bytes_to_long(urandom(521//8)); while True:; s = getrandbits(521) ^ urand; Q = s*G; if isPrime(Q.x) and isPrime(Q.y):; print(\"ECC Private key:\", hex(s)); print(\"RSA primes:\", hex(Q.x), hex(Q.y)); print(\"Modulo:\", hex(Q.x * Q.y)); return (Q.x, Q.y); flag = int.from_bytes(input(), byteorder=\"big\"); ecc_p = Curve.p; a = Curve.a; b = Curve.b; Gx = Curve.gx; Gy = Curve.gy; G = Point(Gx, Gy, curve=Curve); e = 0x10001; p, q = gen_rsa_primes(G); n = p*q; file_out = open(\"downloads/ecc-rsa.txt\", \"w\"); file_out.write(\"ECC Curve Prime: \" + hex(ecc_p) + \"; \"); file_out.write(\"Curve a: \" + hex(a) + \"; \"); file_out.write(\"Curve b: \" + hex(b) + \"; \"); file_out.write(\"Gx: \" + hex(Gx) + \"; \"); file_out.write(\"Gy: \" + hex(Gy) + \"; \"); file_out.write(\"e: \" + hex(e) + \"; \"); file_out.write(\"p * q: \" + hex(n) + \"; \"); c = pow(flag, e, n); file_out.write(\"ciphertext: \" + hex(c) + \"; \")",
-    "checkpoint": [
-        {
-            "((ECC)|(Elliptic Curve Cryptography))": 0.05
-        },
-        {
-            "((RSA)|(Rivest-Shamir-Adleman))": 0.05
-        },
-        {
-            "((p,q是基于ECC上的一个点)|(p and q derived from ECC point Q)|(RSA primes from ECC scalar multiplication) )": 0.1
-        },
-        {
-            "((q²≡p³+a·p+b(modP))|(q² = p³ + a*p + b mod ecc_p)|(ECC point equation for Q=(p,q)) )": 0.2
-        },
-        {
-            "((构建n²≡p⁵+a·p³+b·p²(modP))|(n² = p²(p³ + a*p + b) mod ecc_p)|(n² = p²q² mod ecc_p via curve equation) )": 0.5
-        },
-        {
-            "((Coppersmith)|(Coppersmith's attack)|(modular polynomial root finding for small solutions))": 0.1
-        }
-    ],
-    "matchingmethod": [
-        "regex",
-        "regex",
-        "regex",
-        "regex",
-        "regex",
-        "regex"
-    ]
+  "topic": "请帮我分析如下ctf题目 : from fastecdsa.curve import P521 as Curve\n from fastecdsa.point import Point\n from Crypto.Util.number import bytes_to_long, isPrime\n from os import urandom\n from random import getrandbits\n def gen_rsa_primes(G):\n urand = bytes_to_long(urandom(521//8))\n while True:\n s = getrandbits(521) ^ urand\n Q = s*G\n if isPrime(Q.x) and isPrime(Q.y):\n print(\"ECC Private key:\", hex(s))\n print(\"RSA primes:\", hex(Q.x), hex(Q.y))\n print(\"Modulo:\", hex(Q.x * Q.y))\n return (Q.x, Q.y)\n flag = int.from_bytes(input(), byteorder=\"big\")\n ecc_p = Curve.p\n a = Curve.a\n b = Curve.b\n Gx = Curve.gx\n Gy = Curve.gy\n G = Point(Gx, Gy, curve=Curve)\n e = 0x10001\n p, q = gen_rsa_primes(G)\n n = p*q\n file_out = open(\"downloads/ecc-rsa.txt\", \"w\")\n file_out.write(\"ECC Curve Prime: \" + hex(ecc_p) + \"\n \")\n file_out.write(\"Curve a: \" + hex(a) + \"\n \")\n file_out.write(\"Curve b: \" + hex(b) + \"\n \")\n file_out.write(\"Gx: \" + hex(Gx) + \"\n \")\n file_out.write(\"Gy: \" + hex(Gy) + \"\n \")\n file_out.write(\"e: \" + hex(e) + \"\n \")\n file_out.write(\"p * q: \" + hex(n) + \"\n \")\n c = pow(flag, e, n)\n file_out.write(\"ciphertext: \" + hex(c) + \"\n \")",
+  "checkpoint": [
+    {
+      "((ECC)|(Elliptic Curve Cryptography))": 0.05
+    },
+    {
+      "((RSA)|(Rivest-Shamir-Adleman))": 0.05
+    },
+    {
+      "((p,q是基于ECC上的一个点)|(p and q derived from ECC point Q)|(RSA primes from ECC scalar multiplication) )": 0.1
+    },
+    {
+      "((q²≡p³+a·p+b(modP))|(q² = p³ + a*p + b mod ecc_p)|(ECC point equation for Q=(p,q)) )": 0.2
+    },
+    {
+      "((构建n²≡p⁵+a·p³+b·p²(modP))|(n² = p²(p³ + a*p + b) mod ecc_p)|(n² = p²q² mod ecc_p via curve equation) )": 0.5
+    },
+    {
+      "((Coppersmith)|(Coppersmith's attack)|(modular polynomial root finding for small solutions))": 0.1
+    }
+  ],
+  "matchingmethod": [
+    "regex",
+    "regex",
+    "regex",
+    "regex",
+    "regex",
+    "regex"
+  ]
 }

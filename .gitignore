@@ -8,3 +8,4 @@ tmp
 .pytest_cache
 *.pyc
 dump.json
+fix_crypto.py

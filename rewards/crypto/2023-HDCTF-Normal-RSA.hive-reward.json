@@ -1,19 +1,19 @@
 {
-    "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *; from shin import flag; m=bytes_to_long(b'flag.encode()'); e=65537; p=getPrime(256); q=getPrime(512); r=getPrime(512); n=p*q*r; P=pow(p,2,n); Q=pow(q,2,n); c=pow(m,e,n); print(f\"P = {P}\"); print(f\"Q = {Q}\"); print(f\"n = {n}\"); print(f\"c = {c}\")",
-    "checkpoint": [
-        {
-            "((RSA)|(Rivest-Shamir-Adleman))": 0.1
-        },
-        {
-            "((开方还原p和q)|(recover p and q via modular square roots)|(compute modular square roots of P and Q))": 0.7
-        },
-        {
-            "((解RSA)|(decrypt RSA ciphertext)|(compute m = c^d mod n))": 0.2
-        }
-    ],
-    "matchingmethod": [
-        "regex",
-        "regex",
-        "regex"
-    ]
+  "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *\n from shin import flag\n m=bytes_to_long(b'flag.encode()')\n e=65537\n p=getPrime(256)\n q=getPrime(512)\n r=getPrime(512)\n n=p*q*r\n P=pow(p,2,n)\n Q=pow(q,2,n)\n c=pow(m,e,n)\n print(f\"P = {P}\")\n print(f\"Q = {Q}\")\n print(f\"n = {n}\")\n print(f\"c = {c}\")",
+  "checkpoint": [
+    {
+      "((RSA)|(Rivest-Shamir-Adleman))": 0.1
+    },
+    {
+      "((开方还原p和q)|(recover p and q via modular square roots)|(compute modular square roots of P and Q))": 0.7
+    },
+    {
+      "((解RSA)|(decrypt RSA ciphertext)|(compute m = c^d mod n))": 0.2
+    }
+  ],
+  "matchingmethod": [
+    "regex",
+    "regex",
+    "regex"
+  ]
 }

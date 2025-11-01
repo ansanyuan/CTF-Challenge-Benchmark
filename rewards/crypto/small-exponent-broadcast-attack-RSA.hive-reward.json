@@ -1,27 +1,27 @@
 {
-    "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *; import os; m = bytes_to_long(flag.encode()); e = 127; def enc():; p = getPrime(512); q = getPrime(512); n = p*q; c = pow(m, e, n); print(f\"n: {n}\"); print(f\"c: {c}\"); def main():; while True:; opt = int(input('input> ')); if opt == 1:; enc(); main()",
-    "checkpoint": [
-        {
-            "((RSA)|(Rivest-Shamir-Adleman))": 0.1
-        },
-        {
-            "((多组公钥加密同一个明文)|(multiple\\s*public\\s*keys\\s*for\\s*same\\s*plaintext)|(repeated\\s*m\\s*under\\s*different\\s*n))": 0.1
-        },
-        {
-            "((公钥的e相同且e很小)|(fixed\\s*small\\s*e)|(e\\s*=\\s*127\\s*and\\s*same\\s*for\\s*all\\s*encrypt))": 0.2
-        },
-        {
-            "((低加密指数广播攻击)|(广播攻击)|(small\\s*exponent\\s*broadcast\\s*attack)|(Hastad\\s*attack))": 0.3
-        },
-        {
-            "((中国剩余定理)|(CRT)|(Chinese\\s*Remainder\\s*Theorem)|(Hastad\\s*reduction))": 0.3
-        }
-    ],
-    "matchingmethod": [
-        "regex",
-        "regex",
-        "regex",
-        "regex",
-        "regex"
-    ]
+  "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *\n import os\n m = bytes_to_long(flag.encode())\n e = 127\n def enc():\n p = getPrime(512)\n q = getPrime(512)\n n = p*q\n c = pow(m, e, n)\n print(f\"n: {n}\")\n print(f\"c: {c}\")\n def main():\n while True:\n opt = int(input('input> '))\n if opt == 1:\n enc()\n main()",
+  "checkpoint": [
+    {
+      "((RSA)|(Rivest-Shamir-Adleman))": 0.1
+    },
+    {
+      "((多组公钥加密同一个明文)|(multiple\\s*public\\s*keys\\s*for\\s*same\\s*plaintext)|(repeated\\s*m\\s*under\\s*different\\s*n))": 0.1
+    },
+    {
+      "((公钥的e相同且e很小)|(fixed\\s*small\\s*e)|(e\\s*=\\s*127\\s*and\\s*same\\s*for\\s*all\\s*encrypt))": 0.2
+    },
+    {
+      "((低加密指数广播攻击)|(广播攻击)|(small\\s*exponent\\s*broadcast\\s*attack)|(Hastad\\s*attack))": 0.3
+    },
+    {
+      "((中国剩余定理)|(CRT)|(Chinese\\s*Remainder\\s*Theorem)|(Hastad\\s*reduction))": 0.3
+    }
+  ],
+  "matchingmethod": [
+    "regex",
+    "regex",
+    "regex",
+    "regex",
+    "regex"
+  ]
 }

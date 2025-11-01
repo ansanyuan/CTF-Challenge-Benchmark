@@ -1,27 +1,27 @@
 {
-    "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *; from random import *; from libnum import *; import gmpy2; from secret import x; flag = b'?????????'; m = bytes_to_long(flag); def obfuscate(p, k):; nbit = p.bit_length(); while True:; l1 = [getRandomRange(-1, 1) for _ in '_' * k]; l2 = [getRandomRange(100, nbit) for _ in '_' * k]; l3 = [getRandomRange(10, nbit//4) for _ in '_' * k]; l4 = [getRandomRange(2, 6) for _ in '_' *k]; A = sum([l1[_] * 2 ** ((l2[_]+l3[_])//l4[_]) for _ in range(0, k)]); q = p + A; if isPrime(q) * A != 0:; return q; p = getPrime(512); q = obfuscate(p, 5); e = 65537; n = p*q; print(f'n = {n}'); assert 114514 ** x % p == 1; m = m ^ (x**2); c = pow(m, e, n); print(f'c = {c}')",
-    "checkpoint": [
-        {
-            "((RSA)|(Rivest-Shamir-Adleman))": 0.1
-        },
-        {
-            "((p和q比较接近且n较小可直接分解)|(Fermat's factorization due to close primes)|(small n with nearby p and q))": 0.3
-        },
-        {
-            "((费马小定理)|(Fermat's Little Theorem)|(a^(p-1) ≡ 1 mod p))": 0.3
-        },
-        {
-            "((x = p-1)|(x equals p-1 from FLT)|(x = φ(p) for prime p))": 0.2
-        },
-        {
-            "((计算出m后再与x²异或)|(recover m via XOR with x²)|(post-decryption XOR with x squared))": 0.1
-        }
-    ],
-    "matchingmethod": [
-        "regex",
-        "regex",
-        "regex",
-        "regex",
-        "regex"
-    ]
+  "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *\n from random import *\n from libnum import *\n import gmpy2\n from secret import x\n flag = b'?????????'\n m = bytes_to_long(flag)\n def obfuscate(p, k):\n nbit = p.bit_length()\n while True:\n l1 = [getRandomRange(-1, 1) for _ in '_' * k]\n l2 = [getRandomRange(100, nbit) for _ in '_' * k]\n l3 = [getRandomRange(10, nbit//4) for _ in '_' * k]\n l4 = [getRandomRange(2, 6) for _ in '_' *k]\n A = sum([l1[_] * 2 ** ((l2[_]+l3[_])//l4[_]) for _ in range(0, k)])\n q = p + A\n if isPrime(q) * A != 0:\n return q\n p = getPrime(512)\n q = obfuscate(p, 5)\n e = 65537\n n = p*q\n print(f'n = {n}')\n assert 114514 ** x % p == 1\n m = m ^ (x**2)\n c = pow(m, e, n)\n print(f'c = {c}')",
+  "checkpoint": [
+    {
+      "((RSA)|(Rivest-Shamir-Adleman))": 0.1
+    },
+    {
+      "((p和q比较接近且n较小可直接分解)|(Fermat's factorization due to close primes)|(small n with nearby p and q))": 0.3
+    },
+    {
+      "((费马小定理)|(Fermat's Little Theorem)|(a^(p-1) ≡ 1 mod p))": 0.3
+    },
+    {
+      "((x = p-1)|(x equals p-1 from FLT)|(x = φ(p) for prime p))": 0.2
+    },
+    {
+      "((计算出m后再与x²异或)|(recover m via XOR with x²)|(post-decryption XOR with x squared))": 0.1
+    }
+  ],
+  "matchingmethod": [
+    "regex",
+    "regex",
+    "regex",
+    "regex",
+    "regex"
+  ]
 }

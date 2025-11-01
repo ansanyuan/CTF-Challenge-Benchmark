@@ -1,23 +1,23 @@
 {
-    "topic": "请分析以下ctf题目: from Crypto.Util.number import *; p = getPrime(512); q = getPrime(512); n = p*q; e = getPrime(128); d = inverse(e, (p-1)*(q-1)); dp = d % (p-1); dq = d % (q-1); m = bytes_to_long(flag); c = pow(m, e, n)",
-    "checkpoint": [
-        {
-            "((RSA)|(Rivest-Shamir-Adleman))": 0.1
-        },
-        {
-            "((dp泄漏)|(dp\\s*disclosure)|(private\\s*exponent\\s*mod\\s*(p-1)\\s*leak))": 0.1
-        },
-        {
-            "((dq泄漏)|(dq\\s*disclosure)|(private\\s*exponent\\s*mod\\s*(q-1)\\s*leak))": 0.1
-        },
-        {
-            "((dp&dq泄漏攻击)|(combined\\s*dp\\s*and\\s*dq\\s*attack)|(RSA\\s*private\\s*key\\s*component\\s*leak\\s*attack))": 0.7
-        }
-    ],
-    "matchingmethod": [
-        "regex",
-        "regex",
-        "regex",
-        "regex"
-    ]
+  "topic": "请分析以下ctf题目: from Crypto.Util.number import *\n p = getPrime(512)\n q = getPrime(512)\n n = p*q\n e = getPrime(128)\n d = inverse(e, (p-1)*(q-1))\n dp = d % (p-1)\n dq = d % (q-1)\n m = bytes_to_long(flag)\n c = pow(m, e, n)",
+  "checkpoint": [
+    {
+      "((RSA)|(Rivest-Shamir-Adleman))": 0.1
+    },
+    {
+      "((dp泄漏)|(dp\\s*disclosure)|(private\\s*exponent\\s*mod\\s*(p-1)\\s*leak))": 0.1
+    },
+    {
+      "((dq泄漏)|(dq\\s*disclosure)|(private\\s*exponent\\s*mod\\s*(q-1)\\s*leak))": 0.1
+    },
+    {
+      "((dp&dq泄漏攻击)|(combined\\s*dp\\s*and\\s*dq\\s*attack)|(RSA\\s*private\\s*key\\s*component\\s*leak\\s*attack))": 0.7
+    }
+  ],
+  "matchingmethod": [
+    "regex",
+    "regex",
+    "regex",
+    "regex"
+  ]
 }

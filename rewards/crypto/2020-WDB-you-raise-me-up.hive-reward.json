@@ -1,15 +1,15 @@
 {
-    "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *; import random; n = 2 ** 512; m = random.randint(2, n-1) | 1; c = pow(m, bytes_to_long(flag), n); print 'm = ' + str(m); print 'c = ' + str(c)",
-    "checkpoint": [
-        {
-            "((DLP|离散对数)|(Discrete Logarithm Problem)|(DLP in modular exponentiation))": 0.4
-        },
-        {
-            "((discrete_log())|(use discrete_log function for solving DLP)|(compute log_m c mod n))": 0.6
-        }
-    ],
-    "matchingmethod": [
-        "regex",
-        "regex"
-    ]
+  "topic": "请帮我分析如下ctf题目 : from Crypto.Util.number import *\n import random\n n = 2 ** 512\n m = random.randint(2, n-1) | 1\n c = pow(m, bytes_to_long(flag), n)\n print 'm = ' + str(m)\n print 'c = ' + str(c)",
+  "checkpoint": [
+    {
+      "((DLP|离散对数)|(Discrete Logarithm Problem)|(DLP in modular exponentiation))": 0.4
+    },
+    {
+      "((discrete_log())|(use discrete_log function for solving DLP)|(compute log_m c mod n))": 0.6
+    }
+  ],
+  "matchingmethod": [
+    "regex",
+    "regex"
+  ]
 }
