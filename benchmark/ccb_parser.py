@@ -8,7 +8,7 @@ from openai import AsyncOpenAI
 from pydantic import BaseModel, Field
 from tqdm import tqdm
 
-from benchmark.dataset_models import HiveRewardDataset, read
+from benchmark.dataset_models import HiveRewardDataset, read_dataset
 
 
 class Conversation(BaseModel):

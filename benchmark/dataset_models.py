@@ -25,7 +25,7 @@ class HiveRewardDatasets(BaseModel):
     hive_reward_datasets: List[HiveRewardDataset]
 
 
-def read(file_path: Path) -> HiveRewardDatasets:
+def read_dataset(file_path: Path) -> HiveRewardDatasets:
     assert file_path.is_dir(), f"Expected a directory, got: {file_path}"
 
     datasets: List[HiveRewardDataset] = []

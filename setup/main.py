@@ -10,7 +10,7 @@ from tqdm import tqdm
 from tqdm.asyncio import tqdm_asyncio
 
 from benchmark.ccb_parser import Conversations, evaluate_single_conversation, chat_to_conversation, Conversation
-from benchmark.dataset_models import read
+from benchmark.dataset_models import read_dataset
 
 app = typer.Typer(
     no_args_is_help=True
@@ -27,7 +27,7 @@ def benchmark(
 ):
     llm = AsyncOpenAI(api_key=api_key, base_url=base_url)
     conversations = Conversations(conversations=[])
-    for hive_reward_dataset in tqdm(read(file_path=datasets_path).hive_reward_datasets, desc='Reading datasets'):
+    for hive_reward_dataset in tqdm(read_dataset(file_path=datasets_path).hive_reward_datasets, desc='Reading datasets'):
         conversations.conversations.append(Conversation(
             hive_reward_dataset=hive_reward_dataset,
             response='',
