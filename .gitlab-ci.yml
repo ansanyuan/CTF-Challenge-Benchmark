@@ -13,7 +13,6 @@ variables:
   REGISTRY_PROJECT_PATH: "gitlab/ccb"
   FINAL_IMAGE_NAME: "ccb"
   
-  # 显式设置变量（一定要保留！模板中没有声明）
   REGISTRY: $Docker_CI_REGISTRY                   
   REGISTRY_USER: $Docker_CI_REGISTRY_USER         
   REGISTRY_PASSWORD: $Docker_CI_REGISTRY_PASSWORD 
