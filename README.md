@@ -1,31 +1,24 @@
 
-# CTF Challenge Benchmark
+# CTF Challenge Benchmark - with Stress
 
-![](img/2025-08-19-17-06-44.png)
+**请勿合并到生产分支**
 
-CTFChallenge Benchmark is a comprehensive evaluation suite designed to assess large language models (LLMs) in the domain of cybersecurity. The benchmark leverages high-quality, real-world CTF (Capture The Flag) challenges collected from past competitions across the internet, ensuring a rigorous and practical test of a model's security reasoning capabilities.
+很明显，我偷懒了，我复用了CCB，来做一个压力测试，如果你想使用，你只需要这样使用
 
-Unlike traditional objective scoring methods—which rely on exact answer matching and are prone to "answer surfing" (where models exploit memorization rather than demonstrate genuine understanding)—this benchmark employs a subjective scoring system. Evaluations are conducted by human experts who assess the reasoning process, methodology, and partial progress, minimizing the risk of models achieving high scores through rote memorization.
-
-CTF problems are chosen as the foundation of this benchmark because they naturally reflect real cybersecurity tasks, such as reverse engineering, binary exploitation, cryptography, web security, and forensic analysis. This ensures that the evaluation goes beyond mere fact recall and instead tests a model’s ability to perform logical deduction, problem-solving, and technical creativity—key skills in practical security work.
-
-By focusing on CTF challenges, CTFChallenge Benchmark provides a more objective, meaningful, and realistic assessment of a language model’s true cybersecurity proficiency.
-
-## start
-
-```shell
-uv venv
-source .venv/bin/activate
-uv pip install .
-```
+![1762743476070.jpg](img/1762743476070.jpg)
 
 then
 
-```shell
-ccb --base-url <base_url> --api-key <api_key> --model-name <model_name> --max-concurrent-requests 25
-```
+![1762743526299.jpg](img/1762743526299.jpg)
 
-## Badges
+然后输入必要的环境变量，可用的环境变量表如下
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+|字段|描述|
+|--|--|
+|MODEL_NAME|模型名|
+|API_KEY|ak|
+|BASE_URL|base_url|
 
+如:
+
+![1762743756328.jpg](img/1762743756328.jpg)
