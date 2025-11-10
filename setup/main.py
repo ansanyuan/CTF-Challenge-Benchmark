@@ -26,17 +26,18 @@ class RequestStat:
 
 @app.command()
 def stress_test(
-    datasets_path: Path = Path("rewards"),
-    model_name: str = "hive",
-    api_key: str = typer.Option(..., envvar="OPENAI_API_KEY"),
-    base_url: Optional[str] = typer.Option(None),
-    request_timeout: float = 120.0,  # per-request timeout
-    max_retries: int = 1,  # retry on failure (0 = no retry)
+        datasets_path: Path = Path("rewards"),
+        model_name: str = "hive",
+        api_key: str = typer.Option(..., envvar="OPENAI_API_KEY"),
+        base_url: Optional[str] = typer.Option(None),
+        request_timeout: float = 120.0,  # per-request timeout
+        max_retries: int = 1,  # retry on failure (0 = no retry)
 ):
     # Load all conversations once (reuse across concurrency levels)
     loguru.logger.info("Loading dataset...")
     base_conversations: List[Conversation] = []
-    for hive_reward_dataset in tqdm(read_dataset(file_path=datasets_path).hive_reward_datasets, desc='Reading datasets'):
+    for hive_reward_dataset in tqdm(read_dataset(file_path=datasets_path).hive_reward_datasets,
+                                    desc='Reading datasets'):
         base_conversations.append(Conversation(
             hive_reward_dataset=hive_reward_dataset,
             response='',
@@ -48,7 +49,7 @@ def stress_test(
     llm = AsyncOpenAI(api_key=api_key, base_url=base_url)
 
     # Concurrency levels: 10 → 20 → ... → 320
-    concurrency_levels = [10, 20, 40, 80, 160, 320]
+    concurrency_levels = [10, 20, 40, 80, 160, 320, 640, 1280]
 
     report: Dict[str, Any] = {
         "model": model_name,
@@ -86,7 +87,8 @@ def stress_test(
             latencies_sorted = sorted(latencies)
             p50 = statistics.quantiles(latencies_sorted, n=2)[0]  # median
             p90 = statistics.quantiles(latencies_sorted, n=10)[8]  # 9th decile
-            p99 = statistics.quantiles(latencies_sorted, n=100)[98] if len(latencies_sorted) >= 100 else max(latencies_sorted)
+            p99 = statistics.quantiles(latencies_sorted, n=100)[98] if len(latencies_sorted) >= 100 else max(
+                latencies_sorted)
 
         metrics = {
             "total_requests": len(stats),
@@ -118,12 +120,12 @@ def stress_test(
 
 
 async def run_concurrent_test(
-    llm: AsyncOpenAI,
-    model_name: str,
-    base_conversations: List[Conversation],
-    concurrency: int,
-    request_timeout: float,
-    max_retries: int,
+        llm: AsyncOpenAI,
+        model_name: str,
+        base_conversations: List[Conversation],
+        concurrency: int,
+        request_timeout: float,
+        max_retries: int,
 ) -> List[RequestStat]:
     stats: List[RequestStat] = []
     semaphore = asyncio.Semaphore(concurrency)
