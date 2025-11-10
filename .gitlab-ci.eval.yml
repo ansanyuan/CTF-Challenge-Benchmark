@@ -9,9 +9,8 @@ evaluate:
     API_KEY: "meow"
     DATASETS_PATH: "rewards"
     BASE_URL: "http://100.64.8.2:8000/v1"
-    MAX_CONCURRENT_REQUESTS: 100
   script:
-    - ccb --datasets-path $DATASETS_PATH --model-name $MODEL_NAME --api-key $API_KEY --base-url $BASE_URL --max-concurrent-requests $MAX_CONCURRENT_REQUESTS
+    - ccb --datasets-path $DATASETS_PATH --model-name $MODEL_NAME --api-key $API_KEY --base-url $BASE_URL
   artifacts:
     paths:
       - dump.json
