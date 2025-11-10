@@ -15,4 +15,4 @@ evaluate:
   artifacts:
     paths:
       - dump.json
-
+      - stress_test_report.json
