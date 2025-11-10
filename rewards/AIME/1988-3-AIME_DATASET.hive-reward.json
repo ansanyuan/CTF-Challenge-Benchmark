@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Find $(\\log_2 x)^2$ if $\\log_2 (\\log_8 x) = \\log_8 (\\log_2 x)$ .",
+  "checkpoint": [
+    {
+      "\\boxed{27}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

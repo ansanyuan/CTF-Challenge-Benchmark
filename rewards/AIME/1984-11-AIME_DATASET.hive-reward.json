@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：A gardener plants three maple trees, four oaks, and five birch trees in a row. He plants them in random order, each arrangement being equally likely. Let $\\frac m n$ in lowest terms be the probability that no two birch trees are next to one another. Find $m+n$ . ",
+  "checkpoint": [
+    {
+      "\\boxed{106}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Let $z$ be a complex number with $|z|=2014$ . Let $P$ be the polygon in the complex plane whose vertices are $z$ and every $w$ such that $\\frac{1}{z+w}=\\frac{1}{z}+\\frac{1}{w}$ . Then the area enclosed by $P$ can be written in the form $n\\sqrt{3}$ , where $n$ is an integer. Find the remainder when $n$ is divided by $1000$ .",
+  "checkpoint": [
+    {
+      "\\boxed{147}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

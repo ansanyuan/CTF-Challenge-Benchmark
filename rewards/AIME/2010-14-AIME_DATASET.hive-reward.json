@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Triangle $ABC$ with right angle at $C$ , $\\angle BAC < 45^\\circ$ and $AB = 4$ . Point $P$ on $\\overline{AB}$ is chosen such that $\\angle APC = 2\\angle ACP$ and $CP = 1$ . The ratio $\\frac{AP}{BP}$ can be represented in the form $p + q\\sqrt{r}$ , where $p$ , $q$ , $r$ are positive integers and $r$ is not divisible by the square of any prime. Find $p+q+r$ .",
+  "checkpoint": [
+    {
+      "\\boxed{7}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

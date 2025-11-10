@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Let $m$ be the smallest integer whose cube root is of the form $n+r$ , where $n$ is a positive integer and $r$ is a positive real number less than $1/1000$ . Find $n$ .",
+  "checkpoint": [
+    {
+      "\\boxed{19}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

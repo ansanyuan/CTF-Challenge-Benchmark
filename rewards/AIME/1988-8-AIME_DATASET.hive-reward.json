@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：The function $f$ , defined on the set of ordered pairs of positive integers, satisfies the following properties: \\[f(x, x) = x,\\; f(x, y) = f(y, x), {\\rm \\ and\\ } (x+y)f(x, y) = yf(x, x+y).\\] Calculate $f(14,52)$ .",
+  "checkpoint": [
+    {
+      "\\boxed{364}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

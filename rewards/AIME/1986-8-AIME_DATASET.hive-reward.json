@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Let $S$ be the sum of the base $10$ logarithms of all the proper divisors of $1000000$ . What is the integer nearest to $S$ ?",
+  "checkpoint": [
+    {
+      "\\boxed{141}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

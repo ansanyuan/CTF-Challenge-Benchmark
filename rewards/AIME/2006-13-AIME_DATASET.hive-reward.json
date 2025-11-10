@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：How many integers $N$ less than 1000 can be written as the sum of $j$ consecutive positive odd integers from exactly 5 values of $j\\ge 1$ ?",
+  "checkpoint": [
+    {
+      "\\boxed{15}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

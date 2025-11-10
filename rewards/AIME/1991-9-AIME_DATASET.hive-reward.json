@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Suppose that $\\sec x+\\tan x=\\frac{22}7$ and that $\\csc x+\\cot x=\\frac mn,$ where $\\frac mn$ is in lowest terms.  Find $m+n^{}_{}.$",
+  "checkpoint": [
+    {
+      "\\boxed{44}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

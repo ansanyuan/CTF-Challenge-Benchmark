@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Find the number of $7$ -tuples of positive integers $(a,b,c,d,e,f,g)$ that satisfy the following system of equations: \\[abc=70\\] \\[cde=71\\] \\[efg=72.\\]",
+  "checkpoint": [
+    {
+      "\\boxed{96}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：The equation $2000x^6+100x^5+10x^3+x-2=0$ has exactly two real roots, one of which is $\\frac{m+\\sqrt{n}}r$ , where $m$ , $n$ and $r$ are integers, $m$ and $r$ are relatively prime, and $r>0$ . Find $m+n+r$ .",
+  "checkpoint": [
+    {
+      "\\boxed{200}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

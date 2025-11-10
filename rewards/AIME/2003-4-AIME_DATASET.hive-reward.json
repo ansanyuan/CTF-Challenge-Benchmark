@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：In a regular tetrahedron, the centers of the four faces are the vertices of a smaller tetrahedron. The ratio of the volume of the smaller tetrahedron to that of the larger is $m/n$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ . ",
+  "checkpoint": [
+    {
+      "\\boxed{28}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

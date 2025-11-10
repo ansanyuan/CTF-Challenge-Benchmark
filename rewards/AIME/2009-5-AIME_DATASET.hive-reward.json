@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Equilateral triangle $T$ is inscribed in circle $A$ , which has radius $10$ . Circle $B$ with radius $3$ is internally tangent to circle $A$ at one vertex of $T$ . Circles $C$ and $D$ , both with radius $2$ , are internally tangent to circle $A$ at the other two vertices of $T$ . Circles $B$ , $C$ , and $D$ are all externally tangent to circle $E$ , which has radius $\\dfrac mn$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ . [asy] unitsize(3mm); defaultpen(linewidth(.8pt)); dotfactor=4;  pair A=(0,0), D=8*dir(330), C=8*dir(210), B=7*dir(90); pair Ep=(0,4-27/5); pair[] dotted={A,B,C,D,Ep};  draw(Circle(A,10)); draw(Circle(B,3)); draw(Circle(C,2)); draw(Circle(D,2)); draw(Circle(Ep,27/5));  dot(dotted); label(\"$E$\",Ep,E); label(\"$A$\",A,W); label(\"$B$\",B,W); label(\"$C$\",C,W); label(\"$D$\",D,E); [/asy]",
+  "checkpoint": [
+    {
+      "\\boxed{32}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

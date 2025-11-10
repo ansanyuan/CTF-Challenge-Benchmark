@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Starting at $(0,0),$ an object moves in the coordinate plane via a sequence of steps, each of length one.  Each step is left, right, up, or down, all four equally likely.  Let $p$ be the probability that the object reaches $(2,2)$ in six or fewer steps.  Given that $p$ can be written in the form $m/n,$ where $m$ and $n$ are relatively prime positive integers, find $m+n.$",
+  "checkpoint": [
+    {
+      "\\boxed{67}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

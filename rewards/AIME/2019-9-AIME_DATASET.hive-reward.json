@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Call a positive integer $n$ $k$ - pretty if $n$ has exactly $k$ positive divisors and $n$ is divisible by $k$ . For example, $18$ is $6$ -pretty. Let $S$ be the sum of the positive integers less than $2019$ that are $20$ -pretty. Find $\\tfrac{S}{20}$ .",
+  "checkpoint": [
+    {
+      "\\boxed{472}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

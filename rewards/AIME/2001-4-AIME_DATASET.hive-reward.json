@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Let $R = (8,6)$ . The lines whose equations are $8y = 15x$ and $10y = 3x$ contain points $P$ and $Q$ , respectively, such that $R$ is the midpoint of $\\overline{PQ}$ . The length of $PQ$ equals $\\frac {m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m + n$ .",
+  "checkpoint": [
+    {
+      "\\boxed{67}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Let triangle $ABC$ be a right triangle in the $xy$ -plane with a right angle at $C_{}$ . Given that the length of the hypotenuse $AB$ is $60$ , and that the medians through $A$ and $B$ lie along the lines $y=x+3$ and $y=2x+4$ respectively, find the area of triangle $ABC$ .",
+  "checkpoint": [
+    {
+      "\\boxed{400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

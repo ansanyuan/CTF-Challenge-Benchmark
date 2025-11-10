@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Find the area of rhombus $ABCD$ given that the radii of the circles circumscribed around triangles $ABD$ and $ACD$ are $12.5$ and $25$ , respectively.",
+  "checkpoint": [
+    {
+      "\\boxed{400}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

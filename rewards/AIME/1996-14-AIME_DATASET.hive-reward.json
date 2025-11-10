@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：A $150\\times 324\\times 375$ rectangular solid is made by gluing together $1\\times 1\\times 1$ cubes. An internal diagonal of this solid passes through the interiors of how many of the $1\\times 1\\times 1$ cubes?",
+  "checkpoint": [
+    {
+      "\\boxed{768}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

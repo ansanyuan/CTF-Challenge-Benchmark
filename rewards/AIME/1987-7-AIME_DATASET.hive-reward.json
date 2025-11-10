@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Let $[r,s]$ denote the least common multiple of positive integers $r$ and $s$ .  Find the number of ordered triples $(a,b,c)$ of positive integers for which $[a,b] = 1000$ , $[b,c] = 2000$ , and $[c,a] = 2000$ .",
+  "checkpoint": [
+    {
+      "\\boxed{70}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

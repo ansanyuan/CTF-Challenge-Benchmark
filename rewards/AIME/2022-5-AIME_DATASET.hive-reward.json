@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Twenty distinct points are marked on a circle and labeled $1$ through $20$ in clockwise order. A line segment is drawn between every pair of points whose labels differ by a prime number. Find the number of triangles formed whose vertices are among the original $20$ points.",
+  "checkpoint": [
+    {
+      "\\boxed{72}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

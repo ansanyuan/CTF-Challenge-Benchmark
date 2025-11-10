@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：The inscribed circle of triangle $ABC$ is tangent to $\\overline{AB}$ at $P_{},$ and its radius is 21.  Given that $AP=23$ and $PB=27,$ find the perimeter of the triangle.",
+  "checkpoint": [
+    {
+      "\\boxed{345}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

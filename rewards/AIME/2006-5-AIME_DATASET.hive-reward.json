@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：When rolling a certain unfair six-sided die with faces numbered $1, 2, 3, 4, 5$ , and $6$ , the probability of obtaining face $F$ is greater than $\\frac{1}{6}$ , the probability of obtaining the face opposite is less than $\\frac{1}{6}$ , the probability of obtaining any one of the other four faces is $\\frac{1}{6}$ , and the sum of the numbers on opposite faces is 7. When two such dice are rolled, the probability of obtaining a sum of 7 is $\\frac{47}{288}$ . Given that the probability of obtaining face $F$ is $\\frac{m}{n},$ where $m$ and $n$ are relatively prime positive integers, find $m+n.$",
+  "checkpoint": [
+    {
+      "\\boxed{29}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

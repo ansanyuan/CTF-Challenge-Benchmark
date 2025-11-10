@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Define a $\\text{good word}$ as a sequence of letters that consists only of the letters $A$ , $B$ , and $C$ - some of these letters may not appear in the sequence - and in which $A$ is never immediately followed by $B$ , $B$ is never immediately followed by $C$ , and $C$ is never immediately followed by $A$ . How many seven-letter good words are there? ",
+  "checkpoint": [
+    {
+      "\\boxed{192}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

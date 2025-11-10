@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：An integer is called parity-monotonic if its decimal representation $a_{1}a_{2}a_{3}\\cdots a_{k}$ satisfies $a_{i}<a_{i+1}$ if $a_{i}$ is odd , and $a_{i}>a_{i+1}$ if $a_{i}$ is even . How many four-digit parity-monotonic integers are there?",
+  "checkpoint": [
+    {
+      "\\boxed{640}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

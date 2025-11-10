@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Given that $\\sum_{k=1}^{35}\\sin 5k=\\tan \\frac mn,$ where angles are measured in degrees, and $m_{}$ and $n_{}$ are relatively prime positive integers that satisfy $\\frac mn<90,$ find $m+n.$",
+  "checkpoint": [
+    {
+      "\\boxed{177}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

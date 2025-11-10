@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Let $x,y,$ and $z$ be real numbers satisfying the system \\begin{align*} \\log_2(xyz-3+\\log_5 x)&=5,\\\\ \\log_3(xyz-3+\\log_5 y)&=4,\\\\ \\log_4(xyz-3+\\log_5 z)&=4. \\end{align*} Find the value of $|\\log_5 x|+|\\log_5 y|+|\\log_5 z|$ .",
+  "checkpoint": [
+    {
+      "\\boxed{265}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

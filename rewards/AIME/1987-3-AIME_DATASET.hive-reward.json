@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：By a proper divisor of a natural number we mean a positive integral divisor other than 1 and the number itself. A natural number greater than 1 will be called \"nice\" if it is equal to the product of its distinct proper divisors. What is the sum of the first ten nice numbers?",
+  "checkpoint": [
+    {
+      "\\boxed{182}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：It is given that $\\log_{6}a + \\log_{6}b + \\log_{6}c = 6$ , where $a$ , $b$ , and $c$ are positive integers that form an increasing geometric sequence and $b - a$ is the square of an integer. Find $a + b + c$ .",
+  "checkpoint": [
+    {
+      "\\boxed{111}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

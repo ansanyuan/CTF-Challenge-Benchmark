@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Two different points, $C$ and $D$ , lie on the same side of line $AB$ so that $\\triangle ABC$ and $\\triangle BAD$ are congruent with $AB=9,BC=AD=10$ , and $CA=DB=17$ . The intersection of these two triangular regions has area $\\tfrac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .",
+  "checkpoint": [
+    {
+      "\\boxed{59}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

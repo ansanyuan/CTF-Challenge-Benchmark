@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：There are two distinguishable flagpoles, and there are $19$ flags, of which $10$ are identical blue flags, and $9$ are identical green flags. Let $N$ be the number of distinguishable arrangements using all of the flags in which each flagpole has at least one flag and no two green flags on either pole are adjacent. Find the remainder when $N$ is divided by $1000$ .",
+  "checkpoint": [
+    {
+      "\\boxed{310}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

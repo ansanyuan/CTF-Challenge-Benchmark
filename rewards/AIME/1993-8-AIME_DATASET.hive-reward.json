@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Let $S\\,$ be a set with six elements. In how many different ways can one select two not necessarily distinct subsets of $S\\,$ so that the union of the two subsets is $S\\,$ ?  The order of selection does not matter; for example, the pair of subsets $\\{a, c\\},\\{b, c, d, e, f\\}$ represents the same selection as the pair $\\{b, c, d, e, f\\},\\{a, c\\}.$ ",
+  "checkpoint": [
+    {
+      "\\boxed{365}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

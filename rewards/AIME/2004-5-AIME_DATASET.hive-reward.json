@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：In order to complete a large job, 1000 workers were hired, just enough to complete the job on schedule. All the workers stayed on the job while the first quarter of the work was done, so the first quarter of the work was completed on schedule. Then 100 workers were laid off, so the second quarter of the work was completed behind schedule. Then an additional 100 workers were laid off, so the third quarter of the work was completed still further behind schedule. Given that all workers work at the same rate, what is the minimum number of additional workers, beyond the 800 workers still on the job at the end of the third quarter, that must be hired after three-quarters of the work has been completed so that the entire project can be completed on schedule or before?",
+  "checkpoint": [
+    {
+      "\\boxed{766}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

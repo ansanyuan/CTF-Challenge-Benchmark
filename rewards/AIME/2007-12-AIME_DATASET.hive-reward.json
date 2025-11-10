@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：The increasing geometric sequence $x_{0},x_{1},x_{2},\\ldots$ consists entirely of integral powers of $3.$ Given that $\\sum_{n=0}^{7}\\log_{3}(x_{n}) = 308$ and $56 \\leq \\log_{3}\\left ( \\sum_{n=0}^{7}x_{n}\\right ) \\leq 57,$ find $\\log_{3}(x_{14}).$",
+  "checkpoint": [
+    {
+      "\\boxed{91}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "作答以下题目，并给出正确答案：Let $w_1$ and $w_2$ denote the circles $x^2+y^2+10x-24y-87=0$ and $x^2 +y^2-10x-24y+153=0,$ respectively. Let $m$ be the smallest positive value of $a$ for which the line $y=ax$ contains the center of a circle that is externally tangent to $w_2$ and internally tangent to $w_1.$ Given that $m^2=\\frac pq,$ where $p$ and $q$ are relatively prime integers, find $p+q.$",
+  "checkpoint": [
+    {
+      "\\boxed{169}": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}
