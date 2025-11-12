@@ -1,0 +1,22 @@
+include:
+  - project: 'kxb/ci_template'
+    ref: 'main'
+    file: 'docker/docker.yml'
+  - local: '.gitlab-ci.eval.yml'
+
+stages:
+  - build
+  - evaluate
+
+variables:
+  # 必需变量
+  REGISTRY_PROJECT_PATH: "gitlab/ccb"
+  FINAL_IMAGE_NAME: "ccb"
+  
+  REGISTRY: $Docker_CI_REGISTRY                   
+  REGISTRY_USER: $Docker_CI_REGISTRY_USER         
+  REGISTRY_PASSWORD: $Docker_CI_REGISTRY_PASSWORD 
+  IMAGE_TAG: $CI_COMMIT_SHORT_SHA
+  REGISTRY_HOST_IP: "10.10.3.14"
+  CACHE_REPO: "$Docker_CI_REGISTRY/$REGISTRY_PROJECT_PATH/cache"
+  CI_RUNNER_TAGS: test-k8s

@@ -1,0 +1,19 @@
+{
+  "topic": "\"请给我作如下ctf题，checksec结果是\n    Arch:       i386-32-little\n    RELRO:      Partial RELRO\n    Stack:      Canary found\n    NX:         NX enabled\n    PIE:        PIE enabled\n    Stripped:   No\n\n\n```c\n// 24.c 伪代码\n#include <stdio.h>\n#include <string.h>\n#include <stdlib.h>\nvoid func(int key){\n    char overflowme[32];\n    printf(\"overflow me : \");\n    gets(overflowme);    // smash me!\n    if(key == 0xcafebabe){\n        system(\"/bin/sh\");\n    }\n    else{\n        printf(\"Nah..\\n\");\n    }\n}\nint main(int argc, char* argv[]){\n    func(0xdeadbeef);\n    return 0;\n}\n```\n\"",
+  "checkpoint": [
+    {
+      "栈溢出": 0.3
+    },
+    {
+      "gets": 0.3
+    },
+    {
+      "0xcafebabe": 0.4
+    }
+  ],
+  "matchingmethod": [
+    "normal",
+    "normal",
+    "normal"
+  ]
+}

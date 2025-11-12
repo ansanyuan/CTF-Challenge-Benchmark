@@ -1,0 +1,11 @@
+venv/
+.idea
+.pytest_cache
+build
+*.egg-info
+tmp
+.vscode
+.pytest_cache
+*.pyc
+dump.json
+fix_crypto.py

@@ -1,0 +1,19 @@
+{
+  "topic": "\"请给我作如下ctf题，checksec结果是\n    Arch:       amd64-64-little\n    RELRO:      Full RELRO\n    Stack:      Canary found\n    NX:         NX enabled\n    PIE:        PIE enabled\n    SHSTK:      Enabled\n    IBT:        Enabled\n    Stripped:   No\n\n```c\n// 25.c 伪代码\n#include <stdio.h>\n\nint main(){\n\tunsigned int random;\n\trandom = rand();\t// random value!\n\n\tunsigned int key=0;\n\tscanf(\"%d\", &key);\n\n\tif( (key ^ random) == 0xcafebabe ){\n\t\tprintf(\"Good!\\n\");\n\t\tsetregid(getegid(), getegid());\n\t\tsystem(\"/bin/cat flag\");\n\t\treturn 0;\n\t}\n\n\tprintf(\"Wrong, maybe you should try 2^32 cases.\\n\");\n\treturn 0;\n}\n\n```\n\"",
+  "checkpoint": [
+    {
+      "伪随机数": 0.4
+    },
+    {
+      "0xcafebabe": 0.4
+    },
+    {
+      "key ^ random": 0.2
+    }
+  ],
+  "matchingmethod": [
+    "normal",
+    "normal",
+    "normal"
+  ]
+}
