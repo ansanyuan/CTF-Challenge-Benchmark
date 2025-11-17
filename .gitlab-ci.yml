@@ -4,10 +4,14 @@ include:
     file: 'docker/docker.yml'
   - component: "$CI_SERVER_FQDN/$CI_PROJECT_PATH/evaluate@$CI_COMMIT_SHA"
     inputs:
-      BASE_URL: "http://100.64.8.2:8000/v1"
-      MODEL_NAME: "HIVE0-36B-1029-sft"
-      API_KEY: "meow"
-      DATASETS_PATH: "rewards"
+      BASE_URL: 
+        default: "http://100.64.8.2:8000/v1"
+      MODEL_NAME: 
+        default: "HIVE0-36B-1029-sft"
+      API_KEY: 
+        default: "meow"
+      DATASETS_PATH: 
+        default: "rewards"
 
 stages:
   - build

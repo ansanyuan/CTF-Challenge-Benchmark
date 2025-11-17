@@ -21,10 +21,10 @@ evaluate:
   image: "docker.cat/gitlab/ccb:$TAG_NAME"
   variables:
     TAG_NAME: ${CI_COMMIT_SHORT_SHA}
-    MODEL_NAME: "HIVE0-36B-1029-sft"
-    API_KEY: "meow"
-    DATASETS_PATH: "rewards"
-    BASE_URL: "http://100.64.8.2:8000/v1"
+    MODEL_NAME: $[[ inputs.MODEL_NAME ]]
+    API_KEY: $[[ inputs.API_KEY ]]
+    DATASETS_PATH: $[[ inputs.DATASETS_PATH ]]
+    BASE_URL: $[[ inputs.BASE_URL ]]
     MAX_CONCURRENT_REQUESTS: 100
   script:
     - ccb --datasets-path $DATASETS_PATH --model-name $MODEL_NAME --api-key $API_KEY --base-url $BASE_URL --max-concurrent-requests $MAX_CONCURRENT_REQUESTS
