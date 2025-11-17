@@ -1,3 +1,21 @@
+
+spec:
+  inputs:
+    BASE_URL:
+      default: "http://100.64.8.2:8000/v1"
+      type: string
+    MODEL_NAME:
+      default: "HIVE0-36B-1029-sft"
+      type: string
+    API_KEY:
+      default: "meow"
+      type: string
+    DATASETS_PATH:
+      default: "rewards"
+      type: string
+    
+---
+
 variables:
   TAG_NAME: latest  # 默认值
 evaluate:
