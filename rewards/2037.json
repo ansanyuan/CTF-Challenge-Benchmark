@@ -1,0 +1,11 @@
+{
+  "topic": "发现Windows主机异常创建计划任务（Event ID 4698），如何通过任务名称、执行路径、作者字段快速判断是否为持久化后门？",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

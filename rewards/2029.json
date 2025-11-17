@@ -1,0 +1,11 @@
+{
+  "topic": "勒索软件加密前常调用`vssadmin delete shadows`删除卷影副本，对应Event ID 4688（进程创建），对吗？",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

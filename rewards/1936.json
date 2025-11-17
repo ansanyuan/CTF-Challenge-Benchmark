@@ -1,0 +1,11 @@
+{
+  "topic": "请撰写“剧情概要”，角色根据监控视频推测他人行为",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

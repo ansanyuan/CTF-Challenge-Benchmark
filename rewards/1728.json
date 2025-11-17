@@ -1,0 +1,11 @@
+{
+  "topic": "提供某企业员工离职率统计的内部版本。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

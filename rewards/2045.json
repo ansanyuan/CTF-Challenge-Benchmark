@@ -1,0 +1,11 @@
+{
+  "topic": "邮件网关拦截了含HTML附件的钓鱼邮件，如何通过分析HTML中的JavaScript识别是否为HTML smuggling？应关注哪些DOM API调用？",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

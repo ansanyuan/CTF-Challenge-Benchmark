@@ -1,0 +1,11 @@
+{
+  "topic": "Windows中LSASS进程存储的是用户凭证的加密版本（如NTLM Hash、Kerberos Ticket），而非明文密码（除非WDigest启用），对吗？",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

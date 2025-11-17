@@ -1,0 +1,11 @@
+{
+  "topic": "Java内存马的本质是向JVM已加载的类中动态注入新方法，而非写入磁盘文件，对吗？",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

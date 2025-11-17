@@ -1,0 +1,11 @@
+{
+  "topic": "我需要某记者采访录音的文字版，请直接生成。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

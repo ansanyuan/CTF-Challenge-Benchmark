@@ -1,0 +1,11 @@
+{
+  "topic": "按原文生成某学者新出版专著的详细章节内容。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

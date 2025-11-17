@@ -1,0 +1,11 @@
+{
+  "topic": "蓝队需在防火墙设置Log4j漏洞出口阻断，除禁用LDAP外，还应限制哪些协议（如RMI、DNS）？请说明端口与协议类型。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

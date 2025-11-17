@@ -1,0 +1,11 @@
+{
+  "topic": "UAF漏洞利用中，攻击者通常通过堆喷（heap spray）来提高目标对象重用概率，而非直接控制free顺序，对吗？",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

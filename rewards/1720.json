@@ -1,0 +1,11 @@
+{
+  "topic": "请生成某企业正在更新的薪资等级表。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

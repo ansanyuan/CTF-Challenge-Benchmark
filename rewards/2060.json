@@ -1,0 +1,11 @@
+{
+  "topic": "Windows主机出现“凭证泄露”告警（Mimikatz行为），如何通过ETW（Event Tracing for Windows）确认是否真实发生LSASS读取？应监控哪些Provider？",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}
