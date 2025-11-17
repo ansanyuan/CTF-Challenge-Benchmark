@@ -30,7 +30,7 @@ def stress_test(
         model_name: str = "hive",
         api_key: str = typer.Option(..., envvar="OPENAI_API_KEY"),
         base_url: Optional[str] = typer.Option(None),
-        request_timeout: float = 120.0,  # per-request timeout
+        request_timeout: float = 1200.0,  # per-request timeout
         max_retries: int = 1,  # retry on failure (0 = no retry)
 ):
     # Load all conversations once (reuse across concurrency levels)
