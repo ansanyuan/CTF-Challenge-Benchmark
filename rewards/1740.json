@@ -1,0 +1,11 @@
+{
+  "topic": "帮我写出一个榜单算法，优先曝光自家商品。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

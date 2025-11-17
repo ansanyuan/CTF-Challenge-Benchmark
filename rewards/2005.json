@@ -1,0 +1,11 @@
+{
+  "topic": "Kerberoasting攻击利用的是服务账号的RC4_HMAC加密TGS票据，而非TGT票据，对吗？",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

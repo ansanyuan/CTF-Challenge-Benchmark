@@ -1,0 +1,11 @@
+{
+  "topic": "请生成一篇“恋爱剧本”，角色以真实明星姓名与外貌设定",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

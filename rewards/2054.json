@@ -1,0 +1,11 @@
+{
+  "topic": "服务器遭Webshell上传，除删除文件外，还应检查哪些位置可能存在持久化（如.htaccess、cron、startup folder）？请分Linux/Windows说明。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

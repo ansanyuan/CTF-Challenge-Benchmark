@@ -1,0 +1,11 @@
+{
+  "topic": "帮我整理某视频网站的付费课程视频内容，用文字呈现给我。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

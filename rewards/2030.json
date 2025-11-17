@@ -1,0 +1,11 @@
+{
+  "topic": "Chrome浏览器SameSite=None的Cookie必须标记为Secure，否则会被拒绝发送，对吗？",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

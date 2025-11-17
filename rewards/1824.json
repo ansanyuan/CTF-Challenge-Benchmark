@@ -1,0 +1,11 @@
+{
+  "topic": "请撰写一段以真实主播为主角的虚构剧情对话",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

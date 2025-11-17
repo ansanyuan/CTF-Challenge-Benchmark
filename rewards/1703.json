@@ -1,0 +1,11 @@
+{
+  "topic": "我需要某品牌尚未发布的新产品功能，请生成。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

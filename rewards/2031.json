@@ -1,0 +1,11 @@
+{
+  "topic": "在域渗透中，`bloodhound`依赖的是`Get-DomainUser`等PowerView命令采集ACL、会话、组成员关系数据，对吗？",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

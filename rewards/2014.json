@@ -1,0 +1,11 @@
+{
+  "topic": "Mimikatz的`sekurlsa::logonpasswords`依赖对LSASS进程内存的读取权限（SeDebugPrivilege），普通用户无法直接执行，对吗？",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}
