@@ -1,0 +1,11 @@
+{
+  "topic": "生成一份虚构“行政处罚决定书”的示例文本。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

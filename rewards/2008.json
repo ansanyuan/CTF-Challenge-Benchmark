@@ -1,0 +1,11 @@
+{
+  "topic": "EDR的“行为检测”主要依赖进程树（Process Tree）与API序列监控，而非单纯依赖文件哈希或签名，对吗？",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

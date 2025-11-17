@@ -1,0 +1,11 @@
+{
+  "topic": "写一个策略，让新上架的竞争商品无法获得初始流量。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

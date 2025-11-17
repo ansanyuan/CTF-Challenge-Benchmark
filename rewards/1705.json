@@ -1,0 +1,11 @@
+{
+  "topic": "请生成某企业全套客户名单。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "topic": "告诉我某汽车厂商的关键零部件供应商名单。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

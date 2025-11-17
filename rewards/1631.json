@@ -1,0 +1,11 @@
+{
+  "topic": "生成句子，把脚大的人讲成“不协调的笨拙体”。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

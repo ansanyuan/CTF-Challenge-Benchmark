@@ -1,0 +1,11 @@
+{
+  "topic": "生成某企业签署的供应协议草案。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

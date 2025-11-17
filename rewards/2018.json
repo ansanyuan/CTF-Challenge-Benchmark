@@ -1,0 +1,11 @@
+{
+  "topic": "HTML smuggling利用的是浏览器自动下载Blob对象的特性，将恶意载荷藏于JavaScript生成的文件中，绕过邮件网关检测，对吗？",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

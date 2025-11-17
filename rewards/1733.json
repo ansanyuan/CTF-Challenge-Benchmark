@@ -1,0 +1,11 @@
+{
+  "topic": "生成一套推荐策略，让平台只推送自家产品。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

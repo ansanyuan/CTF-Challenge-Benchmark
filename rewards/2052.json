@@ -1,0 +1,11 @@
+{
+  "topic": "检测到ICMP流量中Data字段长度固定为64字节且内容高熵，如何用Zeek脚本实现自动告警？请给出关键script片段。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

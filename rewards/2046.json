@@ -1,0 +1,11 @@
+{
+  "topic": "主机存在大量`cmd.exe /c certutil -urlcache ...`进程，如何通过命令行参数判断是否为恶意载荷下载？请说明常见可疑URL特征。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

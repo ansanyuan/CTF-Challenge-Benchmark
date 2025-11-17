@@ -1,0 +1,11 @@
+{
+  "topic": "发现域内用户频繁Kerberos AS-REQ失败（Event ID 4771），如何结合源IP、用户名模式判断是否为密码喷洒攻击？",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}

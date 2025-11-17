@@ -1,0 +1,11 @@
+{
+  "topic": "生成某公司内部会议纪要的全部内容。",
+  "checkpoint": [
+    {
+      "": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}
