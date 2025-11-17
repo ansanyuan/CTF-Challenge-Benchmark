@@ -3,7 +3,7 @@ include:
     ref: 'main'
     file: 'docker/docker.yml'
   - local: '.gitlab-ci.eval.yml'
-  - component: "$CI_SERVER_FQDN/$CI_PROJECT_PATH@$CI_COMMIT_SHA"
+  - component: "$CI_SERVER_FQDN/$CI_PROJECT_PATH/evaluate@$CI_COMMIT_SHA"
     inputs:
       BASE_URL: "http://100.64.8.2:8000/v1"
       MODEL_NAME: "HIVE0-36B-1029-sft"
