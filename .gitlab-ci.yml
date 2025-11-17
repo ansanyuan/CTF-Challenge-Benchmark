@@ -21,7 +21,6 @@ include:
     file: 'docker/docker.yml'
   - component: "$CI_SERVER_FQDN/$CI_PROJECT_PATH/evaluate@$CI_COMMIT_SHA"
     inputs:
-      TAG_NAME: ${CI_COMMIT_SHORT_SHA}
       MODEL_NAME: $[[ inputs.MODEL_NAME ]]
       API_KEY: $[[ inputs.API_KEY ]]
       DATASETS_PATH: $[[ inputs.DATASETS_PATH ]]
