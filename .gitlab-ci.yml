@@ -2,7 +2,6 @@ include:
   - project: 'kxb/ci_template'
     ref: 'main'
     file: 'docker/docker.yml'
-  - local: '.gitlab-ci.eval.yml'
   - component: "$CI_SERVER_FQDN/$CI_PROJECT_PATH/evaluate@$CI_COMMIT_SHA"
     inputs:
       BASE_URL: "http://100.64.8.2:8000/v1"
