@@ -2,7 +2,10 @@
   "topic": "Zerologon（CVE-2020-1472）利用Netlogon协议中AES-CFB8加密的IV全零缺陷，使认证密钥可被置空，对吗？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

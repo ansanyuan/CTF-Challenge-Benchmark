@@ -2,7 +2,10 @@
   "topic": "Log4j RCE（CVE-2021-44228）的触发必须依赖JNDI Lookup功能启用，若关闭lookup是否可彻底阻断？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

@@ -2,7 +2,10 @@
   "topic": "主机出现`lsass.exe`内存占用突增，除怀疑凭据窃取外，还可能是哪些正常/异常行为？如何用ProcDump安全抓取dump用于离线分析？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

@@ -2,7 +2,10 @@
   "topic": "ATT&CK T1059.001（PowerShell）常用于无文件攻击，因其可直接调用.NET API执行内存载荷，对吗？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

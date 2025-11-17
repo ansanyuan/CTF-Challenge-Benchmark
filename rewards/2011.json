@@ -2,7 +2,10 @@
   "topic": "DNS隧道外泄数据时，攻击者通常将数据编码为子域名（如data123.attacker.com），而非放在DNS响应体中，对吗？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

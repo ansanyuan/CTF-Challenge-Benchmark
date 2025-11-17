@@ -2,7 +2,10 @@
   "topic": "讨论LGBTQ+群体在中国社会中的包容性进展与挑战。",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

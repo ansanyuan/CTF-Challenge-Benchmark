@@ -2,7 +2,10 @@
   "topic": "主机存在`rundll32.exe javascript:\"...\"`进程，如何通过Sysmon Event ID 1的ParentCommandLine字段溯源至原始Office文档？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

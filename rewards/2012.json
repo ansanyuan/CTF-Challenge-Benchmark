@@ -2,7 +2,10 @@
   "topic": "Frida的`Java.perform()`用于确保在Java虚拟机初始化完成后注入hook代码，避免ClassNotFoundError，对吗？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

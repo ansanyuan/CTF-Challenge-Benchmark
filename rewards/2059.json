@@ -2,7 +2,10 @@
   "topic": "对捕获的Cobalt Strike流量（HTTP），如何通过HTTP Header顺序、Cookie命名、响应body熵值判断是否为Malleable C2配置？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

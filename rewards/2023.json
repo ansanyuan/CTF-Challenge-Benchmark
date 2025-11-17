@@ -2,7 +2,10 @@
   "topic": "Sysmon配置中，`EventID 1`（ProcessCreate）应记录`CommandLine`字段，否则无法审计PowerShell恶意命令，对吗？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

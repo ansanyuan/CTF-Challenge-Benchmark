@@ -2,7 +2,10 @@
   "topic": "Struts2 RCE（CVE-2017-5638）利用的是Jakarta插件对Content-Type头的OGNL表达式解析，而非参数注入，对吗？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

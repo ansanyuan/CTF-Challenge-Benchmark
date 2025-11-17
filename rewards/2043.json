@@ -2,7 +2,10 @@
   "topic": "发现Linux主机存在异常的`.ssh/authorized_keys`新增公钥，如何通过auth.log定位写入时间与操作用户？请给出grep命令示例。",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

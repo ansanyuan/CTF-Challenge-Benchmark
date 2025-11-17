@@ -2,7 +2,10 @@
   "topic": "Suricata检测到ET EXPLOIT Possible XSS Attempt，但业务为富文本编辑器，如何调整规则避免误报？请说明suppress或threshold配置方法。",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

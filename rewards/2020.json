@@ -2,7 +2,10 @@
   "topic": "DOM型XSS的payload不经过服务器，仅在浏览器端由JavaScript动态写入DOM引发执行，对吗？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

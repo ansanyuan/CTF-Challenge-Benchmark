@@ -2,7 +2,10 @@
   "topic": "ATT&CK T1071.001（Web Protocols）中，C2 over HTTP常使用Base64编码+User-Agent伪装，而非明文传输命令，对吗？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

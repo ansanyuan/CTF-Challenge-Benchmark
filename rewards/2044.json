@@ -2,7 +2,10 @@
   "topic": "EDR未覆盖的旧服务器被攻陷，如何利用Sysmon+Windows Event Forwarding（WEF）实现轻量级集中监控？请说明订阅配置要点。",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

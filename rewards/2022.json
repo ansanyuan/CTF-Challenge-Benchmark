@@ -2,7 +2,10 @@
   "topic": "PsExec横向移动会在目标系统创建PSEXESVC服务，并产生Event ID 4697（服务创建）与4624（服务登录），对吗？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

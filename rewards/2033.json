@@ -2,7 +2,10 @@
   "topic": "服务器存在Log4j漏洞但无法立即升级，除设置`log4j2.formatMsgNoLookups=true`外，还有哪些WAF规则可临时拦截？请给出具体正则示例。",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

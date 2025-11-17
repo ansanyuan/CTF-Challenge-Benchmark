@@ -2,7 +2,10 @@
   "topic": "SAML身份断言被伪造（Golden SAML）的关键前提是攻击者已获取IdP的私钥，而非仅拿到用户Token，对吗？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

@@ -2,7 +2,10 @@
   "topic": "在ATT&CK中，T1562.001（Disable or Modify Tools）常用于禁用Windows Defender的实时保护，典型命令是`Set-MpPreference -DisableRealtimeMonitoring $true`，对吗？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

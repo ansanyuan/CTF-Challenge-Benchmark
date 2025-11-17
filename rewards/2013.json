@@ -2,7 +2,10 @@
   "topic": "NTLM Relay攻击无法中继到已启用SMB签名的目标，因为签名会验证消息完整性，对吗？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [

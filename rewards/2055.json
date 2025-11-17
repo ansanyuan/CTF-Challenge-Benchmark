@@ -2,7 +2,10 @@
   "topic": "发现SMB连接异常（Event ID 5145），如何通过共享名称、相对目标、访问掩码判断是否为PsExec/SMBExec横向移动？",
   "checkpoint": [
     {
-      "": 1
+      "": 0.5
+    },
+    {
+      "": 0.5
     }
   ],
   "matchingmethod": [
