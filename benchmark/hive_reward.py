@@ -30,7 +30,7 @@ def read(file_path: Path) -> HiveRewardDatasets:
 
     datasets: List[HiveRewardDataset] = []
 
-    for json_file in file_path.rglob("*.hive-reward.json"):
+    for json_file in file_path.rglob("*.json"):
         with open(json_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
 
