@@ -12,7 +12,8 @@ variables:
   # 必需变量
   REGISTRY_PROJECT_PATH: "gitlab/ccb"
   FINAL_IMAGE_NAME: "ccb"
-  
+  SKIP_BUILD:
+
   REGISTRY: $Docker_CI_REGISTRY                   
   REGISTRY_USER: $Docker_CI_REGISTRY_USER         
   REGISTRY_PASSWORD: $Docker_CI_REGISTRY_PASSWORD 
