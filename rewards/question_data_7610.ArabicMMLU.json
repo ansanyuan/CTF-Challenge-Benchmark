@@ -1,0 +1,11 @@
+{
+  "topic": "接下来需要你回答一道问题，你只需要输出问题的答案即可，例如：1+1=？A2B3C4D5，答案是 A，所以你要输出 A。下面是问题，请按照我上面交给你的例子回答：جميع العبارات المنطقية الآتية يكون ناتجها 1 عندما: :=d=1, 0=C, 1=B, 0=A، ما عدا: ANOT(A OR NOT C) AND NOT B OR DB(NOT A OR B) AND NOT(C OR NOT D)C) A AND C) OR B)OR NOT C AND DDNOT(NOT B AND NOT C) AND A AND D",
+  "checkpoint": [
+    {
+      "D": 1
+    }
+  ],
+  "matchingmethod": [
+    "normal"
+  ]
+}
